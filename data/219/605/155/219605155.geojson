@@ -2,13 +2,14 @@
   "id": 219605155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.194507,35.214457,-90.194507,35.214457",
     "geom:latitude":35.214457,
     "geom:longitude":-90.194507,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 Mound City Rd",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219605155,
-    "wof:lastmodified":1449072112,
+    "wof:lastmodified":1466324586,
     "wof:name":"County Of Crittenden",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "justice"
     ]
 },
-  "bbox": [-90.194507,35.214457,-90.194507,35.214457],
+  "bbox": [
+    -90.194507,
+    35.214457,
+    -90.194507,
+    35.214457
+],
   "geometry": {"coordinates":[-90.194507,35.214457],"type":"Point"}
 }

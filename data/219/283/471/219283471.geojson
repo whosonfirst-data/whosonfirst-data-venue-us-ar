@@ -2,13 +2,14 @@
   "id": 219283471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.053514,34.120891,-93.053514,34.120891",
     "geom:latitude":34.120891,
     "geom:longitude":-93.053514,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 S 6th St",
     "sg:city":"Arkadelphia",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":219283471,
-    "wof:lastmodified":1449071446,
+    "wof:lastmodified":1466321596,
     "wof:name":"Bumper To Bumper/Crow Burlingame Co.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "truck"
     ]
 },
-  "bbox": [-93.053514,34.120891,-93.053514,34.120891],
-  "geometry": {"coordinates":[-93.053514,34.120891],"type":"Point"}
+  "bbox": [
+    -93.053514,
+    34.120891,
+    -93.053514,
+    34.120891
+],
+  "geometry": {"coordinates":[-93.05351400000001,34.120891],"type":"Point"}
 }

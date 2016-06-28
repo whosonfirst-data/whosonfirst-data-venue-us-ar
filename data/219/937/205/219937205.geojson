@@ -2,13 +2,14 @@
   "id": 219937205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.391914,36.057618,-94.391914,36.057618",
     "geom:latitude":36.057618,
     "geom:longitude":-94.391914,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14015 N Wedington Blacktop Rd",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219937205,
-    "wof:lastmodified":1449071059,
+    "wof:lastmodified":1466325223,
     "wof:name":"Johnson Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-94.391914,36.057618,-94.391914,36.057618],
+  "bbox": [
+    -94.391914,
+    36.057618,
+    -94.391914,
+    36.057618
+],
   "geometry": {"coordinates":[-94.391914,36.057618],"type":"Point"}
 }

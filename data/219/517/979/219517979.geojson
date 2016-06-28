@@ -2,13 +2,14 @@
   "id": 219517979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.71807,35.240814,-91.71807,35.240814",
     "geom:latitude":35.240814,
     "geom:longitude":-91.71807,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1501 W Beebe Capps Expy",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219517979,
-    "wof:lastmodified":1449072393,
+    "wof:lastmodified":1466324088,
     "wof:name":"Tobacco Superstore 13",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cigar"
     ]
 },
-  "bbox": [-91.71807,35.240814,-91.71807,35.240814],
+  "bbox": [
+    -91.71807,
+    35.240814,
+    -91.71807,
+    35.240814
+],
   "geometry": {"coordinates":[-91.71807,35.240814],"type":"Point"}
 }

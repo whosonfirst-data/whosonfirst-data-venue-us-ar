@@ -2,13 +2,14 @@
   "id": 219691861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.4867,35.993176,-90.4867,35.993176",
     "geom:latitude":35.993176,
     "geom:longitude":-90.4867,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4062 Highway 69",
     "sg:city":"Paragould",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219691861,
-    "wof:lastmodified":1449070685,
+    "wof:lastmodified":1466324701,
     "wof:name":"B & T Auto Sales Cellular",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cars-wholesale"
     ]
 },
-  "bbox": [-90.4867,35.993176,-90.4867,35.993176],
+  "bbox": [
+    -90.4867,
+    35.993176,
+    -90.4867,
+    35.993176
+],
   "geometry": {"coordinates":[-90.4867,35.993176],"type":"Point"}
 }

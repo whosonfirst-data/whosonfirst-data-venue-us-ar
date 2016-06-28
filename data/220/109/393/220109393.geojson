@@ -2,13 +2,14 @@
   "id": 220109393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.034897,35.295144,-94.034897,35.295144",
     "geom:latitude":35.295144,
     "geom:longitude":-94.034897,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"805 Edwards St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220109393,
-    "wof:lastmodified":1449074295,
+    "wof:lastmodified":1466322367,
     "wof:name":"X Stream Carpet Clean",
     "wof:parent_id":85885347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "carpet"
     ]
 },
-  "bbox": [-94.034897,35.295144,-94.034897,35.295144],
+  "bbox": [
+    -94.034897,
+    35.295144,
+    -94.034897,
+    35.295144
+],
   "geometry": {"coordinates":[-94.034897,35.295144],"type":"Point"}
 }

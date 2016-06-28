@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102391761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.293906,35.353216,-93.293906,35.353216",
     "geom:latitude":35.353216,
     "geom:longitude":-93.293906,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"237 Star Y Ln",
     "sg:city":"London",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102391761,
-    "wof:lastmodified":1449069311,
+    "wof:lastmodified":1466324481,
     "wof:name":"Marshall C & Sandra Young",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.293906,35.353216,-93.293906,35.353216],
-  "geometry": {"coordinates":[-93.293906,35.353216],"type":"Point"}
+  "bbox": [
+    -93.293906,
+    35.353216,
+    -93.293906,
+    35.353216
+],
+  "geometry": {"coordinates":[-93.29390600000001,35.353216],"type":"Point"}
 }

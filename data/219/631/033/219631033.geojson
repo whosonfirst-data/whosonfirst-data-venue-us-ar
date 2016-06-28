@@ -2,13 +2,14 @@
   "id": 219631033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.681063,35.8183,-90.681063,35.8183",
     "geom:latitude":35.8183,
     "geom:longitude":-90.681063,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2209 Grant Ave",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":219631033,
-    "wof:lastmodified":1449071487,
+    "wof:lastmodified":1466324625,
     "wof:name":"McCoy Allison",
     "wof:parent_id":85836541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "public"
     ]
 },
-  "bbox": [-90.681063,35.8183,-90.681063,35.8183],
-  "geometry": {"coordinates":[-90.681063,35.8183],"type":"Point"}
+  "bbox": [
+    -90.681063,
+    35.8183,
+    -90.681063,
+    35.8183
+],
+  "geometry": {"coordinates":[-90.68106299999999,35.8183],"type":"Point"}
 }

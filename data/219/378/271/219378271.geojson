@@ -2,13 +2,14 @@
   "id": 219378271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.445659,35.109562,-92.445659,35.109562",
     "geom:latitude":35.109562,
     "geom:longitude":-92.445659,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2323 Washington Ave Ste 2",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219378271,
-    "wof:lastmodified":1449072771,
+    "wof:lastmodified":1466322658,
     "wof:name":"Source Mortgage Resource Center Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "bureau"
     ]
 },
-  "bbox": [-92.445659,35.109562,-92.445659,35.109562],
-  "geometry": {"coordinates":[-92.445659,35.109562],"type":"Point"}
+  "bbox": [
+    -92.445659,
+    35.109562,
+    -92.445659,
+    35.109562
+],
+  "geometry": {"coordinates":[-92.44565900000001,35.109562],"type":"Point"}
 }

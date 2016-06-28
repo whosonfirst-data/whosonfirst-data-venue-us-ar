@@ -2,13 +2,14 @@
   "id": 219570607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.904114,35.925276,-89.904114,35.925276",
     "geom:latitude":35.925276,
     "geom:longitude":-89.904114,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"322 S 2nd St",
     "sg:city":"Blytheville",
     "sg:classifiers":[
@@ -73,10 +74,11 @@
         }
     ],
     "wof:id":219570607,
-    "wof:lastmodified":1449072476,
+    "wof:lastmodified":1466324474,
     "wof:name":"PCS Answering Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -91,6 +93,11 @@
         "mail"
     ]
 },
-  "bbox": [-89.904114,35.925276,-89.904114,35.925276],
-  "geometry": {"coordinates":[-89.904114,35.925276],"type":"Point"}
+  "bbox": [
+    -89.904114,
+    35.925276,
+    -89.904114,
+    35.925276
+],
+  "geometry": {"coordinates":[-89.90411400000001,35.925276],"type":"Point"}
 }

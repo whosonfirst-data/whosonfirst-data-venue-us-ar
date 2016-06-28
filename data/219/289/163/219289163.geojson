@@ -2,13 +2,14 @@
   "id": 219289163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.148789,34.26178,-93.148789,34.26178",
     "geom:latitude":34.26178,
     "geom:longitude":-93.148789,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"363 Daniel Dr",
     "sg:city":"Bismarck",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219289163,
-    "wof:lastmodified":1449073329,
+    "wof:lastmodified":1466321644,
     "wof:name":"Precious Memories Media",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.148789,34.26178,-93.148789,34.26178],
-  "geometry": {"coordinates":[-93.148789,34.26178],"type":"Point"}
+  "bbox": [
+    -93.148789,
+    34.26178,
+    -93.148789,
+    34.26178
+],
+  "geometry": {"coordinates":[-93.14878899999999,34.26178],"type":"Point"}
 }

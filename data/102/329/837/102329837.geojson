@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102329837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.073653,34.496495,-93.073653,34.496495",
     "geom:latitude":34.496495,
     "geom:longitude":-93.073653,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"403 Albert Pike Rd",
     "sg:city":"Hot Springs National Park",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102329837,
-    "wof:lastmodified":1449068447,
+    "wof:lastmodified":1466323708,
     "wof:name":"William D Wehurt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.073653,34.496495,-93.073653,34.496495],
-  "geometry": {"coordinates":[-93.073653,34.496495],"type":"Point"}
+  "bbox": [
+    -93.073653,
+    34.496495,
+    -93.073653,
+    34.496495
+],
+  "geometry": {"coordinates":[-93.07365299999999,34.496495],"type":"Point"}
 }

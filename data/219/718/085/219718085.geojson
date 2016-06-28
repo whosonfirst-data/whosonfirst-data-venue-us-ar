@@ -2,13 +2,14 @@
   "id": 219718085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.291601,36.260577,-90.291601,36.260577",
     "geom:latitude":36.260577,
     "geom:longitude":-90.291601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"409 S Stewart St",
     "sg:city":"Rector",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219718085,
-    "wof:lastmodified":1449071156,
+    "wof:lastmodified":1466324879,
     "wof:name":"Rector Community Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "recreation"
     ]
 },
-  "bbox": [-90.291601,36.260577,-90.291601,36.260577],
+  "bbox": [
+    -90.291601,
+    36.260577,
+    -90.291601,
+    36.260577
+],
   "geometry": {"coordinates":[-90.291601,36.260577],"type":"Point"}
 }

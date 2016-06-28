@@ -2,13 +2,14 @@
   "id": 219835267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.182969,36.054642,-94.182969,36.054642",
     "geom:latitude":36.054642,
     "geom:longitude":-94.182969,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"844 S Vendor Dr Ste 3",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219835267,
-    "wof:lastmodified":1449070903,
+    "wof:lastmodified":1466325004,
     "wof:name":"Conwards Heating & Cooling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "heating"
     ]
 },
-  "bbox": [-94.182969,36.054642,-94.182969,36.054642],
+  "bbox": [
+    -94.182969,
+    36.054642,
+    -94.182969,
+    36.054642
+],
   "geometry": {"coordinates":[-94.182969,36.054642],"type":"Point"}
 }

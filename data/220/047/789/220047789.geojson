@@ -2,13 +2,14 @@
   "id": 220047789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.048447,35.939964,-94.048447,35.939964",
     "geom:latitude":35.939964,
     "geom:longitude":-94.048447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12291 S Whitehouse",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":220047789,
-    "wof:lastmodified":1449074573,
+    "wof:lastmodified":1466320591,
     "wof:name":"F & S Custom Siding, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-94.048447,35.939964,-94.048447,35.939964],
+  "bbox": [
+    -94.048447,
+    35.939964,
+    -94.048447,
+    35.939964
+],
   "geometry": {"coordinates":[-94.048447,35.939964],"type":"Point"}
 }

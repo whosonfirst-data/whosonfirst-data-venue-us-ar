@@ -2,13 +2,14 @@
   "id": 219838801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.155205,36.08573,-94.155205,36.08573",
     "geom:latitude":36.08573,
     "geom:longitude":-94.155205,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1753 N College Ave",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219838801,
-    "wof:lastmodified":1449070822,
+    "wof:lastmodified":1466325086,
     "wof:name":"Achieve Medical Weight Loss Fayetteville",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "weight"
     ]
 },
-  "bbox": [-94.155205,36.08573,-94.155205,36.08573],
+  "bbox": [
+    -94.155205,
+    36.08573,
+    -94.155205,
+    36.08573
+],
   "geometry": {"coordinates":[-94.155205,36.08573],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220107865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.371684,35.577694,-94.371684,35.577694",
     "geom:latitude":35.577694,
     "geom:longitude":-94.371684,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10251 N Highway 59",
     "sg:city":"Cedarville",
     "sg:classifiers":[
@@ -67,10 +68,11 @@
         }
     ],
     "wof:id":220107865,
-    "wof:lastmodified":1449074067,
+    "wof:lastmodified":1466322348,
     "wof:name":"D & L Salvage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -84,6 +86,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-94.371684,35.577694,-94.371684,35.577694],
+  "bbox": [
+    -94.371684,
+    35.577694,
+    -94.371684,
+    35.577694
+],
   "geometry": {"coordinates":[-94.371684,35.577694],"type":"Point"}
 }

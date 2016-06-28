@@ -2,13 +2,14 @@
   "id": 353503373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.012323,34.497723,-94.012323,34.497723",
     "geom:latitude":34.497723,
     "geom:longitude":-94.012323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5693 State Hwy 8",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":353503373,
-    "wof:lastmodified":1449020798,
+    "wof:lastmodified":1466320427,
     "wof:name":"For The Love Of Dogs Pet Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "washing"
     ]
 },
-  "bbox": [-94.012323,34.497723,-94.012323,34.497723],
-  "geometry": {"coordinates":[-94.012323,34.497723],"type":"Point"}
+  "bbox": [
+    -94.012323,
+    34.497723,
+    -94.012323,
+    34.497723
+],
+  "geometry": {"coordinates":[-94.01232299999999,34.497723],"type":"Point"}
 }

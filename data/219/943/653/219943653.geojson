@@ -2,13 +2,14 @@
   "id": 219943653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.139689,36.254181,-94.139689,36.254181",
     "geom:latitude":36.254181,
     "geom:longitude":-94.139689,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"213 W Monroe Ave Ste C",
     "sg:city":"Lowell",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219943653,
-    "wof:lastmodified":1449071332,
+    "wof:lastmodified":1466325179,
     "wof:name":"E M S I",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "insurance"
     ]
 },
-  "bbox": [-94.139689,36.254181,-94.139689,36.254181],
+  "bbox": [
+    -94.139689,
+    36.254181,
+    -94.139689,
+    36.254181
+],
   "geometry": {"coordinates":[-94.139689,36.254181],"type":"Point"}
 }

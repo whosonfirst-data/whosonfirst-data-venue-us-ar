@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102345257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.494206,34.763664,-92.494206,34.763664",
     "geom:latitude":34.763664,
     "geom:longitude":-92.494206,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18715 Kanis Rd",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102345257,
-    "wof:lastmodified":1449070001,
+    "wof:lastmodified":1466323918,
     "wof:name":"Hebron Baptist Church Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.494206,34.763664,-92.494206,34.763664],
-  "geometry": {"coordinates":[-92.494206,34.763664],"type":"Point"}
+  "bbox": [
+    -92.494206,
+    34.763664,
+    -92.494206,
+    34.763664
+],
+  "geometry": {"coordinates":[-92.49420600000001,34.763664],"type":"Point"}
 }

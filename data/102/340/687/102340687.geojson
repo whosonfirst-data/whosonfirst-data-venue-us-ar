@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102340687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.421506,35.368317,-94.421506,35.368317",
     "geom:latitude":35.368317,
     "geom:longitude":-94.421506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 Towson Ave",
     "sg:city":"Fort Smith",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102340687,
-    "wof:lastmodified":1449069646,
+    "wof:lastmodified":1466323884,
     "wof:name":"Ed Walkers Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.421506,35.368317,-94.421506,35.368317],
-  "geometry": {"coordinates":[-94.421506,35.368317],"type":"Point"}
+  "bbox": [
+    -94.421506,
+    35.368317,
+    -94.421506,
+    35.368317
+],
+  "geometry": {"coordinates":[-94.42150599999999,35.368317],"type":"Point"}
 }

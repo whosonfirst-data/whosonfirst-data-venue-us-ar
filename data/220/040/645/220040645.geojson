@@ -2,13 +2,14 @@
   "id": 220040645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.11357,36.184579,-94.11357,36.184579",
     "geom:latitude":36.184579,
     "geom:longitude":-94.11357,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1423 E Emma Ave",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220040645,
-    "wof:lastmodified":1449074848,
+    "wof:lastmodified":1466320548,
     "wof:name":"Rodeo of the Ozarks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rodeo"
     ]
 },
-  "bbox": [-94.11357,36.184579,-94.11357,36.184579],
+  "bbox": [
+    -94.11357,
+    36.184579,
+    -94.11357,
+    36.184579
+],
   "geometry": {"coordinates":[-94.11357,36.184579],"type":"Point"}
 }

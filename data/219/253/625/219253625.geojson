@@ -2,13 +2,14 @@
   "id": 219253625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.02528,33.460762,-94.02528,33.460762",
     "geom:latitude":33.460762,
     "geom:longitude":-94.02528,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 Arkansas Blvd Ste.101",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -68,10 +69,11 @@
         }
     ],
     "wof:id":219253625,
-    "wof:lastmodified":1449073484,
+    "wof:lastmodified":1466321358,
     "wof:name":"Shelter Insurance - Casey Johnson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "homeowner"
     ]
 },
-  "bbox": [-94.02528,33.460762,-94.02528,33.460762],
+  "bbox": [
+    -94.02528,
+    33.460762,
+    -94.02528,
+    33.460762
+],
   "geometry": {"coordinates":[-94.02528,33.460762],"type":"Point"}
 }

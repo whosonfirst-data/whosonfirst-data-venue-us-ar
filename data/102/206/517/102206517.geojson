@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102206517",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.296112,33.352511,-93.296112,33.352511",
     "geom:latitude":33.352511,
     "geom:longitude":-93.296112,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 N Olive St",
     "sg:city":"Waldo",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102206517",
-    "wof:lastmodified":1449069431,
+    "wof:lastmodified":1466320820,
     "wof:name":"Lena's Take Out",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.296112,33.352511,-93.296112,33.352511],
-  "geometry": {"coordinates":[-93.296112,33.352511],"type":"Point"}
+  "bbox": [
+    -93.296112,
+    33.352511,
+    -93.296112,
+    33.352511
+],
+  "geometry": {"coordinates":[-93.29611199999999,33.352511],"type":"Point"}
 }

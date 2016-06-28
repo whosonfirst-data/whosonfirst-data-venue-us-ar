@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102209603",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.239342,33.267926,-93.239342,33.267926",
     "geom:latitude":33.267926,
     "geom:longitude":-93.239342,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"131 N Jackson St",
     "sg:city":"Magnolia",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102209603",
-    "wof:lastmodified":1449069938,
+    "wof:lastmodified":1466320915,
     "wof:name":"KVMA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.239342,33.267926,-93.239342,33.267926],
-  "geometry": {"coordinates":[-93.239342,33.267926],"type":"Point"}
+  "bbox": [
+    -93.239342,
+    33.267926,
+    -93.239342,
+    33.267926
+],
+  "geometry": {"coordinates":[-93.23934199999999,33.267926],"type":"Point"}
 }

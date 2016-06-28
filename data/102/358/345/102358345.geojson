@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102358345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.539367,34.610531,-92.539367,34.610531",
     "geom:latitude":34.610531,
     "geom:longitude":-92.539367,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4107 Scott Salem Rd",
     "sg:city":"Benton",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85817531,
+        85688549,
         85633793,
         85921383,
         102083257,
-        85688549
+        85817531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102358345,
-    "wof:lastmodified":1449068777,
+    "wof:lastmodified":1466324207,
     "wof:name":"Oak Forest Village",
     "wof:parent_id":85817531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.539367,34.610531,-92.539367,34.610531],
+  "bbox": [
+    -92.539367,
+    34.610531,
+    -92.539367,
+    34.610531
+],
   "geometry": {"coordinates":[-92.539367,34.610531],"type":"Point"}
 }

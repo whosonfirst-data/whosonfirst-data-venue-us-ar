@@ -2,13 +2,14 @@
   "id": 219906473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.199648,36.342875,-94.199648,36.342875",
     "geom:latitude":36.342875,
     "geom:longitude":-94.199648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2719 SE I St",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219906473,
-    "wof:lastmodified":1449071730,
+    "wof:lastmodified":1466325106,
     "wof:name":"Harvey Bryan M",
     "wof:parent_id":85895815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.199648,36.342875,-94.199648,36.342875],
+  "bbox": [
+    -94.199648,
+    36.342875,
+    -94.199648,
+    36.342875
+],
   "geometry": {"coordinates":[-94.199648,36.342875],"type":"Point"}
 }

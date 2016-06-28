@@ -2,13 +2,14 @@
   "id": 220044675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.118052,36.171867,-94.118052,36.171867",
     "geom:latitude":36.171867,
     "geom:longitude":-94.118052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1438 S Old Missouri Rd",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220044675,
-    "wof:lastmodified":1449074456,
+    "wof:lastmodified":1466320573,
     "wof:name":"Arkansas Comets Soccer Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "soccer"
     ]
 },
-  "bbox": [-94.118052,36.171867,-94.118052,36.171867],
-  "geometry": {"coordinates":[-94.118052,36.171867],"type":"Point"}
+  "bbox": [
+    -94.118052,
+    36.171867,
+    -94.118052,
+    36.171867
+],
+  "geometry": {"coordinates":[-94.11805200000001,36.171867],"type":"Point"}
 }

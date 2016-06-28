@@ -2,13 +2,14 @@
   "id": 219408655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.442961,35.090045,-92.442961,35.090045",
     "geom:latitude":35.090045,
     "geom:longitude":-92.442961,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1422 Caldwell St",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":219408655,
-    "wof:lastmodified":1449070829,
+    "wof:lastmodified":1466322922,
     "wof:name":"Fore & Associates Real Estate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-92.442961,35.090045,-92.442961,35.090045],
+  "bbox": [
+    -92.442961,
+    35.090045,
+    -92.442961,
+    35.090045
+],
   "geometry": {"coordinates":[-92.442961,35.090045],"type":"Point"}
 }

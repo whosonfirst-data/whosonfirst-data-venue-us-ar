@@ -2,13 +2,14 @@
   "id": 320469883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.872397,36.597959,-94.872397,36.597959",
     "geom:latitude":36.597959,
     "geom:longitude":-94.872397,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"56071 E 290 Rd",
     "sg:city":"Afton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320469883,
-    "wof:lastmodified":1449015053,
+    "wof:lastmodified":1466320556,
     "wof:name":"Standard Plumbing Heating & AC",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-94.872397,36.597959,-94.872397,36.597959],
-  "geometry": {"coordinates":[-94.872397,36.597959],"type":"Point"}
+  "bbox": [
+    -94.872397,
+    36.597959,
+    -94.872397,
+    36.597959
+],
+  "geometry": {"coordinates":[-94.87239700000001,36.597959],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336689751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.54074,36.184196,-94.54074,36.184196",
     "geom:latitude":36.184196,
     "geom:longitude":-94.54074,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 S Broadway St",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336689751,
-    "wof:lastmodified":1448997853,
+    "wof:lastmodified":1466324136,
     "wof:name":"Hoffmann Chiropractic Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.54074,36.184196,-94.54074,36.184196],
+  "bbox": [
+    -94.54074,
+    36.184196,
+    -94.54074,
+    36.184196
+],
   "geometry": {"coordinates":[-94.54074,36.184196],"type":"Point"}
 }

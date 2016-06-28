@@ -2,13 +2,14 @@
   "id": 219844393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.133124,36.116788,-94.133124,36.116788",
     "geom:latitude":36.116788,
     "geom:longitude":-94.133124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3620 N Brodie Sta",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219844393,
-    "wof:lastmodified":1449071891,
+    "wof:lastmodified":1466325020,
     "wof:name":"Main Street Transportatio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transportation"
     ]
 },
-  "bbox": [-94.133124,36.116788,-94.133124,36.116788],
+  "bbox": [
+    -94.133124,
+    36.116788,
+    -94.133124,
+    36.116788
+],
   "geometry": {"coordinates":[-94.133124,36.116788],"type":"Point"}
 }

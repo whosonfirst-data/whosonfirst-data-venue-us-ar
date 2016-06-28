@@ -2,13 +2,14 @@
   "id": 219848267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.135269,36.12307,-94.135269,36.12307",
     "geom:latitude":36.12307,
     "geom:longitude":-94.135269,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3968 N Park Creek Dr # 1",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219848267,
-    "wof:lastmodified":1449070893,
+    "wof:lastmodified":1466325105,
     "wof:name":"Designag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "architectural"
     ]
 },
-  "bbox": [-94.135269,36.12307,-94.135269,36.12307],
-  "geometry": {"coordinates":[-94.135269,36.12307],"type":"Point"}
+  "bbox": [
+    -94.135269,
+    36.12307,
+    -94.135269,
+    36.12307
+],
+  "geometry": {"coordinates":[-94.13526899999999,36.12307],"type":"Point"}
 }

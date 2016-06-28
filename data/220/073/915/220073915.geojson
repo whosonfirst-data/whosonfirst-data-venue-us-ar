@@ -2,13 +2,14 @@
   "id": 220073915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.473837,35.476056,-93.473837,35.476056",
     "geom:latitude":35.476056,
     "geom:longitude":-93.473837,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"509 N Montgomery St",
     "sg:city":"Clarksville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220073915,
-    "wof:lastmodified":1449074143,
+    "wof:lastmodified":1466321430,
     "wof:name":"Mayer Career Sevices",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "opportunity"
     ]
 },
-  "bbox": [-93.473837,35.476056,-93.473837,35.476056],
+  "bbox": [
+    -93.473837,
+    35.476056,
+    -93.473837,
+    35.476056
+],
   "geometry": {"coordinates":[-93.473837,35.476056],"type":"Point"}
 }

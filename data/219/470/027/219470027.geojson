@@ -2,13 +2,14 @@
   "id": 219470027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.699309,35.200385,-92.699309,35.200385",
     "geom:latitude":35.200385,
     "geom:longitude":-92.699309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2607 Highway 9",
     "sg:city":"Morrilton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219470027,
-    "wof:lastmodified":1449071248,
+    "wof:lastmodified":1466323558,
     "wof:name":"Justin Riedmueller",
     "wof:parent_id":85850611,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-92.699309,35.200385,-92.699309,35.200385],
+  "bbox": [
+    -92.699309,
+    35.200385,
+    -92.699309,
+    35.200385
+],
   "geometry": {"coordinates":[-92.699309,35.200385],"type":"Point"}
 }

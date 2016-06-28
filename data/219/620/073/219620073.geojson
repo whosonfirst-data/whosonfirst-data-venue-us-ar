@@ -2,13 +2,14 @@
   "id": 219620073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.781532,35.247948,-90.781532,35.247948",
     "geom:latitude":35.247948,
     "geom:longitude":-90.781532,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1924 Falls Blvd N",
     "sg:city":"Wynne",
     "sg:classifiers":[
@@ -80,10 +81,11 @@
         }
     ],
     "wof:id":219620073,
-    "wof:lastmodified":1449073614,
+    "wof:lastmodified":1466324610,
     "wof:name":"Electrical Contractors Supply Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -100,6 +102,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-90.781532,35.247948,-90.781532,35.247948],
+  "bbox": [
+    -90.781532,
+    35.247948,
+    -90.781532,
+    35.247948
+],
   "geometry": {"coordinates":[-90.781532,35.247948],"type":"Point"}
 }

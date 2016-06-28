@@ -2,13 +2,14 @@
   "id": 220109219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.04656,35.304102,-94.04656,35.304102",
     "geom:latitude":35.304102,
     "geom:longitude":-94.04656,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"802 Darrin Dr",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220109219,
-    "wof:lastmodified":1449074298,
+    "wof:lastmodified":1466322366,
     "wof:name":"Little Ones Speech",
     "wof:parent_id":85885347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "day"
     ]
 },
-  "bbox": [-94.04656,35.304102,-94.04656,35.304102],
+  "bbox": [
+    -94.04656,
+    35.304102,
+    -94.04656,
+    35.304102
+],
   "geometry": {"coordinates":[-94.04656,35.304102],"type":"Point"}
 }

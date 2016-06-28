@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102330511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.598721,34.552305,-92.598721,34.552305",
     "geom:latitude":34.552305,
     "geom:longitude":-92.598721,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1325 River St",
     "sg:city":"Benton",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102330511,
-    "wof:lastmodified":1449068952,
+    "wof:lastmodified":1466323646,
     "wof:name":"Jonner Steel Southwest",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.598721,34.552305,-92.598721,34.552305],
+  "bbox": [
+    -92.598721,
+    34.552305,
+    -92.598721,
+    34.552305
+],
   "geometry": {"coordinates":[-92.598721,34.552305],"type":"Point"}
 }

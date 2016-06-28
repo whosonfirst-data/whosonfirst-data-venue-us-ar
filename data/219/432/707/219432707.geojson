@@ -2,13 +2,14 @@
   "id": 219432707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.186376,35.562025,-92.186376,35.562025",
     "geom:latitude":35.562025,
     "geom:longitude":-92.186376,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 Stark Ave",
     "sg:city":"Higden",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219432707,
-    "wof:lastmodified":1449070323,
+    "wof:lastmodified":1466323119,
     "wof:name":"Bob & Cub Earp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.186376,35.562025,-92.186376,35.562025],
+  "bbox": [
+    -92.186376,
+    35.562025,
+    -92.186376,
+    35.562025
+],
   "geometry": {"coordinates":[-92.186376,35.562025],"type":"Point"}
 }

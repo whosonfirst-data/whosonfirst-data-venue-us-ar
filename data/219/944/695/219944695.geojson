@@ -2,13 +2,14 @@
   "id": 219944695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.141443,36.234817,-94.141443,36.234817",
     "geom:latitude":36.234817,
     "geom:longitude":-94.141443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5558 Walden St",
     "sg:city":"Lowell",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219944695,
-    "wof:lastmodified":1449072146,
+    "wof:lastmodified":1466325234,
     "wof:name":"Dannys Auto Body",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "repairing"
     ]
 },
-  "bbox": [-94.141443,36.234817,-94.141443,36.234817],
+  "bbox": [
+    -94.141443,
+    36.234817,
+    -94.141443,
+    36.234817
+],
   "geometry": {"coordinates":[-94.141443,36.234817],"type":"Point"}
 }

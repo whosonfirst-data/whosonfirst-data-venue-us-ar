@@ -2,13 +2,14 @@
   "id": 219638837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.711105,35.810697,-90.711105,35.810697",
     "geom:latitude":35.810697,
     "geom:longitude":-90.711105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"501 Mallard Dr",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219638837,
-    "wof:lastmodified":1449070574,
+    "wof:lastmodified":1466324643,
     "wof:name":"Morgan Painting Inc",
     "wof:parent_id":85836541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-90.711105,35.810697,-90.711105,35.810697],
+  "bbox": [
+    -90.711105,
+    35.810697,
+    -90.711105,
+    35.810697
+],
   "geometry": {"coordinates":[-90.711105,35.810697],"type":"Point"}
 }

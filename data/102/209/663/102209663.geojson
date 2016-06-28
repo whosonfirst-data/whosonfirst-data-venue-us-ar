@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102209663",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.934773,36.383503,-93.934773,36.383503",
     "geom:latitude":36.383503,
     "geom:longitude":-93.934773,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11105 Cedar Rock Rd",
     "sg:city":"Garfield",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":"102209663",
-    "wof:lastmodified":1449069938,
+    "wof:lastmodified":1466320927,
     "wof:name":"Beaver Lake Quail Preserve",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.934773,36.383503,-93.934773,36.383503],
-  "geometry": {"coordinates":[-93.934773,36.383503],"type":"Point"}
+  "bbox": [
+    -93.934773,
+    36.383503,
+    -93.934773,
+    36.383503
+],
+  "geometry": {"coordinates":[-93.93477300000001,36.383503],"type":"Point"}
 }

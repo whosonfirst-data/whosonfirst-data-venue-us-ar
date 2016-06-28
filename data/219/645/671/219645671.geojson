@@ -2,13 +2,14 @@
   "id": 219645671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.711142,35.79768,-90.711142,35.79768",
     "geom:latitude":35.79768,
     "geom:longitude":-90.711142,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"336 Oxford Cv",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219645671,
-    "wof:lastmodified":1449070743,
+    "wof:lastmodified":1466324701,
     "wof:name":"Teamwork Properties",
     "wof:parent_id":85836541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "park"
     ]
 },
-  "bbox": [-90.711142,35.79768,-90.711142,35.79768],
+  "bbox": [
+    -90.711142,
+    35.79768,
+    -90.711142,
+    35.79768
+],
   "geometry": {"coordinates":[-90.711142,35.79768],"type":"Point"}
 }

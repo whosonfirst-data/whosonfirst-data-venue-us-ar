@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102397727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.038385,36.114754,-94.038385,36.114754",
     "geom:latitude":36.114754,
     "geom:longitude":-94.038385,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2756 Wilson Ln",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102397727,
-    "wof:lastmodified":1449068725,
+    "wof:lastmodified":1466324781,
     "wof:name":"Grey Barn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.038385,36.114754,-94.038385,36.114754],
-  "geometry": {"coordinates":[-94.038385,36.114754],"type":"Point"}
+  "bbox": [
+    -94.038385,
+    36.114754,
+    -94.038385,
+    36.114754
+],
+  "geometry": {"coordinates":[-94.03838500000001,36.114754],"type":"Point"}
 }

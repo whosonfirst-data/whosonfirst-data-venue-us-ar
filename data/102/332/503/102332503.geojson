@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102332503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.828859,33.584483,-92.828859,33.584483",
     "geom:latitude":33.584483,
     "geom:longitude":-92.828859,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 S Adams Ave",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102332503,
-    "wof:lastmodified":1449069077,
+    "wof:lastmodified":1466323692,
     "wof:name":"This N That",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.828859,33.584483,-92.828859,33.584483],
-  "geometry": {"coordinates":[-92.828859,33.584483],"type":"Point"}
+  "bbox": [
+    -92.828859,
+    33.584483,
+    -92.828859,
+    33.584483
+],
+  "geometry": {"coordinates":[-92.82885899999999,33.584483],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220033779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.12771,36.15078,-94.12771,36.15078",
     "geom:latitude":36.15078,
     "geom:longitude":-94.12771,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"521 Branchwood Ave",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":220033779,
-    "wof:lastmodified":1449074208,
+    "wof:lastmodified":1466320526,
     "wof:name":"R. Heath Weaver Trucking Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "trucking"
     ]
 },
-  "bbox": [-94.12771,36.15078,-94.12771,36.15078],
-  "geometry": {"coordinates":[-94.12771,36.15078],"type":"Point"}
+  "bbox": [
+    -94.12771,
+    36.15078,
+    -94.12771,
+    36.15078
+],
+  "geometry": {"coordinates":[-94.12770999999999,36.15078],"type":"Point"}
 }

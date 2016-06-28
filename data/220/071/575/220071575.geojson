@@ -2,13 +2,14 @@
   "id": 220071575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.083246,35.236854,-93.083246,35.236854",
     "geom:latitude":35.236854,
     "geom:longitude":-93.083246,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"431 Sweet Rd",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":220071575,
-    "wof:lastmodified":1449074552,
+    "wof:lastmodified":1466321390,
     "wof:name":"Bryces Bail Bonding Incorporated",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "bond"
     ]
 },
-  "bbox": [-93.083246,35.236854,-93.083246,35.236854],
+  "bbox": [
+    -93.083246,
+    35.236854,
+    -93.083246,
+    35.236854
+],
   "geometry": {"coordinates":[-93.083246,35.236854],"type":"Point"}
 }

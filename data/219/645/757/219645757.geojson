@@ -2,13 +2,14 @@
   "id": 219645757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.66998,35.780382,-90.66998,35.780382",
     "geom:latitude":35.780382,
     "geom:longitude":-90.66998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4606 Stadium Blvd",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219645757,
-    "wof:lastmodified":1449070743,
+    "wof:lastmodified":1466324702,
     "wof:name":"Stadium Auto Body Inc",
     "wof:parent_id":85836541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "painting"
     ]
 },
-  "bbox": [-90.66998,35.780382,-90.66998,35.780382],
+  "bbox": [
+    -90.66998,
+    35.780382,
+    -90.66998,
+    35.780382
+],
   "geometry": {"coordinates":[-90.66998,35.780382],"type":"Point"}
 }

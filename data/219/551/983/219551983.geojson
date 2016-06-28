@@ -2,13 +2,14 @@
   "id": 219551983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.555899,34.476423,-91.555899,34.476423",
     "geom:latitude":34.476423,
     "geom:longitude":-91.555899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2509 S Harry Crawford Dr",
     "sg:city":"Stuttgart",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219551983,
-    "wof:lastmodified":1449071106,
+    "wof:lastmodified":1466324349,
     "wof:name":"Ring Container Technologies, Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-91.555899,34.476423,-91.555899,34.476423],
+  "bbox": [
+    -91.555899,
+    34.476423,
+    -91.555899,
+    34.476423
+],
   "geometry": {"coordinates":[-91.555899,34.476423],"type":"Point"}
 }

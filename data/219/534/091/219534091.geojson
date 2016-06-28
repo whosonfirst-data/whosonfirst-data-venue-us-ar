@@ -2,13 +2,14 @@
   "id": 219534091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.749055,35.250876,-91.749055,35.250876",
     "geom:latitude":35.250876,
     "geom:longitude":-91.749055,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1211 E Race Ave",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219534091,
-    "wof:lastmodified":1449071313,
+    "wof:lastmodified":1466324212,
     "wof:name":"A Unique Boutique",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "boutique"
     ]
 },
-  "bbox": [-91.749055,35.250876,-91.749055,35.250876],
+  "bbox": [
+    -91.749055,
+    35.250876,
+    -91.749055,
+    35.250876
+],
   "geometry": {"coordinates":[-91.749055,35.250876],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219575861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.907013,35.842491,-89.907013,35.842491",
     "geom:latitude":35.842491,
     "geom:longitude":-89.907013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3032 E County Road 378",
     "sg:city":"Blytheville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219575861,
-    "wof:lastmodified":1449071428,
+    "wof:lastmodified":1466324550,
     "wof:name":"Oscar's Auto Salvage & Sales",
     "wof:parent_id":85814753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "automobile"
     ]
 },
-  "bbox": [-89.907013,35.842491,-89.907013,35.842491],
-  "geometry": {"coordinates":[-89.907013,35.842491],"type":"Point"}
+  "bbox": [
+    -89.907013,
+    35.842491,
+    -89.907013,
+    35.842491
+],
+  "geometry": {"coordinates":[-89.90701300000001,35.842491],"type":"Point"}
 }

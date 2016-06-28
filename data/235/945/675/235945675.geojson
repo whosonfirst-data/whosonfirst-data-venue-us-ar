@@ -2,13 +2,14 @@
   "id": 235945675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.770775,36.570168,-94.770775,36.570168",
     "geom:latitude":36.570168,
     "geom:longitude":-94.770775,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2407S S Main St",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":235945675,
-    "wof:lastmodified":1449008308,
+    "wof:lastmodified":1466320427,
     "wof:name":"Georges Motor Company",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "new"
     ]
 },
-  "bbox": [-94.770775,36.570168,-94.770775,36.570168],
+  "bbox": [
+    -94.770775,
+    36.570168,
+    -94.770775,
+    36.570168
+],
   "geometry": {"coordinates":[-94.770775,36.570168],"type":"Point"}
 }

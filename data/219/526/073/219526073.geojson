@@ -2,13 +2,14 @@
   "id": 219526073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.709288,35.239448,-91.709288,35.239448",
     "geom:latitude":35.239448,
     "geom:longitude":-91.709288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2009 E Beebe Capps Expy",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219526073,
-    "wof:lastmodified":1449071477,
+    "wof:lastmodified":1466324151,
     "wof:name":"Southern Tire Mart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "tire"
     ]
 },
-  "bbox": [-91.709288,35.239448,-91.709288,35.239448],
+  "bbox": [
+    -91.709288,
+    35.239448,
+    -91.709288,
+    35.239448
+],
   "geometry": {"coordinates":[-91.709288,35.239448],"type":"Point"}
 }

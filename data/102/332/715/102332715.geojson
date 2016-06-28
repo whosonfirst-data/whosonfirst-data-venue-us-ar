@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102332715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.160339,36.334395,-94.160339,36.334395",
     "geom:latitude":36.334395,
     "geom:longitude":-94.160339,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2810 W Walnut St",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102332715,
-    "wof:lastmodified":1449069078,
+    "wof:lastmodified":1466323734,
     "wof:name":"Paint Center Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.160339,36.334395,-94.160339,36.334395],
-  "geometry": {"coordinates":[-94.160339,36.334395],"type":"Point"}
+  "bbox": [
+    -94.160339,
+    36.334395,
+    -94.160339,
+    36.334395
+],
+  "geometry": {"coordinates":[-94.16033899999999,36.334395],"type":"Point"}
 }

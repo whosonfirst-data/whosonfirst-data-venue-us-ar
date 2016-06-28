@@ -2,13 +2,14 @@
   "id": 303390613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.225944,34.586206,-94.225944,34.586206",
     "geom:latitude":34.586206,
     "geom:longitude":-94.225944,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"803 US Hwy 71",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303390613,
-    "wof:lastmodified":1449000591,
+    "wof:lastmodified":1466320461,
     "wof:name":"Med-Ark Pharmacy Home Health",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "artificial"
     ]
 },
-  "bbox": [-94.225944,34.586206,-94.225944,34.586206],
+  "bbox": [
+    -94.225944,
+    34.586206,
+    -94.225944,
+    34.586206
+],
   "geometry": {"coordinates":[-94.225944,34.586206],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353883571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.556303,36.178228,-94.556303,36.178228",
     "geom:latitude":36.178228,
     "geom:longitude":-94.556303,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1255 W Tulsa St",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353883571,
-    "wof:lastmodified":1449020217,
+    "wof:lastmodified":1466320536,
     "wof:name":"Heritage Heights Lodge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.556303,36.178228,-94.556303,36.178228],
+  "bbox": [
+    -94.556303,
+    36.178228,
+    -94.556303,
+    36.178228
+],
   "geometry": {"coordinates":[-94.556303,36.178228],"type":"Point"}
 }

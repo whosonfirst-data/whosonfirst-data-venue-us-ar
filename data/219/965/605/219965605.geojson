@@ -2,13 +2,14 @@
   "id": 219965605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.155449,36.355881,-94.155449,36.355881",
     "geom:latitude":36.355881,
     "geom:longitude":-94.155449,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2500 W Hudson Rd",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":219965605,
-    "wof:lastmodified":1449072859,
+    "wof:lastmodified":1466325219,
     "wof:name":"Beaver Lake Concrete Inc",
     "wof:parent_id":85895823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "contractor"
     ]
 },
-  "bbox": [-94.155449,36.355881,-94.155449,36.355881],
+  "bbox": [
+    -94.155449,
+    36.355881,
+    -94.155449,
+    36.355881
+],
   "geometry": {"coordinates":[-94.155449,36.355881],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219349551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.553623,34.630691,-92.553623,34.630691",
     "geom:latitude":34.630691,
     "geom:longitude":-92.553623,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7416 Camille Dr",
     "sg:city":"Benton",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":219349551,
-    "wof:lastmodified":1449071721,
+    "wof:lastmodified":1466322262,
     "wof:name":"Fred R Ulmer Inc",
     "wof:parent_id":85817531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "contractor"
     ]
 },
-  "bbox": [-92.553623,34.630691,-92.553623,34.630691],
+  "bbox": [
+    -92.553623,
+    34.630691,
+    -92.553623,
+    34.630691
+],
   "geometry": {"coordinates":[-92.553623,34.630691],"type":"Point"}
 }

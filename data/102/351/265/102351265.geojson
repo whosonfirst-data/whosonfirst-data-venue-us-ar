@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102351265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.139907,34.524664,-93.139907,34.524664",
     "geom:latitude":34.524664,
     "geom:longitude":-93.139907,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 Ebony Way",
     "sg:city":"Hot Springs",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102351265,
-    "wof:lastmodified":1449069807,
+    "wof:lastmodified":1466324010,
     "wof:name":"Steve's Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.139907,34.524664,-93.139907,34.524664],
-  "geometry": {"coordinates":[-93.139907,34.524664],"type":"Point"}
+  "bbox": [
+    -93.139907,
+    34.524664,
+    -93.139907,
+    34.524664
+],
+  "geometry": {"coordinates":[-93.13990699999999,34.524664],"type":"Point"}
 }

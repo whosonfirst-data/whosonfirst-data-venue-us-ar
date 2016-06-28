@@ -2,13 +2,14 @@
   "id": 219435171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.114891,34.864769,-92.114891,34.864769",
     "geom:latitude":34.864769,
     "geom:longitude":-92.114891,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 S Bailey St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219435171,
-    "wof:lastmodified":1449073596,
+    "wof:lastmodified":1466323151,
     "wof:name":"Expecr Services",
     "wof:parent_id":85852337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "system"
     ]
 },
-  "bbox": [-92.114891,34.864769,-92.114891,34.864769],
+  "bbox": [
+    -92.114891,
+    34.864769,
+    -92.114891,
+    34.864769
+],
   "geometry": {"coordinates":[-92.114891,34.864769],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219555137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.559693,34.50953,-91.559693,34.50953",
     "geom:latitude":34.50953,
     "geom:longitude":-91.559693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"708 W Michigan St",
     "sg:city":"Stuttgart",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":219555137,
-    "wof:lastmodified":1449073408,
+    "wof:lastmodified":1466324374,
     "wof:name":"Days Inn and Suites Stuttgart",
     "wof:parent_id":85838089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lodging"
     ]
 },
-  "bbox": [-91.559693,34.50953,-91.559693,34.50953],
+  "bbox": [
+    -91.559693,
+    34.50953,
+    -91.559693,
+    34.50953
+],
   "geometry": {"coordinates":[-91.559693,34.50953],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102381853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.802349,34.730354,-90.802349,34.730354",
     "geom:latitude":34.730354,
     "geom:longitude":-90.802349,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1477 Lee Road 314",
     "sg:city":"Marianna",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102381853,
-    "wof:lastmodified":1449067993,
+    "wof:lastmodified":1466322471,
     "wof:name":"Higgins Mini Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.802349,34.730354,-90.802349,34.730354],
-  "geometry": {"coordinates":[-90.802349,34.730354],"type":"Point"}
+  "bbox": [
+    -90.802349,
+    34.730354,
+    -90.802349,
+    34.730354
+],
+  "geometry": {"coordinates":[-90.80234900000001,34.730354],"type":"Point"}
 }

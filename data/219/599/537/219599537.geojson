@@ -2,13 +2,14 @@
   "id": 219599537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.183648,35.188017,-90.183648,35.188017",
     "geom:latitude":35.188017,
     "geom:longitude":-90.183648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Vistaview Cv",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219599537,
-    "wof:lastmodified":1449072034,
+    "wof:lastmodified":1466324808,
     "wof:name":"West Memphis Plumbing",
     "wof:parent_id":85843083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-90.183648,35.188017,-90.183648,35.188017],
-  "geometry": {"coordinates":[-90.183648,35.188017],"type":"Point"}
+  "bbox": [
+    -90.183648,
+    35.188017,
+    -90.183648,
+    35.188017
+],
+  "geometry": {"coordinates":[-90.18364800000001,35.188017],"type":"Point"}
 }

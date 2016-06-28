@@ -2,13 +2,14 @@
   "id": 219884545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.206086,36.382545,-94.206086,36.382545",
     "geom:latitude":36.382545,
     "geom:longitude":-94.206086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"823 NE A St",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219884545,
-    "wof:lastmodified":1449073248,
+    "wof:lastmodified":1466325069,
     "wof:name":"Northark Scented Candles",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-94.206086,36.382545,-94.206086,36.382545],
+  "bbox": [
+    -94.206086,
+    36.382545,
+    -94.206086,
+    36.382545
+],
   "geometry": {"coordinates":[-94.206086,36.382545],"type":"Point"}
 }

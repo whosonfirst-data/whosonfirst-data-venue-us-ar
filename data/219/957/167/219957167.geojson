@@ -2,13 +2,14 @@
   "id": 219957167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.090164,36.327995,-94.090164,36.327995",
     "geom:latitude":36.327995,
     "geom:longitude":-94.090164,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Woodlou Ln",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":219957167,
-    "wof:lastmodified":1449073385,
+    "wof:lastmodified":1466325202,
     "wof:name":"Everest System Integrators, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "integration"
     ]
 },
-  "bbox": [-94.090164,36.327995,-94.090164,36.327995],
+  "bbox": [
+    -94.090164,
+    36.327995,
+    -94.090164,
+    36.327995
+],
   "geometry": {"coordinates":[-94.090164,36.327995],"type":"Point"}
 }

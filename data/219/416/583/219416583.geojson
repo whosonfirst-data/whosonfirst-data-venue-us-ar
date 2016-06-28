@@ -2,13 +2,14 @@
   "id": 219416583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.037268,34.516882,-92.037268,34.516882",
     "geom:latitude":34.516882,
     "geom:longitude":-92.037268,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 Clear Lake Rd",
     "sg:city":"England",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219416583,
-    "wof:lastmodified":1449071984,
+    "wof:lastmodified":1466322994,
     "wof:name":"David Stracener Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-92.037268,34.516882,-92.037268,34.516882],
+  "bbox": [
+    -92.037268,
+    34.516882,
+    -92.037268,
+    34.516882
+],
   "geometry": {"coordinates":[-92.037268,34.516882],"type":"Point"}
 }

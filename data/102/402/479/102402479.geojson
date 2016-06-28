@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102402479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.21241,36.443251,-94.21241,36.443251",
     "geom:latitude":36.443251,
     "geom:longitude":-94.21241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Charing Dr",
     "sg:city":"Bella Vista",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102402479,
-    "wof:lastmodified":1449068560,
+    "wof:lastmodified":1466324586,
     "wof:name":"Just Your Way Cleaning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.21241,36.443251,-94.21241,36.443251],
-  "geometry": {"coordinates":[-94.21241,36.443251],"type":"Point"}
+  "bbox": [
+    -94.21241,
+    36.443251,
+    -94.21241,
+    36.443251
+],
+  "geometry": {"coordinates":[-94.21241000000001,36.443251],"type":"Point"}
 }

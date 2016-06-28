@@ -2,13 +2,14 @@
   "id": 219460331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.827205,34.374451,-92.827205,34.374451",
     "geom:latitude":34.374451,
     "geom:longitude":-92.827205,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"829 Halbert St",
     "sg:city":"Malvern",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219460331,
-    "wof:lastmodified":1449073711,
+    "wof:lastmodified":1466323470,
     "wof:name":"Loyd, Louis L. - Louis L. Loyd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-92.827205,34.374451,-92.827205,34.374451],
-  "geometry": {"coordinates":[-92.827205,34.374451],"type":"Point"}
+  "bbox": [
+    -92.827205,
+    34.374451,
+    -92.827205,
+    34.374451
+],
+  "geometry": {"coordinates":[-92.82720500000001,34.374451],"type":"Point"}
 }

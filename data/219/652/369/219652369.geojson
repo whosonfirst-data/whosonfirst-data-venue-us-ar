@@ -2,13 +2,14 @@
   "id": 219652369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.806437,35.900888,-90.806437,35.900888",
     "geom:latitude":35.900888,
     "geom:longitude":-90.806437,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10097 Highway 63 S",
     "sg:city":"Bono",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219652369,
-    "wof:lastmodified":1449072662,
+    "wof:lastmodified":1466324728,
     "wof:name":"Kum & GO",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.806437,35.900888,-90.806437,35.900888],
+  "bbox": [
+    -90.806437,
+    35.900888,
+    -90.806437,
+    35.900888
+],
   "geometry": {"coordinates":[-90.806437,35.900888],"type":"Point"}
 }

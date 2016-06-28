@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102341491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.162273,36.066367,-94.162273,36.066367",
     "geom:latitude":36.066367,
     "geom:longitude":-94.162273,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 W Dickson St",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885435,
+        85688549,
         85633793,
         85919609,
         102082007,
-        85688549
+        85885435
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":102341491,
-    "wof:lastmodified":1449070101,
+    "wof:lastmodified":1466323851,
     "wof:name":"Christopher Todd",
     "wof:parent_id":85885435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.162273,36.066367,-94.162273,36.066367],
+  "bbox": [
+    -94.162273,
+    36.066367,
+    -94.162273,
+    36.066367
+],
   "geometry": {"coordinates":[-94.162273,36.066367],"type":"Point"}
 }

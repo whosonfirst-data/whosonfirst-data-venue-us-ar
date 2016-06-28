@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102312813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.016422,34.960705,-92.016422,34.960705",
     "geom:latitude":34.960705,
     "geom:longitude":-92.016422,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"83 Pond St",
     "sg:city":"Cabot",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102312813,
-    "wof:lastmodified":1449068966,
+    "wof:lastmodified":1466323278,
     "wof:name":"Kazmier & Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.016422,34.960705,-92.016422,34.960705],
-  "geometry": {"coordinates":[-92.016422,34.960705],"type":"Point"}
+  "bbox": [
+    -92.016422,
+    34.960705,
+    -92.016422,
+    34.960705
+],
+  "geometry": {"coordinates":[-92.01642200000001,34.960705],"type":"Point"}
 }

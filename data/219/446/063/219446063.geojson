@@ -2,13 +2,14 @@
   "id": 219446063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.662642,35.268932,-91.662642,35.268932",
     "geom:latitude":35.268932,
     "geom:longitude":-91.662642,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"587 Highway 367 N",
     "sg:city":"Judsonia",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219446063,
-    "wof:lastmodified":1449073616,
+    "wof:lastmodified":1466323315,
     "wof:name":"Carol Comfort Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-91.662642,35.268932,-91.662642,35.268932],
-  "geometry": {"coordinates":[-91.662642,35.268932],"type":"Point"}
+  "bbox": [
+    -91.662642,
+    35.268932,
+    -91.662642,
+    35.268932
+],
+  "geometry": {"coordinates":[-91.66264200000001,35.268932],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102415645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.174461,35.219177,-90.174461,35.219177",
     "geom:latitude":35.219177,
     "geom:longitude":-90.174461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2520 Marion Lake Rd",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102415645,
-    "wof:lastmodified":1449069535,
+    "wof:lastmodified":1466325351,
     "wof:name":"Fogleman Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.174461,35.219177,-90.174461,35.219177],
-  "geometry": {"coordinates":[-90.174461,35.219177],"type":"Point"}
+  "bbox": [
+    -90.174461,
+    35.219177,
+    -90.174461,
+    35.219177
+],
+  "geometry": {"coordinates":[-90.17446099999999,35.219177],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 304047325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.478021,35.269313,-94.478021,35.269313",
     "geom:latitude":35.269313,
     "geom:longitude":-94.478021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"706 N Pocola Blvd",
     "sg:city":"Pocola",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":304047325,
-    "wof:lastmodified":1449043987,
+    "wof:lastmodified":1466320506,
     "wof:name":"Bill R Perceful",
     "wof:parent_id":85809847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-94.478021,35.269313,-94.478021,35.269313],
+  "bbox": [
+    -94.478021,
+    35.269313,
+    -94.478021,
+    35.269313
+],
   "geometry": {"coordinates":[-94.478021,35.269313],"type":"Point"}
 }

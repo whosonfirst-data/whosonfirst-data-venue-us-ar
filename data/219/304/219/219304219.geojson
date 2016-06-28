@@ -2,13 +2,14 @@
   "id": 219304219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.233377,34.584263,-94.233377,34.584263",
     "geom:latitude":34.584263,
     "geom:longitude":-94.233377,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Highway 71 S",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219304219,
-    "wof:lastmodified":1449073031,
+    "wof:lastmodified":1466321765,
     "wof:name":"Chambers Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "commercial"
     ]
 },
-  "bbox": [-94.233377,34.584263,-94.233377,34.584263],
+  "bbox": [
+    -94.233377,
+    34.584263,
+    -94.233377,
+    34.584263
+],
   "geometry": {"coordinates":[-94.233377,34.584263],"type":"Point"}
 }

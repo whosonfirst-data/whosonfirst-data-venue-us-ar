@@ -2,13 +2,14 @@
   "id": 219601011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.219596,35.200224,-90.219596,35.200224",
     "geom:latitude":35.200224,
     "geom:longitude":-90.219596,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3798 N Airport Rd",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219601011,
-    "wof:lastmodified":1449071975,
+    "wof:lastmodified":1466324806,
     "wof:name":"Roeder Construction Company, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "home"
     ]
 },
-  "bbox": [-90.219596,35.200224,-90.219596,35.200224],
+  "bbox": [
+    -90.219596,
+    35.200224,
+    -90.219596,
+    35.200224
+],
   "geometry": {"coordinates":[-90.219596,35.200224],"type":"Point"}
 }

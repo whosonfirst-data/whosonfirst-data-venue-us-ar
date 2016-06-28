@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102263207",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.090662,36.386052,-94.090662,36.386052",
     "geom:latitude":36.386052,
     "geom:longitude":-94.090662,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13104 US Hwy 62",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -31,10 +32,10 @@
     "sg:website":"www.warpspeedperformance.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102083255,
-        85633793,
         85688549,
-        85895859
+        85633793,
+        85895859,
+        102083255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102263207",
-    "wof:lastmodified":1449070144,
+    "wof:lastmodified":1466322146,
     "wof:name":"Warpspeed Performance",
     "wof:parent_id":85895859,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.090662,36.386052,-94.090662,36.386052],
-  "geometry": {"coordinates":[-94.090662,36.386052],"type":"Point"}
+  "bbox": [
+    -94.090662,
+    36.386052,
+    -94.090662,
+    36.386052
+],
+  "geometry": {"coordinates":[-94.09066199999999,36.386052],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219978507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.159782,36.33503,-94.159782,36.33503",
     "geom:latitude":36.33503,
     "geom:longitude":-94.159782,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Halsted Cir",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219978507,
-    "wof:lastmodified":1449072416,
+    "wof:lastmodified":1466325232,
     "wof:name":"Turley Jan Thomas MD FACS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "plastic"
     ]
 },
-  "bbox": [-94.159782,36.33503,-94.159782,36.33503],
-  "geometry": {"coordinates":[-94.159782,36.33503],"type":"Point"}
+  "bbox": [
+    -94.159782,
+    36.33503,
+    -94.159782,
+    36.33503
+],
+  "geometry": {"coordinates":[-94.15978200000001,36.33503],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303407999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.298719,34.589336,-94.298719,34.589336",
     "geom:latitude":34.589336,
     "geom:longitude":-94.298719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Bass Ln",
     "sg:city":"Murfreesboro",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303407999,
-    "wof:lastmodified":1448999479,
+    "wof:lastmodified":1466320466,
     "wof:name":"Ward Shavings LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "shaving"
     ]
 },
-  "bbox": [-94.298719,34.589336,-94.298719,34.589336],
-  "geometry": {"coordinates":[-94.298719,34.589336],"type":"Point"}
+  "bbox": [
+    -94.298719,
+    34.589336,
+    -94.298719,
+    34.589336
+],
+  "geometry": {"coordinates":[-94.29871900000001,34.589336],"type":"Point"}
 }

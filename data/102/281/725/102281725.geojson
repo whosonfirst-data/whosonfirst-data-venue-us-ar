@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102281725",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.383458,34.753483,-92.383458,34.753483",
     "geom:latitude":34.753483,
     "geom:longitude":-92.383458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9813 W Markham St",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -34,11 +35,11 @@
     "sg:website":"www.thegymandcafe.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85807173,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85807173
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":"102281725",
-    "wof:lastmodified":1449069796,
+    "wof:lastmodified":1466322695,
     "wof:name":"Gym & Cafe The",
     "wof:parent_id":85807173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.383458,34.753483,-92.383458,34.753483],
+  "bbox": [
+    -92.383458,
+    34.753483,
+    -92.383458,
+    34.753483
+],
   "geometry": {"coordinates":[-92.383458,34.753483],"type":"Point"}
 }

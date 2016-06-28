@@ -2,13 +2,14 @@
   "id": 354225965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.767095,36.185655,-94.767095,36.185655",
     "geom:latitude":36.185655,
     "geom:longitude":-94.767095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3047 Indian Point Ct",
     "sg:city":"Kansas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354225965,
-    "wof:lastmodified":1449066438,
+    "wof:lastmodified":1466324522,
     "wof:name":"Flint Construction",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-94.767095,36.185655,-94.767095,36.185655],
+  "bbox": [
+    -94.767095,
+    36.185655,
+    -94.767095,
+    36.185655
+],
   "geometry": {"coordinates":[-94.767095,36.185655],"type":"Point"}
 }

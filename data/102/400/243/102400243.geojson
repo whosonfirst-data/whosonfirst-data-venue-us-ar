@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102400243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.011624,34.223902,-92.011624,34.223902",
     "geom:latitude":34.223902,
     "geom:longitude":-92.011624,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"805 W 6th Ave",
     "sg:city":"Pine Bluff",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102400243,
-    "wof:lastmodified":1449068028,
+    "wof:lastmodified":1466324692,
     "wof:name":"II Star Tattoo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.011624,34.223902,-92.011624,34.223902],
+  "bbox": [
+    -92.011624,
+    34.223902,
+    -92.011624,
+    34.223902
+],
   "geometry": {"coordinates":[-92.011624,34.223902],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102403911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.124227,36.097302,-94.124227,36.097302",
     "geom:latitude":36.097302,
     "geom:longitude":-94.124227,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2558 N Sheffield Pl",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102403911,
-    "wof:lastmodified":1449069838,
+    "wof:lastmodified":1466324810,
     "wof:name":"Happy Hour",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.124227,36.097302,-94.124227,36.097302],
+  "bbox": [
+    -94.124227,
+    36.097302,
+    -94.124227,
+    36.097302
+],
   "geometry": {"coordinates":[-94.124227,36.097302],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203402773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.944336,33.160952,-91.944336,33.160952",
     "geom:latitude":33.160952,
     "geom:longitude":-91.944336,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1268 Highway 133 N",
     "sg:city":"Crossett",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":203402773,
-    "wof:lastmodified":1449025520,
+    "wof:lastmodified":1466320515,
     "wof:name":"Naff Construction Company Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "contractors-commercial"
     ]
 },
-  "bbox": [-91.944336,33.160952,-91.944336,33.160952],
-  "geometry": {"coordinates":[-91.944336,33.160952],"type":"Point"}
+  "bbox": [
+    -91.944336,
+    33.160952,
+    -91.944336,
+    33.160952
+],
+  "geometry": {"coordinates":[-91.94433600000001,33.160952],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219639031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.628054,35.914909,-90.628054,35.914909",
     "geom:latitude":35.914909,
     "geom:longitude":-90.628054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"991 County Road 754",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219639031,
-    "wof:lastmodified":1449073894,
+    "wof:lastmodified":1466324633,
     "wof:name":"Richard Lee Shelby",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.628054,35.914909,-90.628054,35.914909],
-  "geometry": {"coordinates":[-90.628054,35.914909],"type":"Point"}
+  "bbox": [
+    -90.628054,
+    35.914909,
+    -90.628054,
+    35.914909
+],
+  "geometry": {"coordinates":[-90.62805400000001,35.914909],"type":"Point"}
 }

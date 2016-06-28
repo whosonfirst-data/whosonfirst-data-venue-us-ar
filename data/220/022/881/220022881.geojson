@@ -2,13 +2,14 @@
   "id": 220022881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.204833,36.182033,-94.204833,36.182033",
     "geom:latitude":36.182033,
     "geom:longitude":-94.204833,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6644 Harvey Jones Ave",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":220022881,
-    "wof:lastmodified":1449074286,
+    "wof:lastmodified":1466320502,
     "wof:name":"Ecopotential Corp",
     "wof:parent_id":85885477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "consultant"
     ]
 },
-  "bbox": [-94.204833,36.182033,-94.204833,36.182033],
-  "geometry": {"coordinates":[-94.204833,36.182033],"type":"Point"}
+  "bbox": [
+    -94.204833,
+    36.182033,
+    -94.204833,
+    36.182033
+],
+  "geometry": {"coordinates":[-94.20483299999999,36.182033],"type":"Point"}
 }

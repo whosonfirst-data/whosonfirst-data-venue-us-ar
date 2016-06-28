@@ -2,13 +2,14 @@
   "id": 219556545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.540623,34.48666,-91.540623,34.48666",
     "geom:latitude":34.48666,
     "geom:longitude":-91.540623,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1713 S Park Ave Ste D",
     "sg:city":"Stuttgart",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":219556545,
-    "wof:lastmodified":1449071273,
+    "wof:lastmodified":1466324586,
     "wof:name":"Salco Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "take"
     ]
 },
-  "bbox": [-91.540623,34.48666,-91.540623,34.48666],
+  "bbox": [
+    -91.540623,
+    34.48666,
+    -91.540623,
+    34.48666
+],
   "geometry": {"coordinates":[-91.540623,34.48666],"type":"Point"}
 }

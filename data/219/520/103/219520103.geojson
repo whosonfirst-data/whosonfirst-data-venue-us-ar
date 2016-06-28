@@ -2,13 +2,14 @@
   "id": 219520103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.746429,35.250859,-91.746429,35.250859",
     "geom:latitude":35.250859,
     "geom:longitude":-91.746429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"906 E Race Ave",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219520103,
-    "wof:lastmodified":1449071560,
+    "wof:lastmodified":1466324106,
     "wof:name":"Race Cuts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.746429,35.250859,-91.746429,35.250859],
-  "geometry": {"coordinates":[-91.746429,35.250859],"type":"Point"}
+  "bbox": [
+    -91.746429,
+    35.250859,
+    -91.746429,
+    35.250859
+],
+  "geometry": {"coordinates":[-91.74642900000001,35.250859],"type":"Point"}
 }

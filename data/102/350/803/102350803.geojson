@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102350803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.373259,34.759562,-92.373259,34.759562",
     "geom:latitude":34.759562,
     "geom:longitude":-92.373259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 Brookside Dr",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85807173,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85807173
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102350803,
-    "wof:lastmodified":1449068978,
+    "wof:lastmodified":1466324111,
     "wof:name":"Brookside Health & Rehab",
     "wof:parent_id":85807173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.373259,34.759562,-92.373259,34.759562],
+  "bbox": [
+    -92.373259,
+    34.759562,
+    -92.373259,
+    34.759562
+],
   "geometry": {"coordinates":[-92.373259,34.759562],"type":"Point"}
 }

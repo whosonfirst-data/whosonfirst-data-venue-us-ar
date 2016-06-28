@@ -2,13 +2,14 @@
   "id": 219928385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.459885,36.40823,-94.459885,36.40823",
     "geom:latitude":36.40823,
     "geom:longitude":-94.459885,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 Jackson St SW",
     "sg:city":"Gravette",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":219928385,
-    "wof:lastmodified":1449073419,
+    "wof:lastmodified":1466325154,
     "wof:name":"Ozarks Community Hospital Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-94.459885,36.40823,-94.459885,36.40823],
+  "bbox": [
+    -94.459885,
+    36.40823,
+    -94.459885,
+    36.40823
+],
   "geometry": {"coordinates":[-94.459885,36.40823],"type":"Point"}
 }

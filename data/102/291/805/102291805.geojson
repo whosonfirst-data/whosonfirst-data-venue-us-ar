@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102291805",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.509523,34.613656,-92.509523,34.613656",
     "geom:latitude":34.613656,
     "geom:longitude":-92.509523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21827 I- 30",
     "sg:city":"Bryant",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85817531,
+        85688549,
         85633793,
         85921383,
         102083257,
-        85688549
+        85817531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102291805",
-    "wof:lastmodified":1449068517,
+    "wof:lastmodified":1466322932,
     "wof:name":"Waterlicious",
     "wof:parent_id":85817531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.509523,34.613656,-92.509523,34.613656],
+  "bbox": [
+    -92.509523,
+    34.613656,
+    -92.509523,
+    34.613656
+],
   "geometry": {"coordinates":[-92.509523,34.613656],"type":"Point"}
 }

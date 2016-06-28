@@ -2,13 +2,14 @@
   "id": 219722127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.537376,35.678579,-90.537376,35.678579",
     "geom:latitude":35.678579,
     "geom:longitude":-90.537376,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 Honeysuckle Ln",
     "sg:city":"Trumann",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219722127,
-    "wof:lastmodified":1449071632,
+    "wof:lastmodified":1466324880,
     "wof:name":"Tru Clean Carpet Cleaning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "carpet"
     ]
 },
-  "bbox": [-90.537376,35.678579,-90.537376,35.678579],
-  "geometry": {"coordinates":[-90.537376,35.678579],"type":"Point"}
+  "bbox": [
+    -90.537376,
+    35.678579,
+    -90.537376,
+    35.678579
+],
+  "geometry": {"coordinates":[-90.53737599999999,35.678579],"type":"Point"}
 }

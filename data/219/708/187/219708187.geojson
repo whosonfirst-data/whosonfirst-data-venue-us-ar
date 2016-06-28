@@ -2,13 +2,14 @@
   "id": 219708187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.971119,36.262945,-90.971119,36.262945",
     "geom:latitude":36.262945,
     "geom:longitude":-90.971119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 W Pyburn St",
     "sg:city":"Pocahontas",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":219708187,
-    "wof:lastmodified":1449070942,
+    "wof:lastmodified":1466324868,
     "wof:name":"Baltz Bookkeeping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "public"
     ]
 },
-  "bbox": [-90.971119,36.262945,-90.971119,36.262945],
+  "bbox": [
+    -90.971119,
+    36.262945,
+    -90.971119,
+    36.262945
+],
   "geometry": {"coordinates":[-90.971119,36.262945],"type":"Point"}
 }

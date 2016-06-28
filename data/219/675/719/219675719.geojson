@@ -2,13 +2,14 @@
   "id": 219675719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.582429,36.079214,-90.582429,36.079214",
     "geom:latitude":36.079214,
     "geom:longitude":-90.582429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1008 N 74th St",
     "sg:city":"Paragould",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":219675719,
-    "wof:lastmodified":1449072179,
+    "wof:lastmodified":1466324834,
     "wof:name":"Bacchus Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-90.582429,36.079214,-90.582429,36.079214],
+  "bbox": [
+    -90.582429,
+    36.079214,
+    -90.582429,
+    36.079214
+],
   "geometry": {"coordinates":[-90.582429,36.079214],"type":"Point"}
 }

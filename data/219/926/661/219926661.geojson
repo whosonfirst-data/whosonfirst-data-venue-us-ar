@@ -2,13 +2,14 @@
   "id": 219926661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.451842,36.423307,-94.451842,36.423307",
     "geom:latitude":36.423307,
     "geom:longitude":-94.451842,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 2nd Ave NE",
     "sg:city":"Gravette",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219926661,
-    "wof:lastmodified":1449071627,
+    "wof:lastmodified":1466325154,
     "wof:name":"Farmer's Supply Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.451842,36.423307,-94.451842,36.423307],
+  "bbox": [
+    -94.451842,
+    36.423307,
+    -94.451842,
+    36.423307
+],
   "geometry": {"coordinates":[-94.451842,36.423307],"type":"Point"}
 }

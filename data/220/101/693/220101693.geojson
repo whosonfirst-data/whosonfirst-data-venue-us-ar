@@ -2,13 +2,14 @@
   "id": 220101693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.321489,35.322814,-94.321489,35.322814",
     "geom:latitude":35.322814,
     "geom:longitude":-94.321489,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2308 Church St",
     "sg:city":"Barling",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220101693,
-    "wof:lastmodified":1449074463,
+    "wof:lastmodified":1466322254,
     "wof:name":"Vernette N Ruff",
     "wof:parent_id":85832863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-94.321489,35.322814,-94.321489,35.322814],
+  "bbox": [
+    -94.321489,
+    35.322814,
+    -94.321489,
+    35.322814
+],
   "geometry": {"coordinates":[-94.321489,35.322814],"type":"Point"}
 }

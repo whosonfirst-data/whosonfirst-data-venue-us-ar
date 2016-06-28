@@ -2,13 +2,14 @@
   "id": 219426693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.400462,35.288122,-92.400462,35.288122",
     "geom:latitude":35.288122,
     "geom:longitude":-92.400462,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"32 W Republican Rd",
     "sg:city":"Greenbrier",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219426693,
-    "wof:lastmodified":1449071147,
+    "wof:lastmodified":1466323070,
     "wof:name":"Arkansas Custom Chrome",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "metals-base"
     ]
 },
-  "bbox": [-92.400462,35.288122,-92.400462,35.288122],
+  "bbox": [
+    -92.400462,
+    35.288122,
+    -92.400462,
+    35.288122
+],
   "geometry": {"coordinates":[-92.400462,35.288122],"type":"Point"}
 }

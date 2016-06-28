@@ -2,13 +2,14 @@
   "id": 219548521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.240783,35.632582,-92.240783,35.632582",
     "geom:latitude":35.632582,
     "geom:longitude":-92.240783,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 Sandiff Rd",
     "sg:city":"Shirley",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219548521,
-    "wof:lastmodified":1449072834,
+    "wof:lastmodified":1466324323,
     "wof:name":"Moody Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "trucking"
     ]
 },
-  "bbox": [-92.240783,35.632582,-92.240783,35.632582],
-  "geometry": {"coordinates":[-92.240783,35.632582],"type":"Point"}
+  "bbox": [
+    -92.240783,
+    35.632582,
+    -92.240783,
+    35.632582
+],
+  "geometry": {"coordinates":[-92.24078299999999,35.632582],"type":"Point"}
 }

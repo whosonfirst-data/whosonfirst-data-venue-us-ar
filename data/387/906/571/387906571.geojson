@@ -2,13 +2,14 @@
   "id": 387906571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.012635,33.474778,-94.012635,33.474778",
     "geom:latitude":33.474778,
     "geom:longitude":-94.012635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2222 E I- 30",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387906571,
-    "wof:lastmodified":1449057551,
+    "wof:lastmodified":1466320416,
     "wof:name":"Tourist Information Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "adm"
     ]
 },
-  "bbox": [-94.012635,33.474778,-94.012635,33.474778],
+  "bbox": [
+    -94.012635,
+    33.474778,
+    -94.012635,
+    33.474778
+],
   "geometry": {"coordinates":[-94.012635,33.474778],"type":"Point"}
 }

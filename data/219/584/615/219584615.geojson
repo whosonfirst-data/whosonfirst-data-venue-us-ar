@@ -2,13 +2,14 @@
   "id": 219584615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.878562,35.069647,-90.878562,35.069647",
     "geom:latitude":35.069647,
     "geom:longitude":-90.878562,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 Sfc 251",
     "sg:city":"Colt",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219584615,
-    "wof:lastmodified":1449070773,
+    "wof:lastmodified":1466324758,
     "wof:name":"Singleton Masonry Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-90.878562,35.069647,-90.878562,35.069647],
+  "bbox": [
+    -90.878562,
+    35.069647,
+    -90.878562,
+    35.069647
+],
   "geometry": {"coordinates":[-90.878562,35.069647],"type":"Point"}
 }

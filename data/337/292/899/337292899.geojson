@@ -2,13 +2,14 @@
   "id": 337292899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.510259,36.040884,-90.510259,36.040884",
     "geom:latitude":36.040884,
     "geom:longitude":-90.510259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1611 Linwood Dr",
     "sg:city":"Paragould",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337292899,
-    "wof:lastmodified":1449027014,
+    "wof:lastmodified":1466322104,
     "wof:name":"Linwood Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.510259,36.040884,-90.510259,36.040884],
+  "bbox": [
+    -90.510259,
+    36.040884,
+    -90.510259,
+    36.040884
+],
   "geometry": {"coordinates":[-90.510259,36.040884],"type":"Point"}
 }

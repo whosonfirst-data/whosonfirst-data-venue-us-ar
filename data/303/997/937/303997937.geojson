@@ -2,13 +2,14 @@
   "id": 303997937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.533348,36.181365,-94.533348,36.181365",
     "geom:latitude":36.181365,
     "geom:longitude":-94.533348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"930 E Jefferson St",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303997937,
-    "wof:lastmodified":1449000126,
+    "wof:lastmodified":1466320665,
     "wof:name":"Contractors Building Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "insulation"
     ]
 },
-  "bbox": [-94.533348,36.181365,-94.533348,36.181365],
+  "bbox": [
+    -94.533348,
+    36.181365,
+    -94.533348,
+    36.181365
+],
   "geometry": {"coordinates":[-94.533348,36.181365],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102275081",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.069217,33.616165,-92.069217,33.616165",
     "geom:latitude":33.616165,
     "geom:longitude":-92.069217,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 Meek St",
     "sg:city":"Warren",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102275081",
-    "wof:lastmodified":1449068563,
+    "wof:lastmodified":1466322422,
     "wof:name":"George Wagnon Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.069217,33.616165,-92.069217,33.616165],
-  "geometry": {"coordinates":[-92.069217,33.616165],"type":"Point"}
+  "bbox": [
+    -92.069217,
+    33.616165,
+    -92.069217,
+    33.616165
+],
+  "geometry": {"coordinates":[-92.06921699999999,33.616165],"type":"Point"}
 }

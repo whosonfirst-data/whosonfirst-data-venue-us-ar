@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102374211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.125346,34.513137,-93.125346,34.513137",
     "geom:latitude":34.513137,
     "geom:longitude":-93.125346,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Mid America Blvd",
     "sg:city":"Hot Springs National Park",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102374211,
-    "wof:lastmodified":1449068811,
+    "wof:lastmodified":1466320883,
     "wof:name":"Hwy Patrol Field Offc-Troop K",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.125346,34.513137,-93.125346,34.513137],
-  "geometry": {"coordinates":[-93.125346,34.513137],"type":"Point"}
+  "bbox": [
+    -93.125346,
+    34.513137,
+    -93.125346,
+    34.513137
+],
+  "geometry": {"coordinates":[-93.12534599999999,34.513137],"type":"Point"}
 }

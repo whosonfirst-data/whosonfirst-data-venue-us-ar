@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102323371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.117758,35.869454,-92.117758,35.869454",
     "geom:latitude":35.869454,
     "geom:longitude":-92.117758,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 N Peabody Ave",
     "sg:city":"Mountain View",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102323371,
-    "wof:lastmodified":1449068008,
+    "wof:lastmodified":1466323504,
     "wof:name":"Cornerstone Shoppe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.117758,35.869454,-92.117758,35.869454],
-  "geometry": {"coordinates":[-92.117758,35.869454],"type":"Point"}
+  "bbox": [
+    -92.117758,
+    35.869454,
+    -92.117758,
+    35.869454
+],
+  "geometry": {"coordinates":[-92.11775799999999,35.869454],"type":"Point"}
 }

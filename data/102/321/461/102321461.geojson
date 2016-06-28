@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102321461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.150097,36.20163,-94.150097,36.20163",
     "geom:latitude":36.20163,
     "geom:longitude":-94.150097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1732 Ridgeview Dr",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885491,
+        85688549,
         85633793,
         85919623,
         102082007,
-        85688549
+        85885491
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102321461,
-    "wof:lastmodified":1449067822,
+    "wof:lastmodified":1466323441,
     "wof:name":"Heritage Siding & Window",
     "wof:parent_id":85885491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.150097,36.20163,-94.150097,36.20163],
+  "bbox": [
+    -94.150097,
+    36.20163,
+    -94.150097,
+    36.20163
+],
   "geometry": {"coordinates":[-94.150097,36.20163],"type":"Point"}
 }

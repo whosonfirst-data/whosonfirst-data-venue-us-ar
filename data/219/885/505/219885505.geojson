@@ -2,13 +2,14 @@
   "id": 219885505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.224751,36.396866,-94.224751,36.396866",
     "geom:latitude":36.396866,
     "geom:longitude":-94.224751,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"66 Stonehenge Dr",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219885505,
-    "wof:lastmodified":1449072255,
+    "wof:lastmodified":1466325067,
     "wof:name":"Top Flight Electric Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrician"
     ]
 },
-  "bbox": [-94.224751,36.396866,-94.224751,36.396866],
+  "bbox": [
+    -94.224751,
+    36.396866,
+    -94.224751,
+    36.396866
+],
   "geometry": {"coordinates":[-94.224751,36.396866],"type":"Point"}
 }

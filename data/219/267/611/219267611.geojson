@@ -2,13 +2,14 @@
   "id": 219267611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.025301,33.445388,-94.025301,33.445388",
     "geom:latitude":33.445388,
     "geom:longitude":-94.025301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1505 E 24th St",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":219267611,
-    "wof:lastmodified":1449073599,
+    "wof:lastmodified":1466321466,
     "wof:name":"AmeriGas Propane",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "gas-liquefied"
     ]
 },
-  "bbox": [-94.025301,33.445388,-94.025301,33.445388],
+  "bbox": [
+    -94.025301,
+    33.445388,
+    -94.025301,
+    33.445388
+],
   "geometry": {"coordinates":[-94.025301,33.445388],"type":"Point"}
 }

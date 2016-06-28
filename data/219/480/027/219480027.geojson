@@ -2,13 +2,14 @@
   "id": 219480027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.246677,35.645672,-91.246677,35.645672",
     "geom:latitude":35.645672,
     "geom:longitude":-91.246677,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2803 Van Dyke Rd",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219480027,
-    "wof:lastmodified":1449071544,
+    "wof:lastmodified":1466323676,
     "wof:name":"Arkansas Steel Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "warehouse"
     ]
 },
-  "bbox": [-91.246677,35.645672,-91.246677,35.645672],
-  "geometry": {"coordinates":[-91.246677,35.645672],"type":"Point"}
+  "bbox": [
+    -91.246677,
+    35.645672,
+    -91.246677,
+    35.645672
+],
+  "geometry": {"coordinates":[-91.24667700000001,35.645672],"type":"Point"}
 }

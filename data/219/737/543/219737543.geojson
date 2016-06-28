@@ -2,13 +2,14 @@
   "id": 219737543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.946752,35.638169,-91.946752,35.638169",
     "geom:latitude":35.638169,
     "geom:longitude":-91.946752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"198 Five Mile Rd",
     "sg:city":"Drasco",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219737543,
-    "wof:lastmodified":1449071186,
+    "wof:lastmodified":1466324898,
     "wof:name":"Headhunters Family Hair Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "stylist"
     ]
 },
-  "bbox": [-91.946752,35.638169,-91.946752,35.638169],
+  "bbox": [
+    -91.946752,
+    35.638169,
+    -91.946752,
+    35.638169
+],
   "geometry": {"coordinates":[-91.946752,35.638169],"type":"Point"}
 }

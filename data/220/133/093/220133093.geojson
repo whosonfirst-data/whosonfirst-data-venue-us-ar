@@ -2,13 +2,14 @@
   "id": 220133093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.09117,34.898717,-94.09117,34.898717",
     "geom:latitude":34.898717,
     "geom:longitude":-94.09117,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"232 S Main St",
     "sg:city":"Waldron",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":220133093,
-    "wof:lastmodified":1449074713,
+    "wof:lastmodified":1466322867,
     "wof:name":"Ebie's Gift Box & Flowers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.09117,34.898717,-94.09117,34.898717],
-  "geometry": {"coordinates":[-94.09117,34.898717],"type":"Point"}
+  "bbox": [
+    -94.09117,
+    34.898717,
+    -94.09117,
+    34.898717
+],
+  "geometry": {"coordinates":[-94.09117000000001,34.898717],"type":"Point"}
 }

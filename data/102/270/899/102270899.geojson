@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102270899",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.375268,33.7915,-93.375268,33.7915",
     "geom:latitude":33.7915,
     "geom:longitude":-93.375268,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"857 Martin",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102270899",
-    "wof:lastmodified":1449068247,
+    "wof:lastmodified":1466322466,
     "wof:name":"Prescott Head Start",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.375268,33.7915,-93.375268,33.7915],
-  "geometry": {"coordinates":[-93.375268,33.7915],"type":"Point"}
+  "bbox": [
+    -93.375268,
+    33.7915,
+    -93.375268,
+    33.7915
+],
+  "geometry": {"coordinates":[-93.37526800000001,33.7915],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102327671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.567264,34.538991,-92.567264,34.538991",
     "geom:latitude":34.538991,
     "geom:longitude":-92.567264,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2501 Bennett Rd",
     "sg:city":"Benton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102327671,
-    "wof:lastmodified":1449067971,
+    "wof:lastmodified":1466323653,
     "wof:name":"Social Hill Cemetery Assn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.567264,34.538991,-92.567264,34.538991],
-  "geometry": {"coordinates":[-92.567264,34.538991],"type":"Point"}
+  "bbox": [
+    -92.567264,
+    34.538991,
+    -92.567264,
+    34.538991
+],
+  "geometry": {"coordinates":[-92.56726399999999,34.538991],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219407957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.446938,35.035049,-92.446938,35.035049",
     "geom:latitude":35.035049,
     "geom:longitude":-92.446938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"95 Wasson Rd",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219407957,
-    "wof:lastmodified":1449072333,
+    "wof:lastmodified":1466322915,
     "wof:name":"Apex Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrician"
     ]
 },
-  "bbox": [-92.446938,35.035049,-92.446938,35.035049],
+  "bbox": [
+    -92.446938,
+    35.035049,
+    -92.446938,
+    35.035049
+],
   "geometry": {"coordinates":[-92.446938,35.035049],"type":"Point"}
 }

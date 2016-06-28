@@ -2,13 +2,14 @@
   "id": 220065919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.164879,35.28828,-93.164879,35.28828",
     "geom:latitude":35.28828,
     "geom:longitude":-93.164879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Skyline Dr",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":220065919,
-    "wof:lastmodified":1449074874,
+    "wof:lastmodified":1466321172,
     "wof:name":"Finley F Turner Md",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "family"
     ]
 },
-  "bbox": [-93.164879,35.28828,-93.164879,35.28828],
+  "bbox": [
+    -93.164879,
+    35.28828,
+    -93.164879,
+    35.28828
+],
   "geometry": {"coordinates":[-93.164879,35.28828],"type":"Point"}
 }

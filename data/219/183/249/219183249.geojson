@@ -2,13 +2,14 @@
   "id": 219183249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.076007,33.626461,-92.076007,33.626461",
     "geom:latitude":33.626461,
     "geom:longitude":-92.076007,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"604 Carey St",
     "sg:city":"Warren",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219183249,
-    "wof:lastmodified":1449072273,
+    "wof:lastmodified":1466320658,
     "wof:name":"Scriptures",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-92.076007,33.626461,-92.076007,33.626461],
+  "bbox": [
+    -92.076007,
+    33.626461,
+    -92.076007,
+    33.626461
+],
   "geometry": {"coordinates":[-92.076007,33.626461],"type":"Point"}
 }

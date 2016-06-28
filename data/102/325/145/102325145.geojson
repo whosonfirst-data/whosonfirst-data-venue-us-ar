@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102325145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.228268,36.046077,-94.228268,36.046077",
     "geom:latitude":36.046077,
     "geom:longitude":-94.228268,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"290 E Main St",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -35,11 +36,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885421,
+        85688549,
         85633793,
         85919615,
         102082007,
-        85688549
+        85885421
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":102325145,
-    "wof:lastmodified":1449068706,
+    "wof:lastmodified":1466323523,
     "wof:name":"Hancock Farms Equipment & Supl",
     "wof:parent_id":85885421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.228268,36.046077,-94.228268,36.046077],
+  "bbox": [
+    -94.228268,
+    36.046077,
+    -94.228268,
+    36.046077
+],
   "geometry": {"coordinates":[-94.228268,36.046077],"type":"Point"}
 }

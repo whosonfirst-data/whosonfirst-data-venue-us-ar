@@ -2,13 +2,14 @@
   "id": 220130417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.276135,35.550845,-94.276135,35.550845",
     "geom:latitude":35.550845,
     "geom:longitude":-94.276135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8024 Old 88 Rd",
     "sg:city":"Rudy",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":220130417,
-    "wof:lastmodified":1449074291,
+    "wof:lastmodified":1466322802,
     "wof:name":"Taylor Tile Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-94.276135,35.550845,-94.276135,35.550845],
+  "bbox": [
+    -94.276135,
+    35.550845,
+    -94.276135,
+    35.550845
+],
   "geometry": {"coordinates":[-94.276135,35.550845],"type":"Point"}
 }

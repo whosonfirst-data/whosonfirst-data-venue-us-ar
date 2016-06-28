@@ -2,13 +2,14 @@
   "id": 336740097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.839371,36.52661,-94.839371,36.52661",
     "geom:latitude":36.52661,
     "geom:longitude":-94.839371,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33680 S 583 Rd",
     "sg:city":"Jay",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336740097,
-    "wof:lastmodified":1448997442,
+    "wof:lastmodified":1466320416,
     "wof:name":"Superior Business Products",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-94.839371,36.52661,-94.839371,36.52661],
+  "bbox": [
+    -94.839371,
+    36.52661,
+    -94.839371,
+    36.52661
+],
   "geometry": {"coordinates":[-94.839371,36.52661],"type":"Point"}
 }

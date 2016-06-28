@@ -2,13 +2,14 @@
   "id": 220100219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.174524,35.512597,-94.174524,35.512597",
     "geom:latitude":35.512597,
     "geom:longitude":-94.174524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5804 N Mountain Grove Rd",
     "sg:city":"Alma",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":220100219,
-    "wof:lastmodified":1449074641,
+    "wof:lastmodified":1466322233,
     "wof:name":"Graphic Missionary Baptis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "artist"
     ]
 },
-  "bbox": [-94.174524,35.512597,-94.174524,35.512597],
-  "geometry": {"coordinates":[-94.174524,35.512597],"type":"Point"}
+  "bbox": [
+    -94.174524,
+    35.512597,
+    -94.174524,
+    35.512597
+],
+  "geometry": {"coordinates":[-94.17452400000001,35.512597],"type":"Point"}
 }

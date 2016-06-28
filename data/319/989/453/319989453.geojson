@@ -2,13 +2,14 @@
   "id": 319989453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.527167,36.223677,-94.527167,36.223677",
     "geom:latitude":36.223677,
     "geom:longitude":-94.527167,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14026 Muirfield Dr",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":319989453,
-    "wof:lastmodified":1449024660,
+    "wof:lastmodified":1466320414,
     "wof:name":"Keystone",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.527167,36.223677,-94.527167,36.223677],
-  "geometry": {"coordinates":[-94.527167,36.223677],"type":"Point"}
+  "bbox": [
+    -94.527167,
+    36.223677,
+    -94.527167,
+    36.223677
+],
+  "geometry": {"coordinates":[-94.52716700000001,36.223677],"type":"Point"}
 }

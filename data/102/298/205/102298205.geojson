@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102298205",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.442541,35.094277,-92.442541,35.094277",
     "geom:latitude":35.094277,
     "geom:longitude":-92.442541,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1156 Front St",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102298205",
-    "wof:lastmodified":1449068437,
+    "wof:lastmodified":1466322957,
     "wof:name":"Something Brewing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.442541,35.094277,-92.442541,35.094277],
-  "geometry": {"coordinates":[-92.442541,35.094277],"type":"Point"}
+  "bbox": [
+    -92.442541,
+    35.094277,
+    -92.442541,
+    35.094277
+],
+  "geometry": {"coordinates":[-92.44254100000001,35.094277],"type":"Point"}
 }

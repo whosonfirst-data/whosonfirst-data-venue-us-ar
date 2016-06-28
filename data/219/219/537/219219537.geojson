@@ -2,13 +2,14 @@
   "id": 219219537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.730164,33.344527,-92.730164,33.344527",
     "geom:latitude":33.344527,
     "geom:longitude":-92.730164,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4401 Smackover Hwy",
     "sg:city":"Smackover",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219219537,
-    "wof:lastmodified":1449073765,
+    "wof:lastmodified":1466321041,
     "wof:name":"Super 8 Motel - Smackover",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lodging"
     ]
 },
-  "bbox": [-92.730164,33.344527,-92.730164,33.344527],
+  "bbox": [
+    -92.730164,
+    33.344527,
+    -92.730164,
+    33.344527
+],
   "geometry": {"coordinates":[-92.730164,33.344527],"type":"Point"}
 }

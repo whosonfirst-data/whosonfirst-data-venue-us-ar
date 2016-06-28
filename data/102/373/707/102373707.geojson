@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102373707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.375109,36.347416,-92.375109,36.347416",
     "geom:latitude":36.347416,
     "geom:longitude":-92.375109,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"922 Hwy 62 E",
     "sg:city":"Mountain Home",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102373707,
-    "wof:lastmodified":1449068991,
+    "wof:lastmodified":1466320775,
     "wof:name":"Yellow Submarine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.375109,36.347416,-92.375109,36.347416],
-  "geometry": {"coordinates":[-92.375109,36.347416],"type":"Point"}
+  "bbox": [
+    -92.375109,
+    36.347416,
+    -92.375109,
+    36.347416
+],
+  "geometry": {"coordinates":[-92.37510899999999,36.347416],"type":"Point"}
 }

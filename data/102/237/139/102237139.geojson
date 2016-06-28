@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102237139",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.187029,36.317483,-94.187029,36.317483",
     "geom:latitude":36.317483,
     "geom:longitude":-94.187029,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5214 Village Pkwy",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895857,
+        85688549,
         85633793,
         85921535,
         102083255,
-        85688549
+        85895857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102237139",
-    "wof:lastmodified":1449067826,
+    "wof:lastmodified":1466321502,
     "wof:name":"Green Bean",
     "wof:parent_id":85895857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.187029,36.317483,-94.187029,36.317483],
+  "bbox": [
+    -94.187029,
+    36.317483,
+    -94.187029,
+    36.317483
+],
   "geometry": {"coordinates":[-94.187029,36.317483],"type":"Point"}
 }

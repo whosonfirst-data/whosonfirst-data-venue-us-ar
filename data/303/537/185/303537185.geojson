@@ -2,13 +2,14 @@
   "id": 303537185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.788418,36.579761,-94.788418,36.579761",
     "geom:latitude":36.579761,
     "geom:longitude":-94.788418,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1304 Marina Dr",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303537185,
-    "wof:lastmodified":1448998710,
+    "wof:lastmodified":1466320510,
     "wof:name":"Ronco Manufacturing",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-94.788418,36.579761,-94.788418,36.579761],
-  "geometry": {"coordinates":[-94.788418,36.579761],"type":"Point"}
+  "bbox": [
+    -94.788418,
+    36.579761,
+    -94.788418,
+    36.579761
+],
+  "geometry": {"coordinates":[-94.78841799999999,36.579761],"type":"Point"}
 }

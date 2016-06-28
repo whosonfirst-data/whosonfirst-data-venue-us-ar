@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102300033",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.114055,34.42452,-93.114055,34.42452",
     "geom:latitude":34.42452,
     "geom:longitude":-93.114055,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"720 Amity Rd",
     "sg:city":"Hot Springs",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":"102300033",
-    "wof:lastmodified":1449069101,
+    "wof:lastmodified":1466322940,
     "wof:name":"Millennium Marble",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.114055,34.42452,-93.114055,34.42452],
-  "geometry": {"coordinates":[-93.114055,34.42452],"type":"Point"}
+  "bbox": [
+    -93.114055,
+    34.42452,
+    -93.114055,
+    34.42452
+],
+  "geometry": {"coordinates":[-93.11405499999999,34.42452],"type":"Point"}
 }

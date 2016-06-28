@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102367281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.81257,33.66126,-91.81257,33.66126",
     "geom:latitude":33.66126,
     "geom:longitude":-91.81257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Country Club Ln",
     "sg:city":"Monticello",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102367281,
-    "wof:lastmodified":1449069169,
+    "wof:lastmodified":1466324524,
     "wof:name":"Denison Management",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.81257,33.66126,-91.81257,33.66126],
-  "geometry": {"coordinates":[-91.81257,33.66126],"type":"Point"}
+  "bbox": [
+    -91.81257,
+    33.66126,
+    -91.81257,
+    33.66126
+],
+  "geometry": {"coordinates":[-91.81256999999999,33.66126],"type":"Point"}
 }

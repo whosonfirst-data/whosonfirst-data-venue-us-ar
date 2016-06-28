@@ -2,13 +2,14 @@
   "id": 219524385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.80978,35.240426,-91.80978,35.240426",
     "geom:latitude":35.240426,
     "geom:longitude":-91.80978,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 Ranchette Village Rd",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219524385,
-    "wof:lastmodified":1449070345,
+    "wof:lastmodified":1466324139,
     "wof:name":"Hot Shots of Arkansas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "transporter"
     ]
 },
-  "bbox": [-91.80978,35.240426,-91.80978,35.240426],
+  "bbox": [
+    -91.80978,
+    35.240426,
+    -91.80978,
+    35.240426
+],
   "geometry": {"coordinates":[-91.80978,35.240426],"type":"Point"}
 }

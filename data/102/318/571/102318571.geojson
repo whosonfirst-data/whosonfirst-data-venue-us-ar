@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102318571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.137674,36.115776,-94.137674,36.115776",
     "geom:latitude":36.115776,
     "geom:longitude":-94.137674,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3595 N Bellshire Dr",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885433,
+        85688549,
         85633793,
         85919609,
         102082007,
-        85688549
+        85885433
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102318571,
-    "wof:lastmodified":1449068324,
+    "wof:lastmodified":1466323433,
     "wof:name":"Dunn Danna Crt Reporting Svcs",
     "wof:parent_id":85885433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.137674,36.115776,-94.137674,36.115776],
+  "bbox": [
+    -94.137674,
+    36.115776,
+    -94.137674,
+    36.115776
+],
   "geometry": {"coordinates":[-94.137674,36.115776],"type":"Point"}
 }

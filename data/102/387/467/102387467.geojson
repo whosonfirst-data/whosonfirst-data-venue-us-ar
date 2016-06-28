@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102387467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.12361,36.334235,-94.12361,36.334235",
     "geom:latitude":36.334235,
     "geom:longitude":-94.12361,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 N 7th St",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895845,
+        85688549,
         85633793,
         85921535,
         102083255,
-        85688549
+        85895845
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102387467,
-    "wof:lastmodified":1449069851,
+    "wof:lastmodified":1466323628,
     "wof:name":"Luffman & Bledsoe",
     "wof:parent_id":85895845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.12361,36.334235,-94.12361,36.334235],
+  "bbox": [
+    -94.12361,
+    36.334235,
+    -94.12361,
+    36.334235
+],
   "geometry": {"coordinates":[-94.12361,36.334235],"type":"Point"}
 }

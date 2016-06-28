@@ -2,13 +2,14 @@
   "id": 219875611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.210918,36.343114,-94.210918,36.343114",
     "geom:latitude":36.343114,
     "geom:longitude":-94.210918,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2812 S Walton Blvd",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":219875611,
-    "wof:lastmodified":1449073026,
+    "wof:lastmodified":1466325060,
     "wof:name":"Abbey Carpet & Floor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "tile-contractors"
     ]
 },
-  "bbox": [-94.210918,36.343114,-94.210918,36.343114],
-  "geometry": {"coordinates":[-94.210918,36.343114],"type":"Point"}
+  "bbox": [
+    -94.210918,
+    36.343114,
+    -94.210918,
+    36.343114
+],
+  "geometry": {"coordinates":[-94.21091800000001,36.343114],"type":"Point"}
 }

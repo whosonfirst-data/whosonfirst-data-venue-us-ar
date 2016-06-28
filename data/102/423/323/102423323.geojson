@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102423323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.323405,34.593667,-94.323405,34.593667",
     "geom:latitude":34.593667,
     "geom:longitude":-94.323405,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4174 State Hwy 8",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102423323,
-    "wof:lastmodified":1449068198,
+    "wof:lastmodified":1466325388,
     "wof:name":"Larry's Taxidermy Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.323405,34.593667,-94.323405,34.593667],
-  "geometry": {"coordinates":[-94.323405,34.593667],"type":"Point"}
+  "bbox": [
+    -94.323405,
+    34.593667,
+    -94.323405,
+    34.593667
+],
+  "geometry": {"coordinates":[-94.32340499999999,34.593667],"type":"Point"}
 }

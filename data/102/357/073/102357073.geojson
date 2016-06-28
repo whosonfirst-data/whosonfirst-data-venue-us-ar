@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102357073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.289371,33.325245,-91.289371,33.325245",
     "geom:latitude":33.325245,
     "geom:longitude":-91.289371,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"820 Mulberry St",
     "sg:city":"Lake Village",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102357073,
-    "wof:lastmodified":1449069882,
+    "wof:lastmodified":1466324143,
     "wof:name":"Country Place Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.289371,33.325245,-91.289371,33.325245],
+  "bbox": [
+    -91.289371,
+    33.325245,
+    -91.289371,
+    33.325245
+],
   "geometry": {"coordinates":[-91.289371,33.325245],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102422505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.053992,34.51348,-93.053992,34.51348",
     "geom:latitude":34.51348,
     "geom:longitude":-93.053992,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"418 Central Ave",
     "sg:city":"Hot Springs National",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102422505,
-    "wof:lastmodified":1449067958,
+    "wof:lastmodified":1466325425,
     "wof:name":"National Park Duck Tours",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.053992,34.51348,-93.053992,34.51348],
-  "geometry": {"coordinates":[-93.053992,34.51348],"type":"Point"}
+  "bbox": [
+    -93.053992,
+    34.51348,
+    -93.053992,
+    34.51348
+],
+  "geometry": {"coordinates":[-93.05399199999999,34.51348],"type":"Point"}
 }

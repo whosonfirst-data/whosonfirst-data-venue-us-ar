@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102229129",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.116096,36.1913,-94.116096,36.1913",
     "geom:latitude":36.1913,
     "geom:longitude":-94.116096,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"705 N Old Missouri Rd",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -34,11 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885481,
+        85688549,
         85633793,
         85919623,
         102082007,
-        85688549
+        85885481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":"102229129",
-    "wof:lastmodified":1449069698,
+    "wof:lastmodified":1466321334,
     "wof:name":"West-Ark Electric Inc",
     "wof:parent_id":85885481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.116096,36.1913,-94.116096,36.1913],
+  "bbox": [
+    -94.116096,
+    36.1913,
+    -94.116096,
+    36.1913
+],
   "geometry": {"coordinates":[-94.116096,36.1913],"type":"Point"}
 }

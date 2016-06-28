@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102428773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.502221,34.611791,-92.502221,34.611791",
     "geom:latitude":34.611791,
     "geom:longitude":-92.502221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1810 Bishop Rd",
     "sg:city":"Benton",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85817531,
+        85688549,
         85633793,
         85921383,
         102083257,
-        85688549
+        85817531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102428773,
-    "wof:lastmodified":1449070022,
+    "wof:lastmodified":1466325272,
     "wof:name":"Razorback Moving Co",
     "wof:parent_id":85817531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.502221,34.611791,-92.502221,34.611791],
-  "geometry": {"coordinates":[-92.502221,34.611791],"type":"Point"}
+  "bbox": [
+    -92.502221,
+    34.611791,
+    -92.502221,
+    34.611791
+],
+  "geometry": {"coordinates":[-92.50222100000001,34.611791],"type":"Point"}
 }

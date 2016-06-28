@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102402893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.123674,36.190552,-94.123674,36.190552",
     "geom:latitude":36.190552,
     "geom:longitude":-94.123674,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 Jefferson St",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885481,
+        85688549,
         85633793,
         85919623,
         102082007,
-        85688549
+        85885481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102402893,
-    "wof:lastmodified":1449068561,
+    "wof:lastmodified":1466324629,
     "wof:name":"Aert Inc",
     "wof:parent_id":85885481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.123674,36.190552,-94.123674,36.190552],
-  "geometry": {"coordinates":[-94.123674,36.190552],"type":"Point"}
+  "bbox": [
+    -94.123674,
+    36.190552,
+    -94.123674,
+    36.190552
+],
+  "geometry": {"coordinates":[-94.12367399999999,36.190552],"type":"Point"}
 }

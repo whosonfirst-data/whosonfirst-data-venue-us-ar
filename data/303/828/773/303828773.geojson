@@ -2,13 +2,14 @@
   "id": 303828773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.819459,36.59802,-94.819459,36.59802",
     "geom:latitude":36.59802,
     "geom:longitude":-94.819459,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"59400 E 290 Rd",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303828773,
-    "wof:lastmodified":1448999356,
+    "wof:lastmodified":1466320608,
     "wof:name":"Utry & Brewster Construction",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-94.819459,36.59802,-94.819459,36.59802],
-  "geometry": {"coordinates":[-94.819459,36.59802],"type":"Point"}
+  "bbox": [
+    -94.819459,
+    36.59802,
+    -94.819459,
+    36.59802
+],
+  "geometry": {"coordinates":[-94.81945899999999,36.59802],"type":"Point"}
 }

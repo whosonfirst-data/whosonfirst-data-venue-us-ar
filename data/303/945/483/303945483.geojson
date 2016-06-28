@@ -2,13 +2,14 @@
   "id": 303945483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.562548,36.214613,-94.562548,36.214613",
     "geom:latitude":36.214613,
     "geom:longitude":-94.562548,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14453 State Hwy 43",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303945483,
-    "wof:lastmodified":1448998325,
+    "wof:lastmodified":1466320645,
     "wof:name":"Spavinaw Millworks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.562548,36.214613,-94.562548,36.214613],
-  "geometry": {"coordinates":[-94.562548,36.214613],"type":"Point"}
+  "bbox": [
+    -94.562548,
+    36.214613,
+    -94.562548,
+    36.214613
+],
+  "geometry": {"coordinates":[-94.56254800000001,36.214613],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102321203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.093911,34.466163,-93.093911,34.466163",
     "geom:latitude":34.466163,
     "geom:longitude":-93.093911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"820 Lakeshore Dr",
     "sg:city":"Hot Springs National Park",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102321203,
-    "wof:lastmodified":1449067821,
+    "wof:lastmodified":1466323390,
     "wof:name":"Geraldine Browning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.093911,34.466163,-93.093911,34.466163],
-  "geometry": {"coordinates":[-93.093911,34.466163],"type":"Point"}
+  "bbox": [
+    -93.093911,
+    34.466163,
+    -93.093911,
+    34.466163
+],
+  "geometry": {"coordinates":[-93.09391100000001,34.466163],"type":"Point"}
 }

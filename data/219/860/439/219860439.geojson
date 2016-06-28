@@ -2,13 +2,14 @@
   "id": 219860439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.15678,36.117704,-94.15678,36.117704",
     "geom:latitude":36.117704,
     "geom:longitude":-94.15678,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3739 N Steele Blvd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219860439,
-    "wof:lastmodified":1449071966,
+    "wof:lastmodified":1466325134,
     "wof:name":"Gunn Christian Atty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "practice"
     ]
 },
-  "bbox": [-94.15678,36.117704,-94.15678,36.117704],
+  "bbox": [
+    -94.15678,
+    36.117704,
+    -94.15678,
+    36.117704
+],
   "geometry": {"coordinates":[-94.15678,36.117704],"type":"Point"}
 }

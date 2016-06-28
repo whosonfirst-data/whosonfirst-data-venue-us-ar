@@ -2,13 +2,14 @@
   "id": 235944695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.7411,36.583191,-94.7411,36.583191",
     "geom:latitude":36.583191,
     "geom:longitude":-94.7411,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"65801 E 300 Rd",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":235944695,
-    "wof:lastmodified":1449008417,
+    "wof:lastmodified":1466320422,
     "wof:name":"Missy's Hair & Nail Salon",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.7411,36.583191,-94.7411,36.583191],
+  "bbox": [
+    -94.7411,
+    36.583191,
+    -94.7411,
+    36.583191
+],
   "geometry": {"coordinates":[-94.7411,36.583191],"type":"Point"}
 }

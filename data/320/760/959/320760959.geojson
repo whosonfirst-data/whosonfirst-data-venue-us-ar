@@ -2,13 +2,14 @@
   "id": 320760959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.880847,36.54323,-94.880847,36.54323",
     "geom:latitude":36.54323,
     "geom:longitude":-94.880847,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"32800 S 560 Rd",
     "sg:city":"Jay",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320760959,
-    "wof:lastmodified":1449014824,
+    "wof:lastmodified":1466320643,
     "wof:name":"Palm Transport",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-94.880847,36.54323,-94.880847,36.54323],
+  "bbox": [
+    -94.880847,
+    36.54323,
+    -94.880847,
+    36.54323
+],
   "geometry": {"coordinates":[-94.880847,36.54323],"type":"Point"}
 }

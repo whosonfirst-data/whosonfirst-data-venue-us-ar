@@ -2,13 +2,14 @@
   "id": 219760755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.141136,36.267735,-93.141136,36.267735",
     "geom:latitude":36.267735,
     "geom:longitude":-93.141136,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1429 Highway 65 N",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219760755,
-    "wof:lastmodified":1449073782,
+    "wof:lastmodified":1466324919,
     "wof:name":"Yamaha Of Harrison",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.141136,36.267735,-93.141136,36.267735],
+  "bbox": [
+    -93.141136,
+    36.267735,
+    -93.141136,
+    36.267735
+],
   "geometry": {"coordinates":[-93.141136,36.267735],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219587757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.586143,34.529436,-90.586143,34.529436",
     "geom:latitude":34.529436,
     "geom:longitude":-90.586143,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"727 Cherry St",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219587757,
-    "wof:lastmodified":1449071614,
+    "wof:lastmodified":1466324573,
     "wof:name":"Louis Etoch Law Firm",
     "wof:parent_id":85838649,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practice"
     ]
 },
-  "bbox": [-90.586143,34.529436,-90.586143,34.529436],
-  "geometry": {"coordinates":[-90.586143,34.529436],"type":"Point"}
+  "bbox": [
+    -90.586143,
+    34.529436,
+    -90.586143,
+    34.529436
+],
+  "geometry": {"coordinates":[-90.58614300000001,34.529436],"type":"Point"}
 }

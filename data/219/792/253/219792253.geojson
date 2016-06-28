@@ -2,13 +2,14 @@
   "id": 219792253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.536354,36.267681,-92.536354,36.267681",
     "geom:latitude":36.267681,
     "geom:longitude":-92.536354,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"333 Mclean Ave",
     "sg:city":"Cotter",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219792253,
-    "wof:lastmodified":1449071155,
+    "wof:lastmodified":1466324945,
     "wof:name":"Jabez Properties Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "park"
     ]
 },
-  "bbox": [-92.536354,36.267681,-92.536354,36.267681],
+  "bbox": [
+    -92.536354,
+    36.267681,
+    -92.536354,
+    36.267681
+],
   "geometry": {"coordinates":[-92.536354,36.267681],"type":"Point"}
 }

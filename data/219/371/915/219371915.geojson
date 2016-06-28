@@ -2,13 +2,14 @@
   "id": 219371915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.199375,34.592032,-91.199375,34.592032",
     "geom:latitude":34.592032,
     "geom:longitude":-91.199375,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"517 Washington St",
     "sg:city":"Clarendon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219371915,
-    "wof:lastmodified":1449073152,
+    "wof:lastmodified":1466322603,
     "wof:name":"Jerry W Simpson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.199375,34.592032,-91.199375,34.592032],
+  "bbox": [
+    -91.199375,
+    34.592032,
+    -91.199375,
+    34.592032
+],
   "geometry": {"coordinates":[-91.199375,34.592032],"type":"Point"}
 }

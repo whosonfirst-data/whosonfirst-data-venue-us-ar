@@ -2,13 +2,14 @@
   "id": 235945965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.782288,36.574268,-94.782288,36.574268",
     "geom:latitude":36.574268,
     "geom:longitude":-94.782288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 State Park Rd",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":235945965,
-    "wof:lastmodified":1449008308,
+    "wof:lastmodified":1466320433,
     "wof:name":"Honey Creek State Park",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "vehicle"
     ]
 },
-  "bbox": [-94.782288,36.574268,-94.782288,36.574268],
-  "geometry": {"coordinates":[-94.782288,36.574268],"type":"Point"}
+  "bbox": [
+    -94.782288,
+    36.574268,
+    -94.782288,
+    36.574268
+],
+  "geometry": {"coordinates":[-94.78228799999999,36.574268],"type":"Point"}
 }

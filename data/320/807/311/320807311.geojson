@@ -2,13 +2,14 @@
   "id": 320807311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.542473,36.176172,-94.542473,36.176172",
     "geom:latitude":36.176172,
     "geom:longitude":-94.542473,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"903 S Wright St",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":320807311,
-    "wof:lastmodified":1449012220,
+    "wof:lastmodified":1466320655,
     "wof:name":"Dorsey's Furniture Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "custom"
     ]
 },
-  "bbox": [-94.542473,36.176172,-94.542473,36.176172],
+  "bbox": [
+    -94.542473,
+    36.176172,
+    -94.542473,
+    36.176172
+],
   "geometry": {"coordinates":[-94.542473,36.176172],"type":"Point"}
 }

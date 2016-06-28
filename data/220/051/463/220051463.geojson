@@ -2,13 +2,14 @@
   "id": 220051463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.138692,36.186522,-94.138692,36.186522",
     "geom:latitude":36.186522,
     "geom:longitude":-94.138692,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"920 W Johnson Ave",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220051463,
-    "wof:lastmodified":1449074533,
+    "wof:lastmodified":1466320704,
     "wof:name":"ASAP Services",
     "wof:parent_id":85885481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "temporary"
     ]
 },
-  "bbox": [-94.138692,36.186522,-94.138692,36.186522],
-  "geometry": {"coordinates":[-94.138692,36.186522],"type":"Point"}
+  "bbox": [
+    -94.138692,
+    36.186522,
+    -94.138692,
+    36.186522
+],
+  "geometry": {"coordinates":[-94.13869200000001,36.186522],"type":"Point"}
 }

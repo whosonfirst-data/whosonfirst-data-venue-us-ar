@@ -2,13 +2,14 @@
   "id": 219895391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.20288,36.335248,-94.20288,36.335248",
     "geom:latitude":36.335248,
     "geom:longitude":-94.20288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 SE Walton Blvd Ste 10",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219895391,
-    "wof:lastmodified":1449071883,
+    "wof:lastmodified":1466325088,
     "wof:name":"Johnny Brusco's New York Style Pizza",
     "wof:parent_id":85895821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "italian"
     ]
 },
-  "bbox": [-94.20288,36.335248,-94.20288,36.335248],
-  "geometry": {"coordinates":[-94.20288,36.335248],"type":"Point"}
+  "bbox": [
+    -94.20288,
+    36.335248,
+    -94.20288,
+    36.335248
+],
+  "geometry": {"coordinates":[-94.20287999999999,36.335248],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219155865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.797753,33.209531,-91.797753,33.209531",
     "geom:latitude":33.209531,
     "geom:longitude":-91.797753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 E Serrett St",
     "sg:city":"Hamburg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219155865,
-    "wof:lastmodified":1449073309,
+    "wof:lastmodified":1466320435,
     "wof:name":"Cathy's Hair Salon & Gift Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "stylist"
     ]
 },
-  "bbox": [-91.797753,33.209531,-91.797753,33.209531],
+  "bbox": [
+    -91.797753,
+    33.209531,
+    -91.797753,
+    33.209531
+],
   "geometry": {"coordinates":[-91.797753,33.209531],"type":"Point"}
 }

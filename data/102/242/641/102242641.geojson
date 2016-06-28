@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102242641",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.890526,33.264941,-93.890526,33.264941",
     "geom:latitude":33.264941,
     "geom:longitude":-93.890526,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"171 N Miller St",
     "sg:city":"Fouke",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102242641",
-    "wof:lastmodified":1449069897,
+    "wof:lastmodified":1466321736,
     "wof:name":"Visual Concepts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.890526,33.264941,-93.890526,33.264941],
-  "geometry": {"coordinates":[-93.890526,33.264941],"type":"Point"}
+  "bbox": [
+    -93.890526,
+    33.264941,
+    -93.890526,
+    33.264941
+],
+  "geometry": {"coordinates":[-93.89052599999999,33.264941],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219528771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.738564,35.250809,-91.738564,35.250809",
     "geom:latitude":35.250809,
     "geom:longitude":-91.738564,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 W Race Ave",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":219528771,
-    "wof:lastmodified":1449071349,
+    "wof:lastmodified":1466324170,
     "wof:name":"Main Street Searcy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "employer"
     ]
 },
-  "bbox": [-91.738564,35.250809,-91.738564,35.250809],
+  "bbox": [
+    -91.738564,
+    35.250809,
+    -91.738564,
+    35.250809
+],
   "geometry": {"coordinates":[-91.738564,35.250809],"type":"Point"}
 }

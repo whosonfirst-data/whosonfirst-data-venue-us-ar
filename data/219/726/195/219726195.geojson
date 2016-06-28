@@ -2,13 +2,14 @@
   "id": 219726195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.904631,35.624159,-90.904631,35.624159",
     "geom:latitude":35.624159,
     "geom:longitude":-90.904631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"441 School St",
     "sg:city":"Weiner",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219726195,
-    "wof:lastmodified":1449072805,
+    "wof:lastmodified":1466324830,
     "wof:name":"Cdihs Serving Ne Arkansas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lawn"
     ]
 },
-  "bbox": [-90.904631,35.624159,-90.904631,35.624159],
-  "geometry": {"coordinates":[-90.904631,35.624159],"type":"Point"}
+  "bbox": [
+    -90.904631,
+    35.624159,
+    -90.904631,
+    35.624159
+],
+  "geometry": {"coordinates":[-90.90463099999999,35.624159],"type":"Point"}
 }

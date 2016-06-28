@@ -2,13 +2,14 @@
   "id": 219486287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.225442,34.840314,-92.225442,34.840314",
     "geom:latitude":34.840314,
     "geom:longitude":-92.225442,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"609 E Maryland Ave",
     "sg:city":"Sherwood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219486287,
-    "wof:lastmodified":1449072336,
+    "wof:lastmodified":1466323775,
     "wof:name":"J&C Professional Landscaping",
     "wof:parent_id":85851723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lawn"
     ]
 },
-  "bbox": [-92.225442,34.840314,-92.225442,34.840314],
+  "bbox": [
+    -92.225442,
+    34.840314,
+    -92.225442,
+    34.840314
+],
   "geometry": {"coordinates":[-92.225442,34.840314],"type":"Point"}
 }

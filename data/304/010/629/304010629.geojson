@@ -2,13 +2,14 @@
   "id": 304010629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.123095,34.625859,-94.123095,34.625859",
     "geom:latitude":34.625859,
     "geom:longitude":-94.123095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"138 Polk Road 195",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":304010629,
-    "wof:lastmodified":1449043957,
+    "wof:lastmodified":1466320483,
     "wof:name":"Connie Verdic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.123095,34.625859,-94.123095,34.625859],
-  "geometry": {"coordinates":[-94.123095,34.625859],"type":"Point"}
+  "bbox": [
+    -94.123095,
+    34.625859,
+    -94.123095,
+    34.625859
+],
+  "geometry": {"coordinates":[-94.12309500000001,34.625859],"type":"Point"}
 }

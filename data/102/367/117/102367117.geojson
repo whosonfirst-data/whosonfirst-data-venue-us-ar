@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102367117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.90694,35.140773,-93.90694,35.140773",
     "geom:latitude":35.140773,
     "geom:longitude":-93.90694,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1108 Eastwood Dr",
     "sg:city":"Booneville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102367117,
-    "wof:lastmodified":1449069166,
+    "wof:lastmodified":1466324357,
     "wof:name":"Turnstone Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.90694,35.140773,-93.90694,35.140773],
-  "geometry": {"coordinates":[-93.90694,35.140773],"type":"Point"}
+  "bbox": [
+    -93.90694,
+    35.140773,
+    -93.90694,
+    35.140773
+],
+  "geometry": {"coordinates":[-93.90694000000001,35.140773],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219608153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.231268,35.692354,-90.231268,35.692354",
     "geom:latitude":35.692354,
     "geom:longitude":-90.231268,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1888 S State Highway 77",
     "sg:city":"Osceola",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219608153,
-    "wof:lastmodified":1449071895,
+    "wof:lastmodified":1466324593,
     "wof:name":"Little River Water District Association",
     "wof:parent_id":85814753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-90.231268,35.692354,-90.231268,35.692354],
+  "bbox": [
+    -90.231268,
+    35.692354,
+    -90.231268,
+    35.692354
+],
   "geometry": {"coordinates":[-90.231268,35.692354],"type":"Point"}
 }

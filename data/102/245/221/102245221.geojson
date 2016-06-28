@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102245221",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.75906,35.247114,-91.75906,35.247114",
     "geom:latitude":35.247114,
     "geom:longitude":-91.75906,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2009 W Beebe Capps Expy",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":"102245221",
-    "wof:lastmodified":1449070133,
+    "wof:lastmodified":1466321712,
     "wof:name":"Greer's Tire & Alignment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.75906,35.247114,-91.75906,35.247114],
-  "geometry": {"coordinates":[-91.75906,35.247114],"type":"Point"}
+  "bbox": [
+    -91.75906,
+    35.247114,
+    -91.75906,
+    35.247114
+],
+  "geometry": {"coordinates":[-91.75906000000001,35.247114],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102236025",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.268832,34.760825,-92.268832,34.760825",
     "geom:latitude":34.760825,
     "geom:longitude":-92.268832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"723 N Maple St",
     "sg:city":"N Little Rock",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102082497,
-        85633793,
         85688549,
-        85878757
+        85633793,
+        85878757,
+        102082497
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102236025",
-    "wof:lastmodified":1449068053,
+    "wof:lastmodified":1466321466,
     "wof:name":"North Little Rock Fire Marshal",
     "wof:parent_id":85878757,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.268832,34.760825,-92.268832,34.760825],
+  "bbox": [
+    -92.268832,
+    34.760825,
+    -92.268832,
+    34.760825
+],
   "geometry": {"coordinates":[-92.268832,34.760825],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102380869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.637843,35.770526,-91.637843,35.770526",
     "geom:latitude":35.770526,
     "geom:longitude":-91.637843,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1530 Byers St",
     "sg:city":"Batesville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85808231,
+        85688549,
         85633793,
         85920683,
         102083875,
-        85688549
+        85808231
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102380869,
-    "wof:lastmodified":1449068883,
+    "wof:lastmodified":1466322269,
     "wof:name":"Investment Professionals Inc",
     "wof:parent_id":85808231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.637843,35.770526,-91.637843,35.770526],
+  "bbox": [
+    -91.637843,
+    35.770526,
+    -91.637843,
+    35.770526
+],
   "geometry": {"coordinates":[-91.637843,35.770526],"type":"Point"}
 }

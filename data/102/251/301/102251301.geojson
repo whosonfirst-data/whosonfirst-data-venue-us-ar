@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102251301",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.242282,34.779626,-92.242282,34.779626",
     "geom:latitude":34.779626,
     "geom:longitude":-92.242282,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1429 Skyline Dr",
     "sg:city":"North Little Rock",
     "sg:classifiers":[
@@ -33,11 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829537,
+        85688549,
         85633793,
         85921255,
         102082497,
-        85688549
+        85829537
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":"102251301",
-    "wof:lastmodified":1449067809,
+    "wof:lastmodified":1466321881,
     "wof:name":"A-1 Masonry",
     "wof:parent_id":85829537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.242282,34.779626,-92.242282,34.779626],
+  "bbox": [
+    -92.242282,
+    34.779626,
+    -92.242282,
+    34.779626
+],
   "geometry": {"coordinates":[-92.242282,34.779626],"type":"Point"}
 }

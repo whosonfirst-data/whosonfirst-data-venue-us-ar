@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102422139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.616874,33.724506,-92.616874,33.724506",
     "geom:latitude":33.724506,
     "geom:longitude":-92.616874,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"160 N Plum St",
     "sg:city":"Bearden",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102422139,
-    "wof:lastmodified":1449067957,
+    "wof:lastmodified":1466325351,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.616874,33.724506,-92.616874,33.724506],
+  "bbox": [
+    -92.616874,
+    33.724506,
+    -92.616874,
+    33.724506
+],
   "geometry": {"coordinates":[-92.616874,33.724506],"type":"Point"}
 }

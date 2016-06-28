@@ -2,13 +2,14 @@
   "id": 219410329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.478662,35.087802,-92.478662,35.087802",
     "geom:latitude":35.087802,
     "geom:longitude":-92.478662,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3119 Windcrest Dr",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219410329,
-    "wof:lastmodified":1449070417,
+    "wof:lastmodified":1466322937,
     "wof:name":"Roachell Management Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "services-household"
     ]
 },
-  "bbox": [-92.478662,35.087802,-92.478662,35.087802],
+  "bbox": [
+    -92.478662,
+    35.087802,
+    -92.478662,
+    35.087802
+],
   "geometry": {"coordinates":[-92.478662,35.087802],"type":"Point"}
 }

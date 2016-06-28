@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102350865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.663801,33.213276,-92.663801,33.213276",
     "geom:latitude":33.213276,
     "geom:longitude":-92.663801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 N Washington Ave",
     "sg:city":"El Dorado",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102350865,
-    "wof:lastmodified":1449068976,
+    "wof:lastmodified":1466324123,
     "wof:name":"Office Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.663801,33.213276,-92.663801,33.213276],
-  "geometry": {"coordinates":[-92.663801,33.213276],"type":"Point"}
+  "bbox": [
+    -92.663801,
+    33.213276,
+    -92.663801,
+    33.213276
+],
+  "geometry": {"coordinates":[-92.66380100000001,33.213276],"type":"Point"}
 }

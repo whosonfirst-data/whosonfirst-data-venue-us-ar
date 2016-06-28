@@ -2,13 +2,14 @@
   "id": 337291267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.228139,34.833005,-92.228139,34.833005",
     "geom:latitude":34.833005,
     "geom:longitude":-92.228139,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 E Kiehl Ave",
     "sg:city":"Sherwood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337291267,
-    "wof:lastmodified":1449027194,
+    "wof:lastmodified":1466322083,
     "wof:name":"Decker's Medical Staffing",
     "wof:parent_id":85851723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-92.228139,34.833005,-92.228139,34.833005],
+  "bbox": [
+    -92.228139,
+    34.833005,
+    -92.228139,
+    34.833005
+],
   "geometry": {"coordinates":[-92.228139,34.833005],"type":"Point"}
 }

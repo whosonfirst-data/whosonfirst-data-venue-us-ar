@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102330367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.138534,36.186308,-94.138534,36.186308",
     "geom:latitude":36.186308,
     "geom:longitude":-94.138534,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 N Thompson St",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885481,
+        85688549,
         85633793,
         85919623,
         102082007,
-        85688549
+        85885481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102330367,
-    "wof:lastmodified":1449068954,
+    "wof:lastmodified":1466323617,
     "wof:name":"Botas Chihuahua",
     "wof:parent_id":85885481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.138534,36.186308,-94.138534,36.186308],
-  "geometry": {"coordinates":[-94.138534,36.186308],"type":"Point"}
+  "bbox": [
+    -94.138534,
+    36.186308,
+    -94.138534,
+    36.186308
+],
+  "geometry": {"coordinates":[-94.13853400000001,36.186308],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102319709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.129727,36.331652,-94.129727,36.331652",
     "geom:latitude":36.331652,
     "geom:longitude":-94.129727,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 S 11th St",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895845,
+        85688549,
         85633793,
         85921535,
         102083255,
-        85688549
+        85895845
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102319709,
-    "wof:lastmodified":1449068755,
+    "wof:lastmodified":1466323475,
     "wof:name":"Carousel Castle Daycare",
     "wof:parent_id":85895845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.129727,36.331652,-94.129727,36.331652],
+  "bbox": [
+    -94.129727,
+    36.331652,
+    -94.129727,
+    36.331652
+],
   "geometry": {"coordinates":[-94.129727,36.331652],"type":"Point"}
 }

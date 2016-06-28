@@ -2,13 +2,14 @@
   "id": 219731671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.609575,35.769547,-91.609575,35.769547",
     "geom:latitude":35.769547,
     "geom:longitude":-91.609575,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3417 Harrison St",
     "sg:city":"Batesville",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219731671,
-    "wof:lastmodified":1449073525,
+    "wof:lastmodified":1466324891,
     "wof:name":"Stars & Stripe Gymnastics Center Inc",
     "wof:parent_id":85808231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "dancing"
     ]
 },
-  "bbox": [-91.609575,35.769547,-91.609575,35.769547],
-  "geometry": {"coordinates":[-91.609575,35.769547],"type":"Point"}
+  "bbox": [
+    -91.609575,
+    35.769547,
+    -91.609575,
+    35.769547
+],
+  "geometry": {"coordinates":[-91.60957500000001,35.769547],"type":"Point"}
 }

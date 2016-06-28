@@ -2,13 +2,14 @@
   "id": 219487631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.22374,34.820992,-92.22374,34.820992",
     "geom:latitude":34.820992,
     "geom:longitude":-92.22374,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Saint Andrews Ct",
     "sg:city":"Sherwood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219487631,
-    "wof:lastmodified":1449071552,
+    "wof:lastmodified":1466323799,
     "wof:name":"Mccain Trading Company",
     "wof:parent_id":85851723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise-wholesale"
     ]
 },
-  "bbox": [-92.22374,34.820992,-92.22374,34.820992],
-  "geometry": {"coordinates":[-92.22374,34.820992],"type":"Point"}
+  "bbox": [
+    -92.22374,
+    34.820992,
+    -92.22374,
+    34.820992
+],
+  "geometry": {"coordinates":[-92.22374000000001,34.820992],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102258635",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.328091,35.516247,-93.328091,35.516247",
     "geom:latitude":35.516247,
     "geom:longitude":-93.328091,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12083 State Hwy 123",
     "sg:city":"Hagarville",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102258635",
-    "wof:lastmodified":1449069686,
+    "wof:lastmodified":1466322110,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.328091,35.516247,-93.328091,35.516247],
+  "bbox": [
+    -93.328091,
+    35.516247,
+    -93.328091,
+    35.516247
+],
   "geometry": {"coordinates":[-93.328091,35.516247],"type":"Point"}
 }

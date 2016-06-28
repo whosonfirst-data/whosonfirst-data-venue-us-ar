@@ -2,13 +2,14 @@
   "id": 219892901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.1858,36.342,-94.1858,36.342",
     "geom:latitude":36.342,
     "geom:longitude":-94.1858,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2308 SE 28th St Ste 6",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":219892901,
-    "wof:lastmodified":1449070906,
+    "wof:lastmodified":1466325086,
     "wof:name":"Catering Concepts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "caterer"
     ]
 },
-  "bbox": [-94.1858,36.342,-94.1858,36.342],
+  "bbox": [
+    -94.1858,
+    36.342,
+    -94.1858,
+    36.342
+],
   "geometry": {"coordinates":[-94.1858,36.342],"type":"Point"}
 }

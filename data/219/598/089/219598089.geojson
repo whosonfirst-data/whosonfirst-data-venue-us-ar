@@ -2,13 +2,14 @@
   "id": 219598089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.774008,34.774609,-90.774008,34.774609",
     "geom:latitude":34.774609,
     "geom:longitude":-90.774008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"489 W Chestnut St",
     "sg:city":"Marianna",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219598089,
-    "wof:lastmodified":1449070564,
+    "wof:lastmodified":1466324578,
     "wof:name":"Thompson's Repair Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.774008,34.774609,-90.774008,34.774609],
-  "geometry": {"coordinates":[-90.774008,34.774609],"type":"Point"}
+  "bbox": [
+    -90.774008,
+    34.774609,
+    -90.774008,
+    34.774609
+],
+  "geometry": {"coordinates":[-90.77400799999999,34.774609],"type":"Point"}
 }

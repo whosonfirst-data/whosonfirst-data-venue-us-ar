@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102222401",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.09445,34.290988,-92.09445,34.290988",
     "geom:latitude":34.290988,
     "geom:longitude":-92.09445,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 Blue Acres St",
     "sg:city":"White Hall",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102222401",
-    "wof:lastmodified":1449069399,
+    "wof:lastmodified":1466321211,
     "wof:name":"Brian R Hornsby",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.09445,34.290988,-92.09445,34.290988],
-  "geometry": {"coordinates":[-92.09445,34.290988],"type":"Point"}
+  "bbox": [
+    -92.09445,
+    34.290988,
+    -92.09445,
+    34.290988
+],
+  "geometry": {"coordinates":[-92.09444999999999,34.290988],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219726915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.61649,35.791355,-91.61649,35.791355",
     "geom:latitude":35.791355,
     "geom:longitude":-91.61649,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1975 White Dr",
     "sg:city":"Batesville",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219726915,
-    "wof:lastmodified":1449072808,
+    "wof:lastmodified":1466324885,
     "wof:name":"Batesville Health Care Center",
     "wof:parent_id":85845643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "facility"
     ]
 },
-  "bbox": [-91.61649,35.791355,-91.61649,35.791355],
+  "bbox": [
+    -91.61649,
+    35.791355,
+    -91.61649,
+    35.791355
+],
   "geometry": {"coordinates":[-91.61649,35.791355],"type":"Point"}
 }

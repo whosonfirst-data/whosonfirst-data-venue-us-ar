@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102256305",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.193526,36.390363,-90.193526,36.390363",
     "geom:latitude":36.390363,
     "geom:longitude":-90.193526,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"565 Pecan Ln",
     "sg:city":"Piggott",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102256305",
-    "wof:lastmodified":1449069615,
+    "wof:lastmodified":1466321998,
     "wof:name":"Quality Concepts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.193526,36.390363,-90.193526,36.390363],
-  "geometry": {"coordinates":[-90.193526,36.390363],"type":"Point"}
+  "bbox": [
+    -90.193526,
+    36.390363,
+    -90.193526,
+    36.390363
+],
+  "geometry": {"coordinates":[-90.19352600000001,36.390363],"type":"Point"}
 }

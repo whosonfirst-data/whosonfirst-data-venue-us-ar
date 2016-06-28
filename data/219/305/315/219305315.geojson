@@ -2,13 +2,14 @@
   "id": 219305315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.358658,34.591107,-94.358658,34.591107",
     "geom:latitude":34.591107,
     "geom:longitude":-94.358658,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4912 Highway 8 W",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219305315,
-    "wof:lastmodified":1449070926,
+    "wof:lastmodified":1466321775,
     "wof:name":"Delmesa Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.358658,34.591107,-94.358658,34.591107],
-  "geometry": {"coordinates":[-94.358658,34.591107],"type":"Point"}
+  "bbox": [
+    -94.358658,
+    34.591107,
+    -94.358658,
+    34.591107
+],
+  "geometry": {"coordinates":[-94.35865800000001,34.591107],"type":"Point"}
 }

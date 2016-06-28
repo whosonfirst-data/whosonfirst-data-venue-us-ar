@@ -2,13 +2,14 @@
   "id": 219692625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.501715,36.052597,-90.501715,36.052597",
     "geom:latitude":36.052597,
     "geom:longitude":-90.501715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1207A W Kingshighway",
     "sg:city":"Paragould",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219692625,
-    "wof:lastmodified":1449071340,
+    "wof:lastmodified":1466324708,
     "wof:name":"Hyla Extreme",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appliances-small"
     ]
 },
-  "bbox": [-90.501715,36.052597,-90.501715,36.052597],
+  "bbox": [
+    -90.501715,
+    36.052597,
+    -90.501715,
+    36.052597
+],
   "geometry": {"coordinates":[-90.501715,36.052597],"type":"Point"}
 }

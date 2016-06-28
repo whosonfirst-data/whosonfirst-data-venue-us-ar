@@ -2,13 +2,14 @@
   "id": 320424077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.220468,34.586443,-94.220468,34.586443",
     "geom:latitude":34.586443,
     "geom:longitude":-94.220468,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1109 US Hwy 71",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320424077,
-    "wof:lastmodified":1449014722,
+    "wof:lastmodified":1466320541,
     "wof:name":"Stan Mourton Insurance Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.220468,34.586443,-94.220468,34.586443],
+  "bbox": [
+    -94.220468,
+    34.586443,
+    -94.220468,
+    34.586443
+],
   "geometry": {"coordinates":[-94.220468,34.586443],"type":"Point"}
 }

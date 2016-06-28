@@ -2,13 +2,14 @@
   "id": 220028395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.155696,36.192768,-94.155696,36.192768",
     "geom:latitude":36.192768,
     "geom:longitude":-94.155696,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"719 Morrison Pl",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220028395,
-    "wof:lastmodified":1449074488,
+    "wof:lastmodified":1466320509,
     "wof:name":"Jennifer J Dunn",
     "wof:parent_id":85885491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "kindergarten"
     ]
 },
-  "bbox": [-94.155696,36.192768,-94.155696,36.192768],
-  "geometry": {"coordinates":[-94.155696,36.192768],"type":"Point"}
+  "bbox": [
+    -94.155696,
+    36.192768,
+    -94.155696,
+    36.192768
+],
+  "geometry": {"coordinates":[-94.15569600000001,36.192768],"type":"Point"}
 }

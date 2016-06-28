@@ -2,13 +2,14 @@
   "id": 220076497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.465088,35.47121,-93.465088,35.47121",
     "geom:latitude":35.47121,
     "geom:longitude":-93.465088,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 W Main St Ste C",
     "sg:city":"Clarksville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":220076497,
-    "wof:lastmodified":1449074672,
+    "wof:lastmodified":1466321468,
     "wof:name":"L A Cuts & Curls",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.465088,35.47121,-93.465088,35.47121],
-  "geometry": {"coordinates":[-93.465088,35.47121],"type":"Point"}
+  "bbox": [
+    -93.465088,
+    35.47121,
+    -93.465088,
+    35.47121
+],
+  "geometry": {"coordinates":[-93.46508799999999,35.47121],"type":"Point"}
 }

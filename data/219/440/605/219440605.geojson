@@ -2,13 +2,14 @@
   "id": 219440605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.145508,34.868198,-92.145508,34.868198",
     "geom:latitude":34.868198,
     "geom:longitude":-92.145508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3301 W Main St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219440605,
-    "wof:lastmodified":1449071640,
+    "wof:lastmodified":1466323252,
     "wof:name":"Deans Lawn Landscaping Ll",
     "wof:parent_id":85852337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lawn"
     ]
 },
-  "bbox": [-92.145508,34.868198,-92.145508,34.868198],
-  "geometry": {"coordinates":[-92.145508,34.868198],"type":"Point"}
+  "bbox": [
+    -92.145508,
+    34.868198,
+    -92.145508,
+    34.868198
+],
+  "geometry": {"coordinates":[-92.14550800000001,34.868198],"type":"Point"}
 }

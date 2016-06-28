@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102302725",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.104312,36.335161,-94.104312,36.335161",
     "geom:latitude":36.335161,
     "geom:longitude":-94.104312,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"903 Lakeview Dr",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895843,
+        85688549,
         85633793,
         85921535,
         102083255,
-        85688549
+        85895843
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102302725",
-    "wof:lastmodified":1449068596,
+    "wof:lastmodified":1466323132,
     "wof:name":"P R P Consulting",
     "wof:parent_id":85895843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.104312,36.335161,-94.104312,36.335161],
-  "geometry": {"coordinates":[-94.104312,36.335161],"type":"Point"}
+  "bbox": [
+    -94.104312,
+    36.335161,
+    -94.104312,
+    36.335161
+],
+  "geometry": {"coordinates":[-94.10431199999999,36.335161],"type":"Point"}
 }

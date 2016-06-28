@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102353487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.126878,36.334288,-94.126878,36.334288",
     "geom:latitude":36.334288,
     "geom:longitude":-94.126878,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 N 9th St",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895845,
+        85688549,
         85633793,
         85921535,
         102083255,
-        85688549
+        85895845
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102353487,
-    "wof:lastmodified":1449068473,
+    "wof:lastmodified":1466324102,
     "wof:name":"Elegante Hair Unlimited",
     "wof:parent_id":85895845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.126878,36.334288,-94.126878,36.334288],
+  "bbox": [
+    -94.126878,
+    36.334288,
+    -94.126878,
+    36.334288
+],
   "geometry": {"coordinates":[-94.126878,36.334288],"type":"Point"}
 }

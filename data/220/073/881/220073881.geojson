@@ -2,13 +2,14 @@
   "id": 220073881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.441135,35.104636,-93.441135,35.104636",
     "geom:latitude":35.104636,
     "geom:longitude":-93.441135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16558 W Old Belleville Rd",
     "sg:city":"Belleville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":220073881,
-    "wof:lastmodified":1449074140,
+    "wof:lastmodified":1466321427,
     "wof:name":"N & N Fiberglass",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-93.441135,35.104636,-93.441135,35.104636],
+  "bbox": [
+    -93.441135,
+    35.104636,
+    -93.441135,
+    35.104636
+],
   "geometry": {"coordinates":[-93.441135,35.104636],"type":"Point"}
 }

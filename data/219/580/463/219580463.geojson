@@ -2,13 +2,14 @@
   "id": 219580463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.918762,35.918011,-89.918762,35.918011",
     "geom:latitude":35.918011,
     "geom:longitude":-89.918762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1003 S Division St",
     "sg:city":"Blytheville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219580463,
-    "wof:lastmodified":1449072766,
+    "wof:lastmodified":1466324502,
     "wof:name":"Garden Inn",
     "wof:parent_id":85814753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.918762,35.918011,-89.918762,35.918011],
+  "bbox": [
+    -89.918762,
+    35.918011,
+    -89.918762,
+    35.918011
+],
   "geometry": {"coordinates":[-89.918762,35.918011],"type":"Point"}
 }

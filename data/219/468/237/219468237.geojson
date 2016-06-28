@@ -2,13 +2,14 @@
   "id": 219468237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.411636,34.9314,-92.411636,34.9314",
     "geom:latitude":34.9314,
     "geom:longitude":-92.411636,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14406 Verda Mae Cir",
     "sg:city":"Mayflower",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219468237,
-    "wof:lastmodified":1449072929,
+    "wof:lastmodified":1466323534,
     "wof:name":"Mercing, Terry L",
     "wof:parent_id":85854423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "public"
     ]
 },
-  "bbox": [-92.411636,34.9314,-92.411636,34.9314],
+  "bbox": [
+    -92.411636,
+    34.9314,
+    -92.411636,
+    34.9314
+],
   "geometry": {"coordinates":[-92.411636,34.9314],"type":"Point"}
 }

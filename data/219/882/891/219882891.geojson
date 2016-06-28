@@ -2,13 +2,14 @@
   "id": 219882891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.236989,36.363585,-94.236989,36.363585",
     "geom:latitude":36.363585,
     "geom:longitude":-94.236989,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2307 SW Pawnee St",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219882891,
-    "wof:lastmodified":1449071025,
+    "wof:lastmodified":1466325165,
     "wof:name":"Acorn Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "services-household"
     ]
 },
-  "bbox": [-94.236989,36.363585,-94.236989,36.363585],
-  "geometry": {"coordinates":[-94.236989,36.363585],"type":"Point"}
+  "bbox": [
+    -94.236989,
+    36.363585,
+    -94.236989,
+    36.363585
+],
+  "geometry": {"coordinates":[-94.23698899999999,36.363585],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219343611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.586612,34.565536,-92.586612,34.565536",
     "geom:latitude":34.565536,
     "geom:longitude":-92.586612,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 E Conway St",
     "sg:city":"Benton",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219343611,
-    "wof:lastmodified":1449072909,
+    "wof:lastmodified":1466322164,
     "wof:name":"Thomas Agency, The",
     "wof:parent_id":85817531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "resume"
     ]
 },
-  "bbox": [-92.586612,34.565536,-92.586612,34.565536],
+  "bbox": [
+    -92.586612,
+    34.565536,
+    -92.586612,
+    34.565536
+],
   "geometry": {"coordinates":[-92.586612,34.565536],"type":"Point"}
 }

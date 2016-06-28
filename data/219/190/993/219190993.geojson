@@ -2,13 +2,14 @@
   "id": 219190993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.869472,33.599275,-92.869472,33.599275",
     "geom:latitude":33.599275,
     "geom:longitude":-92.869472,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 Maul Rd",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219190993,
-    "wof:lastmodified":1449073684,
+    "wof:lastmodified":1466320758,
     "wof:name":"Fred Whiteside Elementary Schl",
     "wof:parent_id":85813169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "elementary"
     ]
 },
-  "bbox": [-92.869472,33.599275,-92.869472,33.599275],
+  "bbox": [
+    -92.869472,
+    33.599275,
+    -92.869472,
+    33.599275
+],
   "geometry": {"coordinates":[-92.869472,33.599275],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220069849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.165361,35.26129,-93.165361,35.26129",
     "geom:latitude":35.26129,
     "geom:longitude":-93.165361,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 Quarry Rd",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220069849,
-    "wof:lastmodified":1449074559,
+    "wof:lastmodified":1466321326,
     "wof:name":"Darrell Thompson",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tank"
     ]
 },
-  "bbox": [-93.165361,35.26129,-93.165361,35.26129],
+  "bbox": [
+    -93.165361,
+    35.26129,
+    -93.165361,
+    35.26129
+],
   "geometry": {"coordinates":[-93.165361,35.26129],"type":"Point"}
 }

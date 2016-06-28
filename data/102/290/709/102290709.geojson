@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102290709",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.031326,34.276185,-92.031326,34.276185",
     "geom:latitude":34.276185,
     "geom:longitude":-92.031326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3200 McFadden Rd",
     "sg:city":"White Hall",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":"102290709",
-    "wof:lastmodified":1449068796,
+    "wof:lastmodified":1466322874,
     "wof:name":"Burnleys",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.031326,34.276185,-92.031326,34.276185],
-  "geometry": {"coordinates":[-92.031326,34.276185],"type":"Point"}
+  "bbox": [
+    -92.031326,
+    34.276185,
+    -92.031326,
+    34.276185
+],
+  "geometry": {"coordinates":[-92.03132600000001,34.276185],"type":"Point"}
 }

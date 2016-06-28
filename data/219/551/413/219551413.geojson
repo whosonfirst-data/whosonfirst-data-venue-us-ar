@@ -2,13 +2,14 @@
   "id": 219551413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.534142,34.381985,-91.534142,34.381985",
     "geom:latitude":34.381985,
     "geom:longitude":-91.534142,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4378 Highway 165 S",
     "sg:city":"Stuttgart",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219551413,
-    "wof:lastmodified":1449071103,
+    "wof:lastmodified":1466324346,
     "wof:name":"Joe Bueker",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [-91.534142,34.381985,-91.534142,34.381985],
+  "bbox": [
+    -91.534142,
+    34.381985,
+    -91.534142,
+    34.381985
+],
   "geometry": {"coordinates":[-91.534142,34.381985],"type":"Point"}
 }

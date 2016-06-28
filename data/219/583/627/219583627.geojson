@@ -2,13 +2,14 @@
   "id": 219583627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.881842,35.06704,-90.881842,35.06704",
     "geom:latitude":35.06704,
     "geom:longitude":-90.881842,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4062 Highway 261",
     "sg:city":"Colt",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219583627,
-    "wof:lastmodified":1449073190,
+    "wof:lastmodified":1466324507,
     "wof:name":"L&L Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-90.881842,35.06704,-90.881842,35.06704],
-  "geometry": {"coordinates":[-90.881842,35.06704],"type":"Point"}
+  "bbox": [
+    -90.881842,
+    35.06704,
+    -90.881842,
+    35.06704
+],
+  "geometry": {"coordinates":[-90.88184200000001,35.06704],"type":"Point"}
 }

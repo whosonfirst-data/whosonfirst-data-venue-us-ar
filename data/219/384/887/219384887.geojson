@@ -2,13 +2,14 @@
   "id": 219384887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.41884,35.094247,-92.41884,35.094247",
     "geom:latitude":35.094247,
     "geom:longitude":-92.41884,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1150 Museum Rd",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":219384887,
-    "wof:lastmodified":1449070835,
+    "wof:lastmodified":1466322717,
     "wof:name":"National Guard Recruiter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "recruiting"
     ]
 },
-  "bbox": [-92.41884,35.094247,-92.41884,35.094247],
+  "bbox": [
+    -92.41884,
+    35.094247,
+    -92.41884,
+    35.094247
+],
   "geometry": {"coordinates":[-92.41884,35.094247],"type":"Point"}
 }

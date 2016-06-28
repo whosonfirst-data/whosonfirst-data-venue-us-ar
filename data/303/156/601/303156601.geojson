@@ -2,13 +2,14 @@
   "id": 303156601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.216224,34.586482,-94.216224,34.586482",
     "geom:latitude":34.586482,
     "geom:longitude":-94.216224,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1408 US Hwy 71",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303156601,
-    "wof:lastmodified":1448998598,
+    "wof:lastmodified":1466324516,
     "wof:name":"Blue Flame Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "petroleum"
     ]
 },
-  "bbox": [-94.216224,34.586482,-94.216224,34.586482],
+  "bbox": [
+    -94.216224,
+    34.586482,
+    -94.216224,
+    34.586482
+],
   "geometry": {"coordinates":[-94.216224,34.586482],"type":"Point"}
 }

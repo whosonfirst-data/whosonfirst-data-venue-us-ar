@@ -2,13 +2,14 @@
   "id": 203416773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.477241,33.890163,-91.477241,33.890163",
     "geom:latitude":33.890163,
     "geom:longitude":-91.477241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 N Adcock St",
     "sg:city":"Dumas",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203416773,
-    "wof:lastmodified":1449025761,
+    "wof:lastmodified":1466320561,
     "wof:name":"Saint Elizabeth Health Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.477241,33.890163,-91.477241,33.890163],
-  "geometry": {"coordinates":[-91.477241,33.890163],"type":"Point"}
+  "bbox": [
+    -91.477241,
+    33.890163,
+    -91.477241,
+    33.890163
+],
+  "geometry": {"coordinates":[-91.47724100000001,33.890163],"type":"Point"}
 }

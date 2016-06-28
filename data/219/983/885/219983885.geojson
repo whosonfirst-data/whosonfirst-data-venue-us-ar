@@ -2,13 +2,14 @@
   "id": 219983885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.162903,36.3344,-94.162903,36.3344",
     "geom:latitude":36.3344,
     "geom:longitude":-94.162903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2894 W Walnut St Ste B",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219983885,
-    "wof:lastmodified":1449073624,
+    "wof:lastmodified":1466325306,
     "wof:name":"S L Oyler & Associates PA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-94.162903,36.3344,-94.162903,36.3344],
+  "bbox": [
+    -94.162903,
+    36.3344,
+    -94.162903,
+    36.3344
+],
   "geometry": {"coordinates":[-94.162903,36.3344],"type":"Point"}
 }

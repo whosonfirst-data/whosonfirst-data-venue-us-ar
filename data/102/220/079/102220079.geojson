@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102220079",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.030335,34.199408,-92.030335,34.199408",
     "geom:latitude":34.199408,
     "geom:longitude":-92.030335,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2900 S Orange St",
     "sg:city":"Pine Bluff",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102220079",
-    "wof:lastmodified":1449070129,
+    "wof:lastmodified":1466321089,
     "wof:name":"Oak Park Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.030335,34.199408,-92.030335,34.199408],
-  "geometry": {"coordinates":[-92.030335,34.199408],"type":"Point"}
+  "bbox": [
+    -92.030335,
+    34.199408,
+    -92.030335,
+    34.199408
+],
+  "geometry": {"coordinates":[-92.03033499999999,34.199408],"type":"Point"}
 }

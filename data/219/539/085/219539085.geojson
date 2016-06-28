@@ -2,13 +2,14 @@
   "id": 219539085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.398889,34.280227,-92.398889,34.280227",
     "geom:latitude":34.280227,
     "geom:longitude":-92.398889,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2116 Highway 167 S",
     "sg:city":"Sheridan",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219539085,
-    "wof:lastmodified":1449074001,
+    "wof:lastmodified":1466324250,
     "wof:name":"Teague, Dennis Chevrolet-Geo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "car"
     ]
 },
-  "bbox": [-92.398889,34.280227,-92.398889,34.280227],
+  "bbox": [
+    -92.398889,
+    34.280227,
+    -92.398889,
+    34.280227
+],
   "geometry": {"coordinates":[-92.398889,34.280227],"type":"Point"}
 }

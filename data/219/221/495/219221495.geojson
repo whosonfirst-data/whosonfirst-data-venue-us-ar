@@ -2,13 +2,14 @@
   "id": 219221495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.892543,33.972245,-92.892543,33.972245",
     "geom:latitude":33.972245,
     "geom:longitude":-92.892543,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"273 Dallas 247",
     "sg:city":"Sparkman",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219221495,
-    "wof:lastmodified":1449071943,
+    "wof:lastmodified":1466321057,
     "wof:name":"Grace & Grace Satellite",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "cable"
     ]
 },
-  "bbox": [-92.892543,33.972245,-92.892543,33.972245],
+  "bbox": [
+    -92.892543,
+    33.972245,
+    -92.892543,
+    33.972245
+],
   "geometry": {"coordinates":[-92.892543,33.972245],"type":"Point"}
 }

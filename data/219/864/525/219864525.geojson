@@ -2,13 +2,14 @@
   "id": 219864525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.203349,36.081073,-94.203349,36.081073",
     "geom:latitude":36.081073,
     "geom:longitude":-94.203349,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3130 Telluride Dr",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219864525,
-    "wof:lastmodified":1449073972,
+    "wof:lastmodified":1466324983,
     "wof:name":"Wedington Place Senior Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "listing"
     ]
 },
-  "bbox": [-94.203349,36.081073,-94.203349,36.081073],
+  "bbox": [
+    -94.203349,
+    36.081073,
+    -94.203349,
+    36.081073
+],
   "geometry": {"coordinates":[-94.203349,36.081073],"type":"Point"}
 }

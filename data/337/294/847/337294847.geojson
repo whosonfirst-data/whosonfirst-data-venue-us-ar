@@ -2,13 +2,14 @@
   "id": 337294847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.136952,36.323429,-94.136952,36.323429",
     "geom:latitude":36.323429,
     "geom:longitude":-94.136952,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1314 W Dogwood St",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":337294847,
-    "wof:lastmodified":1449027529,
+    "wof:lastmodified":1466322167,
     "wof:name":"W A Rolniak",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-94.136952,36.323429,-94.136952,36.323429],
-  "geometry": {"coordinates":[-94.136952,36.323429],"type":"Point"}
+  "bbox": [
+    -94.136952,
+    36.323429,
+    -94.136952,
+    36.323429
+],
+  "geometry": {"coordinates":[-94.13695199999999,36.323429],"type":"Point"}
 }

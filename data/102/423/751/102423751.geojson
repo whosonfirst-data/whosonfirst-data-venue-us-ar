@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102423751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.268695,35.518997,-90.268695,35.518997",
     "geom:latitude":35.518997,
     "geom:longitude":-90.268695,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6695 S Co Rd 33",
     "sg:city":"Tyronza",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":102423751,
-    "wof:lastmodified":1449068198,
+    "wof:lastmodified":1466325463,
     "wof:name":"Robert Tacker",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.268695,35.518997,-90.268695,35.518997],
-  "geometry": {"coordinates":[-90.268695,35.518997],"type":"Point"}
+  "bbox": [
+    -90.268695,
+    35.518997,
+    -90.268695,
+    35.518997
+],
+  "geometry": {"coordinates":[-90.26869499999999,35.518997],"type":"Point"}
 }

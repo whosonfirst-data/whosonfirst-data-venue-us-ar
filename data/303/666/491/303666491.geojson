@@ -2,13 +2,14 @@
   "id": 303666491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.376367,35.260251,-94.376367,35.260251",
     "geom:latitude":35.260251,
     "geom:longitude":-94.376367,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5307 Tennessee Ridge Rd",
     "sg:city":"Fort Smith",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303666491,
-    "wof:lastmodified":1448999013,
+    "wof:lastmodified":1466320554,
     "wof:name":"Chem Dry Carpet & Upholstery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "carpet"
     ]
 },
-  "bbox": [-94.376367,35.260251,-94.376367,35.260251],
+  "bbox": [
+    -94.376367,
+    35.260251,
+    -94.376367,
+    35.260251
+],
   "geometry": {"coordinates":[-94.376367,35.260251],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219247015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.833614,33.960948,-93.833614,33.960948",
     "geom:latitude":33.960948,
     "geom:longitude":-93.833614,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1303 Mine St",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219247015,
-    "wof:lastmodified":1449072451,
+    "wof:lastmodified":1466321310,
     "wof:name":"Nashville Rural Water Association",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-93.833614,33.960948,-93.833614,33.960948],
+  "bbox": [
+    -93.833614,
+    33.960948,
+    -93.833614,
+    33.960948
+],
   "geometry": {"coordinates":[-93.833614,33.960948],"type":"Point"}
 }

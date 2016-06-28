@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102275503",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.609828,34.6417,-92.609828,34.6417",
     "geom:latitude":34.6417,
     "geom:longitude":-92.609828,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2211 Chivers St",
     "sg:city":"Benton",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":"102275503",
-    "wof:lastmodified":1449068564,
+    "wof:lastmodified":1466322509,
     "wof:name":"Sawyers Computing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.609828,34.6417,-92.609828,34.6417],
-  "geometry": {"coordinates":[-92.609828,34.6417],"type":"Point"}
+  "bbox": [
+    -92.609828,
+    34.6417,
+    -92.609828,
+    34.6417
+],
+  "geometry": {"coordinates":[-92.60982799999999,34.6417],"type":"Point"}
 }

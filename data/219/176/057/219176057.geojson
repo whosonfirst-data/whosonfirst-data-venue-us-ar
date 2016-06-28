@@ -2,13 +2,14 @@
   "id": 219176057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.993429,33.77348,-91.993429,33.77348",
     "geom:latitude":33.77348,
     "geom:longitude":-91.993429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"130 Wright Rd",
     "sg:city":"Rison",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219176057,
-    "wof:lastmodified":1449072685,
+    "wof:lastmodified":1466320597,
     "wof:name":"Swinney's Farms Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "processing"
     ]
 },
-  "bbox": [-91.993429,33.77348,-91.993429,33.77348],
-  "geometry": {"coordinates":[-91.993429,33.77348],"type":"Point"}
+  "bbox": [
+    -91.993429,
+    33.77348,
+    -91.993429,
+    33.77348
+],
+  "geometry": {"coordinates":[-91.99342900000001,33.77348],"type":"Point"}
 }

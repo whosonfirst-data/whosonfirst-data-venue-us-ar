@@ -2,13 +2,14 @@
   "id": 219331769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.095938,35.046729,-92.095938,35.046729",
     "geom:latitude":35.046729,
     "geom:longitude":-92.095938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"593 W Lewisburg Rd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219331769,
-    "wof:lastmodified":1449072541,
+    "wof:lastmodified":1466322012,
     "wof:name":"Byrd Chemical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.095938,35.046729,-92.095938,35.046729],
+  "bbox": [
+    -92.095938,
+    35.046729,
+    -92.095938,
+    35.046729
+],
   "geometry": {"coordinates":[-92.095938,35.046729],"type":"Point"}
 }

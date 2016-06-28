@@ -2,13 +2,14 @@
   "id": 219469531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.419277,34.977062,-92.419277,34.977062",
     "geom:latitude":34.977062,
     "geom:longitude":-92.419277,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"582 Highway 365 Ste E",
     "sg:city":"Mayflower",
     "sg:classifiers":[
@@ -72,10 +73,11 @@
         }
     ],
     "wof:id":219469531,
-    "wof:lastmodified":1449074019,
+    "wof:lastmodified":1466323547,
     "wof:name":"Morton Buildings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -88,6 +90,11 @@
         "garages-building"
     ]
 },
-  "bbox": [-92.419277,34.977062,-92.419277,34.977062],
-  "geometry": {"coordinates":[-92.419277,34.977062],"type":"Point"}
+  "bbox": [
+    -92.419277,
+    34.977062,
+    -92.419277,
+    34.977062
+],
+  "geometry": {"coordinates":[-92.41927699999999,34.977062],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219910737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.3618,36.338769,-94.3618,36.338769",
     "geom:latitude":36.338769,
     "geom:longitude":-94.3618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14950 W Highway 102",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219910737,
-    "wof:lastmodified":1449071854,
+    "wof:lastmodified":1466325119,
     "wof:name":"Bethlehem Mssnry Bapt Chrch",
     "wof:parent_id":85853527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "denomination"
     ]
 },
-  "bbox": [-94.3618,36.338769,-94.3618,36.338769],
+  "bbox": [
+    -94.3618,
+    36.338769,
+    -94.3618,
+    36.338769
+],
   "geometry": {"coordinates":[-94.3618,36.338769],"type":"Point"}
 }

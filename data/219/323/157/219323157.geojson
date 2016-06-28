@@ -2,13 +2,14 @@
   "id": 219323157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.641985,34.638086,-93.641985,34.638086",
     "geom:latitude":34.638086,
     "geom:longitude":-93.641985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"146 Gibbs Ln",
     "sg:city":"Sims",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219323157,
-    "wof:lastmodified":1449070696,
+    "wof:lastmodified":1466321917,
     "wof:name":"Ouachita Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.641985,34.638086,-93.641985,34.638086],
-  "geometry": {"coordinates":[-93.641985,34.638086],"type":"Point"}
+  "bbox": [
+    -93.641985,
+    34.638086,
+    -93.641985,
+    34.638086
+],
+  "geometry": {"coordinates":[-93.64198500000001,34.638086],"type":"Point"}
 }

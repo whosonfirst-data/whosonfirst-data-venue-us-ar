@@ -2,13 +2,14 @@
   "id": 337293313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.369968,36.362145,-91.369968,36.362145",
     "geom:latitude":36.362145,
     "geom:longitude":-91.369968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"527 E Cc Rd",
     "sg:city":"Hardy",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":337293313,
-    "wof:lastmodified":1449027081,
+    "wof:lastmodified":1466322109,
     "wof:name":"Greene Milling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "logging"
     ]
 },
-  "bbox": [-91.369968,36.362145,-91.369968,36.362145],
+  "bbox": [
+    -91.369968,
+    36.362145,
+    -91.369968,
+    36.362145
+],
   "geometry": {"coordinates":[-91.369968,36.362145],"type":"Point"}
 }

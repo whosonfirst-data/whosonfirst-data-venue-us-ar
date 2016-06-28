@@ -2,13 +2,14 @@
   "id": 219892669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.192683,36.360207,-94.192683,36.360207",
     "geom:latitude":36.360207,
     "geom:longitude":-94.192683,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1301 SE 10th St Ms0845",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219892669,
-    "wof:lastmodified":1449070906,
+    "wof:lastmodified":1466325084,
     "wof:name":"Sweetwater Plumbing Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractors-commercial"
     ]
 },
-  "bbox": [-94.192683,36.360207,-94.192683,36.360207],
+  "bbox": [
+    -94.192683,
+    36.360207,
+    -94.192683,
+    36.360207
+],
   "geometry": {"coordinates":[-94.192683,36.360207],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219814017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.162057,36.06638,-94.162057,36.06638",
     "geom:latitude":36.06638,
     "geom:longitude":-94.162057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"227 W Dickson St",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219814017,
-    "wof:lastmodified":1449071044,
+    "wof:lastmodified":1466324879,
     "wof:name":"Jr's",
     "wof:parent_id":85885435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "night"
     ]
 },
-  "bbox": [-94.162057,36.06638,-94.162057,36.06638],
+  "bbox": [
+    -94.162057,
+    36.06638,
+    -94.162057,
+    36.06638
+],
   "geometry": {"coordinates":[-94.162057,36.06638],"type":"Point"}
 }

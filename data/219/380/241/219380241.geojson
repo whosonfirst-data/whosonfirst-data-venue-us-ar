@@ -2,13 +2,14 @@
   "id": 219380241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.295349,35.078934,-92.295349,35.078934",
     "geom:latitude":35.078934,
     "geom:longitude":-92.295349,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"670 Highway 64 E",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219380241,
-    "wof:lastmodified":1449072032,
+    "wof:lastmodified":1466322676,
     "wof:name":"Nomad Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "unloading"
     ]
 },
-  "bbox": [-92.295349,35.078934,-92.295349,35.078934],
+  "bbox": [
+    -92.295349,
+    35.078934,
+    -92.295349,
+    35.078934
+],
   "geometry": {"coordinates":[-92.295349,35.078934],"type":"Point"}
 }

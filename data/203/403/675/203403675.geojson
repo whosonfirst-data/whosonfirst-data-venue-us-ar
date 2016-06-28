@@ -2,13 +2,14 @@
   "id": 203403675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.968291,33.112663,-91.968291,33.112663",
     "geom:latitude":33.112663,
     "geom:longitude":-91.968291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Crestwood",
     "sg:city":"Crossett",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203403675,
-    "wof:lastmodified":1449026596,
+    "wof:lastmodified":1466320518,
     "wof:name":"Double D Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "coach"
     ]
 },
-  "bbox": [-91.968291,33.112663,-91.968291,33.112663],
-  "geometry": {"coordinates":[-91.968291,33.112663],"type":"Point"}
+  "bbox": [
+    -91.968291,
+    33.112663,
+    -91.968291,
+    33.112663
+],
+  "geometry": {"coordinates":[-91.96829099999999,33.112663],"type":"Point"}
 }

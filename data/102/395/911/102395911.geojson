@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102395911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.204613,36.372957,-94.204613,36.372957",
     "geom:latitude":36.372957,
     "geom:longitude":-94.204613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 NE 2nd St",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895827,
+        85688549,
         85633793,
         85921509,
         102083255,
-        85688549
+        85895827
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102395911,
-    "wof:lastmodified":1449069819,
+    "wof:lastmodified":1466324807,
     "wof:name":"Reynolds Process Svc",
     "wof:parent_id":85895827,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.204613,36.372957,-94.204613,36.372957],
-  "geometry": {"coordinates":[-94.204613,36.372957],"type":"Point"}
+  "bbox": [
+    -94.204613,
+    36.372957,
+    -94.204613,
+    36.372957
+],
+  "geometry": {"coordinates":[-94.20461299999999,36.372957],"type":"Point"}
 }

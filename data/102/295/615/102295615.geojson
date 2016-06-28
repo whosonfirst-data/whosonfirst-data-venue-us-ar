@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102295615",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.535164,34.314353,-93.535164,34.314353",
     "geom:latitude":34.314353,
     "geom:longitude":-93.535164,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Industrial Park Dr",
     "sg:city":"Glenwood",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102295615",
-    "wof:lastmodified":1449068744,
+    "wof:lastmodified":1466322995,
     "wof:name":"Clark Industries Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.535164,34.314353,-93.535164,34.314353],
-  "geometry": {"coordinates":[-93.535164,34.314353],"type":"Point"}
+  "bbox": [
+    -93.535164,
+    34.314353,
+    -93.535164,
+    34.314353
+],
+  "geometry": {"coordinates":[-93.53516399999999,34.314353],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102392499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.215072,35.083059,-92.215072,35.083059",
     "geom:latitude":35.083059,
     "geom:longitude":-92.215072,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1004 Main St",
     "sg:city":"Vilonia",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102392499,
-    "wof:lastmodified":1449069706,
+    "wof:lastmodified":1466324834,
     "wof:name":"Bill Jones Real Estate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.215072,35.083059,-92.215072,35.083059],
-  "geometry": {"coordinates":[-92.215072,35.083059],"type":"Point"}
+  "bbox": [
+    -92.215072,
+    35.083059,
+    -92.215072,
+    35.083059
+],
+  "geometry": {"coordinates":[-92.21507200000001,35.083059],"type":"Point"}
 }

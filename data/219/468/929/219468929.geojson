@@ -2,13 +2,14 @@
   "id": 219468929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.44838,34.96125,-92.44838,34.96125",
     "geom:latitude":34.96125,
     "geom:longitude":-92.44838,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"169 Highway 89 S",
     "sg:city":"Mayflower",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219468929,
-    "wof:lastmodified":1449072929,
+    "wof:lastmodified":1466323540,
     "wof:name":"Second Chance Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-92.44838,34.96125,-92.44838,34.96125],
+  "bbox": [
+    -92.44838,
+    34.96125,
+    -92.44838,
+    34.96125
+],
   "geometry": {"coordinates":[-92.44838,34.96125],"type":"Point"}
 }

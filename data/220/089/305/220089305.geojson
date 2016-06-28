@@ -2,13 +2,14 @@
   "id": 220089305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.359939,35.458559,-93.359939,35.458559",
     "geom:latitude":35.458559,
     "geom:longitude":-93.359939,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1024 County Road 2641",
     "sg:city":"Lamar",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":220089305,
-    "wof:lastmodified":1449074203,
+    "wof:lastmodified":1466321874,
     "wof:name":"Dillard Auto Sales & Salvage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.359939,35.458559,-93.359939,35.458559],
+  "bbox": [
+    -93.359939,
+    35.458559,
+    -93.359939,
+    35.458559
+],
   "geometry": {"coordinates":[-93.359939,35.458559],"type":"Point"}
 }

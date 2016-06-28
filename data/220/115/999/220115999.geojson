@@ -2,13 +2,14 @@
   "id": 220115999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.186823,35.328486,-94.186823,35.328486",
     "geom:latitude":35.328486,
     "geom:longitude":-94.186823,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1104 S Adams St",
     "sg:city":"Lavaca",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220115999,
-    "wof:lastmodified":1449074054,
+    "wof:lastmodified":1466322509,
     "wof:name":"Southern Eagle Aviation",
     "wof:parent_id":85832863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "school"
     ]
 },
-  "bbox": [-94.186823,35.328486,-94.186823,35.328486],
+  "bbox": [
+    -94.186823,
+    35.328486,
+    -94.186823,
+    35.328486
+],
   "geometry": {"coordinates":[-94.186823,35.328486],"type":"Point"}
 }

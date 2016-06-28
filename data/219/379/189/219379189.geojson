@@ -2,13 +2,14 @@
   "id": 219379189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.423811,35.093951,-92.423811,35.093951",
     "geom:latitude":35.093951,
     "geom:longitude":-92.423811,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1090 Collier Dr",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":219379189,
-    "wof:lastmodified":1449072434,
+    "wof:lastmodified":1466322666,
     "wof:name":"Superior Nissan Of Conway",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "new"
     ]
 },
-  "bbox": [-92.423811,35.093951,-92.423811,35.093951],
+  "bbox": [
+    -92.423811,
+    35.093951,
+    -92.423811,
+    35.093951
+],
   "geometry": {"coordinates":[-92.423811,35.093951],"type":"Point"}
 }

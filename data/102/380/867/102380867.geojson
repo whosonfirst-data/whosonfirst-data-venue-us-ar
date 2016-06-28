@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102380867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.414289,35.324351,-94.414289,35.324351",
     "geom:latitude":35.324351,
     "geom:longitude":-94.414289,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1504 Jacobs Ave",
     "sg:city":"Fort Smith",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85849681,
+        85688549,
         85633793,
         85921431,
         102082025,
-        85688549
+        85849681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102380867,
-    "wof:lastmodified":1449068883,
+    "wof:lastmodified":1466322268,
     "wof:name":"Fowler Home Improvements",
     "wof:parent_id":85849681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.414289,35.324351,-94.414289,35.324351],
+  "bbox": [
+    -94.414289,
+    35.324351,
+    -94.414289,
+    35.324351
+],
   "geometry": {"coordinates":[-94.414289,35.324351],"type":"Point"}
 }

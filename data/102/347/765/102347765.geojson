@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102347765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.216989,36.361674,-94.216989,36.361674",
     "geom:latitude":36.361674,
     "geom:longitude":-94.216989,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 S Walton Blvd",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895819,
+        85688549,
         85633793,
         85921509,
         102083255,
-        85688549
+        85895819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102347765,
-    "wof:lastmodified":1449068934,
+    "wof:lastmodified":1466324079,
     "wof:name":"Bentonville Lube N Go",
     "wof:parent_id":85895819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.216989,36.361674,-94.216989,36.361674],
+  "bbox": [
+    -94.216989,
+    36.361674,
+    -94.216989,
+    36.361674
+],
   "geometry": {"coordinates":[-94.216989,36.361674],"type":"Point"}
 }

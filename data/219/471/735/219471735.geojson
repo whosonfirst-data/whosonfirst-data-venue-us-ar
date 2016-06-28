@@ -2,13 +2,14 @@
   "id": 219471735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.727618,35.127668,-92.727618,35.127668",
     "geom:latitude":35.127668,
     "geom:longitude":-92.727618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Recovery Rd",
     "sg:city":"Morrilton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219471735,
-    "wof:lastmodified":1449071805,
+    "wof:lastmodified":1466323592,
     "wof:name":"Key Energy",
     "wof:parent_id":85814069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "conservation"
     ]
 },
-  "bbox": [-92.727618,35.127668,-92.727618,35.127668],
-  "geometry": {"coordinates":[-92.727618,35.127668],"type":"Point"}
+  "bbox": [
+    -92.727618,
+    35.127668,
+    -92.727618,
+    35.127668
+],
+  "geometry": {"coordinates":[-92.72761800000001,35.127668],"type":"Point"}
 }

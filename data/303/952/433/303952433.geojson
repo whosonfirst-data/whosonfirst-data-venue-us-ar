@@ -2,13 +2,14 @@
   "id": 303952433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.7095,36.653018,-94.7095,36.653018",
     "geom:latitude":36.653018,
     "geom:longitude":-94.7095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"65109 E 250 Rd",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303952433,
-    "wof:lastmodified":1448999876,
+    "wof:lastmodified":1466320649,
     "wof:name":"Tri State Janitorial Service",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-94.7095,36.653018,-94.7095,36.653018],
-  "geometry": {"coordinates":[-94.7095,36.653018],"type":"Point"}
+  "bbox": [
+    -94.7095,
+    36.653018,
+    -94.7095,
+    36.653018
+],
+  "geometry": {"coordinates":[-94.70950000000001,36.653018],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102205571",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.830255,33.58535,-92.830255,33.58535",
     "geom:latitude":33.58535,
     "geom:longitude":-92.830255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"145 Scott Aly SW",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102205571",
-    "wof:lastmodified":1449069197,
+    "wof:lastmodified":1466320815,
     "wof:name":"Ameritel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.830255,33.58535,-92.830255,33.58535],
-  "geometry": {"coordinates":[-92.830255,33.58535],"type":"Point"}
+  "bbox": [
+    -92.830255,
+    33.58535,
+    -92.830255,
+    33.58535
+],
+  "geometry": {"coordinates":[-92.83025499999999,33.58535],"type":"Point"}
 }

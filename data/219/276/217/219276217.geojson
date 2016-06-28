@@ -2,13 +2,14 @@
   "id": 219276217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.488343,33.365338,-93.488343,33.365338",
     "geom:latitude":33.365338,
     "geom:longitude":-93.488343,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1110 E Antigo St",
     "sg:city":"Stamps",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219276217,
-    "wof:lastmodified":1449070503,
+    "wof:lastmodified":1466321536,
     "wof:name":"Fred's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.488343,33.365338,-93.488343,33.365338],
+  "bbox": [
+    -93.488343,
+    33.365338,
+    -93.488343,
+    33.365338
+],
   "geometry": {"coordinates":[-93.488343,33.365338],"type":"Point"}
 }

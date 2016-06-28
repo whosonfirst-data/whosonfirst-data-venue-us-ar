@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102419353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.060021,34.504075,-93.060021,34.504075",
     "geom:latitude":34.504075,
     "geom:longitude":-93.060021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"229 Hazel St",
     "sg:city":"Hot Springs",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102419353,
-    "wof:lastmodified":1449070168,
+    "wof:lastmodified":1466325305,
     "wof:name":"Jerry C Meyers CPA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.060021,34.504075,-93.060021,34.504075],
-  "geometry": {"coordinates":[-93.060021,34.504075],"type":"Point"}
+  "bbox": [
+    -93.060021,
+    34.504075,
+    -93.060021,
+    34.504075
+],
+  "geometry": {"coordinates":[-93.06002100000001,34.504075],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102398701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.401192,35.094527,-92.401192,35.094527",
     "geom:latitude":35.094527,
     "geom:longitude":-92.401192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Keathley Dr",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102398701,
-    "wof:lastmodified":1449067991,
+    "wof:lastmodified":1466324775,
     "wof:name":"Watkins Products",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.401192,35.094527,-92.401192,35.094527],
-  "geometry": {"coordinates":[-92.401192,35.094527],"type":"Point"}
+  "bbox": [
+    -92.401192,
+    35.094527,
+    -92.401192,
+    35.094527
+],
+  "geometry": {"coordinates":[-92.40119199999999,35.094527],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219526345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.45517,35.126977,-91.45517,35.126977",
     "geom:latitude":35.126977,
     "geom:longitude":-91.45517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 W Riverside Georgetown Dr",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219526345,
-    "wof:lastmodified":1449071481,
+    "wof:lastmodified":1466324154,
     "wof:name":"Georgetown Fire Department",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-91.45517,35.126977,-91.45517,35.126977],
+  "bbox": [
+    -91.45517,
+    35.126977,
+    -91.45517,
+    35.126977
+],
   "geometry": {"coordinates":[-91.45517,35.126977],"type":"Point"}
 }

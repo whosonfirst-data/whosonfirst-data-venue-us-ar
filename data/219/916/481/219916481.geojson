@@ -2,13 +2,14 @@
   "id": 219916481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.315197,36.030425,-94.315197,36.030425",
     "geom:latitude":36.030425,
     "geom:longitude":-94.315197,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12418 Shamrock Rd",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219916481,
-    "wof:lastmodified":1449072311,
+    "wof:lastmodified":1466325202,
     "wof:name":"Pax Machina",
     "wof:parent_id":85885427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "event"
     ]
 },
-  "bbox": [-94.315197,36.030425,-94.315197,36.030425],
+  "bbox": [
+    -94.315197,
+    36.030425,
+    -94.315197,
+    36.030425
+],
   "geometry": {"coordinates":[-94.315197,36.030425],"type":"Point"}
 }

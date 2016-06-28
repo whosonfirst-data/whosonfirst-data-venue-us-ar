@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102406735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.632641,33.207002,-92.632641,33.207002",
     "geom:latitude":33.207002,
     "geom:longitude":-92.632641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2300 E Short Hillsboro St",
     "sg:city":"El Dorado",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102406735,
-    "wof:lastmodified":1449069041,
+    "wof:lastmodified":1466324988,
     "wof:name":"MSE Environmental",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.632641,33.207002,-92.632641,33.207002],
-  "geometry": {"coordinates":[-92.632641,33.207002],"type":"Point"}
+  "bbox": [
+    -92.632641,
+    33.207002,
+    -92.632641,
+    33.207002
+],
+  "geometry": {"coordinates":[-92.63264100000001,33.207002],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102330553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.292189,34.799837,-92.292189,34.799837",
     "geom:latitude":34.799837,
     "geom:longitude":-92.292189,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4915 Macarthur Dr",
     "sg:city":"N Little Rock",
     "sg:classifiers":[
@@ -30,10 +31,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102082497,
-        85633793,
         85688549,
-        85803649
+        85633793,
+        85803649,
+        102082497
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102330553,
-    "wof:lastmodified":1449068949,
+    "wof:lastmodified":1466323654,
     "wof:name":"Mike Fisher Body Shop",
     "wof:parent_id":85803649,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.292189,34.799837,-92.292189,34.799837],
-  "geometry": {"coordinates":[-92.292189,34.799837],"type":"Point"}
+  "bbox": [
+    -92.292189,
+    34.799837,
+    -92.292189,
+    34.799837
+],
+  "geometry": {"coordinates":[-92.29218899999999,34.799837],"type":"Point"}
 }

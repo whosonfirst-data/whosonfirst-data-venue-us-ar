@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102430947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.624495,35.812193,-90.624495,35.812193",
     "geom:latitude":35.812193,
     "geom:longitude":-90.624495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2601 Commerce Dr",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102430947,
-    "wof:lastmodified":1449069303,
+    "wof:lastmodified":1466325568,
     "wof:name":"Medcaster",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.624495,35.812193,-90.624495,35.812193],
+  "bbox": [
+    -90.624495,
+    35.812193,
+    -90.624495,
+    35.812193
+],
   "geometry": {"coordinates":[-90.624495,35.812193],"type":"Point"}
 }

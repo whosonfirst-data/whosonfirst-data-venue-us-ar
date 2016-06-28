@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102390107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.036667,35.486429,-92.036667,35.486429",
     "geom:latitude":35.486429,
     "geom:longitude":-92.036667,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"625 S 7th St",
     "sg:city":"Heber Springs",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102390107,
-    "wof:lastmodified":1449070239,
+    "wof:lastmodified":1466324166,
     "wof:name":"Battery Man",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.036667,35.486429,-92.036667,35.486429],
-  "geometry": {"coordinates":[-92.036667,35.486429],"type":"Point"}
+  "bbox": [
+    -92.036667,
+    35.486429,
+    -92.036667,
+    35.486429
+],
+  "geometry": {"coordinates":[-92.03666699999999,35.486429],"type":"Point"}
 }

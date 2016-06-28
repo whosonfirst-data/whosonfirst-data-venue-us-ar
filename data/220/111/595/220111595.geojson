@@ -2,13 +2,14 @@
   "id": 220111595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.250222,35.215852,-94.250222,35.215852",
     "geom:latitude":35.215852,
     "geom:longitude":-94.250222,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Bell Rd",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":220111595,
-    "wof:lastmodified":1449074902,
+    "wof:lastmodified":1466322427,
     "wof:name":"City Of Greenwood",
     "wof:parent_id":85832863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "government-city"
     ]
 },
-  "bbox": [-94.250222,35.215852,-94.250222,35.215852],
-  "geometry": {"coordinates":[-94.250222,35.215852],"type":"Point"}
+  "bbox": [
+    -94.250222,
+    35.215852,
+    -94.250222,
+    35.215852
+],
+  "geometry": {"coordinates":[-94.25022199999999,35.215852],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219956327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.117295,36.313061,-94.117295,36.313061",
     "geom:latitude":36.313061,
     "geom:longitude":-94.117295,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 E Linden St",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219956327,
-    "wof:lastmodified":1449070986,
+    "wof:lastmodified":1466325200,
     "wof:name":"TruGreen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "landscape"
     ]
 },
-  "bbox": [-94.117295,36.313061,-94.117295,36.313061],
+  "bbox": [
+    -94.117295,
+    36.313061,
+    -94.117295,
+    36.313061
+],
   "geometry": {"coordinates":[-94.117295,36.313061],"type":"Point"}
 }

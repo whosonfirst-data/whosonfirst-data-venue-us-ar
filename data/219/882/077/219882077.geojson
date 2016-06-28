@@ -2,13 +2,14 @@
   "id": 219882077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.214478,36.386101,-94.214478,36.386101",
     "geom:latitude":36.386101,
     "geom:longitude":-94.214478,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 Tiger Blvd",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219882077,
-    "wof:lastmodified":1449071023,
+    "wof:lastmodified":1466325065,
     "wof:name":"Bentonville School District 6",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.214478,36.386101,-94.214478,36.386101],
+  "bbox": [
+    -94.214478,
+    36.386101,
+    -94.214478,
+    36.386101
+],
   "geometry": {"coordinates":[-94.214478,36.386101],"type":"Point"}
 }

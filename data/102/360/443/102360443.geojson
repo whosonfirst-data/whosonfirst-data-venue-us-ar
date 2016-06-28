@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102360443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.230283,34.855573,-92.230283,34.855573",
     "geom:latitude":34.855573,
     "geom:longitude":-92.230283,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10840 Rocky Creek Ct",
     "sg:city":"North Little Rock",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851723,
+        85688549,
         85633793,
         85921251,
         102082497,
-        85688549
+        85851723
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102360443,
-    "wof:lastmodified":1449069645,
+    "wof:lastmodified":1466324243,
     "wof:name":"M Squared",
     "wof:parent_id":85851723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.230283,34.855573,-92.230283,34.855573],
+  "bbox": [
+    -92.230283,
+    34.855573,
+    -92.230283,
+    34.855573
+],
   "geometry": {"coordinates":[-92.230283,34.855573],"type":"Point"}
 }

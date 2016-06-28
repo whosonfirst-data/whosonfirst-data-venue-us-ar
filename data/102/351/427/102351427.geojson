@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102351427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.662983,35.82827,-90.662983,35.82827",
     "geom:latitude":35.82827,
     "geom:longitude":-90.662983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3505 E Nettleton Ave",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85836541,
+        85688549,
         85633793,
         85920203,
         102082033,
-        85688549
+        85836541
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102351427,
-    "wof:lastmodified":1449069806,
+    "wof:lastmodified":1466324043,
     "wof:name":"Wholesale Carpets",
     "wof:parent_id":85836541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.662983,35.82827,-90.662983,35.82827],
+  "bbox": [
+    -90.662983,
+    35.82827,
+    -90.662983,
+    35.82827
+],
   "geometry": {"coordinates":[-90.662983,35.82827],"type":"Point"}
 }

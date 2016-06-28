@@ -2,13 +2,14 @@
   "id": 219369047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.750539,34.796657,-91.750539,34.796657",
     "geom:latitude":34.796657,
     "geom:longitude":-91.750539,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1505 N Bankhead",
     "sg:city":"Carlisle",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219369047,
-    "wof:lastmodified":1449073730,
+    "wof:lastmodified":1466322564,
     "wof:name":"Americas Best Value Inn Carlisle",
     "wof:parent_id":85811577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "lodging"
     ]
 },
-  "bbox": [-91.750539,34.796657,-91.750539,34.796657],
+  "bbox": [
+    -91.750539,
+    34.796657,
+    -91.750539,
+    34.796657
+],
   "geometry": {"coordinates":[-91.750539,34.796657],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353947539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.528364,36.164336,-94.528364,36.164336",
     "geom:latitude":36.164336,
     "geom:longitude":-94.528364,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2504 S Lincoln St",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353947539,
-    "wof:lastmodified":1449020093,
+    "wof:lastmodified":1466320557,
     "wof:name":"Cochran Freeman Cnstr LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-94.528364,36.164336,-94.528364,36.164336],
+  "bbox": [
+    -94.528364,
+    36.164336,
+    -94.528364,
+    36.164336
+],
   "geometry": {"coordinates":[-94.528364,36.164336],"type":"Point"}
 }

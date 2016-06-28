@@ -2,13 +2,14 @@
   "id": 219447449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.869838,34.702598,-91.869838,34.702598",
     "geom:latitude":34.702598,
     "geom:longitude":-91.869838,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"760 Bayou Meto Rd",
     "sg:city":"Lonoke",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219447449,
-    "wof:lastmodified":1449072881,
+    "wof:lastmodified":1466323330,
     "wof:name":"Raper Farms Ms",
     "wof:parent_id":85811577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.869838,34.702598,-91.869838,34.702598],
+  "bbox": [
+    -91.869838,
+    34.702598,
+    -91.869838,
+    34.702598
+],
   "geometry": {"coordinates":[-91.869838,34.702598],"type":"Point"}
 }

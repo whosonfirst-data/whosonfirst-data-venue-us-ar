@@ -2,13 +2,14 @@
   "id": 219906101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.238049,36.326583,-94.238049,36.326583",
     "geom:latitude":36.326583,
     "geom:longitude":-94.238049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4602 SW Branch St",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219906101,
-    "wof:lastmodified":1449071730,
+    "wof:lastmodified":1466325104,
     "wof:name":"T And L Cleaning Maintenance",
     "wof:parent_id":85895813,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "cleaners-interior"
     ]
 },
-  "bbox": [-94.238049,36.326583,-94.238049,36.326583],
+  "bbox": [
+    -94.238049,
+    36.326583,
+    -94.238049,
+    36.326583
+],
   "geometry": {"coordinates":[-94.238049,36.326583],"type":"Point"}
 }

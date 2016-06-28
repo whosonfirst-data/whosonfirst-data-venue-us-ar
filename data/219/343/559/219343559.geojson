@@ -2,13 +2,14 @@
   "id": 219343559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.591683,34.567743,-92.591683,34.567743",
     "geom:latitude":34.567743,
     "geom:longitude":-92.591683,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"508 W North St",
     "sg:city":"Benton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219343559,
-    "wof:lastmodified":1449072909,
+    "wof:lastmodified":1466322162,
     "wof:name":"B J Auto Sales",
     "wof:parent_id":85817531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "car"
     ]
 },
-  "bbox": [-92.591683,34.567743,-92.591683,34.567743],
+  "bbox": [
+    -92.591683,
+    34.567743,
+    -92.591683,
+    34.567743
+],
   "geometry": {"coordinates":[-92.591683,34.567743],"type":"Point"}
 }

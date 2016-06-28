@@ -2,13 +2,14 @@
   "id": 320623681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.918925,36.628958,-94.918925,36.628958",
     "geom:latitude":36.628958,
     "geom:longitude":-94.918925,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 Sky Line Dr",
     "sg:city":"Bernice",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320623681,
-    "wof:lastmodified":1449013886,
+    "wof:lastmodified":1466320602,
     "wof:name":"School-A-Tronic Inc",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-94.918925,36.628958,-94.918925,36.628958],
+  "bbox": [
+    -94.918925,
+    36.628958,
+    -94.918925,
+    36.628958
+],
   "geometry": {"coordinates":[-94.918925,36.628958],"type":"Point"}
 }

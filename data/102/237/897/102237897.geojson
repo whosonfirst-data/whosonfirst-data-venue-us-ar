@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102237897",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.168538,36.365547,-94.168538,36.365547",
     "geom:latitude":36.365547,
     "geom:longitude":-94.168538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"604 Baylor St",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895823,
+        85688549,
         85633793,
         85921509,
         102083255,
-        85688549
+        85895823
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102237897",
-    "wof:lastmodified":1449067828,
+    "wof:lastmodified":1466321656,
     "wof:name":"McGaugh Properties",
     "wof:parent_id":85895823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.168538,36.365547,-94.168538,36.365547],
+  "bbox": [
+    -94.168538,
+    36.365547,
+    -94.168538,
+    36.365547
+],
   "geometry": {"coordinates":[-94.168538,36.365547],"type":"Point"}
 }

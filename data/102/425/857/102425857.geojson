@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102425857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.151785,36.320679,-94.151785,36.320679",
     "geom:latitude":36.320679,
     "geom:longitude":-94.151785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1514 Heritage Cir",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102425857,
-    "wof:lastmodified":1449068635,
+    "wof:lastmodified":1466325478,
     "wof:name":"Show Me A Sign",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.151785,36.320679,-94.151785,36.320679],
+  "bbox": [
+    -94.151785,
+    36.320679,
+    -94.151785,
+    36.320679
+],
   "geometry": {"coordinates":[-94.151785,36.320679],"type":"Point"}
 }

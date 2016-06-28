@@ -2,13 +2,14 @@
   "id": 219218793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.24009,33.278999,-93.24009,33.278999",
     "geom:latitude":33.278999,
     "geom:longitude":-93.24009,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 W Stadium",
     "sg:city":"Magnolia",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219218793,
-    "wof:lastmodified":1449072620,
+    "wof:lastmodified":1466321034,
     "wof:name":"Chester Wynn Md",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-93.24009,33.278999,-93.24009,33.278999],
+  "bbox": [
+    -93.24009,
+    33.278999,
+    -93.24009,
+    33.278999
+],
   "geometry": {"coordinates":[-93.24009,33.278999],"type":"Point"}
 }

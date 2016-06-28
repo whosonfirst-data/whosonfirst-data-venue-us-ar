@@ -2,13 +2,14 @@
   "id": 220086871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.616335,35.436954,-93.616335,35.436954",
     "geom:latitude":35.436954,
     "geom:longitude":-93.616335,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"198 Wilder Ln",
     "sg:city":"Hartman",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":220086871,
-    "wof:lastmodified":1449074593,
+    "wof:lastmodified":1466321807,
     "wof:name":"David E Wilder",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.616335,35.436954,-93.616335,35.436954],
-  "geometry": {"coordinates":[-93.616335,35.436954],"type":"Point"}
+  "bbox": [
+    -93.616335,
+    35.436954,
+    -93.616335,
+    35.436954
+],
+  "geometry": {"coordinates":[-93.61633500000001,35.436954],"type":"Point"}
 }

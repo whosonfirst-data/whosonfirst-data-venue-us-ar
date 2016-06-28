@@ -2,13 +2,14 @@
   "id": 220028811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.179671,36.207903,-94.179671,36.207903",
     "geom:latitude":36.207903,
     "geom:longitude":-94.179671,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2530 Raintree Cir",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220028811,
-    "wof:lastmodified":1449074487,
+    "wof:lastmodified":1466320512,
     "wof:name":"Leonard Cannafax",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "air"
     ]
 },
-  "bbox": [-94.179671,36.207903,-94.179671,36.207903],
+  "bbox": [
+    -94.179671,
+    36.207903,
+    -94.179671,
+    36.207903
+],
   "geometry": {"coordinates":[-94.179671,36.207903],"type":"Point"}
 }

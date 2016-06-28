@@ -2,13 +2,14 @@
   "id": 219806909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.221039,36.36899,-93.221039,36.36899",
     "geom:latitude":36.36899,
     "geom:longitude":-93.221039,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9801 Highway 65",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219806909,
-    "wof:lastmodified":1449070370,
+    "wof:lastmodified":1466325028,
     "wof:name":"Gilbert Central Corp.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "contractor"
     ]
 },
-  "bbox": [-93.221039,36.36899,-93.221039,36.36899],
+  "bbox": [
+    -93.221039,
+    36.36899,
+    -93.221039,
+    36.36899
+],
   "geometry": {"coordinates":[-93.221039,36.36899],"type":"Point"}
 }

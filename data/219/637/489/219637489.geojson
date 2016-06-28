@@ -2,13 +2,14 @@
   "id": 219637489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.722033,35.832706,-90.722033,35.832706",
     "geom:latitude":35.832706,
     "geom:longitude":-90.722033,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1008 Wall St",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":219637489,
-    "wof:lastmodified":1449070381,
+    "wof:lastmodified":1466324639,
     "wof:name":"Touch of Relief Inc",
     "wof:parent_id":85836541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "citizen"
     ]
 },
-  "bbox": [-90.722033,35.832706,-90.722033,35.832706],
+  "bbox": [
+    -90.722033,
+    35.832706,
+    -90.722033,
+    35.832706
+],
   "geometry": {"coordinates":[-90.722033,35.832706],"type":"Point"}
 }

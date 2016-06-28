@@ -2,13 +2,14 @@
   "id": 219415045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.963135,34.539949,-91.963135,34.539949",
     "geom:latitude":34.539949,
     "geom:longitude":-91.963135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"618 SE 4th St",
     "sg:city":"England",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219415045,
-    "wof:lastmodified":1449072947,
+    "wof:lastmodified":1466322976,
     "wof:name":"Glen Ford",
     "wof:parent_id":85811577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "car"
     ]
 },
-  "bbox": [-91.963135,34.539949,-91.963135,34.539949],
-  "geometry": {"coordinates":[-91.963135,34.539949],"type":"Point"}
+  "bbox": [
+    -91.963135,
+    34.539949,
+    -91.963135,
+    34.539949
+],
+  "geometry": {"coordinates":[-91.96313499999999,34.539949],"type":"Point"}
 }

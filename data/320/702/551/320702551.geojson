@@ -2,13 +2,14 @@
   "id": 320702551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.527724,36.183165,-94.527724,36.183165",
     "geom:latitude":36.183165,
     "geom:longitude":-94.527724,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"355 S Lincoln St",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320702551,
-    "wof:lastmodified":1449013131,
+    "wof:lastmodified":1466320625,
     "wof:name":"Siloam Springs Heating & AC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-94.527724,36.183165,-94.527724,36.183165],
-  "geometry": {"coordinates":[-94.527724,36.183165],"type":"Point"}
+  "bbox": [
+    -94.527724,
+    36.183165,
+    -94.527724,
+    36.183165
+],
+  "geometry": {"coordinates":[-94.52772400000001,36.183165],"type":"Point"}
 }

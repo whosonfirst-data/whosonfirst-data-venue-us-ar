@@ -2,13 +2,14 @@
   "id": 219407781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.463045,35.079494,-92.463045,35.079494",
     "geom:latitude":35.079494,
     "geom:longitude":-92.463045,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"219 Farris Rd",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219407781,
-    "wof:lastmodified":1449072331,
+    "wof:lastmodified":1466322915,
     "wof:name":"Solan Nails",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.463045,35.079494,-92.463045,35.079494],
-  "geometry": {"coordinates":[-92.463045,35.079494],"type":"Point"}
+  "bbox": [
+    -92.463045,
+    35.079494,
+    -92.463045,
+    35.079494
+],
+  "geometry": {"coordinates":[-92.46304499999999,35.079494],"type":"Point"}
 }

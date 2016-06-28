@@ -2,13 +2,14 @@
   "id": 219562801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.225967,35.08213,-92.225967,35.08213",
     "geom:latitude":35.08213,
     "geom:longitude":-92.225967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"997 Main St",
     "sg:city":"Vilonia",
     "sg:classifiers":[
@@ -69,10 +70,11 @@
         }
     ],
     "wof:id":219562801,
-    "wof:lastmodified":1449072251,
+    "wof:lastmodified":1466324419,
     "wof:name":"G & S Fencing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -83,6 +85,11 @@
         "contractor"
     ]
 },
-  "bbox": [-92.225967,35.08213,-92.225967,35.08213],
+  "bbox": [
+    -92.225967,
+    35.08213,
+    -92.225967,
+    35.08213
+],
   "geometry": {"coordinates":[-92.225967,35.08213],"type":"Point"}
 }

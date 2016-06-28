@@ -2,13 +2,14 @@
   "id": 219842309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.150388,36.099482,-94.150388,36.099482",
     "geom:latitude":36.099482,
     "geom:longitude":-94.150388,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2703 N Drake St",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":219842309,
-    "wof:lastmodified":1449070646,
+    "wof:lastmodified":1466325019,
     "wof:name":"Surplus City",
     "wof:parent_id":85885431,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "bedroom"
     ]
 },
-  "bbox": [-94.150388,36.099482,-94.150388,36.099482],
-  "geometry": {"coordinates":[-94.150388,36.099482],"type":"Point"}
+  "bbox": [
+    -94.150388,
+    36.099482,
+    -94.150388,
+    36.099482
+],
+  "geometry": {"coordinates":[-94.15038800000001,36.099482],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102345581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.25545,33.90384,-94.25545,33.90384",
     "geom:latitude":33.90384,
     "geom:longitude":-94.25545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"436 Bradley Chapel Rd",
     "sg:city":"Horatio",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102345581,
-    "wof:lastmodified":1449070001,
+    "wof:lastmodified":1466323985,
     "wof:name":"Tony Harrison Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.25545,33.90384,-94.25545,33.90384],
+  "bbox": [
+    -94.25545,
+    33.90384,
+    -94.25545,
+    33.90384
+],
   "geometry": {"coordinates":[-94.25545,33.90384],"type":"Point"}
 }

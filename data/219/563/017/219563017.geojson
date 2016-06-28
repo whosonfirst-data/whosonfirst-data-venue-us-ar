@@ -2,13 +2,14 @@
   "id": 219563017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.243507,35.058767,-92.243507,35.058767",
     "geom:latitude":35.058767,
     "geom:longitude":-92.243507,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"194 S Coker Rd",
     "sg:city":"Vilonia",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219563017,
-    "wof:lastmodified":1449070425,
+    "wof:lastmodified":1466324423,
     "wof:name":"Stephen W Taylor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.243507,35.058767,-92.243507,35.058767],
-  "geometry": {"coordinates":[-92.243507,35.058767],"type":"Point"}
+  "bbox": [
+    -92.243507,
+    35.058767,
+    -92.243507,
+    35.058767
+],
+  "geometry": {"coordinates":[-92.24350699999999,35.058767],"type":"Point"}
 }

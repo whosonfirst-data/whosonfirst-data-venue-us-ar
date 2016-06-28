@@ -2,13 +2,14 @@
   "id": 219647675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.741514,35.77775,-90.741514,35.77775",
     "geom:latitude":35.77775,
     "geom:longitude":-90.741514,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2016 Valley View Dr",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":219647675,
-    "wof:lastmodified":1449072064,
+    "wof:lastmodified":1466324711,
     "wof:name":"Christian Valley Christian Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "churches-christian-independent"
     ]
 },
-  "bbox": [-90.741514,35.77775,-90.741514,35.77775],
+  "bbox": [
+    -90.741514,
+    35.77775,
+    -90.741514,
+    35.77775
+],
   "geometry": {"coordinates":[-90.741514,35.77775],"type":"Point"}
 }

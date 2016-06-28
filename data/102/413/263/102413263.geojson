@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102413263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.78727,35.00855,-90.78727,35.00855",
     "geom:latitude":35.00855,
     "geom:longitude":-90.78727,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 W Broadway Ave",
     "sg:city":"Forrest City",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102413263,
-    "wof:lastmodified":1449068184,
+    "wof:lastmodified":1466325249,
     "wof:name":"True Value Hardware",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.78727,35.00855,-90.78727,35.00855],
-  "geometry": {"coordinates":[-90.78727,35.00855],"type":"Point"}
+  "bbox": [
+    -90.78727,
+    35.00855,
+    -90.78727,
+    35.00855
+],
+  "geometry": {"coordinates":[-90.78727000000001,35.00855],"type":"Point"}
 }

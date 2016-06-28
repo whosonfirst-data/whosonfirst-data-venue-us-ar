@@ -2,13 +2,14 @@
   "id": 219272325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.013364,33.399139,-94.013364,33.399139",
     "geom:latitude":33.399139,
     "geom:longitude":-94.013364,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1905 Country Club Rd",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":219272325,
-    "wof:lastmodified":1449073662,
+    "wof:lastmodified":1466321503,
     "wof:name":"Pitts, Tom Carpet Cleaning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "carpet"
     ]
 },
-  "bbox": [-94.013364,33.399139,-94.013364,33.399139],
+  "bbox": [
+    -94.013364,
+    33.399139,
+    -94.013364,
+    33.399139
+],
   "geometry": {"coordinates":[-94.013364,33.399139],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403801827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.037769,33.467616,-94.037769,33.467616",
     "geom:latitude":33.467616,
     "geom:longitude":-94.037769,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4717 County Ave",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403801827,
-    "wof:lastmodified":1449055738,
+    "wof:lastmodified":1466320408,
     "wof:name":"Chapel Ridge Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-94.037769,33.467616,-94.037769,33.467616],
+  "bbox": [
+    -94.037769,
+    33.467616,
+    -94.037769,
+    33.467616
+],
   "geometry": {"coordinates":[-94.037769,33.467616],"type":"Point"}
 }

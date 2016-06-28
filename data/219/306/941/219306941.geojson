@@ -2,13 +2,14 @@
   "id": 219306941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.240804,34.5744,-94.240804,34.5744",
     "geom:latitude":34.5744,
     "geom:longitude":-94.240804,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1325 Highway 71 S",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":219306941,
-    "wof:lastmodified":1449073752,
+    "wof:lastmodified":1466321788,
     "wof:name":"Subway",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "take"
     ]
 },
-  "bbox": [-94.240804,34.5744,-94.240804,34.5744],
+  "bbox": [
+    -94.240804,
+    34.5744,
+    -94.240804,
+    34.5744
+],
   "geometry": {"coordinates":[-94.240804,34.5744],"type":"Point"}
 }

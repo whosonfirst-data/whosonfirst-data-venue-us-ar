@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102322685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.847079,33.940928,-93.847079,33.940928",
     "geom:latitude":33.940928,
     "geom:longitude":-93.847079,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"330 S Main St",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102322685,
-    "wof:lastmodified":1449067744,
+    "wof:lastmodified":1466323524,
     "wof:name":"Check Cashing Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.847079,33.940928,-93.847079,33.940928],
-  "geometry": {"coordinates":[-93.847079,33.940928],"type":"Point"}
+  "bbox": [
+    -93.847079,
+    33.940928,
+    -93.847079,
+    33.940928
+],
+  "geometry": {"coordinates":[-93.84707899999999,33.940928],"type":"Point"}
 }

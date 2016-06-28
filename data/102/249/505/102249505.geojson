@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102249505",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.227652,33.266899,-93.227652,33.266899",
     "geom:latitude":33.266899,
     "geom:longitude":-93.227652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1010 E Main St",
     "sg:city":"Magnolia",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102249505",
-    "wof:lastmodified":1449067904,
+    "wof:lastmodified":1466321870,
     "wof:name":"Bancorp South",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.227652,33.266899,-93.227652,33.266899],
-  "geometry": {"coordinates":[-93.227652,33.266899],"type":"Point"}
+  "bbox": [
+    -93.227652,
+    33.266899,
+    -93.227652,
+    33.266899
+],
+  "geometry": {"coordinates":[-93.22765200000001,33.266899],"type":"Point"}
 }

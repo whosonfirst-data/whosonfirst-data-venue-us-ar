@@ -2,13 +2,14 @@
   "id": 219361625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.995733,34.976875,-91.995733,34.976875",
     "geom:latitude":34.976875,
     "geom:longitude":-91.995733,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Cumberland Dr",
     "sg:city":"Cabot",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219361625,
-    "wof:lastmodified":1449072974,
+    "wof:lastmodified":1466322429,
     "wof:name":"460 Golf",
     "wof:parent_id":85839277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "course"
     ]
 },
-  "bbox": [-91.995733,34.976875,-91.995733,34.976875],
+  "bbox": [
+    -91.995733,
+    34.976875,
+    -91.995733,
+    34.976875
+],
   "geometry": {"coordinates":[-91.995733,34.976875],"type":"Point"}
 }

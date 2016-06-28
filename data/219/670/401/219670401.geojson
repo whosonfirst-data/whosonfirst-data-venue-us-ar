@@ -2,13 +2,14 @@
   "id": 219670401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.166282,35.880225,-90.166282,35.880225",
     "geom:latitude":35.880225,
     "geom:longitude":-90.166282,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 Baltimore",
     "sg:city":"Manila",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219670401,
-    "wof:lastmodified":1449070917,
+    "wof:lastmodified":1466324589,
     "wof:name":"Manila United Methodist",
     "wof:parent_id":85814753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "denomination"
     ]
 },
-  "bbox": [-90.166282,35.880225,-90.166282,35.880225],
+  "bbox": [
+    -90.166282,
+    35.880225,
+    -90.166282,
+    35.880225
+],
   "geometry": {"coordinates":[-90.166282,35.880225],"type":"Point"}
 }

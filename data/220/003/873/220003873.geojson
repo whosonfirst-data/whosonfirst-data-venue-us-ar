@@ -2,13 +2,14 @@
   "id": 220003873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.160234,36.286047,-94.160234,36.286047",
     "geom:latitude":36.286047,
     "geom:longitude":-94.160234,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3606 Southern Hills Blvd",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220003873,
-    "wof:lastmodified":1449074817,
+    "wof:lastmodified":1466320461,
     "wof:name":"American Mortgage of Rogers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-94.160234,36.286047,-94.160234,36.286047],
+  "bbox": [
+    -94.160234,
+    36.286047,
+    -94.160234,
+    36.286047
+],
   "geometry": {"coordinates":[-94.160234,36.286047],"type":"Point"}
 }

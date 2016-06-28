@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102348003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.421309,35.372191,-94.421309,35.372191",
     "geom:latitude":35.372191,
     "geom:longitude":-94.421309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1215 US Hwy 71 Bus",
     "sg:city":"Fort Smith",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102348003,
-    "wof:lastmodified":1449067890,
+    "wof:lastmodified":1466323930,
     "wof:name":"Smith Chevrolet Olds Cadillac",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.421309,35.372191,-94.421309,35.372191],
-  "geometry": {"coordinates":[-94.421309,35.372191],"type":"Point"}
+  "bbox": [
+    -94.421309,
+    35.372191,
+    -94.421309,
+    35.372191
+],
+  "geometry": {"coordinates":[-94.42130899999999,35.372191],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219377537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.40892,35.087269,-92.40892,35.087269",
     "geom:latitude":35.087269,
     "geom:longitude":-92.40892,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"41 Dendron St",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219377537,
-    "wof:lastmodified":1449071713,
+    "wof:lastmodified":1466322652,
     "wof:name":"Fccs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "employment"
     ]
 },
-  "bbox": [-92.40892,35.087269,-92.40892,35.087269],
-  "geometry": {"coordinates":[-92.40892,35.087269],"type":"Point"}
+  "bbox": [
+    -92.40892,
+    35.087269,
+    -92.40892,
+    35.087269
+],
+  "geometry": {"coordinates":[-92.40891999999999,35.087269],"type":"Point"}
 }

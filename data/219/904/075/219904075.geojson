@@ -2,13 +2,14 @@
   "id": 219904075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.208895,36.416983,-94.208895,36.416983",
     "geom:latitude":36.416983,
     "geom:longitude":-94.208895,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8110 W Ford Springs Rd",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219904075,
-    "wof:lastmodified":1449074010,
+    "wof:lastmodified":1466325103,
     "wof:name":"Guard Tronic Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "equipment"
     ]
 },
-  "bbox": [-94.208895,36.416983,-94.208895,36.416983],
+  "bbox": [
+    -94.208895,
+    36.416983,
+    -94.208895,
+    36.416983
+],
   "geometry": {"coordinates":[-94.208895,36.416983],"type":"Point"}
 }

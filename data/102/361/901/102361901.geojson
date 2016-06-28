@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102361901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.029305,33.582339,-94.029305,33.582339",
     "geom:latitude":33.582339,
     "geom:longitude":-94.029305,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"179 Little River 70",
     "sg:city":"Ogden",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":102361901,
-    "wof:lastmodified":1449069556,
+    "wof:lastmodified":1466324350,
     "wof:name":"Tim's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.029305,33.582339,-94.029305,33.582339],
-  "geometry": {"coordinates":[-94.029305,33.582339],"type":"Point"}
+  "bbox": [
+    -94.029305,
+    33.582339,
+    -94.029305,
+    33.582339
+],
+  "geometry": {"coordinates":[-94.02930499999999,33.582339],"type":"Point"}
 }

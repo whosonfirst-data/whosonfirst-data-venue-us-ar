@@ -2,13 +2,14 @@
   "id": 287165185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.478181,35.272703,-94.478181,35.272703",
     "geom:latitude":35.272703,
     "geom:longitude":-94.478181,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1300 N Pocola Blvd",
     "sg:city":"Pocola",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":287165185,
-    "wof:lastmodified":1449001592,
+    "wof:lastmodified":1466324405,
     "wof:name":"Pocola Feed & Farm Supply Inc",
     "wof:parent_id":85809847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "feed"
     ]
 },
-  "bbox": [-94.478181,35.272703,-94.478181,35.272703],
-  "geometry": {"coordinates":[-94.478181,35.272703],"type":"Point"}
+  "bbox": [
+    -94.478181,
+    35.272703,
+    -94.478181,
+    35.272703
+],
+  "geometry": {"coordinates":[-94.47818100000001,35.272703],"type":"Point"}
 }

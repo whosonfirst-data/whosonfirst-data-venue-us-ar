@@ -2,13 +2,14 @@
   "id": 219631729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.685654,35.842869,-90.685654,35.842869",
     "geom:latitude":35.842869,
     "geom:longitude":-90.685654,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1601 Aggie Rd",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219631729,
-    "wof:lastmodified":1449071488,
+    "wof:lastmodified":1466324842,
     "wof:name":"Craighill Townhomes",
     "wof:parent_id":85836541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-90.685654,35.842869,-90.685654,35.842869],
+  "bbox": [
+    -90.685654,
+    35.842869,
+    -90.685654,
+    35.842869
+],
   "geometry": {"coordinates":[-90.685654,35.842869],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219162383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.813496,33.558723,-91.813496,33.558723",
     "geom:latitude":33.558723,
     "geom:longitude":-91.813496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"327 Highway 172",
     "sg:city":"Monticello",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219162383,
-    "wof:lastmodified":1449073399,
+    "wof:lastmodified":1466320488,
     "wof:name":"Shady Grove Baptist Church Life Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "churches-baptist"
     ]
 },
-  "bbox": [-91.813496,33.558723,-91.813496,33.558723],
+  "bbox": [
+    -91.813496,
+    33.558723,
+    -91.813496,
+    33.558723
+],
   "geometry": {"coordinates":[-91.813496,33.558723],"type":"Point"}
 }

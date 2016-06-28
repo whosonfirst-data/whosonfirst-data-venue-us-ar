@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102360221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.03337,35.490674,-93.03337,35.490674",
     "geom:latitude":35.490674,
     "geom:longitude":-93.03337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1895 Granny Gap 1 Rd",
     "sg:city":"Dover",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":102360221,
-    "wof:lastmodified":1449069643,
+    "wof:lastmodified":1466324198,
     "wof:name":"Price Grove Assembly Of God",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.03337,35.490674,-93.03337,35.490674],
-  "geometry": {"coordinates":[-93.03337,35.490674],"type":"Point"}
+  "bbox": [
+    -93.03337,
+    35.490674,
+    -93.03337,
+    35.490674
+],
+  "geometry": {"coordinates":[-93.03337000000001,35.490674],"type":"Point"}
 }

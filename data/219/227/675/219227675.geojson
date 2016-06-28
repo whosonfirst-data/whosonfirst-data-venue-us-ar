@@ -2,13 +2,14 @@
   "id": 219227675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.588199,33.651091,-93.588199,33.651091",
     "geom:latitude":33.651091,
     "geom:longitude":-93.588199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1820 S Elm St",
     "sg:city":"Hope",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219227675,
-    "wof:lastmodified":1449071176,
+    "wof:lastmodified":1466321149,
     "wof:name":"Sunny Braes Apartments",
     "wof:parent_id":85806015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-93.588199,33.651091,-93.588199,33.651091],
+  "bbox": [
+    -93.588199,
+    33.651091,
+    -93.588199,
+    33.651091
+],
   "geometry": {"coordinates":[-93.588199,33.651091],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219637537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.634583,35.864197,-90.634583,35.864197",
     "geom:latitude":35.864197,
     "geom:longitude":-90.634583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4309 E Johnson Ave",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219637537,
-    "wof:lastmodified":1449070381,
+    "wof:lastmodified":1466324640,
     "wof:name":"Johnston Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "new"
     ]
 },
-  "bbox": [-90.634583,35.864197,-90.634583,35.864197],
-  "geometry": {"coordinates":[-90.634583,35.864197],"type":"Point"}
+  "bbox": [
+    -90.634583,
+    35.864197,
+    -90.634583,
+    35.864197
+],
+  "geometry": {"coordinates":[-90.63458300000001,35.864197],"type":"Point"}
 }

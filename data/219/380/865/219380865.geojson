@@ -2,13 +2,14 @@
   "id": 219380865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.432847,35.112126,-92.432847,35.112126",
     "geom:latitude":35.112126,
     "geom:longitude":-92.432847,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"550 Skyline Dr",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219380865,
-    "wof:lastmodified":1449072032,
+    "wof:lastmodified":1466322681,
     "wof:name":"Kr Fuel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-92.432847,35.112126,-92.432847,35.112126],
+  "bbox": [
+    -92.432847,
+    35.112126,
+    -92.432847,
+    35.112126
+],
   "geometry": {"coordinates":[-92.432847,35.112126],"type":"Point"}
 }

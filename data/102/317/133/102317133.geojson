@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102317133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.217174,36.139726,-94.217174,36.139726",
     "geom:latitude":36.139726,
     "geom:longitude":-94.217174,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10280 W Steele Rd",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885487,
+        85688549,
         85633793,
         85919581,
         102082007,
-        85688549
+        85885487
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102317133,
-    "wof:lastmodified":1449068864,
+    "wof:lastmodified":1466323338,
     "wof:name":"Eastside Pallets Inc",
     "wof:parent_id":85885487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.217174,36.139726,-94.217174,36.139726],
+  "bbox": [
+    -94.217174,
+    36.139726,
+    -94.217174,
+    36.139726
+],
   "geometry": {"coordinates":[-94.217174,36.139726],"type":"Point"}
 }

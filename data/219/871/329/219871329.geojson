@@ -2,13 +2,14 @@
   "id": 219871329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.218861,36.363237,-94.218861,36.363237",
     "geom:latitude":36.363237,
     "geom:longitude":-94.218861,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"902A S Walton Blvd",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219871329,
-    "wof:lastmodified":1449071554,
+    "wof:lastmodified":1466325051,
     "wof:name":"Singletree Printing Group, Inc.",
     "wof:parent_id":85895819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lithographer"
     ]
 },
-  "bbox": [-94.218861,36.363237,-94.218861,36.363237],
+  "bbox": [
+    -94.218861,
+    36.363237,
+    -94.218861,
+    36.363237
+],
   "geometry": {"coordinates":[-94.218861,36.363237],"type":"Point"}
 }

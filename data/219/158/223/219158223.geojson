@@ -2,13 +2,14 @@
   "id": 219158223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.342201,33.292004,-92.342201,33.292004",
     "geom:latitude":33.292004,
     "geom:longitude":-92.342201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"263 Lipton Hwy",
     "sg:city":"Jersey",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219158223,
-    "wof:lastmodified":1449072739,
+    "wof:lastmodified":1466320454,
     "wof:name":"M & R Enterprises Mb Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "trucking"
     ]
 },
-  "bbox": [-92.342201,33.292004,-92.342201,33.292004],
+  "bbox": [
+    -92.342201,
+    33.292004,
+    -92.342201,
+    33.292004
+],
   "geometry": {"coordinates":[-92.342201,33.292004],"type":"Point"}
 }

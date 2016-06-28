@@ -2,13 +2,14 @@
   "id": 219424739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.348154,35.247568,-92.348154,35.247568",
     "geom:latitude":35.247568,
     "geom:longitude":-92.348154,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"198 Blair Rd",
     "sg:city":"Greenbrier",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219424739,
-    "wof:lastmodified":1449073686,
+    "wof:lastmodified":1466323056,
     "wof:name":"Fitzgerald Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "trucking"
     ]
 },
-  "bbox": [-92.348154,35.247568,-92.348154,35.247568],
-  "geometry": {"coordinates":[-92.348154,35.247568],"type":"Point"}
+  "bbox": [
+    -92.348154,
+    35.247568,
+    -92.348154,
+    35.247568
+],
+  "geometry": {"coordinates":[-92.34815399999999,35.247568],"type":"Point"}
 }

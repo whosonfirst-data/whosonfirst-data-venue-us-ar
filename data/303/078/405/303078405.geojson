@@ -2,13 +2,14 @@
   "id": 303078405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.559574,36.176573,-94.559574,36.176573",
     "geom:latitude":36.176573,
     "geom:longitude":-94.559574,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1981 Hwy 412 W",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303078405,
-    "wof:lastmodified":1449000182,
+    "wof:lastmodified":1466324502,
     "wof:name":"Italian Grille & Steakhouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.559574,36.176573,-94.559574,36.176573],
+  "bbox": [
+    -94.559574,
+    36.176573,
+    -94.559574,
+    36.176573
+],
   "geometry": {"coordinates":[-94.559574,36.176573],"type":"Point"}
 }

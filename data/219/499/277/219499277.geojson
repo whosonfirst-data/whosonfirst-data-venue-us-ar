@@ -2,13 +2,14 @@
   "id": 219499277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.570474,34.313097,-92.570474,34.313097",
     "geom:latitude":34.313097,
     "geom:longitude":-92.570474,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Grant 441",
     "sg:city":"Prattsville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219499277,
-    "wof:lastmodified":1449071064,
+    "wof:lastmodified":1466323940,
     "wof:name":"Allen Brothers Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "equipment"
     ]
 },
-  "bbox": [-92.570474,34.313097,-92.570474,34.313097],
+  "bbox": [
+    -92.570474,
+    34.313097,
+    -92.570474,
+    34.313097
+],
   "geometry": {"coordinates":[-92.570474,34.313097],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102239691",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.276192,34.724323,-92.276192,34.724323",
     "geom:latitude":34.724323,
     "geom:longitude":-92.276192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 W Roosevelt Rd",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878755,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85878755
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102239691",
-    "wof:lastmodified":1449068025,
+    "wof:lastmodified":1466321679,
     "wof:name":"Laing Sales & Service Co Inc",
     "wof:parent_id":85878755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.276192,34.724323,-92.276192,34.724323],
-  "geometry": {"coordinates":[-92.276192,34.724323],"type":"Point"}
+  "bbox": [
+    -92.276192,
+    34.724323,
+    -92.276192,
+    34.724323
+],
+  "geometry": {"coordinates":[-92.27619199999999,34.724323],"type":"Point"}
 }

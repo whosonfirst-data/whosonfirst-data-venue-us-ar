@@ -2,13 +2,14 @@
   "id": 219227827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.599285,33.667191,-93.599285,33.667191",
     "geom:latitude":33.667191,
     "geom:longitude":-93.599285,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"719 W Division St",
     "sg:city":"Hope",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219227827,
-    "wof:lastmodified":1449071175,
+    "wof:lastmodified":1466321153,
     "wof:name":"David Harold Johnson",
     "wof:parent_id":85806015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "law"
     ]
 },
-  "bbox": [-93.599285,33.667191,-93.599285,33.667191],
-  "geometry": {"coordinates":[-93.599285,33.667191],"type":"Point"}
+  "bbox": [
+    -93.599285,
+    33.667191,
+    -93.599285,
+    33.667191
+],
+  "geometry": {"coordinates":[-93.59928499999999,33.667191],"type":"Point"}
 }

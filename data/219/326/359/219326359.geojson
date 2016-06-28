@@ -2,13 +2,14 @@
   "id": 219326359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.531801,34.696232,-92.531801,34.696232",
     "geom:latitude":34.696232,
     "geom:longitude":-92.531801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10557 Reed Rd",
     "sg:city":"Alexander",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219326359,
-    "wof:lastmodified":1449071883,
+    "wof:lastmodified":1466321954,
     "wof:name":"Aurora Porea Adney",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-92.531801,34.696232,-92.531801,34.696232],
+  "bbox": [
+    -92.531801,
+    34.696232,
+    -92.531801,
+    34.696232
+],
   "geometry": {"coordinates":[-92.531801,34.696232],"type":"Point"}
 }

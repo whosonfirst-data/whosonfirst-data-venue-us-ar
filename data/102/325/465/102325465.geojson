@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102325465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.21148,36.36588,-94.21148,36.36588",
     "geom:latitude":36.36588,
     "geom:longitude":-94.21148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 SW 6th St",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895819,
+        85688549,
         85633793,
         85921509,
         102083255,
-        85688549
+        85895819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102325465,
-    "wof:lastmodified":1449068706,
+    "wof:lastmodified":1466323588,
     "wof:name":"Dean Jimmie Body Shop",
     "wof:parent_id":85895819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.21148,36.36588,-94.21148,36.36588],
-  "geometry": {"coordinates":[-94.21148,36.36588],"type":"Point"}
+  "bbox": [
+    -94.21148,
+    36.36588,
+    -94.21148,
+    36.36588
+],
+  "geometry": {"coordinates":[-94.21147999999999,36.36588],"type":"Point"}
 }

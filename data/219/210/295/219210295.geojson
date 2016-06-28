@@ -2,13 +2,14 @@
   "id": 219210295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.24262,33.321671,-93.24262,33.321671",
     "geom:latitude":33.321671,
     "geom:longitude":-93.24262,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"710 Columbia Road 43",
     "sg:city":"Magnolia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219210295,
-    "wof:lastmodified":1449071601,
+    "wof:lastmodified":1466320960,
     "wof:name":"Hight Service Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-93.24262,33.321671,-93.24262,33.321671],
+  "bbox": [
+    -93.24262,
+    33.321671,
+    -93.24262,
+    33.321671
+],
   "geometry": {"coordinates":[-93.24262,33.321671],"type":"Point"}
 }

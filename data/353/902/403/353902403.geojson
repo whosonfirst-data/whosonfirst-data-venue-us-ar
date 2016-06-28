@@ -2,13 +2,14 @@
   "id": 353902403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.809556,36.623454,-94.809556,36.623454",
     "geom:latitude":36.623454,
     "geom:longitude":-94.809556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8823 Keller Rd",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353902403,
-    "wof:lastmodified":1449020142,
+    "wof:lastmodified":1466320542,
     "wof:name":"Mike Connolley",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "livestock"
     ]
 },
-  "bbox": [-94.809556,36.623454,-94.809556,36.623454],
+  "bbox": [
+    -94.809556,
+    36.623454,
+    -94.809556,
+    36.623454
+],
   "geometry": {"coordinates":[-94.809556,36.623454],"type":"Point"}
 }

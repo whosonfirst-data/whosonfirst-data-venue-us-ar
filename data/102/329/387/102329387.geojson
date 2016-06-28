@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102329387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.807837,33.639029,-91.807837,33.639029",
     "geom:latitude":33.639029,
     "geom:longitude":-91.807837,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"286 Ragland Ave",
     "sg:city":"Monticello",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102329387,
-    "wof:lastmodified":1449068449,
+    "wof:lastmodified":1466323615,
     "wof:name":"CGC Enterprises Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.807837,33.639029,-91.807837,33.639029],
-  "geometry": {"coordinates":[-91.807837,33.639029],"type":"Point"}
+  "bbox": [
+    -91.807837,
+    33.639029,
+    -91.807837,
+    33.639029
+],
+  "geometry": {"coordinates":[-91.80783700000001,33.639029],"type":"Point"}
 }

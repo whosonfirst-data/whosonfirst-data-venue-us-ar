@@ -2,13 +2,14 @@
   "id": 219349079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.602319,34.571747,-92.602319,34.571747",
     "geom:latitude":34.571747,
     "geom:longitude":-92.602319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1326 Pinewood Cir",
     "sg:city":"Benton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219349079,
-    "wof:lastmodified":1449071722,
+    "wof:lastmodified":1466322252,
     "wof:name":"Robert A Council Dr Ofc",
     "wof:parent_id":85817531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-92.602319,34.571747,-92.602319,34.571747],
-  "geometry": {"coordinates":[-92.602319,34.571747],"type":"Point"}
+  "bbox": [
+    -92.602319,
+    34.571747,
+    -92.602319,
+    34.571747
+],
+  "geometry": {"coordinates":[-92.60231899999999,34.571747],"type":"Point"}
 }

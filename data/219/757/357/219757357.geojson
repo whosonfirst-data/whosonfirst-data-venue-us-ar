@@ -2,13 +2,14 @@
   "id": 219757357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.106052,36.230968,-93.106052,36.230968",
     "geom:latitude":36.230968,
     "geom:longitude":-93.106052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 N Walnut St",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219757357,
-    "wof:lastmodified":1449072369,
+    "wof:lastmodified":1466324850,
     "wof:name":"Campbell Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "business"
     ]
 },
-  "bbox": [-93.106052,36.230968,-93.106052,36.230968],
-  "geometry": {"coordinates":[-93.106052,36.230968],"type":"Point"}
+  "bbox": [
+    -93.106052,
+    36.230968,
+    -93.106052,
+    36.230968
+],
+  "geometry": {"coordinates":[-93.10605200000001,36.230968],"type":"Point"}
 }

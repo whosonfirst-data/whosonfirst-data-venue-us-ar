@@ -2,13 +2,14 @@
   "id": 219468691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.420127,34.972645,-92.420127,34.972645",
     "geom:latitude":34.972645,
     "geom:longitude":-92.420127,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"683 Highway 365",
     "sg:city":"Mayflower",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219468691,
-    "wof:lastmodified":1449072929,
+    "wof:lastmodified":1466323538,
     "wof:name":"M3 Millwork & Molding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-92.420127,34.972645,-92.420127,34.972645],
-  "geometry": {"coordinates":[-92.420127,34.972645],"type":"Point"}
+  "bbox": [
+    -92.420127,
+    34.972645,
+    -92.420127,
+    34.972645
+],
+  "geometry": {"coordinates":[-92.42012699999999,34.972645],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220067197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.139137,35.279774,-93.139137,35.279774",
     "geom:latitude":35.279774,
     "geom:longitude":-93.139137,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 S Glenwood Ave",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220067197,
-    "wof:lastmodified":1449074093,
+    "wof:lastmodified":1466321241,
     "wof:name":"Peel, John",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practice"
     ]
 },
-  "bbox": [-93.139137,35.279774,-93.139137,35.279774],
-  "geometry": {"coordinates":[-93.139137,35.279774],"type":"Point"}
+  "bbox": [
+    -93.139137,
+    35.279774,
+    -93.139137,
+    35.279774
+],
+  "geometry": {"coordinates":[-93.13913700000001,35.279774],"type":"Point"}
 }

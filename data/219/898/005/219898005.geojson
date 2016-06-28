@@ -2,13 +2,14 @@
   "id": 219898005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.243799,36.35762,-94.243799,36.35762",
     "geom:latitude":36.35762,
     "geom:longitude":-94.243799,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2803 SW 14th St",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219898005,
-    "wof:lastmodified":1449070305,
+    "wof:lastmodified":1466325025,
     "wof:name":"God's Lighthouse Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.243799,36.35762,-94.243799,36.35762],
+  "bbox": [
+    -94.243799,
+    36.35762,
+    -94.243799,
+    36.35762
+],
   "geometry": {"coordinates":[-94.243799,36.35762],"type":"Point"}
 }

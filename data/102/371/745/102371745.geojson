@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102371745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.550008,34.508514,-91.550008,34.508514",
     "geom:latitude":34.508514,
     "geom:longitude":-91.550008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 E Washington St",
     "sg:city":"Stuttgart",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85838089,
+        85688549,
         85633793,
         85919671,
         102082495,
-        85688549
+        85838089
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102371745,
-    "wof:lastmodified":1449069651,
+    "wof:lastmodified":1466324492,
     "wof:name":"Horseshoe Wrecker & Rescue Svc",
     "wof:parent_id":85838089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.550008,34.508514,-91.550008,34.508514],
-  "geometry": {"coordinates":[-91.550008,34.508514],"type":"Point"}
+  "bbox": [
+    -91.550008,
+    34.508514,
+    -91.550008,
+    34.508514
+],
+  "geometry": {"coordinates":[-91.55000800000001,34.508514],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102212331",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.422592,34.790321,-92.422592,34.790321",
     "geom:latitude":34.790321,
     "geom:longitude":-92.422592,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Silver Maple Ct",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102082497,
-        85633793,
         85688549,
-        85809209
+        85633793,
+        85809209,
+        102082497
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102212331",
-    "wof:lastmodified":1449069329,
+    "wof:lastmodified":1466320952,
     "wof:name":"Russ Indvidual Fmly Counseling",
     "wof:parent_id":85809209,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.422592,34.790321,-92.422592,34.790321],
-  "geometry": {"coordinates":[-92.422592,34.790321],"type":"Point"}
+  "bbox": [
+    -92.422592,
+    34.790321,
+    -92.422592,
+    34.790321
+],
+  "geometry": {"coordinates":[-92.42259199999999,34.790321],"type":"Point"}
 }

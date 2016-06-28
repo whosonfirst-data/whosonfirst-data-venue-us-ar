@@ -2,13 +2,14 @@
   "id": 219223799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.370356,33.278649,-93.370356,33.278649",
     "geom:latitude":33.278649,
     "geom:longitude":-93.370356,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Columbia Road 168",
     "sg:city":"Waldo",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219223799,
-    "wof:lastmodified":1449070632,
+    "wof:lastmodified":1466321078,
     "wof:name":"Hudgies Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.370356,33.278649,-93.370356,33.278649],
+  "bbox": [
+    -93.370356,
+    33.278649,
+    -93.370356,
+    33.278649
+],
   "geometry": {"coordinates":[-93.370356,33.278649],"type":"Point"}
 }

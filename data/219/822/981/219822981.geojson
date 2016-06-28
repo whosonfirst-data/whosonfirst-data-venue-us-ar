@@ -2,13 +2,14 @@
   "id": 219822981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.166294,36.06649,-94.166294,36.06649",
     "geom:latitude":36.06649,
     "geom:longitude":-94.166294,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"518 W Dickson St",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":219822981,
-    "wof:lastmodified":1449073810,
+    "wof:lastmodified":1466324996,
     "wof:name":"Jimmy John's",
     "wof:parent_id":85885451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "take"
     ]
 },
-  "bbox": [-94.166294,36.06649,-94.166294,36.06649],
-  "geometry": {"coordinates":[-94.166294,36.06649],"type":"Point"}
+  "bbox": [
+    -94.166294,
+    36.06649,
+    -94.166294,
+    36.06649
+],
+  "geometry": {"coordinates":[-94.16629399999999,36.06649],"type":"Point"}
 }

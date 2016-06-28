@@ -2,13 +2,14 @@
   "id": 219959085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.134682,36.333778,-94.134682,36.333778",
     "geom:latitude":36.333778,
     "geom:longitude":-94.134682,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1300 W Walnut St Ste J",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":219959085,
-    "wof:lastmodified":1449073565,
+    "wof:lastmodified":1466325256,
     "wof:name":"Mercy Health Systems Of Northwest Ar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "intestines"
     ]
 },
-  "bbox": [-94.134682,36.333778,-94.134682,36.333778],
+  "bbox": [
+    -94.134682,
+    36.333778,
+    -94.134682,
+    36.333778
+],
   "geometry": {"coordinates":[-94.134682,36.333778],"type":"Point"}
 }

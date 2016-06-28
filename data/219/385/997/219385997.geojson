@@ -2,13 +2,14 @@
   "id": 219385997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.375024,35.088984,-92.375024,35.088984",
     "geom:latitude":35.088984,
     "geom:longitude":-92.375024,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"282 Highway 64 E",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219385997,
-    "wof:lastmodified":1449072485,
+    "wof:lastmodified":1466322726,
     "wof:name":"Sapulpa Auto Pool",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "new"
     ]
 },
-  "bbox": [-92.375024,35.088984,-92.375024,35.088984],
+  "bbox": [
+    -92.375024,
+    35.088984,
+    -92.375024,
+    35.088984
+],
   "geometry": {"coordinates":[-92.375024,35.088984],"type":"Point"}
 }

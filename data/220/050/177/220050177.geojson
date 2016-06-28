@@ -2,13 +2,14 @@
   "id": 220050177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.107778,36.15946,-94.107778,36.15946",
     "geom:latitude":36.15946,
     "geom:longitude":-94.107778,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1951 Electric Ave",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":220050177,
-    "wof:lastmodified":1449074498,
+    "wof:lastmodified":1466320681,
     "wof:name":"General Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "contractor"
     ]
 },
-  "bbox": [-94.107778,36.15946,-94.107778,36.15946],
+  "bbox": [
+    -94.107778,
+    36.15946,
+    -94.107778,
+    36.15946
+],
   "geometry": {"coordinates":[-94.107778,36.15946],"type":"Point"}
 }

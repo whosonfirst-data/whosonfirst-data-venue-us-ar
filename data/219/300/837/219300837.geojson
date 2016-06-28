@@ -2,13 +2,14 @@
   "id": 219300837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.101184,34.681346,-93.101184,34.681346",
     "geom:latitude":34.681346,
     "geom:longitude":-93.101184,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1176 Highway 298",
     "sg:city":"Jessieville",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":219300837,
-    "wof:lastmodified":1449072362,
+    "wof:lastmodified":1466321738,
     "wof:name":"B&N Scrap Haulin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "contractor"
     ]
 },
-  "bbox": [-93.101184,34.681346,-93.101184,34.681346],
+  "bbox": [
+    -93.101184,
+    34.681346,
+    -93.101184,
+    34.681346
+],
   "geometry": {"coordinates":[-93.101184,34.681346],"type":"Point"}
 }

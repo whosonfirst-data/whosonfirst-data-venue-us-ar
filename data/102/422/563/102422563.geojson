@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102422563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.318688,34.751395,-92.318688,34.751395",
     "geom:latitude":34.751395,
     "geom:longitude":-92.318688,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4301 W Markham St",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -35,11 +36,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85843255,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85843255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":102422563,
-    "wof:lastmodified":1449067955,
+    "wof:lastmodified":1466325437,
     "wof:name":"University-Arkansas Med Sci",
     "wof:parent_id":85843255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.318688,34.751395,-92.318688,34.751395],
-  "geometry": {"coordinates":[-92.318688,34.751395],"type":"Point"}
+  "bbox": [
+    -92.318688,
+    34.751395,
+    -92.318688,
+    34.751395
+],
+  "geometry": {"coordinates":[-92.31868799999999,34.751395],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219453657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.366213,34.651555,-92.366213,34.651555",
     "geom:latitude":34.651555,
     "geom:longitude":-92.366213,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10900 Lorie Ln",
     "sg:city":"Mabelvale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219453657,
-    "wof:lastmodified":1449073051,
+    "wof:lastmodified":1466323418,
     "wof:name":"Personal Security Solutions",
     "wof:parent_id":85833155,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "patrol"
     ]
 },
-  "bbox": [-92.366213,34.651555,-92.366213,34.651555],
+  "bbox": [
+    -92.366213,
+    34.651555,
+    -92.366213,
+    34.651555
+],
   "geometry": {"coordinates":[-92.366213,34.651555],"type":"Point"}
 }

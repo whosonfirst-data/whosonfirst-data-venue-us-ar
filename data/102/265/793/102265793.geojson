@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102265793",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.456064,34.769002,-92.456064,34.769002",
     "geom:latitude":34.769002,
     "geom:longitude":-92.456064,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Rahling Cir",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85846723,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85846723
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102265793",
-    "wof:lastmodified":1449068610,
+    "wof:lastmodified":1466322305,
     "wof:name":"Roberts Law Firm",
     "wof:parent_id":85846723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.456064,34.769002,-92.456064,34.769002],
+  "bbox": [
+    -92.456064,
+    34.769002,
+    -92.456064,
+    34.769002
+],
   "geometry": {"coordinates":[-92.456064,34.769002],"type":"Point"}
 }

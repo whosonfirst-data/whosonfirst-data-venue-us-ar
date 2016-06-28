@@ -2,13 +2,14 @@
   "id": 219898169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.190141,36.425658,-94.190141,36.425658",
     "geom:latitude":36.425658,
     "geom:longitude":-94.190141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8701 E Plentywood Rd",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219898169,
-    "wof:lastmodified":1449070306,
+    "wof:lastmodified":1466325026,
     "wof:name":"R & R Street Rods",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "customizing"
     ]
 },
-  "bbox": [-94.190141,36.425658,-94.190141,36.425658],
+  "bbox": [
+    -94.190141,
+    36.425658,
+    -94.190141,
+    36.425658
+],
   "geometry": {"coordinates":[-94.190141,36.425658],"type":"Point"}
 }

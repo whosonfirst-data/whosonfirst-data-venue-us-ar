@@ -2,13 +2,14 @@
   "id": 220033657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.125424,36.160353,-94.125424,36.160353",
     "geom:latitude":36.160353,
     "geom:longitude":-94.125424,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1228 Brookhaven Ct",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":220033657,
-    "wof:lastmodified":1449074208,
+    "wof:lastmodified":1466320525,
     "wof:name":"Doodle Bugs Day Care & Pre School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "day"
     ]
 },
-  "bbox": [-94.125424,36.160353,-94.125424,36.160353],
+  "bbox": [
+    -94.125424,
+    36.160353,
+    -94.125424,
+    36.160353
+],
   "geometry": {"coordinates":[-94.125424,36.160353],"type":"Point"}
 }

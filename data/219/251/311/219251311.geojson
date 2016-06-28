@@ -2,13 +2,14 @@
   "id": 219251311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.909451,33.974838,-93.909451,33.974838",
     "geom:latitude":33.974838,
     "geom:longitude":-93.909451,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 Jacques Rd",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219251311,
-    "wof:lastmodified":1449070432,
+    "wof:lastmodified":1466321341,
     "wof:name":"Anita Walden",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-93.909451,33.974838,-93.909451,33.974838],
+  "bbox": [
+    -93.909451,
+    33.974838,
+    -93.909451,
+    33.974838
+],
   "geometry": {"coordinates":[-93.909451,33.974838],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219226849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.535595,33.697051,-93.535595,33.697051",
     "geom:latitude":33.697051,
     "geom:longitude":-93.535595,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6316 Highway 67 E",
     "sg:city":"Hope",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219226849,
-    "wof:lastmodified":1449072960,
+    "wof:lastmodified":1466321133,
     "wof:name":"James Michael Mcbride",
     "wof:parent_id":85820749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.535595,33.697051,-93.535595,33.697051],
+  "bbox": [
+    -93.535595,
+    33.697051,
+    -93.535595,
+    33.697051
+],
   "geometry": {"coordinates":[-93.535595,33.697051],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102438535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.364769,34.818,-92.364769,34.818",
     "geom:latitude":34.818,
     "geom:longitude":-92.364769,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9714 Maumelle Blvd",
     "sg:city":"N Little Rock",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.unitedamerican.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878759,
+        85688549,
         85633793,
         85921255,
         102082497,
-        85688549
+        85878759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102438535,
-    "wof:lastmodified":1449068600,
+    "wof:lastmodified":1466325688,
     "wof:name":"United American Ins",
     "wof:parent_id":85878759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.364769,34.818,-92.364769,34.818],
+  "bbox": [
+    -92.364769,
+    34.818,
+    -92.364769,
+    34.818
+],
   "geometry": {"coordinates":[-92.364769,34.818],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303525647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.61851,35.241085,-94.61851,35.241085",
     "geom:latitude":35.241085,
     "geom:longitude":-94.61851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 E Broadway",
     "sg:city":"Muldrow",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303525647,
-    "wof:lastmodified":1449000056,
+    "wof:lastmodified":1466320507,
     "wof:name":"Strategy Plus",
     "wof:parent_id":85809847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-94.61851,35.241085,-94.61851,35.241085],
+  "bbox": [
+    -94.61851,
+    35.241085,
+    -94.61851,
+    35.241085
+],
   "geometry": {"coordinates":[-94.61851,35.241085],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336922693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.764388,36.640692,-94.764388,36.640692",
     "geom:latitude":36.640692,
     "geom:longitude":-94.764388,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25891 S 623 Rd",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336922693,
-    "wof:lastmodified":1448997028,
+    "wof:lastmodified":1466320472,
     "wof:name":"Herbal Discoveries Plus",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.764388,36.640692,-94.764388,36.640692],
+  "bbox": [
+    -94.764388,
+    36.640692,
+    -94.764388,
+    36.640692
+],
   "geometry": {"coordinates":[-94.764388,36.640692],"type":"Point"}
 }

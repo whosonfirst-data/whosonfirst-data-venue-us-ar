@@ -2,13 +2,14 @@
   "id": 219381547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.360832,35.087596,-92.360832,35.087596",
     "geom:latitude":35.087596,
     "geom:longitude":-92.360832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"340 Highway 64 E",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219381547,
-    "wof:lastmodified":1449070676,
+    "wof:lastmodified":1466322686,
     "wof:name":"A1 Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "car"
     ]
 },
-  "bbox": [-92.360832,35.087596,-92.360832,35.087596],
+  "bbox": [
+    -92.360832,
+    35.087596,
+    -92.360832,
+    35.087596
+],
   "geometry": {"coordinates":[-92.360832,35.087596],"type":"Point"}
 }

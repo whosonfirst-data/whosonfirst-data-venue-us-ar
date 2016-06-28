@@ -2,13 +2,14 @@
   "id": 220108475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.033904,35.297045,-94.033904,35.297045",
     "geom:latitude":35.297045,
     "geom:longitude":-94.033904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"815 E Main St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220108475,
-    "wof:lastmodified":1449074079,
+    "wof:lastmodified":1466322355,
     "wof:name":"Lawnmower Shop, The",
     "wof:parent_id":85885347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-94.033904,35.297045,-94.033904,35.297045],
-  "geometry": {"coordinates":[-94.033904,35.297045],"type":"Point"}
+  "bbox": [
+    -94.033904,
+    35.297045,
+    -94.033904,
+    35.297045
+],
+  "geometry": {"coordinates":[-94.03390400000001,35.297045],"type":"Point"}
 }

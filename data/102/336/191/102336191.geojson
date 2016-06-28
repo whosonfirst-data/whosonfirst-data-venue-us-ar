@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102336191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.402735,34.306871,-92.402735,34.306871",
     "geom:latitude":34.306871,
     "geom:longitude":-92.402735,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 State Hwy 46",
     "sg:city":"Ridgefield Park",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102336191,
-    "wof:lastmodified":1449067725,
+    "wof:lastmodified":1466323752,
     "wof:name":"Hampton Inn Ridgefield Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.402735,34.306871,-92.402735,34.306871],
-  "geometry": {"coordinates":[-92.402735,34.306871],"type":"Point"}
+  "bbox": [
+    -92.402735,
+    34.306871,
+    -92.402735,
+    34.306871
+],
+  "geometry": {"coordinates":[-92.40273500000001,34.306871],"type":"Point"}
 }

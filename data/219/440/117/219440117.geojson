@@ -2,13 +2,14 @@
   "id": 219440117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.13908,34.874999,-92.13908,34.874999",
     "geom:latitude":34.874999,
     "geom:longitude":-92.13908,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1107 N Redmond Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219440117,
-    "wof:lastmodified":1449071641,
+    "wof:lastmodified":1466323242,
     "wof:name":"Coring & Cutting Services Inc Of Little Rock",
     "wof:parent_id":85852337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-92.13908,34.874999,-92.13908,34.874999],
-  "geometry": {"coordinates":[-92.13908,34.874999],"type":"Point"}
+  "bbox": [
+    -92.13908,
+    34.874999,
+    -92.13908,
+    34.874999
+],
+  "geometry": {"coordinates":[-92.13908000000001,34.874999],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219812309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.185011,36.053368,-94.185011,36.053368",
     "geom:latitude":36.053368,
     "geom:longitude":-94.185011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1030 S Beechwood Ave",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219812309,
-    "wof:lastmodified":1449070464,
+    "wof:lastmodified":1466324958,
     "wof:name":"Pinnell Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-94.185011,36.053368,-94.185011,36.053368],
+  "bbox": [
+    -94.185011,
+    36.053368,
+    -94.185011,
+    36.053368
+],
   "geometry": {"coordinates":[-94.185011,36.053368],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219948051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.03898,36.231155,-94.03898,36.231155",
     "geom:latitude":36.231155,
     "geom:longitude":-94.03898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13231 Hickory Creek Rd",
     "sg:city":"Lowell",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219948051,
-    "wof:lastmodified":1449073200,
+    "wof:lastmodified":1466325093,
     "wof:name":"Animal Specialties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "specialty"
     ]
 },
-  "bbox": [-94.03898,36.231155,-94.03898,36.231155],
+  "bbox": [
+    -94.03898,
+    36.231155,
+    -94.03898,
+    36.231155
+],
   "geometry": {"coordinates":[-94.03898,36.231155],"type":"Point"}
 }

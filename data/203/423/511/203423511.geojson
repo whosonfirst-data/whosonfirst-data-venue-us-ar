@@ -2,13 +2,14 @@
   "id": 203423511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.837952,33.220846,-91.837952,33.220846",
     "geom:latitude":33.220846,
     "geom:longitude":-91.837952,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"152 Ashley Road 438",
     "sg:city":"Hamburg",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":203423511,
-    "wof:lastmodified":1449025255,
+    "wof:lastmodified":1466320679,
     "wof:name":"Chris Tucker",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "freezers-repair"
     ]
 },
-  "bbox": [-91.837952,33.220846,-91.837952,33.220846],
+  "bbox": [
+    -91.837952,
+    33.220846,
+    -91.837952,
+    33.220846
+],
   "geometry": {"coordinates":[-91.837952,33.220846],"type":"Point"}
 }

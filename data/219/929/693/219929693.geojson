@@ -2,13 +2,14 @@
   "id": 219929693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.937423,36.249871,-93.937423,36.249871",
     "geom:latitude":36.249871,
     "geom:longitude":-93.937423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19806 Mcdonald Ln",
     "sg:city":"Hindsville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219929693,
-    "wof:lastmodified":1449071740,
+    "wof:lastmodified":1466325154,
     "wof:name":"Windy Hill Farm Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.937423,36.249871,-93.937423,36.249871],
+  "bbox": [
+    -93.937423,
+    36.249871,
+    -93.937423,
+    36.249871
+],
   "geometry": {"coordinates":[-93.937423,36.249871],"type":"Point"}
 }

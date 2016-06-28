@@ -2,13 +2,14 @@
   "id": 220069605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.105659,35.282501,-93.105659,35.282501",
     "geom:latitude":35.282501,
     "geom:longitude":-93.105659,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2410 E Parkway Dr",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -71,10 +72,11 @@
         }
     ],
     "wof:id":220069605,
-    "wof:lastmodified":1449074561,
+    "wof:lastmodified":1466321321,
     "wof:name":"Allstate Insurance Company - Amber Smith",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -86,6 +88,11 @@
         "renter"
     ]
 },
-  "bbox": [-93.105659,35.282501,-93.105659,35.282501],
+  "bbox": [
+    -93.105659,
+    35.282501,
+    -93.105659,
+    35.282501
+],
   "geometry": {"coordinates":[-93.105659,35.282501],"type":"Point"}
 }

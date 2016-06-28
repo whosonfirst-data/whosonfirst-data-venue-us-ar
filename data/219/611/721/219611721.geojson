@@ -2,13 +2,14 @@
   "id": 219611721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.241694,35.102389,-90.241694,35.102389",
     "geom:latitude":35.102389,
     "geom:longitude":-90.241694,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Powers Ln",
     "sg:city":"Proctor",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219611721,
-    "wof:lastmodified":1449073186,
+    "wof:lastmodified":1466324599,
     "wof:name":"Razorback Cab Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.241694,35.102389,-90.241694,35.102389],
+  "bbox": [
+    -90.241694,
+    35.102389,
+    -90.241694,
+    35.102389
+],
   "geometry": {"coordinates":[-90.241694,35.102389],"type":"Point"}
 }

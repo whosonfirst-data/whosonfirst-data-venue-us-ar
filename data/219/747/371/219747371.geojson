@@ -2,13 +2,14 @@
   "id": 219747371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.439464,35.711546,-91.439464,35.711546",
     "geom:latitude":35.711546,
     "geom:longitude":-91.439464,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1355 N Locust St",
     "sg:city":"Newark",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219747371,
-    "wof:lastmodified":1449071038,
+    "wof:lastmodified":1466324986,
     "wof:name":"Double G Enterprises Inc",
     "wof:parent_id":85808231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "assistant"
     ]
 },
-  "bbox": [-91.439464,35.711546,-91.439464,35.711546],
+  "bbox": [
+    -91.439464,
+    35.711546,
+    -91.439464,
+    35.711546
+],
   "geometry": {"coordinates":[-91.439464,35.711546],"type":"Point"}
 }

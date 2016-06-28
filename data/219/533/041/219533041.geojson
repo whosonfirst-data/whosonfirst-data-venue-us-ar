@@ -2,13 +2,14 @@
   "id": 219533041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.756723,35.289553,-91.756723,35.289553",
     "geom:latitude":35.289553,
     "geom:longitude":-91.756723,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Knollwood Dr",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219533041,
-    "wof:lastmodified":1449070336,
+    "wof:lastmodified":1466324204,
     "wof:name":"Annett G Moneymaker",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.756723,35.289553,-91.756723,35.289553],
-  "geometry": {"coordinates":[-91.756723,35.289553],"type":"Point"}
+  "bbox": [
+    -91.756723,
+    35.289553,
+    -91.756723,
+    35.289553
+],
+  "geometry": {"coordinates":[-91.75672299999999,35.289553],"type":"Point"}
 }

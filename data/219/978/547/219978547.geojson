@@ -2,13 +2,14 @@
   "id": 219978547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.154471,36.342851,-94.154471,36.342851",
     "geom:latitude":36.342851,
     "geom:longitude":-94.154471,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2513 W Century Dr",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219978547,
-    "wof:lastmodified":1449072414,
+    "wof:lastmodified":1466325232,
     "wof:name":"Gideons Intl.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-94.154471,36.342851,-94.154471,36.342851],
+  "bbox": [
+    -94.154471,
+    36.342851,
+    -94.154471,
+    36.342851
+],
   "geometry": {"coordinates":[-94.154471,36.342851],"type":"Point"}
 }

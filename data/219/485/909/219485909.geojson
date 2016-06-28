@@ -2,13 +2,14 @@
   "id": 219485909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.232856,34.81852,-92.232856,34.81852",
     "geom:latitude":34.81852,
     "geom:longitude":-92.232856,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 Country Club Rd",
     "sg:city":"Sherwood",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":219485909,
-    "wof:lastmodified":1449072545,
+    "wof:lastmodified":1466323767,
     "wof:name":"Arkansas Psychotherapy Center",
     "wof:parent_id":85848703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-92.232856,34.81852,-92.232856,34.81852],
+  "bbox": [
+    -92.232856,
+    34.81852,
+    -92.232856,
+    34.81852
+],
   "geometry": {"coordinates":[-92.232856,34.81852],"type":"Point"}
 }

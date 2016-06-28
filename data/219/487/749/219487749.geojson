@@ -2,13 +2,14 @@
   "id": 219487749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.228689,34.849429,-92.228689,34.849429",
     "geom:latitude":34.849429,
     "geom:longitude":-92.228689,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10306 Highway 107",
     "sg:city":"Sherwood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219487749,
-    "wof:lastmodified":1449071551,
+    "wof:lastmodified":1466323801,
     "wof:name":"Landscape Specialists",
     "wof:parent_id":85851723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lawn"
     ]
 },
-  "bbox": [-92.228689,34.849429,-92.228689,34.849429],
+  "bbox": [
+    -92.228689,
+    34.849429,
+    -92.228689,
+    34.849429
+],
   "geometry": {"coordinates":[-92.228689,34.849429],"type":"Point"}
 }

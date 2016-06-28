@@ -2,13 +2,14 @@
   "id": 219426717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.388323,35.218881,-92.388323,35.218881",
     "geom:latitude":35.218881,
     "geom:longitude":-92.388323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"94 S Broadview St",
     "sg:city":"Greenbrier",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":219426717,
-    "wof:lastmodified":1449071147,
+    "wof:lastmodified":1466323071,
     "wof:name":"Subway",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "take"
     ]
 },
-  "bbox": [-92.388323,35.218881,-92.388323,35.218881],
+  "bbox": [
+    -92.388323,
+    35.218881,
+    -92.388323,
+    35.218881
+],
   "geometry": {"coordinates":[-92.388323,35.218881],"type":"Point"}
 }

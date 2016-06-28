@@ -2,13 +2,14 @@
   "id": 219519305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.701322,35.25158,-91.701322,35.25158",
     "geom:latitude":35.25158,
     "geom:longitude":-91.701322,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3004 Hawkins Dr",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219519305,
-    "wof:lastmodified":1449073671,
+    "wof:lastmodified":1466324102,
     "wof:name":"Carder Mazda Company Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "car"
     ]
 },
-  "bbox": [-91.701322,35.25158,-91.701322,35.25158],
+  "bbox": [
+    -91.701322,
+    35.25158,
+    -91.701322,
+    35.25158
+],
   "geometry": {"coordinates":[-91.701322,35.25158],"type":"Point"}
 }

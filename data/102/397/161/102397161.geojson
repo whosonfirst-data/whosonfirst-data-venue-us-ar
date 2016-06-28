@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102397161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.901451,35.841955,-91.901451,35.841955",
     "geom:latitude":35.841955,
     "geom:longitude":-91.901451,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1079 Younger Access Rd",
     "sg:city":"Mountain View",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102397161,
-    "wof:lastmodified":1449068724,
+    "wof:lastmodified":1466324680,
     "wof:name":"Thunder Ridge Castle Duplicate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.901451,35.841955,-91.901451,35.841955],
-  "geometry": {"coordinates":[-91.901451,35.841955],"type":"Point"}
+  "bbox": [
+    -91.901451,
+    35.841955,
+    -91.901451,
+    35.841955
+],
+  "geometry": {"coordinates":[-91.90145099999999,35.841955],"type":"Point"}
 }

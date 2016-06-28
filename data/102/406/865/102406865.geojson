@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102406865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.557335,34.315495,-92.557335,34.315495",
     "geom:latitude":34.315495,
     "geom:longitude":-92.557335,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"412 N 4th St",
     "sg:city":"Prattsville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102406865,
-    "wof:lastmodified":1449069038,
+    "wof:lastmodified":1466325002,
     "wof:name":"Three D Service Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.557335,34.315495,-92.557335,34.315495],
-  "geometry": {"coordinates":[-92.557335,34.315495],"type":"Point"}
+  "bbox": [
+    -92.557335,
+    34.315495,
+    -92.557335,
+    34.315495
+],
+  "geometry": {"coordinates":[-92.55733499999999,34.315495],"type":"Point"}
 }

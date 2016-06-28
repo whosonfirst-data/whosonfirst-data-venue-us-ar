@@ -2,13 +2,14 @@
   "id": 219214471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.227411,33.311684,-93.227411,33.311684",
     "geom:latitude":33.311684,
     "geom:longitude":-93.227411,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"425 Goode Cir",
     "sg:city":"Magnolia",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219214471,
-    "wof:lastmodified":1449073803,
+    "wof:lastmodified":1466320997,
     "wof:name":"Dickson Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "park"
     ]
 },
-  "bbox": [-93.227411,33.311684,-93.227411,33.311684],
+  "bbox": [
+    -93.227411,
+    33.311684,
+    -93.227411,
+    33.311684
+],
   "geometry": {"coordinates":[-93.227411,33.311684],"type":"Point"}
 }

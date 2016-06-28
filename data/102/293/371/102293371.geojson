@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102293371",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.586914,33.668378,-93.586914,33.668378",
     "geom:latitude":33.668378,
     "geom:longitude":-93.586914,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"508 E 3rd St",
     "sg:city":"Hope",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806015,
+        85688549,
         85633793,
         85920547,
         102083213,
-        85688549
+        85806015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102293371",
-    "wof:lastmodified":1449068277,
+    "wof:lastmodified":1466322884,
     "wof:name":"Pafford E M S Hempstead County",
     "wof:parent_id":85806015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.586914,33.668378,-93.586914,33.668378],
-  "geometry": {"coordinates":[-93.586914,33.668378],"type":"Point"}
+  "bbox": [
+    -93.586914,
+    33.668378,
+    -93.586914,
+    33.668378
+],
+  "geometry": {"coordinates":[-93.58691399999999,33.668378],"type":"Point"}
 }

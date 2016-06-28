@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102324983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.529002,36.434537,-93.529002,36.434537",
     "geom:latitude":36.434537,
     "geom:longitude":-93.529002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2208 Co Rd 420",
     "sg:city":"Berryville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102324983,
-    "wof:lastmodified":1449069150,
+    "wof:lastmodified":1466323656,
     "wof:name":"Muffler World",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.529002,36.434537,-93.529002,36.434537],
-  "geometry": {"coordinates":[-93.529002,36.434537],"type":"Point"}
+  "bbox": [
+    -93.529002,
+    36.434537,
+    -93.529002,
+    36.434537
+],
+  "geometry": {"coordinates":[-93.52900200000001,36.434537],"type":"Point"}
 }

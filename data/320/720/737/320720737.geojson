@@ -2,13 +2,14 @@
   "id": 320720737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.227814,34.579372,-94.227814,34.579372",
     "geom:latitude":34.579372,
     "geom:longitude":-94.227814,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"409 Dallas Ave",
     "sg:city":"Arkadelphia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320720737,
-    "wof:lastmodified":1449012157,
+    "wof:lastmodified":1466320630,
     "wof:name":"Kathleen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-94.227814,34.579372,-94.227814,34.579372],
+  "bbox": [
+    -94.227814,
+    34.579372,
+    -94.227814,
+    34.579372
+],
   "geometry": {"coordinates":[-94.227814,34.579372],"type":"Point"}
 }

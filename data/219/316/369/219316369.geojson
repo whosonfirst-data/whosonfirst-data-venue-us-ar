@@ -2,13 +2,14 @@
   "id": 219316369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.670819,34.450331,-93.670819,34.450331",
     "geom:latitude":34.450331,
     "geom:longitude":-93.670819,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"960 Highway 8 E",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":219316369,
-    "wof:lastmodified":1449072781,
+    "wof:lastmodified":1466321866,
     "wof:name":"Modern Woodmen of America",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "fraternal"
     ]
 },
-  "bbox": [-93.670819,34.450331,-93.670819,34.450331],
-  "geometry": {"coordinates":[-93.670819,34.450331],"type":"Point"}
+  "bbox": [
+    -93.670819,
+    34.450331,
+    -93.670819,
+    34.450331
+],
+  "geometry": {"coordinates":[-93.67081899999999,34.450331],"type":"Point"}
 }

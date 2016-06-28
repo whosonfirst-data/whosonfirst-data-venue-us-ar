@@ -2,13 +2,14 @@
   "id": 219470759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.742266,35.153503,-92.742266,35.153503",
     "geom:latitude":35.153503,
     "geom:longitude":-92.742266,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 E Commerce St",
     "sg:city":"Morrilton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219470759,
-    "wof:lastmodified":1449071253,
+    "wof:lastmodified":1466323573,
     "wof:name":"Central Arkansas Mail Ord",
     "wof:parent_id":85814069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaner"
     ]
 },
-  "bbox": [-92.742266,35.153503,-92.742266,35.153503],
+  "bbox": [
+    -92.742266,
+    35.153503,
+    -92.742266,
+    35.153503
+],
   "geometry": {"coordinates":[-92.742266,35.153503],"type":"Point"}
 }

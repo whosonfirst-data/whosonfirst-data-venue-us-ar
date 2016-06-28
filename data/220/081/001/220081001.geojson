@@ -2,13 +2,14 @@
   "id": 220081001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.489799,35.468609,-93.489799,35.468609",
     "geom:latitude":35.468609,
     "geom:longitude":-93.489799,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2000 Ridgewood Dr",
     "sg:city":"Clarksville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220081001,
-    "wof:lastmodified":1449074268,
+    "wof:lastmodified":1466324472,
     "wof:name":"Hdk Security Consulting Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "coach"
     ]
 },
-  "bbox": [-93.489799,35.468609,-93.489799,35.468609],
+  "bbox": [
+    -93.489799,
+    35.468609,
+    -93.489799,
+    35.468609
+],
   "geometry": {"coordinates":[-93.489799,35.468609],"type":"Point"}
 }

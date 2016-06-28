@@ -2,13 +2,14 @@
   "id": 219173107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.709943,33.635047,-91.709943,33.635047",
     "geom:latitude":33.635047,
     "geom:longitude":-91.709943,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1750 Highway 278 E",
     "sg:city":"Monticello",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219173107,
-    "wof:lastmodified":1449071074,
+    "wof:lastmodified":1466320576,
     "wof:name":"Tommy's Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.709943,33.635047,-91.709943,33.635047],
+  "bbox": [
+    -91.709943,
+    33.635047,
+    -91.709943,
+    33.635047
+],
   "geometry": {"coordinates":[-91.709943,33.635047],"type":"Point"}
 }

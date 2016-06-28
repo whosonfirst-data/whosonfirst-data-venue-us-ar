@@ -2,13 +2,14 @@
   "id": 220041737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.137574,36.174462,-94.137574,36.174462",
     "geom:latitude":36.174462,
     "geom:longitude":-94.137574,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1205 Young St",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220041737,
-    "wof:lastmodified":1449074309,
+    "wof:lastmodified":1466320553,
     "wof:name":"Heritage Land Title Of Ar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mortgage"
     ]
 },
-  "bbox": [-94.137574,36.174462,-94.137574,36.174462],
+  "bbox": [
+    -94.137574,
+    36.174462,
+    -94.137574,
+    36.174462
+],
   "geometry": {"coordinates":[-94.137574,36.174462],"type":"Point"}
 }

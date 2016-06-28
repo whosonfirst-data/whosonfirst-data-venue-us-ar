@@ -2,13 +2,14 @@
   "id": 219255353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.04061,33.428557,-94.04061,33.428557",
     "geom:latitude":33.428557,
     "geom:longitude":-94.04061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"714 Laurel St",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219255353,
-    "wof:lastmodified":1449072002,
+    "wof:lastmodified":1466321371,
     "wof:name":"Chute",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.04061,33.428557,-94.04061,33.428557],
+  "bbox": [
+    -94.04061,
+    33.428557,
+    -94.04061,
+    33.428557
+],
   "geometry": {"coordinates":[-94.04061,33.428557],"type":"Point"}
 }

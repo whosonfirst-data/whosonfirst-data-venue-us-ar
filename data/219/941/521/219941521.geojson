@@ -2,13 +2,14 @@
   "id": 219941521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.1365,36.2443,-94.1365,36.2443",
     "geom:latitude":36.2443,
     "geom:longitude":-94.1365,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Commercial Ave",
     "sg:city":"Lowell",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219941521,
-    "wof:lastmodified":1449072497,
+    "wof:lastmodified":1466325079,
     "wof:name":"Lowell Veterinary Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "sitting"
     ]
 },
-  "bbox": [-94.1365,36.2443,-94.1365,36.2443],
+  "bbox": [
+    -94.1365,
+    36.2443,
+    -94.1365,
+    36.2443
+],
   "geometry": {"coordinates":[-94.1365,36.2443],"type":"Point"}
 }

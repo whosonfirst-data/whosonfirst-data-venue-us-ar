@@ -2,13 +2,14 @@
   "id": 220106531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.917061,35.13942,-93.917061,35.13942",
     "geom:latitude":35.13942,
     "geom:longitude":-93.917061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Village Loop",
     "sg:city":"Booneville",
     "sg:classifiers":[
@@ -73,10 +74,11 @@
         }
     ],
     "wof:id":220106531,
-    "wof:lastmodified":1449074046,
+    "wof:lastmodified":1466322335,
     "wof:name":"Edward Jones - DON HALL",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -95,6 +97,11 @@
         "stock"
     ]
 },
-  "bbox": [-93.917061,35.13942,-93.917061,35.13942],
+  "bbox": [
+    -93.917061,
+    35.13942,
+    -93.917061,
+    35.13942
+],
   "geometry": {"coordinates":[-93.917061,35.13942],"type":"Point"}
 }

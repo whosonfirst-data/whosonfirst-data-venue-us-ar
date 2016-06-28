@@ -2,13 +2,14 @@
   "id": 203416647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.492241,33.888359,-91.492241,33.888359",
     "geom:latitude":33.888359,
     "geom:longitude":-91.492241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 N Main St",
     "sg:city":"Dumas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203416647,
-    "wof:lastmodified":1449025764,
+    "wof:lastmodified":1466320560,
     "wof:name":"Dumas Area Arts Council",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "information"
     ]
 },
-  "bbox": [-91.492241,33.888359,-91.492241,33.888359],
-  "geometry": {"coordinates":[-91.492241,33.888359],"type":"Point"}
+  "bbox": [
+    -91.492241,
+    33.888359,
+    -91.492241,
+    33.888359
+],
+  "geometry": {"coordinates":[-91.49224100000001,33.888359],"type":"Point"}
 }

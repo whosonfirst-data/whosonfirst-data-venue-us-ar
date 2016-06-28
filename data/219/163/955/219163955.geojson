@@ -2,13 +2,14 @@
   "id": 219163955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.790916,33.628295,-91.790916,33.628295",
     "geom:latitude":33.628295,
     "geom:longitude":-91.790916,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 N Main St",
     "sg:city":"Monticello",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219163955,
-    "wof:lastmodified":1449073833,
+    "wof:lastmodified":1466320501,
     "wof:name":"David L Chambers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "plan"
     ]
 },
-  "bbox": [-91.790916,33.628295,-91.790916,33.628295],
+  "bbox": [
+    -91.790916,
+    33.628295,
+    -91.790916,
+    33.628295
+],
   "geometry": {"coordinates":[-91.790916,33.628295],"type":"Point"}
 }

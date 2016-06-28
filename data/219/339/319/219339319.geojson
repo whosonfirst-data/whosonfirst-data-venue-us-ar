@@ -2,13 +2,14 @@
   "id": 219339319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.908253,35.174368,-91.908253,35.174368",
     "geom:latitude":35.174368,
     "geom:longitude":-91.908253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"122 Andrews Ln",
     "sg:city":"Beebe",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219339319,
-    "wof:lastmodified":1449071972,
+    "wof:lastmodified":1466322080,
     "wof:name":"Taylor Insulation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-91.908253,35.174368,-91.908253,35.174368],
+  "bbox": [
+    -91.908253,
+    35.174368,
+    -91.908253,
+    35.174368
+],
   "geometry": {"coordinates":[-91.908253,35.174368],"type":"Point"}
 }

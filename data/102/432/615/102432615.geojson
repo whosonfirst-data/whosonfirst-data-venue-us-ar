@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102432615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.794874,33.235233,-91.794874,33.235233",
     "geom:latitude":33.235233,
     "geom:longitude":-91.794874,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 N Cherry St",
     "sg:city":"Hamburg",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102432615,
-    "wof:lastmodified":1449067728,
+    "wof:lastmodified":1466325663,
     "wof:name":"Streeter Timber Management",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.794874,33.235233,-91.794874,33.235233],
-  "geometry": {"coordinates":[-91.794874,33.235233],"type":"Point"}
+  "bbox": [
+    -91.794874,
+    33.235233,
+    -91.794874,
+    33.235233
+],
+  "geometry": {"coordinates":[-91.79487399999999,33.235233],"type":"Point"}
 }

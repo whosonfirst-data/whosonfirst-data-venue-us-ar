@@ -2,13 +2,14 @@
   "id": 220085241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.15376,35.221273,-93.15376,35.221273",
     "geom:latitude":35.221273,
     "geom:longitude":-93.15376,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Quay St",
     "sg:city":"Dardanelle",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220085241,
-    "wof:lastmodified":1449074236,
+    "wof:lastmodified":1466321751,
     "wof:name":"Kennard K Helton Pa, A Corporation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practice"
     ]
 },
-  "bbox": [-93.15376,35.221273,-93.15376,35.221273],
-  "geometry": {"coordinates":[-93.15376,35.221273],"type":"Point"}
+  "bbox": [
+    -93.15376,
+    35.221273,
+    -93.15376,
+    35.221273
+],
+  "geometry": {"coordinates":[-93.15376000000001,35.221273],"type":"Point"}
 }

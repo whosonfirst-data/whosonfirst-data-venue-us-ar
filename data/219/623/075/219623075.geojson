@@ -2,13 +2,14 @@
   "id": 219623075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.795097,35.223579,-90.795097,35.223579",
     "geom:latitude":35.223579,
     "geom:longitude":-90.795097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 2nd St W Nww",
     "sg:city":"Wynne",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219623075,
-    "wof:lastmodified":1449072872,
+    "wof:lastmodified":1466324832,
     "wof:name":"Cathey Asph Const",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "contractor"
     ]
 },
-  "bbox": [-90.795097,35.223579,-90.795097,35.223579],
+  "bbox": [
+    -90.795097,
+    35.223579,
+    -90.795097,
+    35.223579
+],
   "geometry": {"coordinates":[-90.795097,35.223579],"type":"Point"}
 }

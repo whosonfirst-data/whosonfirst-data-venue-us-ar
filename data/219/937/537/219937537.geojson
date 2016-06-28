@@ -2,13 +2,14 @@
   "id": 219937537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.423303,35.947545,-94.423303,35.947545",
     "geom:latitude":35.947545,
     "geom:longitude":-94.423303,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 E Pridemore Dr",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":219937537,
-    "wof:lastmodified":1449071059,
+    "wof:lastmodified":1466325225,
     "wof:name":"Poor Man's Auto Parts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "accessory"
     ]
 },
-  "bbox": [-94.423303,35.947545,-94.423303,35.947545],
+  "bbox": [
+    -94.423303,
+    35.947545,
+    -94.423303,
+    35.947545
+],
   "geometry": {"coordinates":[-94.423303,35.947545],"type":"Point"}
 }

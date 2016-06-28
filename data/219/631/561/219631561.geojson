@@ -2,13 +2,14 @@
   "id": 219631561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.644498,35.808119,-90.644498,35.808119",
     "geom:latitude":35.808119,
     "geom:longitude":-90.644498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3057 Distribution Dr",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -76,10 +77,11 @@
         }
     ],
     "wof:id":219631561,
-    "wof:lastmodified":1449071492,
+    "wof:lastmodified":1466324629,
     "wof:name":"Re-Bath",
     "wof:parent_id":85836541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -100,6 +102,11 @@
         "kitchen"
     ]
 },
-  "bbox": [-90.644498,35.808119,-90.644498,35.808119],
+  "bbox": [
+    -90.644498,
+    35.808119,
+    -90.644498,
+    35.808119
+],
   "geometry": {"coordinates":[-90.644498,35.808119],"type":"Point"}
 }

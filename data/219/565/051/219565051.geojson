@@ -2,13 +2,14 @@
   "id": 219565051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.784309,35.89089,-89.784309,35.89089",
     "geom:latitude":35.89089,
     "geom:longitude":-89.784309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3859 N County Road 919",
     "sg:city":"Blytheville",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219565051,
-    "wof:lastmodified":1449073606,
+    "wof:lastmodified":1466324439,
     "wof:name":"Schueck Fabrication Co.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "mill"
     ]
 },
-  "bbox": [-89.784309,35.89089,-89.784309,35.89089],
-  "geometry": {"coordinates":[-89.784309,35.89089],"type":"Point"}
+  "bbox": [
+    -89.784309,
+    35.89089,
+    -89.784309,
+    35.89089
+],
+  "geometry": {"coordinates":[-89.78430899999999,35.89089],"type":"Point"}
 }

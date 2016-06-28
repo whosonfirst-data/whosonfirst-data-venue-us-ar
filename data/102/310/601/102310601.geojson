@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102310601",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.705255,36.318061,-91.705255,36.318061",
     "geom:latitude":36.318061,
     "geom:longitude":-91.705255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"636 Eagles Nest Rd",
     "sg:city":"Glencoe",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":"102310601",
-    "wof:lastmodified":1449069240,
+    "wof:lastmodified":1466323263,
     "wof:name":"Mike Smith Dairy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.705255,36.318061,-91.705255,36.318061],
-  "geometry": {"coordinates":[-91.705255,36.318061],"type":"Point"}
+  "bbox": [
+    -91.705255,
+    36.318061,
+    -91.705255,
+    36.318061
+],
+  "geometry": {"coordinates":[-91.70525499999999,36.318061],"type":"Point"}
 }

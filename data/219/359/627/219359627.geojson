@@ -2,13 +2,14 @@
   "id": 219359627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.507003,34.617734,-92.507003,34.617734",
     "geom:latitude":34.617734,
     "geom:longitude":-92.507003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2615 N Prickett Rd",
     "sg:city":"Bryant",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219359627,
-    "wof:lastmodified":1449070333,
+    "wof:lastmodified":1466322390,
     "wof:name":"Home Plate Diner",
     "wof:parent_id":85817531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "american"
     ]
 },
-  "bbox": [-92.507003,34.617734,-92.507003,34.617734],
+  "bbox": [
+    -92.507003,
+    34.617734,
+    -92.507003,
+    34.617734
+],
   "geometry": {"coordinates":[-92.507003,34.617734],"type":"Point"}
 }

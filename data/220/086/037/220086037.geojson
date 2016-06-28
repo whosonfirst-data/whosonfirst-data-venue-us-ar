@@ -2,13 +2,14 @@
   "id": 220086037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.065856,35.360508,-93.065856,35.360508",
     "geom:latitude":35.360508,
     "geom:longitude":-93.065856,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"312 Chateau Dr",
     "sg:city":"Dover",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220086037,
-    "wof:lastmodified":1449074597,
+    "wof:lastmodified":1466321797,
     "wof:name":"Walker's Auto Pride Inc",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.065856,35.360508,-93.065856,35.360508],
+  "bbox": [
+    -93.065856,
+    35.360508,
+    -93.065856,
+    35.360508
+],
   "geometry": {"coordinates":[-93.065856,35.360508],"type":"Point"}
 }

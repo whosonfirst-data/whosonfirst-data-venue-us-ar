@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102221027",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.766916,34.767765,-90.766916,34.767765",
     "geom:latitude":34.767765,
     "geom:longitude":-90.766916,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"274 S Alabama St",
     "sg:city":"Marianna",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102221027",
-    "wof:lastmodified":1449068822,
+    "wof:lastmodified":1466321104,
     "wof:name":"Harris Surplus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.766916,34.767765,-90.766916,34.767765],
-  "geometry": {"coordinates":[-90.766916,34.767765],"type":"Point"}
+  "bbox": [
+    -90.766916,
+    34.767765,
+    -90.766916,
+    34.767765
+],
+  "geometry": {"coordinates":[-90.76691599999999,34.767765],"type":"Point"}
 }

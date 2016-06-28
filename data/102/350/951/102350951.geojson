@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102350951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.251522,34.585336,-94.251522,34.585336",
     "geom:latitude":34.585336,
     "geom:longitude":-94.251522,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"341 Polk St S",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102350951,
-    "wof:lastmodified":1449068971,
+    "wof:lastmodified":1466324141,
     "wof:name":"Mount Zion Amish Mennonite Chu",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.251522,34.585336,-94.251522,34.585336],
-  "geometry": {"coordinates":[-94.251522,34.585336],"type":"Point"}
+  "bbox": [
+    -94.251522,
+    34.585336,
+    -94.251522,
+    34.585336
+],
+  "geometry": {"coordinates":[-94.25152199999999,34.585336],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102296933",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.797547,33.226433,-91.797547,33.226433",
     "geom:latitude":33.226433,
     "geom:longitude":-91.797547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 N Main St",
     "sg:city":"Hamburg",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102296933",
-    "wof:lastmodified":1449069720,
+    "wof:lastmodified":1466323078,
     "wof:name":"Martin & Martin Furniture",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.797547,33.226433,-91.797547,33.226433],
-  "geometry": {"coordinates":[-91.797547,33.226433],"type":"Point"}
+  "bbox": [
+    -91.797547,
+    33.226433,
+    -91.797547,
+    33.226433
+],
+  "geometry": {"coordinates":[-91.79754699999999,33.226433],"type":"Point"}
 }

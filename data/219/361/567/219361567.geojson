@@ -2,13 +2,14 @@
   "id": 219361567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.000531,34.912196,-92.000531,34.912196",
     "geom:latitude":34.912196,
     "geom:longitude":-92.000531,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4685 Highway 89 S",
     "sg:city":"Cabot",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219361567,
-    "wof:lastmodified":1449072973,
+    "wof:lastmodified":1466322427,
     "wof:name":"WW Auto Sales",
     "wof:parent_id":85811577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "car"
     ]
 },
-  "bbox": [-92.000531,34.912196,-92.000531,34.912196],
+  "bbox": [
+    -92.000531,
+    34.912196,
+    -92.000531,
+    34.912196
+],
   "geometry": {"coordinates":[-92.000531,34.912196],"type":"Point"}
 }

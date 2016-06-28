@@ -2,13 +2,14 @@
   "id": 219556601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.542995,34.495062,-91.542995,34.495062",
     "geom:latitude":34.495062,
     "geom:longitude":-91.542995,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"812 S Vine St",
     "sg:city":"Stuttgart",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219556601,
-    "wof:lastmodified":1449071273,
+    "wof:lastmodified":1466324523,
     "wof:name":"Gore Day Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "day"
     ]
 },
-  "bbox": [-91.542995,34.495062,-91.542995,34.495062],
+  "bbox": [
+    -91.542995,
+    34.495062,
+    -91.542995,
+    34.495062
+],
   "geometry": {"coordinates":[-91.542995,34.495062],"type":"Point"}
 }

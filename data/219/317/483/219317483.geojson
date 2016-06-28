@@ -2,13 +2,14 @@
   "id": 219317483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.835465,34.601616,-93.835465,34.601616",
     "geom:latitude":34.601616,
     "geom:longitude":-93.835465,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"86 Crickle Ln",
     "sg:city":"Oden",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219317483,
-    "wof:lastmodified":1449072010,
+    "wof:lastmodified":1466321874,
     "wof:name":"Paul I Kanagy Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.835465,34.601616,-93.835465,34.601616],
+  "bbox": [
+    -93.835465,
+    34.601616,
+    -93.835465,
+    34.601616
+],
   "geometry": {"coordinates":[-93.835465,34.601616],"type":"Point"}
 }

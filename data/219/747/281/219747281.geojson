@@ -2,13 +2,14 @@
   "id": 219747281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.451852,35.701893,-91.451852,35.701893",
     "geom:latitude":35.701893,
     "geom:longitude":-91.451852,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"838 Village St",
     "sg:city":"Newark",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219747281,
-    "wof:lastmodified":1449071037,
+    "wof:lastmodified":1466324910,
     "wof:name":"Stout, Stephen Alternators & Generators",
     "wof:parent_id":85808231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "electric"
     ]
 },
-  "bbox": [-91.451852,35.701893,-91.451852,35.701893],
+  "bbox": [
+    -91.451852,
+    35.701893,
+    -91.451852,
+    35.701893
+],
   "geometry": {"coordinates":[-91.451852,35.701893],"type":"Point"}
 }

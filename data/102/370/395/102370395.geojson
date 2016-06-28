@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102370395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.637257,35.727117,-91.637257,35.727117",
     "geom:latitude":35.727117,
     "geom:longitude":-91.637257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1128 Batesville Blvd",
     "sg:city":"Batesville",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102370395,
-    "wof:lastmodified":1449069052,
+    "wof:lastmodified":1466324433,
     "wof:name":"Airpro Flight Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.637257,35.727117,-91.637257,35.727117],
-  "geometry": {"coordinates":[-91.637257,35.727117],"type":"Point"}
+  "bbox": [
+    -91.637257,
+    35.727117,
+    -91.637257,
+    35.727117
+],
+  "geometry": {"coordinates":[-91.63725700000001,35.727117],"type":"Point"}
 }

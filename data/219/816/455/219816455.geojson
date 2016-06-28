@@ -2,13 +2,14 @@
   "id": 219816455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.16429,36.063779,-94.16429,36.063779",
     "geom:latitude":36.063779,
     "geom:longitude":-94.16429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 N School Ave",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219816455,
-    "wof:lastmodified":1449072442,
+    "wof:lastmodified":1466325037,
     "wof:name":"Pheonix Photography",
     "wof:parent_id":85885451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "wedding"
     ]
 },
-  "bbox": [-94.16429,36.063779,-94.16429,36.063779],
-  "geometry": {"coordinates":[-94.16429,36.063779],"type":"Point"}
+  "bbox": [
+    -94.16429,
+    36.063779,
+    -94.16429,
+    36.063779
+],
+  "geometry": {"coordinates":[-94.16428999999999,36.063779],"type":"Point"}
 }

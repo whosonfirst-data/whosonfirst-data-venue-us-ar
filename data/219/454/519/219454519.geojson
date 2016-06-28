@@ -2,13 +2,14 @@
   "id": 219454519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.825114,34.372927,-92.825114,34.372927",
     "geom:latitude":34.372927,
     "geom:longitude":-92.825114,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1206 W Young St",
     "sg:city":"Malvern",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":219454519,
-    "wof:lastmodified":1449073587,
+    "wof:lastmodified":1466323425,
     "wof:name":"Gordy's Body Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "repairing"
     ]
 },
-  "bbox": [-92.825114,34.372927,-92.825114,34.372927],
+  "bbox": [
+    -92.825114,
+    34.372927,
+    -92.825114,
+    34.372927
+],
   "geometry": {"coordinates":[-92.825114,34.372927],"type":"Point"}
 }

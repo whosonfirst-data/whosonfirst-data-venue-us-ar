@@ -2,13 +2,14 @@
   "id": 219735219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.641539,35.781266,-91.641539,35.781266",
     "geom:latitude":35.781266,
     "geom:longitude":-91.641539,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1325 N Saint Louis",
     "sg:city":"Batesville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219735219,
-    "wof:lastmodified":1449073830,
+    "wof:lastmodified":1466324974,
     "wof:name":"Jalapenos Grill",
     "wof:parent_id":85845643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.641539,35.781266,-91.641539,35.781266],
-  "geometry": {"coordinates":[-91.641539,35.781266],"type":"Point"}
+  "bbox": [
+    -91.641539,
+    35.781266,
+    -91.641539,
+    35.781266
+],
+  "geometry": {"coordinates":[-91.64153899999999,35.781266],"type":"Point"}
 }

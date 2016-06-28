@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102388871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.027329,35.493648,-93.027329,35.493648",
     "geom:latitude":35.493648,
     "geom:longitude":-93.027329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2006 Granny Gap 1 Rd",
     "sg:city":"Dover",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102388871,
-    "wof:lastmodified":1449067868,
+    "wof:lastmodified":1466323916,
     "wof:name":"Leonard Chisum Logging",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.027329,35.493648,-93.027329,35.493648],
-  "geometry": {"coordinates":[-93.027329,35.493648],"type":"Point"}
+  "bbox": [
+    -93.027329,
+    35.493648,
+    -93.027329,
+    35.493648
+],
+  "geometry": {"coordinates":[-93.02732899999999,35.493648],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219372751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.456307,35.593048,-92.456307,35.593048",
     "geom:latitude":35.593048,
     "geom:longitude":-92.456307,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"272 Main St",
     "sg:city":"Clinton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219372751,
-    "wof:lastmodified":1449072534,
+    "wof:lastmodified":1466322611,
     "wof:name":"Connie Kristal L Cpa Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "accountants-certified"
     ]
 },
-  "bbox": [-92.456307,35.593048,-92.456307,35.593048],
+  "bbox": [
+    -92.456307,
+    35.593048,
+    -92.456307,
+    35.593048
+],
   "geometry": {"coordinates":[-92.456307,35.593048],"type":"Point"}
 }

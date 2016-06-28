@@ -2,13 +2,14 @@
   "id": 220063589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.167781,35.291471,-93.167781,35.291471",
     "geom:latitude":35.291471,
     "geom:longitude":-93.167781,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 S Portland Ave",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":220063589,
-    "wof:lastmodified":1449074096,
+    "wof:lastmodified":1466321112,
     "wof:name":"World Harvest Baptist Church",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "churches-baptist"
     ]
 },
-  "bbox": [-93.167781,35.291471,-93.167781,35.291471],
-  "geometry": {"coordinates":[-93.167781,35.291471],"type":"Point"}
+  "bbox": [
+    -93.167781,
+    35.291471,
+    -93.167781,
+    35.291471
+],
+  "geometry": {"coordinates":[-93.16778100000001,35.291471],"type":"Point"}
 }

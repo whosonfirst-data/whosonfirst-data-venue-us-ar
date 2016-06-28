@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102378435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.106968,36.239358,-93.106968,36.239358",
     "geom:latitude":36.239358,
     "geom:longitude":-93.106968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"825 N Main St",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102378435,
-    "wof:lastmodified":1449069420,
+    "wof:lastmodified":1466321768,
     "wof:name":"Aurora Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.106968,36.239358,-93.106968,36.239358],
-  "geometry": {"coordinates":[-93.106968,36.239358],"type":"Point"}
+  "bbox": [
+    -93.106968,
+    36.239358,
+    -93.106968,
+    36.239358
+],
+  "geometry": {"coordinates":[-93.10696799999999,36.239358],"type":"Point"}
 }

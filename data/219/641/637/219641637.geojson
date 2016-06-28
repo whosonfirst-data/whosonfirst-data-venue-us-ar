@@ -2,13 +2,14 @@
   "id": 219641637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.661752,35.82835,-90.661752,35.82835",
     "geom:latitude":35.82835,
     "geom:longitude":-90.661752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3529 E Nettleton Ave",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219641637,
-    "wof:lastmodified":1449073080,
+    "wof:lastmodified":1466324651,
     "wof:name":"Church of The Living God Temple 98",
     "wof:parent_id":85836541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "denomination"
     ]
 },
-  "bbox": [-90.661752,35.82835,-90.661752,35.82835],
-  "geometry": {"coordinates":[-90.661752,35.82835],"type":"Point"}
+  "bbox": [
+    -90.661752,
+    35.82835,
+    -90.661752,
+    35.82835
+],
+  "geometry": {"coordinates":[-90.66175200000001,35.82835],"type":"Point"}
 }

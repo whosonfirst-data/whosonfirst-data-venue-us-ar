@@ -2,13 +2,14 @@
   "id": 320526141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.451012,36.304799,-94.451012,36.304799",
     "geom:latitude":36.304799,
     "geom:longitude":-94.451012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9211 State Hwy 59",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":320526141,
-    "wof:lastmodified":1449012416,
+    "wof:lastmodified":1466320575,
     "wof:name":"Pro Image 393",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-94.451012,36.304799,-94.451012,36.304799],
-  "geometry": {"coordinates":[-94.451012,36.304799],"type":"Point"}
+  "bbox": [
+    -94.451012,
+    36.304799,
+    -94.451012,
+    36.304799
+],
+  "geometry": {"coordinates":[-94.45101200000001,36.304799],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102242787",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.240228,34.802327,-92.240228,34.802327",
     "geom:latitude":34.802327,
     "geom:longitude":-92.240228,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2312 Crestwood Rd",
     "sg:city":"N Little Rock",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852263,
+        85688549,
         85633793,
         85921255,
         102082497,
-        85688549
+        85852263
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":"102242787",
-    "wof:lastmodified":1449069898,
+    "wof:lastmodified":1466321766,
     "wof:name":"Chapman Service Inc",
     "wof:parent_id":85852263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.240228,34.802327,-92.240228,34.802327],
+  "bbox": [
+    -92.240228,
+    34.802327,
+    -92.240228,
+    34.802327
+],
   "geometry": {"coordinates":[-92.240228,34.802327],"type":"Point"}
 }

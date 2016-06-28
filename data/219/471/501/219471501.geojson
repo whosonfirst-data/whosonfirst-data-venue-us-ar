@@ -2,13 +2,14 @@
   "id": 219471501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.743762,35.152639,-92.743762,35.152639",
     "geom:latitude":35.152639,
     "geom:longitude":-92.743762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 S Moose St",
     "sg:city":"Morrilton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219471501,
-    "wof:lastmodified":1449071805,
+    "wof:lastmodified":1466323588,
     "wof:name":"Arkansas Wound Care Specialists",
     "wof:parent_id":85814069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-92.743762,35.152639,-92.743762,35.152639],
+  "bbox": [
+    -92.743762,
+    35.152639,
+    -92.743762,
+    35.152639
+],
   "geometry": {"coordinates":[-92.743762,35.152639],"type":"Point"}
 }

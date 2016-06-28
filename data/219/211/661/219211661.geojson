@@ -2,13 +2,14 @@
   "id": 219211661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.24072,33.25945,-93.24072,33.25945",
     "geom:latitude":33.25945,
     "geom:longitude":-93.24072,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"922 S Washington",
     "sg:city":"Magnolia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219211661,
-    "wof:lastmodified":1449071269,
+    "wof:lastmodified":1466320971,
     "wof:name":"Magnolia Street Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-93.24072,33.25945,-93.24072,33.25945],
+  "bbox": [
+    -93.24072,
+    33.25945,
+    -93.24072,
+    33.25945
+],
   "geometry": {"coordinates":[-93.24072,33.25945],"type":"Point"}
 }

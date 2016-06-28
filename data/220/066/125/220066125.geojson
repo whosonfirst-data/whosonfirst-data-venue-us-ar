@@ -2,13 +2,14 @@
   "id": 220066125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.13372,35.278145,-93.13372,35.278145",
     "geom:latitude":35.278145,
     "geom:longitude":-93.13372,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 E Main St Ste C",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220066125,
-    "wof:lastmodified":1449074254,
+    "wof:lastmodified":1466321218,
     "wof:name":"Legal Services",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "plan"
     ]
 },
-  "bbox": [-93.13372,35.278145,-93.13372,35.278145],
+  "bbox": [
+    -93.13372,
+    35.278145,
+    -93.13372,
+    35.278145
+],
   "geometry": {"coordinates":[-93.13372,35.278145],"type":"Point"}
 }

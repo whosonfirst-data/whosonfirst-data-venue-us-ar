@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102353719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.056277,34.510104,-93.056277,34.510104",
     "geom:latitude":34.510104,
     "geom:longitude":-93.056277,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Prospect Ave",
     "sg:city":"Hot Springs National",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102353719,
-    "wof:lastmodified":1449068470,
+    "wof:lastmodified":1466324150,
     "wof:name":"Laura Dunn MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.056277,34.510104,-93.056277,34.510104],
-  "geometry": {"coordinates":[-93.056277,34.510104],"type":"Point"}
+  "bbox": [
+    -93.056277,
+    34.510104,
+    -93.056277,
+    34.510104
+],
+  "geometry": {"coordinates":[-93.05627699999999,34.510104],"type":"Point"}
 }

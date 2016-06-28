@@ -2,13 +2,14 @@
   "id": 235961549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.478049,35.275761,-94.478049,35.275761",
     "geom:latitude":35.275761,
     "geom:longitude":-94.478049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 E Folsom Blvd",
     "sg:city":"Pocola",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":235961549,
-    "wof:lastmodified":1449008598,
+    "wof:lastmodified":1466320454,
     "wof:name":"Pharmacy Of Pocola",
     "wof:parent_id":85809847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "care"
     ]
 },
-  "bbox": [-94.478049,35.275761,-94.478049,35.275761],
+  "bbox": [
+    -94.478049,
+    35.275761,
+    -94.478049,
+    35.275761
+],
   "geometry": {"coordinates":[-94.478049,35.275761],"type":"Point"}
 }

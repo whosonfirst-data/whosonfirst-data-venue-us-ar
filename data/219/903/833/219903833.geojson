@@ -2,13 +2,14 @@
   "id": 219903833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.222986,36.383962,-94.222986,36.383962",
     "geom:latitude":36.383962,
     "geom:longitude":-94.222986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1011 NW J St",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219903833,
-    "wof:lastmodified":1449070592,
+    "wof:lastmodified":1466325108,
     "wof:name":"Cott Beverages",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.222986,36.383962,-94.222986,36.383962],
-  "geometry": {"coordinates":[-94.222986,36.383962],"type":"Point"}
+  "bbox": [
+    -94.222986,
+    36.383962,
+    -94.222986,
+    36.383962
+],
+  "geometry": {"coordinates":[-94.22298600000001,36.383962],"type":"Point"}
 }

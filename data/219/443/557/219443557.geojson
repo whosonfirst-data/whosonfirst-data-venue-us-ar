@@ -2,13 +2,14 @@
   "id": 219443557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.66149,35.270034,-91.66149,35.270034",
     "geom:latitude":35.270034,
     "geom:longitude":-91.66149,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Calvary Ln",
     "sg:city":"Judsonia",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":219443557,
-    "wof:lastmodified":1449073273,
+    "wof:lastmodified":1466323296,
     "wof:name":"Calvary Baptist Association Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "churches-baptist"
     ]
 },
-  "bbox": [-91.66149,35.270034,-91.66149,35.270034],
+  "bbox": [
+    -91.66149,
+    35.270034,
+    -91.66149,
+    35.270034
+],
   "geometry": {"coordinates":[-91.66149,35.270034],"type":"Point"}
 }

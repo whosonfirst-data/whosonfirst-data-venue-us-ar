@@ -2,13 +2,14 @@
   "id": 387595691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.97898,33.409181,-93.97898,33.409181",
     "geom:latitude":33.409181,
     "geom:longitude":-93.97898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11986 State Hwy 196",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387595691,
-    "wof:lastmodified":1449059548,
+    "wof:lastmodified":1466320413,
     "wof:name":"Gary E Cobb Middle School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.97898,33.409181,-93.97898,33.409181],
-  "geometry": {"coordinates":[-93.97898,33.409181],"type":"Point"}
+  "bbox": [
+    -93.97898,
+    33.409181,
+    -93.97898,
+    33.409181
+],
+  "geometry": {"coordinates":[-93.97898000000001,33.409181],"type":"Point"}
 }

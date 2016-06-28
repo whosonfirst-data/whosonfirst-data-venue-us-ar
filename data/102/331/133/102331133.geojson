@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102331133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.669305,33.233103,-92.669305,33.233103",
     "geom:latitude":33.233103,
     "geom:longitude":-92.669305,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"508 Griffith St",
     "sg:city":"El Dorado",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102331133,
-    "wof:lastmodified":1449069211,
+    "wof:lastmodified":1466323578,
     "wof:name":"Noram Gas Transmission",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.669305,33.233103,-92.669305,33.233103],
-  "geometry": {"coordinates":[-92.669305,33.233103],"type":"Point"}
+  "bbox": [
+    -92.669305,
+    33.233103,
+    -92.669305,
+    33.233103
+],
+  "geometry": {"coordinates":[-92.66930499999999,33.233103],"type":"Point"}
 }

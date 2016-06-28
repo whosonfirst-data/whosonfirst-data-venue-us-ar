@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102310345",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.195349,34.901098,-91.195349,34.901098",
     "geom:latitude":34.901098,
     "geom:longitude":-91.195349,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1010 N Main St",
     "sg:city":"Brinkley",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102310345",
-    "wof:lastmodified":1449069245,
+    "wof:lastmodified":1466323212,
     "wof:name":"Brinkley Carpet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.195349,34.901098,-91.195349,34.901098],
-  "geometry": {"coordinates":[-91.195349,34.901098],"type":"Point"}
+  "bbox": [
+    -91.195349,
+    34.901098,
+    -91.195349,
+    34.901098
+],
+  "geometry": {"coordinates":[-91.19534899999999,34.901098],"type":"Point"}
 }

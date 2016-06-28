@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102246971",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.361145,35.279807,-91.361145,35.279807",
     "geom:latitude":35.279807,
     "geom:longitude":-91.361145,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Riverdale St",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102246971",
-    "wof:lastmodified":1449067949,
+    "wof:lastmodified":1466321881,
     "wof:name":"Augusta Housing Authority",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.361145,35.279807,-91.361145,35.279807],
-  "geometry": {"coordinates":[-91.361145,35.279807],"type":"Point"}
+  "bbox": [
+    -91.361145,
+    35.279807,
+    -91.361145,
+    35.279807
+],
+  "geometry": {"coordinates":[-91.36114499999999,35.279807],"type":"Point"}
 }

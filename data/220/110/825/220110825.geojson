@@ -2,13 +2,14 @@
   "id": 220110825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.322526,35.210793,-94.322526,35.210793",
     "geom:latitude":35.210793,
     "geom:longitude":-94.322526,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3801 Mount Zion Rd",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220110825,
-    "wof:lastmodified":1449074282,
+    "wof:lastmodified":1466322401,
     "wof:name":"Cindy P Vinsant",
     "wof:parent_id":85808359,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-94.322526,35.210793,-94.322526,35.210793],
+  "bbox": [
+    -94.322526,
+    35.210793,
+    -94.322526,
+    35.210793
+],
   "geometry": {"coordinates":[-94.322526,35.210793],"type":"Point"}
 }

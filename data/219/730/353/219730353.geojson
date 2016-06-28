@@ -2,13 +2,14 @@
   "id": 219730353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.641217,35.75656,-91.641217,35.75656",
     "geom:latitude":35.75656,
     "geom:longitude":-91.641217,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"949 Batesville Blvd",
     "sg:city":"Batesville",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":219730353,
-    "wof:lastmodified":1449073344,
+    "wof:lastmodified":1466324972,
     "wof:name":"Hopper Termite & Pest Management",
     "wof:parent_id":85808231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.641217,35.75656,-91.641217,35.75656],
+  "bbox": [
+    -91.641217,
+    35.75656,
+    -91.641217,
+    35.75656
+],
   "geometry": {"coordinates":[-91.641217,35.75656],"type":"Point"}
 }

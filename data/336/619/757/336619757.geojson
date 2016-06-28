@@ -2,13 +2,14 @@
   "id": 336619757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.792992,36.576574,-94.792992,36.576574",
     "geom:latitude":36.576574,
     "geom:longitude":-94.792992,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1800 Glen Dr",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336619757,
-    "wof:lastmodified":1448997136,
+    "wof:lastmodified":1466324506,
     "wof:name":"Draper Construction",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-94.792992,36.576574,-94.792992,36.576574],
+  "bbox": [
+    -94.792992,
+    36.576574,
+    -94.792992,
+    36.576574
+],
   "geometry": {"coordinates":[-94.792992,36.576574],"type":"Point"}
 }

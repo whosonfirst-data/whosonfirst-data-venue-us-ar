@@ -2,13 +2,14 @@
   "id": 220089255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.372299,35.405188,-93.372299,35.405188",
     "geom:latitude":35.405188,
     "geom:longitude":-93.372299,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"507 County Road 2630",
     "sg:city":"Lamar",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":220089255,
-    "wof:lastmodified":1449074202,
+    "wof:lastmodified":1466321874,
     "wof:name":"Chaparral Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cars-wholesale"
     ]
 },
-  "bbox": [-93.372299,35.405188,-93.372299,35.405188],
+  "bbox": [
+    -93.372299,
+    35.405188,
+    -93.372299,
+    35.405188
+],
   "geometry": {"coordinates":[-93.372299,35.405188],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219426783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.344104,35.191256,-92.344104,35.191256",
     "geom:latitude":35.191256,
     "geom:longitude":-92.344104,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Needs Creek Dr",
     "sg:city":"Greenbrier",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219426783,
-    "wof:lastmodified":1449071147,
+    "wof:lastmodified":1466323072,
     "wof:name":"Burgess Bros Dj Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "disc"
     ]
 },
-  "bbox": [-92.344104,35.191256,-92.344104,35.191256],
+  "bbox": [
+    -92.344104,
+    35.191256,
+    -92.344104,
+    35.191256
+],
   "geometry": {"coordinates":[-92.344104,35.191256],"type":"Point"}
 }

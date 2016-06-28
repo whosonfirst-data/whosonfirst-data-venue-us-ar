@@ -2,13 +2,14 @@
   "id": 219361965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.006026,34.970685,-92.006026,34.970685",
     "geom:latitude":34.970685,
     "geom:longitude":-92.006026,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Bellamy St",
     "sg:city":"Cabot",
     "sg:classifiers":[
@@ -75,10 +76,11 @@
         }
     ],
     "wof:id":219361965,
-    "wof:lastmodified":1449072973,
+    "wof:lastmodified":1466322435,
     "wof:name":"Alltel Wireless",
     "wof:parent_id":85839277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -89,6 +91,11 @@
         "supply"
     ]
 },
-  "bbox": [-92.006026,34.970685,-92.006026,34.970685],
-  "geometry": {"coordinates":[-92.006026,34.970685],"type":"Point"}
+  "bbox": [
+    -92.006026,
+    34.970685,
+    -92.006026,
+    34.970685
+],
+  "geometry": {"coordinates":[-92.00602600000001,34.970685],"type":"Point"}
 }

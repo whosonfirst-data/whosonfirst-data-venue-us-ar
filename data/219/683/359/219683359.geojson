@@ -2,13 +2,14 @@
   "id": 219683359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.549038,36.009298,-90.549038,36.009298",
     "geom:latitude":36.009298,
     "geom:longitude":-90.549038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1507 Greene Road 721",
     "sg:city":"Paragould",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219683359,
-    "wof:lastmodified":1449071684,
+    "wof:lastmodified":1466324642,
     "wof:name":"Ole Tool Shed",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.549038,36.009298,-90.549038,36.009298],
+  "bbox": [
+    -90.549038,
+    36.009298,
+    -90.549038,
+    36.009298
+],
   "geometry": {"coordinates":[-90.549038,36.009298],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219753559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.995338,36.157904,-92.995338,36.157904",
     "geom:latitude":36.157904,
     "geom:longitude":-92.995338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9298 Highway 65 S",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219753559,
-    "wof:lastmodified":1449070805,
+    "wof:lastmodified":1466324911,
     "wof:name":"Steve's Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "new"
     ]
 },
-  "bbox": [-92.995338,36.157904,-92.995338,36.157904],
+  "bbox": [
+    -92.995338,
+    36.157904,
+    -92.995338,
+    36.157904
+],
   "geometry": {"coordinates":[-92.995338,36.157904],"type":"Point"}
 }

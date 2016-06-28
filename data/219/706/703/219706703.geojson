@@ -2,13 +2,14 @@
   "id": 219706703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.084176,36.182549,-91.084176,36.182549",
     "geom:latitude":36.182549,
     "geom:longitude":-91.084176,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1790 Crenshaw Rd",
     "sg:city":"Pocahontas",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219706703,
-    "wof:lastmodified":1449070635,
+    "wof:lastmodified":1466324797,
     "wof:name":"Mcquay Construction Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "grading"
     ]
 },
-  "bbox": [-91.084176,36.182549,-91.084176,36.182549],
+  "bbox": [
+    -91.084176,
+    36.182549,
+    -91.084176,
+    36.182549
+],
   "geometry": {"coordinates":[-91.084176,36.182549],"type":"Point"}
 }

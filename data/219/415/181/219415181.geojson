@@ -2,13 +2,14 @@
   "id": 219415181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.964231,34.544609,-91.964231,34.544609",
     "geom:latitude":34.544609,
     "geom:longitude":-91.964231,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 SE 5th St",
     "sg:city":"England",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219415181,
-    "wof:lastmodified":1449072947,
+    "wof:lastmodified":1466322977,
     "wof:name":"University Of Arkansas At Little Rock",
     "wof:parent_id":85811577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "college"
     ]
 },
-  "bbox": [-91.964231,34.544609,-91.964231,34.544609],
+  "bbox": [
+    -91.964231,
+    34.544609,
+    -91.964231,
+    34.544609
+],
   "geometry": {"coordinates":[-91.964231,34.544609],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219847463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.145149,36.109681,-94.145149,36.109681",
     "geom:latitude":36.109681,
     "geom:longitude":-94.145149,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3196 N College Ave",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -67,10 +68,11 @@
         }
     ],
     "wof:id":219847463,
-    "wof:lastmodified":1449071673,
+    "wof:lastmodified":1466324961,
     "wof:name":"Atlanta Bread Company",
     "wof:parent_id":85885431,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -82,6 +84,11 @@
         "breakfast"
     ]
 },
-  "bbox": [-94.145149,36.109681,-94.145149,36.109681],
+  "bbox": [
+    -94.145149,
+    36.109681,
+    -94.145149,
+    36.109681
+],
   "geometry": {"coordinates":[-94.145149,36.109681],"type":"Point"}
 }

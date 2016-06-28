@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102368229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.192869,36.371143,-94.192869,36.371143",
     "geom:latitude":36.371143,
     "geom:longitude":-94.192869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1301 E Central Ave",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895817,
+        85688549,
         85633793,
         85921509,
         102083255,
-        85688549
+        85895817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102368229,
-    "wof:lastmodified":1449068346,
+    "wof:lastmodified":1466324387,
     "wof:name":"Squeegy Kleen",
     "wof:parent_id":85895817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.192869,36.371143,-94.192869,36.371143],
+  "bbox": [
+    -94.192869,
+    36.371143,
+    -94.192869,
+    36.371143
+],
   "geometry": {"coordinates":[-94.192869,36.371143],"type":"Point"}
 }

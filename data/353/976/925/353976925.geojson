@@ -2,13 +2,14 @@
   "id": 353976925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.239286,34.576226,-94.239286,34.576226",
     "geom:latitude":34.576226,
     "geom:longitude":-94.239286,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1114 US Hwy 71",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":353976925,
-    "wof:lastmodified":1449019301,
+    "wof:lastmodified":1466320565,
     "wof:name":"Holly Springs Real Estate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "general"
     ]
 },
-  "bbox": [-94.239286,34.576226,-94.239286,34.576226],
-  "geometry": {"coordinates":[-94.239286,34.576226],"type":"Point"}
+  "bbox": [
+    -94.239286,
+    34.576226,
+    -94.239286,
+    34.576226
+],
+  "geometry": {"coordinates":[-94.23928600000001,34.576226],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102412463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.720244,35.808838,-90.720244,35.808838",
     "geom:latitude":35.808838,
     "geom:longitude":-90.720244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3101 Southwest Dr",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102412463,
-    "wof:lastmodified":1449068293,
+    "wof:lastmodified":1466325204,
     "wof:name":"Tele-Connect Payphone",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.720244,35.808838,-90.720244,35.808838],
-  "geometry": {"coordinates":[-90.720244,35.808838],"type":"Point"}
+  "bbox": [
+    -90.720244,
+    35.808838,
+    -90.720244,
+    35.808838
+],
+  "geometry": {"coordinates":[-90.72024399999999,35.808838],"type":"Point"}
 }

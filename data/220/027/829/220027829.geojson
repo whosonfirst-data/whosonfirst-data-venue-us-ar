@@ -2,13 +2,14 @@
   "id": 220027829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.157478,36.142712,-94.157478,36.142712",
     "geom:latitude":36.142712,
     "geom:longitude":-94.157478,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4800 Johnson Rd",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -69,10 +70,11 @@
         }
     ],
     "wof:id":220027829,
-    "wof:lastmodified":1449074188,
+    "wof:lastmodified":1466320511,
     "wof:name":"Arky Mini-Storage Inc",
     "wof:parent_id":85885471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -86,6 +88,11 @@
         "storage-liquid"
     ]
 },
-  "bbox": [-94.157478,36.142712,-94.157478,36.142712],
+  "bbox": [
+    -94.157478,
+    36.142712,
+    -94.157478,
+    36.142712
+],
   "geometry": {"coordinates":[-94.157478,36.142712],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219644301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.660677,35.787228,-90.660677,35.787228",
     "geom:latitude":35.787228,
     "geom:longitude":-90.660677,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3511 Keely Dr",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219644301,
-    "wof:lastmodified":1449072396,
+    "wof:lastmodified":1466324682,
     "wof:name":"Park Place Inn",
     "wof:parent_id":85836541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.660677,35.787228,-90.660677,35.787228],
-  "geometry": {"coordinates":[-90.660677,35.787228],"type":"Point"}
+  "bbox": [
+    -90.660677,
+    35.787228,
+    -90.660677,
+    35.787228
+],
+  "geometry": {"coordinates":[-90.66067700000001,35.787228],"type":"Point"}
 }

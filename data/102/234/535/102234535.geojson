@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102234535",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.011013,34.539946,-93.011013,34.539946",
     "geom:latitude":34.539946,
     "geom:longitude":-93.011013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1090 Sleepy Valley Rd",
     "sg:city":"Hot Springs",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":"102234535",
-    "wof:lastmodified":1449070066,
+    "wof:lastmodified":1466321528,
     "wof:name":"Southern Insulation & Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.011013,34.539946,-93.011013,34.539946],
-  "geometry": {"coordinates":[-93.011013,34.539946],"type":"Point"}
+  "bbox": [
+    -93.011013,
+    34.539946,
+    -93.011013,
+    34.539946
+],
+  "geometry": {"coordinates":[-93.01101300000001,34.539946],"type":"Point"}
 }

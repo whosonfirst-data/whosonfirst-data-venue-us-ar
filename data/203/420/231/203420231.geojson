@@ -2,13 +2,14 @@
   "id": 203420231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.260399,33.124837,-91.260399,33.124837",
     "geom:latitude":33.124837,
     "geom:longitude":-91.260399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1465 King St",
     "sg:city":"Eudora",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203420231,
-    "wof:lastmodified":1449025823,
+    "wof:lastmodified":1466320593,
     "wof:name":"Its A Blessing Child Day Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "day"
     ]
 },
-  "bbox": [-91.260399,33.124837,-91.260399,33.124837],
-  "geometry": {"coordinates":[-91.260399,33.124837],"type":"Point"}
+  "bbox": [
+    -91.260399,
+    33.124837,
+    -91.260399,
+    33.124837
+],
+  "geometry": {"coordinates":[-91.26039900000001,33.124837],"type":"Point"}
 }

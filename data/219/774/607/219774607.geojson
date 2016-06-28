@@ -2,13 +2,14 @@
   "id": 219774607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.095976,36.229573,-93.095976,36.229573",
     "geom:latitude":36.229573,
     "geom:longitude":-93.095976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"719 E Stephenson Ave",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":219774607,
-    "wof:lastmodified":1449071756,
+    "wof:lastmodified":1466324931,
     "wof:name":"Edwards Grocery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "super"
     ]
 },
-  "bbox": [-93.095976,36.229573,-93.095976,36.229573],
-  "geometry": {"coordinates":[-93.095976,36.229573],"type":"Point"}
+  "bbox": [
+    -93.095976,
+    36.229573,
+    -93.095976,
+    36.229573
+],
+  "geometry": {"coordinates":[-93.09597599999999,36.229573],"type":"Point"}
 }

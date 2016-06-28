@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102238535",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.507027,35.084053,-92.507027,35.084053",
     "geom:latitude":35.084053,
     "geom:longitude":-92.507027,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4935 Wescon Ln",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102238535",
-    "wof:lastmodified":1449068677,
+    "wof:lastmodified":1466321628,
     "wof:name":"William A Mainord",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.507027,35.084053,-92.507027,35.084053],
-  "geometry": {"coordinates":[-92.507027,35.084053],"type":"Point"}
+  "bbox": [
+    -92.507027,
+    35.084053,
+    -92.507027,
+    35.084053
+],
+  "geometry": {"coordinates":[-92.50702699999999,35.084053],"type":"Point"}
 }

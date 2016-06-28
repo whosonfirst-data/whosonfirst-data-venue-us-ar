@@ -2,13 +2,14 @@
   "id": 219956747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.125675,36.33152,-94.125675,36.33152",
     "geom:latitude":36.33152,
     "geom:longitude":-94.125675,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"803 W Poplar St",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":219956747,
-    "wof:lastmodified":1449070988,
+    "wof:lastmodified":1466325124,
     "wof:name":"Smokin Joes Ribhouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "caterer"
     ]
 },
-  "bbox": [-94.125675,36.33152,-94.125675,36.33152],
+  "bbox": [
+    -94.125675,
+    36.33152,
+    -94.125675,
+    36.33152
+],
   "geometry": {"coordinates":[-94.125675,36.33152],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337291177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.681648,35.462934,-91.681648,35.462934",
     "geom:latitude":35.462934,
     "geom:longitude":-91.681648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4394 Highway 157",
     "sg:city":"Judsonia",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":337291177,
-    "wof:lastmodified":1449027195,
+    "wof:lastmodified":1466322080,
     "wof:name":"Burleson Heating & Air",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-91.681648,35.462934,-91.681648,35.462934],
+  "bbox": [
+    -91.681648,
+    35.462934,
+    -91.681648,
+    35.462934
+],
   "geometry": {"coordinates":[-91.681648,35.462934],"type":"Point"}
 }

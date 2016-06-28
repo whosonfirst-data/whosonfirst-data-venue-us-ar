@@ -2,13 +2,14 @@
   "id": 219733741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.654677,35.770495,-91.654677,35.770495",
     "geom:latitude":35.770495,
     "geom:longitude":-91.654677,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"170 N Central Ave",
     "sg:city":"Batesville",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":219733741,
-    "wof:lastmodified":1449070885,
+    "wof:lastmodified":1466324899,
     "wof:name":"Ozark Furniture",
     "wof:parent_id":85851415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "mattress"
     ]
 },
-  "bbox": [-91.654677,35.770495,-91.654677,35.770495],
-  "geometry": {"coordinates":[-91.654677,35.770495],"type":"Point"}
+  "bbox": [
+    -91.654677,
+    35.770495,
+    -91.654677,
+    35.770495
+],
+  "geometry": {"coordinates":[-91.65467700000001,35.770495],"type":"Point"}
 }

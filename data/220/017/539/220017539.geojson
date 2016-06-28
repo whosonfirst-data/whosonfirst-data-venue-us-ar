@@ -2,13 +2,14 @@
   "id": 220017539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.178547,36.200649,-94.178547,36.200649",
     "geom:latitude":36.200649,
     "geom:longitude":-94.178547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1710 Pine Woods Rd",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":220017539,
-    "wof:lastmodified":1449074477,
+    "wof:lastmodified":1466320489,
     "wof:name":"Kindom Hall Of Jehovahs Witness",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "witness"
     ]
 },
-  "bbox": [-94.178547,36.200649,-94.178547,36.200649],
-  "geometry": {"coordinates":[-94.178547,36.200649],"type":"Point"}
+  "bbox": [
+    -94.178547,
+    36.200649,
+    -94.178547,
+    36.200649
+],
+  "geometry": {"coordinates":[-94.17854699999999,36.200649],"type":"Point"}
 }

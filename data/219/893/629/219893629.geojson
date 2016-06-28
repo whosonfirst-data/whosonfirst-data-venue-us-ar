@@ -2,13 +2,14 @@
   "id": 219893629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.185509,36.335129,-94.185509,36.335129",
     "geom:latitude":36.335129,
     "geom:longitude":-94.185509,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3601 Moberly Ln",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219893629,
-    "wof:lastmodified":1449073258,
+    "wof:lastmodified":1466325091,
     "wof:name":"Flash Market, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.185509,36.335129,-94.185509,36.335129],
+  "bbox": [
+    -94.185509,
+    36.335129,
+    -94.185509,
+    36.335129
+],
   "geometry": {"coordinates":[-94.185509,36.335129],"type":"Point"}
 }

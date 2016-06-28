@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102360749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.097575,34.422796,-93.097575,34.422796",
     "geom:latitude":34.422796,
     "geom:longitude":-93.097575,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5600 Central Ave",
     "sg:city":"Hot Springs",
     "sg:classifiers":[
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":102360749,
-    "wof:lastmodified":1449069641,
+    "wof:lastmodified":1466324306,
     "wof:name":"Hot Springs Speed & Truck",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.097575,34.422796,-93.097575,34.422796],
-  "geometry": {"coordinates":[-93.097575,34.422796],"type":"Point"}
+  "bbox": [
+    -93.097575,
+    34.422796,
+    -93.097575,
+    34.422796
+],
+  "geometry": {"coordinates":[-93.09757500000001,34.422796],"type":"Point"}
 }

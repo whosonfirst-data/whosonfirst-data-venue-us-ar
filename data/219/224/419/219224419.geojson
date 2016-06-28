@@ -2,13 +2,14 @@
   "id": 219224419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.597104,33.67038,-93.597104,33.67038",
     "geom:latitude":33.67038,
     "geom:longitude":-93.597104,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"411 W Avenue C St",
     "sg:city":"Hope",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":219224419,
-    "wof:lastmodified":1449072983,
+    "wof:lastmodified":1466321088,
     "wof:name":"Lance & Associates Real Estate",
     "wof:parent_id":85806015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "broker"
     ]
 },
-  "bbox": [-93.597104,33.67038,-93.597104,33.67038],
+  "bbox": [
+    -93.597104,
+    33.67038,
+    -93.597104,
+    33.67038
+],
   "geometry": {"coordinates":[-93.597104,33.67038],"type":"Point"}
 }

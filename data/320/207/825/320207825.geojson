@@ -2,13 +2,14 @@
   "id": 320207825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.242531,34.573416,-94.242531,34.573416",
     "geom:latitude":34.573416,
     "geom:longitude":-94.242531,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1502 State Hwy 8",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320207825,
-    "wof:lastmodified":1449013877,
+    "wof:lastmodified":1466320478,
     "wof:name":"Harris Properties LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-94.242531,34.573416,-94.242531,34.573416],
+  "bbox": [
+    -94.242531,
+    34.573416,
+    -94.242531,
+    34.573416
+],
   "geometry": {"coordinates":[-94.242531,34.573416],"type":"Point"}
 }

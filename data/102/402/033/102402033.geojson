@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102402033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.737356,36.404958,-93.737356,36.404958",
     "geom:latitude":36.404958,
     "geom:longitude":-93.737356,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 Spring St",
     "sg:city":"Eureka Springs",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102402033,
-    "wof:lastmodified":1449068555,
+    "wof:lastmodified":1466324548,
     "wof:name":"Spring Street Consignment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.737356,36.404958,-93.737356,36.404958],
-  "geometry": {"coordinates":[-93.737356,36.404958],"type":"Point"}
+  "bbox": [
+    -93.737356,
+    36.404958,
+    -93.737356,
+    36.404958
+],
+  "geometry": {"coordinates":[-93.73735600000001,36.404958],"type":"Point"}
 }

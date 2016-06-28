@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102375219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.82593,35.48833,-93.82593,35.48833",
     "geom:latitude":35.48833,
     "geom:longitude":-93.82593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 N 2nd St",
     "sg:city":"Ozark",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102375219,
-    "wof:lastmodified":1449067861,
+    "wof:lastmodified":1466321101,
     "wof:name":"Bill Walden",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.82593,35.48833,-93.82593,35.48833],
+  "bbox": [
+    -93.82593,
+    35.48833,
+    -93.82593,
+    35.48833
+],
   "geometry": {"coordinates":[-93.82593,35.48833],"type":"Point"}
 }

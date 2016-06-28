@@ -2,13 +2,14 @@
   "id": 219551269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.552918,34.488393,-91.552918,34.488393",
     "geom:latitude":34.488393,
     "geom:longitude":-91.552918,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1519 S Main St",
     "sg:city":"Stuttgart",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219551269,
-    "wof:lastmodified":1449071104,
+    "wof:lastmodified":1466324343,
     "wof:name":"Carnahan, Michael L Dvm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "specialty"
     ]
 },
-  "bbox": [-91.552918,34.488393,-91.552918,34.488393],
-  "geometry": {"coordinates":[-91.552918,34.488393],"type":"Point"}
+  "bbox": [
+    -91.552918,
+    34.488393,
+    -91.552918,
+    34.488393
+],
+  "geometry": {"coordinates":[-91.55291800000001,34.488393],"type":"Point"}
 }

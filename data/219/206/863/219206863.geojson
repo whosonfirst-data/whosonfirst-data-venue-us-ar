@@ -2,13 +2,14 @@
   "id": 219206863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.253471,33.235769,-93.253471,33.235769",
     "geom:latitude":33.235769,
     "geom:longitude":-93.253471,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2560 Highway 19 S",
     "sg:city":"Magnolia",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219206863,
-    "wof:lastmodified":1449072783,
+    "wof:lastmodified":1466320930,
     "wof:name":"Keith W C Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.253471,33.235769,-93.253471,33.235769],
+  "bbox": [
+    -93.253471,
+    33.235769,
+    -93.253471,
+    33.235769
+],
   "geometry": {"coordinates":[-93.253471,33.235769],"type":"Point"}
 }

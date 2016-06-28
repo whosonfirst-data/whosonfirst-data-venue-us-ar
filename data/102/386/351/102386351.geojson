@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102386351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.524279,34.535069,-93.524279,34.535069",
     "geom:latitude":34.535069,
     "geom:longitude":-93.524279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"198 Bearce Cir",
     "sg:city":"Mount Ida",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102386351,
-    "wof:lastmodified":1449069016,
+    "wof:lastmodified":1466323402,
     "wof:name":"Monicas Empiorium",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.524279,34.535069,-93.524279,34.535069],
-  "geometry": {"coordinates":[-93.524279,34.535069],"type":"Point"}
+  "bbox": [
+    -93.524279,
+    34.535069,
+    -93.524279,
+    34.535069
+],
+  "geometry": {"coordinates":[-93.52427900000001,34.535069],"type":"Point"}
 }

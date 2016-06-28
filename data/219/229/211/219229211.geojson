@@ -2,13 +2,14 @@
   "id": 219229211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.097893,33.641251,-94.097893,33.641251",
     "geom:latitude":33.641251,
     "geom:longitude":-94.097893,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 Little River 229",
     "sg:city":"Ashdown",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219229211,
-    "wof:lastmodified":1449073218,
+    "wof:lastmodified":1466321167,
     "wof:name":"Billy Bowling Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-94.097893,33.641251,-94.097893,33.641251],
+  "bbox": [
+    -94.097893,
+    33.641251,
+    -94.097893,
+    33.641251
+],
   "geometry": {"coordinates":[-94.097893,33.641251],"type":"Point"}
 }

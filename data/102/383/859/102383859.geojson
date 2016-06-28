@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102383859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.317309,34.753214,-92.317309,34.753214",
     "geom:latitude":34.753214,
     "geom:longitude":-92.317309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 N Cedar St",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85843255,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85843255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102383859,
-    "wof:lastmodified":1449068781,
+    "wof:lastmodified":1466322887,
     "wof:name":"Land Asphalt Inc",
     "wof:parent_id":85843255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.317309,34.753214,-92.317309,34.753214],
-  "geometry": {"coordinates":[-92.317309,34.753214],"type":"Point"}
+  "bbox": [
+    -92.317309,
+    34.753214,
+    -92.317309,
+    34.753214
+],
+  "geometry": {"coordinates":[-92.31730899999999,34.753214],"type":"Point"}
 }

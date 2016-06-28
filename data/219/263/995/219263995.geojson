@@ -2,13 +2,14 @@
   "id": 219263995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.954071,33.41901,-93.954071,33.41901",
     "geom:latitude":33.41901,
     "geom:longitude":-93.954071,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Pine Hill Cir",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219263995,
-    "wof:lastmodified":1449073815,
+    "wof:lastmodified":1466321437,
     "wof:name":"Shaklee Products Distrs-Susan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "vitamin"
     ]
 },
-  "bbox": [-93.954071,33.41901,-93.954071,33.41901],
+  "bbox": [
+    -93.954071,
+    33.41901,
+    -93.954071,
+    33.41901
+],
   "geometry": {"coordinates":[-93.954071,33.41901],"type":"Point"}
 }

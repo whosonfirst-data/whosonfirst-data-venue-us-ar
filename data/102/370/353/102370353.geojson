@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102370353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.847152,33.941218,-93.847152,33.941218",
     "geom:latitude":33.941218,
     "geom:longitude":-93.847152,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 S Main St",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102370353,
-    "wof:lastmodified":1449069051,
+    "wof:lastmodified":1466324426,
     "wof:name":"Satellite Service Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.847152,33.941218,-93.847152,33.941218],
-  "geometry": {"coordinates":[-93.847152,33.941218],"type":"Point"}
+  "bbox": [
+    -93.847152,
+    33.941218,
+    -93.847152,
+    33.941218
+],
+  "geometry": {"coordinates":[-93.84715199999999,33.941218],"type":"Point"}
 }

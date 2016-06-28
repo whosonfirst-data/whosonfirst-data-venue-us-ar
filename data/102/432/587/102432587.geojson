@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102432587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.136314,35.237794,-93.136314,35.237794",
     "geom:latitude":35.237794,
     "geom:longitude":-93.136314,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 E 39th St",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102083263,
-        85633793,
         85688549,
-        85837547
+        85633793,
+        85837547,
+        102083263
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102432587,
-    "wof:lastmodified":1449067727,
+    "wof:lastmodified":1466325592,
     "wof:name":"American Sundiro",
     "wof:parent_id":85837547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.136314,35.237794,-93.136314,35.237794],
+  "bbox": [
+    -93.136314,
+    35.237794,
+    -93.136314,
+    35.237794
+],
   "geometry": {"coordinates":[-93.136314,35.237794],"type":"Point"}
 }

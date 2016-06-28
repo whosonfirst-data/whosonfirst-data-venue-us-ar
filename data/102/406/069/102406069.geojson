@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102406069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.191436,36.335322,-94.191436,36.335322",
     "geom:latitude":36.335322,
     "geom:longitude":-94.191436,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1401 SE Walton Blvd",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895809,
+        85688549,
         85633793,
         85921535,
         102083255,
-        85688549
+        85895809
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102406069,
-    "wof:lastmodified":1449069038,
+    "wof:lastmodified":1466324937,
     "wof:name":"Lamp Post Group Realtors",
     "wof:parent_id":85895809,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.191436,36.335322,-94.191436,36.335322],
+  "bbox": [
+    -94.191436,
+    36.335322,
+    -94.191436,
+    36.335322
+],
   "geometry": {"coordinates":[-94.191436,36.335322],"type":"Point"}
 }

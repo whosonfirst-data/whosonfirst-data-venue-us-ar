@@ -2,13 +2,14 @@
   "id": 219739661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.503114,36.30182,-91.503114,36.30182",
     "geom:latitude":36.30182,
     "geom:longitude":-91.503114,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2272 Highway 62 412",
     "sg:city":"Highland",
     "sg:classifiers":[
@@ -70,10 +71,11 @@
         }
     ],
     "wof:id":219739661,
-    "wof:lastmodified":1449071875,
+    "wof:lastmodified":1466324901,
     "wof:name":"All Pro Glass Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -90,6 +92,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-91.503114,36.30182,-91.503114,36.30182],
+  "bbox": [
+    -91.503114,
+    36.30182,
+    -91.503114,
+    36.30182
+],
   "geometry": {"coordinates":[-91.503114,36.30182],"type":"Point"}
 }

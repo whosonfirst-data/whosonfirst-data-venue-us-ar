@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102320305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.493355,34.370163,-93.493355,34.370163",
     "geom:latitude":34.370163,
     "geom:longitude":-93.493355,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"814 N Bumble Bee Rd",
     "sg:city":"Glenwood",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102320305,
-    "wof:lastmodified":1449068394,
+    "wof:lastmodified":1466323397,
     "wof:name":"Bears Bait & Tackle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.493355,34.370163,-93.493355,34.370163],
-  "geometry": {"coordinates":[-93.493355,34.370163],"type":"Point"}
+  "bbox": [
+    -93.493355,
+    34.370163,
+    -93.493355,
+    34.370163
+],
+  "geometry": {"coordinates":[-93.49335499999999,34.370163],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219247885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.845657,33.948255,-93.845657,33.948255",
     "geom:latitude":33.948255,
     "geom:longitude":-93.845657,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 N Washington St",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219247885,
-    "wof:lastmodified":1449072453,
+    "wof:lastmodified":1466321316,
     "wof:name":"Nashville Fire Department",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-93.845657,33.948255,-93.845657,33.948255],
+  "bbox": [
+    -93.845657,
+    33.948255,
+    -93.845657,
+    33.948255
+],
   "geometry": {"coordinates":[-93.845657,33.948255],"type":"Point"}
 }

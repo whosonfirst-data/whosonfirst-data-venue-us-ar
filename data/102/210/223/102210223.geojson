@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102210223",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.74675,35.009699,-90.74675,35.009699",
     "geom:latitude":35.009699,
     "geom:longitude":-90.74675,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2166 Hwy 70 E",
     "sg:city":"Forrest City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102210223",
-    "wof:lastmodified":1449068606,
+    "wof:lastmodified":1466320861,
     "wof:name":"Tahitian Noni",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.74675,35.009699,-90.74675,35.009699],
-  "geometry": {"coordinates":[-90.74675,35.009699],"type":"Point"}
+  "bbox": [
+    -90.74675,
+    35.009699,
+    -90.74675,
+    35.009699
+],
+  "geometry": {"coordinates":[-90.74675000000001,35.009699],"type":"Point"}
 }

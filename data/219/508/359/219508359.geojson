@@ -2,13 +2,14 @@
   "id": 219508359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.033129,34.628381,-92.033129,34.628381",
     "geom:latitude":34.628381,
     "geom:longitude":-92.033129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9895 Highway 165 W",
     "sg:city":"Scott",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":219508359,
-    "wof:lastmodified":1449072354,
+    "wof:lastmodified":1466324017,
     "wof:name":"Progressive Church",
     "wof:parent_id":85811577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "churches-non-denominational"
     ]
 },
-  "bbox": [-92.033129,34.628381,-92.033129,34.628381],
+  "bbox": [
+    -92.033129,
+    34.628381,
+    -92.033129,
+    34.628381
+],
   "geometry": {"coordinates":[-92.033129,34.628381],"type":"Point"}
 }

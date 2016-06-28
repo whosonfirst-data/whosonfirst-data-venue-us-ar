@@ -2,13 +2,14 @@
   "id": 219489281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.227454,34.887965,-92.227454,34.887965",
     "geom:latitude":34.887965,
     "geom:longitude":-92.227454,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"78 Falcon Cv",
     "sg:city":"Sherwood",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219489281,
-    "wof:lastmodified":1449072305,
+    "wof:lastmodified":1466323830,
     "wof:name":"New Generation Painting Inc",
     "wof:parent_id":85837729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-92.227454,34.887965,-92.227454,34.887965],
-  "geometry": {"coordinates":[-92.227454,34.887965],"type":"Point"}
+  "bbox": [
+    -92.227454,
+    34.887965,
+    -92.227454,
+    34.887965
+],
+  "geometry": {"coordinates":[-92.22745399999999,34.887965],"type":"Point"}
 }

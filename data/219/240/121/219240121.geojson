@@ -2,13 +2,14 @@
   "id": 219240121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.467312,34.158454,-94.467312,34.158454",
     "geom:latitude":34.158454,
     "geom:longitude":-94.467312,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"892 Kellum Rd",
     "sg:city":"Gillham",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219240121,
-    "wof:lastmodified":1449070756,
+    "wof:lastmodified":1466321257,
     "wof:name":"Morphew Finishing Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.467312,34.158454,-94.467312,34.158454],
-  "geometry": {"coordinates":[-94.467312,34.158454],"type":"Point"}
+  "bbox": [
+    -94.467312,
+    34.158454,
+    -94.467312,
+    34.158454
+],
+  "geometry": {"coordinates":[-94.46731200000001,34.158454],"type":"Point"}
 }

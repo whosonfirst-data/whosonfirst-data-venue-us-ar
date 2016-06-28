@@ -2,13 +2,14 @@
   "id": 219979659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.022532,36.331465,-94.022532,36.331465",
     "geom:latitude":36.331465,
     "geom:longitude":-94.022532,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15753 E Hwy 12",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219979659,
-    "wof:lastmodified":1449072881,
+    "wof:lastmodified":1466325233,
     "wof:name":"Auto Expo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "used"
     ]
 },
-  "bbox": [-94.022532,36.331465,-94.022532,36.331465],
+  "bbox": [
+    -94.022532,
+    36.331465,
+    -94.022532,
+    36.331465
+],
   "geometry": {"coordinates":[-94.022532,36.331465],"type":"Point"}
 }

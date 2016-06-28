@@ -2,13 +2,14 @@
   "id": 219222305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.055025,33.293323,-93.055025,33.293323",
     "geom:latitude":33.293323,
     "geom:longitude":-93.055025,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"161 Columbia Road 436",
     "sg:city":"Stephens",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219222305,
-    "wof:lastmodified":1449072745,
+    "wof:lastmodified":1466321066,
     "wof:name":"Dudley R Brossette",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.055025,33.293323,-93.055025,33.293323],
+  "bbox": [
+    -93.055025,
+    33.293323,
+    -93.055025,
+    33.293323
+],
   "geometry": {"coordinates":[-93.055025,33.293323],"type":"Point"}
 }

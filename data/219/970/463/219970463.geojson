@@ -2,13 +2,14 @@
   "id": 219970463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.123413,36.404573,-94.123413,36.404573",
     "geom:latitude":36.404573,
     "geom:longitude":-94.123413,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"606 Rustic Dr",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219970463,
-    "wof:lastmodified":1449073853,
+    "wof:lastmodified":1466325225,
     "wof:name":"Absolute Air Solutions Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-94.123413,36.404573,-94.123413,36.404573],
+  "bbox": [
+    -94.123413,
+    36.404573,
+    -94.123413,
+    36.404573
+],
   "geometry": {"coordinates":[-94.123413,36.404573],"type":"Point"}
 }

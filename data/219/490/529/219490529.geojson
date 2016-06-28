@@ -2,13 +2,14 @@
   "id": 219490529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.210579,34.832649,-92.210579,34.832649",
     "geom:latitude":34.832649,
     "geom:longitude":-92.210579,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2001 E Kiehl Ave",
     "sg:city":"Sherwood",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":219490529,
-    "wof:lastmodified":1449073563,
+    "wof:lastmodified":1466323853,
     "wof:name":"H&R Block",
     "wof:parent_id":85837729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "bookkeeping"
     ]
 },
-  "bbox": [-92.210579,34.832649,-92.210579,34.832649],
+  "bbox": [
+    -92.210579,
+    34.832649,
+    -92.210579,
+    34.832649
+],
   "geometry": {"coordinates":[-92.210579,34.832649],"type":"Point"}
 }

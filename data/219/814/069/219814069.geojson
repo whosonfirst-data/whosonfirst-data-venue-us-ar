@@ -2,13 +2,14 @@
   "id": 219814069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.172296,36.070253,-94.172296,36.070253",
     "geom:latitude":36.070253,
     "geom:longitude":-94.172296,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"902 W Maple St",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":219814069,
-    "wof:lastmodified":1449071042,
+    "wof:lastmodified":1466324964,
     "wof:name":"United Campus Ministry",
     "wof:parent_id":85885453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "churches-various"
     ]
 },
-  "bbox": [-94.172296,36.070253,-94.172296,36.070253],
+  "bbox": [
+    -94.172296,
+    36.070253,
+    -94.172296,
+    36.070253
+],
   "geometry": {"coordinates":[-94.172296,36.070253],"type":"Point"}
 }

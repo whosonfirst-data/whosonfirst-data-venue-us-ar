@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102374119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.638164,35.770349,-91.638164,35.770349",
     "geom:latitude":35.770349,
     "geom:longitude":-91.638164,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"927 15th St",
     "sg:city":"Batesville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85808231,
+        85688549,
         85633793,
         85920683,
         102083875,
-        85688549
+        85808231
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102374119,
-    "wof:lastmodified":1449068812,
+    "wof:lastmodified":1466320862,
     "wof:name":"Deja Vu Embroidery",
     "wof:parent_id":85808231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.638164,35.770349,-91.638164,35.770349],
+  "bbox": [
+    -91.638164,
+    35.770349,
+    -91.638164,
+    35.770349
+],
   "geometry": {"coordinates":[-91.638164,35.770349],"type":"Point"}
 }

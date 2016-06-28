@@ -2,13 +2,14 @@
   "id": 220033639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.128672,36.161301,-94.128672,36.161301",
     "geom:latitude":36.161301,
     "geom:longitude":-94.128672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 Hatfield Ln",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220033639,
-    "wof:lastmodified":1449074209,
+    "wof:lastmodified":1466320524,
     "wof:name":"The Angel's Starts Drywall Texture",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-94.128672,36.161301,-94.128672,36.161301],
-  "geometry": {"coordinates":[-94.128672,36.161301],"type":"Point"}
+  "bbox": [
+    -94.128672,
+    36.161301,
+    -94.128672,
+    36.161301
+],
+  "geometry": {"coordinates":[-94.12867199999999,36.161301],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219373311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.445993,35.542349,-92.445993,35.542349",
     "geom:latitude":35.542349,
     "geom:longitude":-92.445993,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2334 Highway 65 S",
     "sg:city":"Clinton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219373311,
-    "wof:lastmodified":1449072210,
+    "wof:lastmodified":1466322614,
     "wof:name":"Sew What",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-92.445993,35.542349,-92.445993,35.542349],
+  "bbox": [
+    -92.445993,
+    35.542349,
+    -92.445993,
+    35.542349
+],
   "geometry": {"coordinates":[-92.445993,35.542349],"type":"Point"}
 }

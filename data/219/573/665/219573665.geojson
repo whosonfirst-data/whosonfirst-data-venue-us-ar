@@ -2,13 +2,14 @@
   "id": 219573665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.892345,35.892529,-89.892345,35.892529",
     "geom:latitude":35.892529,
     "geom:longitude":-89.892345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3182 E County Road 262",
     "sg:city":"Blytheville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219573665,
-    "wof:lastmodified":1449073006,
+    "wof:lastmodified":1466324647,
     "wof:name":"Dr Jimmy Allen Russell",
     "wof:parent_id":85814753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-89.892345,35.892529,-89.892345,35.892529],
-  "geometry": {"coordinates":[-89.892345,35.892529],"type":"Point"}
+  "bbox": [
+    -89.892345,
+    35.892529,
+    -89.892345,
+    35.892529
+],
+  "geometry": {"coordinates":[-89.89234500000001,35.892529],"type":"Point"}
 }

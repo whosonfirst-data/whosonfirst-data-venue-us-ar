@@ -2,13 +2,14 @@
   "id": 219334231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.892748,35.069315,-91.892748,35.069315",
     "geom:latitude":35.069315,
     "geom:longitude":-91.892748,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"906 W Indiana St",
     "sg:city":"Beebe",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219334231,
-    "wof:lastmodified":1449071435,
+    "wof:lastmodified":1466322037,
     "wof:name":"Tools An Stuff",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tools-electric"
     ]
 },
-  "bbox": [-91.892748,35.069315,-91.892748,35.069315],
+  "bbox": [
+    -91.892748,
+    35.069315,
+    -91.892748,
+    35.069315
+],
   "geometry": {"coordinates":[-91.892748,35.069315],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219395345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.440138,35.090849,-92.440138,35.090849",
     "geom:latitude":35.090849,
     "geom:longitude":-92.440138,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1125 Oak St Ste 306",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219395345,
-    "wof:lastmodified":1449073396,
+    "wof:lastmodified":1466322809,
     "wof:name":"Safe Guard Medical Usa Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgical"
     ]
 },
-  "bbox": [-92.440138,35.090849,-92.440138,35.090849],
+  "bbox": [
+    -92.440138,
+    35.090849,
+    -92.440138,
+    35.090849
+],
   "geometry": {"coordinates":[-92.440138,35.090849],"type":"Point"}
 }

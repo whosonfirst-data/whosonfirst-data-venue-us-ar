@@ -2,13 +2,14 @@
   "id": 320566243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.526015,36.134623,-94.526015,36.134623",
     "geom:latitude":36.134623,
     "geom:longitude":-94.526015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22075 Sawmill Rd",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":320566243,
-    "wof:lastmodified":1449011335,
+    "wof:lastmodified":1466320587,
     "wof:name":"Pauls Lime and Fertelizer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "soil"
     ]
 },
-  "bbox": [-94.526015,36.134623,-94.526015,36.134623],
+  "bbox": [
+    -94.526015,
+    36.134623,
+    -94.526015,
+    36.134623
+],
   "geometry": {"coordinates":[-94.526015,36.134623],"type":"Point"}
 }

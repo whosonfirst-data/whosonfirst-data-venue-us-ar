@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102230797",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.658149,33.590209,-93.658149,33.590209",
     "geom:latitude":33.590209,
     "geom:longitude":-93.658149,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"237 Co Rd 36",
     "sg:city":"Hope",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102230797",
-    "wof:lastmodified":1449069586,
+    "wof:lastmodified":1466321494,
     "wof:name":"MAC Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.658149,33.590209,-93.658149,33.590209],
-  "geometry": {"coordinates":[-93.658149,33.590209],"type":"Point"}
+  "bbox": [
+    -93.658149,
+    33.590209,
+    -93.658149,
+    33.590209
+],
+  "geometry": {"coordinates":[-93.65814899999999,33.590209],"type":"Point"}
 }

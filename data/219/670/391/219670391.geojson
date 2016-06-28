@@ -2,13 +2,14 @@
   "id": 219670391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.160498,35.880022,-90.160498,35.880022",
     "geom:latitude":35.880022,
     "geom:longitude":-90.160498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 E Olympia St",
     "sg:city":"Manila",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219670391,
-    "wof:lastmodified":1449070915,
+    "wof:lastmodified":1466324817,
     "wof:name":"Manila Public High School",
     "wof:parent_id":85814753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.160498,35.880022,-90.160498,35.880022],
+  "bbox": [
+    -90.160498,
+    35.880022,
+    -90.160498,
+    35.880022
+],
   "geometry": {"coordinates":[-90.160498,35.880022],"type":"Point"}
 }

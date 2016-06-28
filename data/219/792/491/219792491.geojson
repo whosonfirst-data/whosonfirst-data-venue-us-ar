@@ -2,13 +2,14 @@
   "id": 219792491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.51607,35.745909,-92.51607,35.745909",
     "geom:latitude":35.745909,
     "geom:longitude":-92.51607,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"378 Whistle Stop Rd",
     "sg:city":"Dennard",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219792491,
-    "wof:lastmodified":1449071153,
+    "wof:lastmodified":1466324947,
     "wof:name":"Dnrd Cntry Store L L C",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-92.51607,35.745909,-92.51607,35.745909],
+  "bbox": [
+    -92.51607,
+    35.745909,
+    -92.51607,
+    35.745909
+],
   "geometry": {"coordinates":[-92.51607,35.745909],"type":"Point"}
 }

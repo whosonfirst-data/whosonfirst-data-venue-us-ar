@@ -2,13 +2,14 @@
   "id": 219644587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.68057,35.805841,-90.68057,35.805841",
     "geom:latitude":35.805841,
     "geom:longitude":-90.68057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3306 Shelby Dr",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":219644587,
-    "wof:lastmodified":1449072395,
+    "wof:lastmodified":1466324684,
     "wof:name":"Luvs Uniforms",
     "wof:parent_id":85836541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "clothes"
     ]
 },
-  "bbox": [-90.68057,35.805841,-90.68057,35.805841],
+  "bbox": [
+    -90.68057,
+    35.805841,
+    -90.68057,
+    35.805841
+],
   "geometry": {"coordinates":[-90.68057,35.805841],"type":"Point"}
 }

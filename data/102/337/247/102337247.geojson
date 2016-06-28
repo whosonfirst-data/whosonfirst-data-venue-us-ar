@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102337247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.908999,34.775195,-90.908999,34.775195",
     "geom:latitude":34.775195,
     "geom:longitude":-90.908999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8098 Hwy 79 W",
     "sg:city":"Moro",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102337247,
-    "wof:lastmodified":1449068902,
+    "wof:lastmodified":1466323767,
     "wof:name":"Gregory Nelson Brick Masonry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.908999,34.775195,-90.908999,34.775195],
-  "geometry": {"coordinates":[-90.908999,34.775195],"type":"Point"}
+  "bbox": [
+    -90.908999,
+    34.775195,
+    -90.908999,
+    34.775195
+],
+  "geometry": {"coordinates":[-90.90899899999999,34.775195],"type":"Point"}
 }

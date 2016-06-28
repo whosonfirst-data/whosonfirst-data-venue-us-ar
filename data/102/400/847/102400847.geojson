@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102400847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.041663,35.568509,-90.041663,35.568509",
     "geom:latitude":35.568509,
     "geom:longitude":-90.041663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Cortez Kennedy Ave",
     "sg:city":"Wilson",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102400847,
-    "wof:lastmodified":1449068027,
+    "wof:lastmodified":1466324802,
     "wof:name":"Home Oil Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.041663,35.568509,-90.041663,35.568509],
+  "bbox": [
+    -90.041663,
+    35.568509,
+    -90.041663,
+    35.568509
+],
   "geometry": {"coordinates":[-90.041663,35.568509],"type":"Point"}
 }

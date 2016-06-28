@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102356377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.513866,35.425868,-91.513866,35.425868",
     "geom:latitude":35.425868,
     "geom:longitude":-91.513866,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"734 Velvet Ridge Rd",
     "sg:city":"Bradford",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102356377,
-    "wof:lastmodified":1449069740,
+    "wof:lastmodified":1466324205,
     "wof:name":"RC Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.513866,35.425868,-91.513866,35.425868],
-  "geometry": {"coordinates":[-91.513866,35.425868],"type":"Point"}
+  "bbox": [
+    -91.513866,
+    35.425868,
+    -91.513866,
+    35.425868
+],
+  "geometry": {"coordinates":[-91.51386599999999,35.425868],"type":"Point"}
 }

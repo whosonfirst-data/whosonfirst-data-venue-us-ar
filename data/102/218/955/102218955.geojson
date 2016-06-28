@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102218955",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.185719,36.356494,-94.185719,36.356494",
     "geom:latitude":36.356494,
     "geom:longitude":-94.185719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2404 SE 14th St",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895823,
+        85688549,
         85633793,
         85921509,
         102083255,
-        85688549
+        85895823
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102218955",
-    "wof:lastmodified":1449069286,
+    "wof:lastmodified":1466321204,
     "wof:name":"Prier Burch & Schermerhorn",
     "wof:parent_id":85895823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.185719,36.356494,-94.185719,36.356494],
-  "geometry": {"coordinates":[-94.185719,36.356494],"type":"Point"}
+  "bbox": [
+    -94.185719,
+    36.356494,
+    -94.185719,
+    36.356494
+],
+  "geometry": {"coordinates":[-94.18571900000001,36.356494],"type":"Point"}
 }

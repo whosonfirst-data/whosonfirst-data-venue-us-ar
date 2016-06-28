@@ -2,13 +2,14 @@
   "id": 219987287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.125263,36.282549,-94.125263,36.282549",
     "geom:latitude":36.282549,
     "geom:longitude":-94.125263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"575 W Pleasant Grove Rd",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219987287,
-    "wof:lastmodified":1449072347,
+    "wof:lastmodified":1466325241,
     "wof:name":"Carriage House Day Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "day"
     ]
 },
-  "bbox": [-94.125263,36.282549,-94.125263,36.282549],
+  "bbox": [
+    -94.125263,
+    36.282549,
+    -94.125263,
+    36.282549
+],
   "geometry": {"coordinates":[-94.125263,36.282549],"type":"Point"}
 }

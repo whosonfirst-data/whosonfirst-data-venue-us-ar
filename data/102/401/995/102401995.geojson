@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102401995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.017891,34.97454,-92.017891,34.97454",
     "geom:latitude":34.97454,
     "geom:longitude":-92.017891,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"221 W Main St",
     "sg:city":"Cabot",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102401995,
-    "wof:lastmodified":1449069813,
+    "wof:lastmodified":1466324827,
     "wof:name":"Cabot Wireless",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.017891,34.97454,-92.017891,34.97454],
-  "geometry": {"coordinates":[-92.017891,34.97454],"type":"Point"}
+  "bbox": [
+    -92.017891,
+    34.97454,
+    -92.017891,
+    34.97454
+],
+  "geometry": {"coordinates":[-92.01789100000001,34.97454],"type":"Point"}
 }

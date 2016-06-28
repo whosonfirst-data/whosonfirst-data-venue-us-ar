@@ -2,13 +2,14 @@
   "id": 219935107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.734998,36.094813,-93.734998,36.094813",
     "geom:latitude":36.094813,
     "geom:longitude":-93.734998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 Northview Ave",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219935107,
-    "wof:lastmodified":1449073288,
+    "wof:lastmodified":1466325162,
     "wof:name":"Radicalpc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "support"
     ]
 },
-  "bbox": [-93.734998,36.094813,-93.734998,36.094813],
+  "bbox": [
+    -93.734998,
+    36.094813,
+    -93.734998,
+    36.094813
+],
   "geometry": {"coordinates":[-93.734998,36.094813],"type":"Point"}
 }

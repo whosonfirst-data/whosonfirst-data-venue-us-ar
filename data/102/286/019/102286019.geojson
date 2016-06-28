@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102286019",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.403326,35.382385,-94.403326,35.382385",
     "geom:latitude":35.382385,
     "geom:longitude":-94.403326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 N Greenwood Ave",
     "sg:city":"Fort Smith",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102286019",
-    "wof:lastmodified":1449068418,
+    "wof:lastmodified":1466322664,
     "wof:name":"KREU",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.403326,35.382385,-94.403326,35.382385],
-  "geometry": {"coordinates":[-94.403326,35.382385],"type":"Point"}
+  "bbox": [
+    -94.403326,
+    35.382385,
+    -94.403326,
+    35.382385
+],
+  "geometry": {"coordinates":[-94.40332600000001,35.382385],"type":"Point"}
 }

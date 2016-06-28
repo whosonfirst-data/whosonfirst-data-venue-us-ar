@@ -2,13 +2,14 @@
   "id": 219677537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.603715,36.009229,-90.603715,36.009229",
     "geom:latitude":36.009229,
     "geom:longitude":-90.603715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"92 Greene Road 700",
     "sg:city":"Paragould",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219677537,
-    "wof:lastmodified":1449071661,
+    "wof:lastmodified":1466324610,
     "wof:name":"Billingsley Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "new"
     ]
 },
-  "bbox": [-90.603715,36.009229,-90.603715,36.009229],
-  "geometry": {"coordinates":[-90.603715,36.009229],"type":"Point"}
+  "bbox": [
+    -90.603715,
+    36.009229,
+    -90.603715,
+    36.009229
+],
+  "geometry": {"coordinates":[-90.60371499999999,36.009229],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102386343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.225033,34.803081,-92.225033,34.803081",
     "geom:latitude":34.803081,
     "geom:longitude":-92.225033,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5201 Fairway Ave",
     "sg:city":"North Little Rock",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852263,
+        85688549,
         85633793,
         85921255,
         102082497,
-        85688549
+        85852263
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102386343,
-    "wof:lastmodified":1449069016,
+    "wof:lastmodified":1466323401,
     "wof:name":"Media Masters",
     "wof:parent_id":85852263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.225033,34.803081,-92.225033,34.803081],
+  "bbox": [
+    -92.225033,
+    34.803081,
+    -92.225033,
+    34.803081
+],
   "geometry": {"coordinates":[-92.225033,34.803081],"type":"Point"}
 }

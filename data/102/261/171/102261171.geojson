@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102261171",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.404247,34.765167,-92.404247,34.765167",
     "geom:latitude":34.765167,
     "geom:longitude":-92.404247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 Green Mountain Dr",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85843659,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85843659
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102261171",
-    "wof:lastmodified":1449067807,
+    "wof:lastmodified":1466322086,
     "wof:name":"Nichols Software Inc",
     "wof:parent_id":85843659,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.404247,34.765167,-92.404247,34.765167],
+  "bbox": [
+    -92.404247,
+    34.765167,
+    -92.404247,
+    34.765167
+],
   "geometry": {"coordinates":[-92.404247,34.765167],"type":"Point"}
 }

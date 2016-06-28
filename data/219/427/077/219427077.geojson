@@ -2,13 +2,14 @@
   "id": 219427077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.838633,35.310561,-92.838633,35.310561",
     "geom:latitude":35.310561,
     "geom:longitude":-92.838633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"59 Devils Creek Rd",
     "sg:city":"Hattieville",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":219427077,
-    "wof:lastmodified":1449071462,
+    "wof:lastmodified":1466323076,
     "wof:name":"Hedrick's Heating & Air Servic",
     "wof:parent_id":85850611,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-92.838633,35.310561,-92.838633,35.310561],
+  "bbox": [
+    -92.838633,
+    35.310561,
+    -92.838633,
+    35.310561
+],
   "geometry": {"coordinates":[-92.838633,35.310561],"type":"Point"}
 }

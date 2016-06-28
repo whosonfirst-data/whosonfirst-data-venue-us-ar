@@ -2,13 +2,14 @@
   "id": 219824781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.162779,36.033287,-94.162779,36.033287",
     "geom:latitude":36.033287,
     "geom:longitude":-94.162779,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2835 S Club Oak Dr",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219824781,
-    "wof:lastmodified":1449071647,
+    "wof:lastmodified":1466324996,
     "wof:name":"Washington Co Farm Bureau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "farm"
     ]
 },
-  "bbox": [-94.162779,36.033287,-94.162779,36.033287],
+  "bbox": [
+    -94.162779,
+    36.033287,
+    -94.162779,
+    36.033287
+],
   "geometry": {"coordinates":[-94.162779,36.033287],"type":"Point"}
 }

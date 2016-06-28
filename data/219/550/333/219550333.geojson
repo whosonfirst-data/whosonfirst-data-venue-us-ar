@@ -2,13 +2,14 @@
   "id": 219550333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.554458,34.506781,-91.554458,34.506781",
     "geom:latitude":34.506781,
     "geom:longitude":-91.554458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"606 N Porter St",
     "sg:city":"Stuttgart",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219550333,
-    "wof:lastmodified":1449072291,
+    "wof:lastmodified":1466324338,
     "wof:name":"Regular Ar Mssnry. Baptist Conv.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.554458,34.506781,-91.554458,34.506781],
+  "bbox": [
+    -91.554458,
+    34.506781,
+    -91.554458,
+    34.506781
+],
   "geometry": {"coordinates":[-91.554458,34.506781],"type":"Point"}
 }

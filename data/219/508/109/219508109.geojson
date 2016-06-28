@@ -2,13 +2,14 @@
   "id": 219508109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.121316,34.630311,-92.121316,34.630311",
     "geom:latitude":34.630311,
     "geom:longitude":-92.121316,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13001 Lower Steel Bend Rd",
     "sg:city":"Scott",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219508109,
-    "wof:lastmodified":1449072353,
+    "wof:lastmodified":1466324014,
     "wof:name":"Jr Charles Rule",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.121316,34.630311,-92.121316,34.630311],
-  "geometry": {"coordinates":[-92.121316,34.630311],"type":"Point"}
+  "bbox": [
+    -92.121316,
+    34.630311,
+    -92.121316,
+    34.630311
+],
+  "geometry": {"coordinates":[-92.12131599999999,34.630311],"type":"Point"}
 }

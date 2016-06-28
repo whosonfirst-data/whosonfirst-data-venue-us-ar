@@ -2,13 +2,14 @@
   "id": 219563841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.95654,35.03335,-91.95654,35.03335",
     "geom:latitude":35.03335,
     "geom:longitude":-91.95654,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"806 North St",
     "sg:city":"Ward",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219563841,
-    "wof:lastmodified":1449070424,
+    "wof:lastmodified":1466324434,
     "wof:name":"North St Diner",
     "wof:parent_id":85839277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.95654,35.03335,-91.95654,35.03335],
+  "bbox": [
+    -91.95654,
+    35.03335,
+    -91.95654,
+    35.03335
+],
   "geometry": {"coordinates":[-91.95654,35.03335],"type":"Point"}
 }

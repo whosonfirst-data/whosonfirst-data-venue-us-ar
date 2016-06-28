@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102310541",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.188181,36.317335,-94.188181,36.317335",
     "geom:latitude":36.317335,
     "geom:longitude":-94.188181,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5310 Village Pkwy",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895857,
+        85688549,
         85633793,
         85921535,
         102083255,
-        85688549
+        85895857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102310541",
-    "wof:lastmodified":1449069239,
+    "wof:lastmodified":1466323251,
     "wof:name":"Johnson Johnson Sls Logistic",
     "wof:parent_id":85895857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.188181,36.317335,-94.188181,36.317335],
+  "bbox": [
+    -94.188181,
+    36.317335,
+    -94.188181,
+    36.317335
+],
   "geometry": {"coordinates":[-94.188181,36.317335],"type":"Point"}
 }

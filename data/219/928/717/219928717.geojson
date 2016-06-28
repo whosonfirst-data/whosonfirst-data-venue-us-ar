@@ -2,13 +2,14 @@
   "id": 219928717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.455688,36.432112,-94.455688,36.432112",
     "geom:latitude":36.432112,
     "geom:longitude":-94.455688,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1060 1st Ave NE",
     "sg:city":"Gravette",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219928717,
-    "wof:lastmodified":1449073418,
+    "wof:lastmodified":1466325217,
     "wof:name":"Sportswired Retail",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.455688,36.432112,-94.455688,36.432112],
-  "geometry": {"coordinates":[-94.455688,36.432112],"type":"Point"}
+  "bbox": [
+    -94.455688,
+    36.432112,
+    -94.455688,
+    36.432112
+],
+  "geometry": {"coordinates":[-94.45568799999999,36.432112],"type":"Point"}
 }

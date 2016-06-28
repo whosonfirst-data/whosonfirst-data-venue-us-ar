@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102326705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.394703,35.354498,-94.394703,35.354498",
     "geom:latitude":35.354498,
     "geom:longitude":-94.394703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2816 Old Greenwood Rd",
     "sg:city":"Fort Smith",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85849681,
+        85688549,
         85633793,
         85921431,
         102082025,
-        85688549
+        85849681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102326705,
-    "wof:lastmodified":1449068788,
+    "wof:lastmodified":1466323656,
     "wof:name":"Sign Designs",
     "wof:parent_id":85849681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.394703,35.354498,-94.394703,35.354498],
-  "geometry": {"coordinates":[-94.394703,35.354498],"type":"Point"}
+  "bbox": [
+    -94.394703,
+    35.354498,
+    -94.394703,
+    35.354498
+],
+  "geometry": {"coordinates":[-94.39470300000001,35.354498],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102307091",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.38188,36.190485,-90.38188,36.190485",
     "geom:latitude":36.190485,
     "geom:longitude":-90.38188,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11436 US Hwy 49 N",
     "sg:city":"Marmaduke",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102307091",
-    "wof:lastmodified":1449068408,
+    "wof:lastmodified":1466323122,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.38188,36.190485,-90.38188,36.190485],
+  "bbox": [
+    -90.38188,
+    36.190485,
+    -90.38188,
+    36.190485
+],
   "geometry": {"coordinates":[-90.38188,36.190485],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353581783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.235316,34.584724,-94.235316,34.584724",
     "geom:latitude":34.584724,
     "geom:longitude":-94.235316,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"406 Janssen Ave",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353581783,
-    "wof:lastmodified":1449018797,
+    "wof:lastmodified":1466320452,
     "wof:name":"Monty Coin Op",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "coin"
     ]
 },
-  "bbox": [-94.235316,34.584724,-94.235316,34.584724],
+  "bbox": [
+    -94.235316,
+    34.584724,
+    -94.235316,
+    34.584724
+],
   "geometry": {"coordinates":[-94.235316,34.584724],"type":"Point"}
 }

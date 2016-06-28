@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102350003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.984205,35.695181,-89.984205,35.695181",
     "geom:latitude":35.695181,
     "geom:longitude":-89.984205,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45 River Cir",
     "sg:city":"Osceola",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102350003,
-    "wof:lastmodified":1449068975,
+    "wof:lastmodified":1466323947,
     "wof:name":"River Manor Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.984205,35.695181,-89.984205,35.695181],
+  "bbox": [
+    -89.984205,
+    35.695181,
+    -89.984205,
+    35.695181
+],
   "geometry": {"coordinates":[-89.984205,35.695181],"type":"Point"}
 }

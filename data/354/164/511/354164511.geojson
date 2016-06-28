@@ -2,13 +2,14 @@
   "id": 354164511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.768804,36.554069,-94.768804,36.554069",
     "geom:latitude":36.554069,
     "geom:longitude":-94.768804,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"62330 E 320 Rd",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354164511,
-    "wof:lastmodified":1449066137,
+    "wof:lastmodified":1466323929,
     "wof:name":"Green Country Custom Builders",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-94.768804,36.554069,-94.768804,36.554069],
+  "bbox": [
+    -94.768804,
+    36.554069,
+    -94.768804,
+    36.554069
+],
   "geometry": {"coordinates":[-94.768804,36.554069],"type":"Point"}
 }

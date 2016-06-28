@@ -2,13 +2,14 @@
   "id": 220001989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.18654,36.312162,-94.18654,36.312162",
     "geom:latitude":36.312162,
     "geom:longitude":-94.18654,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5414 Pinnacle Point Dr Ste 500",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":220001989,
-    "wof:lastmodified":1449074226,
+    "wof:lastmodified":1466320451,
     "wof:name":"Yeargan Leigh Anne Atty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.18654,36.312162,-94.18654,36.312162],
-  "geometry": {"coordinates":[-94.18654,36.312162],"type":"Point"}
+  "bbox": [
+    -94.18654,
+    36.312162,
+    -94.18654,
+    36.312162
+],
+  "geometry": {"coordinates":[-94.18653999999999,36.312162],"type":"Point"}
 }

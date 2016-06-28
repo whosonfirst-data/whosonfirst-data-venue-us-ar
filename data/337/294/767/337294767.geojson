@@ -2,13 +2,14 @@
   "id": 337294767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.205684,36.212121,-94.205684,36.212121",
     "geom:latitude":36.212121,
     "geom:longitude":-94.205684,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1595 County Line Rd",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":337294767,
-    "wof:lastmodified":1449027527,
+    "wof:lastmodified":1466322166,
     "wof:name":"Danelle Carpenter Farms",
     "wof:parent_id":85885477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.205684,36.212121,-94.205684,36.212121],
-  "geometry": {"coordinates":[-94.205684,36.212121],"type":"Point"}
+  "bbox": [
+    -94.205684,
+    36.212121,
+    -94.205684,
+    36.212121
+],
+  "geometry": {"coordinates":[-94.20568400000001,36.212121],"type":"Point"}
 }

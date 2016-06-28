@@ -2,13 +2,14 @@
   "id": 353811947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.710715,36.629712,-94.710715,36.629712",
     "geom:latitude":36.629712,
     "geom:longitude":-94.710715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26900 S 655 Rd",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353811947,
-    "wof:lastmodified":1449019497,
+    "wof:lastmodified":1466320517,
     "wof:name":"Gladis Crowder",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "lessor"
     ]
 },
-  "bbox": [-94.710715,36.629712,-94.710715,36.629712],
-  "geometry": {"coordinates":[-94.710715,36.629712],"type":"Point"}
+  "bbox": [
+    -94.710715,
+    36.629712,
+    -94.710715,
+    36.629712
+],
+  "geometry": {"coordinates":[-94.71071499999999,36.629712],"type":"Point"}
 }

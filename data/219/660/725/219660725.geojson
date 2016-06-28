@@ -2,13 +2,14 @@
   "id": 219660725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.800276,36.179988,-90.800276,36.179988",
     "geom:latitude":36.179988,
     "geom:longitude":-90.800276,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3342 Highway 90",
     "sg:city":"Delaplaine",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219660725,
-    "wof:lastmodified":1449073554,
+    "wof:lastmodified":1466324781,
     "wof:name":"Delaplaine Grain Drier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "grain"
     ]
 },
-  "bbox": [-90.800276,36.179988,-90.800276,36.179988],
+  "bbox": [
+    -90.800276,
+    36.179988,
+    -90.800276,
+    36.179988
+],
   "geometry": {"coordinates":[-90.800276,36.179988],"type":"Point"}
 }

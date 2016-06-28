@@ -2,13 +2,14 @@
   "id": 219987985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.191277,36.316935,-94.191277,36.316935",
     "geom:latitude":36.316935,
     "geom:longitude":-94.191277,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5304 Village Pkwy Ste 5",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":219987985,
-    "wof:lastmodified":1449072351,
+    "wof:lastmodified":1466325198,
     "wof:name":"Merck & Co., Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-94.191277,36.316935,-94.191277,36.316935],
+  "bbox": [
+    -94.191277,
+    36.316935,
+    -94.191277,
+    36.316935
+],
   "geometry": {"coordinates":[-94.191277,36.316935],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203409651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.954581,33.122896,-91.954581,33.122896",
     "geom:latitude":33.122896,
     "geom:longitude":-91.954581,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1003 Cedar St",
     "sg:city":"Crossett",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203409651,
-    "wof:lastmodified":1449025701,
+    "wof:lastmodified":1466320539,
     "wof:name":"Candace Lafoon Dba Ind Beauty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.954581,33.122896,-91.954581,33.122896],
+  "bbox": [
+    -91.954581,
+    33.122896,
+    -91.954581,
+    33.122896
+],
   "geometry": {"coordinates":[-91.954581,33.122896],"type":"Point"}
 }

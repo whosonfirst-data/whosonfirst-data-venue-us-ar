@@ -2,13 +2,14 @@
   "id": 219571621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.906801,35.929349,-89.906801,35.929349",
     "geom:latitude":35.929349,
     "geom:longitude":-89.906801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 N Broadway St",
     "sg:city":"Blytheville",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":219571621,
-    "wof:lastmodified":1449072800,
+    "wof:lastmodified":1466324631,
     "wof:name":"H & H Business Machines",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "typewriter"
     ]
 },
-  "bbox": [-89.906801,35.929349,-89.906801,35.929349],
+  "bbox": [
+    -89.906801,
+    35.929349,
+    -89.906801,
+    35.929349
+],
   "geometry": {"coordinates":[-89.906801,35.929349],"type":"Point"}
 }

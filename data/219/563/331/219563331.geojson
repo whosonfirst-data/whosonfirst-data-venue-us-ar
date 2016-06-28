@@ -2,13 +2,14 @@
   "id": 219563331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.963501,35.000488,-91.963501,35.000488",
     "geom:latitude":35.000488,
     "geom:longitude":-91.963501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Appleton Pl",
     "sg:city":"Ward",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219563331,
-    "wof:lastmodified":1449070425,
+    "wof:lastmodified":1466324530,
     "wof:name":"Dudes Place",
     "wof:parent_id":85839277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.963501,35.000488,-91.963501,35.000488],
-  "geometry": {"coordinates":[-91.963501,35.000488],"type":"Point"}
+  "bbox": [
+    -91.963501,
+    35.000488,
+    -91.963501,
+    35.000488
+],
+  "geometry": {"coordinates":[-91.96350099999999,35.000488],"type":"Point"}
 }

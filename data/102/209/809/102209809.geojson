@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102209809",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.445794,35.107586,-92.445794,35.107586",
     "geom:latitude":35.107586,
     "geom:longitude":-92.445794,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1701 Hutto St",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102209809",
-    "wof:lastmodified":1449069938,
+    "wof:lastmodified":1466320957,
     "wof:name":"Ron's Electronic Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.445794,35.107586,-92.445794,35.107586],
-  "geometry": {"coordinates":[-92.445794,35.107586],"type":"Point"}
+  "bbox": [
+    -92.445794,
+    35.107586,
+    -92.445794,
+    35.107586
+],
+  "geometry": {"coordinates":[-92.44579400000001,35.107586],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219368995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.003252,34.957446,-92.003252,34.957446",
     "geom:latitude":34.957446,
     "geom:longitude":-92.003252,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Forest Dr",
     "sg:city":"Cabot",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219368995,
-    "wof:lastmodified":1449071206,
+    "wof:lastmodified":1466322563,
     "wof:name":"Harry H Ringler",
     "wof:parent_id":85839277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-92.003252,34.957446,-92.003252,34.957446],
+  "bbox": [
+    -92.003252,
+    34.957446,
+    -92.003252,
+    34.957446
+],
   "geometry": {"coordinates":[-92.003252,34.957446],"type":"Point"}
 }

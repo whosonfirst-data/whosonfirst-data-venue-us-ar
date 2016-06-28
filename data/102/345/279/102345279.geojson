@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102345279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.827571,33.577635,-92.827571,33.577635",
     "geom:latitude":33.577635,
     "geom:longitude":-92.827571,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"532 S Adams Ave",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102345279,
-    "wof:lastmodified":1449070002,
+    "wof:lastmodified":1466323922,
     "wof:name":"My Story Developmental Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.827571,33.577635,-92.827571,33.577635],
-  "geometry": {"coordinates":[-92.827571,33.577635],"type":"Point"}
+  "bbox": [
+    -92.827571,
+    33.577635,
+    -92.827571,
+    33.577635
+],
+  "geometry": {"coordinates":[-92.82757100000001,33.577635],"type":"Point"}
 }

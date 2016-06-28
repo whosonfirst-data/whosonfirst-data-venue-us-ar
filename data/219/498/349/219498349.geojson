@@ -2,13 +2,14 @@
   "id": 219498349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.760186,34.878783,-92.760186,34.878783",
     "geom:latitude":34.878783,
     "geom:longitude":-92.760186,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46515 S Highway 10",
     "sg:city":"Perryville",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":219498349,
-    "wof:lastmodified":1449073078,
+    "wof:lastmodified":1466323932,
     "wof:name":"Elder Care Decisions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "homes-institutional"
     ]
 },
-  "bbox": [-92.760186,34.878783,-92.760186,34.878783],
+  "bbox": [
+    -92.760186,
+    34.878783,
+    -92.760186,
+    34.878783
+],
   "geometry": {"coordinates":[-92.760186,34.878783],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219536921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.732375,35.22264,-91.732375,35.22264",
     "geom:latitude":35.22264,
     "geom:longitude":-91.732375,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2400 S Main St",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219536921,
-    "wof:lastmodified":1449072492,
+    "wof:lastmodified":1466324234,
     "wof:name":"Searcy Animal Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-91.732375,35.22264,-91.732375,35.22264],
+  "bbox": [
+    -91.732375,
+    35.22264,
+    -91.732375,
+    35.22264
+],
   "geometry": {"coordinates":[-91.732375,35.22264],"type":"Point"}
 }

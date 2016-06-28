@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102222941",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.198827,36.349639,-94.198827,36.349639",
     "geom:latitude":36.349639,
     "geom:longitude":-94.198827,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 SE 21st St",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895815,
+        85688549,
         85633793,
         85921509,
         102083255,
-        85688549
+        85895815
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102222941",
-    "wof:lastmodified":1449069397,
+    "wof:lastmodified":1466321322,
     "wof:name":"Bryan Construction & Dev",
     "wof:parent_id":85895815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.198827,36.349639,-94.198827,36.349639],
-  "geometry": {"coordinates":[-94.198827,36.349639],"type":"Point"}
+  "bbox": [
+    -94.198827,
+    36.349639,
+    -94.198827,
+    36.349639
+],
+  "geometry": {"coordinates":[-94.19882699999999,36.349639],"type":"Point"}
 }

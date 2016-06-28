@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102308263",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.021364,33.705476,-93.021364,33.705476",
     "geom:latitude":33.705476,
     "geom:longitude":-93.021364,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 N Main St",
     "sg:city":"Chidester",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102308263",
-    "wof:lastmodified":1449070274,
+    "wof:lastmodified":1466323176,
     "wof:name":"Chidester Water Works Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.021364,33.705476,-93.021364,33.705476],
-  "geometry": {"coordinates":[-93.021364,33.705476],"type":"Point"}
+  "bbox": [
+    -93.021364,
+    33.705476,
+    -93.021364,
+    33.705476
+],
+  "geometry": {"coordinates":[-93.02136400000001,33.705476],"type":"Point"}
 }

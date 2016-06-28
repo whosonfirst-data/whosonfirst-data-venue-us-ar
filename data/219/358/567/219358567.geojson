@@ -2,13 +2,14 @@
   "id": 219358567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.498306,34.617008,-92.498306,34.617008",
     "geom:latitude":34.617008,
     "geom:longitude":-92.498306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2301 N Reynolds Rd",
     "sg:city":"Bryant",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219358567,
-    "wof:lastmodified":1449071873,
+    "wof:lastmodified":1466322371,
     "wof:name":"Speedzone",
     "wof:parent_id":85817531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.498306,34.617008,-92.498306,34.617008],
+  "bbox": [
+    -92.498306,
+    34.617008,
+    -92.498306,
+    34.617008
+],
   "geometry": {"coordinates":[-92.498306,34.617008],"type":"Point"}
 }

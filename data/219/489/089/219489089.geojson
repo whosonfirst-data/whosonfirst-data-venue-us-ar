@@ -2,13 +2,14 @@
   "id": 219489089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.189726,34.842943,-92.189726,34.842943",
     "geom:latitude":34.842943,
     "geom:longitude":-92.189726,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"251 Indian Bay Dr",
     "sg:city":"Sherwood",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":219489089,
-    "wof:lastmodified":1449072302,
+    "wof:lastmodified":1466323826,
     "wof:name":"Walker, Randy",
     "wof:parent_id":85837729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "churches-baptist"
     ]
 },
-  "bbox": [-92.189726,34.842943,-92.189726,34.842943],
-  "geometry": {"coordinates":[-92.189726,34.842943],"type":"Point"}
+  "bbox": [
+    -92.189726,
+    34.842943,
+    -92.189726,
+    34.842943
+],
+  "geometry": {"coordinates":[-92.18972599999999,34.842943],"type":"Point"}
 }

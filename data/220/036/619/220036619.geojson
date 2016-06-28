@@ -2,13 +2,14 @@
   "id": 220036619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.130794,36.209928,-94.130794,36.209928",
     "geom:latitude":36.209928,
     "geom:longitude":-94.130794,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"287 West County Line Rd",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220036619,
-    "wof:lastmodified":1449074209,
+    "wof:lastmodified":1466320535,
     "wof:name":"Paschal Heat, Air & Geothermal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "conditioning/hvac"
     ]
 },
-  "bbox": [-94.130794,36.209928,-94.130794,36.209928],
-  "geometry": {"coordinates":[-94.130794,36.209928],"type":"Point"}
+  "bbox": [
+    -94.130794,
+    36.209928,
+    -94.130794,
+    36.209928
+],
+  "geometry": {"coordinates":[-94.13079399999999,36.209928],"type":"Point"}
 }

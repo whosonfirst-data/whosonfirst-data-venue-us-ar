@@ -2,13 +2,14 @@
   "id": 219667465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.078798,35.976242,-91.078798,35.976242",
     "geom:latitude":35.976242,
     "geom:longitude":-91.078798,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"162 Highway 228",
     "sg:city":"Hoxie",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":219667465,
-    "wof:lastmodified":1449072691,
+    "wof:lastmodified":1466324570,
     "wof:name":"Jumpstart Ministries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "denomination"
     ]
 },
-  "bbox": [-91.078798,35.976242,-91.078798,35.976242],
-  "geometry": {"coordinates":[-91.078798,35.976242],"type":"Point"}
+  "bbox": [
+    -91.078798,
+    35.976242,
+    -91.078798,
+    35.976242
+],
+  "geometry": {"coordinates":[-91.07879800000001,35.976242],"type":"Point"}
 }

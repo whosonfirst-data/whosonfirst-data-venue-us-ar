@@ -2,13 +2,14 @@
   "id": 220122875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.055759,35.515978,-94.055759,35.515978",
     "geom:latitude":35.515978,
     "geom:longitude":-94.055759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1530 Alma Ave",
     "sg:city":"Mulberry",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220122875,
-    "wof:lastmodified":1449074511,
+    "wof:lastmodified":1466322651,
     "wof:name":"Conrad Garcia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "truck"
     ]
 },
-  "bbox": [-94.055759,35.515978,-94.055759,35.515978],
-  "geometry": {"coordinates":[-94.055759,35.515978],"type":"Point"}
+  "bbox": [
+    -94.055759,
+    35.515978,
+    -94.055759,
+    35.515978
+],
+  "geometry": {"coordinates":[-94.05575899999999,35.515978],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186195831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.030045,33.418133,-94.030045,33.418133",
     "geom:latitude":33.418133,
     "geom:longitude":-94.030045,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 East St",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186195831,
-    "wof:lastmodified":1449052130,
+    "wof:lastmodified":1466324422,
     "wof:name":"M & M Burgers & Etc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-94.030045,33.418133,-94.030045,33.418133],
+  "bbox": [
+    -94.030045,
+    33.418133,
+    -94.030045,
+    33.418133
+],
   "geometry": {"coordinates":[-94.030045,33.418133],"type":"Point"}
 }

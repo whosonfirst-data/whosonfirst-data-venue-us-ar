@@ -2,13 +2,14 @@
   "id": 320643749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.785845,36.561198,-94.785845,36.561198",
     "geom:latitude":36.561198,
     "geom:longitude":-94.785845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"61290 E 315 Rd",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320643749,
-    "wof:lastmodified":1449014474,
+    "wof:lastmodified":1466320611,
     "wof:name":"Independent Assembly House",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-94.785845,36.561198,-94.785845,36.561198],
-  "geometry": {"coordinates":[-94.785845,36.561198],"type":"Point"}
+  "bbox": [
+    -94.785845,
+    36.561198,
+    -94.785845,
+    36.561198
+],
+  "geometry": {"coordinates":[-94.78584499999999,36.561198],"type":"Point"}
 }

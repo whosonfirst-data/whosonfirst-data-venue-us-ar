@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102320243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.764654,35.245106,-91.764654,35.245106",
     "geom:latitude":35.245106,
     "geom:longitude":-91.764654,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Brookwood Dr",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102320243,
-    "wof:lastmodified":1449068397,
+    "wof:lastmodified":1466323384,
     "wof:name":"Kenneth Bloesch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.764654,35.245106,-91.764654,35.245106],
-  "geometry": {"coordinates":[-91.764654,35.245106],"type":"Point"}
+  "bbox": [
+    -91.764654,
+    35.245106,
+    -91.764654,
+    35.245106
+],
+  "geometry": {"coordinates":[-91.76465399999999,35.245106],"type":"Point"}
 }

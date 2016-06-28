@@ -2,13 +2,14 @@
   "id": 219442745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.210281,34.993992,-92.210281,34.993992",
     "geom:latitude":34.993992,
     "geom:longitude":-92.210281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13815 Fortson Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219442745,
-    "wof:lastmodified":1449071942,
+    "wof:lastmodified":1466323290,
     "wof:name":"E Hildreth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cleaners-interior"
     ]
 },
-  "bbox": [-92.210281,34.993992,-92.210281,34.993992],
-  "geometry": {"coordinates":[-92.210281,34.993992],"type":"Point"}
+  "bbox": [
+    -92.210281,
+    34.993992,
+    -92.210281,
+    34.993992
+],
+  "geometry": {"coordinates":[-92.21028099999999,34.993992],"type":"Point"}
 }

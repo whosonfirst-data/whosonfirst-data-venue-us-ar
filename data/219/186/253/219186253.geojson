@@ -2,13 +2,14 @@
   "id": 219186253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.064402,33.609704,-92.064402,33.609704",
     "geom:latitude":33.609704,
     "geom:longitude":-92.064402,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"319 S Main St",
     "sg:city":"Warren",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219186253,
-    "wof:lastmodified":1449073166,
+    "wof:lastmodified":1466320684,
     "wof:name":"Ko Wholesale",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "goods-wholesale"
     ]
 },
-  "bbox": [-92.064402,33.609704,-92.064402,33.609704],
+  "bbox": [
+    -92.064402,
+    33.609704,
+    -92.064402,
+    33.609704
+],
   "geometry": {"coordinates":[-92.064402,33.609704],"type":"Point"}
 }

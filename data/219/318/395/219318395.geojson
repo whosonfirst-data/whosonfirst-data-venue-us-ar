@@ -2,13 +2,14 @@
   "id": 219318395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.246943,34.409413,-93.246943,34.409413",
     "geom:latitude":34.409413,
     "geom:longitude":-93.246943,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"159 Eaglewood Ct",
     "sg:city":"Pearcy",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219318395,
-    "wof:lastmodified":1449071182,
+    "wof:lastmodified":1466321881,
     "wof:name":"Carol Farmer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.246943,34.409413,-93.246943,34.409413],
+  "bbox": [
+    -93.246943,
+    34.409413,
+    -93.246943,
+    34.409413
+],
   "geometry": {"coordinates":[-93.246943,34.409413],"type":"Point"}
 }

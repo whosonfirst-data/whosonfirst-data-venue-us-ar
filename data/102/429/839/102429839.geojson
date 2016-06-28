@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102429839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.049873,33.609667,-92.049873,33.609667",
     "geom:latitude":33.609667,
     "geom:longitude":-92.049873,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"915 E Church St",
     "sg:city":"Warren",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102429839,
-    "wof:lastmodified":1449070072,
+    "wof:lastmodified":1466325454,
     "wof:name":"Beverly",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.049873,33.609667,-92.049873,33.609667],
-  "geometry": {"coordinates":[-92.049873,33.609667],"type":"Point"}
+  "bbox": [
+    -92.049873,
+    33.609667,
+    -92.049873,
+    33.609667
+],
+  "geometry": {"coordinates":[-92.04987300000001,33.609667],"type":"Point"}
 }

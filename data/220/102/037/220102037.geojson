@@ -2,13 +2,14 @@
   "id": 220102037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.302344,35.325881,-94.302344,35.325881",
     "geom:latitude":35.325881,
     "geom:longitude":-94.302344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"602 Fort St",
     "sg:city":"Barling",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":220102037,
-    "wof:lastmodified":1449074829,
+    "wof:lastmodified":1466322257,
     "wof:name":"K & D Consignment Shop",
     "wof:parent_id":85832863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "hand"
     ]
 },
-  "bbox": [-94.302344,35.325881,-94.302344,35.325881],
-  "geometry": {"coordinates":[-94.302344,35.325881],"type":"Point"}
+  "bbox": [
+    -94.302344,
+    35.325881,
+    -94.302344,
+    35.325881
+],
+  "geometry": {"coordinates":[-94.30234400000001,35.325881],"type":"Point"}
 }

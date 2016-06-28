@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102361411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.266083,35.652525,-91.266083,35.652525",
     "geom:latitude":35.652525,
     "geom:longitude":-91.266083,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"550 Page Dr",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102361411,
-    "wof:lastmodified":1449069553,
+    "wof:lastmodified":1466324248,
     "wof:name":"Brownd Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.266083,35.652525,-91.266083,35.652525],
-  "geometry": {"coordinates":[-91.266083,35.652525],"type":"Point"}
+  "bbox": [
+    -91.266083,
+    35.652525,
+    -91.266083,
+    35.652525
+],
+  "geometry": {"coordinates":[-91.26608299999999,35.652525],"type":"Point"}
 }

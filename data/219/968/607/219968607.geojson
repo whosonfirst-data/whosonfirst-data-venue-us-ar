@@ -2,13 +2,14 @@
   "id": 219968607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.141518,36.355579,-94.141518,36.355579",
     "geom:latitude":36.355579,
     "geom:longitude":-94.141518,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2500 N 17th St Ste 101",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219968607,
-    "wof:lastmodified":1449070603,
+    "wof:lastmodified":1466325166,
     "wof:name":"Allstar Cellular & Accessory World",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cellular"
     ]
 },
-  "bbox": [-94.141518,36.355579,-94.141518,36.355579],
+  "bbox": [
+    -94.141518,
+    36.355579,
+    -94.141518,
+    36.355579
+],
   "geometry": {"coordinates":[-94.141518,36.355579],"type":"Point"}
 }

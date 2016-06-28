@@ -2,13 +2,14 @@
   "id": 203423601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.91612,33.273373,-91.91612,33.273373",
     "geom:latitude":33.273373,
     "geom:longitude":-91.91612,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"519 Ashley Road 95",
     "sg:city":"Hamburg",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203423601,
-    "wof:lastmodified":1449025256,
+    "wof:lastmodified":1466320680,
     "wof:name":"R & P Rental Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "store"
     ]
 },
-  "bbox": [-91.91612,33.273373,-91.91612,33.273373],
-  "geometry": {"coordinates":[-91.91612,33.273373],"type":"Point"}
+  "bbox": [
+    -91.91612,
+    33.273373,
+    -91.91612,
+    33.273373
+],
+  "geometry": {"coordinates":[-91.91612000000001,33.273373],"type":"Point"}
 }

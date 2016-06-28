@@ -2,13 +2,14 @@
   "id": 219471423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.709897,35.144517,-92.709897,35.144517",
     "geom:latitude":35.144517,
     "geom:longitude":-92.709897,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Sweeden Ln",
     "sg:city":"Morrilton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219471423,
-    "wof:lastmodified":1449071802,
+    "wof:lastmodified":1466323586,
     "wof:name":"Sweeden Brothers Mini Storage",
     "wof:parent_id":85814069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "self"
     ]
 },
-  "bbox": [-92.709897,35.144517,-92.709897,35.144517],
+  "bbox": [
+    -92.709897,
+    35.144517,
+    -92.709897,
+    35.144517
+],
   "geometry": {"coordinates":[-92.709897,35.144517],"type":"Point"}
 }

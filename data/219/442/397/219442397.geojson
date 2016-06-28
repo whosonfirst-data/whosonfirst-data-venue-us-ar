@@ -2,13 +2,14 @@
   "id": 219442397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.197454,34.868656,-92.197454,34.868656",
     "geom:latitude":34.868656,
     "geom:longitude":-92.197454,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14521 Highway 107",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219442397,
-    "wof:lastmodified":1449071939,
+    "wof:lastmodified":1466323286,
     "wof:name":"Petcare Veterinary Clinic",
     "wof:parent_id":85837729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "specialty"
     ]
 },
-  "bbox": [-92.197454,34.868656,-92.197454,34.868656],
-  "geometry": {"coordinates":[-92.197454,34.868656],"type":"Point"}
+  "bbox": [
+    -92.197454,
+    34.868656,
+    -92.197454,
+    34.868656
+],
+  "geometry": {"coordinates":[-92.19745399999999,34.868656],"type":"Point"}
 }

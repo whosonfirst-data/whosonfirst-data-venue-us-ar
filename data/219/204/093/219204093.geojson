@@ -2,13 +2,14 @@
   "id": 219204093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.237143,33.276236,-93.237143,33.276236",
     "geom:latitude":33.276236,
     "geom:longitude":-93.237143,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1102 N Jackson",
     "sg:city":"Magnolia",
     "sg:classifiers":[
@@ -60,16 +61,22 @@
         }
     ],
     "wof:id":219204093,
-    "wof:lastmodified":1449074033,
+    "wof:lastmodified":1466320901,
     "wof:name":"Serenity Day Spa & Tanning Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "therapist"
     ]
 },
-  "bbox": [-93.237143,33.276236,-93.237143,33.276236],
+  "bbox": [
+    -93.237143,
+    33.276236,
+    -93.237143,
+    33.276236
+],
   "geometry": {"coordinates":[-93.237143,33.276236],"type":"Point"}
 }

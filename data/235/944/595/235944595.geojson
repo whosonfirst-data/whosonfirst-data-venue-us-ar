@@ -2,13 +2,14 @@
   "id": 235944595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.78965,36.578454,-94.78965,36.578454",
     "geom:latitude":36.578454,
     "geom:longitude":-94.78965,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1321 Hebbert St",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":235944595,
-    "wof:lastmodified":1449008421,
+    "wof:lastmodified":1466320418,
     "wof:name":"Dysart Construction",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "painting"
     ]
 },
-  "bbox": [-94.78965,36.578454,-94.78965,36.578454],
-  "geometry": {"coordinates":[-94.78965,36.578454],"type":"Point"}
+  "bbox": [
+    -94.78965,
+    36.578454,
+    -94.78965,
+    36.578454
+],
+  "geometry": {"coordinates":[-94.78964999999999,36.578454],"type":"Point"}
 }

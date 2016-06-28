@@ -2,13 +2,14 @@
   "id": 219525901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.708237,35.23923,-91.708237,35.23923",
     "geom:latitude":35.23923,
     "geom:longitude":-91.708237,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2117 E Beebe Capps Expy",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219525901,
-    "wof:lastmodified":1449073196,
+    "wof:lastmodified":1466324149,
     "wof:name":"Walk In The Park Landscaping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-91.708237,35.23923,-91.708237,35.23923],
+  "bbox": [
+    -91.708237,
+    35.23923,
+    -91.708237,
+    35.23923
+],
   "geometry": {"coordinates":[-91.708237,35.23923],"type":"Point"}
 }

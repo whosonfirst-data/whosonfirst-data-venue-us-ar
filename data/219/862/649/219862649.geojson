@@ -2,13 +2,14 @@
   "id": 219862649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.231728,36.078995,-94.231728,36.078995",
     "geom:latitude":36.078995,
     "geom:longitude":-94.231728,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4995 W Wedington Dr",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219862649,
-    "wof:lastmodified":1449074016,
+    "wof:lastmodified":1466325140,
     "wof:name":"Paul Marinoni",
     "wof:parent_id":85885449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ranch"
     ]
 },
-  "bbox": [-94.231728,36.078995,-94.231728,36.078995],
+  "bbox": [
+    -94.231728,
+    36.078995,
+    -94.231728,
+    36.078995
+],
   "geometry": {"coordinates":[-94.231728,36.078995],"type":"Point"}
 }

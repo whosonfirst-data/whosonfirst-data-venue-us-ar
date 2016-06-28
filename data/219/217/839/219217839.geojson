@@ -2,13 +2,14 @@
   "id": 219217839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.30724,33.172657,-93.30724,33.172657",
     "geom:latitude":33.172657,
     "geom:longitude":-93.30724,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"710 Highway 160",
     "sg:city":"Magnolia",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219217839,
-    "wof:lastmodified":1449073696,
+    "wof:lastmodified":1466321026,
     "wof:name":"Dr Orris Nipper",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-93.30724,33.172657,-93.30724,33.172657],
-  "geometry": {"coordinates":[-93.30724,33.172657],"type":"Point"}
+  "bbox": [
+    -93.30724,
+    33.172657,
+    -93.30724,
+    33.172657
+],
+  "geometry": {"coordinates":[-93.30723999999999,33.172657],"type":"Point"}
 }

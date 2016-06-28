@@ -2,13 +2,14 @@
   "id": 219928699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.456703,36.422306,-94.456703,36.422306",
     "geom:latitude":36.422306,
     "geom:longitude":-94.456703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 W Highway 72",
     "sg:city":"Gravette",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219928699,
-    "wof:lastmodified":1449073417,
+    "wof:lastmodified":1466325155,
     "wof:name":"Alive Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.456703,36.422306,-94.456703,36.422306],
+  "bbox": [
+    -94.456703,
+    36.422306,
+    -94.456703,
+    36.422306
+],
   "geometry": {"coordinates":[-94.456703,36.422306],"type":"Point"}
 }

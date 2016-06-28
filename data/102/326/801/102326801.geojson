@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102326801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.042234,35.568873,-90.042234,35.568873",
     "geom:latitude":35.568873,
     "geom:longitude":-90.042234,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Park St",
     "sg:city":"Wilson",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102326801,
-    "wof:lastmodified":1449068786,
+    "wof:lastmodified":1466323676,
     "wof:name":"American State Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.042234,35.568873,-90.042234,35.568873],
-  "geometry": {"coordinates":[-90.042234,35.568873],"type":"Point"}
+  "bbox": [
+    -90.042234,
+    35.568873,
+    -90.042234,
+    35.568873
+],
+  "geometry": {"coordinates":[-90.04223399999999,35.568873],"type":"Point"}
 }

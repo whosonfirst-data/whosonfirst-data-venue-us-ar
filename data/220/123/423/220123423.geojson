@@ -2,13 +2,14 @@
   "id": 220123423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.839168,35.496301,-93.839168,35.496301",
     "geom:latitude":35.496301,
     "geom:longitude":-93.839168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 N 14th St",
     "sg:city":"Ozark",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220123423,
-    "wof:lastmodified":1449074253,
+    "wof:lastmodified":1466322656,
     "wof:name":"Sunshine Apts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-93.839168,35.496301,-93.839168,35.496301],
+  "bbox": [
+    -93.839168,
+    35.496301,
+    -93.839168,
+    35.496301
+],
   "geometry": {"coordinates":[-93.839168,35.496301],"type":"Point"}
 }

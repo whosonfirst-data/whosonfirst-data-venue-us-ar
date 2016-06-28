@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102347741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.550168,36.495741,-91.550168,36.495741",
     "geom:latitude":36.495741,
     "geom:longitude":-91.550168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1075 Main St",
     "sg:city":"Mammoth Spring",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102347741,
-    "wof:lastmodified":1449068928,
+    "wof:lastmodified":1466324074,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.550168,36.495741,-91.550168,36.495741],
+  "bbox": [
+    -91.550168,
+    36.495741,
+    -91.550168,
+    36.495741
+],
   "geometry": {"coordinates":[-91.550168,36.495741],"type":"Point"}
 }

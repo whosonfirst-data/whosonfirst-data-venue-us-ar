@@ -2,13 +2,14 @@
   "id": 220107811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.374491,35.554644,-94.374491,35.554644",
     "geom:latitude":35.554644,
     "geom:longitude":-94.374491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8941 N Highway 59",
     "sg:city":"Cedarville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220107811,
-    "wof:lastmodified":1449074066,
+    "wof:lastmodified":1466322347,
     "wof:name":"Cedarville Waterworks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-94.374491,35.554644,-94.374491,35.554644],
-  "geometry": {"coordinates":[-94.374491,35.554644],"type":"Point"}
+  "bbox": [
+    -94.374491,
+    35.554644,
+    -94.374491,
+    35.554644
+],
+  "geometry": {"coordinates":[-94.37449100000001,35.554644],"type":"Point"}
 }

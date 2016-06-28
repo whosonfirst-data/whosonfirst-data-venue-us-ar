@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102235087",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.165776,36.071111,-94.165776,36.071111",
     "geom:latitude":36.071111,
     "geom:longitude":-94.165776,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"414 W Ila St",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885453,
+        85688549,
         85633793,
         85919609,
         102082007,
-        85688549
+        85885453
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102235087",
-    "wof:lastmodified":1449068225,
+    "wof:lastmodified":1466321458,
     "wof:name":"Reading Clinic",
     "wof:parent_id":85885453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.165776,36.071111,-94.165776,36.071111],
-  "geometry": {"coordinates":[-94.165776,36.071111],"type":"Point"}
+  "bbox": [
+    -94.165776,
+    36.071111,
+    -94.165776,
+    36.071111
+],
+  "geometry": {"coordinates":[-94.16577599999999,36.071111],"type":"Point"}
 }

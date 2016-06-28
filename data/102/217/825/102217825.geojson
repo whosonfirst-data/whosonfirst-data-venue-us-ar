@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102217825",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.24089,34.755499,-92.24089,34.755499",
     "geom:latitude":34.755499,
     "geom:longitude":-92.24089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2323 E Broadway St",
     "sg:city":"N Little Rock",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102217825",
-    "wof:lastmodified":1449070045,
+    "wof:lastmodified":1466321177,
     "wof:name":"Purvis Bearing Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.24089,34.755499,-92.24089,34.755499],
-  "geometry": {"coordinates":[-92.24089,34.755499],"type":"Point"}
+  "bbox": [
+    -92.24089,
+    34.755499,
+    -92.24089,
+    34.755499
+],
+  "geometry": {"coordinates":[-92.24088999999999,34.755499],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220069193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.103616,35.282469,-93.103616,35.282469",
     "geom:latitude":35.282469,
     "geom:longitude":-93.103616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2600 E Parkway Dr Suite D",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -74,10 +75,11 @@
         }
     ],
     "wof:id":220069193,
-    "wof:lastmodified":1449074560,
+    "wof:lastmodified":1466321313,
     "wof:name":"Edward Jones - KYLE D SCOTT",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -96,6 +98,11 @@
         "stock"
     ]
 },
-  "bbox": [-93.103616,35.282469,-93.103616,35.282469],
+  "bbox": [
+    -93.103616,
+    35.282469,
+    -93.103616,
+    35.282469
+],
   "geometry": {"coordinates":[-93.103616,35.282469],"type":"Point"}
 }

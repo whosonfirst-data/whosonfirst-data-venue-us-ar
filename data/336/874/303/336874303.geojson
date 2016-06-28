@@ -2,13 +2,14 @@
   "id": 336874303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.484676,35.978206,-94.484676,35.978206",
     "geom:latitude":35.978206,
     "geom:longitude":-94.484676,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22055 US Hwy 62 Scn",
     "sg:city":"Summers",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":336874303,
-    "wof:lastmodified":1448997940,
+    "wof:lastmodified":1466320457,
     "wof:name":"Summers Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.484676,35.978206,-94.484676,35.978206],
-  "geometry": {"coordinates":[-94.484676,35.978206],"type":"Point"}
+  "bbox": [
+    -94.484676,
+    35.978206,
+    -94.484676,
+    35.978206
+],
+  "geometry": {"coordinates":[-94.48467599999999,35.978206],"type":"Point"}
 }

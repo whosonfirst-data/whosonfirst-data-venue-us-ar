@@ -2,13 +2,14 @@
   "id": 219435893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.089351,34.891685,-92.089351,34.891685",
     "geom:latitude":34.891685,
     "geom:longitude":-92.089351,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2809 Gray Fox Ln",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219435893,
-    "wof:lastmodified":1449073595,
+    "wof:lastmodified":1466323165,
     "wof:name":"Joan Zumwalt Family Foundation",
     "wof:parent_id":85852337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "research"
     ]
 },
-  "bbox": [-92.089351,34.891685,-92.089351,34.891685],
-  "geometry": {"coordinates":[-92.089351,34.891685],"type":"Point"}
+  "bbox": [
+    -92.089351,
+    34.891685,
+    -92.089351,
+    34.891685
+],
+  "geometry": {"coordinates":[-92.08935099999999,34.891685],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219358367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.48912,34.596867,-92.48912,34.596867",
     "geom:latitude":34.596867,
     "geom:longitude":-92.48912,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 NW 3rd St",
     "sg:city":"Bryant",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":219358367,
-    "wof:lastmodified":1449071870,
+    "wof:lastmodified":1466322367,
     "wof:name":"Stonebridge Shopping Center",
     "wof:parent_id":85844395,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mall"
     ]
 },
-  "bbox": [-92.48912,34.596867,-92.48912,34.596867],
+  "bbox": [
+    -92.48912,
+    34.596867,
+    -92.48912,
+    34.596867
+],
   "geometry": {"coordinates":[-92.48912,34.596867],"type":"Point"}
 }

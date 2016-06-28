@@ -2,13 +2,14 @@
   "id": 320422735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.629349,35.241124,-94.629349,35.241124",
     "geom:latitude":35.241124,
     "geom:longitude":-94.629349,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 W Broadway",
     "sg:city":"Muldrow",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320422735,
-    "wof:lastmodified":1449011506,
+    "wof:lastmodified":1466320540,
     "wof:name":"Muldrow High School",
     "wof:parent_id":85809847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.629349,35.241124,-94.629349,35.241124],
+  "bbox": [
+    -94.629349,
+    35.241124,
+    -94.629349,
+    35.241124
+],
   "geometry": {"coordinates":[-94.629349,35.241124],"type":"Point"}
 }

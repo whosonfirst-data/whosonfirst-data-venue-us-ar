@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102362965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.635004,35.769652,-91.635004,35.769652",
     "geom:latitude":35.769652,
     "geom:longitude":-91.635004,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1695 Harrison St",
     "sg:city":"Batesville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85808231,
+        85688549,
         85633793,
         85920683,
         102083875,
-        85688549
+        85808231
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102362965,
-    "wof:lastmodified":1449069327,
+    "wof:lastmodified":1466324370,
     "wof:name":"Batesville Neurotsychiatry",
     "wof:parent_id":85808231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.635004,35.769652,-91.635004,35.769652],
+  "bbox": [
+    -91.635004,
+    35.769652,
+    -91.635004,
+    35.769652
+],
   "geometry": {"coordinates":[-91.635004,35.769652],"type":"Point"}
 }

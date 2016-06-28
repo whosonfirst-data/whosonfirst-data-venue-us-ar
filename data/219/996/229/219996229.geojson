@@ -2,13 +2,14 @@
   "id": 219996229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.177142,36.291665,-94.177142,36.291665",
     "geom:latitude":36.291665,
     "geom:longitude":-94.177142,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4407 Hillside Dr",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219996229,
-    "wof:lastmodified":1449071345,
+    "wof:lastmodified":1466325250,
     "wof:name":"Maletto Living Trust",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trust"
     ]
 },
-  "bbox": [-94.177142,36.291665,-94.177142,36.291665],
+  "bbox": [
+    -94.177142,
+    36.291665,
+    -94.177142,
+    36.291665
+],
   "geometry": {"coordinates":[-94.177142,36.291665],"type":"Point"}
 }

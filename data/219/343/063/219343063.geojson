@@ -2,13 +2,14 @@
   "id": 219343063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.541889,34.49774,-92.541889,34.49774",
     "geom:latitude":34.49774,
     "geom:longitude":-92.541889,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8701 Friendship Rd",
     "sg:city":"Benton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219343063,
-    "wof:lastmodified":1449072904,
+    "wof:lastmodified":1466322151,
     "wof:name":"Tractors & More Inc",
     "wof:parent_id":85844395,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "tractor"
     ]
 },
-  "bbox": [-92.541889,34.49774,-92.541889,34.49774],
+  "bbox": [
+    -92.541889,
+    34.49774,
+    -92.541889,
+    34.49774
+],
   "geometry": {"coordinates":[-92.541889,34.49774],"type":"Point"}
 }

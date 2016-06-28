@@ -2,13 +2,14 @@
   "id": 219501193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.222719,35.38128,-92.222719,35.38128",
     "geom:latitude":35.38128,
     "geom:longitude":-92.222719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Damascus Rd",
     "sg:city":"Quitman",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219501193,
-    "wof:lastmodified":1449073950,
+    "wof:lastmodified":1466323954,
     "wof:name":"Diamond W Monogramming",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "embroidery"
     ]
 },
-  "bbox": [-92.222719,35.38128,-92.222719,35.38128],
+  "bbox": [
+    -92.222719,
+    35.38128,
+    -92.222719,
+    35.38128
+],
   "geometry": {"coordinates":[-92.222719,35.38128],"type":"Point"}
 }

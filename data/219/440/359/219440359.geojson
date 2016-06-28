@@ -2,13 +2,14 @@
   "id": 219440359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.073919,34.851854,-92.073919,34.851854",
     "geom:latitude":34.851854,
     "geom:longitude":-92.073919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5809 Arkansas Highway 294",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -67,10 +68,11 @@
         }
     ],
     "wof:id":219440359,
-    "wof:lastmodified":1449071635,
+    "wof:lastmodified":1466323248,
     "wof:name":"Jim's Auto Salvage",
     "wof:parent_id":85811577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -83,6 +85,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-92.073919,34.851854,-92.073919,34.851854],
+  "bbox": [
+    -92.073919,
+    34.851854,
+    -92.073919,
+    34.851854
+],
   "geometry": {"coordinates":[-92.073919,34.851854],"type":"Point"}
 }

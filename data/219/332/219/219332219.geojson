@@ -2,13 +2,14 @@
   "id": 219332219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.019808,35.060727,-92.019808,35.060727",
     "geom:latitude":35.060727,
     "geom:longitude":-92.019808,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"44 Sandy Ln",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219332219,
-    "wof:lastmodified":1449072337,
+    "wof:lastmodified":1466322019,
     "wof:name":"Carpet And More",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-92.019808,35.060727,-92.019808,35.060727],
+  "bbox": [
+    -92.019808,
+    35.060727,
+    -92.019808,
+    35.060727
+],
   "geometry": {"coordinates":[-92.019808,35.060727],"type":"Point"}
 }

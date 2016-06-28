@@ -2,13 +2,14 @@
   "id": 219504305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.554039,34.916993,-92.554039,34.916993",
     "geom:latitude":34.916993,
     "geom:longitude":-92.554039,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29300 Highway 300",
     "sg:city":"Roland",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":219504305,
-    "wof:lastmodified":1449071008,
+    "wof:lastmodified":1466323978,
     "wof:name":"An Enchanting Evening L L C",
     "wof:parent_id":85847659,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "wedding"
     ]
 },
-  "bbox": [-92.554039,34.916993,-92.554039,34.916993],
+  "bbox": [
+    -92.554039,
+    34.916993,
+    -92.554039,
+    34.916993
+],
   "geometry": {"coordinates":[-92.554039,34.916993],"type":"Point"}
 }

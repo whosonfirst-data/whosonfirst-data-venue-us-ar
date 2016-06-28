@@ -2,13 +2,14 @@
   "id": 219863599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.212908,36.078578,-94.212908,36.078578",
     "geom:latitude":36.078578,
     "geom:longitude":-94.212908,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3641 W Wedington Dr",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":219863599,
-    "wof:lastmodified":1449072831,
+    "wof:lastmodified":1466325048,
     "wof:name":"Ozarks Electric Cooperative Corporation",
     "wof:parent_id":85885447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment-testing"
     ]
 },
-  "bbox": [-94.212908,36.078578,-94.212908,36.078578],
+  "bbox": [
+    -94.212908,
+    36.078578,
+    -94.212908,
+    36.078578
+],
   "geometry": {"coordinates":[-94.212908,36.078578],"type":"Point"}
 }

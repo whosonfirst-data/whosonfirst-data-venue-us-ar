@@ -2,13 +2,14 @@
   "id": 219463189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.822964,34.370683,-92.822964,34.370683",
     "geom:latitude":34.370683,
     "geom:longitude":-92.822964,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1019 Henry St",
     "sg:city":"Malvern",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219463189,
-    "wof:lastmodified":1449072845,
+    "wof:lastmodified":1466323494,
     "wof:name":"B & W Body Works Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "restoration-antique"
     ]
 },
-  "bbox": [-92.822964,34.370683,-92.822964,34.370683],
+  "bbox": [
+    -92.822964,
+    34.370683,
+    -92.822964,
+    34.370683
+],
   "geometry": {"coordinates":[-92.822964,34.370683],"type":"Point"}
 }

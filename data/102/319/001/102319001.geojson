@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102319001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.531697,36.383129,-92.531697,36.383129",
     "geom:latitude":36.383129,
     "geom:longitude":-92.531697,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 Coon Ridge Rd",
     "sg:city":"Lakeview",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102319001,
-    "wof:lastmodified":1449068754,
+    "wof:lastmodified":1466324504,
     "wof:name":"Zeppelin Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.531697,36.383129,-92.531697,36.383129],
-  "geometry": {"coordinates":[-92.531697,36.383129],"type":"Point"}
+  "bbox": [
+    -92.531697,
+    36.383129,
+    -92.531697,
+    36.383129
+],
+  "geometry": {"coordinates":[-92.53169699999999,36.383129],"type":"Point"}
 }

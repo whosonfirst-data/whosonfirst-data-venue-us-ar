@@ -2,13 +2,14 @@
   "id": 219559341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.25944,35.019391,-92.25944,35.019391",
     "geom:latitude":35.019391,
     "geom:longitude":-92.25944,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"514 Beryl Rd S",
     "sg:city":"Vilonia",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219559341,
-    "wof:lastmodified":1449073160,
+    "wof:lastmodified":1466324398,
     "wof:name":"Saltillo Sporting Goods",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.25944,35.019391,-92.25944,35.019391],
+  "bbox": [
+    -92.25944,
+    35.019391,
+    -92.25944,
+    35.019391
+],
   "geometry": {"coordinates":[-92.25944,35.019391],"type":"Point"}
 }

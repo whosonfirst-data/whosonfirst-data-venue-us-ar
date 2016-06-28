@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102421887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.301165,34.757682,-92.301165,34.757682",
     "geom:latitude":34.757682,
     "geom:longitude":-92.301165,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2402 Cantrell Rd",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85843255,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85843255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102421887,
-    "wof:lastmodified":1449069294,
+    "wof:lastmodified":1466325479,
     "wof:name":"BHT Investments Co",
     "wof:parent_id":85843255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.301165,34.757682,-92.301165,34.757682],
+  "bbox": [
+    -92.301165,
+    34.757682,
+    -92.301165,
+    34.757682
+],
   "geometry": {"coordinates":[-92.301165,34.757682],"type":"Point"}
 }

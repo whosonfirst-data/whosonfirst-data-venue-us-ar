@@ -2,13 +2,14 @@
   "id": 220072141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.76137,35.436607,-93.76137,35.436607",
     "geom:latitude":35.436607,
     "geom:longitude":-93.76137,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18 E College St",
     "sg:city":"Altus",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":220072141,
-    "wof:lastmodified":1449074468,
+    "wof:lastmodified":1466321405,
     "wof:name":"Altus High School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.76137,35.436607,-93.76137,35.436607],
+  "bbox": [
+    -93.76137,
+    35.436607,
+    -93.76137,
+    35.436607
+],
   "geometry": {"coordinates":[-93.76137,35.436607],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219259443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.042,33.42421,-94.042,33.42421",
     "geom:latitude":33.42421,
     "geom:longitude":-94.042,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 Wood St",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219259443,
-    "wof:lastmodified":1449071198,
+    "wof:lastmodified":1466321403,
     "wof:name":"Trailways Bus Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "line"
     ]
 },
-  "bbox": [-94.042,33.42421,-94.042,33.42421],
+  "bbox": [
+    -94.042,
+    33.42421,
+    -94.042,
+    33.42421
+],
   "geometry": {"coordinates":[-94.042,33.42421],"type":"Point"}
 }

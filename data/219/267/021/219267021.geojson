@@ -2,13 +2,14 @@
   "id": 219267021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.030212,33.41453,-94.030212,33.41453",
     "geom:latitude":33.41453,
     "geom:longitude":-94.030212,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"702 East St",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219267021,
-    "wof:lastmodified":1449073598,
+    "wof:lastmodified":1466321460,
     "wof:name":"Cajun Crawfish & Seafood",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "market"
     ]
 },
-  "bbox": [-94.030212,33.41453,-94.030212,33.41453],
-  "geometry": {"coordinates":[-94.030212,33.41453],"type":"Point"}
+  "bbox": [
+    -94.030212,
+    33.41453,
+    -94.030212,
+    33.41453
+],
+  "geometry": {"coordinates":[-94.03021200000001,33.41453],"type":"Point"}
 }

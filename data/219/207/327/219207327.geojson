@@ -2,13 +2,14 @@
   "id": 219207327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.176644,33.226512,-93.176644,33.226512",
     "geom:latitude":33.226512,
     "geom:longitude":-93.176644,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1800 Columbia Road 11 E",
     "sg:city":"Magnolia",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219207327,
-    "wof:lastmodified":1449072861,
+    "wof:lastmodified":1466320932,
     "wof:name":"Tocho Morales Lawn Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-93.176644,33.226512,-93.176644,33.226512],
+  "bbox": [
+    -93.176644,
+    33.226512,
+    -93.176644,
+    33.226512
+],
   "geometry": {"coordinates":[-93.176644,33.226512],"type":"Point"}
 }

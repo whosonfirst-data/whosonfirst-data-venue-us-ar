@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102410729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.248826,34.753637,-92.248826,34.753637",
     "geom:latitude":34.753637,
     "geom:longitude":-92.248826,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1650 E Washington Ave",
     "sg:city":"North Little Rock",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102082497,
-        85633793,
         85688549,
-        85878757
+        85633793,
+        85878757,
+        102082497
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102410729,
-    "wof:lastmodified":1449067794,
+    "wof:lastmodified":1466325163,
     "wof:name":"American Bldrs & Contrs Sup Co",
     "wof:parent_id":85878757,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.248826,34.753637,-92.248826,34.753637],
-  "geometry": {"coordinates":[-92.248826,34.753637],"type":"Point"}
+  "bbox": [
+    -92.248826,
+    34.753637,
+    -92.248826,
+    34.753637
+],
+  "geometry": {"coordinates":[-92.24882599999999,34.753637],"type":"Point"}
 }

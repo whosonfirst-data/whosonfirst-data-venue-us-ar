@@ -2,13 +2,14 @@
   "id": 219491241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.223006,34.889286,-92.223006,34.889286",
     "geom:latitude":34.889286,
     "geom:longitude":-92.223006,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Cinnamon Dr",
     "sg:city":"Sherwood",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219491241,
-    "wof:lastmodified":1449070327,
+    "wof:lastmodified":1466323865,
     "wof:name":"Gravel Ridge Jewelry",
     "wof:parent_id":85837729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "stone"
     ]
 },
-  "bbox": [-92.223006,34.889286,-92.223006,34.889286],
+  "bbox": [
+    -92.223006,
+    34.889286,
+    -92.223006,
+    34.889286
+],
   "geometry": {"coordinates":[-92.223006,34.889286],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102432119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.090778,34.852137,-92.090778,34.852137",
     "geom:latitude":34.852137,
     "geom:longitude":-92.090778,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2101 Old Military Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102432119,
-    "wof:lastmodified":1449067729,
+    "wof:lastmodified":1466325635,
     "wof:name":"Military Rd Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.090778,34.852137,-92.090778,34.852137],
+  "bbox": [
+    -92.090778,
+    34.852137,
+    -92.090778,
+    34.852137
+],
   "geometry": {"coordinates":[-92.090778,34.852137],"type":"Point"}
 }

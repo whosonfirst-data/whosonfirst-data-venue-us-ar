@@ -2,13 +2,14 @@
   "id": 219242231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.154289,33.962141,-94.154289,33.962141",
     "geom:latitude":33.962141,
     "geom:longitude":-94.154289,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 Darter Cir",
     "sg:city":"Lockesburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219242231,
-    "wof:lastmodified":1449073505,
+    "wof:lastmodified":1466321274,
     "wof:name":"Lockesburg Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "elementary"
     ]
 },
-  "bbox": [-94.154289,33.962141,-94.154289,33.962141],
-  "geometry": {"coordinates":[-94.154289,33.962141],"type":"Point"}
+  "bbox": [
+    -94.154289,
+    33.962141,
+    -94.154289,
+    33.962141
+],
+  "geometry": {"coordinates":[-94.15428900000001,33.962141],"type":"Point"}
 }

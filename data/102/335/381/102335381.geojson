@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102335381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.088175,34.874509,-92.088175,34.874509",
     "geom:latitude":34.874509,
     "geom:longitude":-92.088175,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"513 N J P Wright Loop Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102335381,
-    "wof:lastmodified":1449069366,
+    "wof:lastmodified":1466323737,
     "wof:name":"Magic Lube",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.088175,34.874509,-92.088175,34.874509],
-  "geometry": {"coordinates":[-92.088175,34.874509],"type":"Point"}
+  "bbox": [
+    -92.088175,
+    34.874509,
+    -92.088175,
+    34.874509
+],
+  "geometry": {"coordinates":[-92.08817500000001,34.874509],"type":"Point"}
 }

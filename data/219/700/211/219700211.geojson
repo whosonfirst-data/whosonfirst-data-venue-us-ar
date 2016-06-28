@@ -2,13 +2,14 @@
   "id": 219700211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.419796,36.052491,-90.419796,36.052491",
     "geom:latitude":36.052491,
     "geom:longitude":-90.419796,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4750 Highway 412 E",
     "sg:city":"Paragould",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219700211,
-    "wof:lastmodified":1449073607,
+    "wof:lastmodified":1466324758,
     "wof:name":"Coffman Cemetary Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cemetery"
     ]
 },
-  "bbox": [-90.419796,36.052491,-90.419796,36.052491],
-  "geometry": {"coordinates":[-90.419796,36.052491],"type":"Point"}
+  "bbox": [
+    -90.419796,
+    36.052491,
+    -90.419796,
+    36.052491
+],
+  "geometry": {"coordinates":[-90.41979600000001,36.052491],"type":"Point"}
 }

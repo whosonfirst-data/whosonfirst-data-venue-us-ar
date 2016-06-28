@@ -2,13 +2,14 @@
   "id": 219490635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.197428,34.834719,-92.197428,34.834719",
     "geom:latitude":34.834719,
     "geom:longitude":-92.197428,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"304 Calloway Ave",
     "sg:city":"Sherwood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219490635,
-    "wof:lastmodified":1449073563,
+    "wof:lastmodified":1466323856,
     "wof:name":"Rowley, Lofton",
     "wof:parent_id":85837729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucks-industrial"
     ]
 },
-  "bbox": [-92.197428,34.834719,-92.197428,34.834719],
+  "bbox": [
+    -92.197428,
+    34.834719,
+    -92.197428,
+    34.834719
+],
   "geometry": {"coordinates":[-92.197428,34.834719],"type":"Point"}
 }

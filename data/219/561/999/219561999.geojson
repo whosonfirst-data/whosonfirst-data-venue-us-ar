@@ -2,13 +2,14 @@
   "id": 219561999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.212414,35.11096,-92.212414,35.11096",
     "geom:latitude":35.11096,
     "geom:longitude":-92.212414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"234 Simpson Rd",
     "sg:city":"Vilonia",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219561999,
-    "wof:lastmodified":1449072904,
+    "wof:lastmodified":1466324414,
     "wof:name":"Eleanor White",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ranch"
     ]
 },
-  "bbox": [-92.212414,35.11096,-92.212414,35.11096],
+  "bbox": [
+    -92.212414,
+    35.11096,
+    -92.212414,
+    35.11096
+],
   "geometry": {"coordinates":[-92.212414,35.11096],"type":"Point"}
 }

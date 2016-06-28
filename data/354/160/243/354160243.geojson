@@ -2,13 +2,14 @@
   "id": 354160243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.855364,36.638954,-94.855364,36.638954",
     "geom:latitude":36.638954,
     "geom:longitude":-94.855364,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26354 S 570 Rd",
     "sg:city":"Afton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354160243,
-    "wof:lastmodified":1449067378,
+    "wof:lastmodified":1466324515,
     "wof:name":"Roger's Dock Repair",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dock"
     ]
 },
-  "bbox": [-94.855364,36.638954,-94.855364,36.638954],
-  "geometry": {"coordinates":[-94.855364,36.638954],"type":"Point"}
+  "bbox": [
+    -94.855364,
+    36.638954,
+    -94.855364,
+    36.638954
+],
+  "geometry": {"coordinates":[-94.85536399999999,36.638954],"type":"Point"}
 }

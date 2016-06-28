@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102224317",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.220464,34.789424,-92.220464,34.789424",
     "geom:latitude":34.789424,
     "geom:longitude":-92.220464,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4227 E McCain Blvd",
     "sg:city":"N Little Rock",
     "sg:classifiers":[
@@ -35,11 +36,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852263,
+        85688549,
         85633793,
         85921255,
         102082497,
-        85688549
+        85852263
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":"102224317",
-    "wof:lastmodified":1449069562,
+    "wof:lastmodified":1466321240,
     "wof:name":"Leslies Swimming Pool Supplies",
     "wof:parent_id":85852263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.220464,34.789424,-92.220464,34.789424],
-  "geometry": {"coordinates":[-92.220464,34.789424],"type":"Point"}
+  "bbox": [
+    -92.220464,
+    34.789424,
+    -92.220464,
+    34.789424
+],
+  "geometry": {"coordinates":[-92.22046400000001,34.789424],"type":"Point"}
 }

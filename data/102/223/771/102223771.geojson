@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102223771",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.371124,34.3331,-94.371124,34.3331",
     "geom:latitude":34.3331,
     "geom:longitude":-94.371124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7532 US Hwy 71",
     "sg:city":"Wickes",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":"102223771",
-    "wof:lastmodified":1449067953,
+    "wof:lastmodified":1466321312,
     "wof:name":"White House Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.371124,34.3331,-94.371124,34.3331],
-  "geometry": {"coordinates":[-94.371124,34.3331],"type":"Point"}
+  "bbox": [
+    -94.371124,
+    34.3331,
+    -94.371124,
+    34.3331
+],
+  "geometry": {"coordinates":[-94.37112399999999,34.3331],"type":"Point"}
 }

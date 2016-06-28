@@ -2,13 +2,14 @@
   "id": 219588947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.588458,34.52834,-90.588458,34.52834",
     "geom:latitude":34.52834,
     "geom:longitude":-90.588458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"622 Pecan",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219588947,
-    "wof:lastmodified":1449073239,
+    "wof:lastmodified":1466324571,
     "wof:name":"Galloway Law Firm",
     "wof:parent_id":85838649,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practice"
     ]
 },
-  "bbox": [-90.588458,34.52834,-90.588458,34.52834],
+  "bbox": [
+    -90.588458,
+    34.52834,
+    -90.588458,
+    34.52834
+],
   "geometry": {"coordinates":[-90.588458,34.52834],"type":"Point"}
 }

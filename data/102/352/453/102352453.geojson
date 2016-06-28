@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102352453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.218634,35.476812,-94.218634,35.476812",
     "geom:latitude":35.476812,
     "geom:longitude":-94.218634,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 E Main St",
     "sg:city":"Alma",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102352453,
-    "wof:lastmodified":1449069238,
+    "wof:lastmodified":1466324059,
     "wof:name":"Alma High School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.218634,35.476812,-94.218634,35.476812],
-  "geometry": {"coordinates":[-94.218634,35.476812],"type":"Point"}
+  "bbox": [
+    -94.218634,
+    35.476812,
+    -94.218634,
+    35.476812
+],
+  "geometry": {"coordinates":[-94.21863399999999,35.476812],"type":"Point"}
 }

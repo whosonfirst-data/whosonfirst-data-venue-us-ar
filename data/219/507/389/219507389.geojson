@@ -2,13 +2,14 @@
   "id": 219507389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.09723,34.683921,-92.09723,34.683921",
     "geom:latitude":34.683921,
     "geom:longitude":-92.09723,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6115 Highway 161 S",
     "sg:city":"Scott",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219507389,
-    "wof:lastmodified":1449072198,
+    "wof:lastmodified":1466324007,
     "wof:name":"Lili Media Company",
     "wof:parent_id":85811577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.09723,34.683921,-92.09723,34.683921],
+  "bbox": [
+    -92.09723,
+    34.683921,
+    -92.09723,
+    34.683921
+],
   "geometry": {"coordinates":[-92.09723,34.683921],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102365803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.434531,33.526226,-91.434531,33.526226",
     "geom:latitude":33.526226,
     "geom:longitude":-91.434531,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 S Freeman St",
     "sg:city":"Dermott",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102365803,
-    "wof:lastmodified":1449068193,
+    "wof:lastmodified":1466324439,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.434531,33.526226,-91.434531,33.526226],
-  "geometry": {"coordinates":[-91.434531,33.526226],"type":"Point"}
+  "bbox": [
+    -91.434531,
+    33.526226,
+    -91.434531,
+    33.526226
+],
+  "geometry": {"coordinates":[-91.43453100000001,33.526226],"type":"Point"}
 }

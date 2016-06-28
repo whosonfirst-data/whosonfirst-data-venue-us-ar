@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102418979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.676971,35.848259,-90.676971,35.848259",
     "geom:latitude":35.848259,
     "geom:longitude":-90.676971,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 N Caraway Rd",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102418979,
-    "wof:lastmodified":1449069660,
+    "wof:lastmodified":1466325434,
     "wof:name":"Pines",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.676971,35.848259,-90.676971,35.848259],
-  "geometry": {"coordinates":[-90.676971,35.848259],"type":"Point"}
+  "bbox": [
+    -90.676971,
+    35.848259,
+    -90.676971,
+    35.848259
+],
+  "geometry": {"coordinates":[-90.67697099999999,35.848259],"type":"Point"}
 }

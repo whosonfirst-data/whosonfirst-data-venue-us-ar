@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102398689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.390042,36.330661,-93.390042,36.330661",
     "geom:latitude":36.330661,
     "geom:longitude":-93.390042,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"242 Pelican Ln",
     "sg:city":"Green Forest",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102398689,
-    "wof:lastmodified":1449067991,
+    "wof:lastmodified":1466324863,
     "wof:name":"Spencer Bonding Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.390042,36.330661,-93.390042,36.330661],
-  "geometry": {"coordinates":[-93.390042,36.330661],"type":"Point"}
+  "bbox": [
+    -93.390042,
+    36.330661,
+    -93.390042,
+    36.330661
+],
+  "geometry": {"coordinates":[-93.39004199999999,36.330661],"type":"Point"}
 }

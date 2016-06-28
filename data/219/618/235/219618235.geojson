@@ -2,13 +2,14 @@
   "id": 219618235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.755193,35.226124,-90.755193,35.226124",
     "geom:latitude":35.226124,
     "geom:longitude":-90.755193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"32 County Road 7730",
     "sg:city":"Wynne",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219618235,
-    "wof:lastmodified":1449072591,
+    "wof:lastmodified":1466324608,
     "wof:name":"Gordon's Body Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "repairing"
     ]
 },
-  "bbox": [-90.755193,35.226124,-90.755193,35.226124],
-  "geometry": {"coordinates":[-90.755193,35.226124],"type":"Point"}
+  "bbox": [
+    -90.755193,
+    35.226124,
+    -90.755193,
+    35.226124
+],
+  "geometry": {"coordinates":[-90.75519300000001,35.226124],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219736633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.29742,35.827703,-91.29742,35.827703",
     "geom:latitude":35.827703,
     "geom:longitude":-91.29742,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"840 Lower Lockhart Rd",
     "sg:city":"Cord",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":219736633,
-    "wof:lastmodified":1449073872,
+    "wof:lastmodified":1466324839,
     "wof:name":"Kiwanis International, Inc.",
     "wof:parent_id":85808231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "volunteer"
     ]
 },
-  "bbox": [-91.29742,35.827703,-91.29742,35.827703],
+  "bbox": [
+    -91.29742,
+    35.827703,
+    -91.29742,
+    35.827703
+],
   "geometry": {"coordinates":[-91.29742,35.827703],"type":"Point"}
 }

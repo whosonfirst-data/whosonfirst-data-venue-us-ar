@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102401501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.73503,35.832394,-90.73503,35.832394",
     "geom:latitude":35.832394,
     "geom:longitude":-90.73503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2011 Bunker Hill Rd",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102401501,
-    "wof:lastmodified":1449069817,
+    "wof:lastmodified":1466324748,
     "wof:name":"Arkansas Mechanical Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.73503,35.832394,-90.73503,35.832394],
-  "geometry": {"coordinates":[-90.73503,35.832394],"type":"Point"}
+  "bbox": [
+    -90.73503,
+    35.832394,
+    -90.73503,
+    35.832394
+],
+  "geometry": {"coordinates":[-90.73502999999999,35.832394],"type":"Point"}
 }

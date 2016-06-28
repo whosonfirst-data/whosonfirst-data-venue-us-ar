@@ -2,13 +2,14 @@
   "id": 220099007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.238831,35.499694,-94.238831,35.499694",
     "geom:latitude":35.499694,
     "geom:longitude":-94.238831,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1116 Maple Shade Rd",
     "sg:city":"Alma",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":220099007,
-    "wof:lastmodified":1449074579,
+    "wof:lastmodified":1466322200,
     "wof:name":"National Carriers Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "trucking"
     ]
 },
-  "bbox": [-94.238831,35.499694,-94.238831,35.499694],
+  "bbox": [
+    -94.238831,
+    35.499694,
+    -94.238831,
+    35.499694
+],
   "geometry": {"coordinates":[-94.238831,35.499694],"type":"Point"}
 }

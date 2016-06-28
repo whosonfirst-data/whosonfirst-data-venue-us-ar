@@ -2,13 +2,14 @@
   "id": 219516055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.730856,35.246721,-91.730856,35.246721",
     "geom:latitude":35.246721,
     "geom:longitude":-91.730856,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 E Park Ave",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219516055,
-    "wof:lastmodified":1449071066,
+    "wof:lastmodified":1466324074,
     "wof:name":"Olyphant Church Of Christ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-91.730856,35.246721,-91.730856,35.246721],
+  "bbox": [
+    -91.730856,
+    35.246721,
+    -91.730856,
+    35.246721
+],
   "geometry": {"coordinates":[-91.730856,35.246721],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102271495",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.632043,35.780248,-91.632043,35.780248",
     "geom:latitude":35.780248,
     "geom:longitude":-91.632043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1950 Bearette St",
     "sg:city":"Batesville",
     "sg:classifiers":[
@@ -31,10 +32,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102083875,
-        85633793,
         85688549,
-        85845643
+        85633793,
+        85845643,
+        102083875
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102271495",
-    "wof:lastmodified":1449069011,
+    "wof:lastmodified":1466322408,
     "wof:name":"Donald Cooper Properties",
     "wof:parent_id":85845643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.632043,35.780248,-91.632043,35.780248],
+  "bbox": [
+    -91.632043,
+    35.780248,
+    -91.632043,
+    35.780248
+],
   "geometry": {"coordinates":[-91.632043,35.780248],"type":"Point"}
 }

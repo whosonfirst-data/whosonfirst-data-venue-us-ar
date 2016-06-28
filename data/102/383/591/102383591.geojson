@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102383591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.99742,36.207847,-92.99742,36.207847",
     "geom:latitude":36.207847,
     "geom:longitude":-92.99742,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1734 Harding Rd",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102383591,
-    "wof:lastmodified":1449068781,
+    "wof:lastmodified":1466322831,
     "wof:name":"Ozark Electrical Controllers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.99742,36.207847,-92.99742,36.207847],
-  "geometry": {"coordinates":[-92.99742,36.207847],"type":"Point"}
+  "bbox": [
+    -92.99742,
+    36.207847,
+    -92.99742,
+    36.207847
+],
+  "geometry": {"coordinates":[-92.99742000000001,36.207847],"type":"Point"}
 }

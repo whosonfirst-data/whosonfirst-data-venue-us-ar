@@ -2,13 +2,14 @@
   "id": 337557495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.534324,36.17218,-94.534324,36.17218",
     "geom:latitude":36.17218,
     "geom:longitude":-94.534324,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"604 Hwy 412 E",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337557495,
-    "wof:lastmodified":1449027530,
+    "wof:lastmodified":1466324506,
     "wof:name":"Libreria Agua Viva",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dealer"
     ]
 },
-  "bbox": [-94.534324,36.17218,-94.534324,36.17218],
+  "bbox": [
+    -94.534324,
+    36.17218,
+    -94.534324,
+    36.17218
+],
   "geometry": {"coordinates":[-94.534324,36.17218],"type":"Point"}
 }

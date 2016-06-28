@@ -2,13 +2,14 @@
   "id": 219846945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.151137,36.114052,-94.151137,36.114052",
     "geom:latitude":36.114052,
     "geom:longitude":-94.151137,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"361 E Millsap Rd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219846945,
-    "wof:lastmodified":1449073139,
+    "wof:lastmodified":1466325026,
     "wof:name":"Northwest Arkansas Medical Imaging, Inc",
     "wof:parent_id":85885431,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-94.151137,36.114052,-94.151137,36.114052],
-  "geometry": {"coordinates":[-94.151137,36.114052],"type":"Point"}
+  "bbox": [
+    -94.151137,
+    36.114052,
+    -94.151137,
+    36.114052
+],
+  "geometry": {"coordinates":[-94.15113700000001,36.114052],"type":"Point"}
 }

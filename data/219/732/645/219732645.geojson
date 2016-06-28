@@ -2,13 +2,14 @@
   "id": 219732645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.780418,35.791359,-91.780418,35.791359",
     "geom:latitude":35.791359,
     "geom:longitude":-91.780418,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6199 Bethesda Ln",
     "sg:city":"Batesville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219732645,
-    "wof:lastmodified":1449074042,
+    "wof:lastmodified":1466324977,
     "wof:name":"D & L Mitchell Trucking, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "trucking"
     ]
 },
-  "bbox": [-91.780418,35.791359,-91.780418,35.791359],
+  "bbox": [
+    -91.780418,
+    35.791359,
+    -91.780418,
+    35.791359
+],
   "geometry": {"coordinates":[-91.780418,35.791359],"type":"Point"}
 }

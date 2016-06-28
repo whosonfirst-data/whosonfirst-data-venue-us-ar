@@ -2,13 +2,14 @@
   "id": 219680839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.511002,36.055939,-90.511002,36.055939",
     "geom:latitude":36.055939,
     "geom:longitude":-90.511002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1701 Paragould Plz",
     "sg:city":"Paragould",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":219680839,
-    "wof:lastmodified":1449072868,
+    "wof:lastmodified":1466324622,
     "wof:name":"Hays 9",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocers-specialty"
     ]
 },
-  "bbox": [-90.511002,36.055939,-90.511002,36.055939],
+  "bbox": [
+    -90.511002,
+    36.055939,
+    -90.511002,
+    36.055939
+],
   "geometry": {"coordinates":[-90.511002,36.055939],"type":"Point"}
 }

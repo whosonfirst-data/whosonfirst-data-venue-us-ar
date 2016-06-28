@@ -2,13 +2,14 @@
   "id": 219827129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.190362,36.055145,-94.190362,36.055145",
     "geom:latitude":36.055145,
     "geom:longitude":-94.190362,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2179 W Martin Luther King Blvd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219827129,
-    "wof:lastmodified":1449071656,
+    "wof:lastmodified":1466324990,
     "wof:name":"Awood Floorcare Service",
     "wof:parent_id":85885441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "machine"
     ]
 },
-  "bbox": [-94.190362,36.055145,-94.190362,36.055145],
-  "geometry": {"coordinates":[-94.190362,36.055145],"type":"Point"}
+  "bbox": [
+    -94.190362,
+    36.055145,
+    -94.190362,
+    36.055145
+],
+  "geometry": {"coordinates":[-94.19036199999999,36.055145],"type":"Point"}
 }

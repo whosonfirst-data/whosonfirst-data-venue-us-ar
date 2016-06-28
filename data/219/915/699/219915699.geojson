@@ -2,13 +2,14 @@
   "id": 219915699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.276749,36.014011,-94.276749,36.014011",
     "geom:latitude":36.014011,
     "geom:longitude":-94.276749,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11833 S Ervan Beeks Rd",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219915699,
-    "wof:lastmodified":1449073874,
+    "wof:lastmodified":1466325128,
     "wof:name":"B&S Davis Trucking Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "trucking"
     ]
 },
-  "bbox": [-94.276749,36.014011,-94.276749,36.014011],
+  "bbox": [
+    -94.276749,
+    36.014011,
+    -94.276749,
+    36.014011
+],
   "geometry": {"coordinates":[-94.276749,36.014011],"type":"Point"}
 }

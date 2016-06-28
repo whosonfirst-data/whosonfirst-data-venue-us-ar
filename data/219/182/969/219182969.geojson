@@ -2,13 +2,14 @@
   "id": 219182969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.064385,33.61391,-92.064385,33.61391",
     "geom:latitude":33.61391,
     "geom:longitude":-92.064385,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 W Cypress St",
     "sg:city":"Warren",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":219182969,
-    "wof:lastmodified":1449072614,
+    "wof:lastmodified":1466320656,
     "wof:name":"Foscue David DR",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "medicine"
     ]
 },
-  "bbox": [-92.064385,33.61391,-92.064385,33.61391],
+  "bbox": [
+    -92.064385,
+    33.61391,
+    -92.064385,
+    33.61391
+],
   "geometry": {"coordinates":[-92.064385,33.61391],"type":"Point"}
 }

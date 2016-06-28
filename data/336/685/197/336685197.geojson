@@ -2,13 +2,14 @@
   "id": 336685197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.396511,36.179602,-94.396511,36.179602",
     "geom:latitude":36.179602,
     "geom:longitude":-94.396511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16164 Old Hwy 68",
     "sg:city":"Elm Springs",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":336685197,
-    "wof:lastmodified":1448997972,
+    "wof:lastmodified":1466324517,
     "wof:name":"Superglass Windshield Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "glass"
     ]
 },
-  "bbox": [-94.396511,36.179602,-94.396511,36.179602],
+  "bbox": [
+    -94.396511,
+    36.179602,
+    -94.396511,
+    36.179602
+],
   "geometry": {"coordinates":[-94.396511,36.179602],"type":"Point"}
 }

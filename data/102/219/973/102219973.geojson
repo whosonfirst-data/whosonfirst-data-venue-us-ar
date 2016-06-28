@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102219973",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.231625,34.842656,-92.231625,34.842656",
     "geom:latitude":34.842656,
     "geom:longitude":-92.231625,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9509 State Hwy 107",
     "sg:city":"Sherwood",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851723,
+        85688549,
         85633793,
         85921251,
         102082497,
-        85688549
+        85851723
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102219973",
-    "wof:lastmodified":1449070114,
+    "wof:lastmodified":1466321249,
     "wof:name":"Gary Keener Family Clinic",
     "wof:parent_id":85851723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.231625,34.842656,-92.231625,34.842656],
-  "geometry": {"coordinates":[-92.231625,34.842656],"type":"Point"}
+  "bbox": [
+    -92.231625,
+    34.842656,
+    -92.231625,
+    34.842656
+],
+  "geometry": {"coordinates":[-92.23162499999999,34.842656],"type":"Point"}
 }

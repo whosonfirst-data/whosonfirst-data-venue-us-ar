@@ -2,13 +2,14 @@
   "id": 220070875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.187766,35.322093,-93.187766,35.322093",
     "geom:latitude":35.322093,
     "geom:longitude":-93.187766,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2018 Dwight Mission Rd",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":220070875,
-    "wof:lastmodified":1449074412,
+    "wof:lastmodified":1466321374,
     "wof:name":"Hilburn Construction",
     "wof:parent_id":85834239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "contractor"
     ]
 },
-  "bbox": [-93.187766,35.322093,-93.187766,35.322093],
+  "bbox": [
+    -93.187766,
+    35.322093,
+    -93.187766,
+    35.322093
+],
   "geometry": {"coordinates":[-93.187766,35.322093],"type":"Point"}
 }

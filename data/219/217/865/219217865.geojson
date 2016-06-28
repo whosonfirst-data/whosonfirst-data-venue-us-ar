@@ -2,13 +2,14 @@
   "id": 219217865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.201684,33.255371,-93.201684,33.255371",
     "geom:latitude":33.255371,
     "geom:longitude":-93.201684,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"610 Columbia Road 405",
     "sg:city":"Magnolia",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219217865,
-    "wof:lastmodified":1449073696,
+    "wof:lastmodified":1466321027,
     "wof:name":"Crump Plumbing & Heating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "contractors-commercial"
     ]
 },
-  "bbox": [-93.201684,33.255371,-93.201684,33.255371],
+  "bbox": [
+    -93.201684,
+    33.255371,
+    -93.201684,
+    33.255371
+],
   "geometry": {"coordinates":[-93.201684,33.255371],"type":"Point"}
 }

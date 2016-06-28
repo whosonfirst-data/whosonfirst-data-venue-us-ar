@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102306959",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.394715,34.789843,-92.394715,34.789843",
     "geom:latitude":34.789843,
     "geom:longitude":-92.394715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11025 Anderson Dr",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858725,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85858725
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102306959",
-    "wof:lastmodified":1449070096,
+    "wof:lastmodified":1466323294,
     "wof:name":"Gary Basket",
     "wof:parent_id":85858725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.394715,34.789843,-92.394715,34.789843],
-  "geometry": {"coordinates":[-92.394715,34.789843],"type":"Point"}
+  "bbox": [
+    -92.394715,
+    34.789843,
+    -92.394715,
+    34.789843
+],
+  "geometry": {"coordinates":[-92.39471500000001,34.789843],"type":"Point"}
 }

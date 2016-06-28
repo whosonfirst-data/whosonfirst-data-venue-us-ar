@@ -2,13 +2,14 @@
   "id": 219443645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.672285,35.283419,-91.672285,35.283419",
     "geom:latitude":35.283419,
     "geom:longitude":-91.672285,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"327 Woodlawn Rd",
     "sg:city":"Judsonia",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219443645,
-    "wof:lastmodified":1449073271,
+    "wof:lastmodified":1466323297,
     "wof:name":"Christopher Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "tanks-treatment"
     ]
 },
-  "bbox": [-91.672285,35.283419,-91.672285,35.283419],
+  "bbox": [
+    -91.672285,
+    35.283419,
+    -91.672285,
+    35.283419
+],
   "geometry": {"coordinates":[-91.672285,35.283419],"type":"Point"}
 }

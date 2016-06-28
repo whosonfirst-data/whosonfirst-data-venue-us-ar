@@ -2,13 +2,14 @@
   "id": 220086607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.974031,35.422773,-92.974031,35.422773",
     "geom:latitude":35.422773,
     "geom:longitude":-92.974031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1011 Rock Springs Loop",
     "sg:city":"Hector",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":220086607,
-    "wof:lastmodified":1449074592,
+    "wof:lastmodified":1466321805,
     "wof:name":"Humane Society of the Greater River Valley",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-92.974031,35.422773,-92.974031,35.422773],
+  "bbox": [
+    -92.974031,
+    35.422773,
+    -92.974031,
+    35.422773
+],
   "geometry": {"coordinates":[-92.974031,35.422773],"type":"Point"}
 }

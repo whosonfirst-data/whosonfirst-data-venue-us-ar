@@ -2,13 +2,14 @@
   "id": 219420875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.39771,35.225772,-92.39771,35.225772",
     "geom:latitude":35.225772,
     "geom:longitude":-92.39771,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Burnett Cir",
     "sg:city":"Greenbrier",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219420875,
-    "wof:lastmodified":1449072082,
+    "wof:lastmodified":1466323027,
     "wof:name":"Jeff Turnbough",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "surgeons"
     ]
 },
-  "bbox": [-92.39771,35.225772,-92.39771,35.225772],
+  "bbox": [
+    -92.39771,
+    35.225772,
+    -92.39771,
+    35.225772
+],
   "geometry": {"coordinates":[-92.39771,35.225772],"type":"Point"}
 }

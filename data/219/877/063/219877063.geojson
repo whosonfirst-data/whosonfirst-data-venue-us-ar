@@ -2,13 +2,14 @@
   "id": 219877063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.210868,36.397252,-94.210868,36.397252",
     "geom:latitude":36.397252,
     "geom:longitude":-94.210868,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"319 Genesis Dr",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219877063,
-    "wof:lastmodified":1449072873,
+    "wof:lastmodified":1466325153,
     "wof:name":"Katrice R Tittle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.210868,36.397252,-94.210868,36.397252],
+  "bbox": [
+    -94.210868,
+    36.397252,
+    -94.210868,
+    36.397252
+],
   "geometry": {"coordinates":[-94.210868,36.397252],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219841567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.150714,36.099664,-94.150714,36.099664",
     "geom:latitude":36.099664,
     "geom:longitude":-94.150714,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2729 N Drake St",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":219841567,
-    "wof:lastmodified":1449071137,
+    "wof:lastmodified":1466325022,
     "wof:name":"Hot Rod Mike's Bar & Grill",
     "wof:parent_id":85885431,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "cocktail"
     ]
 },
-  "bbox": [-94.150714,36.099664,-94.150714,36.099664],
-  "geometry": {"coordinates":[-94.150714,36.099664],"type":"Point"}
+  "bbox": [
+    -94.150714,
+    36.099664,
+    -94.150714,
+    36.099664
+],
+  "geometry": {"coordinates":[-94.15071399999999,36.099664],"type":"Point"}
 }

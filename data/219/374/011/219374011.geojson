@@ -2,13 +2,14 @@
   "id": 219374011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.462213,35.6038,-92.462213,35.6038",
     "geom:latitude":35.6038,
     "geom:longitude":-92.462213,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"241 Hensley St",
     "sg:city":"Clinton",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219374011,
-    "wof:lastmodified":1449071930,
+    "wof:lastmodified":1466322621,
     "wof:name":"Stephenson Oil Company, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "lubricant"
     ]
 },
-  "bbox": [-92.462213,35.6038,-92.462213,35.6038],
-  "geometry": {"coordinates":[-92.462213,35.6038],"type":"Point"}
+  "bbox": [
+    -92.462213,
+    35.6038,
+    -92.462213,
+    35.6038
+],
+  "geometry": {"coordinates":[-92.46221300000001,35.6038],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102356021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.165309,35.145912,-90.165309,35.145912",
     "geom:latitude":35.145912,
     "geom:longitude":-90.165309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"130 S 16th St",
     "sg:city":"West Memphis",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102356021,
-    "wof:lastmodified":1449069741,
+    "wof:lastmodified":1466324131,
     "wof:name":"Primary Learning Academy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.165309,35.145912,-90.165309,35.145912],
-  "geometry": {"coordinates":[-90.165309,35.145912],"type":"Point"}
+  "bbox": [
+    -90.165309,
+    35.145912,
+    -90.165309,
+    35.145912
+],
+  "geometry": {"coordinates":[-90.16530899999999,35.145912],"type":"Point"}
 }

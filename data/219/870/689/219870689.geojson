@@ -2,13 +2,14 @@
   "id": 219870689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.198965,36.335336,-94.198965,36.335336",
     "geom:latitude":36.335336,
     "geom:longitude":-94.198965,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 SE Walton Blvd",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219870689,
-    "wof:lastmodified":1449071331,
+    "wof:lastmodified":1466325053,
     "wof:name":"Johnny Brusco's Pizza",
     "wof:parent_id":85895809,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "italian"
     ]
 },
-  "bbox": [-94.198965,36.335336,-94.198965,36.335336],
+  "bbox": [
+    -94.198965,
+    36.335336,
+    -94.198965,
+    36.335336
+],
   "geometry": {"coordinates":[-94.198965,36.335336],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219519185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.691646,35.252248,-91.691646,35.252248",
     "geom:latitude":35.252248,
     "geom:longitude":-91.691646,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"403 S Poplar St",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -70,10 +71,11 @@
         }
     ],
     "wof:id":219519185,
-    "wof:lastmodified":1449073670,
+    "wof:lastmodified":1466324099,
     "wof:name":"Allstate Insurance Company - Bill Feagin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -85,6 +87,11 @@
         "renter"
     ]
 },
-  "bbox": [-91.691646,35.252248,-91.691646,35.252248],
-  "geometry": {"coordinates":[-91.691646,35.252248],"type":"Point"}
+  "bbox": [
+    -91.691646,
+    35.252248,
+    -91.691646,
+    35.252248
+],
+  "geometry": {"coordinates":[-91.69164600000001,35.252248],"type":"Point"}
 }

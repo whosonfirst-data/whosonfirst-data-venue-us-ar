@@ -2,13 +2,14 @@
   "id": 219772343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.118379,36.271807,-93.118379,36.271807",
     "geom:latitude":36.271807,
     "geom:longitude":-93.118379,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 Estates Dr",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":219772343,
-    "wof:lastmodified":1449071981,
+    "wof:lastmodified":1466324928,
     "wof:name":"Aqity, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "supplies-wholesale"
     ]
 },
-  "bbox": [-93.118379,36.271807,-93.118379,36.271807],
+  "bbox": [
+    -93.118379,
+    36.271807,
+    -93.118379,
+    36.271807
+],
   "geometry": {"coordinates":[-93.118379,36.271807],"type":"Point"}
 }

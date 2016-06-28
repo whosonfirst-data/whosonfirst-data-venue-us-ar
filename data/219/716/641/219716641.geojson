@@ -2,13 +2,14 @@
   "id": 219716641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.254554,36.235353,-91.254554,36.235353",
     "geom:latitude":36.235353,
     "geom:longitude":-91.254554,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"345 S 2nd St Apt 13",
     "sg:city":"Ravenden",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":219716641,
-    "wof:lastmodified":1449070897,
+    "wof:lastmodified":1466324876,
     "wof:name":"Cedar Ridge Apartments, Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "finder"
     ]
 },
-  "bbox": [-91.254554,36.235353,-91.254554,36.235353],
+  "bbox": [
+    -91.254554,
+    36.235353,
+    -91.254554,
+    36.235353
+],
   "geometry": {"coordinates":[-91.254554,36.235353],"type":"Point"}
 }

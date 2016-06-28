@@ -2,13 +2,14 @@
   "id": 219325981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.489762,34.661722,-92.489762,34.661722",
     "geom:latitude":34.661722,
     "geom:longitude":-92.489762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7511 Rudolph Rd",
     "sg:city":"Alexander",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219325981,
-    "wof:lastmodified":1449071774,
+    "wof:lastmodified":1466321948,
     "wof:name":"Ocd Cleaning",
     "wof:parent_id":85817531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "house"
     ]
 },
-  "bbox": [-92.489762,34.661722,-92.489762,34.661722],
+  "bbox": [
+    -92.489762,
+    34.661722,
+    -92.489762,
+    34.661722
+],
   "geometry": {"coordinates":[-92.489762,34.661722],"type":"Point"}
 }

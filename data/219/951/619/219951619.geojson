@@ -2,13 +2,14 @@
   "id": 219951619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.021122,36.323321,-94.021122,36.323321",
     "geom:latitude":36.323321,
     "geom:longitude":-94.021122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16287 Cypress Ln",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219951619,
-    "wof:lastmodified":1449070529,
+    "wof:lastmodified":1466325103,
     "wof:name":"Kimbro's Tree & Lawn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-94.021122,36.323321,-94.021122,36.323321],
-  "geometry": {"coordinates":[-94.021122,36.323321],"type":"Point"}
+  "bbox": [
+    -94.021122,
+    36.323321,
+    -94.021122,
+    36.323321
+],
+  "geometry": {"coordinates":[-94.02112200000001,36.323321],"type":"Point"}
 }

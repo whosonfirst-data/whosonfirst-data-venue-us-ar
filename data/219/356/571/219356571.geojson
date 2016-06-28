@@ -2,13 +2,14 @@
   "id": 219356571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.193151,34.887919,-91.193151,34.887919",
     "geom:latitude":34.887919,
     "geom:longitude":-91.193151,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"127 W Cedar St",
     "sg:city":"Brinkley",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":219356571,
-    "wof:lastmodified":1449073299,
+    "wof:lastmodified":1466322334,
     "wof:name":"Low's Bridal Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "formal"
     ]
 },
-  "bbox": [-91.193151,34.887919,-91.193151,34.887919],
+  "bbox": [
+    -91.193151,
+    34.887919,
+    -91.193151,
+    34.887919
+],
   "geometry": {"coordinates":[-91.193151,34.887919],"type":"Point"}
 }

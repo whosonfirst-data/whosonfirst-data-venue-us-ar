@@ -2,13 +2,14 @@
   "id": 219799687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.577593,36.36293,-92.577593,36.36293",
     "geom:latitude":36.36293,
     "geom:longitude":-92.577593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2737 Powerhouse Pl",
     "sg:city":"Lakeview",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219799687,
-    "wof:lastmodified":1449073936,
+    "wof:lastmodified":1466325024,
     "wof:name":"Bull Shoals Power House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "recruiting"
     ]
 },
-  "bbox": [-92.577593,36.36293,-92.577593,36.36293],
-  "geometry": {"coordinates":[-92.577593,36.36293],"type":"Point"}
+  "bbox": [
+    -92.577593,
+    36.36293,
+    -92.577593,
+    36.36293
+],
+  "geometry": {"coordinates":[-92.57759299999999,36.36293],"type":"Point"}
 }

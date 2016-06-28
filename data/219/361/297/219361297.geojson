@@ -2,13 +2,14 @@
   "id": 219361297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.990168,34.981938,-91.990168,34.981938",
     "geom:latitude":34.981938,
     "geom:longitude":-91.990168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2656 Highway 38",
     "sg:city":"Cabot",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219361297,
-    "wof:lastmodified":1449072973,
+    "wof:lastmodified":1466322423,
     "wof:name":"Independent Manufacturing Company Inc",
     "wof:parent_id":85839277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "equipment"
     ]
 },
-  "bbox": [-91.990168,34.981938,-91.990168,34.981938],
+  "bbox": [
+    -91.990168,
+    34.981938,
+    -91.990168,
+    34.981938
+],
   "geometry": {"coordinates":[-91.990168,34.981938],"type":"Point"}
 }

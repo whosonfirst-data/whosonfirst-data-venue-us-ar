@@ -2,13 +2,14 @@
   "id": 219743455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.280326,36.248388,-91.280326,36.248388",
     "geom:latitude":36.248388,
     "geom:longitude":-91.280326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13565 Highway 63 S",
     "sg:city":"Hardy",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219743455,
-    "wof:lastmodified":1449073893,
+    "wof:lastmodified":1466324980,
     "wof:name":"Tire Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "tire"
     ]
 },
-  "bbox": [-91.280326,36.248388,-91.280326,36.248388],
+  "bbox": [
+    -91.280326,
+    36.248388,
+    -91.280326,
+    36.248388
+],
   "geometry": {"coordinates":[-91.280326,36.248388],"type":"Point"}
 }

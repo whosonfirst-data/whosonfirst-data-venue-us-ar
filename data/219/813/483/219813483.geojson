@@ -2,13 +2,14 @@
   "id": 219813483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.166469,36.066495,-94.166469,36.066495",
     "geom:latitude":36.066495,
     "geom:longitude":-94.166469,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"550 W Dickson St",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":219813483,
-    "wof:lastmodified":1449071307,
+    "wof:lastmodified":1466325027,
     "wof:name":"Gloria Jean's Coffee",
     "wof:parent_id":85885451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "espresso"
     ]
 },
-  "bbox": [-94.166469,36.066495,-94.166469,36.066495],
-  "geometry": {"coordinates":[-94.166469,36.066495],"type":"Point"}
+  "bbox": [
+    -94.166469,
+    36.066495,
+    -94.166469,
+    36.066495
+],
+  "geometry": {"coordinates":[-94.16646900000001,36.066495],"type":"Point"}
 }

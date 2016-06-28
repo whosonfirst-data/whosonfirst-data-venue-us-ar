@@ -2,13 +2,14 @@
   "id": 220011133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.156837,36.19199,-94.156837,36.19199",
     "geom:latitude":36.19199,
     "geom:longitude":-94.156837,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2401 N Jill Cir",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":220011133,
-    "wof:lastmodified":1449074704,
+    "wof:lastmodified":1466320473,
     "wof:name":"Bollinger Appraisal Service",
     "wof:parent_id":85885491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "appraiser"
     ]
 },
-  "bbox": [-94.156837,36.19199,-94.156837,36.19199],
+  "bbox": [
+    -94.156837,
+    36.19199,
+    -94.156837,
+    36.19199
+],
   "geometry": {"coordinates":[-94.156837,36.19199],"type":"Point"}
 }

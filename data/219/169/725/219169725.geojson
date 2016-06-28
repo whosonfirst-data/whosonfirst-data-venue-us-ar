@@ -2,13 +2,14 @@
   "id": 219169725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.793835,33.629208,-91.793835,33.629208",
     "geom:latitude":33.629208,
     "geom:longitude":-91.793835,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"419 W Gaines St",
     "sg:city":"Monticello",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219169725,
-    "wof:lastmodified":1449072574,
+    "wof:lastmodified":1466320548,
     "wof:name":"Rural Development",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "consultant"
     ]
 },
-  "bbox": [-91.793835,33.629208,-91.793835,33.629208],
+  "bbox": [
+    -91.793835,
+    33.629208,
+    -91.793835,
+    33.629208
+],
   "geometry": {"coordinates":[-91.793835,33.629208],"type":"Point"}
 }

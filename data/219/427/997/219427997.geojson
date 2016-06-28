@@ -2,13 +2,14 @@
   "id": 219427997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.579857,34.780445,-91.579857,34.780445",
     "geom:latitude":34.780445,
     "geom:longitude":-91.579857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Livermore St",
     "sg:city":"Hazen",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219427997,
-    "wof:lastmodified":1449071465,
+    "wof:lastmodified":1466323082,
     "wof:name":"Roger Grocery Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.579857,34.780445,-91.579857,34.780445],
+  "bbox": [
+    -91.579857,
+    34.780445,
+    -91.579857,
+    34.780445
+],
   "geometry": {"coordinates":[-91.579857,34.780445],"type":"Point"}
 }

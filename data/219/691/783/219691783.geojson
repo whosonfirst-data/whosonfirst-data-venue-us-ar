@@ -2,13 +2,14 @@
   "id": 219691783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.553713,36.068641,-90.553713,36.068641",
     "geom:latitude":36.068641,
     "geom:longitude":-90.553713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1012 Roselee Dr",
     "sg:city":"Paragould",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219691783,
-    "wof:lastmodified":1449070678,
+    "wof:lastmodified":1466324700,
     "wof:name":"Combs, Jk Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-90.553713,36.068641,-90.553713,36.068641],
+  "bbox": [
+    -90.553713,
+    36.068641,
+    -90.553713,
+    36.068641
+],
   "geometry": {"coordinates":[-90.553713,36.068641],"type":"Point"}
 }

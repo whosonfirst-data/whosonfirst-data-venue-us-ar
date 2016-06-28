@@ -2,13 +2,14 @@
   "id": 220036885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.015099,36.176177,-94.015099,36.176177",
     "geom:latitude":36.176177,
     "geom:longitude":-94.015099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20784 Justin Dr",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":220036885,
-    "wof:lastmodified":1449074213,
+    "wof:lastmodified":1466320539,
     "wof:name":"Raul Lemus Heating & Air Conditioning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-94.015099,36.176177,-94.015099,36.176177],
-  "geometry": {"coordinates":[-94.015099,36.176177],"type":"Point"}
+  "bbox": [
+    -94.015099,
+    36.176177,
+    -94.015099,
+    36.176177
+],
+  "geometry": {"coordinates":[-94.01509900000001,36.176177],"type":"Point"}
 }

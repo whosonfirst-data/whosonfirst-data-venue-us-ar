@@ -2,13 +2,14 @@
   "id": 219498935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.640507,34.324056,-92.640507,34.324056",
     "geom:latitude":34.324056,
     "geom:longitude":-92.640507,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 N Front St",
     "sg:city":"Poyen",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219498935,
-    "wof:lastmodified":1449073080,
+    "wof:lastmodified":1466323936,
     "wof:name":"Poyen City Hall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.640507,34.324056,-92.640507,34.324056],
+  "bbox": [
+    -92.640507,
+    34.324056,
+    -92.640507,
+    34.324056
+],
   "geometry": {"coordinates":[-92.640507,34.324056],"type":"Point"}
 }

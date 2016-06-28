@@ -2,13 +2,14 @@
   "id": 219164405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.621083,33.655815,-91.621083,33.655815",
     "geom:latitude":33.655815,
     "geom:longitude":-91.621083,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"134 Lueverts Pl",
     "sg:city":"Monticello",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219164405,
-    "wof:lastmodified":1449070812,
+    "wof:lastmodified":1466320505,
     "wof:name":"Malvin Rowlett Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "trucking"
     ]
 },
-  "bbox": [-91.621083,33.655815,-91.621083,33.655815],
+  "bbox": [
+    -91.621083,
+    33.655815,
+    -91.621083,
+    33.655815
+],
   "geometry": {"coordinates":[-91.621083,33.655815],"type":"Point"}
 }

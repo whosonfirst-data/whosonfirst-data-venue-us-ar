@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102304613",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.793912,35.203325,-90.793912,35.203325",
     "geom:latitude":35.203325,
     "geom:longitude":-90.793912,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"434 E Kim St",
     "sg:city":"Wynne",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102304613",
-    "wof:lastmodified":1449069589,
+    "wof:lastmodified":1466323167,
     "wof:name":"Ashburn Freight Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.793912,35.203325,-90.793912,35.203325],
-  "geometry": {"coordinates":[-90.793912,35.203325],"type":"Point"}
+  "bbox": [
+    -90.793912,
+    35.203325,
+    -90.793912,
+    35.203325
+],
+  "geometry": {"coordinates":[-90.79391200000001,35.203325],"type":"Point"}
 }

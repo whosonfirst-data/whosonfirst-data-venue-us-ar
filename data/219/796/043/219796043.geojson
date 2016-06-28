@@ -2,13 +2,14 @@
   "id": 219796043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.4775,36.28866,-92.4775,36.28866",
     "geom:latitude":36.28866,
     "geom:longitude":-92.4775,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7075 Highway 62 W",
     "sg:city":"Gassville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219796043,
-    "wof:lastmodified":1449072061,
+    "wof:lastmodified":1466325022,
     "wof:name":"U-Haul Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "trailer"
     ]
 },
-  "bbox": [-92.4775,36.28866,-92.4775,36.28866],
-  "geometry": {"coordinates":[-92.4775,36.28866],"type":"Point"}
+  "bbox": [
+    -92.4775,
+    36.28866,
+    -92.4775,
+    36.28866
+],
+  "geometry": {"coordinates":[-92.47750000000001,36.28866],"type":"Point"}
 }

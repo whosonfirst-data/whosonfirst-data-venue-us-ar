@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102417983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.011541,34.2239,-92.011541,34.2239",
     "geom:latitude":34.2239,
     "geom:longitude":-92.011541,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"815 W 6th Ave",
     "sg:city":"Pine Bluff",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102417983,
-    "wof:lastmodified":1449068759,
+    "wof:lastmodified":1466325433,
     "wof:name":"Mc Dowell Optical Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.011541,34.2239,-92.011541,34.2239],
-  "geometry": {"coordinates":[-92.011541,34.2239],"type":"Point"}
+  "bbox": [
+    -92.011541,
+    34.2239,
+    -92.011541,
+    34.2239
+],
+  "geometry": {"coordinates":[-92.01154099999999,34.2239],"type":"Point"}
 }

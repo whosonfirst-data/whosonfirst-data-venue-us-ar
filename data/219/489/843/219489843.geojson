@@ -2,13 +2,14 @@
   "id": 219489843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.213637,34.80867,-92.213637,34.80867",
     "geom:latitude":34.80867,
     "geom:longitude":-92.213637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"902 Karla Cir",
     "sg:city":"Sherwood",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219489843,
-    "wof:lastmodified":1449072302,
+    "wof:lastmodified":1466323842,
     "wof:name":"Tg Online",
     "wof:parent_id":85852263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "support"
     ]
 },
-  "bbox": [-92.213637,34.80867,-92.213637,34.80867],
-  "geometry": {"coordinates":[-92.213637,34.80867],"type":"Point"}
+  "bbox": [
+    -92.213637,
+    34.80867,
+    -92.213637,
+    34.80867
+],
+  "geometry": {"coordinates":[-92.21363700000001,34.80867],"type":"Point"}
 }

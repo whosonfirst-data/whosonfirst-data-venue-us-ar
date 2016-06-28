@@ -2,13 +2,14 @@
   "id": 219490861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.225857,34.948399,-92.225857,34.948399",
     "geom:latitude":34.948399,
     "geom:longitude":-92.225857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10302 Jacksonville Conway Rd",
     "sg:city":"Sherwood",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219490861,
-    "wof:lastmodified":1449073564,
+    "wof:lastmodified":1466323858,
     "wof:name":"R. J. Love Enterprises, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "contractors-commercial"
     ]
 },
-  "bbox": [-92.225857,34.948399,-92.225857,34.948399],
+  "bbox": [
+    -92.225857,
+    34.948399,
+    -92.225857,
+    34.948399
+],
   "geometry": {"coordinates":[-92.225857,34.948399],"type":"Point"}
 }

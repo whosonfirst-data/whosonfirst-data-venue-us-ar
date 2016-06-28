@@ -2,13 +2,14 @@
   "id": 219160105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.782516,33.626487,-91.782516,33.626487",
     "geom:latitude":33.626487,
     "geom:longitude":-91.782516,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"216 S Dillard St",
     "sg:city":"Monticello",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219160105,
-    "wof:lastmodified":1449073354,
+    "wof:lastmodified":1466320470,
     "wof:name":"24/7 Tire Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "handyman"
     ]
 },
-  "bbox": [-91.782516,33.626487,-91.782516,33.626487],
+  "bbox": [
+    -91.782516,
+    33.626487,
+    -91.782516,
+    33.626487
+],
   "geometry": {"coordinates":[-91.782516,33.626487],"type":"Point"}
 }

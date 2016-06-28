@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102196933",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.194284,36.317001,-94.194284,36.317001",
     "geom:latitude":36.317001,
     "geom:longitude":-94.194284,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5823 Stoney Brook Rd",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -34,11 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895857,
+        85688549,
         85633793,
         85921535,
         102083255,
-        85688549
+        85895857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":"102196933",
-    "wof:lastmodified":1449068337,
+    "wof:lastmodified":1466320646,
     "wof:name":"Brook Stoney Storage",
     "wof:parent_id":85895857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.194284,36.317001,-94.194284,36.317001],
+  "bbox": [
+    -94.194284,
+    36.317001,
+    -94.194284,
+    36.317001
+],
   "geometry": {"coordinates":[-94.194284,36.317001],"type":"Point"}
 }

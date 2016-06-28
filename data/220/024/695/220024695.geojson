@@ -2,13 +2,14 @@
   "id": 220024695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.252899,36.220209,-94.252899,36.220209",
     "geom:latitude":36.220209,
     "geom:longitude":-94.252899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11096 Marchant Rd",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220024695,
-    "wof:lastmodified":1449074409,
+    "wof:lastmodified":1466320501,
     "wof:name":"P & D Monogramming & Embroidery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "alteration"
     ]
 },
-  "bbox": [-94.252899,36.220209,-94.252899,36.220209],
+  "bbox": [
+    -94.252899,
+    36.220209,
+    -94.252899,
+    36.220209
+],
   "geometry": {"coordinates":[-94.252899,36.220209],"type":"Point"}
 }

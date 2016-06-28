@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102409715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.457056,35.593083,-92.457056,35.593083",
     "geom:latitude":35.593083,
     "geom:longitude":-92.457056,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 Griggs St",
     "sg:city":"Clinton",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102409715,
-    "wof:lastmodified":1449068767,
+    "wof:lastmodified":1466325220,
     "wof:name":"Greezy Burger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.457056,35.593083,-92.457056,35.593083],
-  "geometry": {"coordinates":[-92.457056,35.593083],"type":"Point"}
+  "bbox": [
+    -92.457056,
+    35.593083,
+    -92.457056,
+    35.593083
+],
+  "geometry": {"coordinates":[-92.45705599999999,35.593083],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219741549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.503958,36.310494,-91.503958,36.310494",
     "geom:latitude":36.310494,
     "geom:longitude":-91.503958,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2110 Highway 62 412",
     "sg:city":"Highland",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":219741549,
-    "wof:lastmodified":1449070569,
+    "wof:lastmodified":1466324980,
     "wof:name":"Negron's Bakery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bakers-wholesale"
     ]
 },
-  "bbox": [-91.503958,36.310494,-91.503958,36.310494],
+  "bbox": [
+    -91.503958,
+    36.310494,
+    -91.503958,
+    36.310494
+],
   "geometry": {"coordinates":[-91.503958,36.310494],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102285975",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.592012,33.664738,-93.592012,33.664738",
     "geom:latitude":33.664738,
     "geom:longitude":-93.592012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"513 S Elm St",
     "sg:city":"Hope",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806015,
+        85688549,
         85633793,
         85920547,
         102083213,
-        85688549
+        85806015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102285975",
-    "wof:lastmodified":1449067837,
+    "wof:lastmodified":1466322853,
     "wof:name":"Straight & Narrow Path",
     "wof:parent_id":85806015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.592012,33.664738,-93.592012,33.664738],
+  "bbox": [
+    -93.592012,
+    33.664738,
+    -93.592012,
+    33.664738
+],
   "geometry": {"coordinates":[-93.592012,33.664738],"type":"Point"}
 }

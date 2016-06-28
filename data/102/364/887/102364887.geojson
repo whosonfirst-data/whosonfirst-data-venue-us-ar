@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102364887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.09422,35.175497,-92.09422,35.175497",
     "geom:latitude":35.175497,
     "geom:longitude":-92.09422,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 Nolan Ln",
     "sg:city":"Mount Vernon",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102364887,
-    "wof:lastmodified":1449069099,
+    "wof:lastmodified":1466324530,
     "wof:name":"5d Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.09422,35.175497,-92.09422,35.175497],
-  "geometry": {"coordinates":[-92.09422,35.175497],"type":"Point"}
+  "bbox": [
+    -92.09422,
+    35.175497,
+    -92.09422,
+    35.175497
+],
+  "geometry": {"coordinates":[-92.09422000000001,35.175497],"type":"Point"}
 }

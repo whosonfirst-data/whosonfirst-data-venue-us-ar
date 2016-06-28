@@ -2,13 +2,14 @@
   "id": 219325511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.416621,34.633175,-92.416621,34.633175",
     "geom:latitude":34.633175,
     "geom:longitude":-92.416621,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13022 Vimy Ridge Rd",
     "sg:city":"Alexander",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219325511,
-    "wof:lastmodified":1449071774,
+    "wof:lastmodified":1466321942,
     "wof:name":"Plan B Designs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "producer"
     ]
 },
-  "bbox": [-92.416621,34.633175,-92.416621,34.633175],
-  "geometry": {"coordinates":[-92.416621,34.633175],"type":"Point"}
+  "bbox": [
+    -92.416621,
+    34.633175,
+    -92.416621,
+    34.633175
+],
+  "geometry": {"coordinates":[-92.41662100000001,34.633175],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219192051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.911489,33.559981,-92.911489,33.559981",
     "geom:latitude":33.559981,
     "geom:longitude":-92.911489,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2901 Highway 278 W",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219192051,
-    "wof:lastmodified":1449072899,
+    "wof:lastmodified":1466320777,
     "wof:name":"Rav Custom Wood Molding",
     "wof:parent_id":85813169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "forming-manufacturers"
     ]
 },
-  "bbox": [-92.911489,33.559981,-92.911489,33.559981],
+  "bbox": [
+    -92.911489,
+    33.559981,
+    -92.911489,
+    33.559981
+],
   "geometry": {"coordinates":[-92.911489,33.559981],"type":"Point"}
 }

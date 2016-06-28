@@ -2,13 +2,14 @@
   "id": 219314005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.685824,34.070268,-93.685824,34.070268",
     "geom:latitude":34.070268,
     "geom:longitude":-93.685824,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"331 E 13th St",
     "sg:city":"Murfreesboro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219314005,
-    "wof:lastmodified":1449073764,
+    "wof:lastmodified":1466321849,
     "wof:name":"Arkansas Department Of Human Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "government-county"
     ]
 },
-  "bbox": [-93.685824,34.070268,-93.685824,34.070268],
+  "bbox": [
+    -93.685824,
+    34.070268,
+    -93.685824,
+    34.070268
+],
   "geometry": {"coordinates":[-93.685824,34.070268],"type":"Point"}
 }

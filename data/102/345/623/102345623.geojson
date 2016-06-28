@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102345623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.641228,35.765276,-91.641228,35.765276",
     "geom:latitude":35.765276,
     "geom:longitude":-91.641228,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1810 S Saint Louis St",
     "sg:city":"Batesville",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     "sg:website":"www.pilgrimspride.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85808231,
+        85688549,
         85633793,
         85920683,
         102083875,
-        85688549
+        85808231
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":102345623,
-    "wof:lastmodified":1449070001,
+    "wof:lastmodified":1466323994,
     "wof:name":"Pilgrim's Pride Corp",
     "wof:parent_id":85808231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.641228,35.765276,-91.641228,35.765276],
+  "bbox": [
+    -91.641228,
+    35.765276,
+    -91.641228,
+    35.765276
+],
   "geometry": {"coordinates":[-91.641228,35.765276],"type":"Point"}
 }

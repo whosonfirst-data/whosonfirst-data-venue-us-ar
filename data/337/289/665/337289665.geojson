@@ -2,13 +2,14 @@
   "id": 337289665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.86948,33.599271,-92.86948,33.599271",
     "geom:latitude":33.599271,
     "geom:longitude":-92.86948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1244 Maul Rd",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":337289665,
-    "wof:lastmodified":1449027604,
+    "wof:lastmodified":1466322015,
     "wof:name":"Victory Church",
     "wof:parent_id":85813169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "church"
     ]
 },
-  "bbox": [-92.86948,33.599271,-92.86948,33.599271],
+  "bbox": [
+    -92.86948,
+    33.599271,
+    -92.86948,
+    33.599271
+],
   "geometry": {"coordinates":[-92.86948,33.599271],"type":"Point"}
 }

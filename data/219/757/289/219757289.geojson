@@ -2,13 +2,14 @@
   "id": 219757289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.142573,36.26792,-93.142573,36.26792",
     "geom:latitude":36.26792,
     "geom:longitude":-93.142573,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"917 Meadow Lane Dr",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219757289,
-    "wof:lastmodified":1449072365,
+    "wof:lastmodified":1466324913,
     "wof:name":"Gilley Rentals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "listing"
     ]
 },
-  "bbox": [-93.142573,36.26792,-93.142573,36.26792],
+  "bbox": [
+    -93.142573,
+    36.26792,
+    -93.142573,
+    36.26792
+],
   "geometry": {"coordinates":[-93.142573,36.26792],"type":"Point"}
 }

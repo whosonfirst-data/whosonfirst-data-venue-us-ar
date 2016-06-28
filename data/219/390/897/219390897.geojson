@@ -2,13 +2,14 @@
   "id": 219390897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.414872,35.074465,-92.414872,35.074465",
     "geom:latitude":35.074465,
     "geom:longitude":-92.414872,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 S Amity Rd",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219390897,
-    "wof:lastmodified":1449073961,
+    "wof:lastmodified":1466322770,
     "wof:name":"Rural Development",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "consultant"
     ]
 },
-  "bbox": [-92.414872,35.074465,-92.414872,35.074465],
+  "bbox": [
+    -92.414872,
+    35.074465,
+    -92.414872,
+    35.074465
+],
   "geometry": {"coordinates":[-92.414872,35.074465],"type":"Point"}
 }

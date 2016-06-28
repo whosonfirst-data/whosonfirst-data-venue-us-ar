@@ -2,13 +2,14 @@
   "id": 220066563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.135687,35.281317,-93.135687,35.281317",
     "geom:latitude":35.281317,
     "geom:longitude":-93.135687,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"414 E Parkway Dr",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220066563,
-    "wof:lastmodified":1449074247,
+    "wof:lastmodified":1466321227,
     "wof:name":"Skelton Clark & Robbins",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "plan"
     ]
 },
-  "bbox": [-93.135687,35.281317,-93.135687,35.281317],
+  "bbox": [
+    -93.135687,
+    35.281317,
+    -93.135687,
+    35.281317
+],
   "geometry": {"coordinates":[-93.135687,35.281317],"type":"Point"}
 }

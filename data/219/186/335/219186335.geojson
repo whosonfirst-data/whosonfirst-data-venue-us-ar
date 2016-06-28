@@ -2,13 +2,14 @@
   "id": 219186335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.063026,33.612289,-92.063026,33.612289",
     "geom:latitude":33.612289,
     "geom:longitude":-92.063026,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 S Myrtle St",
     "sg:city":"Warren",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219186335,
-    "wof:lastmodified":1449073164,
+    "wof:lastmodified":1466320684,
     "wof:name":"Robert Milton",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "public"
     ]
 },
-  "bbox": [-92.063026,33.612289,-92.063026,33.612289],
-  "geometry": {"coordinates":[-92.063026,33.612289],"type":"Point"}
+  "bbox": [
+    -92.063026,
+    33.612289,
+    -92.063026,
+    33.612289
+],
+  "geometry": {"coordinates":[-92.06302599999999,33.612289],"type":"Point"}
 }

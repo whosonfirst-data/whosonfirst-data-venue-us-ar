@@ -2,13 +2,14 @@
   "id": 235951709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.798561,36.425961,-94.798561,36.425961",
     "geom:latitude":36.425961,
     "geom:longitude":-94.798561,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 W Dial St",
     "sg:city":"Jay",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":235951709,
-    "wof:lastmodified":1449008282,
+    "wof:lastmodified":1466320452,
     "wof:name":"Dhs Child Welfare",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "day"
     ]
 },
-  "bbox": [-94.798561,36.425961,-94.798561,36.425961],
-  "geometry": {"coordinates":[-94.798561,36.425961],"type":"Point"}
+  "bbox": [
+    -94.798561,
+    36.425961,
+    -94.798561,
+    36.425961
+],
+  "geometry": {"coordinates":[-94.79856100000001,36.425961],"type":"Point"}
 }

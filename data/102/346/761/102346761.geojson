@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102346761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.570777,33.224498,-92.570777,33.224498",
     "geom:latitude":33.224498,
     "geom:longitude":-92.570777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"160 Union Ln",
     "sg:city":"El Dorado",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102346761,
-    "wof:lastmodified":1449067757,
+    "wof:lastmodified":1466324077,
     "wof:name":"Old Union Volunteer Fire",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.570777,33.224498,-92.570777,33.224498],
-  "geometry": {"coordinates":[-92.570777,33.224498],"type":"Point"}
+  "bbox": [
+    -92.570777,
+    33.224498,
+    -92.570777,
+    33.224498
+],
+  "geometry": {"coordinates":[-92.57077700000001,33.224498],"type":"Point"}
 }

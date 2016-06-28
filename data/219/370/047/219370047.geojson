@@ -2,13 +2,14 @@
   "id": 219370047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.748129,34.782898,-91.748129,34.782898",
     "geom:latitude":34.782898,
     "geom:longitude":-91.748129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"224 W Main St",
     "sg:city":"Carlisle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219370047,
-    "wof:lastmodified":1449072301,
+    "wof:lastmodified":1466322582,
     "wof:name":"Carlisle Division",
     "wof:parent_id":85811577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [-91.748129,34.782898,-91.748129,34.782898],
-  "geometry": {"coordinates":[-91.748129,34.782898],"type":"Point"}
+  "bbox": [
+    -91.748129,
+    34.782898,
+    -91.748129,
+    34.782898
+],
+  "geometry": {"coordinates":[-91.74812900000001,34.782898],"type":"Point"}
 }

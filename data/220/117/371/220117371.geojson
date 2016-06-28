@@ -2,13 +2,14 @@
   "id": 220117371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.235105,35.021433,-94.235105,35.021433",
     "geom:latitude":35.021433,
     "geom:longitude":-94.235105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13704 Spur Northside Way",
     "sg:city":"Mansfield",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":220117371,
-    "wof:lastmodified":1449074604,
+    "wof:lastmodified":1466322530,
     "wof:name":"Leyway",
     "wof:parent_id":85808359,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "trucking"
     ]
 },
-  "bbox": [-94.235105,35.021433,-94.235105,35.021433],
+  "bbox": [
+    -94.235105,
+    35.021433,
+    -94.235105,
+    35.021433
+],
   "geometry": {"coordinates":[-94.235105,35.021433],"type":"Point"}
 }

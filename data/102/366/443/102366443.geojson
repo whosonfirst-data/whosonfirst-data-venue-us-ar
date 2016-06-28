@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102366443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.048031,35.872518,-94.048031,35.872518",
     "geom:latitude":35.872518,
     "geom:longitude":-94.048031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15876 S Whitehouse Rd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102366443,
-    "wof:lastmodified":1449069559,
+    "wof:lastmodified":1466324416,
     "wof:name":"Accountable Home Inspections",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.048031,35.872518,-94.048031,35.872518],
-  "geometry": {"coordinates":[-94.048031,35.872518],"type":"Point"}
+  "bbox": [
+    -94.048031,
+    35.872518,
+    -94.048031,
+    35.872518
+],
+  "geometry": {"coordinates":[-94.04803099999999,35.872518],"type":"Point"}
 }

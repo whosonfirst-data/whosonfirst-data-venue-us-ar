@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102387881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.261121,35.359288,-93.261121,35.359288",
     "geom:latitude":35.359288,
     "geom:longitude":-93.261121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"87 Riley Ln",
     "sg:city":"London",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102387881,
-    "wof:lastmodified":1449069846,
+    "wof:lastmodified":1466323713,
     "wof:name":"Lambs Tile",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.261121,35.359288,-93.261121,35.359288],
+  "bbox": [
+    -93.261121,
+    35.359288,
+    -93.261121,
+    35.359288
+],
   "geometry": {"coordinates":[-93.261121,35.359288],"type":"Point"}
 }

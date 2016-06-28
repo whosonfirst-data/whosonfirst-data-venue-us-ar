@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102322217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.725873,35.556114,-90.725873,35.556114",
     "geom:latitude":35.556114,
     "geom:longitude":-90.725873,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"803 Cox",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102322217,
-    "wof:lastmodified":1449067744,
+    "wof:lastmodified":1466323431,
     "wof:name":"Harrisburg Public Sch Bus Grge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.725873,35.556114,-90.725873,35.556114],
-  "geometry": {"coordinates":[-90.725873,35.556114],"type":"Point"}
+  "bbox": [
+    -90.725873,
+    35.556114,
+    -90.725873,
+    35.556114
+],
+  "geometry": {"coordinates":[-90.72587300000001,35.556114],"type":"Point"}
 }

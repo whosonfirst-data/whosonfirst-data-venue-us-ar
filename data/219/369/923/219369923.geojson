@@ -2,13 +2,14 @@
   "id": 219369923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.796979,34.673274,-91.796979,34.673274",
     "geom:latitude":34.673274,
     "geom:longitude":-91.796979,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2473 Hillman Rd",
     "sg:city":"Carlisle",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219369923,
-    "wof:lastmodified":1449073731,
+    "wof:lastmodified":1466322579,
     "wof:name":"Mississippi River Transmission",
     "wof:parent_id":85811577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "transmissions-other"
     ]
 },
-  "bbox": [-91.796979,34.673274,-91.796979,34.673274],
-  "geometry": {"coordinates":[-91.796979,34.673274],"type":"Point"}
+  "bbox": [
+    -91.796979,
+    34.673274,
+    -91.796979,
+    34.673274
+],
+  "geometry": {"coordinates":[-91.79697899999999,34.673274],"type":"Point"}
 }

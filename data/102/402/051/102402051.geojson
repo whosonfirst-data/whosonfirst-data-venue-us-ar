@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102402051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.730223,36.381893,-93.730223,36.381893",
     "geom:latitude":36.381893,
     "geom:longitude":-93.730223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 Greenwood Hollow Rd",
     "sg:city":"Eureka Springs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102402051,
-    "wof:lastmodified":1449068561,
+    "wof:lastmodified":1466324675,
     "wof:name":"Johnson Automotive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.730223,36.381893,-93.730223,36.381893],
+  "bbox": [
+    -93.730223,
+    36.381893,
+    -93.730223,
+    36.381893
+],
   "geometry": {"coordinates":[-93.730223,36.381893],"type":"Point"}
 }

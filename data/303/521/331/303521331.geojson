@@ -2,13 +2,14 @@
   "id": 303521331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.545877,36.167608,-94.545877,36.167608",
     "geom:latitude":36.167608,
     "geom:longitude":-94.545877,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 W Highland St",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303521331,
-    "wof:lastmodified":1449000444,
+    "wof:lastmodified":1466320503,
     "wof:name":"Antiques & Interiors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.545877,36.167608,-94.545877,36.167608],
+  "bbox": [
+    -94.545877,
+    36.167608,
+    -94.545877,
+    36.167608
+],
   "geometry": {"coordinates":[-94.545877,36.167608],"type":"Point"}
 }

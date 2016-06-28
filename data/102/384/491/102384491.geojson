@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102384491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.510731,36.123013,-90.510731,36.123013",
     "geom:latitude":36.123013,
     "geom:longitude":-90.510731,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4698 Hwy 135 N",
     "sg:city":"Paragould",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102384491,
-    "wof:lastmodified":1449068105,
+    "wof:lastmodified":1466323017,
     "wof:name":"Bills Heat & Air",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.510731,36.123013,-90.510731,36.123013],
-  "geometry": {"coordinates":[-90.510731,36.123013],"type":"Point"}
+  "bbox": [
+    -90.510731,
+    36.123013,
+    -90.510731,
+    36.123013
+],
+  "geometry": {"coordinates":[-90.51073100000001,36.123013],"type":"Point"}
 }

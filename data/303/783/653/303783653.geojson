@@ -2,13 +2,14 @@
   "id": 303783653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.719561,36.568773,-94.719561,36.568773",
     "geom:latitude":36.568773,
     "geom:longitude":-94.719561,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"32301 S 650 Rd",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303783653,
-    "wof:lastmodified":1448998196,
+    "wof:lastmodified":1466320595,
     "wof:name":"Snow Landscape",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.719561,36.568773,-94.719561,36.568773],
+  "bbox": [
+    -94.719561,
+    36.568773,
+    -94.719561,
+    36.568773
+],
   "geometry": {"coordinates":[-94.719561,36.568773],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219885731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.210204,36.400702,-94.210204,36.400702",
     "geom:latitude":36.400702,
     "geom:longitude":-94.210204,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 Linebarger Ln",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219885731,
-    "wof:lastmodified":1449072256,
+    "wof:lastmodified":1466325163,
     "wof:name":"Wayne & Loretta Rental",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-94.210204,36.400702,-94.210204,36.400702],
+  "bbox": [
+    -94.210204,
+    36.400702,
+    -94.210204,
+    36.400702
+],
   "geometry": {"coordinates":[-94.210204,36.400702],"type":"Point"}
 }

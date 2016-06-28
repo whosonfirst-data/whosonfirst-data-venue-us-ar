@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102376113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.442506,35.803366,-91.442506,35.803366",
     "geom:latitude":35.803366,
     "geom:longitude":-91.442506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Red Thomas Ln",
     "sg:city":"Newark",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102376113,
-    "wof:lastmodified":1449068620,
+    "wof:lastmodified":1466321291,
     "wof:name":"Church Of Jesus Christ Of Lds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.442506,35.803366,-91.442506,35.803366],
-  "geometry": {"coordinates":[-91.442506,35.803366],"type":"Point"}
+  "bbox": [
+    -91.442506,
+    35.803366,
+    -91.442506,
+    35.803366
+],
+  "geometry": {"coordinates":[-91.44250599999999,35.803366],"type":"Point"}
 }

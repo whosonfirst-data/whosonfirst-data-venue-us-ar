@@ -2,13 +2,14 @@
   "id": 220076547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.464648,35.515816,-93.464648,35.515816",
     "geom:latitude":35.515816,
     "geom:longitude":-93.464648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"758 County Road 3452",
     "sg:city":"Clarksville",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":220076547,
-    "wof:lastmodified":1449074666,
+    "wof:lastmodified":1466321470,
     "wof:name":"Bmw Electric Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "electric"
     ]
 },
-  "bbox": [-93.464648,35.515816,-93.464648,35.515816],
+  "bbox": [
+    -93.464648,
+    35.515816,
+    -93.464648,
+    35.515816
+],
   "geometry": {"coordinates":[-93.464648,35.515816],"type":"Point"}
 }

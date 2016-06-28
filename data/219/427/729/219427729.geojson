@@ -2,13 +2,14 @@
   "id": 219427729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.577649,34.776396,-91.577649,34.776396",
     "geom:latitude":34.776396,
     "geom:longitude":-91.577649,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"461 S Grove St Apt 25",
     "sg:city":"Hazen",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":219427729,
-    "wof:lastmodified":1449071464,
+    "wof:lastmodified":1466323080,
     "wof:name":"Cedar Branch Apts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "listing"
     ]
 },
-  "bbox": [-91.577649,34.776396,-91.577649,34.776396],
-  "geometry": {"coordinates":[-91.577649,34.776396],"type":"Point"}
+  "bbox": [
+    -91.577649,
+    34.776396,
+    -91.577649,
+    34.776396
+],
+  "geometry": {"coordinates":[-91.57764899999999,34.776396],"type":"Point"}
 }

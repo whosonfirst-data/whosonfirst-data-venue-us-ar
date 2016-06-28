@@ -2,13 +2,14 @@
   "id": 219953517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.119345,36.327579,-94.119345,36.327579",
     "geom:latitude":36.327579,
     "geom:longitude":-94.119345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"720 S 3rd St",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219953517,
-    "wof:lastmodified":1449072824,
+    "wof:lastmodified":1466325245,
     "wof:name":"Vinyard Family Fellowship",
     "wof:parent_id":85895845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-94.119345,36.327579,-94.119345,36.327579],
+  "bbox": [
+    -94.119345,
+    36.327579,
+    -94.119345,
+    36.327579
+],
   "geometry": {"coordinates":[-94.119345,36.327579],"type":"Point"}
 }

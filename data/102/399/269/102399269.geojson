@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102399269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.105578,36.226486,-93.105578,36.226486",
     "geom:latitude":36.226486,
     "geom:longitude":-93.105578,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 E South Ave",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102399269,
-    "wof:lastmodified":1449068240,
+    "wof:lastmodified":1466324700,
     "wof:name":"First Church of Nazarene",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.105578,36.226486,-93.105578,36.226486],
-  "geometry": {"coordinates":[-93.105578,36.226486],"type":"Point"}
+  "bbox": [
+    -93.105578,
+    36.226486,
+    -93.105578,
+    36.226486
+],
+  "geometry": {"coordinates":[-93.10557799999999,36.226486],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220115323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.173072,35.337494,-94.173072,35.337494",
     "geom:latitude":35.337494,
     "geom:longitude":-94.173072,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"603 S Division St",
     "sg:city":"Lavaca",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220115323,
-    "wof:lastmodified":1449074052,
+    "wof:lastmodified":1466322496,
     "wof:name":"South Seb Co Special Ed Co Op",
     "wof:parent_id":85832863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.173072,35.337494,-94.173072,35.337494],
+  "bbox": [
+    -94.173072,
+    35.337494,
+    -94.173072,
+    35.337494
+],
   "geometry": {"coordinates":[-94.173072,35.337494],"type":"Point"}
 }

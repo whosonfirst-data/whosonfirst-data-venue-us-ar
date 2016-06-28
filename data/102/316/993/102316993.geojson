@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102316993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.761023,35.587787,-91.761023,35.587787",
     "geom:latitude":35.587787,
     "geom:longitude":-91.761023,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3845 Floral Rd",
     "sg:city":"Floral",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":102316993,
-    "wof:lastmodified":1449069427,
+    "wof:lastmodified":1466323508,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.761023,35.587787,-91.761023,35.587787],
-  "geometry": {"coordinates":[-91.761023,35.587787],"type":"Point"}
+  "bbox": [
+    -91.761023,
+    35.587787,
+    -91.761023,
+    35.587787
+],
+  "geometry": {"coordinates":[-91.76102299999999,35.587787],"type":"Point"}
 }

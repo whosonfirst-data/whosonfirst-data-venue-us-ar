@@ -2,13 +2,14 @@
   "id": 219954391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.140134,36.341073,-94.140134,36.341073",
     "geom:latitude":36.341073,
     "geom:longitude":-94.140134,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 W Olive St",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":219954391,
-    "wof:lastmodified":1449073460,
+    "wof:lastmodified":1466325115,
     "wof:name":"Colonial Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "churches-baptist"
     ]
 },
-  "bbox": [-94.140134,36.341073,-94.140134,36.341073],
+  "bbox": [
+    -94.140134,
+    36.341073,
+    -94.140134,
+    36.341073
+],
   "geometry": {"coordinates":[-94.140134,36.341073],"type":"Point"}
 }

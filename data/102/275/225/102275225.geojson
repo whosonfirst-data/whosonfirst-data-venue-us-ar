@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102275225",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.195641,33.264006,-93.195641,33.264006",
     "geom:latitude":33.264006,
     "geom:longitude":-93.195641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Miranda Ln",
     "sg:city":"Magnolia",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102275225",
-    "wof:lastmodified":1449068563,
+    "wof:lastmodified":1466322452,
     "wof:name":"FM Development",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.195641,33.264006,-93.195641,33.264006],
-  "geometry": {"coordinates":[-93.195641,33.264006],"type":"Point"}
+  "bbox": [
+    -93.195641,
+    33.264006,
+    -93.195641,
+    33.264006
+],
+  "geometry": {"coordinates":[-93.19564099999999,33.264006],"type":"Point"}
 }

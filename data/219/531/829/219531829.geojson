@@ -2,13 +2,14 @@
   "id": 219531829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.74073,35.25082,-91.74073,35.25082",
     "geom:latitude":35.25082,
     "geom:longitude":-91.74073,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"411 E Race Ave",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219531829,
-    "wof:lastmodified":1449071227,
+    "wof:lastmodified":1466324193,
     "wof:name":"White County Memorial Gardens",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cemetery"
     ]
 },
-  "bbox": [-91.74073,35.25082,-91.74073,35.25082],
+  "bbox": [
+    -91.74073,
+    35.25082,
+    -91.74073,
+    35.25082
+],
   "geometry": {"coordinates":[-91.74073,35.25082],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219346163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.54582,35.088622,-92.54582,35.088622",
     "geom:latitude":35.088622,
     "geom:longitude":-92.54582,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Anna Ln",
     "sg:city":"Bigelow",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219346163,
-    "wof:lastmodified":1449070363,
+    "wof:lastmodified":1466322200,
     "wof:name":"Helping Hand Tree And Lawn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-92.54582,35.088622,-92.54582,35.088622],
-  "geometry": {"coordinates":[-92.54582,35.088622],"type":"Point"}
+  "bbox": [
+    -92.54582,
+    35.088622,
+    -92.54582,
+    35.088622
+],
+  "geometry": {"coordinates":[-92.54582000000001,35.088622],"type":"Point"}
 }

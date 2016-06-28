@@ -2,13 +2,14 @@
   "id": 203419717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.265462,33.109919,-91.265462,33.109919",
     "geom:latitude":33.109919,
     "geom:longitude":-91.265462,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"122 Smabry St",
     "sg:city":"Eudora",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203419717,
-    "wof:lastmodified":1449026849,
+    "wof:lastmodified":1466320584,
     "wof:name":"circles",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "store"
     ]
 },
-  "bbox": [-91.265462,33.109919,-91.265462,33.109919],
+  "bbox": [
+    -91.265462,
+    33.109919,
+    -91.265462,
+    33.109919
+],
   "geometry": {"coordinates":[-91.265462,33.109919],"type":"Point"}
 }

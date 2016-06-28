@@ -2,13 +2,14 @@
   "id": 219537013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.750551,35.24791,-91.750551,35.24791",
     "geom:latitude":35.24791,
     "geom:longitude":-91.750551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1405 W Pleasure Ave",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219537013,
-    "wof:lastmodified":1449071264,
+    "wof:lastmodified":1466324236,
     "wof:name":"Diamond Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "car"
     ]
 },
-  "bbox": [-91.750551,35.24791,-91.750551,35.24791],
+  "bbox": [
+    -91.750551,
+    35.24791,
+    -91.750551,
+    35.24791
+],
   "geometry": {"coordinates":[-91.750551,35.24791],"type":"Point"}
 }

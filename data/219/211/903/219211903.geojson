@@ -2,13 +2,14 @@
   "id": 219211903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.240286,33.265806,-93.240286,33.265806",
     "geom:latitude":33.265806,
     "geom:longitude":-93.240286,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 E Calhoun",
     "sg:city":"Magnolia",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219211903,
-    "wof:lastmodified":1449071266,
+    "wof:lastmodified":1466320975,
     "wof:name":"Kinard Crane & Butler Pa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "practice"
     ]
 },
-  "bbox": [-93.240286,33.265806,-93.240286,33.265806],
+  "bbox": [
+    -93.240286,
+    33.265806,
+    -93.240286,
+    33.265806
+],
   "geometry": {"coordinates":[-93.240286,33.265806],"type":"Point"}
 }

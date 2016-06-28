@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102319089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.969485,35.707827,-89.969485,35.707827",
     "geom:latitude":35.707827,
     "geom:longitude":-89.969485,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"598 N Walnut St",
     "sg:city":"Osceola",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102319089,
-    "wof:lastmodified":1449068755,
+    "wof:lastmodified":1466323346,
     "wof:name":"Scott's Sheet Metal & Welding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.969485,35.707827,-89.969485,35.707827],
-  "geometry": {"coordinates":[-89.969485,35.707827],"type":"Point"}
+  "bbox": [
+    -89.969485,
+    35.707827,
+    -89.969485,
+    35.707827
+],
+  "geometry": {"coordinates":[-89.96948500000001,35.707827],"type":"Point"}
 }

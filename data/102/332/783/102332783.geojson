@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102332783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.159753,36.235562,-94.159753,36.235562",
     "geom:latitude":36.235562,
     "geom:longitude":-94.159753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5600 Silent Grove Rd",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102332783,
-    "wof:lastmodified":1449069074,
+    "wof:lastmodified":1466323748,
     "wof:name":"Mark's Used Cycles & Parts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.159753,36.235562,-94.159753,36.235562],
-  "geometry": {"coordinates":[-94.159753,36.235562],"type":"Point"}
+  "bbox": [
+    -94.159753,
+    36.235562,
+    -94.159753,
+    36.235562
+],
+  "geometry": {"coordinates":[-94.15975299999999,36.235562],"type":"Point"}
 }

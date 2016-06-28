@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102426341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.22405,34.51071,-93.22405,34.51071",
     "geom:latitude":34.51071,
     "geom:longitude":-93.22405,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6435 Albert Pike Rd",
     "sg:city":"Royal",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102426341,
-    "wof:lastmodified":1449068309,
+    "wof:lastmodified":1466325533,
     "wof:name":"Communications Tech",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.22405,34.51071,-93.22405,34.51071],
-  "geometry": {"coordinates":[-93.22405,34.51071],"type":"Point"}
+  "bbox": [
+    -93.22405,
+    34.51071,
+    -93.22405,
+    34.51071
+],
+  "geometry": {"coordinates":[-93.22405000000001,34.51071],"type":"Point"}
 }

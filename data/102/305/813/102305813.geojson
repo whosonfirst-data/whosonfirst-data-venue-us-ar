@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102305813",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.049569,35.69814,-90.049569,35.69814",
     "geom:latitude":35.69814,
     "geom:longitude":-90.049569,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4491 W Keiser Ave",
     "sg:city":"Osceola",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102305813",
-    "wof:lastmodified":1449068168,
+    "wof:lastmodified":1466323243,
     "wof:name":"Holiday Inn Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.049569,35.69814,-90.049569,35.69814],
-  "geometry": {"coordinates":[-90.049569,35.69814],"type":"Point"}
+  "bbox": [
+    -90.049569,
+    35.69814,
+    -90.049569,
+    35.69814
+],
+  "geometry": {"coordinates":[-90.04956900000001,35.69814],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102365745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.122042,35.301936,-93.122042,35.301936",
     "geom:latitude":35.301936,
     "geom:longitude":-93.122042,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"192 Fields St",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102365745,
-    "wof:lastmodified":1449068187,
+    "wof:lastmodified":1466324429,
     "wof:name":"A To Z Service Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.122042,35.301936,-93.122042,35.301936],
-  "geometry": {"coordinates":[-93.122042,35.301936],"type":"Point"}
+  "bbox": [
+    -93.122042,
+    35.301936,
+    -93.122042,
+    35.301936
+],
+  "geometry": {"coordinates":[-93.12204199999999,35.301936],"type":"Point"}
 }

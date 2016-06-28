@@ -2,13 +2,14 @@
   "id": 320162549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.899578,36.643177,-94.899578,36.643177",
     "geom:latitude":36.643177,
     "geom:longitude":-94.899578,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"54501 E 260 Rd",
     "sg:city":"Afton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320162549,
-    "wof:lastmodified":1449014429,
+    "wof:lastmodified":1466320461,
     "wof:name":"Horse Creek Resort",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trailer"
     ]
 },
-  "bbox": [-94.899578,36.643177,-94.899578,36.643177],
-  "geometry": {"coordinates":[-94.899578,36.643177],"type":"Point"}
+  "bbox": [
+    -94.899578,
+    36.643177,
+    -94.899578,
+    36.643177
+],
+  "geometry": {"coordinates":[-94.89957800000001,36.643177],"type":"Point"}
 }

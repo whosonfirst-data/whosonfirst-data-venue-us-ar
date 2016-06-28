@@ -2,13 +2,14 @@
   "id": 219562963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.868528,34.965752,-91.868528,34.965752",
     "geom:latitude":34.965752,
     "geom:longitude":-91.868528,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"395 E Horizon Rd",
     "sg:city":"Ward",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219562963,
-    "wof:lastmodified":1449072249,
+    "wof:lastmodified":1466324529,
     "wof:name":"R And R Decks And Home Repair",
     "wof:parent_id":85811577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-91.868528,34.965752,-91.868528,34.965752],
+  "bbox": [
+    -91.868528,
+    34.965752,
+    -91.868528,
+    34.965752
+],
   "geometry": {"coordinates":[-91.868528,34.965752],"type":"Point"}
 }

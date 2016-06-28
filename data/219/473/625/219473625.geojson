@@ -2,13 +2,14 @@
   "id": 219473625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.190917,35.626011,-91.190917,35.626011",
     "geom:latitude":35.626011,
     "geom:longitude":-91.190917,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 Corrections Dr",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -73,10 +74,11 @@
         }
     ],
     "wof:id":219473625,
-    "wof:lastmodified":1449071128,
+    "wof:lastmodified":1466323621,
     "wof:name":"Ron Mcphrson Crrctional Fcilty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -91,6 +93,11 @@
         "organizing"
     ]
 },
-  "bbox": [-91.190917,35.626011,-91.190917,35.626011],
+  "bbox": [
+    -91.190917,
+    35.626011,
+    -91.190917,
+    35.626011
+],
   "geometry": {"coordinates":[-91.190917,35.626011],"type":"Point"}
 }

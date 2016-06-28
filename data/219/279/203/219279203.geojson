@@ -2,13 +2,14 @@
   "id": 219279203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.335532,34.231863,-93.335532,34.231863",
     "geom:latitude":34.231863,
     "geom:longitude":-93.335532,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"814 Fendley Rd",
     "sg:city":"Amity",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":219279203,
-    "wof:lastmodified":1449072021,
+    "wof:lastmodified":1466321560,
     "wof:name":"Acoustic Lee & Drywall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -88,6 +90,11 @@
         "plasterboard"
     ]
 },
-  "bbox": [-93.335532,34.231863,-93.335532,34.231863],
+  "bbox": [
+    -93.335532,
+    34.231863,
+    -93.335532,
+    34.231863
+],
   "geometry": {"coordinates":[-93.335532,34.231863],"type":"Point"}
 }

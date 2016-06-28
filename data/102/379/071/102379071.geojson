@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102379071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.406044,34.864127,-92.406044,34.864127",
     "geom:latitude":34.864127,
     "geom:longitude":-92.406044,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"650 Edgewood Dr",
     "sg:city":"Maumelle",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102379071,
-    "wof:lastmodified":1449069143,
+    "wof:lastmodified":1466321899,
     "wof:name":"NAIFA-Arkansas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.406044,34.864127,-92.406044,34.864127],
-  "geometry": {"coordinates":[-92.406044,34.864127],"type":"Point"}
+  "bbox": [
+    -92.406044,
+    34.864127,
+    -92.406044,
+    34.864127
+],
+  "geometry": {"coordinates":[-92.40604399999999,34.864127],"type":"Point"}
 }

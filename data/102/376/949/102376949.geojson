@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102376949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.207198,36.351868,-94.207198,36.351868",
     "geom:latitude":36.351868,
     "geom:longitude":-94.207198,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 SE 18th St",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895825,
+        85688549,
         85633793,
         85921509,
         102083255,
-        85688549
+        85895825
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102376949,
-    "wof:lastmodified":1449068617,
+    "wof:lastmodified":1466321465,
     "wof:name":"Occasional Florist",
     "wof:parent_id":85895825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.207198,36.351868,-94.207198,36.351868],
-  "geometry": {"coordinates":[-94.207198,36.351868],"type":"Point"}
+  "bbox": [
+    -94.207198,
+    36.351868,
+    -94.207198,
+    36.351868
+],
+  "geometry": {"coordinates":[-94.20719800000001,36.351868],"type":"Point"}
 }

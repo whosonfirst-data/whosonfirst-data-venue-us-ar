@@ -2,13 +2,14 @@
   "id": 219757297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.114497,36.241053,-93.114497,36.241053",
     "geom:latitude":36.241053,
     "geom:longitude":-93.114497,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"715 W Sherman Ave",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219757297,
-    "wof:lastmodified":1449072366,
+    "wof:lastmodified":1466324913,
     "wof:name":"Scott F Ferguson Md",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "surgeons"
     ]
 },
-  "bbox": [-93.114497,36.241053,-93.114497,36.241053],
+  "bbox": [
+    -93.114497,
+    36.241053,
+    -93.114497,
+    36.241053
+],
   "geometry": {"coordinates":[-93.114497,36.241053],"type":"Point"}
 }

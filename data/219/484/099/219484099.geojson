@@ -2,13 +2,14 @@
   "id": 219484099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.355141,34.813251,-92.355141,34.813251",
     "geom:latitude":34.813251,
     "geom:longitude":-92.355141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8601 Sheltie Dr",
     "sg:city":"Maumelle",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":219484099,
-    "wof:lastmodified":1449073706,
+    "wof:lastmodified":1466323730,
     "wof:name":"Farm Bureau Claims Service Center",
     "wof:parent_id":85854423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "business"
     ]
 },
-  "bbox": [-92.355141,34.813251,-92.355141,34.813251],
+  "bbox": [
+    -92.355141,
+    34.813251,
+    -92.355141,
+    34.813251
+],
   "geometry": {"coordinates":[-92.355141,34.813251],"type":"Point"}
 }

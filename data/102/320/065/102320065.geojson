@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102320065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.137138,35.299671,-93.137138,35.299671",
     "geom:latitude":35.299671,
     "geom:longitude":-93.137138,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2005 N Arkansas Ave",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837141,
+        85688549,
         85633793,
         85919515,
         102082511,
-        85688549
+        85837141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102320065,
-    "wof:lastmodified":1449068400,
+    "wof:lastmodified":1466323348,
     "wof:name":"Prime Time Rentals",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.137138,35.299671,-93.137138,35.299671],
-  "geometry": {"coordinates":[-93.137138,35.299671],"type":"Point"}
+  "bbox": [
+    -93.137138,
+    35.299671,
+    -93.137138,
+    35.299671
+],
+  "geometry": {"coordinates":[-93.13713799999999,35.299671],"type":"Point"}
 }

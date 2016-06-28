@@ -2,13 +2,14 @@
   "id": 219671945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.391793,36.205834,-90.391793,36.205834",
     "geom:latitude":36.205834,
     "geom:longitude":-90.391793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1011 Greene Road 424",
     "sg:city":"Marmaduke",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219671945,
-    "wof:lastmodified":1449071204,
+    "wof:lastmodified":1466324879,
     "wof:name":"Ronald Curtis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "cotton"
     ]
 },
-  "bbox": [-90.391793,36.205834,-90.391793,36.205834],
-  "geometry": {"coordinates":[-90.391793,36.205834],"type":"Point"}
+  "bbox": [
+    -90.391793,
+    36.205834,
+    -90.391793,
+    36.205834
+],
+  "geometry": {"coordinates":[-90.39179300000001,36.205834],"type":"Point"}
 }

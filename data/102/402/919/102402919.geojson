@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102402919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.892611,36.05416,-91.892611,36.05416",
     "geom:latitude":36.05416,
     "geom:longitude":-91.892611,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 Allen St",
     "sg:city":"Melbourne",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102402919,
-    "wof:lastmodified":1449068560,
+    "wof:lastmodified":1466324634,
     "wof:name":"Moser Well Drilling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.892611,36.05416,-91.892611,36.05416],
+  "bbox": [
+    -91.892611,
+    36.05416,
+    -91.892611,
+    36.05416
+],
   "geometry": {"coordinates":[-91.892611,36.05416],"type":"Point"}
 }

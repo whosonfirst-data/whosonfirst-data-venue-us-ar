@@ -2,13 +2,14 @@
   "id": 220065359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.137397,35.279059,-93.137397,35.279059",
     "geom:latitude":35.279059,
     "geom:longitude":-93.137397,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"511 W Main St",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -67,10 +68,11 @@
         }
     ],
     "wof:id":220065359,
-    "wof:lastmodified":1449074867,
+    "wof:lastmodified":1466321159,
     "wof:name":"Turn-Key Business",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -82,6 +84,11 @@
         "equipment"
     ]
 },
-  "bbox": [-93.137397,35.279059,-93.137397,35.279059],
-  "geometry": {"coordinates":[-93.137397,35.279059],"type":"Point"}
+  "bbox": [
+    -93.137397,
+    35.279059,
+    -93.137397,
+    35.279059
+],
+  "geometry": {"coordinates":[-93.13739700000001,35.279059],"type":"Point"}
 }

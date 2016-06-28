@@ -2,13 +2,14 @@
   "id": 219217097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.224414,33.267898,-93.224414,33.267898",
     "geom:latitude":33.267898,
     "geom:longitude":-93.224414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"213 N Fredrick",
     "sg:city":"Magnolia",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219217097,
-    "wof:lastmodified":1449073696,
+    "wof:lastmodified":1466321020,
     "wof:name":"It's Fashion Metro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "women's"
     ]
 },
-  "bbox": [-93.224414,33.267898,-93.224414,33.267898],
+  "bbox": [
+    -93.224414,
+    33.267898,
+    -93.224414,
+    33.267898
+],
   "geometry": {"coordinates":[-93.224414,33.267898],"type":"Point"}
 }

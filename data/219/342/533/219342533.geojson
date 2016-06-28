@@ -2,13 +2,14 @@
   "id": 219342533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.539664,34.563174,-92.539664,34.563174",
     "geom:latitude":34.563174,
     "geom:longitude":-92.539664,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4023 Gattin Rd",
     "sg:city":"Benton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219342533,
-    "wof:lastmodified":1449073653,
+    "wof:lastmodified":1466322142,
     "wof:name":"Benton Penecostal Church of God",
     "wof:parent_id":85844395,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "churches-church"
     ]
 },
-  "bbox": [-92.539664,34.563174,-92.539664,34.563174],
+  "bbox": [
+    -92.539664,
+    34.563174,
+    -92.539664,
+    34.563174
+],
   "geometry": {"coordinates":[-92.539664,34.563174],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219482735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.083287,35.643089,-91.083287,35.643089",
     "geom:latitude":35.643089,
     "geom:longitude":-91.083287,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"680 Jackson 213",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219482735,
-    "wof:lastmodified":1449071644,
+    "wof:lastmodified":1466323703,
     "wof:name":"Donald Best",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [-91.083287,35.643089,-91.083287,35.643089],
+  "bbox": [
+    -91.083287,
+    35.643089,
+    -91.083287,
+    35.643089
+],
   "geometry": {"coordinates":[-91.083287,35.643089],"type":"Point"}
 }

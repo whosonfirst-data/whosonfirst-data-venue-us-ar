@@ -2,13 +2,14 @@
   "id": 353754419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.37699,34.484888,-94.37699,34.484888",
     "geom:latitude":34.484888,
     "geom:longitude":-94.37699,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 S 3rd St",
     "sg:city":"Hatfield",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353754419,
-    "wof:lastmodified":1449019918,
+    "wof:lastmodified":1466320501,
     "wof:name":"Hatfield Schools",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.37699,34.484888,-94.37699,34.484888],
-  "geometry": {"coordinates":[-94.37699,34.484888],"type":"Point"}
+  "bbox": [
+    -94.37699,
+    34.484888,
+    -94.37699,
+    34.484888
+],
+  "geometry": {"coordinates":[-94.37699000000001,34.484888],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102386539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.911263,34.944995,-91.911263,34.944995",
     "geom:latitude":34.944995,
     "geom:longitude":-91.911263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"365 Heffner Rd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102386539,
-    "wof:lastmodified":1449069018,
+    "wof:lastmodified":1466323440,
     "wof:name":"Huk Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.911263,34.944995,-91.911263,34.944995],
-  "geometry": {"coordinates":[-91.911263,34.944995],"type":"Point"}
+  "bbox": [
+    -91.911263,
+    34.944995,
+    -91.911263,
+    34.944995
+],
+  "geometry": {"coordinates":[-91.91126300000001,34.944995],"type":"Point"}
 }

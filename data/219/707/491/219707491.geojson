@@ -2,13 +2,14 @@
   "id": 219707491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.929704,36.362527,-90.929704,36.362527",
     "geom:latitude":36.362527,
     "geom:longitude":-90.929704,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9695 Highway 115",
     "sg:city":"Pocahontas",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219707491,
-    "wof:lastmodified":1449073355,
+    "wof:lastmodified":1466324869,
     "wof:name":"Barr's Bill Roofing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-90.929704,36.362527,-90.929704,36.362527],
+  "bbox": [
+    -90.929704,
+    36.362527,
+    -90.929704,
+    36.362527
+],
   "geometry": {"coordinates":[-90.929704,36.362527],"type":"Point"}
 }

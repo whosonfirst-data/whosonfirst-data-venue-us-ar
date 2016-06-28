@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102282031",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.006251,34.755947,-91.006251,34.755947",
     "geom:latitude":34.755947,
     "geom:longitude":-91.006251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"402 Lee Road 153",
     "sg:city":"Moro",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102282031",
-    "wof:lastmodified":1449069267,
+    "wof:lastmodified":1466322568,
     "wof:name":"Big Creek Ducks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.006251,34.755947,-91.006251,34.755947],
-  "geometry": {"coordinates":[-91.006251,34.755947],"type":"Point"}
+  "bbox": [
+    -91.006251,
+    34.755947,
+    -91.006251,
+    34.755947
+],
+  "geometry": {"coordinates":[-91.00625100000001,34.755947],"type":"Point"}
 }

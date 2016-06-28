@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102403577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.26601,34.134769,-91.26601,34.134769",
     "geom:latitude":34.134769,
     "geom:longitude":-91.26601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1030 State Hwy 44",
     "sg:city":"Tichnor",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":102403577,
-    "wof:lastmodified":1449069840,
+    "wof:lastmodified":1466324752,
     "wof:name":"UAP Midsouth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.26601,34.134769,-91.26601,34.134769],
-  "geometry": {"coordinates":[-91.26601,34.134769],"type":"Point"}
+  "bbox": [
+    -91.26601,
+    34.134769,
+    -91.26601,
+    34.134769
+],
+  "geometry": {"coordinates":[-91.26600999999999,34.134769],"type":"Point"}
 }

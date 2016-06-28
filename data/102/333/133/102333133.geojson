@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102333133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.778472,34.783117,-90.778472,34.783117",
     "geom:latitude":34.783117,
     "geom:longitude":-90.778472,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"440 Forrest Ave",
     "sg:city":"Marianna",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102333133,
-    "wof:lastmodified":1449070015,
+    "wof:lastmodified":1466323661,
     "wof:name":"Lovell Service Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.778472,34.783117,-90.778472,34.783117],
-  "geometry": {"coordinates":[-90.778472,34.783117],"type":"Point"}
+  "bbox": [
+    -90.778472,
+    34.783117,
+    -90.778472,
+    34.783117
+],
+  "geometry": {"coordinates":[-90.77847199999999,34.783117],"type":"Point"}
 }

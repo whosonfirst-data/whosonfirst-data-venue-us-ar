@@ -2,13 +2,14 @@
   "id": 235947703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.812729,36.598024,-94.812729,36.598024",
     "geom:latitude":36.598024,
     "geom:longitude":-94.812729,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"64100 E 290 Rd",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":235947703,
-    "wof:lastmodified":1449008500,
+    "wof:lastmodified":1466320432,
     "wof:name":"Grand Towing Wrecker And Stor",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "towing"
     ]
 },
-  "bbox": [-94.812729,36.598024,-94.812729,36.598024],
+  "bbox": [
+    -94.812729,
+    36.598024,
+    -94.812729,
+    36.598024
+],
   "geometry": {"coordinates":[-94.812729,36.598024],"type":"Point"}
 }

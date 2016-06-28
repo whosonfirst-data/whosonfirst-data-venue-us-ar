@@ -2,13 +2,14 @@
   "id": 219554897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.553071,34.482646,-91.553071,34.482646",
     "geom:latitude":34.482646,
     "geom:longitude":-91.553071,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2014 S Main St",
     "sg:city":"Stuttgart",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219554897,
-    "wof:lastmodified":1449071124,
+    "wof:lastmodified":1466324373,
     "wof:name":"Winfrey Glen L CPA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "public"
     ]
 },
-  "bbox": [-91.553071,34.482646,-91.553071,34.482646],
+  "bbox": [
+    -91.553071,
+    34.482646,
+    -91.553071,
+    34.482646
+],
   "geometry": {"coordinates":[-91.553071,34.482646],"type":"Point"}
 }

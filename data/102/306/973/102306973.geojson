@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102306973",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.5704,34.627477,-92.5704,34.627477",
     "geom:latitude":34.627477,
     "geom:longitude":-92.5704,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1270 Salem Rd",
     "sg:city":"Benton",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":"102306973",
-    "wof:lastmodified":1449070095,
+    "wof:lastmodified":1466323297,
     "wof:name":"Jake Postema",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.5704,34.627477,-92.5704,34.627477],
-  "geometry": {"coordinates":[-92.5704,34.627477],"type":"Point"}
+  "bbox": [
+    -92.5704,
+    34.627477,
+    -92.5704,
+    34.627477
+],
+  "geometry": {"coordinates":[-92.57040000000001,34.627477],"type":"Point"}
 }

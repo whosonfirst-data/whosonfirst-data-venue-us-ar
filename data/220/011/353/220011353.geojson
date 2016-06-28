@@ -2,13 +2,14 @@
   "id": 220011353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.233559,36.203137,-94.233559,36.203137",
     "geom:latitude":36.203137,
     "geom:longitude":-94.233559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"337 S Elm St",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220011353,
-    "wof:lastmodified":1449074702,
+    "wof:lastmodified":1466320476,
     "wof:name":"el Centenario",
     "wof:parent_id":85885477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "western"
     ]
 },
-  "bbox": [-94.233559,36.203137,-94.233559,36.203137],
+  "bbox": [
+    -94.233559,
+    36.203137,
+    -94.233559,
+    36.203137
+],
   "geometry": {"coordinates":[-94.233559,36.203137],"type":"Point"}
 }

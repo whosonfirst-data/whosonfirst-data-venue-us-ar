@@ -2,13 +2,14 @@
   "id": 219677243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.473807,36.087256,-90.473807,36.087256",
     "geom:latitude":36.087256,
     "geom:longitude":-90.473807,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2403 Cupp Rd",
     "sg:city":"Paragould",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219677243,
-    "wof:lastmodified":1449071661,
+    "wof:lastmodified":1466324831,
     "wof:name":"Chipman Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-90.473807,36.087256,-90.473807,36.087256],
-  "geometry": {"coordinates":[-90.473807,36.087256],"type":"Point"}
+  "bbox": [
+    -90.473807,
+    36.087256,
+    -90.473807,
+    36.087256
+],
+  "geometry": {"coordinates":[-90.47380699999999,36.087256],"type":"Point"}
 }

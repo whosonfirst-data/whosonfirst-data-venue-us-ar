@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102355981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.101307,33.689046,-94.101307,33.689046",
     "geom:latitude":33.689046,
     "geom:longitude":-94.101307,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1415 Deerwood Dr",
     "sg:city":"Ashdown",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102355981,
-    "wof:lastmodified":1449068457,
+    "wof:lastmodified":1466324275,
     "wof:name":"Strand Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.101307,33.689046,-94.101307,33.689046],
-  "geometry": {"coordinates":[-94.101307,33.689046],"type":"Point"}
+  "bbox": [
+    -94.101307,
+    33.689046,
+    -94.101307,
+    33.689046
+],
+  "geometry": {"coordinates":[-94.10130700000001,33.689046],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219889277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.197489,36.344432,-94.197489,36.344432",
     "geom:latitude":36.344432,
     "geom:longitude":-94.197489,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2618 SE J St Ste 6",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219889277,
-    "wof:lastmodified":1449070314,
+    "wof:lastmodified":1466325009,
     "wof:name":"Pate Family Dentistry",
     "wof:parent_id":85895815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pediatric"
     ]
 },
-  "bbox": [-94.197489,36.344432,-94.197489,36.344432],
+  "bbox": [
+    -94.197489,
+    36.344432,
+    -94.197489,
+    36.344432
+],
   "geometry": {"coordinates":[-94.197489,36.344432],"type":"Point"}
 }

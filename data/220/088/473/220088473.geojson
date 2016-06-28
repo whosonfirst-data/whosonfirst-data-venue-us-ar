@@ -2,13 +2,14 @@
   "id": 220088473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.343274,35.535991,-93.343274,35.535991",
     "geom:latitude":35.535991,
     "geom:longitude":-93.343274,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"457 Dogwood Trl",
     "sg:city":"Lamar",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":220088473,
-    "wof:lastmodified":1449074656,
+    "wof:lastmodified":1466321867,
     "wof:name":"La Customs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "repairing"
     ]
 },
-  "bbox": [-93.343274,35.535991,-93.343274,35.535991],
-  "geometry": {"coordinates":[-93.343274,35.535991],"type":"Point"}
+  "bbox": [
+    -93.343274,
+    35.535991,
+    -93.343274,
+    35.535991
+],
+  "geometry": {"coordinates":[-93.34327399999999,35.535991],"type":"Point"}
 }

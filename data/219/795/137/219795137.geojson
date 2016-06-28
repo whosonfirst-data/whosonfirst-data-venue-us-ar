@@ -2,13 +2,14 @@
   "id": 219795137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.600821,36.278878,-92.600821,36.278878",
     "geom:latitude":36.278878,
     "geom:longitude":-92.600821,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 N 1st St",
     "sg:city":"Flippin",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219795137,
-    "wof:lastmodified":1449072475,
+    "wof:lastmodified":1466324948,
     "wof:name":"Sparks Automotive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.600821,36.278878,-92.600821,36.278878],
+  "bbox": [
+    -92.600821,
+    36.278878,
+    -92.600821,
+    36.278878
+],
   "geometry": {"coordinates":[-92.600821,36.278878],"type":"Point"}
 }

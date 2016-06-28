@@ -2,13 +2,14 @@
   "id": 220000153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.056374,36.286664,-94.056374,36.286664",
     "geom:latitude":36.286664,
     "geom:longitude":-94.056374,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10158 Old Campbell Rd",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220000153,
-    "wof:lastmodified":1449074167,
+    "wof:lastmodified":1466320441,
     "wof:name":"Association Of Disability Advocates Incorporated",
     "wof:parent_id":85834957,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "plan"
     ]
 },
-  "bbox": [-94.056374,36.286664,-94.056374,36.286664],
-  "geometry": {"coordinates":[-94.056374,36.286664],"type":"Point"}
+  "bbox": [
+    -94.056374,
+    36.286664,
+    -94.056374,
+    36.286664
+],
+  "geometry": {"coordinates":[-94.05637400000001,36.286664],"type":"Point"}
 }

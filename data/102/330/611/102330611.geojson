@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102330611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.151795,36.357004,-94.151795,36.357004",
     "geom:latitude":36.357004,
     "geom:longitude":-94.151795,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2505 N 24th St",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102330611,
-    "wof:lastmodified":1449068953,
+    "wof:lastmodified":1466323666,
     "wof:name":"RSC Equipment Rental",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.151795,36.357004,-94.151795,36.357004],
-  "geometry": {"coordinates":[-94.151795,36.357004],"type":"Point"}
+  "bbox": [
+    -94.151795,
+    36.357004,
+    -94.151795,
+    36.357004
+],
+  "geometry": {"coordinates":[-94.15179500000001,36.357004],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102371843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.328959,34.69597,-92.328959,34.69597",
     "geom:latitude":34.69597,
     "geom:longitude":-92.328959,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Applegate Ct",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85803283,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85803283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102371843,
-    "wof:lastmodified":1449069648,
+    "wof:lastmodified":1466324505,
     "wof:name":"Phenomenal Cleaning Svc",
     "wof:parent_id":85803283,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.328959,34.69597,-92.328959,34.69597],
+  "bbox": [
+    -92.328959,
+    34.69597,
+    -92.328959,
+    34.69597
+],
   "geometry": {"coordinates":[-92.328959,34.69597],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220052933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.137398,36.228574,-94.137398,36.228574",
     "geom:latitude":36.228574,
     "geom:longitude":-94.137398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5106 S Thompson St",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":220052933,
-    "wof:lastmodified":1449074383,
+    "wof:lastmodified":1466320758,
     "wof:name":"Simmons First Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-94.137398,36.228574,-94.137398,36.228574],
+  "bbox": [
+    -94.137398,
+    36.228574,
+    -94.137398,
+    36.228574
+],
   "geometry": {"coordinates":[-94.137398,36.228574],"type":"Point"}
 }

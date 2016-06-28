@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102204005",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.718572,33.169951,-92.718572,33.169951",
     "geom:latitude":33.169951,
     "geom:longitude":-92.718572,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 Evans Dr",
     "sg:city":"El Dorado",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":"102204005",
-    "wof:lastmodified":1449070282,
+    "wof:lastmodified":1466320671,
     "wof:name":"Church Of God",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.718572,33.169951,-92.718572,33.169951],
-  "geometry": {"coordinates":[-92.718572,33.169951],"type":"Point"}
+  "bbox": [
+    -92.718572,
+    33.169951,
+    -92.718572,
+    33.169951
+],
+  "geometry": {"coordinates":[-92.71857199999999,33.169951],"type":"Point"}
 }

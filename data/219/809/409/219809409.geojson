@@ -2,13 +2,14 @@
   "id": 219809409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.686462,36.225391,-92.686462,36.225391",
     "geom:latitude":36.225391,
     "geom:longitude":-92.686462,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 W Old Main St",
     "sg:city":"Yellville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219809409,
-    "wof:lastmodified":1449073287,
+    "wof:lastmodified":1466324958,
     "wof:name":"Marion Company Assessor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.686462,36.225391,-92.686462,36.225391],
-  "geometry": {"coordinates":[-92.686462,36.225391],"type":"Point"}
+  "bbox": [
+    -92.686462,
+    36.225391,
+    -92.686462,
+    36.225391
+],
+  "geometry": {"coordinates":[-92.68646200000001,36.225391],"type":"Point"}
 }

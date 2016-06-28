@@ -2,13 +2,14 @@
   "id": 219458171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.79216,34.364909,-92.79216,34.364909",
     "geom:latitude":34.364909,
     "geom:longitude":-92.79216,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1702 E Page Ave",
     "sg:city":"Malvern",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219458171,
-    "wof:lastmodified":1449072911,
+    "wof:lastmodified":1466323452,
     "wof:name":"New Beginnings Baptist Ch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "churches-baptist"
     ]
 },
-  "bbox": [-92.79216,34.364909,-92.79216,34.364909],
+  "bbox": [
+    -92.79216,
+    34.364909,
+    -92.79216,
+    34.364909
+],
   "geometry": {"coordinates":[-92.79216,34.364909],"type":"Point"}
 }

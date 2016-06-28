@@ -2,13 +2,14 @@
   "id": 220029589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.178886,36.16391,-94.178886,36.16391",
     "geom:latitude":36.16391,
     "geom:longitude":-94.178886,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4208 Chapman Ave",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220029589,
-    "wof:lastmodified":1449074379,
+    "wof:lastmodified":1466320513,
     "wof:name":"Independent Beauty Consultant",
     "wof:parent_id":85885473,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "coach"
     ]
 },
-  "bbox": [-94.178886,36.16391,-94.178886,36.16391],
-  "geometry": {"coordinates":[-94.178886,36.16391],"type":"Point"}
+  "bbox": [
+    -94.178886,
+    36.16391,
+    -94.178886,
+    36.16391
+],
+  "geometry": {"coordinates":[-94.17888600000001,36.16391],"type":"Point"}
 }

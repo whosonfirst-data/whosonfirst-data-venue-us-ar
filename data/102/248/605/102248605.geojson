@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102248605",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.338237,35.345995,-94.338237,35.345995",
     "geom:latitude":35.345995,
     "geom:longitude":-94.338237,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8434 Phoenix Ave",
     "sg:city":"Fort Smith",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85832863,
+        85688549,
         85633793,
         85921431,
         102082025,
-        85688549
+        85832863
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":"102248605",
-    "wof:lastmodified":1449069063,
+    "wof:lastmodified":1466321866,
     "wof:name":"Movietown",
     "wof:parent_id":85832863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.338237,35.345995,-94.338237,35.345995],
-  "geometry": {"coordinates":[-94.338237,35.345995],"type":"Point"}
+  "bbox": [
+    -94.338237,
+    35.345995,
+    -94.338237,
+    35.345995
+],
+  "geometry": {"coordinates":[-94.33823700000001,35.345995],"type":"Point"}
 }

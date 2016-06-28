@@ -2,13 +2,14 @@
   "id": 219286483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.138634,34.054097,-93.138634,34.054097",
     "geom:latitude":34.054097,
     "geom:longitude":-93.138634,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 Mcneely Rd",
     "sg:city":"Arkadelphia",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219286483,
-    "wof:lastmodified":1449071325,
+    "wof:lastmodified":1466321623,
     "wof:name":"Manning Appliance Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "refinishing"
     ]
 },
-  "bbox": [-93.138634,34.054097,-93.138634,34.054097],
+  "bbox": [
+    -93.138634,
+    34.054097,
+    -93.138634,
+    34.054097
+],
   "geometry": {"coordinates":[-93.138634,34.054097],"type":"Point"}
 }

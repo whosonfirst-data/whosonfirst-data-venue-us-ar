@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102277983",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.31366,35.973036,-94.31366,35.973036",
     "geom:latitude":35.973036,
     "geom:longitude":-94.31366,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 S Pittman St",
     "sg:city":"Prairie Grove",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885467,
+        85688549,
         85633793,
         85919585,
         102082007,
-        85688549
+        85885467
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102277983",
-    "wof:lastmodified":1449068068,
+    "wof:lastmodified":1466322671,
     "wof:name":"Spencer Sales",
     "wof:parent_id":85885467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.31366,35.973036,-94.31366,35.973036],
+  "bbox": [
+    -94.31366,
+    35.973036,
+    -94.31366,
+    35.973036
+],
   "geometry": {"coordinates":[-94.31366,35.973036],"type":"Point"}
 }

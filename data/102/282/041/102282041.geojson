@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102282041",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.414932,34.750492,-92.414932,34.750492",
     "geom:latitude":34.750492,
     "geom:longitude":-92.414932,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12725 Valley Wood Dr",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85846637,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85846637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102282041",
-    "wof:lastmodified":1449069269,
+    "wof:lastmodified":1466322570,
     "wof:name":"Jake E Lasiter",
     "wof:parent_id":85846637,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.414932,34.750492,-92.414932,34.750492],
-  "geometry": {"coordinates":[-92.414932,34.750492],"type":"Point"}
+  "bbox": [
+    -92.414932,
+    34.750492,
+    -92.414932,
+    34.750492
+],
+  "geometry": {"coordinates":[-92.41493199999999,34.750492],"type":"Point"}
 }

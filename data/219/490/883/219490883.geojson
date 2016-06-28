@@ -2,13 +2,14 @@
   "id": 219490883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.213676,34.835227,-92.213676,34.835227",
     "geom:latitude":34.835227,
     "geom:longitude":-92.213676,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Thornhill Dr",
     "sg:city":"Sherwood",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219490883,
-    "wof:lastmodified":1449073563,
+    "wof:lastmodified":1466323858,
     "wof:name":"Robert Harsch Inc",
     "wof:parent_id":85837729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "designer"
     ]
 },
-  "bbox": [-92.213676,34.835227,-92.213676,34.835227],
-  "geometry": {"coordinates":[-92.213676,34.835227],"type":"Point"}
+  "bbox": [
+    -92.213676,
+    34.835227,
+    -92.213676,
+    34.835227
+],
+  "geometry": {"coordinates":[-92.21367600000001,34.835227],"type":"Point"}
 }

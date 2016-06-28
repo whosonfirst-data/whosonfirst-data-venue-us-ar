@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102276803",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.213766,34.802603,-92.213766,34.802603",
     "geom:latitude":34.802603,
     "geom:longitude":-92.213766,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5301 Warden Rd",
     "sg:city":"N Little Rock",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852263,
+        85688549,
         85633793,
         85921255,
         102082497,
-        85688549
+        85852263
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102276803",
-    "wof:lastmodified":1449067867,
+    "wof:lastmodified":1466322603,
     "wof:name":"Kevin KERR Financial Svc Inc",
     "wof:parent_id":85852263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.213766,34.802603,-92.213766,34.802603],
-  "geometry": {"coordinates":[-92.213766,34.802603],"type":"Point"}
+  "bbox": [
+    -92.213766,
+    34.802603,
+    -92.213766,
+    34.802603
+],
+  "geometry": {"coordinates":[-92.21376600000001,34.802603],"type":"Point"}
 }

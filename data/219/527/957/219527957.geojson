@@ -2,13 +2,14 @@
   "id": 219527957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.728061,35.22409,-91.728061,35.22409",
     "geom:latitude":35.22409,
     "geom:longitude":-91.728061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"608 E Booth Rd",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":219527957,
-    "wof:lastmodified":1449073208,
+    "wof:lastmodified":1466324165,
     "wof:name":"Bpi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "shows"
     ]
 },
-  "bbox": [-91.728061,35.22409,-91.728061,35.22409],
+  "bbox": [
+    -91.728061,
+    35.22409,
+    -91.728061,
+    35.22409
+],
   "geometry": {"coordinates":[-91.728061,35.22409],"type":"Point"}
 }

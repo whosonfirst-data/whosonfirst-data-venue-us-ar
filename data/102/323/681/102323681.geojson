@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102323681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.946582,35.721187,-91.946582,35.721187",
     "geom:latitude":35.721187,
     "geom:longitude":-91.946582,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"460 Ben Rd",
     "sg:city":"Drasco",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102323681,
-    "wof:lastmodified":1449068008,
+    "wof:lastmodified":1466323568,
     "wof:name":"Ben Volunteer Fire Depart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.946582,35.721187,-91.946582,35.721187],
-  "geometry": {"coordinates":[-91.946582,35.721187],"type":"Point"}
+  "bbox": [
+    -91.946582,
+    35.721187,
+    -91.946582,
+    35.721187
+],
+  "geometry": {"coordinates":[-91.94658200000001,35.721187],"type":"Point"}
 }

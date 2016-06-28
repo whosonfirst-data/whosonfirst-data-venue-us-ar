@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102331177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.103122,35.87307,-92.103122,35.87307",
     "geom:latitude":35.87307,
     "geom:longitude":-92.103122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 Sylamore Ave",
     "sg:city":"Mountain View",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102331177,
-    "wof:lastmodified":1449069212,
+    "wof:lastmodified":1466323587,
     "wof:name":"Fiddlers Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.103122,35.87307,-92.103122,35.87307],
+  "bbox": [
+    -92.103122,
+    35.87307,
+    -92.103122,
+    35.87307
+],
   "geometry": {"coordinates":[-92.103122,35.87307],"type":"Point"}
 }

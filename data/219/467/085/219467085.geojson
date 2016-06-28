@@ -2,13 +2,14 @@
   "id": 219467085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.427422,34.95761,-92.427422,34.95761",
     "geom:latitude":34.95761,
     "geom:longitude":-92.427422,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 N Main St",
     "sg:city":"Mayflower",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219467085,
-    "wof:lastmodified":1449073171,
+    "wof:lastmodified":1466323526,
     "wof:name":"Church Of Christ Mayflower",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "christ"
     ]
 },
-  "bbox": [-92.427422,34.95761,-92.427422,34.95761],
-  "geometry": {"coordinates":[-92.427422,34.95761],"type":"Point"}
+  "bbox": [
+    -92.427422,
+    34.95761,
+    -92.427422,
+    34.95761
+],
+  "geometry": {"coordinates":[-92.42742200000001,34.95761],"type":"Point"}
 }

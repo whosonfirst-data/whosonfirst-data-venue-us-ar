@@ -2,13 +2,14 @@
   "id": 219370217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.821912,34.762342,-91.821912,34.762342",
     "geom:latitude":34.762342,
     "geom:longitude":-91.821912,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5257 Miller Rd",
     "sg:city":"Carlisle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219370217,
-    "wof:lastmodified":1449072303,
+    "wof:lastmodified":1466322585,
     "wof:name":"Four Parker Farms",
     "wof:parent_id":85811577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [-91.821912,34.762342,-91.821912,34.762342],
+  "bbox": [
+    -91.821912,
+    34.762342,
+    -91.821912,
+    34.762342
+],
   "geometry": {"coordinates":[-91.821912,34.762342],"type":"Point"}
 }

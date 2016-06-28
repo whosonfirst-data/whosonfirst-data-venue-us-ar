@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102282997",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.534024,34.606019,-92.534024,34.606019",
     "geom:latitude":34.606019,
     "geom:longitude":-92.534024,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19800 I- 30",
     "sg:city":"Benton",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85817531,
+        85688549,
         85633793,
         85921383,
         102083257,
-        85688549
+        85817531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102282997",
-    "wof:lastmodified":1449069269,
+    "wof:lastmodified":1466322768,
     "wof:name":"Our Kids Furniture World Inc",
     "wof:parent_id":85817531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.534024,34.606019,-92.534024,34.606019],
+  "bbox": [
+    -92.534024,
+    34.606019,
+    -92.534024,
+    34.606019
+],
   "geometry": {"coordinates":[-92.534024,34.606019],"type":"Point"}
 }

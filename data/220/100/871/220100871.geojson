@@ -2,13 +2,14 @@
   "id": 220100871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.209904,35.521494,-94.209904,35.521494",
     "geom:latitude":35.521494,
     "geom:longitude":-94.209904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 Fine Way",
     "sg:city":"Alma",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":220100871,
-    "wof:lastmodified":1449074639,
+    "wof:lastmodified":1466322238,
     "wof:name":"Or Jackie Taylor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "product"
     ]
 },
-  "bbox": [-94.209904,35.521494,-94.209904,35.521494],
-  "geometry": {"coordinates":[-94.209904,35.521494],"type":"Point"}
+  "bbox": [
+    -94.209904,
+    35.521494,
+    -94.209904,
+    35.521494
+],
+  "geometry": {"coordinates":[-94.20990399999999,35.521494],"type":"Point"}
 }

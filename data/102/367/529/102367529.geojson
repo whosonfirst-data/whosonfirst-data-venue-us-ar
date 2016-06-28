@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102367529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.536547,34.605026,-92.536547,34.605026",
     "geom:latitude":34.605026,
     "geom:longitude":-92.536547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19121 I- 30",
     "sg:city":"Benton",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85817531,
+        85688549,
         85633793,
         85921383,
         102083257,
-        85688549
+        85817531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102367529,
-    "wof:lastmodified":1449069166,
+    "wof:lastmodified":1466324432,
     "wof:name":"Texas Metal Industries",
     "wof:parent_id":85817531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.536547,34.605026,-92.536547,34.605026],
+  "bbox": [
+    -92.536547,
+    34.605026,
+    -92.536547,
+    34.605026
+],
   "geometry": {"coordinates":[-92.536547,34.605026],"type":"Point"}
 }

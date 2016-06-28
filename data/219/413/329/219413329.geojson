@@ -2,13 +2,14 @@
   "id": 219413329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.469673,35.09227,-92.469673,35.09227",
     "geom:latitude":35.09227,
     "geom:longitude":-92.469673,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2843 Prince St",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219413329,
-    "wof:lastmodified":1449070946,
+    "wof:lastmodified":1466322961,
     "wof:name":"Anb Financial",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "planner"
     ]
 },
-  "bbox": [-92.469673,35.09227,-92.469673,35.09227],
+  "bbox": [
+    -92.469673,
+    35.09227,
+    -92.469673,
+    35.09227
+],
   "geometry": {"coordinates":[-92.469673,35.09227],"type":"Point"}
 }

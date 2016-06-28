@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102341185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.7863,35.22647,-90.7863,35.22647",
     "geom:latitude":35.22647,
     "geom:longitude":-90.7863,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"513 N Falls Blvd",
     "sg:city":"Wynne",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85819407,
+        85688549,
         85633793,
         85920499,
         102083223,
-        85688549
+        85819407
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102341185,
-    "wof:lastmodified":1449070104,
+    "wof:lastmodified":1466323787,
     "wof:name":"Larands",
     "wof:parent_id":85819407,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.7863,35.22647,-90.7863,35.22647],
+  "bbox": [
+    -90.7863,
+    35.22647,
+    -90.7863,
+    35.22647
+],
   "geometry": {"coordinates":[-90.7863,35.22647],"type":"Point"}
 }

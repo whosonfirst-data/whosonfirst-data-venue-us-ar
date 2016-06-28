@@ -2,13 +2,14 @@
   "id": 219463067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.82415,34.372849,-92.82415,34.372849",
     "geom:latitude":34.372849,
     "geom:longitude":-92.82415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 Highway 270",
     "sg:city":"Malvern",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219463067,
-    "wof:lastmodified":1449072843,
+    "wof:lastmodified":1466323492,
     "wof:name":"Us Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "commercial"
     ]
 },
-  "bbox": [-92.82415,34.372849,-92.82415,34.372849],
+  "bbox": [
+    -92.82415,
+    34.372849,
+    -92.82415,
+    34.372849
+],
   "geometry": {"coordinates":[-92.82415,34.372849],"type":"Point"}
 }

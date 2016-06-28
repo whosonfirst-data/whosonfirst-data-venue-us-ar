@@ -2,13 +2,14 @@
   "id": 219623455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.788149,35.223488,-90.788149,35.223488",
     "geom:latitude":35.223488,
     "geom:longitude":-90.788149,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Harris St E",
     "sg:city":"Wynne",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":219623455,
-    "wof:lastmodified":1449072871,
+    "wof:lastmodified":1466324833,
     "wof:name":"Bobby Lynaugh's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "repairing"
     ]
 },
-  "bbox": [-90.788149,35.223488,-90.788149,35.223488],
+  "bbox": [
+    -90.788149,
+    35.223488,
+    -90.788149,
+    35.223488
+],
   "geometry": {"coordinates":[-90.788149,35.223488],"type":"Point"}
 }

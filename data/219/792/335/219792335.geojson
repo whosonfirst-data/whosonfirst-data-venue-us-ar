@@ -2,13 +2,14 @@
   "id": 219792335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.550502,36.314921,-92.550502,36.314921",
     "geom:latitude":36.314921,
     "geom:longitude":-92.550502,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"669 Rainbow Landing Dr",
     "sg:city":"Cotter",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":219792335,
-    "wof:lastmodified":1449071154,
+    "wof:lastmodified":1466324946,
     "wof:name":"Rainbow Drive Resort Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "vehicle"
     ]
 },
-  "bbox": [-92.550502,36.314921,-92.550502,36.314921],
-  "geometry": {"coordinates":[-92.550502,36.314921],"type":"Point"}
+  "bbox": [
+    -92.550502,
+    36.314921,
+    -92.550502,
+    36.314921
+],
+  "geometry": {"coordinates":[-92.55050199999999,36.314921],"type":"Point"}
 }

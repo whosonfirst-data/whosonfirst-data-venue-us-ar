@@ -2,13 +2,14 @@
   "id": 203423357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.797884,33.219696,-91.797884,33.219696",
     "geom:latitude":33.219696,
     "geom:longitude":-91.797884,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"526 S Main St",
     "sg:city":"Hamburg",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":203423357,
-    "wof:lastmodified":1449025256,
+    "wof:lastmodified":1466320677,
     "wof:name":"Subway",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "take"
     ]
 },
-  "bbox": [-91.797884,33.219696,-91.797884,33.219696],
+  "bbox": [
+    -91.797884,
+    33.219696,
+    -91.797884,
+    33.219696
+],
   "geometry": {"coordinates":[-91.797884,33.219696],"type":"Point"}
 }

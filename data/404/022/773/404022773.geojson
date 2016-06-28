@@ -2,13 +2,14 @@
   "id": 404022773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.054532,35.140933,-90.054532,35.140933",
     "geom:latitude":35.140933,
     "geom:longitude":-90.054532,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 S Main St",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404022773,
-    "wof:lastmodified":1449039410,
+    "wof:lastmodified":1466324519,
     "wof:name":"Abs Consultingn/Eqe Div",
     "wof:parent_id":85867183,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-90.054532,35.140933,-90.054532,35.140933],
-  "geometry": {"coordinates":[-90.054532,35.140933],"type":"Point"}
+  "bbox": [
+    -90.054532,
+    35.140933,
+    -90.054532,
+    35.140933
+],
+  "geometry": {"coordinates":[-90.05453199999999,35.140933],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219161865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.814949,33.611728,-91.814949,33.611728",
     "geom:latitude":33.611728,
     "geom:longitude":-91.814949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"741 Scogin Dr",
     "sg:city":"Monticello",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219161865,
-    "wof:lastmodified":1449071783,
+    "wof:lastmodified":1466320483,
     "wof:name":"Monticello Area Occup Educ Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "educational"
     ]
 },
-  "bbox": [-91.814949,33.611728,-91.814949,33.611728],
+  "bbox": [
+    -91.814949,
+    33.611728,
+    -91.814949,
+    33.611728
+],
   "geometry": {"coordinates":[-91.814949,33.611728],"type":"Point"}
 }

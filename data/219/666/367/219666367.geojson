@@ -2,13 +2,14 @@
   "id": 219666367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.969739,36.057713,-90.969739,36.057713",
     "geom:latitude":36.057713,
     "geom:longitude":-90.969739,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 NW Texas St",
     "sg:city":"Hoxie",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":219666367,
-    "wof:lastmodified":1449071684,
+    "wof:lastmodified":1466324790,
     "wof:name":"Save-A-Lot Hoxie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocers-wholesale"
     ]
 },
-  "bbox": [-90.969739,36.057713,-90.969739,36.057713],
+  "bbox": [
+    -90.969739,
+    36.057713,
+    -90.969739,
+    36.057713
+],
   "geometry": {"coordinates":[-90.969739,36.057713],"type":"Point"}
 }

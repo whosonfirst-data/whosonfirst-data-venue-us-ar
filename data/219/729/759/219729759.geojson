@@ -2,13 +2,14 @@
   "id": 219729759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.640642,35.77771,-91.640642,35.77771",
     "geom:latitude":35.77771,
     "geom:longitude":-91.640642,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1316 E Main St",
     "sg:city":"Batesville",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":219729759,
-    "wof:lastmodified":1449072162,
+    "wof:lastmodified":1466324977,
     "wof:name":"Kents 66 Service Inc DBA/Budget Truck Rental",
     "wof:parent_id":85845643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "moving"
     ]
 },
-  "bbox": [-91.640642,35.77771,-91.640642,35.77771],
+  "bbox": [
+    -91.640642,
+    35.77771,
+    -91.640642,
+    35.77771
+],
   "geometry": {"coordinates":[-91.640642,35.77771],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219451127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.404457,34.624691,-92.404457,34.624691",
     "geom:latitude":34.624691,
     "geom:longitude":-92.404457,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11200 Charlotte Dr",
     "sg:city":"Mabelvale",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219451127,
-    "wof:lastmodified":1449071934,
+    "wof:lastmodified":1466323388,
     "wof:name":"Byrd Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-92.404457,34.624691,-92.404457,34.624691],
-  "geometry": {"coordinates":[-92.404457,34.624691],"type":"Point"}
+  "bbox": [
+    -92.404457,
+    34.624691,
+    -92.404457,
+    34.624691
+],
+  "geometry": {"coordinates":[-92.40445699999999,34.624691],"type":"Point"}
 }

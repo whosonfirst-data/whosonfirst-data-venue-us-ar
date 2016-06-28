@@ -2,13 +2,14 @@
   "id": 219935481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.467252,36.058765,-93.467252,36.058765",
     "geom:latitude":36.058765,
     "geom:longitude":-93.467252,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2593 Madison 2590",
     "sg:city":"Kingston",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219935481,
-    "wof:lastmodified":1449073290,
+    "wof:lastmodified":1466325163,
     "wof:name":"Steves Auto Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.467252,36.058765,-93.467252,36.058765],
+  "bbox": [
+    -93.467252,
+    36.058765,
+    -93.467252,
+    36.058765
+],
   "geometry": {"coordinates":[-93.467252,36.058765],"type":"Point"}
 }

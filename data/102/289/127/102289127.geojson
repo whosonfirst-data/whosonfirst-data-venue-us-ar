@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102289127",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.403772,34.731734,-92.403772,34.731734",
     "geom:latitude":34.731734,
     "geom:longitude":-92.403772,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2519 Hickorynut Ct",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878761,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85878761
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102289127",
-    "wof:lastmodified":1449069756,
+    "wof:lastmodified":1466322741,
     "wof:name":"Edwards Engineering PA",
     "wof:parent_id":85878761,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.403772,34.731734,-92.403772,34.731734],
+  "bbox": [
+    -92.403772,
+    34.731734,
+    -92.403772,
+    34.731734
+],
   "geometry": {"coordinates":[-92.403772,34.731734],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219919849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.962672,36.34522,-93.962672,36.34522",
     "geom:latitude":36.34522,
     "geom:longitude":-93.962672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9079 Ventris Rd",
     "sg:city":"Garfield",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219919849,
-    "wof:lastmodified":1449073068,
+    "wof:lastmodified":1466325135,
     "wof:name":"Beaver Lake Dock Service",
     "wof:parent_id":85895833,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "terminals-river"
     ]
 },
-  "bbox": [-93.962672,36.34522,-93.962672,36.34522],
+  "bbox": [
+    -93.962672,
+    36.34522,
+    -93.962672,
+    36.34522
+],
   "geometry": {"coordinates":[-93.962672,36.34522],"type":"Point"}
 }

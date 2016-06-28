@@ -2,13 +2,14 @@
   "id": 320360367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.251252,34.590391,-94.251252,34.590391",
     "geom:latitude":34.590391,
     "geom:longitude":-94.251252,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"463 Polk St N",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320360367,
-    "wof:lastmodified":1449014114,
+    "wof:lastmodified":1466320526,
     "wof:name":"Teletouch Communications Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "signaling"
     ]
 },
-  "bbox": [-94.251252,34.590391,-94.251252,34.590391],
-  "geometry": {"coordinates":[-94.251252,34.590391],"type":"Point"}
+  "bbox": [
+    -94.251252,
+    34.590391,
+    -94.251252,
+    34.590391
+],
+  "geometry": {"coordinates":[-94.25125199999999,34.590391],"type":"Point"}
 }

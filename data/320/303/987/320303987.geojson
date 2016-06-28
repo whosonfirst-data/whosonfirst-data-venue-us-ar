@@ -2,13 +2,14 @@
   "id": 320303987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.541326,36.178993,-94.541326,36.178993",
     "geom:latitude":36.178993,
     "geom:longitude":-94.541326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"719 S Mount Olive St",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320303987,
-    "wof:lastmodified":1449011290,
+    "wof:lastmodified":1466320508,
     "wof:name":"J & M Auto Detailing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "clean"
     ]
 },
-  "bbox": [-94.541326,36.178993,-94.541326,36.178993],
+  "bbox": [
+    -94.541326,
+    36.178993,
+    -94.541326,
+    36.178993
+],
   "geometry": {"coordinates":[-94.541326,36.178993],"type":"Point"}
 }

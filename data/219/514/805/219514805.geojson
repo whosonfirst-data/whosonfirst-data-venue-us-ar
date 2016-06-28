@@ -2,13 +2,14 @@
   "id": 219514805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.766479,35.253263,-91.766479,35.253263",
     "geom:latitude":35.253263,
     "geom:longitude":-91.766479,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"96 N Sawmill Rd",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219514805,
-    "wof:lastmodified":1449072154,
+    "wof:lastmodified":1466324065,
     "wof:name":"Longwood Icf/Mr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "developmentally"
     ]
 },
-  "bbox": [-91.766479,35.253263,-91.766479,35.253263],
+  "bbox": [
+    -91.766479,
+    35.253263,
+    -91.766479,
+    35.253263
+],
   "geometry": {"coordinates":[-91.766479,35.253263],"type":"Point"}
 }

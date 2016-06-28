@@ -2,13 +2,14 @@
   "id": 303896423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.434126,35.314512,-94.434126,35.314512",
     "geom:latitude":35.314512,
     "geom:longitude":-94.434126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7019 State Line Rd",
     "sg:city":"Fort Smith",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":303896423,
-    "wof:lastmodified":1448999011,
+    "wof:lastmodified":1466320629,
     "wof:name":"Kennedy Tile & Marble Co Inc",
     "wof:parent_id":85834235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "mfg"
     ]
 },
-  "bbox": [-94.434126,35.314512,-94.434126,35.314512],
-  "geometry": {"coordinates":[-94.434126,35.314512],"type":"Point"}
+  "bbox": [
+    -94.434126,
+    35.314512,
+    -94.434126,
+    35.314512
+],
+  "geometry": {"coordinates":[-94.43412600000001,35.314512],"type":"Point"}
 }

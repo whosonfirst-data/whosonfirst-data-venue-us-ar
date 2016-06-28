@@ -2,13 +2,14 @@
   "id": 219332643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.50473,34.56654,-92.50473,34.56654",
     "geom:latitude":34.56654,
     "geom:longitude":-92.50473,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 Pine Haven Rd",
     "sg:city":"Bauxite",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219332643,
-    "wof:lastmodified":1449072337,
+    "wof:lastmodified":1466322027,
     "wof:name":"Pine Haven Elementary School",
     "wof:parent_id":85844395,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "elementary"
     ]
 },
-  "bbox": [-92.50473,34.56654,-92.50473,34.56654],
+  "bbox": [
+    -92.50473,
+    34.56654,
+    -92.50473,
+    34.56654
+],
   "geometry": {"coordinates":[-92.50473,34.56654],"type":"Point"}
 }

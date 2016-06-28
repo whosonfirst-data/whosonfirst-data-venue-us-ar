@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102313477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.126336,36.315287,-94.126336,36.315287",
     "geom:latitude":36.315287,
     "geom:longitude":-94.126336,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1602 S 8th St",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102313477,
-    "wof:lastmodified":1449067837,
+    "wof:lastmodified":1466323319,
     "wof:name":"Parents Choice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.126336,36.315287,-94.126336,36.315287],
-  "geometry": {"coordinates":[-94.126336,36.315287],"type":"Point"}
+  "bbox": [
+    -94.126336,
+    36.315287,
+    -94.126336,
+    36.315287
+],
+  "geometry": {"coordinates":[-94.12633599999999,36.315287],"type":"Point"}
 }

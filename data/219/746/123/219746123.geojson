@@ -2,13 +2,14 @@
   "id": 219746123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.910076,36.07324,-91.910076,36.07324",
     "geom:latitude":36.07324,
     "geom:longitude":-91.910076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"306 Dixon St",
     "sg:city":"Melbourne",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219746123,
-    "wof:lastmodified":1449070351,
+    "wof:lastmodified":1466324903,
     "wof:name":"Tax Centers Of America",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "preparation-business"
     ]
 },
-  "bbox": [-91.910076,36.07324,-91.910076,36.07324],
+  "bbox": [
+    -91.910076,
+    36.07324,
+    -91.910076,
+    36.07324
+],
   "geometry": {"coordinates":[-91.910076,36.07324],"type":"Point"}
 }

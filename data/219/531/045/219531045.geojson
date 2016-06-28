@@ -2,13 +2,14 @@
   "id": 219531045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.768495,35.240844,-91.768495,35.240844",
     "geom:latitude":35.240844,
     "geom:longitude":-91.768495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2400 Brittany Ln",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219531045,
-    "wof:lastmodified":1449071227,
+    "wof:lastmodified":1466324187,
     "wof:name":"Jnc Designs Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "designer"
     ]
 },
-  "bbox": [-91.768495,35.240844,-91.768495,35.240844],
+  "bbox": [
+    -91.768495,
+    35.240844,
+    -91.768495,
+    35.240844
+],
   "geometry": {"coordinates":[-91.768495,35.240844],"type":"Point"}
 }

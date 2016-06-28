@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102204883",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.310331,34.638989,-92.310331,34.638989",
     "geom:latitude":34.638989,
     "geom:longitude":-92.310331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11600 Arch St",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102204883",
-    "wof:lastmodified":1449070283,
+    "wof:lastmodified":1466320856,
     "wof:name":"Little Rock Tool Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.310331,34.638989,-92.310331,34.638989],
-  "geometry": {"coordinates":[-92.310331,34.638989],"type":"Point"}
+  "bbox": [
+    -92.310331,
+    34.638989,
+    -92.310331,
+    34.638989
+],
+  "geometry": {"coordinates":[-92.31033100000001,34.638989],"type":"Point"}
 }

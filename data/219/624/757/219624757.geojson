@@ -2,13 +2,14 @@
   "id": 219624757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.72346,35.815366,-90.72346,35.815366",
     "geom:latitude":35.815366,
     "geom:longitude":-90.72346,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1408 Twin Oaks Ave",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219624757,
-    "wof:lastmodified":1449072811,
+    "wof:lastmodified":1466324617,
     "wof:name":"Shannon Design Enterprises, Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "decorator"
     ]
 },
-  "bbox": [-90.72346,35.815366,-90.72346,35.815366],
+  "bbox": [
+    -90.72346,
+    35.815366,
+    -90.72346,
+    35.815366
+],
   "geometry": {"coordinates":[-90.72346,35.815366],"type":"Point"}
 }

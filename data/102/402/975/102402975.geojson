@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102402975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.447725,36.420308,-94.447725,36.420308",
     "geom:latitude":36.420308,
     "geom:longitude":-94.447725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"609 Birmingham St SE",
     "sg:city":"Gravette",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102402975,
-    "wof:lastmodified":1449068560,
+    "wof:lastmodified":1466324843,
     "wof:name":"Gravette Administration Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.447725,36.420308,-94.447725,36.420308],
-  "geometry": {"coordinates":[-94.447725,36.420308],"type":"Point"}
+  "bbox": [
+    -94.447725,
+    36.420308,
+    -94.447725,
+    36.420308
+],
+  "geometry": {"coordinates":[-94.44772500000001,36.420308],"type":"Point"}
 }

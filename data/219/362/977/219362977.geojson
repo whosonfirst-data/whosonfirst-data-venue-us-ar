@@ -2,13 +2,14 @@
   "id": 219362977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.003632,34.985691,-92.003632,34.985691",
     "geom:latitude":34.985691,
     "geom:longitude":-92.003632,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1900 N 2nd St",
     "sg:city":"Cabot",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219362977,
-    "wof:lastmodified":1449072664,
+    "wof:lastmodified":1466322452,
     "wof:name":"Blackwood & Co",
     "wof:parent_id":85839277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "management"
     ]
 },
-  "bbox": [-92.003632,34.985691,-92.003632,34.985691],
+  "bbox": [
+    -92.003632,
+    34.985691,
+    -92.003632,
+    34.985691
+],
   "geometry": {"coordinates":[-92.003632,34.985691],"type":"Point"}
 }

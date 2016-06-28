@@ -2,13 +2,14 @@
   "id": 370366475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.02382,33.470822,-94.02382,33.470822",
     "geom:latitude":33.470822,
     "geom:longitude":-94.02382,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1604 E 50th St",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370366475,
-    "wof:lastmodified":1449031562,
+    "wof:lastmodified":1466324484,
     "wof:name":"Miller Crossing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-94.02382,33.470822,-94.02382,33.470822],
+  "bbox": [
+    -94.02382,
+    33.470822,
+    -94.02382,
+    33.470822
+],
   "geometry": {"coordinates":[-94.02382,33.470822],"type":"Point"}
 }

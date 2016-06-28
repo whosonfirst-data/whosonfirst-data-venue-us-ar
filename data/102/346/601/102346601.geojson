@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102346601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.74492,33.6318,-91.74492,33.6318",
     "geom:latitude":33.6318,
     "geom:longitude":-91.74492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"122 Carpenter Rd",
     "sg:city":"Monticello",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102346601,
-    "wof:lastmodified":1449067757,
+    "wof:lastmodified":1466324044,
     "wof:name":"Monticello Diesel & Hydraulics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.74492,33.6318,-91.74492,33.6318],
-  "geometry": {"coordinates":[-91.74492,33.6318],"type":"Point"}
+  "bbox": [
+    -91.74492,
+    33.6318,
+    -91.74492,
+    33.6318
+],
+  "geometry": {"coordinates":[-91.74491999999999,33.6318],"type":"Point"}
 }

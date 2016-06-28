@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102259245",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.714126,35.245232,-91.714126,35.245232",
     "geom:latitude":35.245232,
     "geom:longitude":-91.714126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2000 E Park Ave",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102259245",
-    "wof:lastmodified":1449068345,
+    "wof:lastmodified":1466322072,
     "wof:name":"Paradise Travel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.714126,35.245232,-91.714126,35.245232],
-  "geometry": {"coordinates":[-91.714126,35.245232],"type":"Point"}
+  "bbox": [
+    -91.714126,
+    35.245232,
+    -91.714126,
+    35.245232
+],
+  "geometry": {"coordinates":[-91.71412599999999,35.245232],"type":"Point"}
 }

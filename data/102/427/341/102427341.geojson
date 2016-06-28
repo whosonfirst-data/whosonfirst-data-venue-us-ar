@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102427341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.258175,33.120635,-91.258175,33.120635",
     "geom:latitude":33.120635,
     "geom:longitude":-91.258175,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"450 E Compress St",
     "sg:city":"Eudora",
     "sg:classifiers":[
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":102427341,
-    "wof:lastmodified":1449068506,
+    "wof:lastmodified":1466325537,
     "wof:name":"Stewart's Concessions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.258175,33.120635,-91.258175,33.120635],
-  "geometry": {"coordinates":[-91.258175,33.120635],"type":"Point"}
+  "bbox": [
+    -91.258175,
+    33.120635,
+    -91.258175,
+    33.120635
+],
+  "geometry": {"coordinates":[-91.25817499999999,33.120635],"type":"Point"}
 }

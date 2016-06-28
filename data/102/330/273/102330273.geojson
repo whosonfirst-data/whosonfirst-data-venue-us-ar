@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102330273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.040304,33.426096,-94.040304,33.426096",
     "geom:latitude":33.426096,
     "geom:longitude":-94.040304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 Hazel St",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102330273,
-    "wof:lastmodified":1449068953,
+    "wof:lastmodified":1466323597,
     "wof:name":"St Michaels Hosp Child Dev",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.040304,33.426096,-94.040304,33.426096],
-  "geometry": {"coordinates":[-94.040304,33.426096],"type":"Point"}
+  "bbox": [
+    -94.040304,
+    33.426096,
+    -94.040304,
+    33.426096
+],
+  "geometry": {"coordinates":[-94.04030400000001,33.426096],"type":"Point"}
 }

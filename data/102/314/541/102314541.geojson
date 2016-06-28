@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102314541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.043867,34.500311,-93.043867,34.500311",
     "geom:latitude":34.500311,
     "geom:longitude":-93.043867,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1124 Malvern Ave",
     "sg:city":"Hot Springs",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102314541,
-    "wof:lastmodified":1449070107,
+    "wof:lastmodified":1466323359,
     "wof:name":"Mimis' Coffee",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.043867,34.500311,-93.043867,34.500311],
-  "geometry": {"coordinates":[-93.043867,34.500311],"type":"Point"}
+  "bbox": [
+    -93.043867,
+    34.500311,
+    -93.043867,
+    34.500311
+],
+  "geometry": {"coordinates":[-93.04386700000001,34.500311],"type":"Point"}
 }

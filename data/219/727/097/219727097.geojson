@@ -2,13 +2,14 @@
   "id": 219727097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.368116,36.271897,-91.368116,36.271897",
     "geom:latitude":36.271897,
     "geom:longitude":-91.368116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1523 Highway 63",
     "sg:city":"Williford",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219727097,
-    "wof:lastmodified":1449070923,
+    "wof:lastmodified":1466324968,
     "wof:name":"Thomas Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "business"
     ]
 },
-  "bbox": [-91.368116,36.271897,-91.368116,36.271897],
+  "bbox": [
+    -91.368116,
+    36.271897,
+    -91.368116,
+    36.271897
+],
   "geometry": {"coordinates":[-91.368116,36.271897],"type":"Point"}
 }

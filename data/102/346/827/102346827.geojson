@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102346827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.022635,34.614559,-93.022635,34.614559",
     "geom:latitude":34.614559,
     "geom:longitude":-93.022635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"250 Springhill Trl",
     "sg:city":"Hot Springs Vlg",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":102346827,
-    "wof:lastmodified":1449067756,
+    "wof:lastmodified":1466324091,
     "wof:name":"Terrace On The Greens",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.022635,34.614559,-93.022635,34.614559],
-  "geometry": {"coordinates":[-93.022635,34.614559],"type":"Point"}
+  "bbox": [
+    -93.022635,
+    34.614559,
+    -93.022635,
+    34.614559
+],
+  "geometry": {"coordinates":[-93.02263499999999,34.614559],"type":"Point"}
 }

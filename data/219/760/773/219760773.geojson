@@ -2,13 +2,14 @@
   "id": 219760773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.123405,36.255753,-93.123405,36.255753",
     "geom:latitude":36.255753,
     "geom:longitude":-93.123405,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"905 Highway 62 65 N",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219760773,
-    "wof:lastmodified":1449073781,
+    "wof:lastmodified":1466324920,
     "wof:name":"Western Sizzlin Steakhouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "steak"
     ]
 },
-  "bbox": [-93.123405,36.255753,-93.123405,36.255753],
-  "geometry": {"coordinates":[-93.123405,36.255753],"type":"Point"}
+  "bbox": [
+    -93.123405,
+    36.255753,
+    -93.123405,
+    36.255753
+],
+  "geometry": {"coordinates":[-93.12340500000001,36.255753],"type":"Point"}
 }

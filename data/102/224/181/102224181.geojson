@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102224181",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.837949,33.57005,-92.837949,33.57005",
     "geom:latitude":33.57005,
     "geom:longitude":-92.837949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 California Ave SW",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":"102224181",
-    "wof:lastmodified":1449069562,
+    "wof:lastmodified":1466321212,
     "wof:name":"Biggers Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.837949,33.57005,-92.837949,33.57005],
-  "geometry": {"coordinates":[-92.837949,33.57005],"type":"Point"}
+  "bbox": [
+    -92.837949,
+    33.57005,
+    -92.837949,
+    33.57005
+],
+  "geometry": {"coordinates":[-92.83794899999999,33.57005],"type":"Point"}
 }

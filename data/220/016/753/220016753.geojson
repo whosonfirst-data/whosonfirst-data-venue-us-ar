@@ -2,13 +2,14 @@
   "id": 220016753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.188918,36.180697,-94.188918,36.180697",
     "geom:latitude":36.180697,
     "geom:longitude":-94.188918,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"584 Madison St",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220016753,
-    "wof:lastmodified":1449074181,
+    "wof:lastmodified":1466320490,
     "wof:name":"Profile Industries, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-94.188918,36.180697,-94.188918,36.180697],
+  "bbox": [
+    -94.188918,
+    36.180697,
+    -94.188918,
+    36.180697
+],
   "geometry": {"coordinates":[-94.188918,36.180697],"type":"Point"}
 }

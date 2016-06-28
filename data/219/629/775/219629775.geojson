@@ -2,13 +2,14 @@
   "id": 219629775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.705876,35.838361,-90.705876,35.838361",
     "geom:latitude":35.838361,
     "geom:longitude":-90.705876,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 W Washington Ave",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219629775,
-    "wof:lastmodified":1449073105,
+    "wof:lastmodified":1466324625,
     "wof:name":"Pulaski Bank & Trust Company",
     "wof:parent_id":85836541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "saving"
     ]
 },
-  "bbox": [-90.705876,35.838361,-90.705876,35.838361],
+  "bbox": [
+    -90.705876,
+    35.838361,
+    -90.705876,
+    35.838361
+],
   "geometry": {"coordinates":[-90.705876,35.838361],"type":"Point"}
 }

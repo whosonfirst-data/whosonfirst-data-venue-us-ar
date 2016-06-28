@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102405029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.180152,36.067515,-94.180152,36.067515",
     "geom:latitude":36.067515,
     "geom:longitude":-94.180152,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"459 N Razorback Rd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885439,
+        85688549,
         85633793,
         85919609,
         102082007,
-        85688549
+        85885439
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102405029,
-    "wof:lastmodified":1449069993,
+    "wof:lastmodified":1466324934,
     "wof:name":"University Of Arkansas",
     "wof:parent_id":85885439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.180152,36.067515,-94.180152,36.067515],
-  "geometry": {"coordinates":[-94.180152,36.067515],"type":"Point"}
+  "bbox": [
+    -94.180152,
+    36.067515,
+    -94.180152,
+    36.067515
+],
+  "geometry": {"coordinates":[-94.18015200000001,36.067515],"type":"Point"}
 }

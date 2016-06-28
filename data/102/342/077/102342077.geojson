@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102342077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.13527,33.681717,-94.13527,33.681717",
     "geom:latitude":33.681717,
     "geom:longitude":-94.13527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1021 N Constitution Ave",
     "sg:city":"Ashdown",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102342077,
-    "wof:lastmodified":1449070008,
+    "wof:lastmodified":1466323775,
     "wof:name":"Arkansas Association",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.13527,33.681717,-94.13527,33.681717],
-  "geometry": {"coordinates":[-94.13527,33.681717],"type":"Point"}
+  "bbox": [
+    -94.13527,
+    33.681717,
+    -94.13527,
+    33.681717
+],
+  "geometry": {"coordinates":[-94.13527000000001,33.681717],"type":"Point"}
 }

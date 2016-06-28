@@ -2,13 +2,14 @@
   "id": 219929299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.390244,36.377911,-94.390244,36.377911",
     "geom:latitude":36.377911,
     "geom:longitude":-94.390244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16221 N Mount Olive Rd",
     "sg:city":"Gravette",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219929299,
-    "wof:lastmodified":1449071740,
+    "wof:lastmodified":1466325153,
     "wof:name":"Jac's Ranch West",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "ranch"
     ]
 },
-  "bbox": [-94.390244,36.377911,-94.390244,36.377911],
+  "bbox": [
+    -94.390244,
+    36.377911,
+    -94.390244,
+    36.377911
+],
   "geometry": {"coordinates":[-94.390244,36.377911],"type":"Point"}
 }

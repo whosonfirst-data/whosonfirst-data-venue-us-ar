@@ -2,13 +2,14 @@
   "id": 220065801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.119888,35.268442,-93.119888,35.268442",
     "geom:latitude":35.268442,
     "geom:longitude":-93.119888,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1103 E 10th St",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220065801,
-    "wof:lastmodified":1449074874,
+    "wof:lastmodified":1466321169,
     "wof:name":"Garden Valley Apartments",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-93.119888,35.268442,-93.119888,35.268442],
+  "bbox": [
+    -93.119888,
+    35.268442,
+    -93.119888,
+    35.268442
+],
   "geometry": {"coordinates":[-93.119888,35.268442],"type":"Point"}
 }

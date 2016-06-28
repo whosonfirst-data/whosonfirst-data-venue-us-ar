@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102414587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.394877,35.388409,-94.394877,35.388409",
     "geom:latitude":35.388409,
     "geom:longitude":-94.394877,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1117 N 34th St",
     "sg:city":"Fort Smith",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102414587,
-    "wof:lastmodified":1449068894,
+    "wof:lastmodified":1466325353,
     "wof:name":"St Edward Mercy Medical Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.394877,35.388409,-94.394877,35.388409],
-  "geometry": {"coordinates":[-94.394877,35.388409],"type":"Point"}
+  "bbox": [
+    -94.394877,
+    35.388409,
+    -94.394877,
+    35.388409
+],
+  "geometry": {"coordinates":[-94.39487699999999,35.388409],"type":"Point"}
 }

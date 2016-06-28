@@ -2,13 +2,14 @@
   "id": 219819673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.160744,36.062636,-94.160744,36.062636",
     "geom:latitude":36.062636,
     "geom:longitude":-94.160744,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 W Center St Ste 215",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219819673,
-    "wof:lastmodified":1449071233,
+    "wof:lastmodified":1466324983,
     "wof:name":"Cara Hartfield Phd Licensed Psychologist",
     "wof:parent_id":85885459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "psychologist"
     ]
 },
-  "bbox": [-94.160744,36.062636,-94.160744,36.062636],
-  "geometry": {"coordinates":[-94.160744,36.062636],"type":"Point"}
+  "bbox": [
+    -94.160744,
+    36.062636,
+    -94.160744,
+    36.062636
+],
+  "geometry": {"coordinates":[-94.16074399999999,36.062636],"type":"Point"}
 }

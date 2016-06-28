@@ -2,13 +2,14 @@
   "id": 219389147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.436953,35.087961,-92.436953,35.087961",
     "geom:latitude":35.087961,
     "geom:longitude":-92.436953,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"603 Court St Ste 2",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219389147,
-    "wof:lastmodified":1449073216,
+    "wof:lastmodified":1466322754,
     "wof:name":"A A A Auto Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "business"
     ]
 },
-  "bbox": [-92.436953,35.087961,-92.436953,35.087961],
+  "bbox": [
+    -92.436953,
+    35.087961,
+    -92.436953,
+    35.087961
+],
   "geometry": {"coordinates":[-92.436953,35.087961],"type":"Point"}
 }

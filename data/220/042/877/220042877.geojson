@@ -2,13 +2,14 @@
   "id": 220042877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.134843,36.185277,-94.134843,36.185277",
     "geom:latitude":36.185277,
     "geom:longitude":-94.134843,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"406 W Emma Ave",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220042877,
-    "wof:lastmodified":1449074648,
+    "wof:lastmodified":1466320563,
     "wof:name":"Springdale Allergy & Asthma Center",
     "wof:parent_id":85885481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.134843,36.185277,-94.134843,36.185277],
+  "bbox": [
+    -94.134843,
+    36.185277,
+    -94.134843,
+    36.185277
+],
   "geometry": {"coordinates":[-94.134843,36.185277],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220123819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.836964,35.488052,-93.836964,35.488052",
     "geom:latitude":35.488052,
     "geom:longitude":-93.836964,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1202 W Commercial St",
     "sg:city":"Ozark",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":220123819,
-    "wof:lastmodified":1449074254,
+    "wof:lastmodified":1466322659,
     "wof:name":"Steven's Tire Sales LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-93.836964,35.488052,-93.836964,35.488052],
-  "geometry": {"coordinates":[-93.836964,35.488052],"type":"Point"}
+  "bbox": [
+    -93.836964,
+    35.488052,
+    -93.836964,
+    35.488052
+],
+  "geometry": {"coordinates":[-93.83696399999999,35.488052],"type":"Point"}
 }

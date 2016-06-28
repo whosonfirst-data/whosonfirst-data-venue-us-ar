@@ -2,13 +2,14 @@
   "id": 219293661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.530611,33.9688,-93.530611,33.9688",
     "geom:latitude":33.9688,
     "geom:longitude":-93.530611,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4881 Highway 301 S",
     "sg:city":"Delight",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219293661,
-    "wof:lastmodified":1449071088,
+    "wof:lastmodified":1466321677,
     "wof:name":"Hamrick Refrigeration",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-93.530611,33.9688,-93.530611,33.9688],
-  "geometry": {"coordinates":[-93.530611,33.9688],"type":"Point"}
+  "bbox": [
+    -93.530611,
+    33.9688,
+    -93.530611,
+    33.9688
+],
+  "geometry": {"coordinates":[-93.53061099999999,33.9688],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102394759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.395923,34.739191,-92.395923,34.739191",
     "geom:latitude":34.739191,
     "geom:longitude":-92.395923,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10809 Executive Center Dr",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85833895,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85833895
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":102394759,
-    "wof:lastmodified":1449068275,
+    "wof:lastmodified":1466324622,
     "wof:name":"Systemedic R M I",
     "wof:parent_id":85833895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.395923,34.739191,-92.395923,34.739191],
+  "bbox": [
+    -92.395923,
+    34.739191,
+    -92.395923,
+    34.739191
+],
   "geometry": {"coordinates":[-92.395923,34.739191],"type":"Point"}
 }

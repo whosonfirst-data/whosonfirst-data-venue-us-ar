@@ -2,13 +2,14 @@
   "id": 219440161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.118908,34.86728,-92.118908,34.86728",
     "geom:latitude":34.86728,
     "geom:longitude":-92.118908,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1110 W Main St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":219440161,
-    "wof:lastmodified":1449071640,
+    "wof:lastmodified":1466323244,
     "wof:name":"St. Vincent Family Clinic-Jacksonville",
     "wof:parent_id":85852337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.118908,34.86728,-92.118908,34.86728],
+  "bbox": [
+    -92.118908,
+    34.86728,
+    -92.118908,
+    34.86728
+],
   "geometry": {"coordinates":[-92.118908,34.86728],"type":"Point"}
 }

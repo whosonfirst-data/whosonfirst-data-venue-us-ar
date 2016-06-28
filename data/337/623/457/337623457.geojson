@@ -2,13 +2,14 @@
   "id": 337623457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.544405,36.169538,-94.544405,36.169538",
     "geom:latitude":36.169538,
     "geom:longitude":-94.544405,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"403 Jan Lynn St",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":337623457,
-    "wof:lastmodified":1449027517,
+    "wof:lastmodified":1466324511,
     "wof:name":"Huffman Concrete",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-94.544405,36.169538,-94.544405,36.169538],
+  "bbox": [
+    -94.544405,
+    36.169538,
+    -94.544405,
+    36.169538
+],
   "geometry": {"coordinates":[-94.544405,36.169538],"type":"Point"}
 }

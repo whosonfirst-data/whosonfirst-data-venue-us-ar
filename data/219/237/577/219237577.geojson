@@ -2,13 +2,14 @@
   "id": 219237577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.359953,33.696782,-94.359953,33.696782",
     "geom:latitude":33.696782,
     "geom:longitude":-94.359953,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"180 Little River 177",
     "sg:city":"Foreman",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":219237577,
-    "wof:lastmodified":1449070457,
+    "wof:lastmodified":1466321237,
     "wof:name":"E F Southerland",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.359953,33.696782,-94.359953,33.696782],
+  "bbox": [
+    -94.359953,
+    33.696782,
+    -94.359953,
+    33.696782
+],
   "geometry": {"coordinates":[-94.359953,33.696782],"type":"Point"}
 }

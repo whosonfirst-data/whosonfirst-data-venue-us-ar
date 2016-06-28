@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102406003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.569933,35.513596,-92.569933,35.513596",
     "geom:latitude":35.513596,
     "geom:longitude":-92.569933,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"606 Virginia Ln",
     "sg:city":"Scotland",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":102406003,
-    "wof:lastmodified":1449069040,
+    "wof:lastmodified":1466324932,
     "wof:name":"John A Love",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.569933,35.513596,-92.569933,35.513596],
-  "geometry": {"coordinates":[-92.569933,35.513596],"type":"Point"}
+  "bbox": [
+    -92.569933,
+    35.513596,
+    -92.569933,
+    35.513596
+],
+  "geometry": {"coordinates":[-92.56993300000001,35.513596],"type":"Point"}
 }

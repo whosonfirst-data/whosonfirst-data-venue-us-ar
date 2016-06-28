@@ -2,13 +2,14 @@
   "id": 220065625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.162911,35.283039,-93.162911,35.283039",
     "geom:latitude":35.283039,
     "geom:longitude":-93.162911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"231 S Galveston Ave",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220065625,
-    "wof:lastmodified":1449074874,
+    "wof:lastmodified":1466321164,
     "wof:name":"Nurses Of Note Inc",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "registry"
     ]
 },
-  "bbox": [-93.162911,35.283039,-93.162911,35.283039],
-  "geometry": {"coordinates":[-93.162911,35.283039],"type":"Point"}
+  "bbox": [
+    -93.162911,
+    35.283039,
+    -93.162911,
+    35.283039
+],
+  "geometry": {"coordinates":[-93.16291099999999,35.283039],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219464807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.826937,34.383737,-92.826937,34.383737",
     "geom:latitude":34.383737,
     "geom:longitude":-92.826937,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1303 Collie Rd",
     "sg:city":"Malvern",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219464807,
-    "wof:lastmodified":1449071353,
+    "wof:lastmodified":1466323505,
     "wof:name":"Teeter Motor Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "used"
     ]
 },
-  "bbox": [-92.826937,34.383737,-92.826937,34.383737],
+  "bbox": [
+    -92.826937,
+    34.383737,
+    -92.826937,
+    34.383737
+],
   "geometry": {"coordinates":[-92.826937,34.383737],"type":"Point"}
 }

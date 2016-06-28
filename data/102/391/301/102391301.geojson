@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102391301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.618507,33.76058,-91.618507,33.76058",
     "geom:latitude":33.76058,
     "geom:longitude":-91.618507,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"132 Dot Ln",
     "sg:city":"Monticello",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102391301,
-    "wof:lastmodified":1449069308,
+    "wof:lastmodified":1466324406,
     "wof:name":"Florence Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.618507,33.76058,-91.618507,33.76058],
-  "geometry": {"coordinates":[-91.618507,33.76058],"type":"Point"}
+  "bbox": [
+    -91.618507,
+    33.76058,
+    -91.618507,
+    33.76058
+],
+  "geometry": {"coordinates":[-91.61850699999999,33.76058],"type":"Point"}
 }

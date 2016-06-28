@@ -2,13 +2,14 @@
   "id": 219951505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.178703,36.3349,-94.178703,36.3349",
     "geom:latitude":36.3349,
     "geom:longitude":-94.178703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4408 W Walnut St Ste 7",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219951505,
-    "wof:lastmodified":1449070532,
+    "wof:lastmodified":1466325193,
     "wof:name":"Ar-Tech Computer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-94.178703,36.3349,-94.178703,36.3349],
+  "bbox": [
+    -94.178703,
+    36.3349,
+    -94.178703,
+    36.3349
+],
   "geometry": {"coordinates":[-94.178703,36.3349],"type":"Point"}
 }

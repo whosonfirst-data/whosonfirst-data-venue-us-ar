@@ -2,13 +2,14 @@
   "id": 220078169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.444962,35.464487,-93.444962,35.464487",
     "geom:latitude":35.464487,
     "geom:longitude":-93.444962,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Poplar Cir",
     "sg:city":"Clarksville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220078169,
-    "wof:lastmodified":1449074746,
+    "wof:lastmodified":1466321539,
     "wof:name":"Clarksville Housing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "land"
     ]
 },
-  "bbox": [-93.444962,35.464487,-93.444962,35.464487],
+  "bbox": [
+    -93.444962,
+    35.464487,
+    -93.444962,
+    35.464487
+],
   "geometry": {"coordinates":[-93.444962,35.464487],"type":"Point"}
 }

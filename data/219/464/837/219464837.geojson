@@ -2,13 +2,14 @@
   "id": 219464837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.115157,34.326834,-93.115157,34.326834",
     "geom:latitude":34.326834,
     "geom:longitude":-93.115157,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31804 Highway 84",
     "sg:city":"Malvern",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219464837,
-    "wof:lastmodified":1449071351,
+    "wof:lastmodified":1466323506,
     "wof:name":"Mid State Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "contractor"
     ]
 },
-  "bbox": [-93.115157,34.326834,-93.115157,34.326834],
+  "bbox": [
+    -93.115157,
+    34.326834,
+    -93.115157,
+    34.326834
+],
   "geometry": {"coordinates":[-93.115157,34.326834],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219362959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.072954,34.941364,-92.072954,34.941364",
     "geom:latitude":34.941364,
     "geom:longitude":-92.072954,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3903 Highway 367 S",
     "sg:city":"Cabot",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219362959,
-    "wof:lastmodified":1449072666,
+    "wof:lastmodified":1466322451,
     "wof:name":"Trailer Country",
     "wof:parent_id":85811577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "truck"
     ]
 },
-  "bbox": [-92.072954,34.941364,-92.072954,34.941364],
+  "bbox": [
+    -92.072954,
+    34.941364,
+    -92.072954,
+    34.941364
+],
   "geometry": {"coordinates":[-92.072954,34.941364],"type":"Point"}
 }

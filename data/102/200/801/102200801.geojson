@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102200801",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.223338,35.206901,-90.223338,35.206901",
     "geom:latitude":35.206901,
     "geom:longitude":-90.223338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1747 US Hwy 64",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":"102200801",
-    "wof:lastmodified":1449068728,
+    "wof:lastmodified":1466320655,
     "wof:name":"Marion Church Of God",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.223338,35.206901,-90.223338,35.206901],
+  "bbox": [
+    -90.223338,
+    35.206901,
+    -90.223338,
+    35.206901
+],
   "geometry": {"coordinates":[-90.223338,35.206901],"type":"Point"}
 }

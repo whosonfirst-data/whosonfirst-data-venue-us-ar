@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102356121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.591303,34.527938,-90.591303,34.527938",
     "geom:latitude":34.527938,
     "geom:longitude":-90.591303,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"515 Columbia St",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -37,11 +38,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85838649,
+        85688549,
         85633793,
         85919725,
         102082001,
-        85688549
+        85838649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,14 +61,20 @@
         }
     ],
     "wof:id":102356121,
-    "wof:lastmodified":1449069741,
+    "wof:lastmodified":1466324152,
     "wof:name":"Central Arkansas RC & D",
     "wof:parent_id":85838649,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.591303,34.527938,-90.591303,34.527938],
+  "bbox": [
+    -90.591303,
+    34.527938,
+    -90.591303,
+    34.527938
+],
   "geometry": {"coordinates":[-90.591303,34.527938],"type":"Point"}
 }

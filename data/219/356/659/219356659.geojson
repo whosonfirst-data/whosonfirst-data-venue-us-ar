@@ -2,13 +2,14 @@
   "id": 219356659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.503944,34.622097,-92.503944,34.622097",
     "geom:latitude":34.622097,
     "geom:longitude":-92.503944,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5200 Highway 5 N",
     "sg:city":"Bryant",
     "sg:classifiers":[
@@ -74,10 +75,11 @@
         }
     ],
     "wof:id":219356659,
-    "wof:lastmodified":1449073297,
+    "wof:lastmodified":1466322336,
     "wof:name":"Elder Independence-Your Home Care Team",
     "wof:parent_id":85817531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -91,6 +93,11 @@
         "eldercare-home"
     ]
 },
-  "bbox": [-92.503944,34.622097,-92.503944,34.622097],
+  "bbox": [
+    -92.503944,
+    34.622097,
+    -92.503944,
+    34.622097
+],
   "geometry": {"coordinates":[-92.503944,34.622097],"type":"Point"}
 }

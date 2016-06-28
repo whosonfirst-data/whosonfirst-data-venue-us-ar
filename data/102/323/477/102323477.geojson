@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102323477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.108398,34.913749,-91.108398,34.913749",
     "geom:latitude":34.913749,
     "geom:longitude":-91.108398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Little Rock St",
     "sg:city":"Wheatley",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102323477,
-    "wof:lastmodified":1449068006,
+    "wof:lastmodified":1466323526,
     "wof:name":"Wheatley Branch First Natl Bk",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.108398,34.913749,-91.108398,34.913749],
-  "geometry": {"coordinates":[-91.108398,34.913749],"type":"Point"}
+  "bbox": [
+    -91.108398,
+    34.913749,
+    -91.108398,
+    34.913749
+],
+  "geometry": {"coordinates":[-91.10839799999999,34.913749],"type":"Point"}
 }

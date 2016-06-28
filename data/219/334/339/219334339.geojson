@@ -2,13 +2,14 @@
   "id": 219334339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.908542,35.069254,-91.908542,35.069254",
     "geom:latitude":35.069254,
     "geom:longitude":-91.908542,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2111 W Dewitt Henry Dr",
     "sg:city":"Beebe",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":219334339,
-    "wof:lastmodified":1449071434,
+    "wof:lastmodified":1466322039,
     "wof:name":"Doyle Burns Tire Town Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-91.908542,35.069254,-91.908542,35.069254],
+  "bbox": [
+    -91.908542,
+    35.069254,
+    -91.908542,
+    35.069254
+],
   "geometry": {"coordinates":[-91.908542,35.069254],"type":"Point"}
 }

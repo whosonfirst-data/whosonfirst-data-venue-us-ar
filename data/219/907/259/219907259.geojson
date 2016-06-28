@@ -2,13 +2,14 @@
   "id": 219907259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.234802,36.248699,-94.234802,36.248699",
     "geom:latitude":36.248699,
     "geom:longitude":-94.234802,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1499 S Main St",
     "sg:city":"Cave Springs",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":219907259,
-    "wof:lastmodified":1449073640,
+    "wof:lastmodified":1466325030,
     "wof:name":"Creeks Golf Course the",
     "wof:parent_id":85895831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.234802,36.248699,-94.234802,36.248699],
+  "bbox": [
+    -94.234802,
+    36.248699,
+    -94.234802,
+    36.248699
+],
   "geometry": {"coordinates":[-94.234802,36.248699],"type":"Point"}
 }

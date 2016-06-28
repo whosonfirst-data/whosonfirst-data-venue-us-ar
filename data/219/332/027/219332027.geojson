@@ -2,13 +2,14 @@
   "id": 219332027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.405064,34.528721,-92.405064,34.528721",
     "geom:latitude":34.528721,
     "geom:longitude":-92.405064,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11100 Harrell Rd",
     "sg:city":"Bauxite",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219332027,
-    "wof:lastmodified":1449072334,
+    "wof:lastmodified":1466322015,
     "wof:name":"Abc Day Care Center",
     "wof:parent_id":85844395,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welfare"
     ]
 },
-  "bbox": [-92.405064,34.528721,-92.405064,34.528721],
+  "bbox": [
+    -92.405064,
+    34.528721,
+    -92.405064,
+    34.528721
+],
   "geometry": {"coordinates":[-92.405064,34.528721],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219842971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.167818,36.086487,-94.167818,36.086487",
     "geom:latitude":36.086487,
     "geom:longitude":-94.167818,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"676 W Ash St",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219842971,
-    "wof:lastmodified":1449070647,
+    "wof:lastmodified":1466325022,
     "wof:name":"Best Toilets Nwa Incorporated",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "toilets-portable"
     ]
 },
-  "bbox": [-94.167818,36.086487,-94.167818,36.086487],
+  "bbox": [
+    -94.167818,
+    36.086487,
+    -94.167818,
+    36.086487
+],
   "geometry": {"coordinates":[-94.167818,36.086487],"type":"Point"}
 }

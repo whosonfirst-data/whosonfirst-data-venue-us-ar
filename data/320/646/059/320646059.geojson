@@ -2,13 +2,14 @@
   "id": 320646059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.477976,35.247354,-94.477976,35.247354",
     "geom:latitude":35.247354,
     "geom:longitude":-94.477976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"803 State Hwy 112",
     "sg:city":"Pocola",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320646059,
-    "wof:lastmodified":1449011171,
+    "wof:lastmodified":1466320611,
     "wof:name":"Thornton Drilling",
     "wof:parent_id":85809847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "well"
     ]
 },
-  "bbox": [-94.477976,35.247354,-94.477976,35.247354],
+  "bbox": [
+    -94.477976,
+    35.247354,
+    -94.477976,
+    35.247354
+],
   "geometry": {"coordinates":[-94.477976,35.247354],"type":"Point"}
 }

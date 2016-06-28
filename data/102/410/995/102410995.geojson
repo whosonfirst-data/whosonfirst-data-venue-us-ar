@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102410995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.181642,36.056732,-94.181642,36.056732",
     "geom:latitude":36.056732,
     "geom:longitude":-94.181642,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1486 W 6th St",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885441,
+        85688549,
         85633793,
         85919609,
         102082007,
-        85688549
+        85885441
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102410995,
-    "wof:lastmodified":1449067794,
+    "wof:lastmodified":1466325191,
     "wof:name":"X Cel Tire & Custom Shop",
     "wof:parent_id":85885441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.181642,36.056732,-94.181642,36.056732],
+  "bbox": [
+    -94.181642,
+    36.056732,
+    -94.181642,
+    36.056732
+],
   "geometry": {"coordinates":[-94.181642,36.056732],"type":"Point"}
 }

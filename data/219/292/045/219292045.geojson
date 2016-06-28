@@ -2,13 +2,14 @@
   "id": 219292045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.397324,34.455633,-94.397324,34.455633",
     "geom:latitude":34.455633,
     "geom:longitude":-94.397324,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5317 Highway 71 S",
     "sg:city":"Cove",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219292045,
-    "wof:lastmodified":1449070686,
+    "wof:lastmodified":1466321666,
     "wof:name":"Denver & Terri Borders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "artist"
     ]
 },
-  "bbox": [-94.397324,34.455633,-94.397324,34.455633],
+  "bbox": [
+    -94.397324,
+    34.455633,
+    -94.397324,
+    34.455633
+],
   "geometry": {"coordinates":[-94.397324,34.455633],"type":"Point"}
 }

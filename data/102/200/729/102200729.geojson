@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102200729",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.436783,35.091123,-92.436783,35.091123",
     "geom:latitude":35.091123,
     "geom:longitude":-92.436783,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"875 Harkrider St",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102200729",
-    "wof:lastmodified":1449068729,
+    "wof:lastmodified":1466320640,
     "wof:name":"U-Haul Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.436783,35.091123,-92.436783,35.091123],
-  "geometry": {"coordinates":[-92.436783,35.091123],"type":"Point"}
+  "bbox": [
+    -92.436783,
+    35.091123,
+    -92.436783,
+    35.091123
+],
+  "geometry": {"coordinates":[-92.43678300000001,35.091123],"type":"Point"}
 }

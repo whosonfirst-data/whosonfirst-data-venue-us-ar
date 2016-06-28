@@ -2,13 +2,14 @@
   "id": 219339059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.907968,35.12851,-91.907968,35.12851",
     "geom:latitude":35.12851,
     "geom:longitude":-91.907968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2145 Highway 31 N",
     "sg:city":"Beebe",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219339059,
-    "wof:lastmodified":1449071972,
+    "wof:lastmodified":1466322077,
     "wof:name":"Juniors Auto Sale",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "new"
     ]
 },
-  "bbox": [-91.907968,35.12851,-91.907968,35.12851],
+  "bbox": [
+    -91.907968,
+    35.12851,
+    -91.907968,
+    35.12851
+],
   "geometry": {"coordinates":[-91.907968,35.12851],"type":"Point"}
 }

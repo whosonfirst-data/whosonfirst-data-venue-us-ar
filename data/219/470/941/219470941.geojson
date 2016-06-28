@@ -2,13 +2,14 @@
   "id": 219470941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.75765,35.157794,-92.75765,35.157794",
     "geom:latitude":35.157794,
     "geom:longitude":-92.75765,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1317 W Broadway St",
     "sg:city":"Morrilton",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":219470941,
-    "wof:lastmodified":1449071252,
+    "wof:lastmodified":1466323575,
     "wof:name":"Charles Kelley Used Cars",
     "wof:parent_id":85850611,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "painting"
     ]
 },
-  "bbox": [-92.75765,35.157794,-92.75765,35.157794],
+  "bbox": [
+    -92.75765,
+    35.157794,
+    -92.75765,
+    35.157794
+],
   "geometry": {"coordinates":[-92.75765,35.157794],"type":"Point"}
 }

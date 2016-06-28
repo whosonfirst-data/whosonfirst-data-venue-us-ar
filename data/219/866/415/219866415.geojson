@@ -2,13 +2,14 @@
   "id": 219866415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.194182,36.096449,-94.194182,36.096449",
     "geom:latitude":36.096449,
     "geom:longitude":-94.194182,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2429 N Jeremiah Pl",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219866415,
-    "wof:lastmodified":1449072070,
+    "wof:lastmodified":1466325051,
     "wof:name":"The Bandsmith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "supply"
     ]
 },
-  "bbox": [-94.194182,36.096449,-94.194182,36.096449],
+  "bbox": [
+    -94.194182,
+    36.096449,
+    -94.194182,
+    36.096449
+],
   "geometry": {"coordinates":[-94.194182,36.096449],"type":"Point"}
 }

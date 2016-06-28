@@ -2,13 +2,14 @@
   "id": 219732031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.635831,35.778162,-91.635831,35.778162",
     "geom:latitude":35.778162,
     "geom:longitude":-91.635831,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"180 Mccaleb St",
     "sg:city":"Batesville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219732031,
-    "wof:lastmodified":1449074043,
+    "wof:lastmodified":1466324892,
     "wof:name":"Raise Plants Nursery",
     "wof:parent_id":85845643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-91.635831,35.778162,-91.635831,35.778162],
+  "bbox": [
+    -91.635831,
+    35.778162,
+    -91.635831,
+    35.778162
+],
   "geometry": {"coordinates":[-91.635831,35.778162],"type":"Point"}
 }

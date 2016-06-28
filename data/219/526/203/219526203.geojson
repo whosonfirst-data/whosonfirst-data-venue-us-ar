@@ -2,13 +2,14 @@
   "id": 219526203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.703319,35.232865,-91.703319,35.232865",
     "geom:latitude":35.232865,
     "geom:longitude":-91.703319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2210 Taylor St",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219526203,
-    "wof:lastmodified":1449071480,
+    "wof:lastmodified":1466324153,
     "wof:name":"Mclain Heating & Air Conditioning, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-91.703319,35.232865,-91.703319,35.232865],
-  "geometry": {"coordinates":[-91.703319,35.232865],"type":"Point"}
+  "bbox": [
+    -91.703319,
+    35.232865,
+    -91.703319,
+    35.232865
+],
+  "geometry": {"coordinates":[-91.70331899999999,35.232865],"type":"Point"}
 }

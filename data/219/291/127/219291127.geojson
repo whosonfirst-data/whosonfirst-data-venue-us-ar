@@ -2,13 +2,14 @@
   "id": 219291127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.193523,34.331014,-93.193523,34.331014",
     "geom:latitude":34.331014,
     "geom:longitude":-93.193523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"428 Creek Trl",
     "sg:city":"Bismarck",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":219291127,
-    "wof:lastmodified":1449071485,
+    "wof:lastmodified":1466321660,
     "wof:name":"Duncan Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.193523,34.331014,-93.193523,34.331014],
+  "bbox": [
+    -93.193523,
+    34.331014,
+    -93.193523,
+    34.331014
+],
   "geometry": {"coordinates":[-93.193523,34.331014],"type":"Point"}
 }

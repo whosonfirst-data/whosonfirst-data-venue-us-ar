@@ -2,13 +2,14 @@
   "id": 219502973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.253316,34.472872,-92.253316,34.472872",
     "geom:latitude":34.472872,
     "geom:longitude":-92.253316,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Grant 587",
     "sg:city":"Redfield",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219502973,
-    "wof:lastmodified":1449072013,
+    "wof:lastmodified":1466323966,
     "wof:name":"Thomas L Taylor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "surgeons"
     ]
 },
-  "bbox": [-92.253316,34.472872,-92.253316,34.472872],
+  "bbox": [
+    -92.253316,
+    34.472872,
+    -92.253316,
+    34.472872
+],
   "geometry": {"coordinates":[-92.253316,34.472872],"type":"Point"}
 }

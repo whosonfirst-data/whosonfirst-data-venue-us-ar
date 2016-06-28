@@ -2,13 +2,14 @@
   "id": 235945901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.719635,36.646341,-94.719635,36.646341",
     "geom:latitude":36.646341,
     "geom:longitude":-94.719635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25340 S 646 Rd",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":235945901,
-    "wof:lastmodified":1449008307,
+    "wof:lastmodified":1466320432,
     "wof:name":"Acclaim Tree Service",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-94.719635,36.646341,-94.719635,36.646341],
+  "bbox": [
+    -94.719635,
+    36.646341,
+    -94.719635,
+    36.646341
+],
   "geometry": {"coordinates":[-94.719635,36.646341],"type":"Point"}
 }

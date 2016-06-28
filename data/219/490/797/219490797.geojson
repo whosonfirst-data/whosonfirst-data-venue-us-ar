@@ -2,13 +2,14 @@
   "id": 219490797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.19061,34.853847,-92.19061,34.853847",
     "geom:latitude":34.853847,
     "geom:longitude":-92.19061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"520 Ascot Dr",
     "sg:city":"Sherwood",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219490797,
-    "wof:lastmodified":1449073564,
+    "wof:lastmodified":1466323857,
     "wof:name":"Janet Lynn Holmes",
     "wof:parent_id":85837729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "investigator"
     ]
 },
-  "bbox": [-92.19061,34.853847,-92.19061,34.853847],
-  "geometry": {"coordinates":[-92.19061,34.853847],"type":"Point"}
+  "bbox": [
+    -92.19061,
+    34.853847,
+    -92.19061,
+    34.853847
+],
+  "geometry": {"coordinates":[-92.19061000000001,34.853847],"type":"Point"}
 }

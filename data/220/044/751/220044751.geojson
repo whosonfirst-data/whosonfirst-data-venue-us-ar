@@ -2,13 +2,14 @@
   "id": 220044751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.13134,36.183289,-94.13134,36.183289",
     "geom:latitude":36.183289,
     "geom:longitude":-94.13134,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 W Grove Ave",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":220044751,
-    "wof:lastmodified":1449074454,
+    "wof:lastmodified":1466320574,
     "wof:name":"Chambers Bancshares Inc",
     "wof:parent_id":85885481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "loan"
     ]
 },
-  "bbox": [-94.13134,36.183289,-94.13134,36.183289],
-  "geometry": {"coordinates":[-94.13134,36.183289],"type":"Point"}
+  "bbox": [
+    -94.13134,
+    36.183289,
+    -94.13134,
+    36.183289
+],
+  "geometry": {"coordinates":[-94.13133999999999,36.183289],"type":"Point"}
 }

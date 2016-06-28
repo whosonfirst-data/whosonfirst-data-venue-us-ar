@@ -2,13 +2,14 @@
   "id": 219524225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.70725,35.250534,-91.70725,35.250534",
     "geom:latitude":35.250534,
     "geom:longitude":-91.70725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2601 E Race Ave",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":219524225,
-    "wof:lastmodified":1449070343,
+    "wof:lastmodified":1466324138,
     "wof:name":"Byron's Jewelry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "silver"
     ]
 },
-  "bbox": [-91.70725,35.250534,-91.70725,35.250534],
+  "bbox": [
+    -91.70725,
+    35.250534,
+    -91.70725,
+    35.250534
+],
   "geometry": {"coordinates":[-91.70725,35.250534],"type":"Point"}
 }

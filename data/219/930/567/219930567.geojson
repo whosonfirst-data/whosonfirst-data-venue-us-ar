@@ -2,13 +2,14 @@
   "id": 219930567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.333437,36.438063,-94.333437,36.438063",
     "geom:latitude":36.438063,
     "geom:longitude":-94.333437,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13960 Hiwasse Rd",
     "sg:city":"Hiwasse",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219930567,
-    "wof:lastmodified":1449071525,
+    "wof:lastmodified":1466325157,
     "wof:name":"Oak Homebuilders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "contractor"
     ]
 },
-  "bbox": [-94.333437,36.438063,-94.333437,36.438063],
+  "bbox": [
+    -94.333437,
+    36.438063,
+    -94.333437,
+    36.438063
+],
   "geometry": {"coordinates":[-94.333437,36.438063],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102388911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.837556,36.127685,-93.837556,36.127685",
     "geom:latitude":36.127685,
     "geom:longitude":-93.837556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"680 Madison 8401",
     "sg:city":"Hindsville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102388911,
-    "wof:lastmodified":1449067870,
+    "wof:lastmodified":1466323924,
     "wof:name":"United Moving Vans",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.837556,36.127685,-93.837556,36.127685],
-  "geometry": {"coordinates":[-93.837556,36.127685],"type":"Point"}
+  "bbox": [
+    -93.837556,
+    36.127685,
+    -93.837556,
+    36.127685
+],
+  "geometry": {"coordinates":[-93.83755600000001,36.127685],"type":"Point"}
 }

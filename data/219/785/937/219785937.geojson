@@ -2,13 +2,14 @@
   "id": 219785937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.635309,36.397171,-93.635309,36.397171",
     "geom:latitude":36.397171,
     "geom:longitude":-93.635309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"174 Homestyle Dr",
     "sg:city":"Berryville",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":219785937,
-    "wof:lastmodified":1449073315,
+    "wof:lastmodified":1466324940,
     "wof:name":"Duffey Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-93.635309,36.397171,-93.635309,36.397171],
-  "geometry": {"coordinates":[-93.635309,36.397171],"type":"Point"}
+  "bbox": [
+    -93.635309,
+    36.397171,
+    -93.635309,
+    36.397171
+],
+  "geometry": {"coordinates":[-93.63530900000001,36.397171],"type":"Point"}
 }

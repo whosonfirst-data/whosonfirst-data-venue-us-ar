@@ -2,13 +2,14 @@
   "id": 235951579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.819428,36.411184,-94.819428,36.411184",
     "geom:latitude":36.411184,
     "geom:longitude":-94.819428,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"949 S 21st St",
     "sg:city":"Jay",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":235951579,
-    "wof:lastmodified":1449008283,
+    "wof:lastmodified":1466320450,
     "wof:name":"Jay Veterinary Clinic",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "specialty"
     ]
 },
-  "bbox": [-94.819428,36.411184,-94.819428,36.411184],
+  "bbox": [
+    -94.819428,
+    36.411184,
+    -94.819428,
+    36.411184
+],
   "geometry": {"coordinates":[-94.819428,36.411184],"type":"Point"}
 }

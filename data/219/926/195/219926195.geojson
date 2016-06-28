@@ -2,13 +2,14 @@
   "id": 219926195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.453589,36.413213,-94.453589,36.413213",
     "geom:latitude":36.413213,
     "geom:longitude":-94.453589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1010 1st Ave SE",
     "sg:city":"Gravette",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":219926195,
-    "wof:lastmodified":1449071626,
+    "wof:lastmodified":1466325150,
     "wof:name":"U-Haul Neighborhood Dealer - Spavinaw Self Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "household"
     ]
 },
-  "bbox": [-94.453589,36.413213,-94.453589,36.413213],
-  "geometry": {"coordinates":[-94.453589,36.413213],"type":"Point"}
+  "bbox": [
+    -94.453589,
+    36.413213,
+    -94.453589,
+    36.413213
+],
+  "geometry": {"coordinates":[-94.45358899999999,36.413213],"type":"Point"}
 }

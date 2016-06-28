@@ -2,13 +2,14 @@
   "id": 219881557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.199649,36.342785,-94.199649,36.342785",
     "geom:latitude":36.342785,
     "geom:longitude":-94.199649,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2711 SE I St Ste 9",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219881557,
-    "wof:lastmodified":1449072429,
+    "wof:lastmodified":1466325070,
     "wof:name":"S G Footwear",
     "wof:parent_id":85895815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-94.199649,36.342785,-94.199649,36.342785],
-  "geometry": {"coordinates":[-94.199649,36.342785],"type":"Point"}
+  "bbox": [
+    -94.199649,
+    36.342785,
+    -94.199649,
+    36.342785
+],
+  "geometry": {"coordinates":[-94.19964899999999,36.342785],"type":"Point"}
 }

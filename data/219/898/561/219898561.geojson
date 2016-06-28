@@ -2,13 +2,14 @@
   "id": 219898561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.279566,36.396481,-94.279566,36.396481",
     "geom:latitude":36.396481,
     "geom:longitude":-94.279566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11600 Short Rd",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219898561,
-    "wof:lastmodified":1449070305,
+    "wof:lastmodified":1466325099,
     "wof:name":"Forestry Commission, Arkansas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "conservation"
     ]
 },
-  "bbox": [-94.279566,36.396481,-94.279566,36.396481],
+  "bbox": [
+    -94.279566,
+    36.396481,
+    -94.279566,
+    36.396481
+],
   "geometry": {"coordinates":[-94.279566,36.396481],"type":"Point"}
 }

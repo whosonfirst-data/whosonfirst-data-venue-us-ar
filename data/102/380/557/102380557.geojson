@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102380557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.084448,34.427867,-93.084448,34.427867",
     "geom:latitude":34.427867,
     "geom:longitude":-93.084448,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Lookout Cir",
     "sg:city":"Hot Springs",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102380557,
-    "wof:lastmodified":1449068883,
+    "wof:lastmodified":1466322204,
     "wof:name":"Lookout Point Lakeside Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.084448,34.427867,-93.084448,34.427867],
-  "geometry": {"coordinates":[-93.084448,34.427867],"type":"Point"}
+  "bbox": [
+    -93.084448,
+    34.427867,
+    -93.084448,
+    34.427867
+],
+  "geometry": {"coordinates":[-93.08444799999999,34.427867],"type":"Point"}
 }

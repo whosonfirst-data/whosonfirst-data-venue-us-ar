@@ -2,13 +2,14 @@
   "id": 220070543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.160942,35.26366,-93.160942,35.26366",
     "geom:latitude":35.26366,
     "geom:longitude":-93.160942,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2801 W 17th St",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220070543,
-    "wof:lastmodified":1449074410,
+    "wof:lastmodified":1466321367,
     "wof:name":"Ceramic Tile Plus",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tile-contractors"
     ]
 },
-  "bbox": [-93.160942,35.26366,-93.160942,35.26366],
-  "geometry": {"coordinates":[-93.160942,35.26366],"type":"Point"}
+  "bbox": [
+    -93.160942,
+    35.26366,
+    -93.160942,
+    35.26366
+],
+  "geometry": {"coordinates":[-93.16094200000001,35.26366],"type":"Point"}
 }

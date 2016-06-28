@@ -2,13 +2,14 @@
   "id": 219216931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.241416,33.266964,-93.241416,33.266964",
     "geom:latitude":33.266964,
     "geom:longitude":-93.241416,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 S Jefferson",
     "sg:city":"Magnolia",
     "sg:classifiers":[
@@ -72,10 +73,11 @@
         }
     ],
     "wof:id":219216931,
-    "wof:lastmodified":1449073519,
+    "wof:lastmodified":1466321019,
     "wof:name":"Dyson's Mid-South Service Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -89,6 +91,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-93.241416,33.266964,-93.241416,33.266964],
+  "bbox": [
+    -93.241416,
+    33.266964,
+    -93.241416,
+    33.266964
+],
   "geometry": {"coordinates":[-93.241416,33.266964],"type":"Point"}
 }

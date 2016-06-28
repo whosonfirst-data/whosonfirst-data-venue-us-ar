@@ -2,13 +2,14 @@
   "id": 203402913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.959335,33.116867,-91.959335,33.116867",
     "geom:latitude":33.116867,
     "geom:longitude":-91.959335,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1701 Main St",
     "sg:city":"Crossett",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203402913,
-    "wof:lastmodified":1449025520,
+    "wof:lastmodified":1466320518,
     "wof:name":"Pevy Dan Agency",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "business"
     ]
 },
-  "bbox": [-91.959335,33.116867,-91.959335,33.116867],
+  "bbox": [
+    -91.959335,
+    33.116867,
+    -91.959335,
+    33.116867
+],
   "geometry": {"coordinates":[-91.959335,33.116867],"type":"Point"}
 }

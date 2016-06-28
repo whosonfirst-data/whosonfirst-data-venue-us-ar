@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102307831",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.191289,36.310701,-94.191289,36.310701",
     "geom:latitude":36.310701,
     "geom:longitude":-94.191289,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5502 Walsh Dr",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895857,
+        85688549,
         85633793,
         85921535,
         102083255,
-        85688549
+        85895857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102307831",
-    "wof:lastmodified":1449068410,
+    "wof:lastmodified":1466323275,
     "wof:name":"Georgia-Pacific Corp",
     "wof:parent_id":85895857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.191289,36.310701,-94.191289,36.310701],
+  "bbox": [
+    -94.191289,
+    36.310701,
+    -94.191289,
+    36.310701
+],
   "geometry": {"coordinates":[-94.191289,36.310701],"type":"Point"}
 }

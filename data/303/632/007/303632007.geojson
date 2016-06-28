@@ -2,13 +2,14 @@
   "id": 303632007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.541565,36.174364,-94.541565,36.174364",
     "geom:latitude":36.174364,
     "geom:longitude":-94.541565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1002 S Mount Olive St",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303632007,
-    "wof:lastmodified":1448999680,
+    "wof:lastmodified":1466320539,
     "wof:name":"Simmons First National Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.541565,36.174364,-94.541565,36.174364],
-  "geometry": {"coordinates":[-94.541565,36.174364],"type":"Point"}
+  "bbox": [
+    -94.541565,
+    36.174364,
+    -94.541565,
+    36.174364
+],
+  "geometry": {"coordinates":[-94.54156500000001,36.174364],"type":"Point"}
 }

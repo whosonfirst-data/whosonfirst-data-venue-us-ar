@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102435709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.250157,34.80709,-92.250157,34.80709",
     "geom:latitude":34.80709,
     "geom:longitude":-92.250157,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5606 John F Kennedy Blvd",
     "sg:city":"N Little Rock",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851793,
+        85688549,
         85633793,
         85921255,
         102082497,
-        85688549
+        85851793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102435709,
-    "wof:lastmodified":1449069969,
+    "wof:lastmodified":1466325683,
     "wof:name":"Lawson & Assoc",
     "wof:parent_id":85851793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.250157,34.80709,-92.250157,34.80709],
+  "bbox": [
+    -92.250157,
+    34.80709,
+    -92.250157,
+    34.80709
+],
   "geometry": {"coordinates":[-92.250157,34.80709],"type":"Point"}
 }

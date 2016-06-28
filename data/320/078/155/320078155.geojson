@@ -2,13 +2,14 @@
   "id": 320078155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.542408,36.178106,-94.542408,36.178106",
     "geom:latitude":36.178106,
     "geom:longitude":-94.542408,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 W Tulsa St",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320078155,
-    "wof:lastmodified":1449014395,
+    "wof:lastmodified":1466320429,
     "wof:name":"Barnett's Dairyette",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-94.542408,36.178106,-94.542408,36.178106],
-  "geometry": {"coordinates":[-94.542408,36.178106],"type":"Point"}
+  "bbox": [
+    -94.542408,
+    36.178106,
+    -94.542408,
+    36.178106
+],
+  "geometry": {"coordinates":[-94.54240799999999,36.178106],"type":"Point"}
 }

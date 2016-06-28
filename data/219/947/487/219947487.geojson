@@ -2,13 +2,14 @@
   "id": 219947487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.144785,36.254604,-94.144785,36.254604",
     "geom:latitude":36.254604,
     "geom:longitude":-94.144785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 S Dixieland Rd",
     "sg:city":"Lowell",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219947487,
-    "wof:lastmodified":1449072955,
+    "wof:lastmodified":1466325235,
     "wof:name":"Dickey's BBQ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "barbeque"
     ]
 },
-  "bbox": [-94.144785,36.254604,-94.144785,36.254604],
+  "bbox": [
+    -94.144785,
+    36.254604,
+    -94.144785,
+    36.254604
+],
   "geometry": {"coordinates":[-94.144785,36.254604],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219174513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.336775,33.241616,-91.336775,33.241616",
     "geom:latitude":33.241616,
     "geom:longitude":-91.336775,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"742 Jennie Rd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219174513,
-    "wof:lastmodified":1449070877,
+    "wof:lastmodified":1466320586,
     "wof:name":"Brinson Climate Control",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "connectors-electric"
     ]
 },
-  "bbox": [-91.336775,33.241616,-91.336775,33.241616],
+  "bbox": [
+    -91.336775,
+    33.241616,
+    -91.336775,
+    33.241616
+],
   "geometry": {"coordinates":[-91.336775,33.241616],"type":"Point"}
 }

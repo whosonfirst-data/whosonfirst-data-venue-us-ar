@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102213825",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.177192,36.288784,-94.177192,36.288784",
     "geom:latitude":36.288784,
     "geom:longitude":-94.177192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5203 S 44th St",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102213825",
-    "wof:lastmodified":1449067783,
+    "wof:lastmodified":1466321068,
     "wof:name":"Janco Consulting Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.177192,36.288784,-94.177192,36.288784],
-  "geometry": {"coordinates":[-94.177192,36.288784],"type":"Point"}
+  "bbox": [
+    -94.177192,
+    36.288784,
+    -94.177192,
+    36.288784
+],
+  "geometry": {"coordinates":[-94.17719200000001,36.288784],"type":"Point"}
 }

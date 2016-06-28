@@ -2,13 +2,14 @@
   "id": 219610999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.588022,35.295391,-90.588022,35.295391",
     "geom:latitude":35.295391,
     "geom:longitude":-90.588022,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2926 Highway 75",
     "sg:city":"Parkin",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219610999,
-    "wof:lastmodified":1449073859,
+    "wof:lastmodified":1466324598,
     "wof:name":"Swan Lake Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [-90.588022,35.295391,-90.588022,35.295391],
+  "bbox": [
+    -90.588022,
+    35.295391,
+    -90.588022,
+    35.295391
+],
   "geometry": {"coordinates":[-90.588022,35.295391],"type":"Point"}
 }

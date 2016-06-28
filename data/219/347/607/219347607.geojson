@@ -2,13 +2,14 @@
   "id": 219347607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.608652,34.671871,-92.608652,34.671871",
     "geom:latitude":34.671871,
     "geom:longitude":-92.608652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11218 Thompson Dairy Rd",
     "sg:city":"Benton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219347607,
-    "wof:lastmodified":1449072099,
+    "wof:lastmodified":1466322224,
     "wof:name":"Resurrection Enterprises",
     "wof:parent_id":85817531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-92.608652,34.671871,-92.608652,34.671871],
-  "geometry": {"coordinates":[-92.608652,34.671871],"type":"Point"}
+  "bbox": [
+    -92.608652,
+    34.671871,
+    -92.608652,
+    34.671871
+],
+  "geometry": {"coordinates":[-92.60865200000001,34.671871],"type":"Point"}
 }

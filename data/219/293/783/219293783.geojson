@@ -2,13 +2,14 @@
   "id": 219293783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.589322,34.066447,-93.589322,34.066447",
     "geom:latitude":34.066447,
     "geom:longitude":-93.589322,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1050 Highway 19 S",
     "sg:city":"Delight",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219293783,
-    "wof:lastmodified":1449071086,
+    "wof:lastmodified":1466321679,
     "wof:name":"Robert Lee",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.589322,34.066447,-93.589322,34.066447],
+  "bbox": [
+    -93.589322,
+    34.066447,
+    -93.589322,
+    34.066447
+],
   "geometry": {"coordinates":[-93.589322,34.066447],"type":"Point"}
 }

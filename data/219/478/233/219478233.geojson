@@ -2,13 +2,14 @@
   "id": 219478233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.257455,35.570047,-91.257455,35.570047",
     "geom:latitude":35.570047,
     "geom:longitude":-91.257455,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"649 Jackson 917",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219478233,
-    "wof:lastmodified":1449070489,
+    "wof:lastmodified":1466323662,
     "wof:name":"U Of A Coop Extension Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "consultant"
     ]
 },
-  "bbox": [-91.257455,35.570047,-91.257455,35.570047],
-  "geometry": {"coordinates":[-91.257455,35.570047],"type":"Point"}
+  "bbox": [
+    -91.257455,
+    35.570047,
+    -91.257455,
+    35.570047
+],
+  "geometry": {"coordinates":[-91.25745499999999,35.570047],"type":"Point"}
 }

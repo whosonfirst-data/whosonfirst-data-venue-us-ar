@@ -2,13 +2,14 @@
   "id": 219470011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.735777,35.166213,-92.735777,35.166213",
     "geom:latitude":35.166213,
     "geom:longitude":-92.735777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 Poor Farm Rd",
     "sg:city":"Morrilton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219470011,
-    "wof:lastmodified":1449071251,
+    "wof:lastmodified":1466323557,
     "wof:name":"Director of Alternative School Administrative Offices",
     "wof:parent_id":85850611,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.735777,35.166213,-92.735777,35.166213],
+  "bbox": [
+    -92.735777,
+    35.166213,
+    -92.735777,
+    35.166213
+],
   "geometry": {"coordinates":[-92.735777,35.166213],"type":"Point"}
 }

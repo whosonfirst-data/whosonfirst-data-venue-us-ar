@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102320241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.376101,34.764462,-92.376101,34.764462",
     "geom:latitude":34.764462,
     "geom:longitude":-92.376101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1221 Reservoir Rd",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85807173,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85807173
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102320241,
-    "wof:lastmodified":1449068400,
+    "wof:lastmodified":1466323384,
     "wof:name":"Oops Investigations",
     "wof:parent_id":85807173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.376101,34.764462,-92.376101,34.764462],
-  "geometry": {"coordinates":[-92.376101,34.764462],"type":"Point"}
+  "bbox": [
+    -92.376101,
+    34.764462,
+    -92.376101,
+    34.764462
+],
+  "geometry": {"coordinates":[-92.37610100000001,34.764462],"type":"Point"}
 }

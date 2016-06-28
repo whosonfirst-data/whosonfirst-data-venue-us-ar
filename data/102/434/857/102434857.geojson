@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102434857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.179325,35.344382,-94.179325,35.344382",
     "geom:latitude":35.344382,
     "geom:longitude":-94.179325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1009 Raleigh St",
     "sg:city":"Lavaca",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102434857,
-    "wof:lastmodified":1449068314,
+    "wof:lastmodified":1466325689,
     "wof:name":"Hammer Machine Works Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.179325,35.344382,-94.179325,35.344382],
-  "geometry": {"coordinates":[-94.179325,35.344382],"type":"Point"}
+  "bbox": [
+    -94.179325,
+    35.344382,
+    -94.179325,
+    35.344382
+],
+  "geometry": {"coordinates":[-94.17932500000001,35.344382],"type":"Point"}
 }

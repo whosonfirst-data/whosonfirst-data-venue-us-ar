@@ -2,13 +2,14 @@
   "id": 219470381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.725482,35.140998,-92.725482,35.140998",
     "geom:latitude":35.140998,
     "geom:longitude":-92.725482,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 Burrow St",
     "sg:city":"Morrilton",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":219470381,
-    "wof:lastmodified":1449071248,
+    "wof:lastmodified":1466323564,
     "wof:name":"Church of Jesus Christ of Latter-Day Saints The",
     "wof:parent_id":85814069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "latter-day"
     ]
 },
-  "bbox": [-92.725482,35.140998,-92.725482,35.140998],
+  "bbox": [
+    -92.725482,
+    35.140998,
+    -92.725482,
+    35.140998
+],
   "geometry": {"coordinates":[-92.725482,35.140998],"type":"Point"}
 }

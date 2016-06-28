@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102437889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.380473,33.800681,-93.380473,33.800681",
     "geom:latitude":33.800681,
     "geom:longitude":-93.380473,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 E Elm St",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102437889,
-    "wof:lastmodified":1449069538,
+    "wof:lastmodified":1466325593,
     "wof:name":"Prescott Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.380473,33.800681,-93.380473,33.800681],
-  "geometry": {"coordinates":[-93.380473,33.800681],"type":"Point"}
+  "bbox": [
+    -93.380473,
+    33.800681,
+    -93.380473,
+    33.800681
+],
+  "geometry": {"coordinates":[-93.38047299999999,33.800681],"type":"Point"}
 }

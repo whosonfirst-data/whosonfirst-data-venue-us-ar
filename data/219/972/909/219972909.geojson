@@ -2,13 +2,14 @@
   "id": 219972909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.116252,36.355247,-94.116252,36.355247",
     "geom:latitude":36.355247,
     "geom:longitude":-94.116252,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2511 N 2nd St",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -70,10 +71,11 @@
         }
     ],
     "wof:id":219972909,
-    "wof:lastmodified":1449072153,
+    "wof:lastmodified":1466325228,
     "wof:name":"Allstate Insurance Company - Todd Moser",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -85,6 +87,11 @@
         "renter"
     ]
 },
-  "bbox": [-94.116252,36.355247,-94.116252,36.355247],
+  "bbox": [
+    -94.116252,
+    36.355247,
+    -94.116252,
+    36.355247
+],
   "geometry": {"coordinates":[-94.116252,36.355247],"type":"Point"}
 }

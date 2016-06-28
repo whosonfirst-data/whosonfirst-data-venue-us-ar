@@ -2,13 +2,14 @@
   "id": 219330427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.365095,35.287238,-91.365095,35.287238",
     "geom:latitude":35.287238,
     "geom:longitude":-91.365095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"502 N 3rd St County Rm 12",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219330427,
-    "wof:lastmodified":1449072136,
+    "wof:lastmodified":1466321993,
     "wof:name":"Cooperative Extension Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "consultant"
     ]
 },
-  "bbox": [-91.365095,35.287238,-91.365095,35.287238],
+  "bbox": [
+    -91.365095,
+    35.287238,
+    -91.365095,
+    35.287238
+],
   "geometry": {"coordinates":[-91.365095,35.287238],"type":"Point"}
 }

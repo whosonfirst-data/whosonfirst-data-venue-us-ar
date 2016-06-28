@@ -2,13 +2,14 @@
   "id": 303481191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.533416,36.182958,-94.533416,36.182958",
     "geom:latitude":36.182958,
     "geom:longitude":-94.533416,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 S Gunter St",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303481191,
-    "wof:lastmodified":1449000252,
+    "wof:lastmodified":1466320490,
     "wof:name":"B & B Machine Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "shop"
     ]
 },
-  "bbox": [-94.533416,36.182958,-94.533416,36.182958],
+  "bbox": [
+    -94.533416,
+    36.182958,
+    -94.533416,
+    36.182958
+],
   "geometry": {"coordinates":[-94.533416,36.182958],"type":"Point"}
 }

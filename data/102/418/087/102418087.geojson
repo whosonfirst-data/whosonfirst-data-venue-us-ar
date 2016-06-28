@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102418087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.427832,34.65856,-92.427832,34.65856",
     "geom:latitude":34.65856,
     "geom:longitude":-92.427832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13501 Otter Creek Pkwy",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85839935,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85839935
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102418087,
-    "wof:lastmodified":1449069656,
+    "wof:lastmodified":1466325496,
     "wof:name":"US Post Office",
     "wof:parent_id":85839935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.427832,34.65856,-92.427832,34.65856],
+  "bbox": [
+    -92.427832,
+    34.65856,
+    -92.427832,
+    34.65856
+],
   "geometry": {"coordinates":[-92.427832,34.65856],"type":"Point"}
 }

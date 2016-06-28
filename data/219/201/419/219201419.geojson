@@ -2,13 +2,14 @@
   "id": 219201419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.128315,33.911997,-93.128315,33.911997",
     "geom:latitude":33.911997,
     "geom:longitude":-93.128315,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1495 Red Springs Rd",
     "sg:city":"Gurdon",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219201419,
-    "wof:lastmodified":1449073439,
+    "wof:lastmodified":1466320878,
     "wof:name":"L B J Hunting Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.128315,33.911997,-93.128315,33.911997],
+  "bbox": [
+    -93.128315,
+    33.911997,
+    -93.128315,
+    33.911997
+],
   "geometry": {"coordinates":[-93.128315,33.911997],"type":"Point"}
 }

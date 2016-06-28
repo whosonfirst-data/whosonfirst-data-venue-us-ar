@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102370093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.346119,35.355999,-94.346119,35.355999",
     "geom:latitude":35.355999,
     "geom:longitude":-94.346119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7713 Williamsburg Rd",
     "sg:city":"Fort Smith",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85832863,
+        85688549,
         85633793,
         85921431,
         102082025,
-        85688549
+        85832863
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102370093,
-    "wof:lastmodified":1449069050,
+    "wof:lastmodified":1466324377,
     "wof:name":"H2 Hamm Shutters Inc",
     "wof:parent_id":85832863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.346119,35.355999,-94.346119,35.355999],
+  "bbox": [
+    -94.346119,
+    35.355999,
+    -94.346119,
+    35.355999
+],
   "geometry": {"coordinates":[-94.346119,35.355999],"type":"Point"}
 }

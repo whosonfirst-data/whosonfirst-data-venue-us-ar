@@ -2,13 +2,14 @@
   "id": 219859349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.148806,36.102141,-94.148806,36.102141",
     "geom:latitude":36.102141,
     "geom:longitude":-94.148806,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2768 N College Ave",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":219859349,
-    "wof:lastmodified":1449072925,
+    "wof:lastmodified":1466325039,
     "wof:name":"Car-Mart",
     "wof:parent_id":85885431,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "cars-wholesale"
     ]
 },
-  "bbox": [-94.148806,36.102141,-94.148806,36.102141],
-  "geometry": {"coordinates":[-94.148806,36.102141],"type":"Point"}
+  "bbox": [
+    -94.148806,
+    36.102141,
+    -94.148806,
+    36.102141
+],
+  "geometry": {"coordinates":[-94.14880599999999,36.102141],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337292297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.757502,34.773655,-90.757502,34.773655",
     "geom:latitude":34.773655,
     "geom:longitude":-90.757502,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 N Poplar St",
     "sg:city":"Marianna",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":337292297,
-    "wof:lastmodified":1449027010,
+    "wof:lastmodified":1466322095,
     "wof:name":"Bill Miles Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "business"
     ]
 },
-  "bbox": [-90.757502,34.773655,-90.757502,34.773655],
+  "bbox": [
+    -90.757502,
+    34.773655,
+    -90.757502,
+    34.773655
+],
   "geometry": {"coordinates":[-90.757502,34.773655],"type":"Point"}
 }

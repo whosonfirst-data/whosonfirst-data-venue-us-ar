@@ -2,13 +2,14 @@
   "id": 219453503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.367821,34.606374,-92.367821,34.606374",
     "geom:latitude":34.606374,
     "geom:longitude":-92.367821,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7608 Homestead Dr",
     "sg:city":"Mabelvale",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219453503,
-    "wof:lastmodified":1449073053,
+    "wof:lastmodified":1466323415,
     "wof:name":"S&S Transport Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transportation"
     ]
 },
-  "bbox": [-92.367821,34.606374,-92.367821,34.606374],
-  "geometry": {"coordinates":[-92.367821,34.606374],"type":"Point"}
+  "bbox": [
+    -92.367821,
+    34.606374,
+    -92.367821,
+    34.606374
+],
+  "geometry": {"coordinates":[-92.36782100000001,34.606374],"type":"Point"}
 }

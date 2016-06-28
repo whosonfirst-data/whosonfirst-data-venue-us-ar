@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102437983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.111352,36.221808,-93.111352,36.221808",
     "geom:latitude":36.221808,
     "geom:longitude":-93.111352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"820 S Pine St",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102437983,
-    "wof:lastmodified":1449069541,
+    "wof:lastmodified":1466325596,
     "wof:name":"American Homepatient",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.111352,36.221808,-93.111352,36.221808],
+  "bbox": [
+    -93.111352,
+    36.221808,
+    -93.111352,
+    36.221808
+],
   "geometry": {"coordinates":[-93.111352,36.221808],"type":"Point"}
 }

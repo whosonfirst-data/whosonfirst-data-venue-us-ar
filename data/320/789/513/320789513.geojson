@@ -2,13 +2,14 @@
   "id": 320789513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.532216,36.181368,-94.532216,36.181368",
     "geom:latitude":36.181368,
     "geom:longitude":-94.532216,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"507 S Hico St",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320789513,
-    "wof:lastmodified":1449012938,
+    "wof:lastmodified":1466320651,
     "wof:name":"Renfroe's Truck Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truck"
     ]
 },
-  "bbox": [-94.532216,36.181368,-94.532216,36.181368],
-  "geometry": {"coordinates":[-94.532216,36.181368],"type":"Point"}
+  "bbox": [
+    -94.532216,
+    36.181368,
+    -94.532216,
+    36.181368
+],
+  "geometry": {"coordinates":[-94.53221600000001,36.181368],"type":"Point"}
 }

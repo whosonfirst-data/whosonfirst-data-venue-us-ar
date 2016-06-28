@@ -2,13 +2,14 @@
   "id": 219869303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.203772,36.080046,-94.203772,36.080046",
     "geom:latitude":36.080046,
     "geom:longitude":-94.203772,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1234 N Steamboat Dr",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219869303,
-    "wof:lastmodified":1449073632,
+    "wof:lastmodified":1466325051,
     "wof:name":"Country Inn & Suites",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lodging"
     ]
 },
-  "bbox": [-94.203772,36.080046,-94.203772,36.080046],
+  "bbox": [
+    -94.203772,
+    36.080046,
+    -94.203772,
+    36.080046
+],
   "geometry": {"coordinates":[-94.203772,36.080046],"type":"Point"}
 }

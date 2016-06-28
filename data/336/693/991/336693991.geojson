@@ -2,13 +2,14 @@
   "id": 336693991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.343604,34.469451,-94.343604,34.469451",
     "geom:latitude":34.469451,
     "geom:longitude":-94.343604,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"134 Stricklin Ln",
     "sg:city":"Hatfield",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":336693991,
-    "wof:lastmodified":1448996980,
+    "wof:lastmodified":1466324170,
     "wof:name":"Dab Water Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "bottled"
     ]
 },
-  "bbox": [-94.343604,34.469451,-94.343604,34.469451],
+  "bbox": [
+    -94.343604,
+    34.469451,
+    -94.343604,
+    34.469451
+],
   "geometry": {"coordinates":[-94.343604,34.469451],"type":"Point"}
 }

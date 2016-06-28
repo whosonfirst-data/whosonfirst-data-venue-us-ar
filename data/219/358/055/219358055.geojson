@@ -2,13 +2,14 @@
   "id": 219358055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.4907,34.603033,-92.4907,34.603033",
     "geom:latitude":34.603033,
     "geom:longitude":-92.4907,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 N Reynolds Rd",
     "sg:city":"Bryant",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219358055,
-    "wof:lastmodified":1449071872,
+    "wof:lastmodified":1466322360,
     "wof:name":"Phyllis's Hair Habit",
     "wof:parent_id":85844395,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "stylist"
     ]
 },
-  "bbox": [-92.4907,34.603033,-92.4907,34.603033],
+  "bbox": [
+    -92.4907,
+    34.603033,
+    -92.4907,
+    34.603033
+],
   "geometry": {"coordinates":[-92.4907,34.603033],"type":"Point"}
 }

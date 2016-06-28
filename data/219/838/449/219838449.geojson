@@ -2,13 +2,14 @@
   "id": 219838449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.158244,36.092736,-94.158244,36.092736",
     "geom:latitude":36.092736,
     "geom:longitude":-94.158244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"57 W Colt Square Dr",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219838449,
-    "wof:lastmodified":1449070820,
+    "wof:lastmodified":1466325084,
     "wof:name":"Fayetteville Creative School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "day"
     ]
 },
-  "bbox": [-94.158244,36.092736,-94.158244,36.092736],
+  "bbox": [
+    -94.158244,
+    36.092736,
+    -94.158244,
+    36.092736
+],
   "geometry": {"coordinates":[-94.158244,36.092736],"type":"Point"}
 }

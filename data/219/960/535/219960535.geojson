@@ -2,13 +2,14 @@
   "id": 219960535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.986282,36.378449,-93.986282,36.378449",
     "geom:latitude":36.378449,
     "geom:longitude":-93.986282,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10968 Lakeside Dr",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219960535,
-    "wof:lastmodified":1449072939,
+    "wof:lastmodified":1466325258,
     "wof:name":"Mother & Daughter Cleaning",
     "wof:parent_id":85895833,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "supply"
     ]
 },
-  "bbox": [-93.986282,36.378449,-93.986282,36.378449],
+  "bbox": [
+    -93.986282,
+    36.378449,
+    -93.986282,
+    36.378449
+],
   "geometry": {"coordinates":[-93.986282,36.378449],"type":"Point"}
 }

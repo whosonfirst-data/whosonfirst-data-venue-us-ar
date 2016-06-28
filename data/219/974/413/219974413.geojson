@@ -2,13 +2,14 @@
   "id": 219974413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.029112,36.331164,-94.029112,36.331164",
     "geom:latitude":36.331164,
     "geom:longitude":-94.029112,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14442 E Highway 12",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219974413,
-    "wof:lastmodified":1449073449,
+    "wof:lastmodified":1466325177,
     "wof:name":"Darrow Garner Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "broker"
     ]
 },
-  "bbox": [-94.029112,36.331164,-94.029112,36.331164],
+  "bbox": [
+    -94.029112,
+    36.331164,
+    -94.029112,
+    36.331164
+],
   "geometry": {"coordinates":[-94.029112,36.331164],"type":"Point"}
 }

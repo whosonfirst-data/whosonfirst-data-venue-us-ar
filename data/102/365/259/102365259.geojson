@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102365259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.201901,36.449202,-93.201901,36.449202",
     "geom:latitude":36.449202,
     "geom:longitude":-93.201901,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"303 College Rd W",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102365259,
-    "wof:lastmodified":1449068185,
+    "wof:lastmodified":1466324332,
     "wof:name":"Youngs Tradition",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.201901,36.449202,-93.201901,36.449202],
-  "geometry": {"coordinates":[-93.201901,36.449202],"type":"Point"}
+  "bbox": [
+    -93.201901,
+    36.449202,
+    -93.201901,
+    36.449202
+],
+  "geometry": {"coordinates":[-93.20190100000001,36.449202],"type":"Point"}
 }

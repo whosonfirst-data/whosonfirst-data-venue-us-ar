@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102296113",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.190182,36.297485,-94.190182,36.297485",
     "geom:latitude":36.297485,
     "geom:longitude":-94.190182,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Champions Blvd",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895851,
+        85688549,
         85633793,
         85921535,
         102083255,
-        85688549
+        85895851
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":"102296113",
-    "wof:lastmodified":1449069721,
+    "wof:lastmodified":1466322908,
     "wof:name":"Knight of Dallas",
     "wof:parent_id":85895851,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.190182,36.297485,-94.190182,36.297485],
-  "geometry": {"coordinates":[-94.190182,36.297485],"type":"Point"}
+  "bbox": [
+    -94.190182,
+    36.297485,
+    -94.190182,
+    36.297485
+],
+  "geometry": {"coordinates":[-94.19018199999999,36.297485],"type":"Point"}
 }

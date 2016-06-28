@@ -2,13 +2,14 @@
   "id": 220075615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.467132,35.483067,-93.467132,35.483067",
     "geom:latitude":35.483067,
     "geom:longitude":-93.467132,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 N Jackson St",
     "sg:city":"Clarksville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":220075615,
-    "wof:lastmodified":1449074491,
+    "wof:lastmodified":1466321462,
     "wof:name":"Aloha Hair Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.467132,35.483067,-93.467132,35.483067],
-  "geometry": {"coordinates":[-93.467132,35.483067],"type":"Point"}
+  "bbox": [
+    -93.467132,
+    35.483067,
+    -93.467132,
+    35.483067
+],
+  "geometry": {"coordinates":[-93.46713200000001,35.483067],"type":"Point"}
 }

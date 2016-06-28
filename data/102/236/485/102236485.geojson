@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102236485",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.215036,34.814384,-92.215036,34.814384",
     "geom:latitude":34.814384,
     "geom:longitude":-92.215036,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1107 Wildwood Ave",
     "sg:city":"Sherwood",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848703,
+        85688549,
         85633793,
         85921251,
         102082497,
-        85688549
+        85848703
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102236485",
-    "wof:lastmodified":1449068053,
+    "wof:lastmodified":1466321560,
     "wof:name":"Petre's Stenograph Svc",
     "wof:parent_id":85848703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.215036,34.814384,-92.215036,34.814384],
+  "bbox": [
+    -92.215036,
+    34.814384,
+    -92.215036,
+    34.814384
+],
   "geometry": {"coordinates":[-92.215036,34.814384],"type":"Point"}
 }

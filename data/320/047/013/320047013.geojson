@@ -2,13 +2,14 @@
   "id": 320047013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.224649,34.582919,-94.224649,34.582919",
     "geom:latitude":34.582919,
     "geom:longitude":-94.224649,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 Hornbeck Ave",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320047013,
-    "wof:lastmodified":1449013676,
+    "wof:lastmodified":1466320417,
     "wof:name":"J & F Vending",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.224649,34.582919,-94.224649,34.582919],
+  "bbox": [
+    -94.224649,
+    34.582919,
+    -94.224649,
+    34.582919
+],
   "geometry": {"coordinates":[-94.224649,34.582919],"type":"Point"}
 }

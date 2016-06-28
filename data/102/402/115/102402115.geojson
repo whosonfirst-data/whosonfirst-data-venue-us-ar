@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102402115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.579862,34.780267,-91.579862,34.780267",
     "geom:latitude":34.780267,
     "geom:longitude":-91.579862,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"193 N Livermore",
     "sg:city":"Hazen",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102402115,
-    "wof:lastmodified":1449068555,
+    "wof:lastmodified":1466324727,
     "wof:name":"Pizza Classic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.579862,34.780267,-91.579862,34.780267],
-  "geometry": {"coordinates":[-91.579862,34.780267],"type":"Point"}
+  "bbox": [
+    -91.579862,
+    34.780267,
+    -91.579862,
+    34.780267
+],
+  "geometry": {"coordinates":[-91.57986200000001,34.780267],"type":"Point"}
 }

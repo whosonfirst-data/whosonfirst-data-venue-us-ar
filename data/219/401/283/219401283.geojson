@@ -2,13 +2,14 @@
   "id": 219401283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.461398,35.070241,-92.461398,35.070241",
     "geom:latitude":35.070241,
     "geom:longitude":-92.461398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2425 Dave Ward Dr Ste 401",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219401283,
-    "wof:lastmodified":1449073389,
+    "wof:lastmodified":1466322858,
     "wof:name":"Naylor Dave Md",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "family"
     ]
 },
-  "bbox": [-92.461398,35.070241,-92.461398,35.070241],
+  "bbox": [
+    -92.461398,
+    35.070241,
+    -92.461398,
+    35.070241
+],
   "geometry": {"coordinates":[-92.461398,35.070241],"type":"Point"}
 }

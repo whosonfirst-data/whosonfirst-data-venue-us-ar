@@ -2,13 +2,14 @@
   "id": 320850651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.621078,35.241002,-94.621078,35.241002",
     "geom:latitude":35.241002,
     "geom:longitude":-94.621078,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 E Broadway",
     "sg:city":"Spiro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320850651,
-    "wof:lastmodified":1449013420,
+    "wof:lastmodified":1466320663,
     "wof:name":"U-Haul Co",
     "wof:parent_id":85809847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "leasing"
     ]
 },
-  "bbox": [-94.621078,35.241002,-94.621078,35.241002],
+  "bbox": [
+    -94.621078,
+    35.241002,
+    -94.621078,
+    35.241002
+],
   "geometry": {"coordinates":[-94.621078,35.241002],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219818683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.160865,36.063639,-94.160865,36.063639",
     "geom:latitude":36.063639,
     "geom:longitude":-94.160865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 W Meadow St Apt 100",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":219818683,
-    "wof:lastmodified":1449072108,
+    "wof:lastmodified":1466324904,
     "wof:name":"Sells Clark",
     "wof:parent_id":85885459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "public"
     ]
 },
-  "bbox": [-94.160865,36.063639,-94.160865,36.063639],
+  "bbox": [
+    -94.160865,
+    36.063639,
+    -94.160865,
+    36.063639
+],
   "geometry": {"coordinates":[-94.160865,36.063639],"type":"Point"}
 }

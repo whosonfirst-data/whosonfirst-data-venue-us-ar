@@ -2,13 +2,14 @@
   "id": 219489907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.184977,34.843336,-92.184977,34.843336",
     "geom:latitude":34.843336,
     "geom:longitude":-92.184977,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Tenkiller Dr",
     "sg:city":"Sherwood",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219489907,
-    "wof:lastmodified":1449072305,
+    "wof:lastmodified":1466323844,
     "wof:name":"Red Ol Fire Apparatus",
     "wof:parent_id":85837729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "broker"
     ]
 },
-  "bbox": [-92.184977,34.843336,-92.184977,34.843336],
+  "bbox": [
+    -92.184977,
+    34.843336,
+    -92.184977,
+    34.843336
+],
   "geometry": {"coordinates":[-92.184977,34.843336],"type":"Point"}
 }

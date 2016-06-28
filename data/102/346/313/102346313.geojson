@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102346313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.704085,35.243495,-91.704085,35.243495",
     "geom:latitude":35.243495,
     "geom:longitude":-91.704085,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3000 E Park Ave",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102346313,
-    "wof:lastmodified":1449067753,
+    "wof:lastmodified":1466323983,
     "wof:name":"Church Of Christ-Cloverdale",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.704085,35.243495,-91.704085,35.243495],
-  "geometry": {"coordinates":[-91.704085,35.243495],"type":"Point"}
+  "bbox": [
+    -91.704085,
+    35.243495,
+    -91.704085,
+    35.243495
+],
+  "geometry": {"coordinates":[-91.70408500000001,35.243495],"type":"Point"}
 }

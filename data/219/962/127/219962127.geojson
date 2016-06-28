@@ -2,13 +2,14 @@
   "id": 219962127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.136597,36.333801,-94.136597,36.333801",
     "geom:latitude":36.333801,
     "geom:longitude":-94.136597,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 W Walnut St",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219962127,
-    "wof:lastmodified":1449072463,
+    "wof:lastmodified":1466325141,
     "wof:name":"Beauty World II Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [-94.136597,36.333801,-94.136597,36.333801],
-  "geometry": {"coordinates":[-94.136597,36.333801],"type":"Point"}
+  "bbox": [
+    -94.136597,
+    36.333801,
+    -94.136597,
+    36.333801
+],
+  "geometry": {"coordinates":[-94.13659699999999,36.333801],"type":"Point"}
 }

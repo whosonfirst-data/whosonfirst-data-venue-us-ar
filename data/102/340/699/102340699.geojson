@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102340699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.245083,34.755525,-92.245083,34.755525",
     "geom:latitude":34.755525,
     "geom:longitude":-92.245083,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1901 E Broadway St",
     "sg:city":"North Little Rock",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102340699,
-    "wof:lastmodified":1449069645,
+    "wof:lastmodified":1466323887,
     "wof:name":"Broadway Satellite & Video",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.245083,34.755525,-92.245083,34.755525],
-  "geometry": {"coordinates":[-92.245083,34.755525],"type":"Point"}
+  "bbox": [
+    -92.245083,
+    34.755525,
+    -92.245083,
+    34.755525
+],
+  "geometry": {"coordinates":[-92.24508299999999,34.755525],"type":"Point"}
 }

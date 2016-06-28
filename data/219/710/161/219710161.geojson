@@ -2,13 +2,14 @@
   "id": 219710161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.964738,36.276785,-90.964738,36.276785",
     "geom:latitude":36.276785,
     "geom:longitude":-90.964738,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"447 Lake Dr",
     "sg:city":"Pocahontas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219710161,
-    "wof:lastmodified":1449070601,
+    "wof:lastmodified":1466324806,
     "wof:name":"Christie Couch Slp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "speech-language"
     ]
 },
-  "bbox": [-90.964738,36.276785,-90.964738,36.276785],
+  "bbox": [
+    -90.964738,
+    36.276785,
+    -90.964738,
+    36.276785
+],
   "geometry": {"coordinates":[-90.964738,36.276785],"type":"Point"}
 }

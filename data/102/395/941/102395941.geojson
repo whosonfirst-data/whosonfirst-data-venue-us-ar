@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102395941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.994025,33.681843,-93.994025,33.681843",
     "geom:latitude":33.681843,
     "geom:longitude":-93.994025,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1393 Hwy 32 E",
     "sg:city":"Ashdown",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102395941,
-    "wof:lastmodified":1449069820,
+    "wof:lastmodified":1466324813,
     "wof:name":"Major Supply Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.994025,33.681843,-93.994025,33.681843],
-  "geometry": {"coordinates":[-93.994025,33.681843],"type":"Point"}
+  "bbox": [
+    -93.994025,
+    33.681843,
+    -93.994025,
+    33.681843
+],
+  "geometry": {"coordinates":[-93.99402499999999,33.681843],"type":"Point"}
 }

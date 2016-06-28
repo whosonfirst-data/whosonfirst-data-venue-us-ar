@@ -2,13 +2,14 @@
   "id": 219737675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.948639,35.633558,-91.948639,35.633558",
     "geom:latitude":35.633558,
     "geom:longitude":-91.948639,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"60 Greers Ferry Rd",
     "sg:city":"Drasco",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219737675,
-    "wof:lastmodified":1449071187,
+    "wof:lastmodified":1466324899,
     "wof:name":"Drasco Medical Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "family"
     ]
 },
-  "bbox": [-91.948639,35.633558,-91.948639,35.633558],
+  "bbox": [
+    -91.948639,
+    35.633558,
+    -91.948639,
+    35.633558
+],
   "geometry": {"coordinates":[-91.948639,35.633558],"type":"Point"}
 }

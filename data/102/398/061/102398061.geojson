@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102398061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.163251,36.070941,-94.163251,36.070941",
     "geom:latitude":36.070941,
     "geom:longitude":-94.163251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 N Shady Ave",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885435,
+        85688549,
         85633793,
         85919609,
         102082007,
-        85688549
+        85885435
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102398061,
-    "wof:lastmodified":1449067991,
+    "wof:lastmodified":1466324661,
     "wof:name":"Edifice LLC",
     "wof:parent_id":85885435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.163251,36.070941,-94.163251,36.070941],
+  "bbox": [
+    -94.163251,
+    36.070941,
+    -94.163251,
+    36.070941
+],
   "geometry": {"coordinates":[-94.163251,36.070941],"type":"Point"}
 }

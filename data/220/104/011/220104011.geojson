@@ -2,13 +2,14 @@
   "id": 220104011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.929481,35.182638,-93.929481,35.182638",
     "geom:latitude":35.182638,
     "geom:longitude":-93.929481,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"141 Northridge Rd",
     "sg:city":"Booneville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":220104011,
-    "wof:lastmodified":1449074366,
+    "wof:lastmodified":1466324479,
     "wof:name":"Tale Rentals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "store"
     ]
 },
-  "bbox": [-93.929481,35.182638,-93.929481,35.182638],
+  "bbox": [
+    -93.929481,
+    35.182638,
+    -93.929481,
+    35.182638
+],
   "geometry": {"coordinates":[-93.929481,35.182638],"type":"Point"}
 }

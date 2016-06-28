@@ -2,13 +2,14 @@
   "id": 219634701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.704036,35.840157,-90.704036,35.840157",
     "geom:latitude":35.840157,
     "geom:longitude":-90.704036,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"326 S Church St",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":219634701,
-    "wof:lastmodified":1449072078,
+    "wof:lastmodified":1466324642,
     "wof:name":"Stanley Law Firm PA",
     "wof:parent_id":85836541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "law"
     ]
 },
-  "bbox": [-90.704036,35.840157,-90.704036,35.840157],
+  "bbox": [
+    -90.704036,
+    35.840157,
+    -90.704036,
+    35.840157
+],
   "geometry": {"coordinates":[-90.704036,35.840157],"type":"Point"}
 }

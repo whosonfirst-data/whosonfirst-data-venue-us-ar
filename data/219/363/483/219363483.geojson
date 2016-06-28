@@ -2,13 +2,14 @@
   "id": 219363483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.051602,34.952546,-92.051602,34.952546",
     "geom:latitude":34.952546,
     "geom:longitude":-92.051602,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3065 Highway 367 S Ste 11",
     "sg:city":"Cabot",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219363483,
-    "wof:lastmodified":1449073494,
+    "wof:lastmodified":1466322460,
     "wof:name":"Divino, Caesar S Dpm",
     "wof:parent_id":85811577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "osteopathic"
     ]
 },
-  "bbox": [-92.051602,34.952546,-92.051602,34.952546],
+  "bbox": [
+    -92.051602,
+    34.952546,
+    -92.051602,
+    34.952546
+],
   "geometry": {"coordinates":[-92.051602,34.952546],"type":"Point"}
 }

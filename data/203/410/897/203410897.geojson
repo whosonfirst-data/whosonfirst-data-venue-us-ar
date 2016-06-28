@@ -2,13 +2,14 @@
   "id": 203410897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.92153,33.10996,-91.92153,33.10996",
     "geom:latitude":33.10996,
     "geom:longitude":-91.92153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"122 Taylor Paul Rd",
     "sg:city":"Crossett",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":203410897,
-    "wof:lastmodified":1449024971,
+    "wof:lastmodified":1466320543,
     "wof:name":"Teresa's Beauty Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.92153,33.10996,-91.92153,33.10996],
+  "bbox": [
+    -91.92153,
+    33.10996,
+    -91.92153,
+    33.10996
+],
   "geometry": {"coordinates":[-91.92153,33.10996],"type":"Point"}
 }

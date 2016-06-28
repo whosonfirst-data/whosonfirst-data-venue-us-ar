@@ -2,13 +2,14 @@
   "id": 220072613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.996771,35.218436,-92.996771,35.218436",
     "geom:latitude":35.218436,
     "geom:longitude":-92.996771,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"915 Lake Rd",
     "sg:city":"Atkins",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220072613,
-    "wof:lastmodified":1449074468,
+    "wof:lastmodified":1466321416,
     "wof:name":"Gracies Decorating And Gif",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-92.996771,35.218436,-92.996771,35.218436],
+  "bbox": [
+    -92.996771,
+    35.218436,
+    -92.996771,
+    35.218436
+],
   "geometry": {"coordinates":[-92.996771,35.218436],"type":"Point"}
 }

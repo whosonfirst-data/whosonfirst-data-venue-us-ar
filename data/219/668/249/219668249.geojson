@@ -2,13 +2,14 @@
   "id": 219668249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.173752,36.202014,-91.173752,36.202014",
     "geom:latitude":36.202014,
     "geom:longitude":-91.173752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 W 3rd St",
     "sg:city":"Imboden",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219668249,
-    "wof:lastmodified":1449072851,
+    "wof:lastmodified":1466324572,
     "wof:name":"Autumn Inn Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.173752,36.202014,-91.173752,36.202014],
-  "geometry": {"coordinates":[-91.173752,36.202014],"type":"Point"}
+  "bbox": [
+    -91.173752,
+    36.202014,
+    -91.173752,
+    36.202014
+],
+  "geometry": {"coordinates":[-91.17375199999999,36.202014],"type":"Point"}
 }

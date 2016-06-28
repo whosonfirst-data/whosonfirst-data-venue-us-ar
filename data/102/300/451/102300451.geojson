@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102300451",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.600457,34.566385,-92.600457,34.566385",
     "geom:latitude":34.566385,
     "geom:longitude":-92.600457,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15541 I- 30",
     "sg:city":"Benton",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":"102300451",
-    "wof:lastmodified":1449069101,
+    "wof:lastmodified":1466323026,
     "wof:name":"BP Food Mart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.600457,34.566385,-92.600457,34.566385],
-  "geometry": {"coordinates":[-92.600457,34.566385],"type":"Point"}
+  "bbox": [
+    -92.600457,
+    34.566385,
+    -92.600457,
+    34.566385
+],
+  "geometry": {"coordinates":[-92.60045700000001,34.566385],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320563761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.514277,36.181219,-94.514277,36.181219",
     "geom:latitude":36.181219,
     "geom:longitude":-94.514277,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2515 Hwy 412 E",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320563761,
-    "wof:lastmodified":1449011312,
+    "wof:lastmodified":1466320585,
     "wof:name":"Tower Bar-B-Que",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.514277,36.181219,-94.514277,36.181219],
-  "geometry": {"coordinates":[-94.514277,36.181219],"type":"Point"}
+  "bbox": [
+    -94.514277,
+    36.181219,
+    -94.514277,
+    36.181219
+],
+  "geometry": {"coordinates":[-94.51427700000001,36.181219],"type":"Point"}
 }

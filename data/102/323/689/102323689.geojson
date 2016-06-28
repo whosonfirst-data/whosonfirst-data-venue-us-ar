@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102323689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.744138,35.151003,-92.744138,35.151003",
     "geom:latitude":35.151003,
     "geom:longitude":-92.744138,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 S Moose St",
     "sg:city":"Morrilton",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85814069,
+        85688549,
         85633793,
         85920189,
         102083217,
-        85688549
+        85814069
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102323689,
-    "wof:lastmodified":1449068014,
+    "wof:lastmodified":1466323570,
     "wof:name":"Jean Petit Motors",
     "wof:parent_id":85814069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.744138,35.151003,-92.744138,35.151003],
-  "geometry": {"coordinates":[-92.744138,35.151003],"type":"Point"}
+  "bbox": [
+    -92.744138,
+    35.151003,
+    -92.744138,
+    35.151003
+],
+  "geometry": {"coordinates":[-92.74413800000001,35.151003],"type":"Point"}
 }

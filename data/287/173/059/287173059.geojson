@@ -2,13 +2,14 @@
   "id": 287173059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.547237,36.173671,-94.547237,36.173671",
     "geom:latitude":36.173671,
     "geom:longitude":-94.547237,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"628 Hwy 412 W",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":287173059,
-    "wof:lastmodified":1449000833,
+    "wof:lastmodified":1466324409,
     "wof:name":"Norwood & Norwood",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-94.547237,36.173671,-94.547237,36.173671],
+  "bbox": [
+    -94.547237,
+    36.173671,
+    -94.547237,
+    36.173671
+],
   "geometry": {"coordinates":[-94.547237,36.173671],"type":"Point"}
 }

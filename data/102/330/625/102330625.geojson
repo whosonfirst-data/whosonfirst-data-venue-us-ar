@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102330625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.66549,33.21719,-92.66549,33.21719",
     "geom:latitude":33.21719,
     "geom:longitude":-92.66549,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"605 N West Ave",
     "sg:city":"El Dorado",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102330625,
-    "wof:lastmodified":1449068955,
+    "wof:lastmodified":1466323669,
     "wof:name":"House Of Cuts & Fashions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.66549,33.21719,-92.66549,33.21719],
-  "geometry": {"coordinates":[-92.66549,33.21719],"type":"Point"}
+  "bbox": [
+    -92.66549,
+    33.21719,
+    -92.66549,
+    33.21719
+],
+  "geometry": {"coordinates":[-92.66549000000001,33.21719],"type":"Point"}
 }

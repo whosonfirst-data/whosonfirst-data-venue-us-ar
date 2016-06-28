@@ -2,13 +2,14 @@
   "id": 219660467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.571607,36.24583,-90.571607,36.24583",
     "geom:latitude":36.24583,
     "geom:longitude":-90.571607,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4358 Greene Road 119",
     "sg:city":"Delaplaine",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219660467,
-    "wof:lastmodified":1449073555,
+    "wof:lastmodified":1466324778,
     "wof:name":"Brown Family Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.571607,36.24583,-90.571607,36.24583],
+  "bbox": [
+    -90.571607,
+    36.24583,
+    -90.571607,
+    36.24583
+],
   "geometry": {"coordinates":[-90.571607,36.24583],"type":"Point"}
 }

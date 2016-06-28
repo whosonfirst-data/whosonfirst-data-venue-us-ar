@@ -2,13 +2,14 @@
   "id": 219959201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.11558,36.378807,-94.11558,36.378807",
     "geom:latitude":36.378807,
     "geom:longitude":-94.11558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4135 N 2nd St",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219959201,
-    "wof:lastmodified":1449073566,
+    "wof:lastmodified":1466325256,
     "wof:name":"Glorious Grace Fellowship",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "denomination"
     ]
 },
-  "bbox": [-94.11558,36.378807,-94.11558,36.378807],
-  "geometry": {"coordinates":[-94.11558,36.378807],"type":"Point"}
+  "bbox": [
+    -94.11558,
+    36.378807,
+    -94.11558,
+    36.378807
+],
+  "geometry": {"coordinates":[-94.11557999999999,36.378807],"type":"Point"}
 }

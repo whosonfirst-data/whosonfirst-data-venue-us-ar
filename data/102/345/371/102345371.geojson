@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102345371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.162302,36.139758,-94.162302,36.139758",
     "geom:latitude":36.139758,
     "geom:longitude":-94.162302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2755 Bent Trl",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885471,
+        85688549,
         85633793,
         85919595,
         102082007,
-        85688549
+        85885471
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102345371,
-    "wof:lastmodified":1449070000,
+    "wof:lastmodified":1466323941,
     "wof:name":"Beth C Poole Inc",
     "wof:parent_id":85885471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.162302,36.139758,-94.162302,36.139758],
+  "bbox": [
+    -94.162302,
+    36.139758,
+    -94.162302,
+    36.139758
+],
   "geometry": {"coordinates":[-94.162302,36.139758],"type":"Point"}
 }

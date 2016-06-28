@@ -2,13 +2,14 @@
   "id": 219326403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.416141,34.643727,-92.416141,34.643727",
     "geom:latitude":34.643727,
     "geom:longitude":-92.416141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11610 Vimy Ridge Rd",
     "sg:city":"Alexander",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219326403,
-    "wof:lastmodified":1449071888,
+    "wof:lastmodified":1466321955,
     "wof:name":"Wes-Pak, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-92.416141,34.643727,-92.416141,34.643727],
+  "bbox": [
+    -92.416141,
+    34.643727,
+    -92.416141,
+    34.643727
+],
   "geometry": {"coordinates":[-92.416141,34.643727],"type":"Point"}
 }

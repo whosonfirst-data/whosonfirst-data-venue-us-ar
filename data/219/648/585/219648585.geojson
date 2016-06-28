@@ -2,13 +2,14 @@
   "id": 219648585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.695472,35.801563,-90.695472,35.801563",
     "geom:latitude":35.801563,
     "geom:longitude":-90.695472,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3604 Harrisburg Rd",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219648585,
-    "wof:lastmodified":1449071372,
+    "wof:lastmodified":1466324709,
     "wof:name":"Jody Brown Construction And Remodeling",
     "wof:parent_id":85836541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-90.695472,35.801563,-90.695472,35.801563],
+  "bbox": [
+    -90.695472,
+    35.801563,
+    -90.695472,
+    35.801563
+],
   "geometry": {"coordinates":[-90.695472,35.801563],"type":"Point"}
 }

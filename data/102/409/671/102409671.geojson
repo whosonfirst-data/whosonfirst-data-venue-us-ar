@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102409671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.25684,34.795245,-92.25684,34.795245",
     "geom:latitude":34.795245,
     "geom:longitude":-92.25684,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4720 John F Kennedy Blvd",
     "sg:city":"N Little Rock",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851793,
+        85688549,
         85633793,
         85921255,
         102082497,
-        85688549
+        85851793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102409671,
-    "wof:lastmodified":1449068763,
+    "wof:lastmodified":1466325156,
     "wof:name":"Pizza Perfect",
     "wof:parent_id":85851793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.25684,34.795245,-92.25684,34.795245],
+  "bbox": [
+    -92.25684,
+    34.795245,
+    -92.25684,
+    34.795245
+],
   "geometry": {"coordinates":[-92.25684,34.795245],"type":"Point"}
 }

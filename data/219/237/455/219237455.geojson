@@ -2,13 +2,14 @@
   "id": 219237455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.393549,33.725242,-94.393549,33.725242",
     "geom:latitude":33.725242,
     "geom:longitude":-94.393549,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"610 N 7th St",
     "sg:city":"Foreman",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":219237455,
-    "wof:lastmodified":1449070458,
+    "wof:lastmodified":1466321235,
     "wof:name":"Breakthrough Ministry Cogic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-94.393549,33.725242,-94.393549,33.725242],
-  "geometry": {"coordinates":[-94.393549,33.725242],"type":"Point"}
+  "bbox": [
+    -94.393549,
+    33.725242,
+    -94.393549,
+    33.725242
+],
+  "geometry": {"coordinates":[-94.39354899999999,33.725242],"type":"Point"}
 }

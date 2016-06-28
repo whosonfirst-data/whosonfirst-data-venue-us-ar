@@ -2,13 +2,14 @@
   "id": 203307457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.943223,33.419463,-93.943223,33.419463",
     "geom:latitude":33.419463,
     "geom:longitude":-93.943223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"422 S Mosley Rd",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203307457,
-    "wof:lastmodified":1449025410,
+    "wof:lastmodified":1466324445,
     "wof:name":"Chancellors Garage & Motor Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "body"
     ]
 },
-  "bbox": [-93.943223,33.419463,-93.943223,33.419463],
+  "bbox": [
+    -93.943223,
+    33.419463,
+    -93.943223,
+    33.419463
+],
   "geometry": {"coordinates":[-93.943223,33.419463],"type":"Point"}
 }

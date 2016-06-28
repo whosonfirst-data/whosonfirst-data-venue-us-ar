@@ -2,13 +2,14 @@
   "id": 220069243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.106439,35.278126,-93.106439,35.278126",
     "geom:latitude":35.278126,
     "geom:longitude":-93.106439,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2410 E Main St",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220069243,
-    "wof:lastmodified":1449074559,
+    "wof:lastmodified":1466321314,
     "wof:name":"Larry's Pizza",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pizza"
     ]
 },
-  "bbox": [-93.106439,35.278126,-93.106439,35.278126],
-  "geometry": {"coordinates":[-93.106439,35.278126],"type":"Point"}
+  "bbox": [
+    -93.106439,
+    35.278126,
+    -93.106439,
+    35.278126
+],
+  "geometry": {"coordinates":[-93.10643899999999,35.278126],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320056907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.67048,36.639562,-94.67048,36.639562",
     "geom:latitude":36.639562,
     "geom:longitude":-94.67048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25521 S 676 Rd",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320056907,
-    "wof:lastmodified":1449012333,
+    "wof:lastmodified":1466320421,
     "wof:name":"J & J Mechanical",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-94.67048,36.639562,-94.67048,36.639562],
+  "bbox": [
+    -94.67048,
+    36.639562,
+    -94.67048,
+    36.639562
+],
   "geometry": {"coordinates":[-94.67048,36.639562],"type":"Point"}
 }

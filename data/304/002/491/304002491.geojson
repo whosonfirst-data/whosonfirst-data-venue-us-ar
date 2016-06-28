@@ -2,13 +2,14 @@
   "id": 304002491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.729404,36.607813,-94.729404,36.607813",
     "geom:latitude":36.607813,
     "geom:longitude":-94.729404,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28450 S 640 Rd",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":304002491,
-    "wof:lastmodified":1449044049,
+    "wof:lastmodified":1466320474,
     "wof:name":"Grove Septic Tanks",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "septic"
     ]
 },
-  "bbox": [-94.729404,36.607813,-94.729404,36.607813],
+  "bbox": [
+    -94.729404,
+    36.607813,
+    -94.729404,
+    36.607813
+],
   "geometry": {"coordinates":[-94.729404,36.607813],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102213991",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.145462,36.174718,-94.145462,36.174718",
     "geom:latitude":36.174718,
     "geom:longitude":-94.145462,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1132 W Sunset Ave",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885485,
+        85688549,
         85633793,
         85919623,
         102082007,
-        85688549
+        85885485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102213991",
-    "wof:lastmodified":1449067784,
+    "wof:lastmodified":1466321104,
     "wof:name":"Alpha Omega Satellite Solution",
     "wof:parent_id":85885485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.145462,36.174718,-94.145462,36.174718],
-  "geometry": {"coordinates":[-94.145462,36.174718],"type":"Point"}
+  "bbox": [
+    -94.145462,
+    36.174718,
+    -94.145462,
+    36.174718
+],
+  "geometry": {"coordinates":[-94.14546199999999,36.174718],"type":"Point"}
 }

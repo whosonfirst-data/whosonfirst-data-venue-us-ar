@@ -2,13 +2,14 @@
   "id": 219310429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.162703,34.675453,-94.162703,34.675453",
     "geom:latitude":34.675453,
     "geom:longitude":-94.162703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3299 Highway 71 N",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219310429,
-    "wof:lastmodified":1449072573,
+    "wof:lastmodified":1466321818,
     "wof:name":"Sherrys Dog's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "dog"
     ]
 },
-  "bbox": [-94.162703,34.675453,-94.162703,34.675453],
-  "geometry": {"coordinates":[-94.162703,34.675453],"type":"Point"}
+  "bbox": [
+    -94.162703,
+    34.675453,
+    -94.162703,
+    34.675453
+],
+  "geometry": {"coordinates":[-94.16270299999999,34.675453],"type":"Point"}
 }

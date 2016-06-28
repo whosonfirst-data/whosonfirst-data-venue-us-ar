@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102410021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.434643,33.527294,-91.434643,33.527294",
     "geom:latitude":33.527294,
     "geom:longitude":-91.434643,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 N Freeman St",
     "sg:city":"Dermott",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102410021,
-    "wof:lastmodified":1449067793,
+    "wof:lastmodified":1466325076,
     "wof:name":"Dermott Family Practice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.434643,33.527294,-91.434643,33.527294],
-  "geometry": {"coordinates":[-91.434643,33.527294],"type":"Point"}
+  "bbox": [
+    -91.434643,
+    33.527294,
+    -91.434643,
+    33.527294
+],
+  "geometry": {"coordinates":[-91.43464299999999,33.527294],"type":"Point"}
 }

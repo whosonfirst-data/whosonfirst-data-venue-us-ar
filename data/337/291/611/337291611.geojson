@@ -2,13 +2,14 @@
   "id": 337291611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.737885,35.246431,-91.737885,35.246431",
     "geom:latitude":35.246431,
     "geom:longitude":-91.737885,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 S Spring St",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337291611,
-    "wof:lastmodified":1449027194,
+    "wof:lastmodified":1466322088,
     "wof:name":"Searcy Radio Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "broadcast"
     ]
 },
-  "bbox": [-91.737885,35.246431,-91.737885,35.246431],
-  "geometry": {"coordinates":[-91.737885,35.246431],"type":"Point"}
+  "bbox": [
+    -91.737885,
+    35.246431,
+    -91.737885,
+    35.246431
+],
+  "geometry": {"coordinates":[-91.73788500000001,35.246431],"type":"Point"}
 }

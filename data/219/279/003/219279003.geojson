@@ -2,13 +2,14 @@
   "id": 219279003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.458624,34.267151,-93.458624,34.267151",
     "geom:latitude":34.267151,
     "geom:longitude":-93.458624,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"329 N Hill St",
     "sg:city":"Amity",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":219279003,
-    "wof:lastmodified":1449072021,
+    "wof:lastmodified":1466321558,
     "wof:name":"Amity Community Health Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-93.458624,34.267151,-93.458624,34.267151],
+  "bbox": [
+    -93.458624,
+    34.267151,
+    -93.458624,
+    34.267151
+],
   "geometry": {"coordinates":[-93.458624,34.267151],"type":"Point"}
 }

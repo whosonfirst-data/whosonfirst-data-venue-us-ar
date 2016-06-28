@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102355719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.151969,35.321925,-93.151969,35.321925",
     "geom:latitude":35.321925,
     "geom:longitude":-93.151969,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4461 Pleasant View Rd",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102355719,
-    "wof:lastmodified":1449068449,
+    "wof:lastmodified":1466324221,
     "wof:name":"Town & Cntry Veterinary Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.151969,35.321925,-93.151969,35.321925],
-  "geometry": {"coordinates":[-93.151969,35.321925],"type":"Point"}
+  "bbox": [
+    -93.151969,
+    35.321925,
+    -93.151969,
+    35.321925
+],
+  "geometry": {"coordinates":[-93.15196899999999,35.321925],"type":"Point"}
 }

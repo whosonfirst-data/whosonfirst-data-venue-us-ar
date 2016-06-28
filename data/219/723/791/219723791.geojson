@@ -2,13 +2,14 @@
   "id": 219723791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.53573,35.682522,-90.53573,35.682522",
     "geom:latitude":35.682522,
     "geom:longitude":-90.53573,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1305 Lester Ln",
     "sg:city":"Trumann",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219723791,
-    "wof:lastmodified":1449072446,
+    "wof:lastmodified":1466324884,
     "wof:name":"Leroy May And Church Of Christ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-90.53573,35.682522,-90.53573,35.682522],
+  "bbox": [
+    -90.53573,
+    35.682522,
+    -90.53573,
+    35.682522
+],
   "geometry": {"coordinates":[-90.53573,35.682522],"type":"Point"}
 }

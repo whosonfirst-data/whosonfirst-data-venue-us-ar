@@ -2,13 +2,14 @@
   "id": 219871985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.2103,36.3372,-94.2103,36.3372",
     "geom:latitude":36.3372,
     "geom:longitude":-94.2103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3404 SE Macy St. Suite 18",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":219871985,
-    "wof:lastmodified":1449071555,
+    "wof:lastmodified":1466325054,
     "wof:name":"Dinks Bar-B-Que",
     "wof:parent_id":85895821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "barbeque"
     ]
 },
-  "bbox": [-94.2103,36.3372,-94.2103,36.3372],
+  "bbox": [
+    -94.2103,
+    36.3372,
+    -94.2103,
+    36.3372
+],
   "geometry": {"coordinates":[-94.2103,36.3372],"type":"Point"}
 }

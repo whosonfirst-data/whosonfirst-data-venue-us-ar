@@ -2,13 +2,14 @@
   "id": 219799729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.550652,36.366802,-92.550652,36.366802",
     "geom:latitude":36.366802,
     "geom:longitude":-92.550652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6187 Highway 178 W",
     "sg:city":"Lakeview",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":219799729,
-    "wof:lastmodified":1449073937,
+    "wof:lastmodified":1466325024,
     "wof:name":"Save Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.550652,36.366802,-92.550652,36.366802],
+  "bbox": [
+    -92.550652,
+    36.366802,
+    -92.550652,
+    36.366802
+],
   "geometry": {"coordinates":[-92.550652,36.366802],"type":"Point"}
 }

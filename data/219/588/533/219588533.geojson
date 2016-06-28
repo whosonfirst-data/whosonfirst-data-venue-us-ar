@@ -2,13 +2,14 @@
   "id": 219588533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.621239,34.539061,-90.621239,34.539061",
     "geom:latitude":34.539061,
     "geom:longitude":-90.621239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"590 Oakland Ave",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":219588533,
-    "wof:lastmodified":1449073236,
+    "wof:lastmodified":1466324570,
     "wof:name":"Food Giant",
     "wof:parent_id":85834075,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.621239,34.539061,-90.621239,34.539061],
+  "bbox": [
+    -90.621239,
+    34.539061,
+    -90.621239,
+    34.539061
+],
   "geometry": {"coordinates":[-90.621239,34.539061],"type":"Point"}
 }

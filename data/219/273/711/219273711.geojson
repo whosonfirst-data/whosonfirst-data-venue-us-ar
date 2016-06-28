@@ -2,13 +2,14 @@
   "id": 219273711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.37923,33.802435,-93.37923,33.802435",
     "geom:latitude":33.802435,
     "geom:longitude":-93.37923,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 E Walnut St",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -68,10 +69,11 @@
         }
     ],
     "wof:id":219273711,
-    "wof:lastmodified":1449072214,
+    "wof:lastmodified":1466321514,
     "wof:name":"Shelter Insurance - Pete Dewoody",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "homeowner"
     ]
 },
-  "bbox": [-93.37923,33.802435,-93.37923,33.802435],
-  "geometry": {"coordinates":[-93.37923,33.802435],"type":"Point"}
+  "bbox": [
+    -93.37923,
+    33.802435,
+    -93.37923,
+    33.802435
+],
+  "geometry": {"coordinates":[-93.37923000000001,33.802435],"type":"Point"}
 }

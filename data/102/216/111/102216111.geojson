@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102216111",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.95632,36.068574,-90.95632,36.068574",
     "geom:latitude":36.068574,
     "geom:longitude":-90.95632,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 W Main St",
     "sg:city":"Walnut Ridge",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102216111",
-    "wof:lastmodified":1449069915,
+    "wof:lastmodified":1466321006,
     "wof:name":"R & R Sales and Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.95632,36.068574,-90.95632,36.068574],
-  "geometry": {"coordinates":[-90.95632,36.068574],"type":"Point"}
+  "bbox": [
+    -90.95632,
+    36.068574,
+    -90.95632,
+    36.068574
+],
+  "geometry": {"coordinates":[-90.95632000000001,36.068574],"type":"Point"}
 }

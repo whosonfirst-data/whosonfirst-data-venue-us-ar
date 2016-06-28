@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102410759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.872296,35.302567,-93.872296,35.302567",
     "geom:latitude":35.302567,
     "geom:longitude":-93.872296,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9009 W State Hwy 22",
     "sg:city":"Ratcliff",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102410759,
-    "wof:lastmodified":1449067796,
+    "wof:lastmodified":1466325167,
     "wof:name":"Caulksville Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.872296,35.302567,-93.872296,35.302567],
-  "geometry": {"coordinates":[-93.872296,35.302567],"type":"Point"}
+  "bbox": [
+    -93.872296,
+    35.302567,
+    -93.872296,
+    35.302567
+],
+  "geometry": {"coordinates":[-93.87229600000001,35.302567],"type":"Point"}
 }

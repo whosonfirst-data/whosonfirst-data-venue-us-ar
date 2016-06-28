@@ -2,13 +2,14 @@
   "id": 219877853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.183243,36.369022,-94.183243,36.369022",
     "geom:latitude":36.369022,
     "geom:longitude":-94.183243,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 Moberly Ln",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219877853,
-    "wof:lastmodified":1449072874,
+    "wof:lastmodified":1466325065,
     "wof:name":"Parks And Tourism, Arkansas Department Of",
     "wof:parent_id":85895817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "conservation"
     ]
 },
-  "bbox": [-94.183243,36.369022,-94.183243,36.369022],
+  "bbox": [
+    -94.183243,
+    36.369022,
+    -94.183243,
+    36.369022
+],
   "geometry": {"coordinates":[-94.183243,36.369022],"type":"Point"}
 }

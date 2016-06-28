@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102337823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.466384,35.471144,-93.466384,35.471144",
     "geom:latitude":35.471144,
     "geom:longitude":-93.466384,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"513 W Main St",
     "sg:city":"Clarksville",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":102337823,
-    "wof:lastmodified":1449068905,
+    "wof:lastmodified":1466323886,
     "wof:name":"Joe J Johnston Lmt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.466384,35.471144,-93.466384,35.471144],
-  "geometry": {"coordinates":[-93.466384,35.471144],"type":"Point"}
+  "bbox": [
+    -93.466384,
+    35.471144,
+    -93.466384,
+    35.471144
+],
+  "geometry": {"coordinates":[-93.46638400000001,35.471144],"type":"Point"}
 }

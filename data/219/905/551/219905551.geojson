@@ -2,13 +2,14 @@
   "id": 219905551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.215343,36.364272,-94.215343,36.364272",
     "geom:latitude":36.364272,
     "geom:longitude":-94.215343,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"609 SW 8th St Ste 245",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219905551,
-    "wof:lastmodified":1449071765,
+    "wof:lastmodified":1466325107,
     "wof:name":"Bureau Veritas Consumer Products Services, Inc.",
     "wof:parent_id":85895819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-94.215343,36.364272,-94.215343,36.364272],
+  "bbox": [
+    -94.215343,
+    36.364272,
+    -94.215343,
+    36.364272
+],
   "geometry": {"coordinates":[-94.215343,36.364272],"type":"Point"}
 }

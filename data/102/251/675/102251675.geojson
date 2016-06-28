@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102251675",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.686469,35.782559,-90.686469,35.782559",
     "geom:latitude":35.782559,
     "geom:longitude":-90.686469,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5107 Harrisburg Rd",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85803305,
+        85688549,
         85633793,
         85920203,
         102082033,
-        85688549
+        85803305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102251675",
-    "wof:lastmodified":1449067809,
+    "wof:lastmodified":1466321957,
     "wof:name":"Southridge Fire Dept",
     "wof:parent_id":85803305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.686469,35.782559,-90.686469,35.782559],
+  "bbox": [
+    -90.686469,
+    35.782559,
+    -90.686469,
+    35.782559
+],
   "geometry": {"coordinates":[-90.686469,35.782559],"type":"Point"}
 }

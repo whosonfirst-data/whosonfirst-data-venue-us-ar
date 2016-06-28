@@ -2,13 +2,14 @@
   "id": 219312071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.153465,34.655329,-94.153465,34.655329",
     "geom:latitude":34.655329,
     "geom:longitude":-94.153465,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2689 Highway 71 N",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219312071,
-    "wof:lastmodified":1449072167,
+    "wof:lastmodified":1466321833,
     "wof:name":"U-Haul Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trailer"
     ]
 },
-  "bbox": [-94.153465,34.655329,-94.153465,34.655329],
+  "bbox": [
+    -94.153465,
+    34.655329,
+    -94.153465,
+    34.655329
+],
   "geometry": {"coordinates":[-94.153465,34.655329],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102353099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.396408,34.791405,-92.396408,34.791405",
     "geom:latitude":34.791405,
     "geom:longitude":-92.396408,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11611 Cantrell Rd",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858725,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85858725
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102353099,
-    "wof:lastmodified":1449068472,
+    "wof:lastmodified":1466324021,
     "wof:name":"S & W Liquor",
     "wof:parent_id":85858725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.396408,34.791405,-92.396408,34.791405],
-  "geometry": {"coordinates":[-92.396408,34.791405],"type":"Point"}
+  "bbox": [
+    -92.396408,
+    34.791405,
+    -92.396408,
+    34.791405
+],
+  "geometry": {"coordinates":[-92.39640799999999,34.791405],"type":"Point"}
 }

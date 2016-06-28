@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102224707",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.324255,34.723464,-92.324255,34.723464",
     "geom:latitude":34.723464,
     "geom:longitude":-92.324255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4412 Asher Ave",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85838647,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85838647
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102224707",
-    "wof:lastmodified":1449069566,
+    "wof:lastmodified":1466321321,
     "wof:name":"Clarks Wrecker Service & Gar",
     "wof:parent_id":85838647,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.324255,34.723464,-92.324255,34.723464],
-  "geometry": {"coordinates":[-92.324255,34.723464],"type":"Point"}
+  "bbox": [
+    -92.324255,
+    34.723464,
+    -92.324255,
+    34.723464
+],
+  "geometry": {"coordinates":[-92.32425499999999,34.723464],"type":"Point"}
 }

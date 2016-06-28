@@ -2,13 +2,14 @@
   "id": 220014529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.171401,36.199534,-94.171401,36.199534",
     "geom:latitude":36.199534,
     "geom:longitude":-94.171401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3501 Edward Ave",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":220014529,
-    "wof:lastmodified":1449074424,
+    "wof:lastmodified":1466320481,
     "wof:name":"Griffin Garry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "trucking"
     ]
 },
-  "bbox": [-94.171401,36.199534,-94.171401,36.199534],
+  "bbox": [
+    -94.171401,
+    36.199534,
+    -94.171401,
+    36.199534
+],
   "geometry": {"coordinates":[-94.171401,36.199534],"type":"Point"}
 }

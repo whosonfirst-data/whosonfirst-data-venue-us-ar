@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102354875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.319938,35.46104,-94.319938,35.46104",
     "geom:latitude":35.46104,
     "geom:longitude":-94.319938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1610 Lincoln Trl",
     "sg:city":"Van Buren",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102354875,
-    "wof:lastmodified":1449069919,
+    "wof:lastmodified":1466324226,
     "wof:name":"William M Shelton",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.319938,35.46104,-94.319938,35.46104],
-  "geometry": {"coordinates":[-94.319938,35.46104],"type":"Point"}
+  "bbox": [
+    -94.319938,
+    35.46104,
+    -94.319938,
+    35.46104
+],
+  "geometry": {"coordinates":[-94.31993799999999,35.46104],"type":"Point"}
 }

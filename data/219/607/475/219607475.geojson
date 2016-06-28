@@ -2,13 +2,14 @@
   "id": 219607475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.983612,35.70129,-89.983612,35.70129",
     "geom:latitude":35.70129,
     "geom:longitude":-89.983612,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"154 S East Dr",
     "sg:city":"Osceola",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219607475,
-    "wof:lastmodified":1449070865,
+    "wof:lastmodified":1466324596,
     "wof:name":"Ford, Richard",
     "wof:parent_id":85814753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "car"
     ]
 },
-  "bbox": [-89.983612,35.70129,-89.983612,35.70129],
-  "geometry": {"coordinates":[-89.983612,35.70129],"type":"Point"}
+  "bbox": [
+    -89.983612,
+    35.70129,
+    -89.983612,
+    35.70129
+],
+  "geometry": {"coordinates":[-89.98361199999999,35.70129],"type":"Point"}
 }

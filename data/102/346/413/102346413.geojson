@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102346413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.622306,33.728411,-92.622306,33.728411",
     "geom:latitude":33.728411,
     "geom:longitude":-92.622306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"431 N School",
     "sg:city":"Bearden",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102346413,
-    "wof:lastmodified":1449067752,
+    "wof:lastmodified":1466324004,
     "wof:name":"Bearden CDC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.622306,33.728411,-92.622306,33.728411],
-  "geometry": {"coordinates":[-92.622306,33.728411],"type":"Point"}
+  "bbox": [
+    -92.622306,
+    33.728411,
+    -92.622306,
+    33.728411
+],
+  "geometry": {"coordinates":[-92.62230599999999,33.728411],"type":"Point"}
 }

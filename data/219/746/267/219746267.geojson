@@ -2,13 +2,14 @@
   "id": 219746267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.897667,36.05875,-91.897667,36.05875",
     "geom:latitude":36.05875,
     "geom:longitude":-91.897667,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701D Main St",
     "sg:city":"Melbourne",
     "sg:classifiers":[
@@ -68,10 +69,11 @@
         }
     ],
     "wof:id":219746267,
-    "wof:lastmodified":1449070353,
+    "wof:lastmodified":1466324904,
     "wof:name":"Shelter Insurance - Mike Cone",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "homeowner"
     ]
 },
-  "bbox": [-91.897667,36.05875,-91.897667,36.05875],
+  "bbox": [
+    -91.897667,
+    36.05875,
+    -91.897667,
+    36.05875
+],
   "geometry": {"coordinates":[-91.897667,36.05875],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220111267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.291481,35.22159,-94.291481,35.22159",
     "geom:latitude":35.22159,
     "geom:longitude":-94.291481,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2108 Breckenridge Ter",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":220111267,
-    "wof:lastmodified":1449074903,
+    "wof:lastmodified":1466322420,
     "wof:name":"Jim's Painting And Remodeling Inc",
     "wof:parent_id":85808359,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-94.291481,35.22159,-94.291481,35.22159],
+  "bbox": [
+    -94.291481,
+    35.22159,
+    -94.291481,
+    35.22159
+],
   "geometry": {"coordinates":[-94.291481,35.22159],"type":"Point"}
 }

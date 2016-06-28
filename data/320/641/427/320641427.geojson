@@ -2,13 +2,14 @@
   "id": 320641427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.534444,36.17218,-94.534444,36.17218",
     "geom:latitude":36.17218,
     "geom:longitude":-94.534444,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"616 Hwy 412 E",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320641427,
-    "wof:lastmodified":1449014068,
+    "wof:lastmodified":1466320609,
     "wof:name":"Classic Moving & Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mover"
     ]
 },
-  "bbox": [-94.534444,36.17218,-94.534444,36.17218],
-  "geometry": {"coordinates":[-94.534444,36.17218],"type":"Point"}
+  "bbox": [
+    -94.534444,
+    36.17218,
+    -94.534444,
+    36.17218
+],
+  "geometry": {"coordinates":[-94.53444399999999,36.17218],"type":"Point"}
 }

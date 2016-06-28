@@ -2,13 +2,14 @@
   "id": 219615771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.775291,35.229207,-90.775291,35.229207",
     "geom:latitude":35.229207,
     "geom:longitude":-90.775291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"909 Killough Rd N",
     "sg:city":"Wynne",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219615771,
-    "wof:lastmodified":1449071511,
+    "wof:lastmodified":1466324603,
     "wof:name":"Mason Chrysler",
     "wof:parent_id":85819407,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "car"
     ]
 },
-  "bbox": [-90.775291,35.229207,-90.775291,35.229207],
+  "bbox": [
+    -90.775291,
+    35.229207,
+    -90.775291,
+    35.229207
+],
   "geometry": {"coordinates":[-90.775291,35.229207],"type":"Point"}
 }

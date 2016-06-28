@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102346363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.965072,34.54103,-91.965072,34.54103",
     "geom:latitude":34.54103,
     "geom:longitude":-91.965072,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"608 SE 3rd St",
     "sg:city":"England",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102346363,
-    "wof:lastmodified":1449067756,
+    "wof:lastmodified":1466323994,
     "wof:name":"Maxwell Arthur",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.965072,34.54103,-91.965072,34.54103],
-  "geometry": {"coordinates":[-91.965072,34.54103],"type":"Point"}
+  "bbox": [
+    -91.965072,
+    34.54103,
+    -91.965072,
+    34.54103
+],
+  "geometry": {"coordinates":[-91.96507200000001,34.54103],"type":"Point"}
 }

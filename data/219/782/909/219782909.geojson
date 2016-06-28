@@ -2,13 +2,14 @@
   "id": 219782909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.107715,36.255716,-93.107715,36.255716",
     "geom:latitude":36.255716,
     "geom:longitude":-93.107715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 Brewer St Apt 4",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219782909,
-    "wof:lastmodified":1449070365,
+    "wof:lastmodified":1466324939,
     "wof:name":"Caring Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "day"
     ]
 },
-  "bbox": [-93.107715,36.255716,-93.107715,36.255716],
+  "bbox": [
+    -93.107715,
+    36.255716,
+    -93.107715,
+    36.255716
+],
   "geometry": {"coordinates":[-93.107715,36.255716],"type":"Point"}
 }

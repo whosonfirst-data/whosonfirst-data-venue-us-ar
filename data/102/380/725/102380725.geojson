@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102380725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.361514,34.714004,-92.361514,34.714004",
     "geom:latitude":34.714004,
     "geom:longitude":-92.361514,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7609 Asher Ave",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     "sg:website":"www.davisdump.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85815039,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85815039
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":102380725,
-    "wof:lastmodified":1449068881,
+    "wof:lastmodified":1466322239,
     "wof:name":"Davis Trailer & Truck Equip Co",
     "wof:parent_id":85815039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.361514,34.714004,-92.361514,34.714004],
+  "bbox": [
+    -92.361514,
+    34.714004,
+    -92.361514,
+    34.714004
+],
   "geometry": {"coordinates":[-92.361514,34.714004],"type":"Point"}
 }

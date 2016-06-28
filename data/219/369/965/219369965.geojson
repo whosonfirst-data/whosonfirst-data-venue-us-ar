@@ -2,13 +2,14 @@
   "id": 219369965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.743937,34.780279,-91.743937,34.780279",
     "geom:latitude":34.780279,
     "geom:longitude":-91.743937,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 E Park St",
     "sg:city":"Carlisle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219369965,
-    "wof:lastmodified":1449073731,
+    "wof:lastmodified":1466322580,
     "wof:name":"Savage Square Apartments",
     "wof:parent_id":85811577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-91.743937,34.780279,-91.743937,34.780279],
+  "bbox": [
+    -91.743937,
+    34.780279,
+    -91.743937,
+    34.780279
+],
   "geometry": {"coordinates":[-91.743937,34.780279],"type":"Point"}
 }

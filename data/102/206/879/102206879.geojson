@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102206879",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.216521,34.789199,-92.216521,34.789199",
     "geom:latitude":34.789199,
     "geom:longitude":-92.216521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4711 E McCain Blvd",
     "sg:city":"N Little Rock",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852263,
+        85688549,
         85633793,
         85921255,
         102082497,
-        85688549
+        85852263
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102206879",
-    "wof:lastmodified":1449069429,
+    "wof:lastmodified":1466320896,
     "wof:name":"Agency One Inc",
     "wof:parent_id":85852263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.216521,34.789199,-92.216521,34.789199],
+  "bbox": [
+    -92.216521,
+    34.789199,
+    -92.216521,
+    34.789199
+],
   "geometry": {"coordinates":[-92.216521,34.789199],"type":"Point"}
 }

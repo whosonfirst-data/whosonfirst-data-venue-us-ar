@@ -2,13 +2,14 @@
   "id": 220011013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.264217,36.163318,-94.264217,36.163318",
     "geom:latitude":36.163318,
     "geom:longitude":-94.264217,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"920 S Pianalto Rd",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220011013,
-    "wof:lastmodified":1449074702,
+    "wof:lastmodified":1466324427,
     "wof:name":"Ber-Ton Logistics Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "broker"
     ]
 },
-  "bbox": [-94.264217,36.163318,-94.264217,36.163318],
+  "bbox": [
+    -94.264217,
+    36.163318,
+    -94.264217,
+    36.163318
+],
   "geometry": {"coordinates":[-94.264217,36.163318],"type":"Point"}
 }

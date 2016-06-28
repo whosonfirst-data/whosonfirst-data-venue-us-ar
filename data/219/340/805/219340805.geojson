@@ -2,13 +2,14 @@
   "id": 219340805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.588,34.566863,-92.588,34.566863",
     "geom:latitude":34.566863,
     "geom:longitude":-92.588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"421 N Market St",
     "sg:city":"Benton",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":219340805,
-    "wof:lastmodified":1449073127,
+    "wof:lastmodified":1466322105,
     "wof:name":"First National Title",
     "wof:parent_id":85817531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.588,34.566863,-92.588,34.566863],
-  "geometry": {"coordinates":[-92.588,34.566863],"type":"Point"}
+  "bbox": [
+    -92.588,
+    34.566863,
+    -92.588,
+    34.566863
+],
+  "geometry": {"coordinates":[-92.58799999999999,34.566863],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219742727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.460953,36.310809,-91.460953,36.310809",
     "geom:latitude":36.310809,
     "geom:longitude":-91.460953,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1934 Highway 63",
     "sg:city":"Hardy",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219742727,
-    "wof:lastmodified":1449070615,
+    "wof:lastmodified":1466324905,
     "wof:name":"Ozark Waterworks Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-91.460953,36.310809,-91.460953,36.310809],
+  "bbox": [
+    -91.460953,
+    36.310809,
+    -91.460953,
+    36.310809
+],
   "geometry": {"coordinates":[-91.460953,36.310809],"type":"Point"}
 }

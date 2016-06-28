@@ -2,13 +2,14 @@
   "id": 220079093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.463358,35.456546,-93.463358,35.456546",
     "geom:latitude":35.456546,
     "geom:longitude":-93.463358,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1167 S Rogers St",
     "sg:city":"Clarksville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220079093,
-    "wof:lastmodified":1449074726,
+    "wof:lastmodified":1466321583,
     "wof:name":"Quality Inn & Suites Clarksville",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lodging"
     ]
 },
-  "bbox": [-93.463358,35.456546,-93.463358,35.456546],
+  "bbox": [
+    -93.463358,
+    35.456546,
+    -93.463358,
+    35.456546
+],
   "geometry": {"coordinates":[-93.463358,35.456546],"type":"Point"}
 }

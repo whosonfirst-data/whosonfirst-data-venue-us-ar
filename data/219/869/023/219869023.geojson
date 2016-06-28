@@ -2,13 +2,14 @@
   "id": 219869023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.205415,36.051127,-94.205415,36.051127",
     "geom:latitude":36.051127,
     "geom:longitude":-94.205415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3162 W Martin Luther King Blvd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":219869023,
-    "wof:lastmodified":1449073634,
+    "wof:lastmodified":1466325049,
     "wof:name":"Tommy L Reddick Ins Agcy Inc - State Farm Insurance Agent",
     "wof:parent_id":85885441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "auto"
     ]
 },
-  "bbox": [-94.205415,36.051127,-94.205415,36.051127],
+  "bbox": [
+    -94.205415,
+    36.051127,
+    -94.205415,
+    36.051127
+],
   "geometry": {"coordinates":[-94.205415,36.051127],"type":"Point"}
 }

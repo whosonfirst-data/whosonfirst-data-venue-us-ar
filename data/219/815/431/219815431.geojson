@@ -2,13 +2,14 @@
   "id": 219815431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.160911,36.061937,-94.160911,36.061937",
     "geom:latitude":36.061937,
     "geom:longitude":-94.160911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 W Mountain St",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219815431,
-    "wof:lastmodified":1449072103,
+    "wof:lastmodified":1466324890,
     "wof:name":"SSK Reddirt",
     "wof:parent_id":85885459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-94.160911,36.061937,-94.160911,36.061937],
+  "bbox": [
+    -94.160911,
+    36.061937,
+    -94.160911,
+    36.061937
+],
   "geometry": {"coordinates":[-94.160911,36.061937],"type":"Point"}
 }

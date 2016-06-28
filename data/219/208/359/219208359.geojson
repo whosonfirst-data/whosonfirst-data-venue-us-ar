@@ -2,13 +2,14 @@
   "id": 219208359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.21531,33.264202,-93.21531,33.264202",
     "geom:latitude":33.264202,
     "geom:longitude":-93.21531,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Highway 82 Byp W",
     "sg:city":"Magnolia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219208359,
-    "wof:lastmodified":1449070798,
+    "wof:lastmodified":1466320942,
     "wof:name":"Southern Aluminum Manufacturing Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-93.21531,33.264202,-93.21531,33.264202],
+  "bbox": [
+    -93.21531,
+    33.264202,
+    -93.21531,
+    33.264202
+],
   "geometry": {"coordinates":[-93.21531,33.264202],"type":"Point"}
 }

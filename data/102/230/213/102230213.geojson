@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102230213",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.730505,36.090425,-93.730505,36.090425",
     "geom:latitude":36.090425,
     "geom:longitude":-93.730505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"409 N Parrott Dr",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102230213",
-    "wof:lastmodified":1449069582,
+    "wof:lastmodified":1466321373,
     "wof:name":"Madison County Rural Water",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.730505,36.090425,-93.730505,36.090425],
-  "geometry": {"coordinates":[-93.730505,36.090425],"type":"Point"}
+  "bbox": [
+    -93.730505,
+    36.090425,
+    -93.730505,
+    36.090425
+],
+  "geometry": {"coordinates":[-93.73050499999999,36.090425],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102327785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.163851,36.174911,-94.163851,36.174911",
     "geom:latitude":36.174911,
     "geom:longitude":-94.163851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3157 W Sunset Ave",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102327785,
-    "wof:lastmodified":1449067977,
+    "wof:lastmodified":1466323677,
     "wof:name":"Today's Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.163851,36.174911,-94.163851,36.174911],
-  "geometry": {"coordinates":[-94.163851,36.174911],"type":"Point"}
+  "bbox": [
+    -94.163851,
+    36.174911,
+    -94.163851,
+    36.174911
+],
+  "geometry": {"coordinates":[-94.16385099999999,36.174911],"type":"Point"}
 }

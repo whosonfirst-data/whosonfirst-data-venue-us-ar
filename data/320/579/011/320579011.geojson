@@ -2,13 +2,14 @@
   "id": 320579011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.219289,34.522663,-94.219289,34.522663",
     "geom:latitude":34.522663,
     "geom:longitude":-94.219289,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"705 State Hwy 375",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":320579011,
-    "wof:lastmodified":1449012462,
+    "wof:lastmodified":1466320591,
     "wof:name":"Sam Heath Custom Cabinets Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "mfg"
     ]
 },
-  "bbox": [-94.219289,34.522663,-94.219289,34.522663],
+  "bbox": [
+    -94.219289,
+    34.522663,
+    -94.219289,
+    34.522663
+],
   "geometry": {"coordinates":[-94.219289,34.522663],"type":"Point"}
 }

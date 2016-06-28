@@ -2,13 +2,14 @@
   "id": 219324115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.323357,34.295634,-94.323357,34.295634",
     "geom:latitude":34.295634,
     "geom:longitude":-94.323357,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"262 Baker Rd",
     "sg:city":"Wickes",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219324115,
-    "wof:lastmodified":1449072442,
+    "wof:lastmodified":1466321924,
     "wof:name":"Parks Dh Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.323357,34.295634,-94.323357,34.295634],
+  "bbox": [
+    -94.323357,
+    34.295634,
+    -94.323357,
+    34.295634
+],
   "geometry": {"coordinates":[-94.323357,34.295634],"type":"Point"}
 }

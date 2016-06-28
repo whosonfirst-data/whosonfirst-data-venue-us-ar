@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102344023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.432544,35.999717,-94.432544,35.999717",
     "geom:latitude":35.999717,
     "geom:longitude":-94.432544,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19863 Hartwick Ln",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102344023,
-    "wof:lastmodified":1449067901,
+    "wof:lastmodified":1466323843,
     "wof:name":"Hartwick Charoline",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.432544,35.999717,-94.432544,35.999717],
-  "geometry": {"coordinates":[-94.432544,35.999717],"type":"Point"}
+  "bbox": [
+    -94.432544,
+    35.999717,
+    -94.432544,
+    35.999717
+],
+  "geometry": {"coordinates":[-94.43254399999999,35.999717],"type":"Point"}
 }

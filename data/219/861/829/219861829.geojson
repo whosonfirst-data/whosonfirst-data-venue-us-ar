@@ -2,13 +2,14 @@
   "id": 219861829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.204914,36.107056,-94.204914,36.107056",
     "geom:latitude":36.107056,
     "geom:longitude":-94.204914,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2977 N Quartz Dr",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219861829,
-    "wof:lastmodified":1449073890,
+    "wof:lastmodified":1466325044,
     "wof:name":"Palarch Design Build",
     "wof:parent_id":85885457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "producer"
     ]
 },
-  "bbox": [-94.204914,36.107056,-94.204914,36.107056],
+  "bbox": [
+    -94.204914,
+    36.107056,
+    -94.204914,
+    36.107056
+],
   "geometry": {"coordinates":[-94.204914,36.107056],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219831745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.168452,36.069842,-94.168452,36.069842",
     "geom:latitude":36.069842,
     "geom:longitude":-94.168452,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"465 N Arkansas Ave",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":219831745,
-    "wof:lastmodified":1449072456,
+    "wof:lastmodified":1466325064,
     "wof:name":"Inn At Carnall Hall",
     "wof:parent_id":85885453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "facility"
     ]
 },
-  "bbox": [-94.168452,36.069842,-94.168452,36.069842],
+  "bbox": [
+    -94.168452,
+    36.069842,
+    -94.168452,
+    36.069842
+],
   "geometry": {"coordinates":[-94.168452,36.069842],"type":"Point"}
 }

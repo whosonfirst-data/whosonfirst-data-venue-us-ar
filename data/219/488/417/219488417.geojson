@@ -2,13 +2,14 @@
   "id": 219488417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.231551,34.84279,-92.231551,34.84279",
     "geom:latitude":34.84279,
     "geom:longitude":-92.231551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9623 Highway 107",
     "sg:city":"Sherwood",
     "sg:classifiers":[
@@ -68,10 +69,11 @@
         }
     ],
     "wof:id":219488417,
-    "wof:lastmodified":1449073822,
+    "wof:lastmodified":1466323815,
     "wof:name":"Michael W. Eberle - Nationwide Insurance",
     "wof:parent_id":85851723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "homeowner"
     ]
 },
-  "bbox": [-92.231551,34.84279,-92.231551,34.84279],
+  "bbox": [
+    -92.231551,
+    34.84279,
+    -92.231551,
+    34.84279
+],
   "geometry": {"coordinates":[-92.231551,34.84279],"type":"Point"}
 }

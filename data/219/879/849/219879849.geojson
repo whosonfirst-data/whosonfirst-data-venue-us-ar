@@ -2,13 +2,14 @@
   "id": 219879849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.184097,36.338699,-94.184097,36.338699",
     "geom:latitude":36.338699,
     "geom:longitude":-94.184097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3204 Moberly Ln",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219879849,
-    "wof:lastmodified":1449070403,
+    "wof:lastmodified":1466325001,
     "wof:name":"A & B Reprographics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "design"
     ]
 },
-  "bbox": [-94.184097,36.338699,-94.184097,36.338699],
-  "geometry": {"coordinates":[-94.184097,36.338699],"type":"Point"}
+  "bbox": [
+    -94.184097,
+    36.338699,
+    -94.184097,
+    36.338699
+],
+  "geometry": {"coordinates":[-94.18409699999999,36.338699],"type":"Point"}
 }

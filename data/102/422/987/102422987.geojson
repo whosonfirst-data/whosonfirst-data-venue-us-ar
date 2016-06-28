@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102422987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.586137,34.526858,-90.586137,34.526858",
     "geom:latitude":34.526858,
     "geom:longitude":-90.586137,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"410 Cherry St",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85838649,
+        85688549,
         85633793,
         85919725,
         102082001,
-        85688549
+        85838649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102422987,
-    "wof:lastmodified":1449067957,
+    "wof:lastmodified":1466325545,
     "wof:name":"House Of Fashion",
     "wof:parent_id":85838649,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.586137,34.526858,-90.586137,34.526858],
-  "geometry": {"coordinates":[-90.586137,34.526858],"type":"Point"}
+  "bbox": [
+    -90.586137,
+    34.526858,
+    -90.586137,
+    34.526858
+],
+  "geometry": {"coordinates":[-90.58613699999999,34.526858],"type":"Point"}
 }

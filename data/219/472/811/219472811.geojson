@@ -2,13 +2,14 @@
   "id": 219472811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.724498,35.129911,-92.724498,35.129911",
     "geom:latitude":35.129911,
     "geom:longitude":-92.724498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Sandtown Rd",
     "sg:city":"Morrilton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219472811,
-    "wof:lastmodified":1449070664,
+    "wof:lastmodified":1466323615,
     "wof:name":"Harmon S Steaks More Cate",
     "wof:parent_id":85814069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "steak"
     ]
 },
-  "bbox": [-92.724498,35.129911,-92.724498,35.129911],
+  "bbox": [
+    -92.724498,
+    35.129911,
+    -92.724498,
+    35.129911
+],
   "geometry": {"coordinates":[-92.724498,35.129911],"type":"Point"}
 }

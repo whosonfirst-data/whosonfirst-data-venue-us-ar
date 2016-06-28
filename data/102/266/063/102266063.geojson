@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102266063",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.506391,35.67301,-90.506391,35.67301",
     "geom:latitude":35.67301,
     "geom:longitude":-90.506391,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 S Ozark Ave",
     "sg:city":"Trumann",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102266063",
-    "wof:lastmodified":1449067846,
+    "wof:lastmodified":1466322193,
     "wof:name":"Body Factory Fitness Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.506391,35.67301,-90.506391,35.67301],
-  "geometry": {"coordinates":[-90.506391,35.67301],"type":"Point"}
+  "bbox": [
+    -90.506391,
+    35.67301,
+    -90.506391,
+    35.67301
+],
+  "geometry": {"coordinates":[-90.50639099999999,35.67301],"type":"Point"}
 }

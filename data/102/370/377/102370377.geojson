@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102370377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.241903,35.638416,-91.241903,35.638416",
     "geom:latitude":35.638416,
     "geom:longitude":-91.241903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3200 Air Base Rd",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102370377,
-    "wof:lastmodified":1449069051,
+    "wof:lastmodified":1466324531,
     "wof:name":"Newport Truck Plaza Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.241903,35.638416,-91.241903,35.638416],
-  "geometry": {"coordinates":[-91.241903,35.638416],"type":"Point"}
+  "bbox": [
+    -91.241903,
+    35.638416,
+    -91.241903,
+    35.638416
+],
+  "geometry": {"coordinates":[-91.24190299999999,35.638416],"type":"Point"}
 }

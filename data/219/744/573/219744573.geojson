@@ -2,13 +2,14 @@
   "id": 219744573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.52631,36.257502,-91.52631,36.257502",
     "geom:latitude":36.257502,
     "geom:longitude":-91.52631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Wanda Cir",
     "sg:city":"Highland",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219744573,
-    "wof:lastmodified":1449071665,
+    "wof:lastmodified":1466324981,
     "wof:name":"Bill Johns Jr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.52631,36.257502,-91.52631,36.257502],
+  "bbox": [
+    -91.52631,
+    36.257502,
+    -91.52631,
+    36.257502
+],
   "geometry": {"coordinates":[-91.52631,36.257502],"type":"Point"}
 }

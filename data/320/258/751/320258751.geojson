@@ -2,13 +2,14 @@
   "id": 320258751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.556462,36.17637,-94.556462,36.17637",
     "geom:latitude":36.17637,
     "geom:longitude":-94.556462,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1645 Hwy 412 W",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320258751,
-    "wof:lastmodified":1449014196,
+    "wof:lastmodified":1466320491,
     "wof:name":"Arvest Asset Mnmt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "trust"
     ]
 },
-  "bbox": [-94.556462,36.17637,-94.556462,36.17637],
+  "bbox": [
+    -94.556462,
+    36.17637,
+    -94.556462,
+    36.17637
+],
   "geometry": {"coordinates":[-94.556462,36.17637],"type":"Point"}
 }

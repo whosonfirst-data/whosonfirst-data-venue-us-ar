@@ -2,13 +2,14 @@
   "id": 219735311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.642345,35.776739,-91.642345,35.776739",
     "geom:latitude":35.776739,
     "geom:longitude":-91.642345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1216 E Main St",
     "sg:city":"Batesville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219735311,
-    "wof:lastmodified":1449073829,
+    "wof:lastmodified":1466324975,
     "wof:name":"Liberty Bnk Mntte Drve-Thru Br",
     "wof:parent_id":85845643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commercial"
     ]
 },
-  "bbox": [-91.642345,35.776739,-91.642345,35.776739],
-  "geometry": {"coordinates":[-91.642345,35.776739],"type":"Point"}
+  "bbox": [
+    -91.642345,
+    35.776739,
+    -91.642345,
+    35.776739
+],
+  "geometry": {"coordinates":[-91.64234500000001,35.776739],"type":"Point"}
 }

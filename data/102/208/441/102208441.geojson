@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102208441",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.270304,34.745002,-92.270304,34.745002",
     "geom:latitude":34.745002,
     "geom:longitude":-92.270304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 E 4th St",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102082497,
-        85633793,
         85688549,
-        85878757
+        85633793,
+        85878757,
+        102082497
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102208441",
-    "wof:lastmodified":1449068080,
+    "wof:lastmodified":1466320861,
     "wof:name":"Harlem Group",
     "wof:parent_id":85878757,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.270304,34.745002,-92.270304,34.745002],
+  "bbox": [
+    -92.270304,
+    34.745002,
+    -92.270304,
+    34.745002
+],
   "geometry": {"coordinates":[-92.270304,34.745002],"type":"Point"}
 }

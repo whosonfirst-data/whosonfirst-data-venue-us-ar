@@ -2,13 +2,14 @@
   "id": 220113615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.239463,35.148422,-94.239463,35.148422",
     "geom:latitude":35.148422,
     "geom:longitude":-94.239463,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 Roberts Ln",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220113615,
-    "wof:lastmodified":1449074807,
+    "wof:lastmodified":1466322478,
     "wof:name":"Affordable Restoration Contractor's",
     "wof:parent_id":85808359,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-94.239463,35.148422,-94.239463,35.148422],
+  "bbox": [
+    -94.239463,
+    35.148422,
+    -94.239463,
+    35.148422
+],
   "geometry": {"coordinates":[-94.239463,35.148422],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102205561",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.095536,34.271239,-92.095536,34.271239",
     "geom:latitude":34.271239,
     "geom:longitude":-92.095536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"304 White Hall Ave",
     "sg:city":"White Hall",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102205561",
-    "wof:lastmodified":1449069197,
+    "wof:lastmodified":1466320812,
     "wof:name":"White Hall Church of Christ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.095536,34.271239,-92.095536,34.271239],
+  "bbox": [
+    -92.095536,
+    34.271239,
+    -92.095536,
+    34.271239
+],
   "geometry": {"coordinates":[-92.095536,34.271239],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102349429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.826585,35.490404,-93.826585,35.490404",
     "geom:latitude":35.490404,
     "geom:longitude":-93.826585,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 W Spring St",
     "sg:city":"Ozark",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102349429,
-    "wof:lastmodified":1449068695,
+    "wof:lastmodified":1466324023,
     "wof:name":"Ambulance Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.826585,35.490404,-93.826585,35.490404],
-  "geometry": {"coordinates":[-93.826585,35.490404],"type":"Point"}
+  "bbox": [
+    -93.826585,
+    35.490404,
+    -93.826585,
+    35.490404
+],
+  "geometry": {"coordinates":[-93.82658499999999,35.490404],"type":"Point"}
 }

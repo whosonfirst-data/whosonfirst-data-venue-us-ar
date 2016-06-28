@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102234837",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.586615,34.567398,-92.586615,34.567398",
     "geom:latitude":34.567398,
     "geom:longitude":-92.586615,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"422 N Main St",
     "sg:city":"Benton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102234837",
-    "wof:lastmodified":1449070067,
+    "wof:lastmodified":1466321589,
     "wof:name":"Fred E Briner PA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.586615,34.567398,-92.586615,34.567398],
-  "geometry": {"coordinates":[-92.586615,34.567398],"type":"Point"}
+  "bbox": [
+    -92.586615,
+    34.567398,
+    -92.586615,
+    34.567398
+],
+  "geometry": {"coordinates":[-92.58661499999999,34.567398],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219731555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.651767,35.769047,-91.651767,35.769047",
     "geom:latitude":35.769047,
     "geom:longitude":-91.651767,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"355 S Broad St",
     "sg:city":"Batesville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219731555,
-    "wof:lastmodified":1449073527,
+    "wof:lastmodified":1466324891,
     "wof:name":"Aid Temporary Services Inc",
     "wof:parent_id":85851415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-91.651767,35.769047,-91.651767,35.769047],
-  "geometry": {"coordinates":[-91.651767,35.769047],"type":"Point"}
+  "bbox": [
+    -91.651767,
+    35.769047,
+    -91.651767,
+    35.769047
+],
+  "geometry": {"coordinates":[-91.65176700000001,35.769047],"type":"Point"}
 }

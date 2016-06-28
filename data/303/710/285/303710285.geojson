@@ -2,13 +2,14 @@
   "id": 303710285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.966457,34.626806,-93.966457,34.626806",
     "geom:latitude":34.626806,
     "geom:longitude":-93.966457,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3950 Polk Road 70",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303710285,
-    "wof:lastmodified":1448998269,
+    "wof:lastmodified":1466320568,
     "wof:name":"Dennis Philpot Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-93.966457,34.626806,-93.966457,34.626806],
-  "geometry": {"coordinates":[-93.966457,34.626806],"type":"Point"}
+  "bbox": [
+    -93.966457,
+    34.626806,
+    -93.966457,
+    34.626806
+],
+  "geometry": {"coordinates":[-93.96645700000001,34.626806],"type":"Point"}
 }

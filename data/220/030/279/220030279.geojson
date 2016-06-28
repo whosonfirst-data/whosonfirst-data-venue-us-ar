@@ -2,13 +2,14 @@
   "id": 220030279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.158676,36.185552,-94.158676,36.185552",
     "geom:latitude":36.185552,
     "geom:longitude":-94.158676,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2120 W Emma Ave",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":220030279,
-    "wof:lastmodified":1449074324,
+    "wof:lastmodified":1466320511,
     "wof:name":"Spring Creek Fellowship",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "churches-non-denominational"
     ]
 },
-  "bbox": [-94.158676,36.185552,-94.158676,36.185552],
+  "bbox": [
+    -94.158676,
+    36.185552,
+    -94.158676,
+    36.185552
+],
   "geometry": {"coordinates":[-94.158676,36.185552],"type":"Point"}
 }

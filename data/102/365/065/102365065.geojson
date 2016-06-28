@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102365065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.794418,35.010459,-90.794418,35.010459",
     "geom:latitude":35.010459,
     "geom:longitude":-90.794418,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 Oak Ave",
     "sg:city":"Forrest City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102365065,
-    "wof:lastmodified":1449068187,
+    "wof:lastmodified":1466324293,
     "wof:name":"Campbell Daycare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.794418,35.010459,-90.794418,35.010459],
-  "geometry": {"coordinates":[-90.794418,35.010459],"type":"Point"}
+  "bbox": [
+    -90.794418,
+    35.010459,
+    -90.794418,
+    35.010459
+],
+  "geometry": {"coordinates":[-90.79441799999999,35.010459],"type":"Point"}
 }

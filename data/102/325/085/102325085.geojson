@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102325085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.955689,36.066549,-90.955689,36.066549",
     "geom:latitude":36.066549,
     "geom:longitude":-90.955689,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 SE 2nd St",
     "sg:city":"Walnut Ridge",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102325085,
-    "wof:lastmodified":1449068705,
+    "wof:lastmodified":1466323509,
     "wof:name":"Jansen Farms Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.955689,36.066549,-90.955689,36.066549],
-  "geometry": {"coordinates":[-90.955689,36.066549],"type":"Point"}
+  "bbox": [
+    -90.955689,
+    36.066549,
+    -90.955689,
+    36.066549
+],
+  "geometry": {"coordinates":[-90.95568900000001,36.066549],"type":"Point"}
 }

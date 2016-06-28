@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102231629",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.657486,35.814885,-90.657486,35.814885",
     "geom:latitude":35.814885,
     "geom:longitude":-90.657486,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2502 Mary Jane Dr",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85836541,
+        85688549,
         85633793,
         85920203,
         102082033,
-        85688549
+        85836541
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102231629",
-    "wof:lastmodified":1449068979,
+    "wof:lastmodified":1466321462,
     "wof:name":"Jnc Enterprises",
     "wof:parent_id":85836541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.657486,35.814885,-90.657486,35.814885],
-  "geometry": {"coordinates":[-90.657486,35.814885],"type":"Point"}
+  "bbox": [
+    -90.657486,
+    35.814885,
+    -90.657486,
+    35.814885
+],
+  "geometry": {"coordinates":[-90.65748600000001,35.814885],"type":"Point"}
 }

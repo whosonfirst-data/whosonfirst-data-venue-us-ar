@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102376219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.126511,36.301363,-94.126511,36.301363",
     "geom:latitude":36.301363,
     "geom:longitude":-94.126511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2109 S 8th St",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102376219,
-    "wof:lastmodified":1449068620,
+    "wof:lastmodified":1466321313,
     "wof:name":"Coates Field Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.126511,36.301363,-94.126511,36.301363],
-  "geometry": {"coordinates":[-94.126511,36.301363],"type":"Point"}
+  "bbox": [
+    -94.126511,
+    36.301363,
+    -94.126511,
+    36.301363
+],
+  "geometry": {"coordinates":[-94.12651099999999,36.301363],"type":"Point"}
 }

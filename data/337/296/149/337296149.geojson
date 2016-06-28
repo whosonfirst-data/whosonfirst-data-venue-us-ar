@@ -2,13 +2,14 @@
   "id": 337296149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.092074,34.897862,-94.092074,34.897862",
     "geom:latitude":34.897862,
     "geom:longitude":-94.092074,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"368 Washington St",
     "sg:city":"Waldron",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":337296149,
-    "wof:lastmodified":1449027593,
+    "wof:lastmodified":1466322228,
     "wof:name":"USPS - United States Post Office - Waldron Main Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "shipping"
     ]
 },
-  "bbox": [-94.092074,34.897862,-94.092074,34.897862],
+  "bbox": [
+    -94.092074,
+    34.897862,
+    -94.092074,
+    34.897862
+],
   "geometry": {"coordinates":[-94.092074,34.897862],"type":"Point"}
 }

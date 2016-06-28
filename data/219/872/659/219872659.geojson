@@ -2,13 +2,14 @@
   "id": 219872659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.24539,36.360081,-94.24539,36.360081",
     "geom:latitude":36.360081,
     "geom:longitude":-94.24539,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3103 SW Tunica Ave",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219872659,
-    "wof:lastmodified":1449070703,
+    "wof:lastmodified":1466325148,
     "wof:name":"Montebelle Landscaping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lawn"
     ]
 },
-  "bbox": [-94.24539,36.360081,-94.24539,36.360081],
+  "bbox": [
+    -94.24539,
+    36.360081,
+    -94.24539,
+    36.360081
+],
   "geometry": {"coordinates":[-94.24539,36.360081],"type":"Point"}
 }

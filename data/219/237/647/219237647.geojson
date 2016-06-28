@@ -2,13 +2,14 @@
   "id": 219237647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.340422,33.681755,-94.340422,33.681755",
     "geom:latitude":33.681755,
     "geom:longitude":-94.340422,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 Little River 10",
     "sg:city":"Foreman",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219237647,
-    "wof:lastmodified":1449070455,
+    "wof:lastmodified":1466321237,
     "wof:name":"Billy Lewis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-94.340422,33.681755,-94.340422,33.681755],
+  "bbox": [
+    -94.340422,
+    33.681755,
+    -94.340422,
+    33.681755
+],
   "geometry": {"coordinates":[-94.340422,33.681755],"type":"Point"}
 }

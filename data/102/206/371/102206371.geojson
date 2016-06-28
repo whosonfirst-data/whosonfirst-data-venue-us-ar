@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102206371",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.057843,34.119572,-93.057843,34.119572",
     "geom:latitude":34.119572,
     "geom:longitude":-93.057843,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"911 Main St",
     "sg:city":"Arkadelphia",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102206371",
-    "wof:lastmodified":1449069431,
+    "wof:lastmodified":1466320789,
     "wof:name":"Vision Source Of Arkadelphia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.057843,34.119572,-93.057843,34.119572],
-  "geometry": {"coordinates":[-93.057843,34.119572],"type":"Point"}
+  "bbox": [
+    -93.057843,
+    34.119572,
+    -93.057843,
+    34.119572
+],
+  "geometry": {"coordinates":[-93.05784300000001,34.119572],"type":"Point"}
 }

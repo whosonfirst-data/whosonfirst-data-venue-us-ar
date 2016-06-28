@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102215569",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.263095,33.889572,-91.263095,33.889572",
     "geom:latitude":33.889572,
     "geom:longitude":-91.263095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"513 Dumas St",
     "sg:city":"Watson",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":"102215569",
-    "wof:lastmodified":1449069751,
+    "wof:lastmodified":1466321057,
     "wof:name":"Watson Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.263095,33.889572,-91.263095,33.889572],
-  "geometry": {"coordinates":[-91.263095,33.889572],"type":"Point"}
+  "bbox": [
+    -91.263095,
+    33.889572,
+    -91.263095,
+    33.889572
+],
+  "geometry": {"coordinates":[-91.26309500000001,33.889572],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102359945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.753696,35.162259,-92.753696,35.162259",
     "geom:latitude":35.162259,
     "geom:longitude":-92.753696,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"611 N Cedar St",
     "sg:city":"Morrilton",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850611,
+        85688549,
         85633793,
         85920189,
         102083217,
-        85688549
+        85850611
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102359945,
-    "wof:lastmodified":1449067736,
+    "wof:lastmodified":1466324336,
     "wof:name":"Morrilton Mini Storage",
     "wof:parent_id":85850611,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.753696,35.162259,-92.753696,35.162259],
-  "geometry": {"coordinates":[-92.753696,35.162259],"type":"Point"}
+  "bbox": [
+    -92.753696,
+    35.162259,
+    -92.753696,
+    35.162259
+],
+  "geometry": {"coordinates":[-92.75369600000001,35.162259],"type":"Point"}
 }

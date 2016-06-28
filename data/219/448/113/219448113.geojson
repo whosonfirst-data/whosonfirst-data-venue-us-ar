@@ -2,13 +2,14 @@
   "id": 219448113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.891362,34.797748,-91.891362,34.797748",
     "geom:latitude":34.797748,
     "geom:longitude":-91.891362,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 N Center St",
     "sg:city":"Lonoke",
     "sg:classifiers":[
@@ -68,10 +69,11 @@
         }
     ],
     "wof:id":219448113,
-    "wof:lastmodified":1449073744,
+    "wof:lastmodified":1466323344,
     "wof:name":"Wal-Mart",
     "wof:parent_id":85811577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-91.891362,34.797748,-91.891362,34.797748],
+  "bbox": [
+    -91.891362,
+    34.797748,
+    -91.891362,
+    34.797748
+],
   "geometry": {"coordinates":[-91.891362,34.797748],"type":"Point"}
 }

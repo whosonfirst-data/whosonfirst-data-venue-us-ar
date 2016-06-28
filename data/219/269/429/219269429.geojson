@@ -2,13 +2,14 @@
   "id": 219269429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.015388,33.449353,-94.015388,33.449353",
     "geom:latitude":33.449353,
     "geom:longitude":-94.015388,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Debbie Cir",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219269429,
-    "wof:lastmodified":1449072611,
+    "wof:lastmodified":1466321480,
     "wof:name":"Jimmy D Thacker Cpa Res",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bookkeeping"
     ]
 },
-  "bbox": [-94.015388,33.449353,-94.015388,33.449353],
+  "bbox": [
+    -94.015388,
+    33.449353,
+    -94.015388,
+    33.449353
+],
   "geometry": {"coordinates":[-94.015388,33.449353],"type":"Point"}
 }

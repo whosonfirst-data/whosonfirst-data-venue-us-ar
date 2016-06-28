@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102230853",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.645592,34.571953,-90.645592,34.571953",
     "geom:latitude":34.571953,
     "geom:longitude":-90.645592,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1206 N 4th",
     "sg:city":"West Helena",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102230853",
-    "wof:lastmodified":1449069584,
+    "wof:lastmodified":1466321506,
     "wof:name":"Randy Davenport Roofing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.645592,34.571953,-90.645592,34.571953],
-  "geometry": {"coordinates":[-90.645592,34.571953],"type":"Point"}
+  "bbox": [
+    -90.645592,
+    34.571953,
+    -90.645592,
+    34.571953
+],
+  "geometry": {"coordinates":[-90.64559199999999,34.571953],"type":"Point"}
 }

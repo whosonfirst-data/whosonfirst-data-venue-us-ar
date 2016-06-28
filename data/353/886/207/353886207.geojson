@@ -2,13 +2,14 @@
   "id": 353886207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.474327,35.252719,-94.474327,35.252719",
     "geom:latitude":35.252719,
     "geom:longitude":-94.474327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 B St",
     "sg:city":"Poteau",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353886207,
-    "wof:lastmodified":1449019671,
+    "wof:lastmodified":1466320538,
     "wof:name":"Choctaw Nation Satellite",
     "wof:parent_id":85809847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.474327,35.252719,-94.474327,35.252719],
+  "bbox": [
+    -94.474327,
+    35.252719,
+    -94.474327,
+    35.252719
+],
   "geometry": {"coordinates":[-94.474327,35.252719],"type":"Point"}
 }

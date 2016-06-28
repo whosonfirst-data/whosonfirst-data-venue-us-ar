@@ -2,13 +2,14 @@
   "id": 219935275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.778866,36.137886,-93.778866,36.137886",
     "geom:latitude":36.137886,
     "geom:longitude":-93.778866,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"239 Madison 8731",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219935275,
-    "wof:lastmodified":1449073289,
+    "wof:lastmodified":1466325221,
     "wof:name":"Smyrna Fire Department Business Line",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "village"
     ]
 },
-  "bbox": [-93.778866,36.137886,-93.778866,36.137886],
-  "geometry": {"coordinates":[-93.778866,36.137886],"type":"Point"}
+  "bbox": [
+    -93.778866,
+    36.137886,
+    -93.778866,
+    36.137886
+],
+  "geometry": {"coordinates":[-93.77886599999999,36.137886],"type":"Point"}
 }

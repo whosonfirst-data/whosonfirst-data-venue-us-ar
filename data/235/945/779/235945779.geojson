@@ -2,13 +2,14 @@
   "id": 235945779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.808093,36.576253,-94.808093,36.576253",
     "geom:latitude":36.576253,
     "geom:longitude":-94.808093,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2097 Evans Dr",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":235945779,
-    "wof:lastmodified":1449008306,
+    "wof:lastmodified":1466320430,
     "wof:name":"Furnish Net",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-94.808093,36.576253,-94.808093,36.576253],
+  "bbox": [
+    -94.808093,
+    36.576253,
+    -94.808093,
+    36.576253
+],
   "geometry": {"coordinates":[-94.808093,36.576253],"type":"Point"}
 }

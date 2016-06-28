@@ -2,13 +2,14 @@
   "id": 219242053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.167252,33.971275,-94.167252,33.971275",
     "geom:latitude":33.971275,
     "geom:longitude":-94.167252,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"411 N Azealea",
     "sg:city":"Lockesburg",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219242053,
-    "wof:lastmodified":1449073503,
+    "wof:lastmodified":1466321271,
     "wof:name":"James L Stockman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "contractor"
     ]
 },
-  "bbox": [-94.167252,33.971275,-94.167252,33.971275],
+  "bbox": [
+    -94.167252,
+    33.971275,
+    -94.167252,
+    33.971275
+],
   "geometry": {"coordinates":[-94.167252,33.971275],"type":"Point"}
 }

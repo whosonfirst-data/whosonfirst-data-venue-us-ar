@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102202445",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.160018,34.77704,-92.160018,34.77704",
     "geom:latitude":34.77704,
     "geom:longitude":-92.160018,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2700 Eanes Rd",
     "sg:city":"North Little Rock",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102202445",
-    "wof:lastmodified":1449069862,
+    "wof:lastmodified":1466320713,
     "wof:name":"McLeodusa Incorporated",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.160018,34.77704,-92.160018,34.77704],
-  "geometry": {"coordinates":[-92.160018,34.77704],"type":"Point"}
+  "bbox": [
+    -92.160018,
+    34.77704,
+    -92.160018,
+    34.77704
+],
+  "geometry": {"coordinates":[-92.16001799999999,34.77704],"type":"Point"}
 }

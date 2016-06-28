@@ -2,13 +2,14 @@
   "id": 219490145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.236567,34.873605,-92.236567,34.873605",
     "geom:latitude":34.873605,
     "geom:longitude":-92.236567,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2902 Kellogg Acres Rd",
     "sg:city":"Sherwood",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":219490145,
-    "wof:lastmodified":1449073563,
+    "wof:lastmodified":1466323845,
     "wof:name":"Affordable Cabinets Of Central Arkansas",
     "wof:parent_id":85851723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "cabinet"
     ]
 },
-  "bbox": [-92.236567,34.873605,-92.236567,34.873605],
-  "geometry": {"coordinates":[-92.236567,34.873605],"type":"Point"}
+  "bbox": [
+    -92.236567,
+    34.873605,
+    -92.236567,
+    34.873605
+],
+  "geometry": {"coordinates":[-92.23656699999999,34.873605],"type":"Point"}
 }

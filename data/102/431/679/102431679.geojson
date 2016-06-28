@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102431679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.697279,35.634317,-90.697279,35.634317",
     "geom:latitude":35.634317,
     "geom:longitude":-90.697279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18896 Greenfield Rd",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102431679,
-    "wof:lastmodified":1449068136,
+    "wof:lastmodified":1466325620,
     "wof:name":"RLD Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.697279,35.634317,-90.697279,35.634317],
-  "geometry": {"coordinates":[-90.697279,35.634317],"type":"Point"}
+  "bbox": [
+    -90.697279,
+    35.634317,
+    -90.697279,
+    35.634317
+],
+  "geometry": {"coordinates":[-90.69727899999999,35.634317],"type":"Point"}
 }

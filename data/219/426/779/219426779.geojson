@@ -2,13 +2,14 @@
   "id": 219426779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.382974,35.250269,-92.382974,35.250269",
     "geom:latitude":35.250269,
     "geom:longitude":-92.382974,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7 Lieblong Rd",
     "sg:city":"Greenbrier",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219426779,
-    "wof:lastmodified":1449071147,
+    "wof:lastmodified":1466323072,
     "wof:name":"Charles R Baker",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "holding"
     ]
 },
-  "bbox": [-92.382974,35.250269,-92.382974,35.250269],
+  "bbox": [
+    -92.382974,
+    35.250269,
+    -92.382974,
+    35.250269
+],
   "geometry": {"coordinates":[-92.382974,35.250269],"type":"Point"}
 }

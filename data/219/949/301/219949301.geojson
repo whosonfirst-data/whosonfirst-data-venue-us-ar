@@ -2,13 +2,14 @@
   "id": 219949301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.1686,36.3358,-94.1686,36.3358",
     "geom:latitude":36.3358,
     "geom:longitude":-94.1686,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 N 36th St",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":219949301,
-    "wof:lastmodified":1449072585,
+    "wof:lastmodified":1466325239,
     "wof:name":"McCollum William E MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "psychiatrist"
     ]
 },
-  "bbox": [-94.1686,36.3358,-94.1686,36.3358],
+  "bbox": [
+    -94.1686,
+    36.3358,
+    -94.1686,
+    36.3358
+],
   "geometry": {"coordinates":[-94.1686,36.3358],"type":"Point"}
 }

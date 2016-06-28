@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102220539",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.433283,35.091665,-92.433283,35.091665",
     "geom:latitude":35.091665,
     "geom:longitude":-92.433283,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 Oak St",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102220539",
-    "wof:lastmodified":1449070133,
+    "wof:lastmodified":1466321188,
     "wof:name":"Bob's Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.433283,35.091665,-92.433283,35.091665],
+  "bbox": [
+    -92.433283,
+    35.091665,
+    -92.433283,
+    35.091665
+],
   "geometry": {"coordinates":[-92.433283,35.091665],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219174081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.51166,33.237892,-91.51166,33.237892",
     "geom:latitude":33.237892,
     "geom:longitude":-91.51166,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"217 N Main St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219174081,
-    "wof:lastmodified":1449070876,
+    "wof:lastmodified":1466320584,
     "wof:name":"Parkway Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "saving"
     ]
 },
-  "bbox": [-91.51166,33.237892,-91.51166,33.237892],
-  "geometry": {"coordinates":[-91.51166,33.237892],"type":"Point"}
+  "bbox": [
+    -91.51166,
+    33.237892,
+    -91.51166,
+    33.237892
+],
+  "geometry": {"coordinates":[-91.51166000000001,33.237892],"type":"Point"}
 }

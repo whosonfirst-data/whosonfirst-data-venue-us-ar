@@ -2,13 +2,14 @@
   "id": 219951853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.137802,36.334202,-94.137802,36.334202",
     "geom:latitude":36.334202,
     "geom:longitude":-94.137802,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 N 14th Pl",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219951853,
-    "wof:lastmodified":1449070527,
+    "wof:lastmodified":1466325194,
     "wof:name":"Young's Auto Maintenance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.137802,36.334202,-94.137802,36.334202],
-  "geometry": {"coordinates":[-94.137802,36.334202],"type":"Point"}
+  "bbox": [
+    -94.137802,
+    36.334202,
+    -94.137802,
+    36.334202
+],
+  "geometry": {"coordinates":[-94.13780199999999,36.334202],"type":"Point"}
 }

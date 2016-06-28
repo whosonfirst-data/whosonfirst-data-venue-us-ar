@@ -2,13 +2,14 @@
   "id": 219472795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.72558,35.165709,-92.72558,35.165709",
     "geom:latitude":35.165709,
     "geom:longitude":-92.72558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1636 E Harding St",
     "sg:city":"Morrilton",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":219472795,
-    "wof:lastmodified":1449070665,
+    "wof:lastmodified":1466323614,
     "wof:name":"Bonanza Restaurant",
     "wof:parent_id":85850611,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "take"
     ]
 },
-  "bbox": [-92.72558,35.165709,-92.72558,35.165709],
-  "geometry": {"coordinates":[-92.72558,35.165709],"type":"Point"}
+  "bbox": [
+    -92.72558,
+    35.165709,
+    -92.72558,
+    35.165709
+],
+  "geometry": {"coordinates":[-92.72557999999999,35.165709],"type":"Point"}
 }

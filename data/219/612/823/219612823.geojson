@@ -2,13 +2,14 @@
   "id": 219612823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.354794,35.489234,-90.354794,35.489234",
     "geom:latitude":35.489234,
     "geom:longitude":-90.354794,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"176 Mullins St Apt 5",
     "sg:city":"Tyronza",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219612823,
-    "wof:lastmodified":1449071956,
+    "wof:lastmodified":1466324603,
     "wof:name":"Tyronza Housing Authority",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-90.354794,35.489234,-90.354794,35.489234],
+  "bbox": [
+    -90.354794,
+    35.489234,
+    -90.354794,
+    35.489234
+],
   "geometry": {"coordinates":[-90.354794,35.489234],"type":"Point"}
 }

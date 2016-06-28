@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102306931",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.241278,33.267421,-93.241278,33.267421",
     "geom:latitude":33.267421,
     "geom:longitude":-93.241278,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 N Court Sq",
     "sg:city":"Magnolia",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102306931",
-    "wof:lastmodified":1449070096,
+    "wof:lastmodified":1466323289,
     "wof:name":"House & Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.241278,33.267421,-93.241278,33.267421],
-  "geometry": {"coordinates":[-93.241278,33.267421],"type":"Point"}
+  "bbox": [
+    -93.241278,
+    33.267421,
+    -93.241278,
+    33.267421
+],
+  "geometry": {"coordinates":[-93.24127799999999,33.267421],"type":"Point"}
 }

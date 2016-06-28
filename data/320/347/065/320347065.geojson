@@ -2,13 +2,14 @@
   "id": 320347065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.772422,36.592317,-94.772422,36.592317",
     "geom:latitude":36.592317,
     "geom:longitude":-94.772422,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 W 4th St",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320347065,
-    "wof:lastmodified":1449013070,
+    "wof:lastmodified":1466320521,
     "wof:name":"Studio One Beauty Salns",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-94.772422,36.592317,-94.772422,36.592317],
-  "geometry": {"coordinates":[-94.772422,36.592317],"type":"Point"}
+  "bbox": [
+    -94.772422,
+    36.592317,
+    -94.772422,
+    36.592317
+],
+  "geometry": {"coordinates":[-94.77242200000001,36.592317],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220077443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.428352,35.541904,-93.428352,35.541904",
     "geom:latitude":35.541904,
     "geom:longitude":-93.428352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3446 State Highway 818",
     "sg:city":"Clarksville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":220077443,
-    "wof:lastmodified":1449074162,
+    "wof:lastmodified":1466321518,
     "wof:name":"Hogleg Bbq",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "barbecue"
     ]
 },
-  "bbox": [-93.428352,35.541904,-93.428352,35.541904],
+  "bbox": [
+    -93.428352,
+    35.541904,
+    -93.428352,
+    35.541904
+],
   "geometry": {"coordinates":[-93.428352,35.541904],"type":"Point"}
 }

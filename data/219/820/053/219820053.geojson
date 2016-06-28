@@ -2,13 +2,14 @@
   "id": 219820053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.159698,36.062618,-94.159698,36.062618",
     "geom:latitude":36.062618,
     "geom:longitude":-94.159698,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 E Center St",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219820053,
-    "wof:lastmodified":1449072203,
+    "wof:lastmodified":1466324982,
     "wof:name":"Cupit Financial",
     "wof:parent_id":85885459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "planning"
     ]
 },
-  "bbox": [-94.159698,36.062618,-94.159698,36.062618],
-  "geometry": {"coordinates":[-94.159698,36.062618],"type":"Point"}
+  "bbox": [
+    -94.159698,
+    36.062618,
+    -94.159698,
+    36.062618
+],
+  "geometry": {"coordinates":[-94.15969800000001,36.062618],"type":"Point"}
 }

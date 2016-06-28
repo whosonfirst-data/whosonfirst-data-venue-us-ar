@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102309217",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.267088,34.799336,-92.267088,34.799336",
     "geom:latitude":34.799336,
     "geom:longitude":-92.267088,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4706 Massie",
     "sg:city":"North Little Rock",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840541,
+        85688549,
         85633793,
         85921255,
         102082497,
-        85688549
+        85840541
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102309217",
-    "wof:lastmodified":1449068329,
+    "wof:lastmodified":1466323175,
     "wof:name":"Gilbreath Contracting",
     "wof:parent_id":85840541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.267088,34.799336,-92.267088,34.799336],
+  "bbox": [
+    -92.267088,
+    34.799336,
+    -92.267088,
+    34.799336
+],
   "geometry": {"coordinates":[-92.267088,34.799336],"type":"Point"}
 }

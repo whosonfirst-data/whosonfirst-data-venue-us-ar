@@ -2,13 +2,14 @@
   "id": 219696241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.473752,36.052603,-90.473752,36.052603",
     "geom:latitude":36.052603,
     "geom:longitude":-90.473752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 E Kingshighway",
     "sg:city":"Paragould",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219696241,
-    "wof:lastmodified":1449070652,
+    "wof:lastmodified":1466324738,
     "wof:name":"Wholesale Paints & Supplies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "repairing"
     ]
 },
-  "bbox": [-90.473752,36.052603,-90.473752,36.052603],
+  "bbox": [
+    -90.473752,
+    36.052603,
+    -90.473752,
+    36.052603
+],
   "geometry": {"coordinates":[-90.473752,36.052603],"type":"Point"}
 }

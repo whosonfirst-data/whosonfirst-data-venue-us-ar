@@ -2,13 +2,14 @@
   "id": 219798751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.470703,36.349246,-92.470703,36.349246",
     "geom:latitude":36.349246,
     "geom:longitude":-92.470703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4340 Highway 126 N",
     "sg:city":"Gassville",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219798751,
-    "wof:lastmodified":1449071050,
+    "wof:lastmodified":1466324949,
     "wof:name":"Cheek Bob",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "electric"
     ]
 },
-  "bbox": [-92.470703,36.349246,-92.470703,36.349246],
+  "bbox": [
+    -92.470703,
+    36.349246,
+    -92.470703,
+    36.349246
+],
   "geometry": {"coordinates":[-92.470703,36.349246],"type":"Point"}
 }

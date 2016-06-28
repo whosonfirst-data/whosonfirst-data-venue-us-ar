@@ -2,13 +2,14 @@
   "id": 219208367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.24769,33.288056,-93.24769,33.288056",
     "geom:latitude":33.288056,
     "geom:longitude":-93.24769,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2213 N Vine",
     "sg:city":"Magnolia",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":219208367,
-    "wof:lastmodified":1449070802,
+    "wof:lastmodified":1466320943,
     "wof:name":"Magnolia Motor Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "cars-wholesale"
     ]
 },
-  "bbox": [-93.24769,33.288056,-93.24769,33.288056],
-  "geometry": {"coordinates":[-93.24769,33.288056],"type":"Point"}
+  "bbox": [
+    -93.24769,
+    33.288056,
+    -93.24769,
+    33.288056
+],
+  "geometry": {"coordinates":[-93.24769000000001,33.288056],"type":"Point"}
 }

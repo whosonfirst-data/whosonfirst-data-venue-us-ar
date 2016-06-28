@@ -2,13 +2,14 @@
   "id": 219414745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.457746,35.309002,-92.457746,35.309002",
     "geom:latitude":35.309002,
     "geom:longitude":-92.457746,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"313 Solomon Grove Rd",
     "sg:city":"Damascus",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219414745,
-    "wof:lastmodified":1449072042,
+    "wof:lastmodified":1466322972,
     "wof:name":"Solomon Grove Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "churches-baptist"
     ]
 },
-  "bbox": [-92.457746,35.309002,-92.457746,35.309002],
+  "bbox": [
+    -92.457746,
+    35.309002,
+    -92.457746,
+    35.309002
+],
   "geometry": {"coordinates":[-92.457746,35.309002],"type":"Point"}
 }

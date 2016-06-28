@@ -2,13 +2,14 @@
   "id": 219464509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.828759,34.389284,-92.828759,34.389284",
     "geom:latitude":34.389284,
     "geom:longitude":-92.828759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2487 Highway 270",
     "sg:city":"Malvern",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219464509,
-    "wof:lastmodified":1449071351,
+    "wof:lastmodified":1466323503,
     "wof:name":"Raymond Yerby Insurance Agency",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "business"
     ]
 },
-  "bbox": [-92.828759,34.389284,-92.828759,34.389284],
-  "geometry": {"coordinates":[-92.828759,34.389284],"type":"Point"}
+  "bbox": [
+    -92.828759,
+    34.389284,
+    -92.828759,
+    34.389284
+],
+  "geometry": {"coordinates":[-92.82875900000001,34.389284],"type":"Point"}
 }

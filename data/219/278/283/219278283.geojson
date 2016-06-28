@@ -2,13 +2,14 @@
   "id": 219278283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.613219,34.266801,-93.613219,34.266801",
     "geom:latitude":34.266801,
     "geom:longitude":-93.613219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 Ebenezer Rd",
     "sg:city":"Amity",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219278283,
-    "wof:lastmodified":1449072323,
+    "wof:lastmodified":1466321553,
     "wof:name":"Wagley, Waymond",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "vehicle"
     ]
 },
-  "bbox": [-93.613219,34.266801,-93.613219,34.266801],
+  "bbox": [
+    -93.613219,
+    34.266801,
+    -93.613219,
+    34.266801
+],
   "geometry": {"coordinates":[-93.613219,34.266801],"type":"Point"}
 }

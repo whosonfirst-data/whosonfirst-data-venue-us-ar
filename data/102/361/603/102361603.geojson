@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102361603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.418826,35.533355,-90.418826,35.533355",
     "geom:latitude":35.533355,
     "geom:longitude":-90.418826,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Elm St",
     "sg:city":"Marked Tree",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102361603,
-    "wof:lastmodified":1449069556,
+    "wof:lastmodified":1466324287,
     "wof:name":"Burlington Northern RR",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.418826,35.533355,-90.418826,35.533355],
+  "bbox": [
+    -90.418826,
+    35.533355,
+    -90.418826,
+    35.533355
+],
   "geometry": {"coordinates":[-90.418826,35.533355],"type":"Point"}
 }

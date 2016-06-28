@@ -2,13 +2,14 @@
   "id": 219224001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.591011,33.66539,-93.591011,33.66539",
     "geom:latitude":33.66539,
     "geom:longitude":-93.591011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 S Main St",
     "sg:city":"Hope",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219224001,
-    "wof:lastmodified":1449072979,
+    "wof:lastmodified":1466321081,
     "wof:name":"School of Hope",
     "wof:parent_id":85806015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.591011,33.66539,-93.591011,33.66539],
-  "geometry": {"coordinates":[-93.591011,33.66539],"type":"Point"}
+  "bbox": [
+    -93.591011,
+    33.66539,
+    -93.591011,
+    33.66539
+],
+  "geometry": {"coordinates":[-93.59101099999999,33.66539],"type":"Point"}
 }

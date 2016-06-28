@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102424917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.617728,33.723575,-92.617728,33.723575",
     "geom:latitude":33.723575,
     "geom:longitude":-92.617728,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"240 1st St NW",
     "sg:city":"Bearden",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102424917,
-    "wof:lastmodified":1449070041,
+    "wof:lastmodified":1466325542,
     "wof:name":"Corner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.617728,33.723575,-92.617728,33.723575],
+  "bbox": [
+    -92.617728,
+    33.723575,
+    -92.617728,
+    33.723575
+],
   "geometry": {"coordinates":[-92.617728,33.723575],"type":"Point"}
 }

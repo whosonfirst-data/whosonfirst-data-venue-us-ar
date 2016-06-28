@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102322781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.223436,34.880524,-92.223436,34.880524",
     "geom:latitude":34.880524,
     "geom:longitude":-92.223436,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Sheila Dr",
     "sg:city":"North Little Rock",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102322781,
-    "wof:lastmodified":1449067742,
+    "wof:lastmodified":1466323544,
     "wof:name":"CFC Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.223436,34.880524,-92.223436,34.880524],
-  "geometry": {"coordinates":[-92.223436,34.880524],"type":"Point"}
+  "bbox": [
+    -92.223436,
+    34.880524,
+    -92.223436,
+    34.880524
+],
+  "geometry": {"coordinates":[-92.22343600000001,34.880524],"type":"Point"}
 }

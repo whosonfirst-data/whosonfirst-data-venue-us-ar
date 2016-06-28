@@ -2,13 +2,14 @@
   "id": 219735003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.641522,35.781228,-91.641522,35.781228",
     "geom:latitude":35.781228,
     "geom:longitude":-91.641522,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1223 N Saint Louis",
     "sg:city":"Batesville",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":219735003,
-    "wof:lastmodified":1449073831,
+    "wof:lastmodified":1466324973,
     "wof:name":"Flowers Baking Co. Of Batesville",
     "wof:parent_id":85845643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "pastry"
     ]
 },
-  "bbox": [-91.641522,35.781228,-91.641522,35.781228],
-  "geometry": {"coordinates":[-91.641522,35.781228],"type":"Point"}
+  "bbox": [
+    -91.641522,
+    35.781228,
+    -91.641522,
+    35.781228
+],
+  "geometry": {"coordinates":[-91.64152199999999,35.781228],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219961391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.056313,36.351608,-94.056313,36.351608",
     "geom:latitude":36.351608,
     "geom:longitude":-94.056313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1401 SE WALTON BLVD",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219961391,
-    "wof:lastmodified":1449073844,
+    "wof:lastmodified":1466325208,
     "wof:name":"Bliss Salon Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.056313,36.351608,-94.056313,36.351608],
+  "bbox": [
+    -94.056313,
+    36.351608,
+    -94.056313,
+    36.351608
+],
   "geometry": {"coordinates":[-94.056313,36.351608],"type":"Point"}
 }

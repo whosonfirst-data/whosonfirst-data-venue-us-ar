@@ -2,13 +2,14 @@
   "id": 219963763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.116289,36.331758,-94.116289,36.331758",
     "geom:latitude":36.331758,
     "geom:longitude":-94.116289,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 S 1st St",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219963763,
-    "wof:lastmodified":1449070728,
+    "wof:lastmodified":1466325213,
     "wof:name":"Iron Horse Coffee Co",
     "wof:parent_id":85895849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "restaurant"
     ]
 },
-  "bbox": [-94.116289,36.331758,-94.116289,36.331758],
-  "geometry": {"coordinates":[-94.116289,36.331758],"type":"Point"}
+  "bbox": [
+    -94.116289,
+    36.331758,
+    -94.116289,
+    36.331758
+],
+  "geometry": {"coordinates":[-94.11628899999999,36.331758],"type":"Point"}
 }

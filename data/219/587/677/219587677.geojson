@@ -2,13 +2,14 @@
   "id": 219587677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.58618,34.525938,-90.58618,34.525938",
     "geom:latitude":34.525938,
     "geom:longitude":-90.58618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"407 Cherry St",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -69,10 +70,11 @@
         }
     ],
     "wof:id":219587677,
-    "wof:lastmodified":1449071612,
+    "wof:lastmodified":1466324571,
     "wof:name":"Chalk S Mitchell",
     "wof:parent_id":85838649,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -87,6 +89,11 @@
         "bankruptcy"
     ]
 },
-  "bbox": [-90.58618,34.525938,-90.58618,34.525938],
+  "bbox": [
+    -90.58618,
+    34.525938,
+    -90.58618,
+    34.525938
+],
   "geometry": {"coordinates":[-90.58618,34.525938],"type":"Point"}
 }

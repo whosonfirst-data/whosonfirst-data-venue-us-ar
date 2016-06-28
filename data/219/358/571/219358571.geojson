@@ -2,13 +2,14 @@
   "id": 219358571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.506983,34.61988,-92.506983,34.61988",
     "geom:latitude":34.61988,
     "geom:longitude":-92.506983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2710 N Prickett Rd",
     "sg:city":"Bryant",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219358571,
-    "wof:lastmodified":1449071871,
+    "wof:lastmodified":1466322372,
     "wof:name":"North Bryant Baptist Church",
     "wof:parent_id":85817531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "churches-baptist"
     ]
 },
-  "bbox": [-92.506983,34.61988,-92.506983,34.61988],
-  "geometry": {"coordinates":[-92.506983,34.61988],"type":"Point"}
+  "bbox": [
+    -92.506983,
+    34.61988,
+    -92.506983,
+    34.61988
+],
+  "geometry": {"coordinates":[-92.50698300000001,34.61988],"type":"Point"}
 }

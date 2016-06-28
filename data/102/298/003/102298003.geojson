@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102298003",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.650079,33.206524,-92.650079,33.206524",
     "geom:latitude":33.206524,
     "geom:longitude":-92.650079,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1408 Junction City Rd",
     "sg:city":"El Dorado",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102298003",
-    "wof:lastmodified":1449068438,
+    "wof:lastmodified":1466322915,
     "wof:name":"El Dorado Valve and Gauge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.650079,33.206524,-92.650079,33.206524],
-  "geometry": {"coordinates":[-92.650079,33.206524],"type":"Point"}
+  "bbox": [
+    -92.650079,
+    33.206524,
+    -92.650079,
+    33.206524
+],
+  "geometry": {"coordinates":[-92.65007900000001,33.206524],"type":"Point"}
 }

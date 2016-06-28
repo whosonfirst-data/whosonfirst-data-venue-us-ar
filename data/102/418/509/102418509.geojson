@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102418509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.13967,36.0934,-94.13967,36.0934",
     "geom:latitude":36.0934,
     "geom:longitude":-94.13967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1301 E Sunny Hill Dr",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885465,
+        85688549,
         85633793,
         85919609,
         102082007,
-        85688549
+        85885465
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102418509,
-    "wof:lastmodified":1449069657,
+    "wof:lastmodified":1466325336,
     "wof:name":"Wilma B Hinterthuer",
     "wof:parent_id":85885465,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.13967,36.0934,-94.13967,36.0934],
+  "bbox": [
+    -94.13967,
+    36.0934,
+    -94.13967,
+    36.0934
+],
   "geometry": {"coordinates":[-94.13967,36.0934],"type":"Point"}
 }

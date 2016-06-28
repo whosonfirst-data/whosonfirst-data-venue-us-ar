@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102336971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.994109,34.145112,-91.994109,34.145112",
     "geom:latitude":34.145112,
     "geom:longitude":-91.994109,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Opal Lk Dr",
     "sg:city":"Pine Bluff",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":102336971,
-    "wof:lastmodified":1449067720,
+    "wof:lastmodified":1466323913,
     "wof:name":"Lannys Flow Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.994109,34.145112,-91.994109,34.145112],
-  "geometry": {"coordinates":[-91.994109,34.145112],"type":"Point"}
+  "bbox": [
+    -91.994109,
+    34.145112,
+    -91.994109,
+    34.145112
+],
+  "geometry": {"coordinates":[-91.99410899999999,34.145112],"type":"Point"}
 }

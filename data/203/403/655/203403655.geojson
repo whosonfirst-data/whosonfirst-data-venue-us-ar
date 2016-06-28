@@ -2,13 +2,14 @@
   "id": 203403655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.9602,33.1351,-91.9602,33.1351",
     "geom:latitude":33.1351,
     "geom:longitude":-91.9602,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 Pine St",
     "sg:city":"Crossett",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203403655,
-    "wof:lastmodified":1449026596,
+    "wof:lastmodified":1466320517,
     "wof:name":"The Hair Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.9602,33.1351,-91.9602,33.1351],
+  "bbox": [
+    -91.9602,
+    33.1351,
+    -91.9602,
+    33.1351
+],
   "geometry": {"coordinates":[-91.9602,33.1351],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220131649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.109805,34.901727,-94.109805,34.901727",
     "geom:latitude":34.901727,
     "geom:longitude":-94.109805,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1170 Rice St",
     "sg:city":"Waldron",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220131649,
-    "wof:lastmodified":1449074261,
+    "wof:lastmodified":1466322832,
     "wof:name":"David Harper Dds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentists-orthodontists"
     ]
 },
-  "bbox": [-94.109805,34.901727,-94.109805,34.901727],
-  "geometry": {"coordinates":[-94.109805,34.901727],"type":"Point"}
+  "bbox": [
+    -94.109805,
+    34.901727,
+    -94.109805,
+    34.901727
+],
+  "geometry": {"coordinates":[-94.10980499999999,34.901727],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102320909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.391202,35.492299,-94.391202,35.492299",
     "geom:latitude":35.492299,
     "geom:longitude":-94.391202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3131 Pine Hollow Rd",
     "sg:city":"Van Buren",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":102320909,
-    "wof:lastmodified":1449068399,
+    "wof:lastmodified":1466323523,
     "wof:name":"Tim Brown Home Rentals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.391202,35.492299,-94.391202,35.492299],
-  "geometry": {"coordinates":[-94.391202,35.492299],"type":"Point"}
+  "bbox": [
+    -94.391202,
+    35.492299,
+    -94.391202,
+    35.492299
+],
+  "geometry": {"coordinates":[-94.39120200000001,35.492299],"type":"Point"}
 }

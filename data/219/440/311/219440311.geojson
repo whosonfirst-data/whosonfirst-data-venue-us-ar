@@ -2,13 +2,14 @@
   "id": 219440311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.098526,34.860435,-92.098526,34.860435",
     "geom:latitude":34.860435,
     "geom:longitude":-92.098526,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"902 Towering Oaks Dr",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219440311,
-    "wof:lastmodified":1449071636,
+    "wof:lastmodified":1466323247,
     "wof:name":"Mitchell James",
     "wof:parent_id":85852337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "referral"
     ]
 },
-  "bbox": [-92.098526,34.860435,-92.098526,34.860435],
-  "geometry": {"coordinates":[-92.098526,34.860435],"type":"Point"}
+  "bbox": [
+    -92.098526,
+    34.860435,
+    -92.098526,
+    34.860435
+],
+  "geometry": {"coordinates":[-92.09852600000001,34.860435],"type":"Point"}
 }

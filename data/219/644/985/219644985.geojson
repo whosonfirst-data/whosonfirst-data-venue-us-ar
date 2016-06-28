@@ -2,13 +2,14 @@
   "id": 219644985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.702335,35.795278,-90.702335,35.795278",
     "geom:latitude":35.795278,
     "geom:longitude":-90.702335,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3807 Clay Dr",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":219644985,
-    "wof:lastmodified":1449072396,
+    "wof:lastmodified":1466324692,
     "wof:name":"Ace Heating & Cooling, Incorporated",
     "wof:parent_id":85836541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-90.702335,35.795278,-90.702335,35.795278],
-  "geometry": {"coordinates":[-90.702335,35.795278],"type":"Point"}
+  "bbox": [
+    -90.702335,
+    35.795278,
+    -90.702335,
+    35.795278
+],
+  "geometry": {"coordinates":[-90.70233500000001,35.795278],"type":"Point"}
 }

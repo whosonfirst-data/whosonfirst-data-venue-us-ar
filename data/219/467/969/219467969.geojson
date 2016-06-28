@@ -2,13 +2,14 @@
   "id": 219467969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.424634,34.952344,-92.424634,34.952344",
     "geom:latitude":34.952344,
     "geom:longitude":-92.424634,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Sublett Cir",
     "sg:city":"Mayflower",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219467969,
-    "wof:lastmodified":1449073171,
+    "wof:lastmodified":1466323533,
     "wof:name":"K & D Transmission & Auto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.424634,34.952344,-92.424634,34.952344],
+  "bbox": [
+    -92.424634,
+    34.952344,
+    -92.424634,
+    34.952344
+],
   "geometry": {"coordinates":[-92.424634,34.952344],"type":"Point"}
 }

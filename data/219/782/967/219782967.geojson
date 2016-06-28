@@ -2,13 +2,14 @@
   "id": 219782967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.115237,36.227428,-93.115237,36.227428",
     "geom:latitude":36.227428,
     "geom:longitude":-93.115237,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 S Hickory St",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219782967,
-    "wof:lastmodified":1449070365,
+    "wof:lastmodified":1466325014,
     "wof:name":"Cristys Closet Consignment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "shop"
     ]
 },
-  "bbox": [-93.115237,36.227428,-93.115237,36.227428],
-  "geometry": {"coordinates":[-93.115237,36.227428],"type":"Point"}
+  "bbox": [
+    -93.115237,
+    36.227428,
+    -93.115237,
+    36.227428
+],
+  "geometry": {"coordinates":[-93.11523699999999,36.227428],"type":"Point"}
 }

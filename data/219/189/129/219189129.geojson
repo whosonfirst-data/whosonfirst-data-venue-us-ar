@@ -2,13 +2,14 @@
   "id": 219189129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.851705,33.567549,-92.851705,33.567549",
     "geom:latitude":33.567549,
     "geom:longitude":-92.851705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1250 Cash Rd SW",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":219189129,
-    "wof:lastmodified":1449072896,
+    "wof:lastmodified":1466320721,
     "wof:name":"Woodmen Insurance Agency, Inc.",
     "wof:parent_id":85813169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "plan"
     ]
 },
-  "bbox": [-92.851705,33.567549,-92.851705,33.567549],
+  "bbox": [
+    -92.851705,
+    33.567549,
+    -92.851705,
+    33.567549
+],
   "geometry": {"coordinates":[-92.851705,33.567549],"type":"Point"}
 }

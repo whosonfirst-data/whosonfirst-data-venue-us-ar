@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102268515",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.605489,36.226079,-91.605489,36.226079",
     "geom:latitude":36.226079,
     "geom:longitude":-91.605489,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Arnhart St",
     "sg:city":"Ash Flat",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102268515",
-    "wof:lastmodified":1449069115,
+    "wof:lastmodified":1466322345,
     "wof:name":"Forestry Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.605489,36.226079,-91.605489,36.226079],
-  "geometry": {"coordinates":[-91.605489,36.226079],"type":"Point"}
+  "bbox": [
+    -91.605489,
+    36.226079,
+    -91.605489,
+    36.226079
+],
+  "geometry": {"coordinates":[-91.60548900000001,36.226079],"type":"Point"}
 }

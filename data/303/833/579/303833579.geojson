@@ -2,13 +2,14 @@
   "id": 303833579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.76562,36.617231,-94.76562,36.617231",
     "geom:latitude":36.617231,
     "geom:longitude":-94.76562,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27651 S 620 Rd",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303833579,
-    "wof:lastmodified":1448998433,
+    "wof:lastmodified":1466320611,
     "wof:name":"North Farms LLC",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equine"
     ]
 },
-  "bbox": [-94.76562,36.617231,-94.76562,36.617231],
+  "bbox": [
+    -94.76562,
+    36.617231,
+    -94.76562,
+    36.617231
+],
   "geometry": {"coordinates":[-94.76562,36.617231],"type":"Point"}
 }

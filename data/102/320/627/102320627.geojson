@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102320627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.132771,36.31195,-94.132771,36.31195",
     "geom:latitude":36.31195,
     "geom:longitude":-94.132771,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1149 W New Hope Rd",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102320627,
-    "wof:lastmodified":1449068399,
+    "wof:lastmodified":1466323465,
     "wof:name":"Rogers Nursing Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.132771,36.31195,-94.132771,36.31195],
-  "geometry": {"coordinates":[-94.132771,36.31195],"type":"Point"}
+  "bbox": [
+    -94.132771,
+    36.31195,
+    -94.132771,
+    36.31195
+],
+  "geometry": {"coordinates":[-94.13277100000001,36.31195],"type":"Point"}
 }

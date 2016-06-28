@@ -2,13 +2,14 @@
   "id": 219533277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.735229,35.245911,-91.735229,35.245911",
     "geom:latitude":35.245911,
     "geom:longitude":-91.735229,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 W Woodruff Ave",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219533277,
-    "wof:lastmodified":1449070336,
+    "wof:lastmodified":1466324207,
     "wof:name":"KFXV Radio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "broadcast"
     ]
 },
-  "bbox": [-91.735229,35.245911,-91.735229,35.245911],
+  "bbox": [
+    -91.735229,
+    35.245911,
+    -91.735229,
+    35.245911
+],
   "geometry": {"coordinates":[-91.735229,35.245911],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219291691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.373951,34.371351,-93.373951,34.371351",
     "geom:latitude":34.371351,
     "geom:longitude":-93.373951,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1410 High Grove Rd",
     "sg:city":"Bonnerdale",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":219291691,
-    "wof:lastmodified":1449071484,
+    "wof:lastmodified":1466321663,
     "wof:name":"Delacruz Signs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "specialty"
     ]
 },
-  "bbox": [-93.373951,34.371351,-93.373951,34.371351],
-  "geometry": {"coordinates":[-93.373951,34.371351],"type":"Point"}
+  "bbox": [
+    -93.373951,
+    34.371351,
+    -93.373951,
+    34.371351
+],
+  "geometry": {"coordinates":[-93.37395100000001,34.371351],"type":"Point"}
 }

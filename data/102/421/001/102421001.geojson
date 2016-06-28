@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102421001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.827779,33.55646,-92.827779,33.55646",
     "geom:latitude":33.55646,
     "geom:longitude":-92.827779,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Goodgame St SW",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102421001,
-    "wof:lastmodified":1449069289,
+    "wof:lastmodified":1466325522,
     "wof:name":"66 Pit Stop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.827779,33.55646,-92.827779,33.55646],
-  "geometry": {"coordinates":[-92.827779,33.55646],"type":"Point"}
+  "bbox": [
+    -92.827779,
+    33.55646,
+    -92.827779,
+    33.55646
+],
+  "geometry": {"coordinates":[-92.82777900000001,33.55646],"type":"Point"}
 }

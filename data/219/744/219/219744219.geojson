@@ -2,13 +2,14 @@
   "id": 219744219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.5039,36.299958,-91.5039,36.299958",
     "geom:latitude":36.299958,
     "geom:longitude":-91.5039,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2303 Highway 62 412",
     "sg:city":"Highland",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219744219,
-    "wof:lastmodified":1449071666,
+    "wof:lastmodified":1466324903,
     "wof:name":"Mr Oily 10 Minute Oil Change",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "oil"
     ]
 },
-  "bbox": [-91.5039,36.299958,-91.5039,36.299958],
+  "bbox": [
+    -91.5039,
+    36.299958,
+    -91.5039,
+    36.299958
+],
   "geometry": {"coordinates":[-91.5039,36.299958],"type":"Point"}
 }

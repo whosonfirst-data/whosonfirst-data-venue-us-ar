@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102344933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.867146,34.268198,-91.867146,34.268198",
     "geom:latitude":34.268198,
     "geom:longitude":-91.867146,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3400 Rob Roy Rd",
     "sg:city":"Altheimer",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102344933,
-    "wof:lastmodified":1449067897,
+    "wof:lastmodified":1466324032,
     "wof:name":"St Andrews Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.867146,34.268198,-91.867146,34.268198],
-  "geometry": {"coordinates":[-91.867146,34.268198],"type":"Point"}
+  "bbox": [
+    -91.867146,
+    34.268198,
+    -91.867146,
+    34.268198
+],
+  "geometry": {"coordinates":[-91.86714600000001,34.268198],"type":"Point"}
 }

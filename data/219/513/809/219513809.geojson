@@ -2,13 +2,14 @@
   "id": 219513809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.807837,35.254857,-91.807837,35.254857",
     "geom:latitude":35.254857,
     "geom:longitude":-91.807837,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 W Eden Park Rd",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219513809,
-    "wof:lastmodified":1449072723,
+    "wof:lastmodified":1466324058,
     "wof:name":"Caliber Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "coach"
     ]
 },
-  "bbox": [-91.807837,35.254857,-91.807837,35.254857],
-  "geometry": {"coordinates":[-91.807837,35.254857],"type":"Point"}
+  "bbox": [
+    -91.807837,
+    35.254857,
+    -91.807837,
+    35.254857
+],
+  "geometry": {"coordinates":[-91.80783700000001,35.254857],"type":"Point"}
 }

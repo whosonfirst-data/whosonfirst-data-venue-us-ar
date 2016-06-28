@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102374265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.133395,36.228474,-93.133395,36.228474",
     "geom:latitude":36.228474,
     "geom:longitude":-93.133395,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 Oxford Ln",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102374265,
-    "wof:lastmodified":1449068810,
+    "wof:lastmodified":1466320895,
     "wof:name":"Bamboo Garden",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.133395,36.228474,-93.133395,36.228474],
-  "geometry": {"coordinates":[-93.133395,36.228474],"type":"Point"}
+  "bbox": [
+    -93.133395,
+    36.228474,
+    -93.133395,
+    36.228474
+],
+  "geometry": {"coordinates":[-93.13339499999999,36.228474],"type":"Point"}
 }

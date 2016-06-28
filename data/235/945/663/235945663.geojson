@@ -2,13 +2,14 @@
   "id": 235945663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.715439,36.629821,-94.715439,36.629821",
     "geom:latitude":36.629821,
     "geom:longitude":-94.715439,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26530 S 650 Rd",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":235945663,
-    "wof:lastmodified":1449008308,
+    "wof:lastmodified":1466320426,
     "wof:name":"Chatter Box Pets",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "cat"
     ]
 },
-  "bbox": [-94.715439,36.629821,-94.715439,36.629821],
+  "bbox": [
+    -94.715439,
+    36.629821,
+    -94.715439,
+    36.629821
+],
   "geometry": {"coordinates":[-94.715439,36.629821],"type":"Point"}
 }

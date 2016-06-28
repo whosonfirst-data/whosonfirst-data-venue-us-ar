@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102340861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.340677,35.344378,-94.340677,35.344378",
     "geom:latitude":35.344378,
     "geom:longitude":-94.340677,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3907 Massard Rd",
     "sg:city":"Fort Smith",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85832863,
+        85688549,
         85633793,
         85921431,
         102082025,
-        85688549
+        85832863
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102340861,
-    "wof:lastmodified":1449069647,
+    "wof:lastmodified":1466323920,
     "wof:name":"R & R Resources Inc",
     "wof:parent_id":85832863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.340677,35.344378,-94.340677,35.344378],
+  "bbox": [
+    -94.340677,
+    35.344378,
+    -94.340677,
+    35.344378
+],
   "geometry": {"coordinates":[-94.340677,35.344378],"type":"Point"}
 }

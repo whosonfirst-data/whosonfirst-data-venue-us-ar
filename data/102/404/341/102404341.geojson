@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102404341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.173431,36.259708,-93.173431,36.259708",
     "geom:latitude":36.259708,
     "geom:longitude":-93.173431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2269 Lone Oak Dairy Rd",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102404341,
-    "wof:lastmodified":1449069383,
+    "wof:lastmodified":1466324899,
     "wof:name":"Richard Hunt Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.173431,36.259708,-93.173431,36.259708],
-  "geometry": {"coordinates":[-93.173431,36.259708],"type":"Point"}
+  "bbox": [
+    -93.173431,
+    36.259708,
+    -93.173431,
+    36.259708
+],
+  "geometry": {"coordinates":[-93.17343099999999,36.259708],"type":"Point"}
 }

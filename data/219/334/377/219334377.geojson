@@ -2,13 +2,14 @@
   "id": 219334377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.88909,35.068339,-91.88909,35.068339",
     "geom:latitude":35.068339,
     "geom:longitude":-91.88909,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"611 W Center St",
     "sg:city":"Beebe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219334377,
-    "wof:lastmodified":1449071435,
+    "wof:lastmodified":1466322040,
     "wof:name":"Lody & Arnold Attorneys",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "plan"
     ]
 },
-  "bbox": [-91.88909,35.068339,-91.88909,35.068339],
+  "bbox": [
+    -91.88909,
+    35.068339,
+    -91.88909,
+    35.068339
+],
   "geometry": {"coordinates":[-91.88909,35.068339],"type":"Point"}
 }

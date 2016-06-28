@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102309771",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.97804,35.6976,-89.97804,35.6976",
     "geom:latitude":35.6976,
     "geom:longitude":-89.97804,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"749 W Keiser Ave",
     "sg:city":"Osceola",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102309771",
-    "wof:lastmodified":1449068328,
+    "wof:lastmodified":1466323288,
     "wof:name":"American State Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.97804,35.6976,-89.97804,35.6976],
-  "geometry": {"coordinates":[-89.97804,35.6976],"type":"Point"}
+  "bbox": [
+    -89.97804,
+    35.6976,
+    -89.97804,
+    35.6976
+],
+  "geometry": {"coordinates":[-89.97803999999999,35.6976],"type":"Point"}
 }

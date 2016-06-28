@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102214769",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.268678,34.760942,-92.268678,34.760942",
     "geom:latitude":34.760942,
     "geom:longitude":-92.268678,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"710 N Maple St",
     "sg:city":"North Little Rock",
     "sg:classifiers":[
@@ -31,10 +32,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102082497,
-        85633793,
         85688549,
-        85878757
+        85633793,
+        85878757,
+        102082497
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102214769",
-    "wof:lastmodified":1449070139,
+    "wof:lastmodified":1466321082,
     "wof:name":"HI Speed Industrial Services",
     "wof:parent_id":85878757,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.268678,34.760942,-92.268678,34.760942],
-  "geometry": {"coordinates":[-92.268678,34.760942],"type":"Point"}
+  "bbox": [
+    -92.268678,
+    34.760942,
+    -92.268678,
+    34.760942
+],
+  "geometry": {"coordinates":[-92.26867799999999,34.760942],"type":"Point"}
 }

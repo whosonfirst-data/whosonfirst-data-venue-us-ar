@@ -2,13 +2,14 @@
   "id": 219550465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.5535,34.477075,-91.5535,34.477075",
     "geom:latitude":34.477075,
     "geom:longitude":-91.5535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 Commercial Dr B",
     "sg:city":"Stuttgart",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219550465,
-    "wof:lastmodified":1449072285,
+    "wof:lastmodified":1466324339,
     "wof:name":"Southast Ark Bhvral Healthcare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "mental"
     ]
 },
-  "bbox": [-91.5535,34.477075,-91.5535,34.477075],
+  "bbox": [
+    -91.5535,
+    34.477075,
+    -91.5535,
+    34.477075
+],
   "geometry": {"coordinates":[-91.5535,34.477075],"type":"Point"}
 }

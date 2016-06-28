@@ -2,13 +2,14 @@
   "id": 219919799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.985044,36.478093,-93.985044,36.478093",
     "geom:latitude":36.478093,
     "geom:longitude":-93.985044,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17680 Gann Ridge Rd",
     "sg:city":"Garfield",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219919799,
-    "wof:lastmodified":1449073069,
+    "wof:lastmodified":1466325135,
     "wof:name":"Jamin N Manues",
     "wof:parent_id":85895837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "plumber"
     ]
 },
-  "bbox": [-93.985044,36.478093,-93.985044,36.478093],
+  "bbox": [
+    -93.985044,
+    36.478093,
+    -93.985044,
+    36.478093
+],
   "geometry": {"coordinates":[-93.985044,36.478093],"type":"Point"}
 }

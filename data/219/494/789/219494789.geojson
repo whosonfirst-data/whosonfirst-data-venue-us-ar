@@ -2,13 +2,14 @@
   "id": 219494789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.630116,34.792691,-92.630116,34.792691",
     "geom:latitude":34.792691,
     "geom:longitude":-92.630116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35421 Kanis Rd",
     "sg:city":"Paron",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219494789,
-    "wof:lastmodified":1449073534,
+    "wof:lastmodified":1466323903,
     "wof:name":"Realty Consultants Profit Sharing Plan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-92.630116,34.792691,-92.630116,34.792691],
+  "bbox": [
+    -92.630116,
+    34.792691,
+    -92.630116,
+    34.792691
+],
   "geometry": {"coordinates":[-92.630116,34.792691],"type":"Point"}
 }

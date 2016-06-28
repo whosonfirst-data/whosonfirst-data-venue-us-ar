@@ -2,13 +2,14 @@
   "id": 219968909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.139983,36.33378,-94.139983,36.33378",
     "geom:latitude":36.33378,
     "geom:longitude":-94.139983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1519 W Walnut St",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219968909,
-    "wof:lastmodified":1449070607,
+    "wof:lastmodified":1466325223,
     "wof:name":"Dollar General Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.139983,36.33378,-94.139983,36.33378],
+  "bbox": [
+    -94.139983,
+    36.33378,
+    -94.139983,
+    36.33378
+],
   "geometry": {"coordinates":[-94.139983,36.33378],"type":"Point"}
 }

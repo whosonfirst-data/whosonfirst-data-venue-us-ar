@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102403583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.18272,33.273826,-91.18272,33.273826",
     "geom:latitude":33.273826,
     "geom:longitude":-91.18272,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4887 US Hwy 82",
     "sg:city":"Lake Village",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102403583,
-    "wof:lastmodified":1449069837,
+    "wof:lastmodified":1466324753,
     "wof:name":"Vaughn Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.18272,33.273826,-91.18272,33.273826],
+  "bbox": [
+    -91.18272,
+    33.273826,
+    -91.18272,
+    33.273826
+],
   "geometry": {"coordinates":[-91.18272,33.273826],"type":"Point"}
 }

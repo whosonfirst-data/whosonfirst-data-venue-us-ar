@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102425753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.089807,34.949464,-92.089807,34.949464",
     "geom:latitude":34.949464,
     "geom:longitude":-92.089807,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1812 Camp Dr",
     "sg:city":"Cabot",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102425753,
-    "wof:lastmodified":1449068632,
+    "wof:lastmodified":1466325533,
     "wof:name":"Kens Computer Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.089807,34.949464,-92.089807,34.949464],
-  "geometry": {"coordinates":[-92.089807,34.949464],"type":"Point"}
+  "bbox": [
+    -92.089807,
+    34.949464,
+    -92.089807,
+    34.949464
+],
+  "geometry": {"coordinates":[-92.08980699999999,34.949464],"type":"Point"}
 }

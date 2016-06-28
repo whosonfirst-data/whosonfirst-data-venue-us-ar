@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102204055",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.221249,36.374861,-94.221249,36.374861",
     "geom:latitude":36.374861,
     "geom:longitude":-94.221249,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"222 N Walton Blvd",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895827,
+        85688549,
         85633793,
         85921509,
         102083255,
-        85688549
+        85895827
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102204055",
-    "wof:lastmodified":1449070280,
+    "wof:lastmodified":1466320681,
     "wof:name":"Radio Shack",
     "wof:parent_id":85895827,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.221249,36.374861,-94.221249,36.374861],
+  "bbox": [
+    -94.221249,
+    36.374861,
+    -94.221249,
+    36.374861
+],
   "geometry": {"coordinates":[-94.221249,36.374861],"type":"Point"}
 }

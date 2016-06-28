@@ -2,13 +2,14 @@
   "id": 219814577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.166929,36.066503,-94.166929,36.066503",
     "geom:latitude":36.066503,
     "geom:longitude":-94.166929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"609 W Dickson St",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219814577,
-    "wof:lastmodified":1449071044,
+    "wof:lastmodified":1466324883,
     "wof:name":"Big Momma's Coffee & Expresso",
     "wof:parent_id":85885451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "restaurant"
     ]
 },
-  "bbox": [-94.166929,36.066503,-94.166929,36.066503],
+  "bbox": [
+    -94.166929,
+    36.066503,
+    -94.166929,
+    36.066503
+],
   "geometry": {"coordinates":[-94.166929,36.066503],"type":"Point"}
 }

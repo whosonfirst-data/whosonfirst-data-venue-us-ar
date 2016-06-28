@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102235801",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.417475,35.2957,-94.417475,35.2957",
     "geom:latitude":35.2957,
     "geom:longitude":-94.417475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"79 Prestwick Ct",
     "sg:city":"Fort Smith",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102082025,
-        85633793,
         85688549,
-        85809847
+        85633793,
+        85809847,
+        102082025
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102235801",
-    "wof:lastmodified":1449068227,
+    "wof:lastmodified":1466321603,
     "wof:name":"S & S Locksmith",
     "wof:parent_id":85809847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.417475,35.2957,-94.417475,35.2957],
+  "bbox": [
+    -94.417475,
+    35.2957,
+    -94.417475,
+    35.2957
+],
   "geometry": {"coordinates":[-94.417475,35.2957],"type":"Point"}
 }

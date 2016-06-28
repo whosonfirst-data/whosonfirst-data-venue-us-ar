@@ -2,13 +2,14 @@
   "id": 219305607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.238501,34.586584,-94.238501,34.586584",
     "geom:latitude":34.586584,
     "geom:longitude":-94.238501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"520 Church Ave",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":219305607,
-    "wof:lastmodified":1449070925,
+    "wof:lastmodified":1466321779,
     "wof:name":"Maddox & Maddox Attorneys at Law",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -87,6 +89,11 @@
         "law"
     ]
 },
-  "bbox": [-94.238501,34.586584,-94.238501,34.586584],
+  "bbox": [
+    -94.238501,
+    34.586584,
+    -94.238501,
+    34.586584
+],
   "geometry": {"coordinates":[-94.238501,34.586584],"type":"Point"}
 }

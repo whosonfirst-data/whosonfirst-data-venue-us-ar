@@ -2,13 +2,14 @@
   "id": 219855457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.034628,36.102572,-94.034628,36.102572",
     "geom:latitude":36.102572,
     "geom:longitude":-94.034628,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2608 Crooked Creek Pl",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219855457,
-    "wof:lastmodified":1449073002,
+    "wof:lastmodified":1466324972,
     "wof:name":"Ferguson Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "coach"
     ]
 },
-  "bbox": [-94.034628,36.102572,-94.034628,36.102572],
+  "bbox": [
+    -94.034628,
+    36.102572,
+    -94.034628,
+    36.102572
+],
   "geometry": {"coordinates":[-94.034628,36.102572],"type":"Point"}
 }

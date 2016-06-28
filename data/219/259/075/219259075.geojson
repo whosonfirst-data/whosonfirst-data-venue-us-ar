@@ -2,13 +2,14 @@
   "id": 219259075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.020114,33.448298,-94.020114,33.448298",
     "geom:latitude":33.448298,
     "geom:longitude":-94.020114,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Cambridge Dr",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219259075,
-    "wof:lastmodified":1449071197,
+    "wof:lastmodified":1466321400,
     "wof:name":"Steven L Nix And Bettye",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.020114,33.448298,-94.020114,33.448298],
-  "geometry": {"coordinates":[-94.020114,33.448298],"type":"Point"}
+  "bbox": [
+    -94.020114,
+    33.448298,
+    -94.020114,
+    33.448298
+],
+  "geometry": {"coordinates":[-94.02011400000001,33.448298],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219646749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.669638,35.796906,-90.669638,35.796906",
     "geom:latitude":35.796906,
     "geom:longitude":-90.669638,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3700 Stadium Blvd Ste A",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219646749,
-    "wof:lastmodified":1449070293,
+    "wof:lastmodified":1466324701,
     "wof:name":"Legend Motor Co",
     "wof:parent_id":85836541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "cars-wholesale"
     ]
 },
-  "bbox": [-90.669638,35.796906,-90.669638,35.796906],
-  "geometry": {"coordinates":[-90.669638,35.796906],"type":"Point"}
+  "bbox": [
+    -90.669638,
+    35.796906,
+    -90.669638,
+    35.796906
+],
+  "geometry": {"coordinates":[-90.66963800000001,35.796906],"type":"Point"}
 }

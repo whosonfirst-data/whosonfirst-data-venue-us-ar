@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102373221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.047165,36.199483,-93.047165,36.199483",
     "geom:latitude":36.199483,
     "geom:longitude":-93.047165,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Calahan St",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102373221,
-    "wof:lastmodified":1449068991,
+    "wof:lastmodified":1466320669,
     "wof:name":"C & H Lock & Key",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.047165,36.199483,-93.047165,36.199483],
-  "geometry": {"coordinates":[-93.047165,36.199483],"type":"Point"}
+  "bbox": [
+    -93.047165,
+    36.199483,
+    -93.047165,
+    36.199483
+],
+  "geometry": {"coordinates":[-93.04716500000001,36.199483],"type":"Point"}
 }

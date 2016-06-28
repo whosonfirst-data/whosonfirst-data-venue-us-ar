@@ -2,13 +2,14 @@
   "id": 219417817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.372124,34.112881,-91.372124,34.112881",
     "geom:latitude":34.112881,
     "geom:longitude":-91.372124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3585 Highway 165 S",
     "sg:city":"Gillett",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":219417817,
-    "wof:lastmodified":1449071833,
+    "wof:lastmodified":1466323004,
     "wof:name":"Gillett Farm Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "baling"
     ]
 },
-  "bbox": [-91.372124,34.112881,-91.372124,34.112881],
+  "bbox": [
+    -91.372124,
+    34.112881,
+    -91.372124,
+    34.112881
+],
   "geometry": {"coordinates":[-91.372124,34.112881],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219545285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.40442,34.317053,-92.40442,34.317053",
     "geom:latitude":34.317053,
     "geom:longitude":-92.40442,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 W 11th St",
     "sg:city":"Sheridan",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219545285,
-    "wof:lastmodified":1449071245,
+    "wof:lastmodified":1466324294,
     "wof:name":"Haley C Misty Sewing Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "machines-household"
     ]
 },
-  "bbox": [-92.40442,34.317053,-92.40442,34.317053],
+  "bbox": [
+    -92.40442,
+    34.317053,
+    -92.40442,
+    34.317053
+],
   "geometry": {"coordinates":[-92.40442,34.317053],"type":"Point"}
 }

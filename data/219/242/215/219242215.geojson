@@ -2,13 +2,14 @@
   "id": 219242215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.169267,33.963398,-94.169267,33.963398",
     "geom:latitude":33.963398,
     "geom:longitude":-94.169267,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3471 S Camellia",
     "sg:city":"Lockesburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219242215,
-    "wof:lastmodified":1449073505,
+    "wof:lastmodified":1466321273,
     "wof:name":"Lighthouse Of Anchor Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-94.169267,33.963398,-94.169267,33.963398],
+  "bbox": [
+    -94.169267,
+    33.963398,
+    -94.169267,
+    33.963398
+],
   "geometry": {"coordinates":[-94.169267,33.963398],"type":"Point"}
 }

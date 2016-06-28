@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102341689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.843902,34.015199,-93.843902,34.015199",
     "geom:latitude":34.015199,
     "geom:longitude":-93.843902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3057 Corinth Rd",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102341689,
-    "wof:lastmodified":1449070106,
+    "wof:lastmodified":1466323892,
     "wof:name":"Mine Creek Reservoir",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.843902,34.015199,-93.843902,34.015199],
+  "bbox": [
+    -93.843902,
+    34.015199,
+    -93.843902,
+    34.015199
+],
   "geometry": {"coordinates":[-93.843902,34.015199],"type":"Point"}
 }

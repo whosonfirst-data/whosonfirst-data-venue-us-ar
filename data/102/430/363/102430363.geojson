@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102430363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.791553,33.628973,-91.791553,33.628973",
     "geom:latitude":33.628973,
     "geom:longitude":-91.791553,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 W Gaines Ave",
     "sg:city":"Monticello",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102430363,
-    "wof:lastmodified":1449069303,
+    "wof:lastmodified":1466325508,
     "wof:name":"Tree O",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.791553,33.628973,-91.791553,33.628973],
-  "geometry": {"coordinates":[-91.791553,33.628973],"type":"Point"}
+  "bbox": [
+    -91.791553,
+    33.628973,
+    -91.791553,
+    33.628973
+],
+  "geometry": {"coordinates":[-91.79155299999999,33.628973],"type":"Point"}
 }

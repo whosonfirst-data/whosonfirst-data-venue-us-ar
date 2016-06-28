@@ -2,13 +2,14 @@
   "id": 219918535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.047997,36.420231,-94.047997,36.420231",
     "geom:latitude":36.420231,
     "geom:longitude":-94.047997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15226 Sugar Creek Rd",
     "sg:city":"Garfield",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219918535,
-    "wof:lastmodified":1449072784,
+    "wof:lastmodified":1466325134,
     "wof:name":"Jrnj Tractor And Services",
     "wof:parent_id":85807567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-94.047997,36.420231,-94.047997,36.420231],
+  "bbox": [
+    -94.047997,
+    36.420231,
+    -94.047997,
+    36.420231
+],
   "geometry": {"coordinates":[-94.047997,36.420231],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102392895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.336628,34.295225,-91.336628,34.295225",
     "geom:latitude":34.295225,
     "geom:longitude":-91.336628,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"221 W Cross St",
     "sg:city":"De Witt",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102392895,
-    "wof:lastmodified":1449069706,
+    "wof:lastmodified":1466324674,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.336628,34.295225,-91.336628,34.295225],
+  "bbox": [
+    -91.336628,
+    34.295225,
+    -91.336628,
+    34.295225
+],
   "geometry": {"coordinates":[-91.336628,34.295225],"type":"Point"}
 }

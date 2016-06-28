@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102367711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.133591,35.284339,-93.133591,35.284339",
     "geom:latitude":35.284339,
     "geom:longitude":-93.133591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"607 N Arkansas Ave",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -37,11 +38,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837141,
+        85688549,
         85633793,
         85919515,
         102082511,
-        85688549
+        85837141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,14 +61,20 @@
         }
     ],
     "wof:id":102367711,
-    "wof:lastmodified":1449069171,
+    "wof:lastmodified":1466324461,
     "wof:name":"Color Copy Plus Inc",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.133591,35.284339,-93.133591,35.284339],
+  "bbox": [
+    -93.133591,
+    35.284339,
+    -93.133591,
+    35.284339
+],
   "geometry": {"coordinates":[-93.133591,35.284339],"type":"Point"}
 }

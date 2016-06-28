@@ -2,13 +2,14 @@
   "id": 219312375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.325867,34.608432,-94.325867,34.608432",
     "geom:latitude":34.608432,
     "geom:longitude":-94.325867,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"364 Polk Road 47",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219312375,
-    "wof:lastmodified":1449072162,
+    "wof:lastmodified":1466321835,
     "wof:name":"Mountain Springs Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.325867,34.608432,-94.325867,34.608432],
+  "bbox": [
+    -94.325867,
+    34.608432,
+    -94.325867,
+    34.608432
+],
   "geometry": {"coordinates":[-94.325867,34.608432],"type":"Point"}
 }

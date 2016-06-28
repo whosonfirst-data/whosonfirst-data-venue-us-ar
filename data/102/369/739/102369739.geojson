@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102369739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.422284,35.949806,-94.422284,35.949806",
     "geom:latitude":35.949806,
     "geom:longitude":-94.422284,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 S Carter Ave",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102369739,
-    "wof:lastmodified":1449070081,
+    "wof:lastmodified":1466324482,
     "wof:name":"Lincoln Street Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.422284,35.949806,-94.422284,35.949806],
+  "bbox": [
+    -94.422284,
+    35.949806,
+    -94.422284,
+    35.949806
+],
   "geometry": {"coordinates":[-94.422284,35.949806],"type":"Point"}
 }

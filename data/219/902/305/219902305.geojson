@@ -2,13 +2,14 @@
   "id": 219902305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.198906,36.34657,-94.198906,36.34657",
     "geom:latitude":36.34657,
     "geom:longitude":-94.198906,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2406 SE Cottonwood St",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219902305,
-    "wof:lastmodified":1449073018,
+    "wof:lastmodified":1466325104,
     "wof:name":"Cheyenne Home Furnishings",
     "wof:parent_id":85895815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-94.198906,36.34657,-94.198906,36.34657],
-  "geometry": {"coordinates":[-94.198906,36.34657],"type":"Point"}
+  "bbox": [
+    -94.198906,
+    36.34657,
+    -94.198906,
+    36.34657
+],
+  "geometry": {"coordinates":[-94.19890599999999,36.34657],"type":"Point"}
 }

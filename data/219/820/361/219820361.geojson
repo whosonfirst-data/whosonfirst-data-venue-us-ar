@@ -2,13 +2,14 @@
   "id": 219820361,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.17199,36.063786,-94.17199,36.063786",
     "geom:latitude":36.063786,
     "geom:longitude":-94.17199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"877 S California Blvd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219820361,
-    "wof:lastmodified":1449072207,
+    "wof:lastmodified":1466324909,
     "wof:name":"Fayetteville Public Education Foundation",
     "wof:parent_id":85885453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "research"
     ]
 },
-  "bbox": [-94.17199,36.063786,-94.17199,36.063786],
-  "geometry": {"coordinates":[-94.17199,36.063786],"type":"Point"}
+  "bbox": [
+    -94.17199,
+    36.063786,
+    -94.17199,
+    36.063786
+],
+  "geometry": {"coordinates":[-94.17198999999999,36.063786],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102421265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.206888,33.606207,-91.206888,33.606207",
     "geom:latitude":33.606207,
     "geom:longitude":-91.206888,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"303 Weatherwood St",
     "sg:city":"Arkansas City",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102421265,
-    "wof:lastmodified":1449069290,
+    "wof:lastmodified":1466325377,
     "wof:name":"Phoenix Youth Family",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.206888,33.606207,-91.206888,33.606207],
-  "geometry": {"coordinates":[-91.206888,33.606207],"type":"Point"}
+  "bbox": [
+    -91.206888,
+    33.606207,
+    -91.206888,
+    33.606207
+],
+  "geometry": {"coordinates":[-91.20688800000001,33.606207],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102401509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.40047,34.772274,-92.40047,34.772274",
     "geom:latitude":34.772274,
     "geom:longitude":-92.40047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11524 N Rodney Parham Rd",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85843659,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85843659
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":102401509,
-    "wof:lastmodified":1449069808,
+    "wof:lastmodified":1466324856,
     "wof:name":"American Signal Corporation",
     "wof:parent_id":85843659,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.40047,34.772274,-92.40047,34.772274],
+  "bbox": [
+    -92.40047,
+    34.772274,
+    -92.40047,
+    34.772274
+],
   "geometry": {"coordinates":[-92.40047,34.772274],"type":"Point"}
 }

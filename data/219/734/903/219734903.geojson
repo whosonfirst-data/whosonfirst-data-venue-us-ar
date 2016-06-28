@@ -2,13 +2,14 @@
   "id": 219734903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.64643,35.769679,-91.64643,35.769679",
     "geom:latitude":35.769679,
     "geom:longitude":-91.64643,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"616 Harrison St",
     "sg:city":"Batesville",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219734903,
-    "wof:lastmodified":1449073468,
+    "wof:lastmodified":1466324905,
     "wof:name":"Morningside Coffee House",
     "wof:parent_id":85808231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "espresso"
     ]
 },
-  "bbox": [-91.64643,35.769679,-91.64643,35.769679],
+  "bbox": [
+    -91.64643,
+    35.769679,
+    -91.64643,
+    35.769679
+],
   "geometry": {"coordinates":[-91.64643,35.769679],"type":"Point"}
 }

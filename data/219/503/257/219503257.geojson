@@ -2,13 +2,14 @@
   "id": 219503257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.217681,34.476212,-92.217681,34.476212",
     "geom:latitude":34.476212,
     "geom:longitude":-92.217681,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"598 Hopper Rd",
     "sg:city":"Redfield",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219503257,
-    "wof:lastmodified":1449073925,
+    "wof:lastmodified":1466323969,
     "wof:name":"It Strategic Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "coach"
     ]
 },
-  "bbox": [-92.217681,34.476212,-92.217681,34.476212],
+  "bbox": [
+    -92.217681,
+    34.476212,
+    -92.217681,
+    34.476212
+],
   "geometry": {"coordinates":[-92.217681,34.476212],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102329799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.317021,34.680224,-92.317021,34.680224",
     "geom:latitude":34.680224,
     "geom:longitude":-92.317021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7101 Interstate Dr",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85803283,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85803283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":102329799,
-    "wof:lastmodified":1449068450,
+    "wof:lastmodified":1466323700,
     "wof:name":"Arkansas Fuel Injection Inc",
     "wof:parent_id":85803283,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.317021,34.680224,-92.317021,34.680224],
+  "bbox": [
+    -92.317021,
+    34.680224,
+    -92.317021,
+    34.680224
+],
   "geometry": {"coordinates":[-92.317021,34.680224],"type":"Point"}
 }

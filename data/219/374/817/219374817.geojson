@@ -2,13 +2,14 @@
   "id": 219374817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.463128,35.603233,-92.463128,35.603233",
     "geom:latitude":35.603233,
     "geom:longitude":-92.463128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"283 Highway 16 W",
     "sg:city":"Clinton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219374817,
-    "wof:lastmodified":1449071929,
+    "wof:lastmodified":1466322628,
     "wof:name":"Rons Auto Truck & Tracto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.463128,35.603233,-92.463128,35.603233],
+  "bbox": [
+    -92.463128,
+    35.603233,
+    -92.463128,
+    35.603233
+],
   "geometry": {"coordinates":[-92.463128,35.603233],"type":"Point"}
 }

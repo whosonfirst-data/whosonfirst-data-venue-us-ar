@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102255005",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.736471,35.217922,-92.736471,35.217922",
     "geom:latitude":35.217922,
     "geom:longitude":-92.736471,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Feather Dr",
     "sg:city":"Morrilton",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":"102255005",
-    "wof:lastmodified":1449068861,
+    "wof:lastmodified":1466321887,
     "wof:name":"Greg Williams",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.736471,35.217922,-92.736471,35.217922],
-  "geometry": {"coordinates":[-92.736471,35.217922],"type":"Point"}
+  "bbox": [
+    -92.736471,
+    35.217922,
+    -92.736471,
+    35.217922
+],
+  "geometry": {"coordinates":[-92.73647099999999,35.217922],"type":"Point"}
 }

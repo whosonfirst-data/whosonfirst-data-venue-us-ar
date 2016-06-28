@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102431949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.304991,34.764134,-92.304991,34.764134",
     "geom:latitude":34.764134,
     "geom:longitude":-92.304991,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3404 Cedar Hill Rd",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837877,
+        85688549,
         85633793,
         85921255,
         102082497,
-        85688549
+        85837877
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102431949,
-    "wof:lastmodified":1449068135,
+    "wof:lastmodified":1466325630,
     "wof:name":"Allen Gail E Attorney At Law",
     "wof:parent_id":85837877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.304991,34.764134,-92.304991,34.764134],
+  "bbox": [
+    -92.304991,
+    34.764134,
+    -92.304991,
+    34.764134
+],
   "geometry": {"coordinates":[-92.304991,34.764134],"type":"Point"}
 }

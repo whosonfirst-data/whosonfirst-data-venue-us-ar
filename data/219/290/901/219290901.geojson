@@ -2,13 +2,14 @@
   "id": 219290901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.238455,34.291294,-93.238455,34.291294",
     "geom:latitude":34.291294,
     "geom:longitude":-93.238455,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"285 Joe Ln",
     "sg:city":"Bismarck",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219290901,
-    "wof:lastmodified":1449071904,
+    "wof:lastmodified":1466321657,
     "wof:name":"James J Reel Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "business"
     ]
 },
-  "bbox": [-93.238455,34.291294,-93.238455,34.291294],
+  "bbox": [
+    -93.238455,
+    34.291294,
+    -93.238455,
+    34.291294
+],
   "geometry": {"coordinates":[-93.238455,34.291294],"type":"Point"}
 }

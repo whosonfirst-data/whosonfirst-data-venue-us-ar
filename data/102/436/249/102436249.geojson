@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102436249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.400973,35.101891,-92.400973,35.101891",
     "geom:latitude":35.101891,
     "geom:longitude":-92.400973,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1816 E German Ln",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102436249,
-    "wof:lastmodified":1449069953,
+    "wof:lastmodified":1466325658,
     "wof:name":"Bobs Barber Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.400973,35.101891,-92.400973,35.101891],
-  "geometry": {"coordinates":[-92.400973,35.101891],"type":"Point"}
+  "bbox": [
+    -92.400973,
+    35.101891,
+    -92.400973,
+    35.101891
+],
+  "geometry": {"coordinates":[-92.40097299999999,35.101891],"type":"Point"}
 }

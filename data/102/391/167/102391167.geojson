@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102391167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.206443,36.354409,-94.206443,36.354409",
     "geom:latitude":36.354409,
     "geom:longitude":-94.206443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 McIntosh St",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895807,
+        85688549,
         85633793,
         85921509,
         102083255,
-        85688549
+        85895807
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102391167,
-    "wof:lastmodified":1449069312,
+    "wof:lastmodified":1466324382,
     "wof:name":"Sherrys Day Care Family",
     "wof:parent_id":85895807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.206443,36.354409,-94.206443,36.354409],
-  "geometry": {"coordinates":[-94.206443,36.354409],"type":"Point"}
+  "bbox": [
+    -94.206443,
+    36.354409,
+    -94.206443,
+    36.354409
+],
+  "geometry": {"coordinates":[-94.20644299999999,36.354409],"type":"Point"}
 }

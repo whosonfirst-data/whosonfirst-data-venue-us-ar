@@ -2,13 +2,14 @@
   "id": 337291779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.532732,34.4935,-91.532732,34.4935",
     "geom:latitude":34.4935,
     "geom:longitude":-91.532732,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1468 E 10th Ext",
     "sg:city":"Stuttgart",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":337291779,
-    "wof:lastmodified":1449027191,
+    "wof:lastmodified":1466322091,
     "wof:name":"Hickory Square Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-91.532732,34.4935,-91.532732,34.4935],
+  "bbox": [
+    -91.532732,
+    34.4935,
+    -91.532732,
+    34.4935
+],
   "geometry": {"coordinates":[-91.532732,34.4935],"type":"Point"}
 }

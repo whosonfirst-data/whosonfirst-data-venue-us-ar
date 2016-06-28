@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102255637",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.363171,34.765262,-92.363171,34.765262",
     "geom:latitude":34.765262,
     "geom:longitude":-92.363171,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Evergreen Ct",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878753,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85878753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102255637",
-    "wof:lastmodified":1449068859,
+    "wof:lastmodified":1466322017,
     "wof:name":"Don Trickey",
     "wof:parent_id":85878753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.363171,34.765262,-92.363171,34.765262],
-  "geometry": {"coordinates":[-92.363171,34.765262],"type":"Point"}
+  "bbox": [
+    -92.363171,
+    34.765262,
+    -92.363171,
+    34.765262
+],
+  "geometry": {"coordinates":[-92.36317099999999,34.765262],"type":"Point"}
 }

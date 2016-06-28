@@ -2,13 +2,14 @@
   "id": 219546931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.961197,34.300797,-91.961197,34.300797",
     "geom:latitude":34.300797,
     "geom:longitude":-91.961197,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8601 N Highway 79",
     "sg:city":"Sherrill",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219546931,
-    "wof:lastmodified":1449070374,
+    "wof:lastmodified":1466324307,
     "wof:name":"Garrett Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.961197,34.300797,-91.961197,34.300797],
+  "bbox": [
+    -91.961197,
+    34.300797,
+    -91.961197,
+    34.300797
+],
   "geometry": {"coordinates":[-91.961197,34.300797],"type":"Point"}
 }

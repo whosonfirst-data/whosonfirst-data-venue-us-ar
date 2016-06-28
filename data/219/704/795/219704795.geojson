@@ -2,13 +2,14 @@
   "id": 219704795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.193273,36.374645,-90.193273,36.374645",
     "geom:latitude":36.374645,
     "geom:longitude":-90.193273,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"863 S Terminal Ave",
     "sg:city":"Piggott",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219704795,
-    "wof:lastmodified":1449071320,
+    "wof:lastmodified":1466324864,
     "wof:name":"Wright's Auto & Collision Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "repairing"
     ]
 },
-  "bbox": [-90.193273,36.374645,-90.193273,36.374645],
+  "bbox": [
+    -90.193273,
+    36.374645,
+    -90.193273,
+    36.374645
+],
   "geometry": {"coordinates":[-90.193273,36.374645],"type":"Point"}
 }

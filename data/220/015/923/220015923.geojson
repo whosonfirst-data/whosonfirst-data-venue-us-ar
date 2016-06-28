@@ -2,13 +2,14 @@
   "id": 220015923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.199096,36.205586,-94.199096,36.205586",
     "geom:latitude":36.205586,
     "geom:longitude":-94.199096,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"282 Niagara St",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":220015923,
-    "wof:lastmodified":1449074232,
+    "wof:lastmodified":1466320491,
     "wof:name":"All American Mobile Power Wash",
     "wof:parent_id":85885477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "truck"
     ]
 },
-  "bbox": [-94.199096,36.205586,-94.199096,36.205586],
+  "bbox": [
+    -94.199096,
+    36.205586,
+    -94.199096,
+    36.205586
+],
   "geometry": {"coordinates":[-94.199096,36.205586],"type":"Point"}
 }

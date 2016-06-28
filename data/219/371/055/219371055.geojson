@@ -2,13 +2,14 @@
   "id": 219371055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.32594,34.526194,-91.32594,34.526194",
     "geom:latitude":34.526194,
     "geom:longitude":-91.32594,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1040 Highway 33",
     "sg:city":"Casscoe",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219371055,
-    "wof:lastmodified":1449073149,
+    "wof:lastmodified":1466322594,
     "wof:name":"USPS - United States Post Office - Casscoe Main Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "shipping"
     ]
 },
-  "bbox": [-91.32594,34.526194,-91.32594,34.526194],
+  "bbox": [
+    -91.32594,
+    34.526194,
+    -91.32594,
+    34.526194
+],
   "geometry": {"coordinates":[-91.32594,34.526194],"type":"Point"}
 }

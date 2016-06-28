@@ -2,13 +2,14 @@
   "id": 203410823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.009411,33.143,-92.009411,33.143",
     "geom:latitude":33.143,
     "geom:longitude":-92.009411,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"670 Marias Saline Rd",
     "sg:city":"Crossett",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203410823,
-    "wof:lastmodified":1449024970,
+    "wof:lastmodified":1466320542,
     "wof:name":"Elizabeth A Laney",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "analysis"
     ]
 },
-  "bbox": [-92.009411,33.143,-92.009411,33.143],
+  "bbox": [
+    -92.009411,
+    33.143,
+    -92.009411,
+    33.143
+],
   "geometry": {"coordinates":[-92.009411,33.143],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219454221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.351967,34.573689,-92.351967,34.573689",
     "geom:latitude":34.573689,
     "geom:longitude":-92.351967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6523 E Draw",
     "sg:city":"Mabelvale",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219454221,
-    "wof:lastmodified":1449073585,
+    "wof:lastmodified":1466323422,
     "wof:name":"Auto Motivated",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.351967,34.573689,-92.351967,34.573689],
+  "bbox": [
+    -92.351967,
+    34.573689,
+    -92.351967,
+    34.573689
+],
   "geometry": {"coordinates":[-92.351967,34.573689],"type":"Point"}
 }

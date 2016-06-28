@@ -2,13 +2,14 @@
   "id": 219376271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.501693,35.465093,-92.501693,35.465093",
     "geom:latitude":35.465093,
     "geom:longitude":-92.501693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"487 Happy Rd",
     "sg:city":"Clinton",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219376271,
-    "wof:lastmodified":1449071605,
+    "wof:lastmodified":1466322640,
     "wof:name":"Country Fresh Gallaries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "artist"
     ]
 },
-  "bbox": [-92.501693,35.465093,-92.501693,35.465093],
+  "bbox": [
+    -92.501693,
+    35.465093,
+    -92.501693,
+    35.465093
+],
   "geometry": {"coordinates":[-92.501693,35.465093],"type":"Point"}
 }

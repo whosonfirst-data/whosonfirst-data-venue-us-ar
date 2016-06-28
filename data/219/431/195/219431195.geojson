@@ -2,13 +2,14 @@
   "id": 219431195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.157177,35.557885,-92.157177,35.557885",
     "geom:latitude":35.557885,
     "geom:longitude":-92.157177,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"550 Berry Ln",
     "sg:city":"Higden",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":219431195,
-    "wof:lastmodified":1449070875,
+    "wof:lastmodified":1466323109,
     "wof:name":"Loyal Piker Piker Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.157177,35.557885,-92.157177,35.557885],
+  "bbox": [
+    -92.157177,
+    35.557885,
+    -92.157177,
+    35.557885
+],
   "geometry": {"coordinates":[-92.157177,35.557885],"type":"Point"}
 }

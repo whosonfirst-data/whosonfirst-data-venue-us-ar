@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102330443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.282226,34.749705,-92.282226,34.749705",
     "geom:latitude":34.749705,
     "geom:longitude":-92.282226,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 W Markham St",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     "sg:website":"www.myhomeloan.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878749,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85878749
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":102330443,
-    "wof:lastmodified":1449068953,
+    "wof:lastmodified":1466323632,
     "wof:name":"Riverside Mortgage Company",
     "wof:parent_id":85878749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.282226,34.749705,-92.282226,34.749705],
-  "geometry": {"coordinates":[-92.282226,34.749705],"type":"Point"}
+  "bbox": [
+    -92.282226,
+    34.749705,
+    -92.282226,
+    34.749705
+],
+  "geometry": {"coordinates":[-92.28222599999999,34.749705],"type":"Point"}
 }

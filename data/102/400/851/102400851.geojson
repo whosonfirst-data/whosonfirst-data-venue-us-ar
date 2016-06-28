@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102400851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.062268,34.47672,-93.062268,34.47672",
     "geom:latitude":34.47672,
     "geom:longitude":-93.062268,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Crawford St",
     "sg:city":"Hot Springs National Park",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102400851,
-    "wof:lastmodified":1449068028,
+    "wof:lastmodified":1466324803,
     "wof:name":"Muellers Bakery & Donut Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.062268,34.47672,-93.062268,34.47672],
+  "bbox": [
+    -93.062268,
+    34.47672,
+    -93.062268,
+    34.47672
+],
   "geometry": {"coordinates":[-93.062268,34.47672],"type":"Point"}
 }

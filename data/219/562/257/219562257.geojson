@@ -2,13 +2,14 @@
   "id": 219562257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.244629,35.086979,-92.244629,35.086979",
     "geom:latitude":35.086979,
     "geom:longitude":-92.244629,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Dennis Dr",
     "sg:city":"Vilonia",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219562257,
-    "wof:lastmodified":1449072247,
+    "wof:lastmodified":1466324527,
     "wof:name":"The Coin Place",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supply"
     ]
 },
-  "bbox": [-92.244629,35.086979,-92.244629,35.086979],
+  "bbox": [
+    -92.244629,
+    35.086979,
+    -92.244629,
+    35.086979
+],
   "geometry": {"coordinates":[-92.244629,35.086979],"type":"Point"}
 }

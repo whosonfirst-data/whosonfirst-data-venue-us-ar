@@ -2,13 +2,14 @@
   "id": 219678463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.472192,36.053625,-90.472192,36.053625",
     "geom:latitude":36.053625,
     "geom:longitude":-90.472192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"404 S 11th Ave",
     "sg:city":"Paragould",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219678463,
-    "wof:lastmodified":1449072095,
+    "wof:lastmodified":1466324616,
     "wof:name":"Golightly Floors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "material"
     ]
 },
-  "bbox": [-90.472192,36.053625,-90.472192,36.053625],
-  "geometry": {"coordinates":[-90.472192,36.053625],"type":"Point"}
+  "bbox": [
+    -90.472192,
+    36.053625,
+    -90.472192,
+    36.053625
+],
+  "geometry": {"coordinates":[-90.47219200000001,36.053625],"type":"Point"}
 }

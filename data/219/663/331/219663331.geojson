@@ -2,13 +2,14 @@
   "id": 219663331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.719101,35.566503,-90.719101,35.566503",
     "geom:latitude":35.566503,
     "geom:longitude":-90.719101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 Brooks St",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219663331,
-    "wof:lastmodified":1449072999,
+    "wof:lastmodified":1466324568,
     "wof:name":"Natural Resources Conservation Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "conservation"
     ]
 },
-  "bbox": [-90.719101,35.566503,-90.719101,35.566503],
-  "geometry": {"coordinates":[-90.719101,35.566503],"type":"Point"}
+  "bbox": [
+    -90.719101,
+    35.566503,
+    -90.719101,
+    35.566503
+],
+  "geometry": {"coordinates":[-90.71910099999999,35.566503],"type":"Point"}
 }

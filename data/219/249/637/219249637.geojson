@@ -2,13 +2,14 @@
   "id": 219249637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.86548,33.952079,-93.86548,33.952079",
     "geom:latitude":33.952079,
     "geom:longitude":-93.86548,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1547 Highway 371 W",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219249637,
-    "wof:lastmodified":1449070558,
+    "wof:lastmodified":1466321330,
     "wof:name":"Triple J's Full Service Auto Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "equipment-service"
     ]
 },
-  "bbox": [-93.86548,33.952079,-93.86548,33.952079],
-  "geometry": {"coordinates":[-93.86548,33.952079],"type":"Point"}
+  "bbox": [
+    -93.86548,
+    33.952079,
+    -93.86548,
+    33.952079
+],
+  "geometry": {"coordinates":[-93.86548000000001,33.952079],"type":"Point"}
 }

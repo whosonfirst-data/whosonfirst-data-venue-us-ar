@@ -2,13 +2,14 @@
   "id": 219444235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.678131,35.292289,-91.678131,35.292289",
     "geom:latitude":35.292289,
     "geom:longitude":-91.678131,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"379 Highway 385 N",
     "sg:city":"Judsonia",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219444235,
-    "wof:lastmodified":1449073428,
+    "wof:lastmodified":1466323301,
     "wof:name":"Whittington Body Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "repairing"
     ]
 },
-  "bbox": [-91.678131,35.292289,-91.678131,35.292289],
-  "geometry": {"coordinates":[-91.678131,35.292289],"type":"Point"}
+  "bbox": [
+    -91.678131,
+    35.292289,
+    -91.678131,
+    35.292289
+],
+  "geometry": {"coordinates":[-91.67813099999999,35.292289],"type":"Point"}
 }

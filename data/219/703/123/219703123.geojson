@@ -2,13 +2,14 @@
   "id": 219703123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.526151,36.001257,-90.526151,36.001257",
     "geom:latitude":36.001257,
     "geom:longitude":-90.526151,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2901 Stonegate Dr",
     "sg:city":"Paragould",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219703123,
-    "wof:lastmodified":1449071472,
+    "wof:lastmodified":1466324779,
     "wof:name":"Mid South Turf Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-90.526151,36.001257,-90.526151,36.001257],
+  "bbox": [
+    -90.526151,
+    36.001257,
+    -90.526151,
+    36.001257
+],
   "geometry": {"coordinates":[-90.526151,36.001257],"type":"Point"}
 }

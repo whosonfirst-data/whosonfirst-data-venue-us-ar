@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102203345",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.361274,34.772881,-92.361274,34.772881",
     "geom:latitude":34.772881,
     "geom:longitude":-92.361274,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2121 Watt St",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.brightonpointe.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878753,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85878753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102203345",
-    "wof:lastmodified":1449068841,
+    "wof:lastmodified":1466320742,
     "wof:name":"Wayne Moore Construction",
     "wof:parent_id":85878753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.361274,34.772881,-92.361274,34.772881],
-  "geometry": {"coordinates":[-92.361274,34.772881],"type":"Point"}
+  "bbox": [
+    -92.361274,
+    34.772881,
+    -92.361274,
+    34.772881
+],
+  "geometry": {"coordinates":[-92.36127399999999,34.772881],"type":"Point"}
 }

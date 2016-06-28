@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102421213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.243963,34.549774,-93.243963,34.549774",
     "geom:latitude":34.549774,
     "geom:longitude":-93.243963,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"158 Meek Lot Ln",
     "sg:city":"Royal",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102421213,
-    "wof:lastmodified":1449069291,
+    "wof:lastmodified":1466325366,
     "wof:name":"Jack Dorlarque Masonry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.243963,34.549774,-93.243963,34.549774],
-  "geometry": {"coordinates":[-93.243963,34.549774],"type":"Point"}
+  "bbox": [
+    -93.243963,
+    34.549774,
+    -93.243963,
+    34.549774
+],
+  "geometry": {"coordinates":[-93.24396299999999,34.549774],"type":"Point"}
 }

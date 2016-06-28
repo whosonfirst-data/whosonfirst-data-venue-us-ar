@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102356679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.614652,34.553293,-93.614652,34.553293",
     "geom:latitude":34.553293,
     "geom:longitude":-93.614652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"430 Ball Park Rd",
     "sg:city":"Mt Ida",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":102356679,
-    "wof:lastmodified":1449069741,
+    "wof:lastmodified":1466324268,
     "wof:name":"Mt Ida Grade School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.614652,34.553293,-93.614652,34.553293],
-  "geometry": {"coordinates":[-93.614652,34.553293],"type":"Point"}
+  "bbox": [
+    -93.614652,
+    34.553293,
+    -93.614652,
+    34.553293
+],
+  "geometry": {"coordinates":[-93.61465200000001,34.553293],"type":"Point"}
 }

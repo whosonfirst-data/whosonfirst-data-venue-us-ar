@@ -2,13 +2,14 @@
   "id": 219767277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.077879,36.330491,-93.077879,36.330491",
     "geom:latitude":36.330491,
     "geom:longitude":-93.077879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4614 Mill Hollow Rd",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219767277,
-    "wof:lastmodified":1449071415,
+    "wof:lastmodified":1466325003,
     "wof:name":"Kirkham Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rental"
     ]
 },
-  "bbox": [-93.077879,36.330491,-93.077879,36.330491],
+  "bbox": [
+    -93.077879,
+    36.330491,
+    -93.077879,
+    36.330491
+],
   "geometry": {"coordinates":[-93.077879,36.330491],"type":"Point"}
 }

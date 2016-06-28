@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102345913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.36325,35.279818,-91.36325,35.279818",
     "geom:latitude":35.279818,
     "geom:longitude":-91.36325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 Sycamore St",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102345913,
-    "wof:lastmodified":1449070003,
+    "wof:lastmodified":1466324052,
     "wof:name":"Ward Chapel Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.36325,35.279818,-91.36325,35.279818],
-  "geometry": {"coordinates":[-91.36325,35.279818],"type":"Point"}
+  "bbox": [
+    -91.36325,
+    35.279818,
+    -91.36325,
+    35.279818
+],
+  "geometry": {"coordinates":[-91.36324999999999,35.279818],"type":"Point"}
 }

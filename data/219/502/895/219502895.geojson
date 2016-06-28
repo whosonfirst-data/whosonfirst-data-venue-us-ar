@@ -2,13 +2,14 @@
   "id": 219502895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.185193,34.444129,-92.185193,34.444129",
     "geom:latitude":34.444129,
     "geom:longitude":-92.185193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 S Highway 365",
     "sg:city":"Redfield",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219502895,
-    "wof:lastmodified":1449072013,
+    "wof:lastmodified":1466323965,
     "wof:name":"Jefferson Security Storag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "patrol"
     ]
 },
-  "bbox": [-92.185193,34.444129,-92.185193,34.444129],
+  "bbox": [
+    -92.185193,
+    34.444129,
+    -92.185193,
+    34.444129
+],
   "geometry": {"coordinates":[-92.185193,34.444129],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102390551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.315126,35.178595,-94.315126,35.178595",
     "geom:latitude":35.178595,
     "geom:longitude":-94.315126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3500 Boone Rd",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102390551,
-    "wof:lastmodified":1449070241,
+    "wof:lastmodified":1466324257,
     "wof:name":"Artwood Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.315126,35.178595,-94.315126,35.178595],
-  "geometry": {"coordinates":[-94.315126,35.178595],"type":"Point"}
+  "bbox": [
+    -94.315126,
+    35.178595,
+    -94.315126,
+    35.178595
+],
+  "geometry": {"coordinates":[-94.31512600000001,35.178595],"type":"Point"}
 }

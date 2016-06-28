@@ -2,13 +2,14 @@
   "id": 219851517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.158981,36.098,-94.158981,36.098",
     "geom:latitude":36.098,
     "geom:longitude":-94.158981,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 W Sunbridge Dr",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219851517,
-    "wof:lastmodified":1449072711,
+    "wof:lastmodified":1466325033,
     "wof:name":"Northwest Arkansas Podiatry Center Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeons"
     ]
 },
-  "bbox": [-94.158981,36.098,-94.158981,36.098],
+  "bbox": [
+    -94.158981,
+    36.098,
+    -94.158981,
+    36.098
+],
   "geometry": {"coordinates":[-94.158981,36.098],"type":"Point"}
 }

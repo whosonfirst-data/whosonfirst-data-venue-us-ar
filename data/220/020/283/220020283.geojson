@@ -2,13 +2,14 @@
   "id": 220020283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.15976,36.177989,-94.15976,36.177989",
     "geom:latitude":36.177989,
     "geom:longitude":-94.15976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"805 Dorman St",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220020283,
-    "wof:lastmodified":1449074394,
+    "wof:lastmodified":1466320491,
     "wof:name":"Campbell Mayhue Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "park"
     ]
 },
-  "bbox": [-94.15976,36.177989,-94.15976,36.177989],
-  "geometry": {"coordinates":[-94.15976,36.177989],"type":"Point"}
+  "bbox": [
+    -94.15976,
+    36.177989,
+    -94.15976,
+    36.177989
+],
+  "geometry": {"coordinates":[-94.15976000000001,36.177989],"type":"Point"}
 }

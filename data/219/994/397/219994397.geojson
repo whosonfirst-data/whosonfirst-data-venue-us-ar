@@ -2,13 +2,14 @@
   "id": 219994397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.161797,36.3288,-94.161797,36.3288",
     "geom:latitude":36.3288,
     "geom:longitude":-94.161797,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2801 Wellington Cir Ofc",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219994397,
-    "wof:lastmodified":1449070547,
+    "wof:lastmodified":1466325446,
     "wof:name":"Wellington Place Apts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-94.161797,36.3288,-94.161797,36.3288],
-  "geometry": {"coordinates":[-94.161797,36.3288],"type":"Point"}
+  "bbox": [
+    -94.161797,
+    36.3288,
+    -94.161797,
+    36.3288
+],
+  "geometry": {"coordinates":[-94.16179700000001,36.3288],"type":"Point"}
 }

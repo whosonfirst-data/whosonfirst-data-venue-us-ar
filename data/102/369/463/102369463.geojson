@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102369463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.481952,36.267602,-94.481952,36.267602",
     "geom:latitude":36.267602,
     "geom:longitude":-94.481952,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"244 E Main St",
     "sg:city":"Gentry",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102369463,
-    "wof:lastmodified":1449070080,
+    "wof:lastmodified":1466324435,
     "wof:name":"Pioneer Pizza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.481952,36.267602,-94.481952,36.267602],
-  "geometry": {"coordinates":[-94.481952,36.267602],"type":"Point"}
+  "bbox": [
+    -94.481952,
+    36.267602,
+    -94.481952,
+    36.267602
+],
+  "geometry": {"coordinates":[-94.48195200000001,36.267602],"type":"Point"}
 }

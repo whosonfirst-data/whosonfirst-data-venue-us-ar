@@ -2,13 +2,14 @@
   "id": 219783643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.1187,36.249566,-93.1187,36.249566",
     "geom:latitude":36.249566,
     "geom:longitude":-93.1187,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 W Industrial Park Rd B",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219783643,
-    "wof:lastmodified":1449070486,
+    "wof:lastmodified":1466325013,
     "wof:name":"Goldie Law Firm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "practice"
     ]
 },
-  "bbox": [-93.1187,36.249566,-93.1187,36.249566],
+  "bbox": [
+    -93.1187,
+    36.249566,
+    -93.1187,
+    36.249566
+],
   "geometry": {"coordinates":[-93.1187,36.249566],"type":"Point"}
 }

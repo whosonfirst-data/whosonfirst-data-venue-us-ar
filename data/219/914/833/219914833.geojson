@@ -2,13 +2,14 @@
   "id": 219914833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.246552,36.035557,-94.246552,36.035557",
     "geom:latitude":36.035557,
     "geom:longitude":-94.246552,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"177 Plover Cv",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219914833,
-    "wof:lastmodified":1449071732,
+    "wof:lastmodified":1466325122,
     "wof:name":"Essence Of Art Academy, Inc.",
     "wof:parent_id":85885421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "producer"
     ]
 },
-  "bbox": [-94.246552,36.035557,-94.246552,36.035557],
-  "geometry": {"coordinates":[-94.246552,36.035557],"type":"Point"}
+  "bbox": [
+    -94.246552,
+    36.035557,
+    -94.246552,
+    36.035557
+],
+  "geometry": {"coordinates":[-94.24655199999999,36.035557],"type":"Point"}
 }

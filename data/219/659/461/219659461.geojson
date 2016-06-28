@@ -2,13 +2,14 @@
   "id": 219659461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.585244,36.408652,-90.585244,36.408652",
     "geom:latitude":36.408652,
     "geom:longitude":-90.585244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"806 Vine St",
     "sg:city":"Corning",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219659461,
-    "wof:lastmodified":1449070768,
+    "wof:lastmodified":1466324566,
     "wof:name":"State Line Steak Fish House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "steak"
     ]
 },
-  "bbox": [-90.585244,36.408652,-90.585244,36.408652],
+  "bbox": [
+    -90.585244,
+    36.408652,
+    -90.585244,
+    36.408652
+],
   "geometry": {"coordinates":[-90.585244,36.408652],"type":"Point"}
 }

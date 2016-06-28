@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102221189",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.235059,33.285877,-93.235059,33.285877",
     "geom:latitude":33.285877,
     "geom:longitude":-93.235059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2206 N Jackson St",
     "sg:city":"Magnolia",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102221189",
-    "wof:lastmodified":1449068828,
+    "wof:lastmodified":1466321138,
     "wof:name":"Simsoft",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.235059,33.285877,-93.235059,33.285877],
-  "geometry": {"coordinates":[-93.235059,33.285877],"type":"Point"}
+  "bbox": [
+    -93.235059,
+    33.285877,
+    -93.235059,
+    33.285877
+],
+  "geometry": {"coordinates":[-93.23505900000001,33.285877],"type":"Point"}
 }

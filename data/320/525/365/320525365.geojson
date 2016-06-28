@@ -2,13 +2,14 @@
   "id": 320525365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.834205,36.598733,-94.834205,36.598733",
     "geom:latitude":36.598733,
     "geom:longitude":-94.834205,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5041 Lake Breeze Rd",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320525365,
-    "wof:lastmodified":1449014186,
+    "wof:lastmodified":1466320574,
     "wof:name":"Hidden Cove Development Inc",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nonresidential"
     ]
 },
-  "bbox": [-94.834205,36.598733,-94.834205,36.598733],
+  "bbox": [
+    -94.834205,
+    36.598733,
+    -94.834205,
+    36.598733
+],
   "geometry": {"coordinates":[-94.834205,36.598733],"type":"Point"}
 }

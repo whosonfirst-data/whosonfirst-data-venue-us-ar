@@ -2,13 +2,14 @@
   "id": 219320899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.276001,34.53455,-93.276001,34.53455",
     "geom:latitude":34.53455,
     "geom:longitude":-93.276001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2101 Owl Creek Rd",
     "sg:city":"Royal",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219320899,
-    "wof:lastmodified":1449071291,
+    "wof:lastmodified":1466321901,
     "wof:name":"Rolling T Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "bureau"
     ]
 },
-  "bbox": [-93.276001,34.53455,-93.276001,34.53455],
-  "geometry": {"coordinates":[-93.276001,34.53455],"type":"Point"}
+  "bbox": [
+    -93.276001,
+    34.53455,
+    -93.276001,
+    34.53455
+],
+  "geometry": {"coordinates":[-93.27600099999999,34.53455],"type":"Point"}
 }

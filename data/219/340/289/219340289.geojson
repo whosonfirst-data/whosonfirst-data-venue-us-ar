@@ -2,13 +2,14 @@
   "id": 219340289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.557552,34.542036,-92.557552,34.542036",
     "geom:latitude":34.542036,
     "geom:longitude":-92.557552,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2710 Social Hl",
     "sg:city":"Benton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219340289,
-    "wof:lastmodified":1449073129,
+    "wof:lastmodified":1466322094,
     "wof:name":"Angela Griffin",
     "wof:parent_id":85844395,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-92.557552,34.542036,-92.557552,34.542036],
+  "bbox": [
+    -92.557552,
+    34.542036,
+    -92.557552,
+    34.542036
+],
   "geometry": {"coordinates":[-92.557552,34.542036],"type":"Point"}
 }

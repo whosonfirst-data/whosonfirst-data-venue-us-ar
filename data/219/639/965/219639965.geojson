@@ -2,13 +2,14 @@
   "id": 219639965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.701841,35.879139,-90.701841,35.879139",
     "geom:latitude":35.879139,
     "geom:longitude":-90.701841,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"213 E Thomas Green Rd",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219639965,
-    "wof:lastmodified":1449073894,
+    "wof:lastmodified":1466324644,
     "wof:name":"Math & Science Magnet School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.701841,35.879139,-90.701841,35.879139],
+  "bbox": [
+    -90.701841,
+    35.879139,
+    -90.701841,
+    35.879139
+],
   "geometry": {"coordinates":[-90.701841,35.879139],"type":"Point"}
 }

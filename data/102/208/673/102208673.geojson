@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102208673",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.358849,35.475907,-94.358849,35.475907",
     "geom:latitude":35.475907,
     "geom:longitude":-94.358849,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Northridge Dr",
     "sg:city":"Van Buren",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102208673",
-    "wof:lastmodified":1449068082,
+    "wof:lastmodified":1466320911,
     "wof:name":"Northridge Middle School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.358849,35.475907,-94.358849,35.475907],
-  "geometry": {"coordinates":[-94.358849,35.475907],"type":"Point"}
+  "bbox": [
+    -94.358849,
+    35.475907,
+    -94.358849,
+    35.475907
+],
+  "geometry": {"coordinates":[-94.35884900000001,35.475907],"type":"Point"}
 }

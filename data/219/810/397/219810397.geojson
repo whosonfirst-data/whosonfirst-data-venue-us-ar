@@ -2,13 +2,14 @@
   "id": 219810397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.76087,36.352022,-92.76087,36.352022",
     "geom:latitude":36.352022,
     "geom:longitude":-92.76087,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"852 Acorn Ln",
     "sg:city":"Yellville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219810397,
-    "wof:lastmodified":1449071431,
+    "wof:lastmodified":1466324957,
     "wof:name":"Cjs Recharging Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "bureau"
     ]
 },
-  "bbox": [-92.76087,36.352022,-92.76087,36.352022],
+  "bbox": [
+    -92.76087,
+    36.352022,
+    -92.76087,
+    36.352022
+],
   "geometry": {"coordinates":[-92.76087,36.352022],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219893997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.214561,36.357021,-94.214561,36.357021",
     "geom:latitude":36.357021,
     "geom:longitude":-94.214561,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"501 SW 14th St",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -76,10 +77,11 @@
         }
     ],
     "wof:id":219893997,
-    "wof:lastmodified":1449073259,
+    "wof:lastmodified":1466325095,
     "wof:name":"Norhtwest Pump & Water Treatment",
     "wof:parent_id":85895807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -95,6 +97,11 @@
         "systems-equipment"
     ]
 },
-  "bbox": [-94.214561,36.357021,-94.214561,36.357021],
+  "bbox": [
+    -94.214561,
+    36.357021,
+    -94.214561,
+    36.357021
+],
   "geometry": {"coordinates":[-94.214561,36.357021],"type":"Point"}
 }

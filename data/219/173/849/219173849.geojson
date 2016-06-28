@@ -2,13 +2,14 @@
   "id": 219173849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.49279,33.348225,-91.49279,33.348225",
     "geom:latitude":33.348225,
     "geom:longitude":-91.49279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1422 Highway 165 N",
     "sg:city":"Montrose",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219173849,
-    "wof:lastmodified":1449071073,
+    "wof:lastmodified":1466320582,
     "wof:name":"Bo's Deli & Grocery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.49279,33.348225,-91.49279,33.348225],
+  "bbox": [
+    -91.49279,
+    33.348225,
+    -91.49279,
+    33.348225
+],
   "geometry": {"coordinates":[-91.49279,33.348225],"type":"Point"}
 }

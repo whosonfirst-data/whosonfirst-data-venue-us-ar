@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102203997",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.252427,34.762941,-92.252427,34.762941",
     "geom:latitude":34.762941,
     "geom:longitude":-92.252427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1336 Henderson Dr",
     "sg:city":"N Little Rock",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102082497,
-        85633793,
         85688549,
-        85878757
+        85633793,
+        85878757,
+        102082497
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102203997",
-    "wof:lastmodified":1449068841,
+    "wof:lastmodified":1466320881,
     "wof:name":"Velocity Express Inc",
     "wof:parent_id":85878757,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.252427,34.762941,-92.252427,34.762941],
+  "bbox": [
+    -92.252427,
+    34.762941,
+    -92.252427,
+    34.762941
+],
   "geometry": {"coordinates":[-92.252427,34.762941],"type":"Point"}
 }

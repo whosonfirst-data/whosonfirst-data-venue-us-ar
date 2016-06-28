@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102371993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.094277,36.349917,-94.094277,36.349917",
     "geom:latitude":36.349917,
     "geom:longitude":-94.094277,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1903 Sunshine Rd",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102371993,
-    "wof:lastmodified":1449069651,
+    "wof:lastmodified":1466324566,
     "wof:name":"Offset Press",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.094277,36.349917,-94.094277,36.349917],
-  "geometry": {"coordinates":[-94.094277,36.349917],"type":"Point"}
+  "bbox": [
+    -94.094277,
+    36.349917,
+    -94.094277,
+    36.349917
+],
+  "geometry": {"coordinates":[-94.09427700000001,36.349917],"type":"Point"}
 }

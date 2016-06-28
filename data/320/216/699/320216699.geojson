@@ -2,13 +2,14 @@
   "id": 320216699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.527916,36.175506,-94.527916,36.175506",
     "geom:latitude":36.175506,
     "geom:longitude":-94.527916,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"903 S Lincoln St",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320216699,
-    "wof:lastmodified":1449014536,
+    "wof:lastmodified":1466320481,
     "wof:name":"DMT Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-94.527916,36.175506,-94.527916,36.175506],
+  "bbox": [
+    -94.527916,
+    36.175506,
+    -94.527916,
+    36.175506
+],
   "geometry": {"coordinates":[-94.527916,36.175506],"type":"Point"}
 }

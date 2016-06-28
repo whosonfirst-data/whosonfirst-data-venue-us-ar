@@ -2,13 +2,14 @@
   "id": 219375879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.447844,35.523096,-92.447844,35.523096",
     "geom:latitude":35.523096,
     "geom:longitude":-92.447844,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"705 Highway 9 W",
     "sg:city":"Clinton",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":219375879,
-    "wof:lastmodified":1449070495,
+    "wof:lastmodified":1466322638,
     "wof:name":"J D Tool & Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "engineer"
     ]
 },
-  "bbox": [-92.447844,35.523096,-92.447844,35.523096],
+  "bbox": [
+    -92.447844,
+    35.523096,
+    -92.447844,
+    35.523096
+],
   "geometry": {"coordinates":[-92.447844,35.523096],"type":"Point"}
 }

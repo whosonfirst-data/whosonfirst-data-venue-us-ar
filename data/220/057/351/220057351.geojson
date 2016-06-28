@@ -2,13 +2,14 @@
   "id": 220057351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.148859,36.145719,-94.148859,36.145719",
     "geom:latitude":36.145719,
     "geom:longitude":-94.148859,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1603 W Shady Grove Rd",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220057351,
-    "wof:lastmodified":1449074428,
+    "wof:lastmodified":1466320912,
     "wof:name":"Placo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "products-wholesale"
     ]
 },
-  "bbox": [-94.148859,36.145719,-94.148859,36.145719],
+  "bbox": [
+    -94.148859,
+    36.145719,
+    -94.148859,
+    36.145719
+],
   "geometry": {"coordinates":[-94.148859,36.145719],"type":"Point"}
 }

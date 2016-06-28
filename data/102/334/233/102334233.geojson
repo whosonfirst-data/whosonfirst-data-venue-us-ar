@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102334233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.432372,33.212978,-91.432372,33.212978",
     "geom:latitude":33.212978,
     "geom:longitude":-91.432372,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2004 Portland Rd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102334233,
-    "wof:lastmodified":1449068482,
+    "wof:lastmodified":1466323707,
     "wof:name":"Thomas E Moyers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.432372,33.212978,-91.432372,33.212978],
+  "bbox": [
+    -91.432372,
+    33.212978,
+    -91.432372,
+    33.212978
+],
   "geometry": {"coordinates":[-91.432372,33.212978],"type":"Point"}
 }

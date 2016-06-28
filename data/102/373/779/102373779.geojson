@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102373779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.208327,36.051762,-94.208327,36.051762",
     "geom:latitude":36.051762,
     "geom:longitude":-94.208327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3359 W Old Farmington Rd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102373779,
-    "wof:lastmodified":1449068990,
+    "wof:lastmodified":1466320791,
     "wof:name":"Apache Knife",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.208327,36.051762,-94.208327,36.051762],
+  "bbox": [
+    -94.208327,
+    36.051762,
+    -94.208327,
+    36.051762
+],
   "geometry": {"coordinates":[-94.208327,36.051762],"type":"Point"}
 }

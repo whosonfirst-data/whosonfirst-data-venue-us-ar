@@ -2,13 +2,14 @@
   "id": 219527225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.732098,35.250751,-91.732098,35.250751",
     "geom:latitude":35.250751,
     "geom:longitude":-91.732098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"509 E Race Ave Ste 2",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219527225,
-    "wof:lastmodified":1449073208,
+    "wof:lastmodified":1466324160,
     "wof:name":"La Fiesta Mercado",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.732098,35.250751,-91.732098,35.250751],
-  "geometry": {"coordinates":[-91.732098,35.250751],"type":"Point"}
+  "bbox": [
+    -91.732098,
+    35.250751,
+    -91.732098,
+    35.250751
+],
+  "geometry": {"coordinates":[-91.73209799999999,35.250751],"type":"Point"}
 }

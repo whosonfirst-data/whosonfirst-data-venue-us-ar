@@ -2,13 +2,14 @@
   "id": 219617101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.713058,35.247677,-90.713058,35.247677",
     "geom:latitude":35.247677,
     "geom:longitude":-90.713058,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3240 Highway 64 E",
     "sg:city":"Wynne",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219617101,
-    "wof:lastmodified":1449070494,
+    "wof:lastmodified":1466324605,
     "wof:name":"Hale Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "trucking"
     ]
 },
-  "bbox": [-90.713058,35.247677,-90.713058,35.247677],
+  "bbox": [
+    -90.713058,
+    35.247677,
+    -90.713058,
+    35.247677
+],
   "geometry": {"coordinates":[-90.713058,35.247677],"type":"Point"}
 }

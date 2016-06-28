@@ -2,13 +2,14 @@
   "id": 219822559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.163406,36.066399,-94.163406,36.066399",
     "geom:latitude":36.066399,
     "geom:longitude":-94.163406,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"311 W Dickson St",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219822559,
-    "wof:lastmodified":1449073811,
+    "wof:lastmodified":1466324993,
     "wof:name":"Sideways",
     "wof:parent_id":85885435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "store"
     ]
 },
-  "bbox": [-94.163406,36.066399,-94.163406,36.066399],
-  "geometry": {"coordinates":[-94.163406,36.066399],"type":"Point"}
+  "bbox": [
+    -94.163406,
+    36.066399,
+    -94.163406,
+    36.066399
+],
+  "geometry": {"coordinates":[-94.16340599999999,36.066399],"type":"Point"}
 }

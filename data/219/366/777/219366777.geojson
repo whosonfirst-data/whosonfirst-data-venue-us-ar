@@ -2,13 +2,14 @@
   "id": 219366777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.081145,34.929754,-92.081145,34.929754",
     "geom:latitude":34.929754,
     "geom:longitude":-92.081145,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6715 John Harden Dr",
     "sg:city":"Cabot",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":219366777,
-    "wof:lastmodified":1449072977,
+    "wof:lastmodified":1466322523,
     "wof:name":"Sensations",
     "wof:parent_id":85852337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "arcade"
     ]
 },
-  "bbox": [-92.081145,34.929754,-92.081145,34.929754],
-  "geometry": {"coordinates":[-92.081145,34.929754],"type":"Point"}
+  "bbox": [
+    -92.081145,
+    34.929754,
+    -92.081145,
+    34.929754
+],
+  "geometry": {"coordinates":[-92.08114500000001,34.929754],"type":"Point"}
 }

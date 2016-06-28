@@ -2,13 +2,14 @@
   "id": 219195149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.167117,33.04221,-93.167117,33.04221",
     "geom:latitude":33.04221,
     "geom:longitude":-93.167117,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 W Columbia Road 14",
     "sg:city":"Emerson",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219195149,
-    "wof:lastmodified":1449072704,
+    "wof:lastmodified":1466320826,
     "wof:name":"Willamette Industries Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contract"
     ]
 },
-  "bbox": [-93.167117,33.04221,-93.167117,33.04221],
+  "bbox": [
+    -93.167117,
+    33.04221,
+    -93.167117,
+    33.04221
+],
   "geometry": {"coordinates":[-93.167117,33.04221],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219158569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.813087,33.592018,-91.813087,33.592018",
     "geom:latitude":33.592018,
     "geom:longitude":-91.813087,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"580 University Dr",
     "sg:city":"Monticello",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219158569,
-    "wof:lastmodified":1449072741,
+    "wof:lastmodified":1466320457,
     "wof:name":"USPS - United States Post Office - Univ Of Ark At Monticello",
     "wof:parent_id":85811775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "shipping"
     ]
 },
-  "bbox": [-91.813087,33.592018,-91.813087,33.592018],
+  "bbox": [
+    -91.813087,
+    33.592018,
+    -91.813087,
+    33.592018
+],
   "geometry": {"coordinates":[-91.813087,33.592018],"type":"Point"}
 }

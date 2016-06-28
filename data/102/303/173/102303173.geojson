@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102303173",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.169447,34.893264,-92.169447,34.893264",
     "geom:latitude":34.893264,
     "geom:longitude":-92.169447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"183 Alabama Dr",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102303173",
-    "wof:lastmodified":1449067770,
+    "wof:lastmodified":1466323048,
     "wof:name":"Kanter Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.169447,34.893264,-92.169447,34.893264],
-  "geometry": {"coordinates":[-92.169447,34.893264],"type":"Point"}
+  "bbox": [
+    -92.169447,
+    34.893264,
+    -92.169447,
+    34.893264
+],
+  "geometry": {"coordinates":[-92.16944700000001,34.893264],"type":"Point"}
 }

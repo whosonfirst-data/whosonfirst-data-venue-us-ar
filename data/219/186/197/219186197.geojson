@@ -2,13 +2,14 @@
   "id": 219186197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.193024,33.558938,-92.193024,33.558938",
     "geom:latitude":33.558938,
     "geom:longitude":-92.193024,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"827 Bradley 7 Rd S",
     "sg:city":"Warren",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219186197,
-    "wof:lastmodified":1449073166,
+    "wof:lastmodified":1466320683,
     "wof:name":"Harvey Darrell Jr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-92.193024,33.558938,-92.193024,33.558938],
-  "geometry": {"coordinates":[-92.193024,33.558938],"type":"Point"}
+  "bbox": [
+    -92.193024,
+    33.558938,
+    -92.193024,
+    33.558938
+],
+  "geometry": {"coordinates":[-92.19302399999999,33.558938],"type":"Point"}
 }

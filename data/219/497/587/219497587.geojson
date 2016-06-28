@@ -2,13 +2,14 @@
   "id": 219497587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.794463,35.018275,-92.794463,35.018275",
     "geom:latitude":35.018275,
     "geom:longitude":-92.794463,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1542 Highway 9 S",
     "sg:city":"Perryville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219497587,
-    "wof:lastmodified":1449073860,
+    "wof:lastmodified":1466323923,
     "wof:name":"Jones Family Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "family"
     ]
 },
-  "bbox": [-92.794463,35.018275,-92.794463,35.018275],
-  "geometry": {"coordinates":[-92.794463,35.018275],"type":"Point"}
+  "bbox": [
+    -92.794463,
+    35.018275,
+    -92.794463,
+    35.018275
+],
+  "geometry": {"coordinates":[-92.79446299999999,35.018275],"type":"Point"}
 }

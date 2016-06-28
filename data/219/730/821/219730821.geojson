@@ -2,13 +2,14 @@
   "id": 219730821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.594357,35.821673,-91.594357,35.821673",
     "geom:latitude":35.821673,
     "geom:longitude":-91.594357,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3675 N. Saint Louis St.",
     "sg:city":"Batesville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219730821,
-    "wof:lastmodified":1449073346,
+    "wof:lastmodified":1466324894,
     "wof:name":"The Old Country Church",
     "wof:parent_id":85845643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "churches-pentecostal"
     ]
 },
-  "bbox": [-91.594357,35.821673,-91.594357,35.821673],
+  "bbox": [
+    -91.594357,
+    35.821673,
+    -91.594357,
+    35.821673
+],
   "geometry": {"coordinates":[-91.594357,35.821673],"type":"Point"}
 }

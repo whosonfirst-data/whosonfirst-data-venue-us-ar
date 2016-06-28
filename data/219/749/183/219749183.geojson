@@ -2,13 +2,14 @@
   "id": 219749183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.831911,36.361372,-91.831911,36.361372",
     "geom:latitude":36.361372,
     "geom:longitude":-91.831911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"485 S Main St",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219749183,
-    "wof:lastmodified":1449071412,
+    "wof:lastmodified":1466324907,
     "wof:name":"Immanuel Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "churches-baptist"
     ]
 },
-  "bbox": [-91.831911,36.361372,-91.831911,36.361372],
-  "geometry": {"coordinates":[-91.831911,36.361372],"type":"Point"}
+  "bbox": [
+    -91.831911,
+    36.361372,
+    -91.831911,
+    36.361372
+],
+  "geometry": {"coordinates":[-91.83191100000001,36.361372],"type":"Point"}
 }

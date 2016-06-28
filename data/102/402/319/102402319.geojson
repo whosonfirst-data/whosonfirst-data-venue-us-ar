@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102402319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.043287,34.210095,-92.043287,34.210095",
     "geom:latitude":34.210095,
     "geom:longitude":-92.043287,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1921 S Blake St",
     "sg:city":"Pine Bluff",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102402319,
-    "wof:lastmodified":1449068554,
+    "wof:lastmodified":1466324762,
     "wof:name":"Lee's Car Care Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.043287,34.210095,-92.043287,34.210095],
-  "geometry": {"coordinates":[-92.043287,34.210095],"type":"Point"}
+  "bbox": [
+    -92.043287,
+    34.210095,
+    -92.043287,
+    34.210095
+],
+  "geometry": {"coordinates":[-92.04328700000001,34.210095],"type":"Point"}
 }

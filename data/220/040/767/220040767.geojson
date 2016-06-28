@@ -2,13 +2,14 @@
   "id": 220040767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.14502,36.159191,-94.14502,36.159191",
     "geom:latitude":36.159191,
     "geom:longitude":-94.14502,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2871 American St Ste A",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -60,16 +61,22 @@
         }
     ],
     "wof:id":220040767,
-    "wof:lastmodified":1449074848,
+    "wof:lastmodified":1466320550,
     "wof:name":"Pure Luxury Salon & Spa, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cosmetologist"
     ]
 },
-  "bbox": [-94.14502,36.159191,-94.14502,36.159191],
+  "bbox": [
+    -94.14502,
+    36.159191,
+    -94.14502,
+    36.159191
+],
   "geometry": {"coordinates":[-94.14502,36.159191],"type":"Point"}
 }

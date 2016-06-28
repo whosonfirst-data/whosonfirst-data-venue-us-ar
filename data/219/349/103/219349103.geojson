@@ -2,13 +2,14 @@
   "id": 219349103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.53813,34.615437,-92.53813,34.615437",
     "geom:latitude":34.615437,
     "geom:longitude":-92.53813,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3422 Salem Rd",
     "sg:city":"Benton",
     "sg:classifiers":[
@@ -75,10 +76,11 @@
         }
     ],
     "wof:id":219349103,
-    "wof:lastmodified":1449071723,
+    "wof:lastmodified":1466322253,
     "wof:name":"Keith's Glass & Mirror",
     "wof:parent_id":85817531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -99,6 +101,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-92.53813,34.615437,-92.53813,34.615437],
+  "bbox": [
+    -92.53813,
+    34.615437,
+    -92.53813,
+    34.615437
+],
   "geometry": {"coordinates":[-92.53813,34.615437],"type":"Point"}
 }

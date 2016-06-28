@@ -2,13 +2,14 @@
   "id": 219810221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.889328,36.279989,-92.889328,36.279989",
     "geom:latitude":36.279989,
     "geom:longitude":-92.889328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 N MILL ST",
     "sg:city":"Yellville",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":219810221,
-    "wof:lastmodified":1449071431,
+    "wof:lastmodified":1466324956,
     "wof:name":"Cj's Country Attic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "supply"
     ]
 },
-  "bbox": [-92.889328,36.279989,-92.889328,36.279989],
-  "geometry": {"coordinates":[-92.889328,36.279989],"type":"Point"}
+  "bbox": [
+    -92.889328,
+    36.279989,
+    -92.889328,
+    36.279989
+],
+  "geometry": {"coordinates":[-92.88932800000001,36.279989],"type":"Point"}
 }

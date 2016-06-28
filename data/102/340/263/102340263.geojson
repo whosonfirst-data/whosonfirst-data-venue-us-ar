@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102340263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.183748,34.828203,-92.183748,34.828203",
     "geom:latitude":34.828203,
     "geom:longitude":-92.183748,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4600 Rixie Rd",
     "sg:city":"N Little Rock",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837729,
+        85688549,
         85633793,
         85921251,
         102082497,
-        85688549
+        85837729
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102340263,
-    "wof:lastmodified":1449069648,
+    "wof:lastmodified":1466323796,
     "wof:name":"Royal Oaks Mobile Home Park",
     "wof:parent_id":85837729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.183748,34.828203,-92.183748,34.828203],
-  "geometry": {"coordinates":[-92.183748,34.828203],"type":"Point"}
+  "bbox": [
+    -92.183748,
+    34.828203,
+    -92.183748,
+    34.828203
+],
+  "geometry": {"coordinates":[-92.18374799999999,34.828203],"type":"Point"}
 }

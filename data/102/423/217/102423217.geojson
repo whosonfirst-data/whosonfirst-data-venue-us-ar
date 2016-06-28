@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102423217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.268527,34.464667,-93.268527,34.464667",
     "geom:latitude":34.464667,
     "geom:longitude":-93.268527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"353 Lansend Rd",
     "sg:city":"Royal",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102423217,
-    "wof:lastmodified":1449068208,
+    "wof:lastmodified":1466325366,
     "wof:name":"Weston Roofing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.268527,34.464667,-93.268527,34.464667],
-  "geometry": {"coordinates":[-93.268527,34.464667],"type":"Point"}
+  "bbox": [
+    -93.268527,
+    34.464667,
+    -93.268527,
+    34.464667
+],
+  "geometry": {"coordinates":[-93.26852700000001,34.464667],"type":"Point"}
 }

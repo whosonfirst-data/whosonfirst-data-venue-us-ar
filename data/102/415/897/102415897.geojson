@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102415897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.90565,35.936472,-89.90565,35.936472",
     "geom:latitude":35.936472,
     "geom:longitude":-89.90565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 W Moultrie Dr",
     "sg:city":"Blytheville",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102415897,
-    "wof:lastmodified":1449069537,
+    "wof:lastmodified":1466325403,
     "wof:name":"Sunkissed Tans",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.90565,35.936472,-89.90565,35.936472],
-  "geometry": {"coordinates":[-89.90565,35.936472],"type":"Point"}
+  "bbox": [
+    -89.90565,
+    35.936472,
+    -89.90565,
+    35.936472
+],
+  "geometry": {"coordinates":[-89.90564999999999,35.936472],"type":"Point"}
 }

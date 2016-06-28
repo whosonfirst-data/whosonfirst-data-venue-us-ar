@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102434343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.243249,33.274406,-93.243249,33.274406",
     "geom:latitude":33.274406,
     "geom:longitude":-93.243249,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 N Vine St",
     "sg:city":"Magnolia",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102434343,
-    "wof:lastmodified":1449068315,
+    "wof:lastmodified":1466325660,
     "wof:name":"Royce's Body Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.243249,33.274406,-93.243249,33.274406],
-  "geometry": {"coordinates":[-93.243249,33.274406],"type":"Point"}
+  "bbox": [
+    -93.243249,
+    33.274406,
+    -93.243249,
+    33.274406
+],
+  "geometry": {"coordinates":[-93.24324900000001,33.274406],"type":"Point"}
 }

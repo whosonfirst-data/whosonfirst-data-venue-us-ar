@@ -2,13 +2,14 @@
   "id": 219378567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.41556,35.04495,-92.41556,35.04495",
     "geom:latitude":35.04495,
     "geom:longitude":-92.41556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11-01 Earl Dr",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219378567,
-    "wof:lastmodified":1449072772,
+    "wof:lastmodified":1466322661,
     "wof:name":"Handyman Remodeling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "wallpaper"
     ]
 },
-  "bbox": [-92.41556,35.04495,-92.41556,35.04495],
+  "bbox": [
+    -92.41556,
+    35.04495,
+    -92.41556,
+    35.04495
+],
   "geometry": {"coordinates":[-92.41556,35.04495],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219974757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.04219,36.344159,-94.04219,36.344159",
     "geom:latitude":36.344159,
     "geom:longitude":-94.04219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15372 Tulsa Dr",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219974757,
-    "wof:lastmodified":1449073452,
+    "wof:lastmodified":1466325230,
     "wof:name":"Samir M Sidani",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeons"
     ]
 },
-  "bbox": [-94.04219,36.344159,-94.04219,36.344159],
-  "geometry": {"coordinates":[-94.04219,36.344159],"type":"Point"}
+  "bbox": [
+    -94.04219,
+    36.344159,
+    -94.04219,
+    36.344159
+],
+  "geometry": {"coordinates":[-94.04219000000001,36.344159],"type":"Point"}
 }

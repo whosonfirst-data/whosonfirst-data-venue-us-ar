@@ -2,13 +2,14 @@
   "id": 235961657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.478247,35.244445,-94.478247,35.244445",
     "geom:latitude":35.244445,
     "geom:longitude":-94.478247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1302 S Pocola Blvd",
     "sg:city":"Pocola",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":235961657,
-    "wof:lastmodified":1449008597,
+    "wof:lastmodified":1466320456,
     "wof:name":"Arkansas Valley Electric Cooperative Corporation",
     "wof:parent_id":85809847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment-testing"
     ]
 },
-  "bbox": [-94.478247,35.244445,-94.478247,35.244445],
+  "bbox": [
+    -94.478247,
+    35.244445,
+    -94.478247,
+    35.244445
+],
   "geometry": {"coordinates":[-94.478247,35.244445],"type":"Point"}
 }

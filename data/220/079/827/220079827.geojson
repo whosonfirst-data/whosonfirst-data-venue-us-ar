@@ -2,13 +2,14 @@
   "id": 220079827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.460229,35.463593,-93.460229,35.463593",
     "geom:latitude":35.463593,
     "geom:longitude":-93.460229,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"803 S Vine St",
     "sg:city":"Clarksville",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":220079827,
-    "wof:lastmodified":1449074729,
+    "wof:lastmodified":1466321589,
     "wof:name":"Clarksville Gun & Rod",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "gunsmith"
     ]
 },
-  "bbox": [-93.460229,35.463593,-93.460229,35.463593],
+  "bbox": [
+    -93.460229,
+    35.463593,
+    -93.460229,
+    35.463593
+],
   "geometry": {"coordinates":[-93.460229,35.463593],"type":"Point"}
 }

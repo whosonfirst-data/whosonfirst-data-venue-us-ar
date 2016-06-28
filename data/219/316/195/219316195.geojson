@@ -2,13 +2,14 @@
   "id": 219316195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.772507,34.499332,-93.772507,34.499332",
     "geom:latitude":34.499332,
     "geom:longitude":-93.772507,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 Murphy Rd",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219316195,
-    "wof:lastmodified":1449072778,
+    "wof:lastmodified":1466321865,
     "wof:name":"Clucks Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.772507,34.499332,-93.772507,34.499332],
+  "bbox": [
+    -93.772507,
+    34.499332,
+    -93.772507,
+    34.499332
+],
   "geometry": {"coordinates":[-93.772507,34.499332],"type":"Point"}
 }

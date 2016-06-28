@@ -2,13 +2,14 @@
   "id": 219472307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.718948,35.169651,-92.718948,35.169651",
     "geom:latitude":35.169651,
     "geom:longitude":-92.718948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Medical Services Dr A",
     "sg:city":"Morrilton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219472307,
-    "wof:lastmodified":1449070663,
+    "wof:lastmodified":1466323604,
     "wof:name":"Morrilton Family Dental",
     "wof:parent_id":85850611,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.718948,35.169651,-92.718948,35.169651],
+  "bbox": [
+    -92.718948,
+    35.169651,
+    -92.718948,
+    35.169651
+],
   "geometry": {"coordinates":[-92.718948,35.169651],"type":"Point"}
 }

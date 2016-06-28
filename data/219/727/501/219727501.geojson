@@ -2,13 +2,14 @@
   "id": 219727501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.613721,35.764967,-91.613721,35.764967",
     "geom:latitude":35.764967,
     "geom:longitude":-91.613721,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3162 Harrison St",
     "sg:city":"Batesville",
     "sg:classifiers":[
@@ -86,10 +87,11 @@
         }
     ],
     "wof:id":219727501,
-    "wof:lastmodified":1449070925,
+    "wof:lastmodified":1466324888,
     "wof:name":"Murphy Express",
     "wof:parent_id":85808231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -105,6 +107,11 @@
         "breakfast"
     ]
 },
-  "bbox": [-91.613721,35.764967,-91.613721,35.764967],
+  "bbox": [
+    -91.613721,
+    35.764967,
+    -91.613721,
+    35.764967
+],
   "geometry": {"coordinates":[-91.613721,35.764967],"type":"Point"}
 }

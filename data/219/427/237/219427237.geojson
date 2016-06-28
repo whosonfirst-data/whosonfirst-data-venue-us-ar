@@ -2,13 +2,14 @@
   "id": 219427237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.64682,35.070631,-91.64682,35.070631",
     "geom:latitude":35.070631,
     "geom:longitude":-91.64682,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"236 Mcdoniel Rd",
     "sg:city":"Griffithville",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":219427237,
-    "wof:lastmodified":1449071463,
+    "wof:lastmodified":1466323079,
     "wof:name":"Double Mac Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [-91.64682,35.070631,-91.64682,35.070631],
-  "geometry": {"coordinates":[-91.64682,35.070631],"type":"Point"}
+  "bbox": [
+    -91.64682,
+    35.070631,
+    -91.64682,
+    35.070631
+],
+  "geometry": {"coordinates":[-91.64682000000001,35.070631],"type":"Point"}
 }

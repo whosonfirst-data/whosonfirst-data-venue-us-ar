@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102249033",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.07962,34.493926,-93.07962,34.493926",
     "geom:latitude":34.493926,
     "geom:longitude":-93.07962,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 Albert Pike Rd",
     "sg:city":"Hot Springs",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102249033",
-    "wof:lastmodified":1449067904,
+    "wof:lastmodified":1466321772,
     "wof:name":"Watson Antiques",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.07962,34.493926,-93.07962,34.493926],
-  "geometry": {"coordinates":[-93.07962,34.493926],"type":"Point"}
+  "bbox": [
+    -93.07962,
+    34.493926,
+    -93.07962,
+    34.493926
+],
+  "geometry": {"coordinates":[-93.07962000000001,34.493926],"type":"Point"}
 }

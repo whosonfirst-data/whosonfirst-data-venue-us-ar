@@ -2,13 +2,14 @@
   "id": 220060255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.133202,36.206799,-94.133202,36.206799",
     "geom:latitude":36.206799,
     "geom:longitude":-94.133202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2560 N Lowell Rd",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220060255,
-    "wof:lastmodified":1449074804,
+    "wof:lastmodified":1466320993,
     "wof:name":"Morning News the",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "medium"
     ]
 },
-  "bbox": [-94.133202,36.206799,-94.133202,36.206799],
+  "bbox": [
+    -94.133202,
+    36.206799,
+    -94.133202,
+    36.206799
+],
   "geometry": {"coordinates":[-94.133202,36.206799],"type":"Point"}
 }

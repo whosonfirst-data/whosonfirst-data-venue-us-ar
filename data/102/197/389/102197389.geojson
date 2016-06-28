@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102197389",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.652624,35.770801,-91.652624,35.770801",
     "geom:latitude":35.770801,
     "geom:longitude":-91.652624,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"250 E Main St",
     "sg:city":"Batesville",
     "sg:classifiers":[
@@ -32,11 +33,11 @@
     "sg:website":"www.charliesmenswear.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851415,
+        85688549,
         85633793,
         85920683,
         102083875,
-        85688549
+        85851415
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":"102197389",
-    "wof:lastmodified":1449069877,
+    "wof:lastmodified":1466320635,
     "wof:name":"Charlie's Mens Wear",
     "wof:parent_id":85851415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.652624,35.770801,-91.652624,35.770801],
+  "bbox": [
+    -91.652624,
+    35.770801,
+    -91.652624,
+    35.770801
+],
   "geometry": {"coordinates":[-91.652624,35.770801],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320227511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.769064,36.582829,-94.769064,36.582829",
     "geom:latitude":36.582829,
     "geom:longitude":-94.769064,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1307 S Main St",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320227511,
-    "wof:lastmodified":1449012075,
+    "wof:lastmodified":1466320484,
     "wof:name":"Hearing Crafters Of America",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "impaired"
     ]
 },
-  "bbox": [-94.769064,36.582829,-94.769064,36.582829],
+  "bbox": [
+    -94.769064,
+    36.582829,
+    -94.769064,
+    36.582829
+],
   "geometry": {"coordinates":[-94.769064,36.582829],"type":"Point"}
 }

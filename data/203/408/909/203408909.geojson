@@ -2,13 +2,14 @@
   "id": 203408909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.960205,33.135186,-91.960205,33.135186",
     "geom:latitude":33.135186,
     "geom:longitude":-91.960205,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Pine St",
     "sg:city":"Crossett",
     "sg:classifiers":[
@@ -70,10 +71,11 @@
         }
     ],
     "wof:id":203408909,
-    "wof:lastmodified":1449025184,
+    "wof:lastmodified":1466320536,
     "wof:name":"Allstate Insurance Company - Matthew Goodwin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -85,6 +87,11 @@
         "renter"
     ]
 },
-  "bbox": [-91.960205,33.135186,-91.960205,33.135186],
+  "bbox": [
+    -91.960205,
+    33.135186,
+    -91.960205,
+    33.135186
+],
   "geometry": {"coordinates":[-91.960205,33.135186],"type":"Point"}
 }

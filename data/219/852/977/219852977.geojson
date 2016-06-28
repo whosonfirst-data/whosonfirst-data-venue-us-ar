@@ -2,13 +2,14 @@
   "id": 219852977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.15728,36.095291,-94.15728,36.095291",
     "geom:latitude":36.095291,
     "geom:longitude":-94.15728,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"50 E Township St",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219852977,
-    "wof:lastmodified":1449073321,
+    "wof:lastmodified":1466325123,
     "wof:name":"The Beer Keg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tavern"
     ]
 },
-  "bbox": [-94.15728,36.095291,-94.15728,36.095291],
+  "bbox": [
+    -94.15728,
+    36.095291,
+    -94.15728,
+    36.095291
+],
   "geometry": {"coordinates":[-94.15728,36.095291],"type":"Point"}
 }

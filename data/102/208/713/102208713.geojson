@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102208713",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.189853,34.789875,-92.189853,34.789875",
     "geom:latitude":34.789875,
     "geom:longitude":-92.189853,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2300 Eureka Garden Rd",
     "sg:city":"N Little Rock",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.nlrsd.k12.ar.us",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85818569,
+        85688549,
         85633793,
         85921697,
         102082497,
-        85688549
+        85818569
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102208713",
-    "wof:lastmodified":1449068082,
+    "wof:lastmodified":1466320920,
     "wof:name":"Meadow Park Elementary School",
     "wof:parent_id":85818569,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.189853,34.789875,-92.189853,34.789875],
+  "bbox": [
+    -92.189853,
+    34.789875,
+    -92.189853,
+    34.789875
+],
   "geometry": {"coordinates":[-92.189853,34.789875],"type":"Point"}
 }

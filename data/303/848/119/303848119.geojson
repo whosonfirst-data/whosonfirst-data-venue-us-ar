@@ -2,13 +2,14 @@
   "id": 303848119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.535808,36.184199,-94.535808,36.184199",
     "geom:latitude":36.184199,
     "geom:longitude":-94.535808,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"717 E Main St",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303848119,
-    "wof:lastmodified":1448998463,
+    "wof:lastmodified":1466320616,
     "wof:name":"Salon De Belleza C & G",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.535808,36.184199,-94.535808,36.184199],
+  "bbox": [
+    -94.535808,
+    36.184199,
+    -94.535808,
+    36.184199
+],
   "geometry": {"coordinates":[-94.535808,36.184199],"type":"Point"}
 }

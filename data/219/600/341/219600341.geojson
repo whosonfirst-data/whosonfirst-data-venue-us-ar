@@ -2,13 +2,14 @@
   "id": 219600341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.195999,35.214448,-90.195999,35.214448",
     "geom:latitude":35.214448,
     "geom:longitude":-90.195999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"44 Mound City Rd",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219600341,
-    "wof:lastmodified":1449070715,
+    "wof:lastmodified":1466324582,
     "wof:name":"Farmers Marketing Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocers-wholesale"
     ]
 },
-  "bbox": [-90.195999,35.214448,-90.195999,35.214448],
+  "bbox": [
+    -90.195999,
+    35.214448,
+    -90.195999,
+    35.214448
+],
   "geometry": {"coordinates":[-90.195999,35.214448],"type":"Point"}
 }

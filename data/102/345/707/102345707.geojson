@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102345707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.13581,35.279471,-93.13581,35.279471",
     "geom:latitude":35.279471,
     "geom:longitude":-93.13581,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"321 W B St",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837141,
+        85688549,
         85633793,
         85919515,
         102082511,
-        85688549
+        85837141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102345707,
-    "wof:lastmodified":1449070004,
+    "wof:lastmodified":1466324010,
     "wof:name":"Station House",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.13581,35.279471,-93.13581,35.279471],
-  "geometry": {"coordinates":[-93.13581,35.279471],"type":"Point"}
+  "bbox": [
+    -93.13581,
+    35.279471,
+    -93.13581,
+    35.279471
+],
+  "geometry": {"coordinates":[-93.13581000000001,35.279471],"type":"Point"}
 }

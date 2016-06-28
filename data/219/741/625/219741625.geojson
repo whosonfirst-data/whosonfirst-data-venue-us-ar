@@ -2,13 +2,14 @@
   "id": 219741625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.499923,36.316071,-91.499923,36.316071",
     "geom:latitude":36.316071,
     "geom:longitude":-91.499923,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1995 Highway 62 412",
     "sg:city":"Highland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219741625,
-    "wof:lastmodified":1449070571,
+    "wof:lastmodified":1466324980,
     "wof:name":"The Orthodontic Specialists",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentists-orthodontists"
     ]
 },
-  "bbox": [-91.499923,36.316071,-91.499923,36.316071],
+  "bbox": [
+    -91.499923,
+    36.316071,
+    -91.499923,
+    36.316071
+],
   "geometry": {"coordinates":[-91.499923,36.316071],"type":"Point"}
 }

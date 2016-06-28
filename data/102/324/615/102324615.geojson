@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102324615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.182043,34.395122,-93.182043,34.395122",
     "geom:latitude":34.395122,
     "geom:longitude":-93.182043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"318 Trap Mountain Rd",
     "sg:city":"Hot Springs",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":102324615,
-    "wof:lastmodified":1449069148,
+    "wof:lastmodified":1466323579,
     "wof:name":"Apex Real Estate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.182043,34.395122,-93.182043,34.395122],
-  "geometry": {"coordinates":[-93.182043,34.395122],"type":"Point"}
+  "bbox": [
+    -93.182043,
+    34.395122,
+    -93.182043,
+    34.395122
+],
+  "geometry": {"coordinates":[-93.18204299999999,34.395122],"type":"Point"}
 }

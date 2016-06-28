@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102217403",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.912371,35.954274,-89.912371,35.954274",
     "geom:latitude":35.954274,
     "geom:longitude":-89.912371,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"614 Emery Ln",
     "sg:city":"Blytheville",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102217403",
-    "wof:lastmodified":1449070049,
+    "wof:lastmodified":1466321084,
     "wof:name":"Larrys Grocery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.912371,35.954274,-89.912371,35.954274],
-  "geometry": {"coordinates":[-89.912371,35.954274],"type":"Point"}
+  "bbox": [
+    -89.912371,
+    35.954274,
+    -89.912371,
+    35.954274
+],
+  "geometry": {"coordinates":[-89.91237099999999,35.954274],"type":"Point"}
 }

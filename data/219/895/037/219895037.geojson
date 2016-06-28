@@ -2,13 +2,14 @@
   "id": 219895037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.210899,36.335499,-94.210899,36.335499",
     "geom:latitude":36.335499,
     "geom:longitude":-94.210899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"404 W Highway 12",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219895037,
-    "wof:lastmodified":1449071884,
+    "wof:lastmodified":1466325086,
     "wof:name":"Calvery Temple Church",
     "wof:parent_id":85895821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.210899,36.335499,-94.210899,36.335499],
+  "bbox": [
+    -94.210899,
+    36.335499,
+    -94.210899,
+    36.335499
+],
   "geometry": {"coordinates":[-94.210899,36.335499],"type":"Point"}
 }

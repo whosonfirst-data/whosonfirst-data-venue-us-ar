@@ -2,13 +2,14 @@
   "id": 320769115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.377355,34.486148,-94.377355,34.486148",
     "geom:latitude":34.486148,
     "geom:longitude":-94.377355,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4765 US Hwy 71",
     "sg:city":"Hatfield",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320769115,
-    "wof:lastmodified":1449012513,
+    "wof:lastmodified":1466320646,
     "wof:name":"Just Teasing & Tanning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "salon"
     ]
 },
-  "bbox": [-94.377355,34.486148,-94.377355,34.486148],
-  "geometry": {"coordinates":[-94.377355,34.486148],"type":"Point"}
+  "bbox": [
+    -94.377355,
+    34.486148,
+    -94.377355,
+    34.486148
+],
+  "geometry": {"coordinates":[-94.37735499999999,34.486148],"type":"Point"}
 }

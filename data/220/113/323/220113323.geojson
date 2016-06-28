@@ -2,13 +2,14 @@
   "id": 220113323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.287599,35.183259,-94.287599,35.183259",
     "geom:latitude":35.183259,
     "geom:longitude":-94.287599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20312 Highway 71 S",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":220113323,
-    "wof:lastmodified":1449074806,
+    "wof:lastmodified":1466322472,
     "wof:name":"Saddle Up Tack Shop",
     "wof:parent_id":85808359,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "boots-retail"
     ]
 },
-  "bbox": [-94.287599,35.183259,-94.287599,35.183259],
+  "bbox": [
+    -94.287599,
+    35.183259,
+    -94.287599,
+    35.183259
+],
   "geometry": {"coordinates":[-94.287599,35.183259],"type":"Point"}
 }

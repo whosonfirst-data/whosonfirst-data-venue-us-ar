@@ -2,13 +2,14 @@
   "id": 220008203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.178867,36.304922,-94.178867,36.304922",
     "geom:latitude":36.304922,
     "geom:longitude":-94.178867,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2203 Promenade Blvd",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220008203,
-    "wof:lastmodified":1449074274,
+    "wof:lastmodified":1466320466,
     "wof:name":"Calendar Club",
     "wof:parent_id":85895851,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-94.178867,36.304922,-94.178867,36.304922],
+  "bbox": [
+    -94.178867,
+    36.304922,
+    -94.178867,
+    36.304922
+],
   "geometry": {"coordinates":[-94.178867,36.304922],"type":"Point"}
 }

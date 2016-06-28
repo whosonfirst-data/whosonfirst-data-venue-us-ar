@@ -2,13 +2,14 @@
   "id": 219230045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.021943,33.713182,-94.021943,33.713182",
     "geom:latitude":33.713182,
     "geom:longitude":-94.021943,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"225 Honey Bee Rd",
     "sg:city":"Ashdown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219230045,
-    "wof:lastmodified":1449073023,
+    "wof:lastmodified":1466321171,
     "wof:name":"Bobby Cox Logging",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "logging"
     ]
 },
-  "bbox": [-94.021943,33.713182,-94.021943,33.713182],
-  "geometry": {"coordinates":[-94.021943,33.713182],"type":"Point"}
+  "bbox": [
+    -94.021943,
+    33.713182,
+    -94.021943,
+    33.713182
+],
+  "geometry": {"coordinates":[-94.02194299999999,33.713182],"type":"Point"}
 }

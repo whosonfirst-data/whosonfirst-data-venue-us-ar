@@ -2,13 +2,14 @@
   "id": 220019311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.183713,36.186073,-94.183713,36.186073",
     "geom:latitude":36.186073,
     "geom:longitude":-94.183713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4823 Har Ber Ave",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220019311,
-    "wof:lastmodified":1449074511,
+    "wof:lastmodified":1466320490,
     "wof:name":"Ames Construction Solutions Llc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-94.183713,36.186073,-94.183713,36.186073],
+  "bbox": [
+    -94.183713,
+    36.186073,
+    -94.183713,
+    36.186073
+],
   "geometry": {"coordinates":[-94.183713,36.186073],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219719433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.310494,35.927308,-91.310494,35.927308",
     "geom:latitude":35.927308,
     "geom:longitude":-91.310494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 Lawrence Road 333",
     "sg:city":"Strawberry",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219719433,
-    "wof:lastmodified":1449070848,
+    "wof:lastmodified":1466324966,
     "wof:name":"Foothills Overhead Door",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "door"
     ]
 },
-  "bbox": [-91.310494,35.927308,-91.310494,35.927308],
-  "geometry": {"coordinates":[-91.310494,35.927308],"type":"Point"}
+  "bbox": [
+    -91.310494,
+    35.927308,
+    -91.310494,
+    35.927308
+],
+  "geometry": {"coordinates":[-91.31049400000001,35.927308],"type":"Point"}
 }

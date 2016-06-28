@@ -2,13 +2,14 @@
   "id": 219368305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.037914,34.980797,-92.037914,34.980797",
     "geom:latitude":34.980797,
     "geom:longitude":-92.037914,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 S Rockwood Dr",
     "sg:city":"Cabot",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":219368305,
-    "wof:lastmodified":1449071200,
+    "wof:lastmodified":1466322553,
     "wof:name":"H&R Block",
     "wof:parent_id":85839277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "bookkeeping"
     ]
 },
-  "bbox": [-92.037914,34.980797,-92.037914,34.980797],
+  "bbox": [
+    -92.037914,
+    34.980797,
+    -92.037914,
+    34.980797
+],
   "geometry": {"coordinates":[-92.037914,34.980797],"type":"Point"}
 }

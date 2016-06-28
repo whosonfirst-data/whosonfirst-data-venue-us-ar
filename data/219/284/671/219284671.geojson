@@ -2,13 +2,14 @@
   "id": 219284671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.057198,34.120362,-93.057198,34.120362",
     "geom:latitude":34.120362,
     "geom:longitude":-93.057198,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"922 Clinton St",
     "sg:city":"Arkadelphia",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219284671,
-    "wof:lastmodified":1449072587,
+    "wof:lastmodified":1466321607,
     "wof:name":"Napa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "part"
     ]
 },
-  "bbox": [-93.057198,34.120362,-93.057198,34.120362],
+  "bbox": [
+    -93.057198,
+    34.120362,
+    -93.057198,
+    34.120362
+],
   "geometry": {"coordinates":[-93.057198,34.120362],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102429831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.050699,34.50024,-93.050699,34.50024",
     "geom:latitude":34.50024,
     "geom:longitude":-93.050699,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Valley St",
     "sg:city":"Hot Springs National",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102429831,
-    "wof:lastmodified":1449070071,
+    "wof:lastmodified":1466325529,
     "wof:name":"Peters Paint",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.050699,34.50024,-93.050699,34.50024],
-  "geometry": {"coordinates":[-93.050699,34.50024],"type":"Point"}
+  "bbox": [
+    -93.050699,
+    34.50024,
+    -93.050699,
+    34.50024
+],
+  "geometry": {"coordinates":[-93.05069899999999,34.50024],"type":"Point"}
 }

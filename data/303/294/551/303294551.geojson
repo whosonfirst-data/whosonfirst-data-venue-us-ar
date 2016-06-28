@@ -2,13 +2,14 @@
   "id": 303294551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.401835,36.203289,-94.401835,36.203289",
     "geom:latitude":36.203289,
     "geom:longitude":-94.401835,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16648 Logan Cave Rd",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303294551,
-    "wof:lastmodified":1448999859,
+    "wof:lastmodified":1466320426,
     "wof:name":"Griffin's Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-94.401835,36.203289,-94.401835,36.203289],
-  "geometry": {"coordinates":[-94.401835,36.203289],"type":"Point"}
+  "bbox": [
+    -94.401835,
+    36.203289,
+    -94.401835,
+    36.203289
+],
+  "geometry": {"coordinates":[-94.40183500000001,36.203289],"type":"Point"}
 }

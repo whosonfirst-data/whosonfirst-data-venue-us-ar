@@ -2,13 +2,14 @@
   "id": 219957393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.133904,36.3204,-94.133904,36.3204",
     "geom:latitude":36.3204,
     "geom:longitude":-94.133904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1220 Countrywood Cir",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219957393,
-    "wof:lastmodified":1449073385,
+    "wof:lastmodified":1466325203,
     "wof:name":"Harris Meza Grimes Real Est",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.133904,36.3204,-94.133904,36.3204],
+  "bbox": [
+    -94.133904,
+    36.3204,
+    -94.133904,
+    36.3204
+],
   "geometry": {"coordinates":[-94.133904,36.3204],"type":"Point"}
 }

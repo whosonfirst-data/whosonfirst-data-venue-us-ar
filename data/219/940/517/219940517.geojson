@@ -2,13 +2,14 @@
   "id": 219940517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.135362,36.281909,-94.135362,36.281909",
     "geom:latitude":36.281909,
     "geom:longitude":-94.135362,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1605 Park St",
     "sg:city":"Lowell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219940517,
-    "wof:lastmodified":1449071256,
+    "wof:lastmodified":1466325171,
     "wof:name":"Action Pest Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.135362,36.281909,-94.135362,36.281909],
+  "bbox": [
+    -94.135362,
+    36.281909,
+    -94.135362,
+    36.281909
+],
   "geometry": {"coordinates":[-94.135362,36.281909],"type":"Point"}
 }

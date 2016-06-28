@@ -2,13 +2,14 @@
   "id": 219633803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.698021,35.84526,-90.698021,35.84526",
     "geom:latitude":35.84526,
     "geom:longitude":-90.698021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"725 E Johnson Ave",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219633803,
-    "wof:lastmodified":1449073886,
+    "wof:lastmodified":1466324641,
     "wof:name":"Bills And Jerrys Deiscount Plus",
     "wof:parent_id":85836541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.698021,35.84526,-90.698021,35.84526],
+  "bbox": [
+    -90.698021,
+    35.84526,
+    -90.698021,
+    35.84526
+],
   "geometry": {"coordinates":[-90.698021,35.84526],"type":"Point"}
 }

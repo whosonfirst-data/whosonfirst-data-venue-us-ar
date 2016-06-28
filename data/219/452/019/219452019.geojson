@@ -2,13 +2,14 @@
   "id": 219452019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.409382,34.652409,-92.409382,34.652409",
     "geom:latitude":34.652409,
     "geom:longitude":-92.409382,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11618 Otter Creek South Rd",
     "sg:city":"Mabelvale",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219452019,
-    "wof:lastmodified":1449071224,
+    "wof:lastmodified":1466323399,
     "wof:name":"RSC Equipment Rental",
     "wof:parent_id":85848409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "store"
     ]
 },
-  "bbox": [-92.409382,34.652409,-92.409382,34.652409],
-  "geometry": {"coordinates":[-92.409382,34.652409],"type":"Point"}
+  "bbox": [
+    -92.409382,
+    34.652409,
+    -92.409382,
+    34.652409
+],
+  "geometry": {"coordinates":[-92.40938199999999,34.652409],"type":"Point"}
 }

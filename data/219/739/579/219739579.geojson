@@ -2,13 +2,14 @@
   "id": 219739579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.120345,36.385884,-92.120345,36.385884",
     "geom:latitude":36.385884,
     "geom:longitude":-92.120345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18718 Highway 62 W",
     "sg:city":"Gepp",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219739579,
-    "wof:lastmodified":1449071874,
+    "wof:lastmodified":1466324900,
     "wof:name":"Bathe In Beauty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.120345,36.385884,-92.120345,36.385884],
+  "bbox": [
+    -92.120345,
+    36.385884,
+    -92.120345,
+    36.385884
+],
   "geometry": {"coordinates":[-92.120345,36.385884],"type":"Point"}
 }

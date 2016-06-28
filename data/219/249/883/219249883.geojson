@@ -2,13 +2,14 @@
   "id": 219249883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.850792,33.950682,-93.850792,33.950682",
     "geom:latitude":33.950682,
     "geom:longitude":-93.850792,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"720 N 4th St",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":219249883,
-    "wof:lastmodified":1449070562,
+    "wof:lastmodified":1466321332,
     "wof:name":"Bennett Motel,Suites, Corporate Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "lodging"
     ]
 },
-  "bbox": [-93.850792,33.950682,-93.850792,33.950682],
+  "bbox": [
+    -93.850792,
+    33.950682,
+    -93.850792,
+    33.950682
+],
   "geometry": {"coordinates":[-93.850792,33.950682],"type":"Point"}
 }

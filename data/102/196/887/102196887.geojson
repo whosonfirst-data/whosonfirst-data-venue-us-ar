@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102196887",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.258889,34.72194,-92.258889,34.72194",
     "geom:latitude":34.72194,
     "geom:longitude":-92.258889,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2601 Confederate Blvd",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806025,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85806025
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102196887",
-    "wof:lastmodified":1449068338,
+    "wof:lastmodified":1466320636,
     "wof:name":"Sims Liquor Store",
     "wof:parent_id":85806025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.258889,34.72194,-92.258889,34.72194],
+  "bbox": [
+    -92.258889,
+    34.72194,
+    -92.258889,
+    34.72194
+],
   "geometry": {"coordinates":[-92.258889,34.72194],"type":"Point"}
 }

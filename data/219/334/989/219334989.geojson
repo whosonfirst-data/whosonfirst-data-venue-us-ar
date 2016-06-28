@@ -2,13 +2,14 @@
   "id": 219334989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.887401,35.072853,-91.887401,35.072853",
     "geom:latitude":35.072853,
     "geom:longitude":-91.887401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"802 W Fisher St",
     "sg:city":"Beebe",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219334989,
-    "wof:lastmodified":1449071435,
+    "wof:lastmodified":1466322043,
     "wof:name":"Bahais Of Beebe Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.887401,35.072853,-91.887401,35.072853],
+  "bbox": [
+    -91.887401,
+    35.072853,
+    -91.887401,
+    35.072853
+],
   "geometry": {"coordinates":[-91.887401,35.072853],"type":"Point"}
 }

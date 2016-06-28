@@ -2,13 +2,14 @@
   "id": 219949087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.1436,36.334011,-94.1436,36.334011",
     "geom:latitude":36.334011,
     "geom:longitude":-94.1436,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 N DIXIELAND RD STE C4-8",
     "sg:city":"ROGERS",
     "sg:classifiers":[
@@ -71,10 +72,11 @@
         }
     ],
     "wof:id":219949087,
-    "wof:lastmodified":1449072584,
+    "wof:lastmodified":1466325238,
     "wof:name":"Rent-A-Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -86,6 +88,11 @@
         "rental"
     ]
 },
-  "bbox": [-94.1436,36.334011,-94.1436,36.334011],
-  "geometry": {"coordinates":[-94.1436,36.334011],"type":"Point"}
+  "bbox": [
+    -94.1436,
+    36.334011,
+    -94.1436,
+    36.334011
+],
+  "geometry": {"coordinates":[-94.14360000000001,36.334011],"type":"Point"}
 }

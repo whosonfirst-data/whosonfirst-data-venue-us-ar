@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102201433",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.018667,33.439444,-94.018667,33.439444",
     "geom:latitude":33.439444,
     "geom:longitude":-94.018667,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2121 E Broad St",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102201433",
-    "wof:lastmodified":1449069852,
+    "wof:lastmodified":1466320682,
     "wof:name":"Music Mountain Spring Water",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.018667,33.439444,-94.018667,33.439444],
-  "geometry": {"coordinates":[-94.018667,33.439444],"type":"Point"}
+  "bbox": [
+    -94.018667,
+    33.439444,
+    -94.018667,
+    33.439444
+],
+  "geometry": {"coordinates":[-94.01866699999999,33.439444],"type":"Point"}
 }

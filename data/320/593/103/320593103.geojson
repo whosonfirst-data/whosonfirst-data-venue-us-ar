@@ -2,13 +2,14 @@
   "id": 320593103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.37966,35.325455,-94.37966,35.325455",
     "geom:latitude":35.325455,
     "geom:longitude":-94.37966,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4301 Regions Park Dr",
     "sg:city":"Fort Smith",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320593103,
-    "wof:lastmodified":1449013748,
+    "wof:lastmodified":1466320596,
     "wof:name":"Atlas Pipeline Mid Continent",
     "wof:parent_id":85849681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "company"
     ]
 },
-  "bbox": [-94.37966,35.325455,-94.37966,35.325455],
+  "bbox": [
+    -94.37966,
+    35.325455,
+    -94.37966,
+    35.325455
+],
   "geometry": {"coordinates":[-94.37966,35.325455],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303508435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.562825,36.181364,-94.562825,36.181364",
     "geom:latitude":36.181364,
     "geom:longitude":-94.562825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2111 W Jefferson St",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303508435,
-    "wof:lastmodified":1448999493,
+    "wof:lastmodified":1466320500,
     "wof:name":"KAZ Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.562825,36.181364,-94.562825,36.181364],
+  "bbox": [
+    -94.562825,
+    36.181364,
+    -94.562825,
+    36.181364
+],
   "geometry": {"coordinates":[-94.562825,36.181364],"type":"Point"}
 }

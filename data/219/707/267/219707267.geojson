@@ -2,13 +2,14 @@
   "id": 219707267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.947216,36.282663,-90.947216,36.282663",
     "geom:latitude":36.282663,
     "geom:longitude":-90.947216,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1704 Highway 67 N",
     "sg:city":"Pocahontas",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219707267,
-    "wof:lastmodified":1449073360,
+    "wof:lastmodified":1466324868,
     "wof:name":"Thomas Speight & Noble CPA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "public"
     ]
 },
-  "bbox": [-90.947216,36.282663,-90.947216,36.282663],
+  "bbox": [
+    -90.947216,
+    36.282663,
+    -90.947216,
+    36.282663
+],
   "geometry": {"coordinates":[-90.947216,36.282663],"type":"Point"}
 }

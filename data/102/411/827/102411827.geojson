@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102411827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.233409,34.792099,-92.233409,34.792099",
     "geom:latitude":34.792099,
     "geom:longitude":-92.233409,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35 Desoto Cir",
     "sg:city":"North Little Rock",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852263,
+        85688549,
         85633793,
         85921255,
         102082497,
-        85688549
+        85852263
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102411827,
-    "wof:lastmodified":1449067891,
+    "wof:lastmodified":1466325065,
     "wof:name":"Shaklee Authorized Distributor",
     "wof:parent_id":85852263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.233409,34.792099,-92.233409,34.792099],
-  "geometry": {"coordinates":[-92.233409,34.792099],"type":"Point"}
+  "bbox": [
+    -92.233409,
+    34.792099,
+    -92.233409,
+    34.792099
+],
+  "geometry": {"coordinates":[-92.23340899999999,34.792099],"type":"Point"}
 }

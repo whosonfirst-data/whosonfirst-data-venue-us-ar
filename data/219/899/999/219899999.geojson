@@ -2,13 +2,14 @@
   "id": 219899999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.179042,36.360217,-94.179042,36.360217",
     "geom:latitude":36.360217,
     "geom:longitude":-94.179042,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 Phyllis St Apt 1",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219899999,
-    "wof:lastmodified":1449073734,
+    "wof:lastmodified":1466325103,
     "wof:name":"Tips N Toes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "women's"
     ]
 },
-  "bbox": [-94.179042,36.360217,-94.179042,36.360217],
+  "bbox": [
+    -94.179042,
+    36.360217,
+    -94.179042,
+    36.360217
+],
   "geometry": {"coordinates":[-94.179042,36.360217],"type":"Point"}
 }

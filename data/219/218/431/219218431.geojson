@@ -2,13 +2,14 @@
   "id": 219218431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.172603,33.252461,-93.172603,33.252461",
     "geom:latitude":33.252461,
     "geom:longitude":-93.172603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1461 Highway 82 E",
     "sg:city":"Magnolia",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219218431,
-    "wof:lastmodified":1449072620,
+    "wof:lastmodified":1466321032,
     "wof:name":"George R Critton",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-93.172603,33.252461,-93.172603,33.252461],
+  "bbox": [
+    -93.172603,
+    33.252461,
+    -93.172603,
+    33.252461
+],
   "geometry": {"coordinates":[-93.172603,33.252461],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219783989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.295606,36.340981,-93.295606,36.340981",
     "geom:latitude":36.340981,
     "geom:longitude":-93.295606,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16052 Sunny Ln",
     "sg:city":"Alpena",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219783989,
-    "wof:lastmodified":1449070483,
+    "wof:lastmodified":1466324940,
     "wof:name":"Boston Birds Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.295606,36.340981,-93.295606,36.340981],
-  "geometry": {"coordinates":[-93.295606,36.340981],"type":"Point"}
+  "bbox": [
+    -93.295606,
+    36.340981,
+    -93.295606,
+    36.340981
+],
+  "geometry": {"coordinates":[-93.29560600000001,36.340981],"type":"Point"}
 }

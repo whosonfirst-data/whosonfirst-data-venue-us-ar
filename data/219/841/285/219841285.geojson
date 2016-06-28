@@ -2,13 +2,14 @@
   "id": 219841285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.140869,36.093619,-94.140869,36.093619",
     "geom:latitude":36.093619,
     "geom:longitude":-94.140869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1319 E Sunny Hill Dr",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219841285,
-    "wof:lastmodified":1449071135,
+    "wof:lastmodified":1466325091,
     "wof:name":"Wolfe Trade Consulting",
     "wof:parent_id":85885465,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-94.140869,36.093619,-94.140869,36.093619],
+  "bbox": [
+    -94.140869,
+    36.093619,
+    -94.140869,
+    36.093619
+],
   "geometry": {"coordinates":[-94.140869,36.093619],"type":"Point"}
 }

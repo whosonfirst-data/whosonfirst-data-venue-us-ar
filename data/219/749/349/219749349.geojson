@@ -2,13 +2,14 @@
   "id": 219749349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.82368,36.367907,-91.82368,36.367907",
     "geom:latitude":36.367907,
     "geom:longitude":-91.82368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"240 Highway 62 E",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219749349,
-    "wof:lastmodified":1449071413,
+    "wof:lastmodified":1466324984,
     "wof:name":"62 Dairy Freeze",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "dessert"
     ]
 },
-  "bbox": [-91.82368,36.367907,-91.82368,36.367907],
+  "bbox": [
+    -91.82368,
+    36.367907,
+    -91.82368,
+    36.367907
+],
   "geometry": {"coordinates":[-91.82368,36.367907],"type":"Point"}
 }

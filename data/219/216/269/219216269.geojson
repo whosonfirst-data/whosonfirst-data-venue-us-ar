@@ -2,13 +2,14 @@
   "id": 219216269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.235667,33.256251,-93.235667,33.256251",
     "geom:latitude":33.256251,
     "geom:longitude":-93.235667,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1119 S Jackson",
     "sg:city":"Magnolia",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219216269,
-    "wof:lastmodified":1449073516,
+    "wof:lastmodified":1466321012,
     "wof:name":"Buzz By Convenience Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.235667,33.256251,-93.235667,33.256251],
-  "geometry": {"coordinates":[-93.235667,33.256251],"type":"Point"}
+  "bbox": [
+    -93.235667,
+    33.256251,
+    -93.235667,
+    33.256251
+],
+  "geometry": {"coordinates":[-93.23566700000001,33.256251],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219669821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.527843,36.219404,-90.527843,36.219404",
     "geom:latitude":36.219404,
     "geom:longitude":-90.527843,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11530 Highway 135 N",
     "sg:city":"Lafe",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219669821,
-    "wof:lastmodified":1449070792,
+    "wof:lastmodified":1466324586,
     "wof:name":"St. John's Luth. Church Parsonage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "churches-lutheran-evangelical"
     ]
 },
-  "bbox": [-90.527843,36.219404,-90.527843,36.219404],
+  "bbox": [
+    -90.527843,
+    36.219404,
+    -90.527843,
+    36.219404
+],
   "geometry": {"coordinates":[-90.527843,36.219404],"type":"Point"}
 }

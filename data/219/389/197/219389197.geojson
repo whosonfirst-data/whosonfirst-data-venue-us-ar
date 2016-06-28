@@ -2,13 +2,14 @@
   "id": 219389197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.437889,35.091572,-92.437889,35.091572",
     "geom:latitude":35.091572,
     "geom:longitude":-92.437889,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 Oak St",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219389197,
-    "wof:lastmodified":1449073217,
+    "wof:lastmodified":1466322755,
     "wof:name":"Inone Creative & Mktg.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "consultant"
     ]
 },
-  "bbox": [-92.437889,35.091572,-92.437889,35.091572],
+  "bbox": [
+    -92.437889,
+    35.091572,
+    -92.437889,
+    35.091572
+],
   "geometry": {"coordinates":[-92.437889,35.091572],"type":"Point"}
 }

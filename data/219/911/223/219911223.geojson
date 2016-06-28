@@ -2,13 +2,14 @@
   "id": 219911223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.44187,36.368856,-94.44187,36.368856",
     "geom:latitude":36.368856,
     "geom:longitude":-94.44187,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10021 N Highway 59",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219911223,
-    "wof:lastmodified":1449073338,
+    "wof:lastmodified":1466325114,
     "wof:name":"David E Brown Trucking Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "trucking"
     ]
 },
-  "bbox": [-94.44187,36.368856,-94.44187,36.368856],
-  "geometry": {"coordinates":[-94.44187,36.368856],"type":"Point"}
+  "bbox": [
+    -94.44187,
+    36.368856,
+    -94.44187,
+    36.368856
+],
+  "geometry": {"coordinates":[-94.44186999999999,36.368856],"type":"Point"}
 }

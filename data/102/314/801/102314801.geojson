@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102314801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.695938,35.845253,-90.695938,35.845253",
     "geom:latitude":35.845253,
     "geom:longitude":-90.695938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 E Johnson Ave",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102314801,
-    "wof:lastmodified":1449070108,
+    "wof:lastmodified":1466323412,
     "wof:name":"B & T Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.695938,35.845253,-90.695938,35.845253],
+  "bbox": [
+    -90.695938,
+    35.845253,
+    -90.695938,
+    35.845253
+],
   "geometry": {"coordinates":[-90.695938,35.845253],"type":"Point"}
 }

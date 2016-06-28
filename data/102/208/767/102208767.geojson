@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102208767",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.320975,34.760555,-92.320975,34.760555",
     "geom:latitude":34.760555,
     "geom:longitude":-92.320975,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"145 Fairview Rd",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837877,
+        85688549,
         85633793,
         85921255,
         102082497,
-        85688549
+        85837877
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102208767",
-    "wof:lastmodified":1449068080,
+    "wof:lastmodified":1466320932,
     "wof:name":"Phelan & Associates",
     "wof:parent_id":85837877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.320975,34.760555,-92.320975,34.760555],
+  "bbox": [
+    -92.320975,
+    34.760555,
+    -92.320975,
+    34.760555
+],
   "geometry": {"coordinates":[-92.320975,34.760555],"type":"Point"}
 }

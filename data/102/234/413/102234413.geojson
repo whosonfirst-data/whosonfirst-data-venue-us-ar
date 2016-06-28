@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102234413",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.763163,35.266355,-90.763163,35.266355",
     "geom:latitude":35.266355,
     "geom:longitude":-90.763163,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"270 Co Rd 367",
     "sg:city":"Wynne",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":"102234413",
-    "wof:lastmodified":1449070067,
+    "wof:lastmodified":1466321503,
     "wof:name":"Burger Barn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.763163,35.266355,-90.763163,35.266355],
-  "geometry": {"coordinates":[-90.763163,35.266355],"type":"Point"}
+  "bbox": [
+    -90.763163,
+    35.266355,
+    -90.763163,
+    35.266355
+],
+  "geometry": {"coordinates":[-90.76316300000001,35.266355],"type":"Point"}
 }

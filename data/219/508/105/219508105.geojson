@@ -2,13 +2,14 @@
   "id": 219508105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.042383,34.76232,-92.042383,34.76232",
     "geom:latitude":34.76232,
     "geom:longitude":-92.042383,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"322 Cypress Creek Rd",
     "sg:city":"Scott",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219508105,
-    "wof:lastmodified":1449072353,
+    "wof:lastmodified":1466324014,
     "wof:name":"Bearskin Farm Inc",
     "wof:parent_id":85811577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "product"
     ]
 },
-  "bbox": [-92.042383,34.76232,-92.042383,34.76232],
+  "bbox": [
+    -92.042383,
+    34.76232,
+    -92.042383,
+    34.76232
+],
   "geometry": {"coordinates":[-92.042383,34.76232],"type":"Point"}
 }

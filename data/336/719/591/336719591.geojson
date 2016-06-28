@@ -2,13 +2,14 @@
   "id": 336719591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.864488,36.614811,-94.864488,36.614811",
     "geom:latitude":36.614811,
     "geom:longitude":-94.864488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27760 S 563 Rd",
     "sg:city":"Afton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336719591,
-    "wof:lastmodified":1448997067,
+    "wof:lastmodified":1466320413,
     "wof:name":"Cherokee CLAW Inc",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "environmental"
     ]
 },
-  "bbox": [-94.864488,36.614811,-94.864488,36.614811],
-  "geometry": {"coordinates":[-94.864488,36.614811],"type":"Point"}
+  "bbox": [
+    -94.864488,
+    36.614811,
+    -94.864488,
+    36.614811
+],
+  "geometry": {"coordinates":[-94.86448799999999,36.614811],"type":"Point"}
 }

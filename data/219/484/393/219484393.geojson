@@ -2,13 +2,14 @@
   "id": 219484393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.406675,34.841208,-92.406675,34.841208",
     "geom:latitude":34.841208,
     "geom:longitude":-92.406675,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Sharondale Ct",
     "sg:city":"Maumelle",
     "sg:classifiers":[
@@ -60,16 +61,22 @@
         }
     ],
     "wof:id":219484393,
-    "wof:lastmodified":1449073703,
+    "wof:lastmodified":1466323734,
     "wof:name":"T & M Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "instruments-industrial-repairing"
     ]
 },
-  "bbox": [-92.406675,34.841208,-92.406675,34.841208],
-  "geometry": {"coordinates":[-92.406675,34.841208],"type":"Point"}
+  "bbox": [
+    -92.406675,
+    34.841208,
+    -92.406675,
+    34.841208
+],
+  "geometry": {"coordinates":[-92.40667500000001,34.841208],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220089777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.729056,35.292176,-93.729056,35.292176",
     "geom:latitude":35.292176,
     "geom:longitude":-93.729056,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23 N 1st St",
     "sg:city":"Paris",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220089777,
-    "wof:lastmodified":1449074205,
+    "wof:lastmodified":1466321879,
     "wof:name":"Brian Hices Autos",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "cars-wholesale"
     ]
 },
-  "bbox": [-93.729056,35.292176,-93.729056,35.292176],
+  "bbox": [
+    -93.729056,
+    35.292176,
+    -93.729056,
+    35.292176
+],
   "geometry": {"coordinates":[-93.729056,35.292176],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219590759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.311736,34.921258,-90.311736,34.921258",
     "geom:latitude":34.921258,
     "geom:longitude":-90.311736,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"88 Westwood Cv",
     "sg:city":"Hughes",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":219590759,
-    "wof:lastmodified":1449072490,
+    "wof:lastmodified":1466324576,
     "wof:name":"Freedom Natural Stone",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "granite"
     ]
 },
-  "bbox": [-90.311736,34.921258,-90.311736,34.921258],
+  "bbox": [
+    -90.311736,
+    34.921258,
+    -90.311736,
+    34.921258
+],
   "geometry": {"coordinates":[-90.311736,34.921258],"type":"Point"}
 }

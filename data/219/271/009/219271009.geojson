@@ -2,13 +2,14 @@
   "id": 219271009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.941769,33.482361,-93.941769,33.482361",
     "geom:latitude":33.482361,
     "geom:longitude":-93.941769,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6024 Joey Ln",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219271009,
-    "wof:lastmodified":1449072233,
+    "wof:lastmodified":1466321491,
     "wof:name":"T Mac Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-93.941769,33.482361,-93.941769,33.482361],
-  "geometry": {"coordinates":[-93.941769,33.482361],"type":"Point"}
+  "bbox": [
+    -93.941769,
+    33.482361,
+    -93.941769,
+    33.482361
+],
+  "geometry": {"coordinates":[-93.94176899999999,33.482361],"type":"Point"}
 }

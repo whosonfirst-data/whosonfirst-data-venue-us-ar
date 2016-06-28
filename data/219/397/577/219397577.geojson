@@ -2,13 +2,14 @@
   "id": 219397577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.443134,35.04819,-92.443134,35.04819",
     "geom:latitude":35.04819,
     "geom:longitude":-92.443134,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1404 Stanley Russ Rd",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219397577,
-    "wof:lastmodified":1449071795,
+    "wof:lastmodified":1466322827,
     "wof:name":"Stone Phillip S Mdp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-92.443134,35.04819,-92.443134,35.04819],
+  "bbox": [
+    -92.443134,
+    35.04819,
+    -92.443134,
+    35.04819
+],
   "geometry": {"coordinates":[-92.443134,35.04819],"type":"Point"}
 }

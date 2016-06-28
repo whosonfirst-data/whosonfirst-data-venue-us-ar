@@ -2,13 +2,14 @@
   "id": 219572819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.86493,35.914166,-89.86493,35.914166",
     "geom:latitude":35.914166,
     "geom:longitude":-89.86493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3898 E Promise Land Rd",
     "sg:city":"Blytheville",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219572819,
-    "wof:lastmodified":1449072555,
+    "wof:lastmodified":1466324481,
     "wof:name":"Dwight's Fence Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "contractor"
     ]
 },
-  "bbox": [-89.86493,35.914166,-89.86493,35.914166],
+  "bbox": [
+    -89.86493,
+    35.914166,
+    -89.86493,
+    35.914166
+],
   "geometry": {"coordinates":[-89.86493,35.914166],"type":"Point"}
 }

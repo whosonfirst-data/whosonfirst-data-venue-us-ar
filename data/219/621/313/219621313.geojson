@@ -2,13 +2,14 @@
   "id": 219621313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.789345,35.229359,-90.789345,35.229359",
     "geom:latitude":35.229359,
     "geom:longitude":-90.789345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"905 Terry St N",
     "sg:city":"Wynne",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219621313,
-    "wof:lastmodified":1449073497,
+    "wof:lastmodified":1466324612,
     "wof:name":"Luxuary Travels",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "services-commercial"
     ]
 },
-  "bbox": [-90.789345,35.229359,-90.789345,35.229359],
+  "bbox": [
+    -90.789345,
+    35.229359,
+    -90.789345,
+    35.229359
+],
   "geometry": {"coordinates":[-90.789345,35.229359],"type":"Point"}
 }

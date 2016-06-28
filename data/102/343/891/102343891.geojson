@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102343891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.184937,35.139475,-90.184937,35.139475",
     "geom:latitude":35.139475,
     "geom:longitude":-90.184937,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"516 S Woods St",
     "sg:city":"West Memphis",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102343891,
-    "wof:lastmodified":1449069515,
+    "wof:lastmodified":1466323976,
     "wof:name":"Razorback Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.184937,35.139475,-90.184937,35.139475],
-  "geometry": {"coordinates":[-90.184937,35.139475],"type":"Point"}
+  "bbox": [
+    -90.184937,
+    35.139475,
+    -90.184937,
+    35.139475
+],
+  "geometry": {"coordinates":[-90.18493700000001,35.139475],"type":"Point"}
 }

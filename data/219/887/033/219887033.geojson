@@ -2,13 +2,14 @@
   "id": 219887033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.191002,36.335098,-94.191002,36.335098",
     "geom:latitude":36.335098,
     "geom:longitude":-94.191002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1208 SE Walton Blvd",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219887033,
-    "wof:lastmodified":1449073230,
+    "wof:lastmodified":1466325169,
     "wof:name":"Cloud 9 Mattress Outlet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mattress"
     ]
 },
-  "bbox": [-94.191002,36.335098,-94.191002,36.335098],
+  "bbox": [
+    -94.191002,
+    36.335098,
+    -94.191002,
+    36.335098
+],
   "geometry": {"coordinates":[-94.191002,36.335098],"type":"Point"}
 }

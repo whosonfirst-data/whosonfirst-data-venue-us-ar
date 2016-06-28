@@ -2,13 +2,14 @@
   "id": 219594203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.931371,35.754311,-89.931371,35.754311",
     "geom:latitude":35.754311,
     "geom:longitude":-89.931371,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"521 W Canal St",
     "sg:city":"Luxora",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219594203,
-    "wof:lastmodified":1449070905,
+    "wof:lastmodified":1466324578,
     "wof:name":"Luxora ABC",
     "wof:parent_id":85814753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "day"
     ]
 },
-  "bbox": [-89.931371,35.754311,-89.931371,35.754311],
+  "bbox": [
+    -89.931371,
+    35.754311,
+    -89.931371,
+    35.754311
+],
   "geometry": {"coordinates":[-89.931371,35.754311],"type":"Point"}
 }

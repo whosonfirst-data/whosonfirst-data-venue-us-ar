@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102325345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.388888,35.386383,-94.388888,35.386383",
     "geom:latitude":35.386383,
     "geom:longitude":-94.388888,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1122 N 39th St",
     "sg:city":"Fort Smith",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102325345,
-    "wof:lastmodified":1449068706,
+    "wof:lastmodified":1466323564,
     "wof:name":"B & H Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.388888,35.386383,-94.388888,35.386383],
-  "geometry": {"coordinates":[-94.388888,35.386383],"type":"Point"}
+  "bbox": [
+    -94.388888,
+    35.386383,
+    -94.388888,
+    35.386383
+],
+  "geometry": {"coordinates":[-94.38888799999999,35.386383],"type":"Point"}
 }

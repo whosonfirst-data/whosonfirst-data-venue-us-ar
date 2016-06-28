@@ -2,13 +2,14 @@
   "id": 337291201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.414781,34.838136,-92.414781,34.838136",
     "geom:latitude":34.838136,
     "geom:longitude":-92.414781,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Riverwood Pl",
     "sg:city":"Maumelle",
     "sg:classifiers":[
@@ -67,10 +68,11 @@
         }
     ],
     "wof:id":337291201,
-    "wof:lastmodified":1449027193,
+    "wof:lastmodified":1466322081,
     "wof:name":"Saunders And Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "appraiser"
     ]
 },
-  "bbox": [-92.414781,34.838136,-92.414781,34.838136],
+  "bbox": [
+    -92.414781,
+    34.838136,
+    -92.414781,
+    34.838136
+],
   "geometry": {"coordinates":[-92.414781,34.838136],"type":"Point"}
 }

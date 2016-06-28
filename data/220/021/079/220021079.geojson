@@ -2,13 +2,14 @@
   "id": 220021079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.174462,36.18273,-94.174462,36.18273",
     "geom:latitude":36.18273,
     "geom:longitude":-94.174462,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"370 S 40th St",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":220021079,
-    "wof:lastmodified":1449074558,
+    "wof:lastmodified":1466320493,
     "wof:name":"B.M.S.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "cleaners-interior"
     ]
 },
-  "bbox": [-94.174462,36.18273,-94.174462,36.18273],
-  "geometry": {"coordinates":[-94.174462,36.18273],"type":"Point"}
+  "bbox": [
+    -94.174462,
+    36.18273,
+    -94.174462,
+    36.18273
+],
+  "geometry": {"coordinates":[-94.17446200000001,36.18273],"type":"Point"}
 }

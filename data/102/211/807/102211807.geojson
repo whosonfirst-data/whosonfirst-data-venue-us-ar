@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102211807",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.061051,34.112528,-93.061051,34.112528",
     "geom:latitude":34.112528,
     "geom:longitude":-93.061051,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1018 S 12th St",
     "sg:city":"Arkadelphia",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102211807",
-    "wof:lastmodified":1449068378,
+    "wof:lastmodified":1466321019,
     "wof:name":"Pittman's Upholstery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.061051,34.112528,-93.061051,34.112528],
-  "geometry": {"coordinates":[-93.061051,34.112528],"type":"Point"}
+  "bbox": [
+    -93.061051,
+    34.112528,
+    -93.061051,
+    34.112528
+],
+  "geometry": {"coordinates":[-93.06105100000001,34.112528],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219692179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.503387,36.059929,-90.503387,36.059929",
     "geom:latitude":36.059929,
     "geom:longitude":-90.503387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1401 W Hunt St",
     "sg:city":"Paragould",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219692179,
-    "wof:lastmodified":1449071340,
+    "wof:lastmodified":1466324703,
     "wof:name":"Paragould Daily Press",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "news"
     ]
 },
-  "bbox": [-90.503387,36.059929,-90.503387,36.059929],
+  "bbox": [
+    -90.503387,
+    36.059929,
+    -90.503387,
+    36.059929
+],
   "geometry": {"coordinates":[-90.503387,36.059929],"type":"Point"}
 }

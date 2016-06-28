@@ -2,13 +2,14 @@
   "id": 203402993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.939095,33.168446,-91.939095,33.168446",
     "geom:latitude":33.168446,
     "geom:longitude":-91.939095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1652 Highway 52 W",
     "sg:city":"Crossett",
     "sg:classifiers":[
@@ -71,10 +72,11 @@
         }
     ],
     "wof:id":203402993,
-    "wof:lastmodified":1449025519,
+    "wof:lastmodified":1466320520,
     "wof:name":"Linda's Florist & Gifts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -86,6 +88,11 @@
         "flowers"
     ]
 },
-  "bbox": [-91.939095,33.168446,-91.939095,33.168446],
-  "geometry": {"coordinates":[-91.939095,33.168446],"type":"Point"}
+  "bbox": [
+    -91.939095,
+    33.168446,
+    -91.939095,
+    33.168446
+],
+  "geometry": {"coordinates":[-91.93909499999999,33.168446],"type":"Point"}
 }

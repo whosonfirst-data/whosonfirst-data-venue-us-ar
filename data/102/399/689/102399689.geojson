@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102399689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.628297,35.761434,-91.628297,35.761434",
     "geom:latitude":35.761434,
     "geom:longitude":-91.628297,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1615 Lee St",
     "sg:city":"Batesville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85808231,
+        85688549,
         85633793,
         85920683,
         102083875,
-        85688549
+        85808231
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102399689,
-    "wof:lastmodified":1449068239,
+    "wof:lastmodified":1466324775,
     "wof:name":"Hart Construction LLC",
     "wof:parent_id":85808231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.628297,35.761434,-91.628297,35.761434],
+  "bbox": [
+    -91.628297,
+    35.761434,
+    -91.628297,
+    35.761434
+],
   "geometry": {"coordinates":[-91.628297,35.761434],"type":"Point"}
 }

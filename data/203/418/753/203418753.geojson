@@ -2,13 +2,14 @@
   "id": 203418753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.485514,33.883411,-91.485514,33.883411",
     "geom:latitude":33.883411,
     "geom:longitude":-91.485514,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 Pickens St",
     "sg:city":"Dumas",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":203418753,
-    "wof:lastmodified":1449026424,
+    "wof:lastmodified":1466320579,
     "wof:name":"Gillespies Farm & Home Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "broker"
     ]
 },
-  "bbox": [-91.485514,33.883411,-91.485514,33.883411],
-  "geometry": {"coordinates":[-91.485514,33.883411],"type":"Point"}
+  "bbox": [
+    -91.485514,
+    33.883411,
+    -91.485514,
+    33.883411
+],
+  "geometry": {"coordinates":[-91.48551399999999,33.883411],"type":"Point"}
 }

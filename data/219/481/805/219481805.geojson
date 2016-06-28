@@ -2,13 +2,14 @@
   "id": 219481805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.248101,35.610859,-91.248101,35.610859",
     "geom:latitude":35.610859,
     "geom:longitude":-91.248101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2804 Mcdougald St",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219481805,
-    "wof:lastmodified":1449073466,
+    "wof:lastmodified":1466323693,
     "wof:name":"Newport Senior Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nurses-home"
     ]
 },
-  "bbox": [-91.248101,35.610859,-91.248101,35.610859],
-  "geometry": {"coordinates":[-91.248101,35.610859],"type":"Point"}
+  "bbox": [
+    -91.248101,
+    35.610859,
+    -91.248101,
+    35.610859
+],
+  "geometry": {"coordinates":[-91.24810100000001,35.610859],"type":"Point"}
 }

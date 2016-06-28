@@ -2,13 +2,14 @@
   "id": 235943943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.617401,36.27845,-94.617401,36.27845",
     "geom:latitude":36.27845,
     "geom:longitude":-94.617401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21406 E 510 Rd",
     "sg:city":"Colcord",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":235943943,
-    "wof:lastmodified":1449008342,
+    "wof:lastmodified":1466320412,
     "wof:name":"Advanced Plumbing",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractors-commercial"
     ]
 },
-  "bbox": [-94.617401,36.27845,-94.617401,36.27845],
+  "bbox": [
+    -94.617401,
+    36.27845,
+    -94.617401,
+    36.27845
+],
   "geometry": {"coordinates":[-94.617401,36.27845],"type":"Point"}
 }

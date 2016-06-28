@@ -2,13 +2,14 @@
   "id": 220061229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.932699,36.185639,-93.932699,36.185639",
     "geom:latitude":36.185639,
     "geom:longitude":-93.932699,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22476 Poole Rd",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":220061229,
-    "wof:lastmodified":1449074631,
+    "wof:lastmodified":1466321031,
     "wof:name":"James Tran Le",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "broker"
     ]
 },
-  "bbox": [-93.932699,36.185639,-93.932699,36.185639],
+  "bbox": [
+    -93.932699,
+    36.185639,
+    -93.932699,
+    36.185639
+],
   "geometry": {"coordinates":[-93.932699,36.185639],"type":"Point"}
 }

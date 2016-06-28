@@ -2,13 +2,14 @@
   "id": 203417029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.496323,33.884968,-91.496323,33.884968",
     "geom:latitude":33.884968,
     "geom:longitude":-91.496323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"311 S Ash St",
     "sg:city":"Dumas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203417029,
-    "wof:lastmodified":1449025699,
+    "wof:lastmodified":1466324457,
     "wof:name":"Cuzs Bar & Grill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "bar"
     ]
 },
-  "bbox": [-91.496323,33.884968,-91.496323,33.884968],
+  "bbox": [
+    -91.496323,
+    33.884968,
+    -91.496323,
+    33.884968
+],
   "geometry": {"coordinates":[-91.496323,33.884968],"type":"Point"}
 }

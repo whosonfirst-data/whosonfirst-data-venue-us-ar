@@ -2,13 +2,14 @@
   "id": 220036999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.124279,36.167062,-94.124279,36.167062",
     "geom:latitude":36.167062,
     "geom:longitude":-94.124279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"707 E Robinson Ave",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":220036999,
-    "wof:lastmodified":1449074216,
+    "wof:lastmodified":1466320541,
     "wof:name":"Pepsi Beverages Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "beverages-distributors"
     ]
 },
-  "bbox": [-94.124279,36.167062,-94.124279,36.167062],
+  "bbox": [
+    -94.124279,
+    36.167062,
+    -94.124279,
+    36.167062
+],
   "geometry": {"coordinates":[-94.124279,36.167062],"type":"Point"}
 }

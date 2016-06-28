@@ -2,13 +2,14 @@
   "id": 219802351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.461479,36.376319,-92.461479,36.376319",
     "geom:latitude":36.376319,
     "geom:longitude":-92.461479,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6533 Highway 126 N",
     "sg:city":"Midway",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":219802351,
-    "wof:lastmodified":1449073265,
+    "wof:lastmodified":1466324951,
     "wof:name":"T I Trailers Div",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "supply"
     ]
 },
-  "bbox": [-92.461479,36.376319,-92.461479,36.376319],
+  "bbox": [
+    -92.461479,
+    36.376319,
+    -92.461479,
+    36.376319
+],
   "geometry": {"coordinates":[-92.461479,36.376319],"type":"Point"}
 }

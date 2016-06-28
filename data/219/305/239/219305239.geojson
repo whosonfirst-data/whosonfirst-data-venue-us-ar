@@ -2,13 +2,14 @@
   "id": 219305239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.355035,34.504927,-94.355035,34.504927",
     "geom:latitude":34.504927,
     "geom:longitude":-94.355035,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4290 Highway 71 S",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219305239,
-    "wof:lastmodified":1449070925,
+    "wof:lastmodified":1466321774,
     "wof:name":"Ouachita Family Practice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "family"
     ]
 },
-  "bbox": [-94.355035,34.504927,-94.355035,34.504927],
+  "bbox": [
+    -94.355035,
+    34.504927,
+    -94.355035,
+    34.504927
+],
   "geometry": {"coordinates":[-94.355035,34.504927],"type":"Point"}
 }

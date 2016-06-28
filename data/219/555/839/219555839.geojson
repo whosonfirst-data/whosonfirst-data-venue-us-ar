@@ -2,13 +2,14 @@
   "id": 219555839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.558713,34.518719,-91.558713,34.518719",
     "geom:latitude":34.518719,
     "geom:longitude":-91.558713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1814 N Henderson St",
     "sg:city":"Stuttgart",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219555839,
-    "wof:lastmodified":1449073408,
+    "wof:lastmodified":1466324380,
     "wof:name":"Hooks, Paula",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "registry"
     ]
 },
-  "bbox": [-91.558713,34.518719,-91.558713,34.518719],
+  "bbox": [
+    -91.558713,
+    34.518719,
+    -91.558713,
+    34.518719
+],
   "geometry": {"coordinates":[-91.558713,34.518719],"type":"Point"}
 }

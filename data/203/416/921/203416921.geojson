@@ -2,13 +2,14 @@
   "id": 203416921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.492288,33.888501,-91.492288,33.888501",
     "geom:latitude":33.888501,
     "geom:longitude":-91.492288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 N Main St",
     "sg:city":"Dumas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203416921,
-    "wof:lastmodified":1449025764,
+    "wof:lastmodified":1466320564,
     "wof:name":"Desha County Literacy Coordinator",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "improvement"
     ]
 },
-  "bbox": [-91.492288,33.888501,-91.492288,33.888501],
+  "bbox": [
+    -91.492288,
+    33.888501,
+    -91.492288,
+    33.888501
+],
   "geometry": {"coordinates":[-91.492288,33.888501],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219813457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.169949,36.062107,-94.169949,36.062107",
     "geom:latitude":36.062107,
     "geom:longitude":-94.169949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"707 W Treadwell St",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":219813457,
-    "wof:lastmodified":1449071307,
+    "wof:lastmodified":1466324961,
     "wof:name":"Kerr Properties",
     "wof:parent_id":85885451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-94.169949,36.062107,-94.169949,36.062107],
+  "bbox": [
+    -94.169949,
+    36.062107,
+    -94.169949,
+    36.062107
+],
   "geometry": {"coordinates":[-94.169949,36.062107],"type":"Point"}
 }

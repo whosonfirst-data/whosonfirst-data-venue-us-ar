@@ -2,13 +2,14 @@
   "id": 219247789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.834195,33.960343,-93.834195,33.960343",
     "geom:latitude":33.960343,
     "geom:longitude":-93.834195,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1214 Mine St",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":219247789,
-    "wof:lastmodified":1449072451,
+    "wof:lastmodified":1466321315,
     "wof:name":"Pineview Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "listing"
     ]
 },
-  "bbox": [-93.834195,33.960343,-93.834195,33.960343],
-  "geometry": {"coordinates":[-93.834195,33.960343],"type":"Point"}
+  "bbox": [
+    -93.834195,
+    33.960343,
+    -93.834195,
+    33.960343
+],
+  "geometry": {"coordinates":[-93.83419499999999,33.960343],"type":"Point"}
 }

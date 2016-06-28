@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102211171",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.448118,35.43426,-91.448118,35.43426",
     "geom:latitude":35.43426,
     "geom:longitude":-91.448118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5200 Hwy 367 N",
     "sg:city":"Bradford",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":"102211171",
-    "wof:lastmodified":1449068380,
+    "wof:lastmodified":1466320882,
     "wof:name":"DWY Enterpries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.448118,35.43426,-91.448118,35.43426],
-  "geometry": {"coordinates":[-91.448118,35.43426],"type":"Point"}
+  "bbox": [
+    -91.448118,
+    35.43426,
+    -91.448118,
+    35.43426
+],
+  "geometry": {"coordinates":[-91.44811799999999,35.43426],"type":"Point"}
 }

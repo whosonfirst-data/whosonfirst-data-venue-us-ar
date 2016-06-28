@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102344843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.793022,35.291259,-91.793022,35.291259",
     "geom:latitude":35.291259,
     "geom:longitude":-91.793022,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"231 Oak Forest Rd",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102344843,
-    "wof:lastmodified":1449067897,
+    "wof:lastmodified":1466324013,
     "wof:name":"Roberson Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.793022,35.291259,-91.793022,35.291259],
-  "geometry": {"coordinates":[-91.793022,35.291259],"type":"Point"}
+  "bbox": [
+    -91.793022,
+    35.291259,
+    -91.793022,
+    35.291259
+],
+  "geometry": {"coordinates":[-91.79302199999999,35.291259],"type":"Point"}
 }

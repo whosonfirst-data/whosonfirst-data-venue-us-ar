@@ -2,13 +2,14 @@
   "id": 219684073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.650594,36.087804,-90.650594,36.087804",
     "geom:latitude":36.087804,
     "geom:longitude":-90.650594,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"915 Greene Road 601",
     "sg:city":"Paragould",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":219684073,
-    "wof:lastmodified":1449071276,
+    "wof:lastmodified":1466324906,
     "wof:name":"Farm Of James Rice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "horse"
     ]
 },
-  "bbox": [-90.650594,36.087804,-90.650594,36.087804],
+  "bbox": [
+    -90.650594,
+    36.087804,
+    -90.650594,
+    36.087804
+],
   "geometry": {"coordinates":[-90.650594,36.087804],"type":"Point"}
 }

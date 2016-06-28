@@ -2,13 +2,14 @@
   "id": 219240089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.443926,34.124847,-94.443926,34.124847",
     "geom:latitude":34.124847,
     "geom:longitude":-94.443926,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 Mountain Rd",
     "sg:city":"Gillham",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219240089,
-    "wof:lastmodified":1449070756,
+    "wof:lastmodified":1466321257,
     "wof:name":"Harrison Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-94.443926,34.124847,-94.443926,34.124847],
+  "bbox": [
+    -94.443926,
+    34.124847,
+    -94.443926,
+    34.124847
+],
   "geometry": {"coordinates":[-94.443926,34.124847],"type":"Point"}
 }

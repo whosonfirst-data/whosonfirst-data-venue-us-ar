@@ -2,13 +2,14 @@
   "id": 219780041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.120773,36.253071,-93.120773,36.253071",
     "geom:latitude":36.253071,
     "geom:longitude":-93.120773,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"815 Highway 62 65 N 65",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -76,10 +77,11 @@
         }
     ],
     "wof:id":219780041,
-    "wof:lastmodified":1449073041,
+    "wof:lastmodified":1466325010,
     "wof:name":"Golden Pawn Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -92,6 +94,11 @@
         "gunsmith"
     ]
 },
-  "bbox": [-93.120773,36.253071,-93.120773,36.253071],
+  "bbox": [
+    -93.120773,
+    36.253071,
+    -93.120773,
+    36.253071
+],
   "geometry": {"coordinates":[-93.120773,36.253071],"type":"Point"}
 }

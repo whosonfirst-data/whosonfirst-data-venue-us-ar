@@ -2,13 +2,14 @@
   "id": 219875983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.210517,36.356959,-94.210517,36.356959",
     "geom:latitude":36.356959,
     "geom:longitude":-94.210517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 SW 14th St",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219875983,
-    "wof:lastmodified":1449073027,
+    "wof:lastmodified":1466325061,
     "wof:name":"Hagan Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrician"
     ]
 },
-  "bbox": [-94.210517,36.356959,-94.210517,36.356959],
+  "bbox": [
+    -94.210517,
+    36.356959,
+    -94.210517,
+    36.356959
+],
   "geometry": {"coordinates":[-94.210517,36.356959],"type":"Point"}
 }

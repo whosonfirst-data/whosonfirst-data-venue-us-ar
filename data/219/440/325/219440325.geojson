@@ -2,13 +2,14 @@
   "id": 219440325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.130405,34.874781,-92.130405,34.874781",
     "geom:latitude":34.874781,
     "geom:longitude":-92.130405,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1907 Hill Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219440325,
-    "wof:lastmodified":1449071639,
+    "wof:lastmodified":1466323248,
     "wof:name":"Hercules Incorporated",
     "wof:parent_id":85852337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-92.130405,34.874781,-92.130405,34.874781],
+  "bbox": [
+    -92.130405,
+    34.874781,
+    -92.130405,
+    34.874781
+],
   "geometry": {"coordinates":[-92.130405,34.874781],"type":"Point"}
 }

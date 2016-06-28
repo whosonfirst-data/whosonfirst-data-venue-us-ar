@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102345791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.202323,36.458997,-94.202323,36.458997",
     "geom:latitude":36.458997,
     "geom:longitude":-94.202323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Harrington Cir",
     "sg:city":"Bella Vista",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102345791,
-    "wof:lastmodified":1449070003,
+    "wof:lastmodified":1466324027,
     "wof:name":"Morgan Group Real Estate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.202323,36.458997,-94.202323,36.458997],
-  "geometry": {"coordinates":[-94.202323,36.458997],"type":"Point"}
+  "bbox": [
+    -94.202323,
+    36.458997,
+    -94.202323,
+    36.458997
+],
+  "geometry": {"coordinates":[-94.20232300000001,36.458997],"type":"Point"}
 }

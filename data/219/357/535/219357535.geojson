@@ -2,13 +2,14 @@
   "id": 219357535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.480103,34.60651,-92.480103,34.60651",
     "geom:latitude":34.60651,
     "geom:longitude":-92.480103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Park Dr",
     "sg:city":"Bryant",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219357535,
-    "wof:lastmodified":1449073485,
+    "wof:lastmodified":1466322350,
     "wof:name":"Kenneth Smith Consulting",
     "wof:parent_id":85844395,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "coach"
     ]
 },
-  "bbox": [-92.480103,34.60651,-92.480103,34.60651],
+  "bbox": [
+    -92.480103,
+    34.60651,
+    -92.480103,
+    34.60651
+],
   "geometry": {"coordinates":[-92.480103,34.60651],"type":"Point"}
 }

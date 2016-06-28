@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102400169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.67006,35.730398,-90.67006,35.730398",
     "geom:latitude":35.730398,
     "geom:longitude":-90.67006,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"122 Co Rd 468",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102400169,
-    "wof:lastmodified":1449068027,
+    "wof:lastmodified":1466324847,
     "wof:name":"JB Siding Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.67006,35.730398,-90.67006,35.730398],
-  "geometry": {"coordinates":[-90.67006,35.730398],"type":"Point"}
+  "bbox": [
+    -90.67006,
+    35.730398,
+    -90.67006,
+    35.730398
+],
+  "geometry": {"coordinates":[-90.67006000000001,35.730398],"type":"Point"}
 }

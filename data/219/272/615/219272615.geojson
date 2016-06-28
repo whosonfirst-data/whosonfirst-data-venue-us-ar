@@ -2,13 +2,14 @@
   "id": 219272615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.018254,33.463099,-94.018254,33.463099",
     "geom:latitude":33.463099,
     "geom:longitude":-94.018254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2320 Red Branch Dr",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219272615,
-    "wof:lastmodified":1449073663,
+    "wof:lastmodified":1466321503,
     "wof:name":"Pillow Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "business"
     ]
 },
-  "bbox": [-94.018254,33.463099,-94.018254,33.463099],
+  "bbox": [
+    -94.018254,
+    33.463099,
+    -94.018254,
+    33.463099
+],
   "geometry": {"coordinates":[-94.018254,33.463099],"type":"Point"}
 }

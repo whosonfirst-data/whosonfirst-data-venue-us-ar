@@ -2,13 +2,14 @@
   "id": 219475551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.246801,35.617927,-91.246801,35.617927",
     "geom:latitude":35.617927,
     "geom:longitude":-91.246801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1304 Cherokee Dr",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219475551,
-    "wof:lastmodified":1449071852,
+    "wof:lastmodified":1466323640,
     "wof:name":"Sharon & David",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "car"
     ]
 },
-  "bbox": [-91.246801,35.617927,-91.246801,35.617927],
+  "bbox": [
+    -91.246801,
+    35.617927,
+    -91.246801,
+    35.617927
+],
   "geometry": {"coordinates":[-91.246801,35.617927],"type":"Point"}
 }

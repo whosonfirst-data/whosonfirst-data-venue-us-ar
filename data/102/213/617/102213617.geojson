@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102213617",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.097512,34.119676,-93.097512,34.119676",
     "geom:latitude":34.119676,
     "geom:longitude":-93.097512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 High School Dr",
     "sg:city":"Arkadelphia",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102213617",
-    "wof:lastmodified":1449067783,
+    "wof:lastmodified":1466321023,
     "wof:name":"US Army Recruiting Ofc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.097512,34.119676,-93.097512,34.119676],
-  "geometry": {"coordinates":[-93.097512,34.119676],"type":"Point"}
+  "bbox": [
+    -93.097512,
+    34.119676,
+    -93.097512,
+    34.119676
+],
+  "geometry": {"coordinates":[-93.09751199999999,34.119676],"type":"Point"}
 }

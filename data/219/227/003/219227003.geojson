@@ -2,13 +2,14 @@
   "id": 219227003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.600945,33.655346,-93.600945,33.655346",
     "geom:latitude":33.655346,
     "geom:longitude":-93.600945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1408 S Fulton St",
     "sg:city":"Hope",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":219227003,
-    "wof:lastmodified":1449071178,
+    "wof:lastmodified":1466321136,
     "wof:name":"Timberline Wood Co",
     "wof:parent_id":85806015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "trucking"
     ]
 },
-  "bbox": [-93.600945,33.655346,-93.600945,33.655346],
+  "bbox": [
+    -93.600945,
+    33.655346,
+    -93.600945,
+    33.655346
+],
   "geometry": {"coordinates":[-93.600945,33.655346],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336756391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.769258,36.588246,-94.769258,36.588246",
     "geom:latitude":36.588246,
     "geom:longitude":-94.769258,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 S Main St",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336756391,
-    "wof:lastmodified":1448997584,
+    "wof:lastmodified":1466320422,
     "wof:name":"Down On Main Street",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-94.769258,36.588246,-94.769258,36.588246],
-  "geometry": {"coordinates":[-94.769258,36.588246],"type":"Point"}
+  "bbox": [
+    -94.769258,
+    36.588246,
+    -94.769258,
+    36.588246
+],
+  "geometry": {"coordinates":[-94.76925799999999,36.588246],"type":"Point"}
 }

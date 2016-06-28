@@ -2,13 +2,14 @@
   "id": 219316677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.668721,34.449674,-93.668721,34.449674",
     "geom:latitude":34.449674,
     "geom:longitude":-93.668721,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1009 Highway 8 W",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219316677,
-    "wof:lastmodified":1449072778,
+    "wof:lastmodified":1466321870,
     "wof:name":"Caddo Game Birds Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cat"
     ]
 },
-  "bbox": [-93.668721,34.449674,-93.668721,34.449674],
-  "geometry": {"coordinates":[-93.668721,34.449674],"type":"Point"}
+  "bbox": [
+    -93.668721,
+    34.449674,
+    -93.668721,
+    34.449674
+],
+  "geometry": {"coordinates":[-93.66872100000001,34.449674],"type":"Point"}
 }

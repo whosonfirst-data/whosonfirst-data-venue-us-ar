@@ -2,13 +2,14 @@
   "id": 220108053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.077766,35.386937,-94.077766,35.386937",
     "geom:latitude":35.386937,
     "geom:longitude":-94.077766,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9734 Highway 217",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220108053,
-    "wof:lastmodified":1449074076,
+    "wof:lastmodified":1466322351,
     "wof:name":"Davis & Son, Inc.",
     "wof:parent_id":85832863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-94.077766,35.386937,-94.077766,35.386937],
+  "bbox": [
+    -94.077766,
+    35.386937,
+    -94.077766,
+    35.386937
+],
   "geometry": {"coordinates":[-94.077766,35.386937],"type":"Point"}
 }

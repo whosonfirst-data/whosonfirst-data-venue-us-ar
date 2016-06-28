@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102230695",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.213938,36.343022,-94.213938,36.343022",
     "geom:latitude":36.343022,
     "geom:longitude":-94.213938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 Airport Rd",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895825,
+        85688549,
         85633793,
         85921509,
         102083255,
-        85688549
+        85895825
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102230695",
-    "wof:lastmodified":1449069583,
+    "wof:lastmodified":1466321472,
     "wof:name":"Helping Hands Inc",
     "wof:parent_id":85895825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.213938,36.343022,-94.213938,36.343022],
+  "bbox": [
+    -94.213938,
+    36.343022,
+    -94.213938,
+    36.343022
+],
   "geometry": {"coordinates":[-94.213938,36.343022],"type":"Point"}
 }

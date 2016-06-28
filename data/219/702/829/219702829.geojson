@@ -2,13 +2,14 @@
   "id": 219702829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.534279,36.038163,-90.534279,36.038163",
     "geom:latitude":36.038163,
     "geom:longitude":-90.534279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3504 Pruetts Chapel Rd",
     "sg:city":"Paragould",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219702829,
-    "wof:lastmodified":1449072143,
+    "wof:lastmodified":1466324777,
     "wof:name":"Dollins Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "park"
     ]
 },
-  "bbox": [-90.534279,36.038163,-90.534279,36.038163],
+  "bbox": [
+    -90.534279,
+    36.038163,
+    -90.534279,
+    36.038163
+],
   "geometry": {"coordinates":[-90.534279,36.038163],"type":"Point"}
 }

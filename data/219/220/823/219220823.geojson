@@ -2,13 +2,14 @@
   "id": 219220823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.764069,33.372304,-92.764069,33.372304",
     "geom:latitude":33.372304,
     "geom:longitude":-92.764069,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1269 W 7th St",
     "sg:city":"Smackover",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219220823,
-    "wof:lastmodified":1449073792,
+    "wof:lastmodified":1466321050,
     "wof:name":"U-Haul Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trailer"
     ]
 },
-  "bbox": [-92.764069,33.372304,-92.764069,33.372304],
-  "geometry": {"coordinates":[-92.764069,33.372304],"type":"Point"}
+  "bbox": [
+    -92.764069,
+    33.372304,
+    -92.764069,
+    33.372304
+],
+  "geometry": {"coordinates":[-92.76406900000001,33.372304],"type":"Point"}
 }

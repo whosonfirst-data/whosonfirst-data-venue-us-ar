@@ -2,13 +2,14 @@
   "id": 219273223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.041985,33.421918,-94.041985,33.421918",
     "geom:latitude":33.421918,
     "geom:longitude":-94.041985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 E Broad St",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219273223,
-    "wof:lastmodified":1449072212,
+    "wof:lastmodified":1466321510,
     "wof:name":"World Jwly Imprters Mneystamps",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "stone"
     ]
 },
-  "bbox": [-94.041985,33.421918,-94.041985,33.421918],
+  "bbox": [
+    -94.041985,
+    33.421918,
+    -94.041985,
+    33.421918
+],
   "geometry": {"coordinates":[-94.041985,33.421918],"type":"Point"}
 }

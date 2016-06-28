@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102342583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.78817,35.04495,-90.78817,35.04495",
     "geom:latitude":35.04495,
     "geom:longitude":-90.78817,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 Barrow Hill Rd",
     "sg:city":"Forrest City",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102342583,
-    "wof:lastmodified":1449070011,
+    "wof:lastmodified":1466323879,
     "wof:name":"Fresenius Med Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.78817,35.04495,-90.78817,35.04495],
-  "geometry": {"coordinates":[-90.78817,35.04495],"type":"Point"}
+  "bbox": [
+    -90.78817,
+    35.04495,
+    -90.78817,
+    35.04495
+],
+  "geometry": {"coordinates":[-90.78816999999999,35.04495],"type":"Point"}
 }

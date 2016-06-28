@@ -2,13 +2,14 @@
   "id": 219668487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.141802,36.243745,-91.141802,36.243745",
     "geom:latitude":36.243745,
     "geom:longitude":-91.141802,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"131 Ivy Trl",
     "sg:city":"Imboden",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":219668487,
-    "wof:lastmodified":1449072852,
+    "wof:lastmodified":1466324573,
     "wof:name":"Ernie's Auto Sales & Salvage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "wrecking"
     ]
 },
-  "bbox": [-91.141802,36.243745,-91.141802,36.243745],
+  "bbox": [
+    -91.141802,
+    36.243745,
+    -91.141802,
+    36.243745
+],
   "geometry": {"coordinates":[-91.141802,36.243745],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102316861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.153331,34.497079,-93.153331,34.497079",
     "geom:latitude":34.497079,
     "geom:longitude":-93.153331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"589 Fleetwood Dr",
     "sg:city":"Hot Springs National Park",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102316861,
-    "wof:lastmodified":1449069429,
+    "wof:lastmodified":1466323480,
     "wof:name":"Ed Jones Salvage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.153331,34.497079,-93.153331,34.497079],
-  "geometry": {"coordinates":[-93.153331,34.497079],"type":"Point"}
+  "bbox": [
+    -93.153331,
+    34.497079,
+    -93.153331,
+    34.497079
+],
+  "geometry": {"coordinates":[-93.15333099999999,34.497079],"type":"Point"}
 }

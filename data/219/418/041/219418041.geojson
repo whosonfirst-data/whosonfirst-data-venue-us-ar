@@ -2,13 +2,14 @@
   "id": 219418041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.318786,34.176624,-92.318786,34.176624",
     "geom:latitude":34.176624,
     "geom:longitude":-92.318786,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4890 Grant County 14",
     "sg:city":"Grapevine",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219418041,
-    "wof:lastmodified":1449073168,
+    "wof:lastmodified":1466323006,
     "wof:name":"Pine Ridge Cumberland Presbytr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "churches-presbyterian"
     ]
 },
-  "bbox": [-92.318786,34.176624,-92.318786,34.176624],
+  "bbox": [
+    -92.318786,
+    34.176624,
+    -92.318786,
+    34.176624
+],
   "geometry": {"coordinates":[-92.318786,34.176624],"type":"Point"}
 }

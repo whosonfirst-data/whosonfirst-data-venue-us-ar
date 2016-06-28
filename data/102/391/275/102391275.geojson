@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102391275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.944223,34.437835,-92.944223,34.437835",
     "geom:latitude":34.437835,
     "geom:longitude":-92.944223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"129 Firestone Ln",
     "sg:city":"Hot Springs National Park",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":102391275,
-    "wof:lastmodified":1449069308,
+    "wof:lastmodified":1466324525,
     "wof:name":"Watson Surveying Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.944223,34.437835,-92.944223,34.437835],
-  "geometry": {"coordinates":[-92.944223,34.437835],"type":"Point"}
+  "bbox": [
+    -92.944223,
+    34.437835,
+    -92.944223,
+    34.437835
+],
+  "geometry": {"coordinates":[-92.94422299999999,34.437835],"type":"Point"}
 }

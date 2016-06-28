@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102338953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.129828,35.260311,-93.129828,35.260311",
     "geom:latitude":35.260311,
     "geom:longitude":-93.129828,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1915 S Detroit Ave",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837141,
+        85688549,
         85633793,
         85919515,
         102082511,
-        85688549
+        85837141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102338953,
-    "wof:lastmodified":1449068629,
+    "wof:lastmodified":1466323918,
     "wof:name":"Scott Sanders Inc",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.129828,35.260311,-93.129828,35.260311],
+  "bbox": [
+    -93.129828,
+    35.260311,
+    -93.129828,
+    35.260311
+],
   "geometry": {"coordinates":[-93.129828,35.260311],"type":"Point"}
 }

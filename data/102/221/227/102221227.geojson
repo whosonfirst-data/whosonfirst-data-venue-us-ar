@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102221227",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.036443,35.490735,-92.036443,35.490735",
     "geom:latitude":35.490735,
     "geom:longitude":-92.036443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 S 7th St",
     "sg:city":"Heber Springs",
     "sg:classifiers":[
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":"102221227",
-    "wof:lastmodified":1449068822,
+    "wof:lastmodified":1466321146,
     "wof:name":"Stan's Conoco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.036443,35.490735,-92.036443,35.490735],
-  "geometry": {"coordinates":[-92.036443,35.490735],"type":"Point"}
+  "bbox": [
+    -92.036443,
+    35.490735,
+    -92.036443,
+    35.490735
+],
+  "geometry": {"coordinates":[-92.03644300000001,35.490735],"type":"Point"}
 }

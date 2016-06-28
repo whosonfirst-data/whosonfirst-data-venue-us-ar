@@ -2,13 +2,14 @@
   "id": 220106933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.910148,35.140858,-93.910148,35.140858",
     "geom:latitude":35.140858,
     "geom:longitude":-93.910148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"873 E Main St",
     "sg:city":"Booneville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220106933,
-    "wof:lastmodified":1449074046,
+    "wof:lastmodified":1466322341,
     "wof:name":"South Logan County",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "farm"
     ]
 },
-  "bbox": [-93.910148,35.140858,-93.910148,35.140858],
-  "geometry": {"coordinates":[-93.910148,35.140858],"type":"Point"}
+  "bbox": [
+    -93.910148,
+    35.140858,
+    -93.910148,
+    35.140858
+],
+  "geometry": {"coordinates":[-93.91014800000001,35.140858],"type":"Point"}
 }

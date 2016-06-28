@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102282557",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.256779,35.645659,-91.256779,35.645659",
     "geom:latitude":35.645659,
     "geom:longitude":-91.256779,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2201 Hurley Rd",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102282557",
-    "wof:lastmodified":1449069269,
+    "wof:lastmodified":1466322677,
     "wof:name":"Highway Maintenance Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.256779,35.645659,-91.256779,35.645659],
-  "geometry": {"coordinates":[-91.256779,35.645659],"type":"Point"}
+  "bbox": [
+    -91.256779,
+    35.645659,
+    -91.256779,
+    35.645659
+],
+  "geometry": {"coordinates":[-91.25677899999999,35.645659],"type":"Point"}
 }

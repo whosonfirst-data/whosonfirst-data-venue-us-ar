@@ -2,13 +2,14 @@
   "id": 303077843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.766139,36.59347,-94.766139,36.59347",
     "geom:latitude":36.59347,
     "geom:longitude":-94.766139,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 E 3rd St",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303077843,
-    "wof:lastmodified":1448998507,
+    "wof:lastmodified":1466324502,
     "wof:name":"Lakehaven Dental",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-94.766139,36.59347,-94.766139,36.59347],
+  "bbox": [
+    -94.766139,
+    36.59347,
+    -94.766139,
+    36.59347
+],
   "geometry": {"coordinates":[-94.766139,36.59347],"type":"Point"}
 }

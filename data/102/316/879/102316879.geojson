@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102316879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.544587,34.484286,-91.544587,34.484286",
     "geom:latitude":34.484286,
     "geom:longitude":-91.544587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1922 S Rose St",
     "sg:city":"Stuttgart",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102316879,
-    "wof:lastmodified":1449069422,
+    "wof:lastmodified":1466323484,
     "wof:name":"Curtis Abrahm Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.544587,34.484286,-91.544587,34.484286],
-  "geometry": {"coordinates":[-91.544587,34.484286],"type":"Point"}
+  "bbox": [
+    -91.544587,
+    34.484286,
+    -91.544587,
+    34.484286
+],
+  "geometry": {"coordinates":[-91.54458700000001,34.484286],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102430615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.694447,35.294031,-93.694447,35.294031",
     "geom:latitude":35.294031,
     "geom:longitude":-93.694447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3001 E Walnut St",
     "sg:city":"Paris",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102430615,
-    "wof:lastmodified":1449069302,
+    "wof:lastmodified":1466325563,
     "wof:name":"US Forestry Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.694447,35.294031,-93.694447,35.294031],
+  "bbox": [
+    -93.694447,
+    35.294031,
+    -93.694447,
+    35.294031
+],
   "geometry": {"coordinates":[-93.694447,35.294031],"type":"Point"}
 }

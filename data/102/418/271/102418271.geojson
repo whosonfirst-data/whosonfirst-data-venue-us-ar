@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102418271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.104494,34.480136,-93.104494,34.480136",
     "geom:latitude":34.480136,
     "geom:longitude":-93.104494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 Airport Rd",
     "sg:city":"Hot Springs",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102418271,
-    "wof:lastmodified":1449069657,
+    "wof:lastmodified":1466325299,
     "wof:name":"Bob Goodman Auctions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.104494,34.480136,-93.104494,34.480136],
+  "bbox": [
+    -93.104494,
+    34.480136,
+    -93.104494,
+    34.480136
+],
   "geometry": {"coordinates":[-93.104494,34.480136],"type":"Point"}
 }

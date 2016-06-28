@@ -2,13 +2,14 @@
   "id": 219206371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.232773,33.273513,-93.232773,33.273513",
     "geom:latitude":33.273513,
     "geom:longitude":-93.232773,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"807 N Dudney Rd",
     "sg:city":"Magnolia",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":219206371,
-    "wof:lastmodified":1449072781,
+    "wof:lastmodified":1466320923,
     "wof:name":"Transcriptions Solutions Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "typing"
     ]
 },
-  "bbox": [-93.232773,33.273513,-93.232773,33.273513],
-  "geometry": {"coordinates":[-93.232773,33.273513],"type":"Point"}
+  "bbox": [
+    -93.232773,
+    33.273513,
+    -93.232773,
+    33.273513
+],
+  "geometry": {"coordinates":[-93.23277299999999,33.273513],"type":"Point"}
 }

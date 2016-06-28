@@ -2,13 +2,14 @@
   "id": 219461999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.814688,34.363317,-92.814688,34.363317",
     "geom:latitude":34.363317,
     "geom:longitude":-92.814688,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 Locust St Ste 3A",
     "sg:city":"Malvern",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219461999,
-    "wof:lastmodified":1449071719,
+    "wof:lastmodified":1466323483,
     "wof:name":"Juvenile Court",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "justice"
     ]
 },
-  "bbox": [-92.814688,34.363317,-92.814688,34.363317],
+  "bbox": [
+    -92.814688,
+    34.363317,
+    -92.814688,
+    34.363317
+],
   "geometry": {"coordinates":[-92.814688,34.363317],"type":"Point"}
 }

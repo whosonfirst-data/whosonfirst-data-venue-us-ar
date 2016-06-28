@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102374889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.715528,35.559448,-90.715528,35.559448",
     "geom:latitude":35.559448,
     "geom:longitude":-90.715528,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 Hill Rd",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102374889,
-    "wof:lastmodified":1449068809,
+    "wof:lastmodified":1466321030,
     "wof:name":"First United Pentecostal Chr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.715528,35.559448,-90.715528,35.559448],
-  "geometry": {"coordinates":[-90.715528,35.559448],"type":"Point"}
+  "bbox": [
+    -90.715528,
+    35.559448,
+    -90.715528,
+    35.559448
+],
+  "geometry": {"coordinates":[-90.71552800000001,35.559448],"type":"Point"}
 }

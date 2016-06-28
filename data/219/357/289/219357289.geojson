@@ -2,13 +2,14 @@
   "id": 219357289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.192157,34.887171,-91.192157,34.887171",
     "geom:latitude":34.887171,
     "geom:longitude":-91.192157,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 W Cypress St",
     "sg:city":"Brinkley",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219357289,
-    "wof:lastmodified":1449073487,
+    "wof:lastmodified":1466322344,
     "wof:name":"Burns Insurance Agency",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "business"
     ]
 },
-  "bbox": [-91.192157,34.887171,-91.192157,34.887171],
-  "geometry": {"coordinates":[-91.192157,34.887171],"type":"Point"}
+  "bbox": [
+    -91.192157,
+    34.887171,
+    -91.192157,
+    34.887171
+],
+  "geometry": {"coordinates":[-91.19215699999999,34.887171],"type":"Point"}
 }

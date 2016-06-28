@@ -2,13 +2,14 @@
   "id": 337294153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.300433,36.072655,-94.300433,36.072655",
     "geom:latitude":36.072655,
     "geom:longitude":-94.300433,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14813 Elkhorn Springs Rd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":337294153,
-    "wof:lastmodified":1449027530,
+    "wof:lastmodified":1466322158,
     "wof:name":"Tree Climbers Tree Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "tree"
     ]
 },
-  "bbox": [-94.300433,36.072655,-94.300433,36.072655],
+  "bbox": [
+    -94.300433,
+    36.072655,
+    -94.300433,
+    36.072655
+],
   "geometry": {"coordinates":[-94.300433,36.072655],"type":"Point"}
 }

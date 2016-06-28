@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102215895",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.392986,33.687141,-94.392986,33.687141",
     "geom:latitude":33.687141,
     "geom:longitude":-94.392986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"283 State Hwy 41",
     "sg:city":"Foreman",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":"102215895",
-    "wof:lastmodified":1449069751,
+    "wof:lastmodified":1466321126,
     "wof:name":"Mike's Country Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.392986,33.687141,-94.392986,33.687141],
-  "geometry": {"coordinates":[-94.392986,33.687141],"type":"Point"}
+  "bbox": [
+    -94.392986,
+    33.687141,
+    -94.392986,
+    33.687141
+],
+  "geometry": {"coordinates":[-94.39298599999999,33.687141],"type":"Point"}
 }

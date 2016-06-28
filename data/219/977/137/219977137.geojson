@@ -2,13 +2,14 @@
   "id": 219977137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.132827,36.333743,-94.132827,36.333743",
     "geom:latitude":36.333743,
     "geom:longitude":-94.132827,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 N 12th St",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219977137,
-    "wof:lastmodified":1449074014,
+    "wof:lastmodified":1466325293,
     "wof:name":"Kimo's A Taste of Thai",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "chinese"
     ]
 },
-  "bbox": [-94.132827,36.333743,-94.132827,36.333743],
-  "geometry": {"coordinates":[-94.132827,36.333743],"type":"Point"}
+  "bbox": [
+    -94.132827,
+    36.333743,
+    -94.132827,
+    36.333743
+],
+  "geometry": {"coordinates":[-94.13282700000001,36.333743],"type":"Point"}
 }

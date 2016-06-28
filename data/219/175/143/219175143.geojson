@@ -2,13 +2,14 @@
   "id": 219175143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.027335,33.942444,-92.027335,33.942444",
     "geom:latitude":33.942444,
     "geom:longitude":-92.027335,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Vinson Ln",
     "sg:city":"Rison",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219175143,
-    "wof:lastmodified":1449072838,
+    "wof:lastmodified":1466320591,
     "wof:name":"Party Hardy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rental"
     ]
 },
-  "bbox": [-92.027335,33.942444,-92.027335,33.942444],
-  "geometry": {"coordinates":[-92.027335,33.942444],"type":"Point"}
+  "bbox": [
+    -92.027335,
+    33.942444,
+    -92.027335,
+    33.942444
+],
+  "geometry": {"coordinates":[-92.02733499999999,33.942444],"type":"Point"}
 }

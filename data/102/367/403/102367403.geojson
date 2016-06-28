@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102367403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.292587,36.340563,-92.292587,36.340563",
     "geom:latitude":36.340563,
     "geom:longitude":-92.292587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"270 Brushy Knob Trl",
     "sg:city":"Mountain Home",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102367403,
-    "wof:lastmodified":1449069170,
+    "wof:lastmodified":1466324412,
     "wof:name":"Acme Auto Body",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.292587,36.340563,-92.292587,36.340563],
+  "bbox": [
+    -92.292587,
+    36.340563,
+    -92.292587,
+    36.340563
+],
   "geometry": {"coordinates":[-92.292587,36.340563],"type":"Point"}
 }

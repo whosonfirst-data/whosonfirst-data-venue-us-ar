@@ -2,13 +2,14 @@
   "id": 219650665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.681168,35.793224,-90.681168,35.793224",
     "geom:latitude":35.793224,
     "geom:longitude":-90.681168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1404 Links Cir Apt 4",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":219650665,
-    "wof:lastmodified":1449072547,
+    "wof:lastmodified":1466324724,
     "wof:name":"Prints Charming Images",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographers-commercial"
     ]
 },
-  "bbox": [-90.681168,35.793224,-90.681168,35.793224],
+  "bbox": [
+    -90.681168,
+    35.793224,
+    -90.681168,
+    35.793224
+],
   "geometry": {"coordinates":[-90.681168,35.793224],"type":"Point"}
 }

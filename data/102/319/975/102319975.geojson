@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102319975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.359882,35.350709,-94.359882,35.350709",
     "geom:latitude":35.350709,
     "geom:longitude":-94.359882,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3415 S 66th St",
     "sg:city":"Fort Smith",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85832863,
+        85688549,
         85633793,
         85921431,
         102082025,
-        85688549
+        85832863
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102319975,
-    "wof:lastmodified":1449068757,
+    "wof:lastmodified":1466323530,
     "wof:name":"BBP Inc",
     "wof:parent_id":85832863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.359882,35.350709,-94.359882,35.350709],
+  "bbox": [
+    -94.359882,
+    35.350709,
+    -94.359882,
+    35.350709
+],
   "geometry": {"coordinates":[-94.359882,35.350709],"type":"Point"}
 }

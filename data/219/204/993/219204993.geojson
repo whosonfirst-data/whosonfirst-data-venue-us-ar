@@ -2,13 +2,14 @@
   "id": 219204993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.232677,33.2669,-93.232677,33.2669",
     "geom:latitude":33.2669,
     "geom:longitude":-93.232677,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"612 E Main St Ste G",
     "sg:city":"Magnolia",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":219204993,
-    "wof:lastmodified":1449074035,
+    "wof:lastmodified":1466320910,
     "wof:name":"Douglas Edwards - Farmers Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "business"
     ]
 },
-  "bbox": [-93.232677,33.2669,-93.232677,33.2669],
+  "bbox": [
+    -93.232677,
+    33.2669,
+    -93.232677,
+    33.2669
+],
   "geometry": {"coordinates":[-93.232677,33.2669],"type":"Point"}
 }

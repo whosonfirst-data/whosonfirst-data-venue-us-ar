@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102425791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.253701,36.063276,-94.253701,36.063276",
     "geom:latitude":36.063276,
     "geom:longitude":-94.253701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"83 S Double Springs Rd",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102425791,
-    "wof:lastmodified":1449068635,
+    "wof:lastmodified":1466325468,
     "wof:name":"J & J Banners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.253701,36.063276,-94.253701,36.063276],
-  "geometry": {"coordinates":[-94.253701,36.063276],"type":"Point"}
+  "bbox": [
+    -94.253701,
+    36.063276,
+    -94.253701,
+    36.063276
+],
+  "geometry": {"coordinates":[-94.25370100000001,36.063276],"type":"Point"}
 }

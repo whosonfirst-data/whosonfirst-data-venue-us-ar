@@ -2,13 +2,14 @@
   "id": 219488781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.238806,34.833409,-92.238806,34.833409",
     "geom:latitude":34.833409,
     "geom:longitude":-92.238806,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"720 W Kiehl Ave",
     "sg:city":"Sherwood",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":219488781,
-    "wof:lastmodified":1449073821,
+    "wof:lastmodified":1466323823,
     "wof:name":"May John Commercial Air Conditioning",
     "wof:parent_id":85851793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-92.238806,34.833409,-92.238806,34.833409],
+  "bbox": [
+    -92.238806,
+    34.833409,
+    -92.238806,
+    34.833409
+],
   "geometry": {"coordinates":[-92.238806,34.833409],"type":"Point"}
 }

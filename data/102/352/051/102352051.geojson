@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102352051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.007735,36.000594,-94.007735,36.000594",
     "geom:latitude":36.000594,
     "geom:longitude":-94.007735,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Church St",
     "sg:city":"Elkins",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102352051,
-    "wof:lastmodified":1449069238,
+    "wof:lastmodified":1466323976,
     "wof:name":"City Of Goshen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.007735,36.000594,-94.007735,36.000594],
+  "bbox": [
+    -94.007735,
+    36.000594,
+    -94.007735,
+    36.000594
+],
   "geometry": {"coordinates":[-94.007735,36.000594],"type":"Point"}
 }

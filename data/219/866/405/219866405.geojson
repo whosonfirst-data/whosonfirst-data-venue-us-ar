@@ -2,13 +2,14 @@
   "id": 219866405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.253931,36.128602,-94.253931,36.128602",
     "geom:latitude":36.128602,
     "geom:longitude":-94.253931,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12004 Red Oak Dr",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219866405,
-    "wof:lastmodified":1449072072,
+    "wof:lastmodified":1466325143,
     "wof:name":"Twin Springs Group Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "management"
     ]
 },
-  "bbox": [-94.253931,36.128602,-94.253931,36.128602],
-  "geometry": {"coordinates":[-94.253931,36.128602],"type":"Point"}
+  "bbox": [
+    -94.253931,
+    36.128602,
+    -94.253931,
+    36.128602
+],
+  "geometry": {"coordinates":[-94.25393099999999,36.128602],"type":"Point"}
 }

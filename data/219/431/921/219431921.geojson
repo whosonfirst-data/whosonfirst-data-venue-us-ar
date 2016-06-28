@@ -2,13 +2,14 @@
   "id": 219431921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.177146,35.573513,-92.177146,35.573513",
     "geom:latitude":35.573513,
     "geom:longitude":-92.177146,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8731 Edgemont Rd",
     "sg:city":"Higden",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219431921,
-    "wof:lastmodified":1449070874,
+    "wof:lastmodified":1466323113,
     "wof:name":"Shiloh Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "broker"
     ]
 },
-  "bbox": [-92.177146,35.573513,-92.177146,35.573513],
-  "geometry": {"coordinates":[-92.177146,35.573513],"type":"Point"}
+  "bbox": [
+    -92.177146,
+    35.573513,
+    -92.177146,
+    35.573513
+],
+  "geometry": {"coordinates":[-92.17714599999999,35.573513],"type":"Point"}
 }

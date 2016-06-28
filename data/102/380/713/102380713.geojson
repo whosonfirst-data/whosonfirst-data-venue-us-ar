@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102380713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.468916,36.05465,-90.468916,36.05465",
     "geom:latitude":36.05465,
     "geom:longitude":-90.468916,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"406 S 14th Ave",
     "sg:city":"Paragould",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102380713,
-    "wof:lastmodified":1449068882,
+    "wof:lastmodified":1466322236,
     "wof:name":"General Engine Rebuilding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.468916,36.05465,-90.468916,36.05465],
-  "geometry": {"coordinates":[-90.468916,36.05465],"type":"Point"}
+  "bbox": [
+    -90.468916,
+    36.05465,
+    -90.468916,
+    36.05465
+],
+  "geometry": {"coordinates":[-90.46891599999999,36.05465],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219262231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.978252,33.409534,-93.978252,33.409534",
     "geom:latitude":33.409534,
     "geom:longitude":-93.978252,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"414 S Rondo Rd",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219262231,
-    "wof:lastmodified":1449072581,
+    "wof:lastmodified":1466321423,
     "wof:name":"Dixie Mart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.978252,33.409534,-93.978252,33.409534],
+  "bbox": [
+    -93.978252,
+    33.409534,
+    -93.978252,
+    33.409534
+],
   "geometry": {"coordinates":[-93.978252,33.409534],"type":"Point"}
 }

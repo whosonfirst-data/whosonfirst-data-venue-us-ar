@@ -2,13 +2,14 @@
   "id": 219880373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.206176,36.384969,-94.206176,36.384969",
     "geom:latitude":36.384969,
     "geom:longitude":-94.206176,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1112 NE Fillmore St",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219880373,
-    "wof:lastmodified":1449073953,
+    "wof:lastmodified":1466325066,
     "wof:name":"Ogichidaa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "arcade"
     ]
 },
-  "bbox": [-94.206176,36.384969,-94.206176,36.384969],
+  "bbox": [
+    -94.206176,
+    36.384969,
+    -94.206176,
+    36.384969
+],
   "geometry": {"coordinates":[-94.206176,36.384969],"type":"Point"}
 }

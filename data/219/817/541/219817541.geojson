@@ -2,13 +2,14 @@
   "id": 219817541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.180575,36.054277,-94.180575,36.054277",
     "geom:latitude":36.054277,
     "geom:longitude":-94.180575,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"731 S Razorback Rd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":219817541,
-    "wof:lastmodified":1449073240,
+    "wof:lastmodified":1466324896,
     "wof:name":"Frost Oil Co. inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oils-fuel"
     ]
 },
-  "bbox": [-94.180575,36.054277,-94.180575,36.054277],
+  "bbox": [
+    -94.180575,
+    36.054277,
+    -94.180575,
+    36.054277
+],
   "geometry": {"coordinates":[-94.180575,36.054277],"type":"Point"}
 }

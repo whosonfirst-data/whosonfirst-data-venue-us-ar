@@ -2,13 +2,14 @@
   "id": 203419333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.655588,33.864641,-91.655588,33.864641",
     "geom:latitude":33.864641,
     "geom:longitude":-91.655588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"478 Maplewood Rd",
     "sg:city":"Dumas",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":203419333,
-    "wof:lastmodified":1449026850,
+    "wof:lastmodified":1466320580,
     "wof:name":"South Ar Dirt Movers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractors'"
     ]
 },
-  "bbox": [-91.655588,33.864641,-91.655588,33.864641],
-  "geometry": {"coordinates":[-91.655588,33.864641],"type":"Point"}
+  "bbox": [
+    -91.655588,
+    33.864641,
+    -91.655588,
+    33.864641
+],
+  "geometry": {"coordinates":[-91.65558799999999,33.864641],"type":"Point"}
 }

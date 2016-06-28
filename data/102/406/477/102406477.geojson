@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102406477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.077036,34.492833,-93.077036,34.492833",
     "geom:latitude":34.492833,
     "geom:longitude":-93.077036,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 Richard St",
     "sg:city":"Hot Springs National Park",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102406477,
-    "wof:lastmodified":1449069039,
+    "wof:lastmodified":1466324971,
     "wof:name":"Larry Willis Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.077036,34.492833,-93.077036,34.492833],
-  "geometry": {"coordinates":[-93.077036,34.492833],"type":"Point"}
+  "bbox": [
+    -93.077036,
+    34.492833,
+    -93.077036,
+    34.492833
+],
+  "geometry": {"coordinates":[-93.07703600000001,34.492833],"type":"Point"}
 }

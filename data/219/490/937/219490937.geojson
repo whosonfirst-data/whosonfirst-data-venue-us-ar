@@ -2,13 +2,14 @@
   "id": 219490937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.203252,34.814771,-92.203252,34.814771",
     "geom:latitude":34.814771,
     "geom:longitude":-92.203252,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6505 Warden Rd",
     "sg:city":"Sherwood",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":219490937,
-    "wof:lastmodified":1449073560,
+    "wof:lastmodified":1466323860,
     "wof:name":"Nomis Tattoo Studio",
     "wof:parent_id":85837729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "body"
     ]
 },
-  "bbox": [-92.203252,34.814771,-92.203252,34.814771],
-  "geometry": {"coordinates":[-92.203252,34.814771],"type":"Point"}
+  "bbox": [
+    -92.203252,
+    34.814771,
+    -92.203252,
+    34.814771
+],
+  "geometry": {"coordinates":[-92.20325200000001,34.814771],"type":"Point"}
 }

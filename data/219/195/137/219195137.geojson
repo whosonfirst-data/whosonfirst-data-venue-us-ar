@@ -2,13 +2,14 @@
   "id": 219195137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.142352,33.138923,-93.142352,33.138923",
     "geom:latitude":33.138923,
     "geom:longitude":-93.142352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"660 S Columbia Road 46",
     "sg:city":"Emerson",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219195137,
-    "wof:lastmodified":1449072706,
+    "wof:lastmodified":1466320825,
     "wof:name":"Macedonia Baptist Church 2",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "churches-baptist"
     ]
 },
-  "bbox": [-93.142352,33.138923,-93.142352,33.138923],
+  "bbox": [
+    -93.142352,
+    33.138923,
+    -93.142352,
+    33.138923
+],
   "geometry": {"coordinates":[-93.142352,33.138923],"type":"Point"}
 }

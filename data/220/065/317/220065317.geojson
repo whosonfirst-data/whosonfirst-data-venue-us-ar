@@ -2,13 +2,14 @@
   "id": 220065317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.142277,35.27669,-93.142277,35.27669",
     "geom:latitude":35.27669,
     "geom:longitude":-93.142277,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"317 S Independence Ave",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":220065317,
-    "wof:lastmodified":1449074872,
+    "wof:lastmodified":1466321158,
     "wof:name":"Peevy Professional Cleaning",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "house"
     ]
 },
-  "bbox": [-93.142277,35.27669,-93.142277,35.27669],
-  "geometry": {"coordinates":[-93.142277,35.27669],"type":"Point"}
+  "bbox": [
+    -93.142277,
+    35.27669,
+    -93.142277,
+    35.27669
+],
+  "geometry": {"coordinates":[-93.14227700000001,35.27669],"type":"Point"}
 }

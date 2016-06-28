@@ -2,13 +2,14 @@
   "id": 219600455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.183372,35.217072,-90.183372,35.217072",
     "geom:latitude":35.217072,
     "geom:longitude":-90.183372,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Victoria Cv",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219600455,
-    "wof:lastmodified":1449070714,
+    "wof:lastmodified":1466324807,
     "wof:name":"El Investments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "advisory"
     ]
 },
-  "bbox": [-90.183372,35.217072,-90.183372,35.217072],
-  "geometry": {"coordinates":[-90.183372,35.217072],"type":"Point"}
+  "bbox": [
+    -90.183372,
+    35.217072,
+    -90.183372,
+    35.217072
+],
+  "geometry": {"coordinates":[-90.18337200000001,35.217072],"type":"Point"}
 }

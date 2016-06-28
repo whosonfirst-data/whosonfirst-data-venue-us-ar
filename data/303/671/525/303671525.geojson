@@ -2,13 +2,14 @@
   "id": 303671525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.797452,36.422028,-94.797452,36.422028",
     "geom:latitude":36.422028,
     "geom:longitude":-94.797452,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"241 S 5th St",
     "sg:city":"Jay",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303671525,
-    "wof:lastmodified":1448998675,
+    "wof:lastmodified":1466320556,
     "wof:name":"H & B Payday Loans",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-94.797452,36.422028,-94.797452,36.422028],
-  "geometry": {"coordinates":[-94.797452,36.422028],"type":"Point"}
+  "bbox": [
+    -94.797452,
+    36.422028,
+    -94.797452,
+    36.422028
+],
+  "geometry": {"coordinates":[-94.79745200000001,36.422028],"type":"Point"}
 }

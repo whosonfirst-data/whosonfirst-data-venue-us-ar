@@ -2,13 +2,14 @@
   "id": 219750177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.823719,36.36791,-91.823719,36.36791",
     "geom:latitude":36.36791,
     "geom:longitude":-91.823719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"250 Highway 62 W",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219750177,
-    "wof:lastmodified":1449072524,
+    "wof:lastmodified":1466324983,
     "wof:name":"Leon's Automotive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.823719,36.36791,-91.823719,36.36791],
+  "bbox": [
+    -91.823719,
+    36.36791,
+    -91.823719,
+    36.36791
+],
   "geometry": {"coordinates":[-91.823719,36.36791],"type":"Point"}
 }

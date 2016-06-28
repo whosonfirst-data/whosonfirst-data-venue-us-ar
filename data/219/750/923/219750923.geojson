@@ -2,13 +2,14 @@
   "id": 219750923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.796853,36.278179,-91.796853,36.278179",
     "geom:latitude":36.278179,
     "geom:longitude":-91.796853,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"691 Country View Rd",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219750923,
-    "wof:lastmodified":1449072524,
+    "wof:lastmodified":1466324909,
     "wof:name":"Whittles Landscaping & Lawn Ca",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-91.796853,36.278179,-91.796853,36.278179],
+  "bbox": [
+    -91.796853,
+    36.278179,
+    -91.796853,
+    36.278179
+],
   "geometry": {"coordinates":[-91.796853,36.278179],"type":"Point"}
 }

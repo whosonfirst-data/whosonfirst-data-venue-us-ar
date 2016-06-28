@@ -2,13 +2,14 @@
   "id": 220022219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.239598,36.162325,-94.239598,36.162325",
     "geom:latitude":36.162325,
     "geom:longitude":-94.239598,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1223 S Barrington Rd",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220022219,
-    "wof:lastmodified":1449074287,
+    "wof:lastmodified":1466320497,
     "wof:name":"Dean Brothers Landscaping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lawn"
     ]
 },
-  "bbox": [-94.239598,36.162325,-94.239598,36.162325],
+  "bbox": [
+    -94.239598,
+    36.162325,
+    -94.239598,
+    36.162325
+],
   "geometry": {"coordinates":[-94.239598,36.162325],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220064889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.13935,35.279641,-93.13935,35.279641",
     "geom:latitude":35.279641,
     "geom:longitude":-93.13935,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"715 W Main St Ste A",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":220064889,
-    "wof:lastmodified":1449074305,
+    "wof:lastmodified":1466321149,
     "wof:name":"Newton Pharmacy",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "card"
     ]
 },
-  "bbox": [-93.13935,35.279641,-93.13935,35.279641],
-  "geometry": {"coordinates":[-93.13935,35.279641],"type":"Point"}
+  "bbox": [
+    -93.13935,
+    35.279641,
+    -93.13935,
+    35.279641
+],
+  "geometry": {"coordinates":[-93.13934999999999,35.279641],"type":"Point"}
 }

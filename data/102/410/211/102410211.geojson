@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102410211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.27052,34.741162,-92.27052,34.741162",
     "geom:latitude":34.741162,
     "geom:longitude":-92.27052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"712 Scott St",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878749,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85878749
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102410211,
-    "wof:lastmodified":1449067792,
+    "wof:lastmodified":1466325194,
     "wof:name":"Scottish Rite Bodies",
     "wof:parent_id":85878749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.27052,34.741162,-92.27052,34.741162],
+  "bbox": [
+    -92.27052,
+    34.741162,
+    -92.27052,
+    34.741162
+],
   "geometry": {"coordinates":[-92.27052,34.741162],"type":"Point"}
 }

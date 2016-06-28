@@ -2,13 +2,14 @@
   "id": 219461105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.813715,34.363993,-92.813715,34.363993",
     "geom:latitude":34.363993,
     "geom:longitude":-92.813715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 S Main St",
     "sg:city":"Malvern",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219461105,
-    "wof:lastmodified":1449071718,
+    "wof:lastmodified":1466323476,
     "wof:name":"Smith House Thrift & Gift Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-92.813715,34.363993,-92.813715,34.363993],
+  "bbox": [
+    -92.813715,
+    34.363993,
+    -92.813715,
+    34.363993
+],
   "geometry": {"coordinates":[-92.813715,34.363993],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102239591",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.293721,36.263623,-90.293721,36.263623",
     "geom:latitude":36.263623,
     "geom:longitude":-90.293721,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 W 4th St",
     "sg:city":"Rector",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102239591",
-    "wof:lastmodified":1449068023,
+    "wof:lastmodified":1466321659,
     "wof:name":"Rector Branch Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.293721,36.263623,-90.293721,36.263623],
-  "geometry": {"coordinates":[-90.293721,36.263623],"type":"Point"}
+  "bbox": [
+    -90.293721,
+    36.263623,
+    -90.293721,
+    36.263623
+],
+  "geometry": {"coordinates":[-90.29372100000001,36.263623],"type":"Point"}
 }

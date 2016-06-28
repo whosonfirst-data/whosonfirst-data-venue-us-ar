@@ -2,13 +2,14 @@
   "id": 219601097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.202715,35.213321,-90.202715,35.213321",
     "geom:latitude":35.213321,
     "geom:longitude":-90.202715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 Military Rd, Ste 2 (Pob 1463)",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219601097,
-    "wof:lastmodified":1449071974,
+    "wof:lastmodified":1466324581,
     "wof:name":"Studio The",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dancing"
     ]
 },
-  "bbox": [-90.202715,35.213321,-90.202715,35.213321],
+  "bbox": [
+    -90.202715,
+    35.213321,
+    -90.202715,
+    35.213321
+],
   "geometry": {"coordinates":[-90.202715,35.213321],"type":"Point"}
 }

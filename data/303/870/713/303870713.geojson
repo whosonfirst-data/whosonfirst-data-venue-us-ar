@@ -2,13 +2,14 @@
   "id": 303870713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.538224,36.177857,-94.538224,36.177857",
     "geom:latitude":36.177857,
     "geom:longitude":-94.538224,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 E Tulsa St",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303870713,
-    "wof:lastmodified":1448998756,
+    "wof:lastmodified":1466320623,
     "wof:name":"Angel Creek LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "closed"
     ]
 },
-  "bbox": [-94.538224,36.177857,-94.538224,36.177857],
+  "bbox": [
+    -94.538224,
+    36.177857,
+    -94.538224,
+    36.177857
+],
   "geometry": {"coordinates":[-94.538224,36.177857],"type":"Point"}
 }

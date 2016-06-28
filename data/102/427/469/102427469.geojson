@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102427469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.547722,36.32925,-91.547722,36.32925",
     "geom:latitude":36.32925,
     "geom:longitude":-91.547722,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Redwing Dr",
     "sg:city":"Cherokee Village",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102427469,
-    "wof:lastmodified":1449068506,
+    "wof:lastmodified":1466325491,
     "wof:name":"Combs Floor Cleaning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.547722,36.32925,-91.547722,36.32925],
-  "geometry": {"coordinates":[-91.547722,36.32925],"type":"Point"}
+  "bbox": [
+    -91.547722,
+    36.32925,
+    -91.547722,
+    36.32925
+],
+  "geometry": {"coordinates":[-91.54772199999999,36.32925],"type":"Point"}
 }

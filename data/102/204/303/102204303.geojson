@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102204303",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.639631,35.742946,-91.639631,35.742946",
     "geom:latitude":35.742946,
     "geom:longitude":-91.639631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"503 Batesville Blvd",
     "sg:city":"Batesville",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85808231,
+        85688549,
         85633793,
         85920683,
         102083875,
-        85688549
+        85808231
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102204303",
-    "wof:lastmodified":1449070281,
+    "wof:lastmodified":1466320734,
     "wof:name":"Charley's Body Shop",
     "wof:parent_id":85808231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.639631,35.742946,-91.639631,35.742946],
-  "geometry": {"coordinates":[-91.639631,35.742946],"type":"Point"}
+  "bbox": [
+    -91.639631,
+    35.742946,
+    -91.639631,
+    35.742946
+],
+  "geometry": {"coordinates":[-91.63963099999999,35.742946],"type":"Point"}
 }

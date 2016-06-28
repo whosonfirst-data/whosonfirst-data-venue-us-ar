@@ -2,13 +2,14 @@
   "id": 219394203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.440719,35.10696,-92.440719,35.10696",
     "geom:latitude":35.10696,
     "geom:longitude":-92.440719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2125 Harkrider St",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":219394203,
-    "wof:lastmodified":1449071077,
+    "wof:lastmodified":1466322799,
     "wof:name":"Action Insurance Agency",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "boat"
     ]
 },
-  "bbox": [-92.440719,35.10696,-92.440719,35.10696],
+  "bbox": [
+    -92.440719,
+    35.10696,
+    -92.440719,
+    35.10696
+],
   "geometry": {"coordinates":[-92.440719,35.10696],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219449387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.900016,34.788574,-91.900016,34.788574",
     "geom:latitude":34.788574,
     "geom:longitude":-91.900016,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"604 N Center St",
     "sg:city":"Lonoke",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":219449387,
-    "wof:lastmodified":1449073652,
+    "wof:lastmodified":1466323370,
     "wof:name":"Family Dollar Stores",
     "wof:parent_id":85811577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-91.900016,34.788574,-91.900016,34.788574],
-  "geometry": {"coordinates":[-91.900016,34.788574],"type":"Point"}
+  "bbox": [
+    -91.900016,
+    34.788574,
+    -91.900016,
+    34.788574
+],
+  "geometry": {"coordinates":[-91.90001599999999,34.788574],"type":"Point"}
 }

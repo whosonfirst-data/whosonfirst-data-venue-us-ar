@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102310525",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.395919,35.459827,-93.395919,35.459827",
     "geom:latitude":35.459827,
     "geom:longitude":-93.395919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"451 Glenwood Trl",
     "sg:city":"Lamar",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102310525",
-    "wof:lastmodified":1449069245,
+    "wof:lastmodified":1466323248,
     "wof:name":"Ford Air Heating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.395919,35.459827,-93.395919,35.459827],
-  "geometry": {"coordinates":[-93.395919,35.459827],"type":"Point"}
+  "bbox": [
+    -93.395919,
+    35.459827,
+    -93.395919,
+    35.459827
+],
+  "geometry": {"coordinates":[-93.39591900000001,35.459827],"type":"Point"}
 }

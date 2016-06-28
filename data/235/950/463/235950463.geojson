@@ -2,13 +2,14 @@
   "id": 235950463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.771887,36.593323,-94.771887,36.593323",
     "geom:latitude":36.593323,
     "geom:longitude":-94.771887,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 S Broadway St",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":235950463,
-    "wof:lastmodified":1449008392,
+    "wof:lastmodified":1466320444,
     "wof:name":"Grand Bank",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commercial"
     ]
 },
-  "bbox": [-94.771887,36.593323,-94.771887,36.593323],
-  "geometry": {"coordinates":[-94.771887,36.593323],"type":"Point"}
+  "bbox": [
+    -94.771887,
+    36.593323,
+    -94.771887,
+    36.593323
+],
+  "geometry": {"coordinates":[-94.77188700000001,36.593323],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219497637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.814056,34.976009,-92.814056,34.976009",
     "geom:latitude":34.976009,
     "geom:longitude":-92.814056,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Heifer Rd",
     "sg:city":"Perryville",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":219497637,
-    "wof:lastmodified":1449073858,
+    "wof:lastmodified":1466323924,
     "wof:name":"Heifer Prj Intl Lrng Lvstk Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "shows"
     ]
 },
-  "bbox": [-92.814056,34.976009,-92.814056,34.976009],
-  "geometry": {"coordinates":[-92.814056,34.976009],"type":"Point"}
+  "bbox": [
+    -92.814056,
+    34.976009,
+    -92.814056,
+    34.976009
+],
+  "geometry": {"coordinates":[-92.81405599999999,34.976009],"type":"Point"}
 }

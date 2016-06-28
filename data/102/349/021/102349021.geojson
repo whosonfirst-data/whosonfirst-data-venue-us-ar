@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102349021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.506819,35.678418,-90.506819,35.678418",
     "geom:latitude":35.678418,
     "geom:longitude":-90.506819,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 E Speedway St",
     "sg:city":"Trumann",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102349021,
-    "wof:lastmodified":1449068694,
+    "wof:lastmodified":1466323937,
     "wof:name":"Dickerson & Son Pawn Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.506819,35.678418,-90.506819,35.678418],
-  "geometry": {"coordinates":[-90.506819,35.678418],"type":"Point"}
+  "bbox": [
+    -90.506819,
+    35.678418,
+    -90.506819,
+    35.678418
+],
+  "geometry": {"coordinates":[-90.50681899999999,35.678418],"type":"Point"}
 }

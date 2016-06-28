@@ -2,13 +2,14 @@
   "id": 219484743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.413948,34.84581,-92.413948,34.84581",
     "geom:latitude":34.84581,
     "geom:longitude":-92.413948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Masters Place Cv",
     "sg:city":"Maumelle",
     "sg:classifiers":[
@@ -62,14 +63,20 @@
         }
     ],
     "wof:id":219484743,
-    "wof:lastmodified":1449073707,
+    "wof:lastmodified":1466323742,
     "wof:name":"Archers Deals & Discount",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.413948,34.84581,-92.413948,34.84581],
+  "bbox": [
+    -92.413948,
+    34.84581,
+    -92.413948,
+    34.84581
+],
   "geometry": {"coordinates":[-92.413948,34.84581],"type":"Point"}
 }

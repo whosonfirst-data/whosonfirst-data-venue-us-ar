@@ -2,13 +2,14 @@
   "id": 404007697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.05142,35.142691,-90.05142,35.142691",
     "geom:latitude":35.142691,
     "geom:longitude":-90.05142,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"164 Union Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":404007697,
-    "wof:lastmodified":1449040104,
+    "wof:lastmodified":1466324519,
     "wof:name":"Downtown D-Vine Day Spa",
     "wof:parent_id":85867183,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "health"
     ]
 },
-  "bbox": [-90.05142,35.142691,-90.05142,35.142691],
-  "geometry": {"coordinates":[-90.05142,35.142691],"type":"Point"}
+  "bbox": [
+    -90.05142,
+    35.142691,
+    -90.05142,
+    35.142691
+],
+  "geometry": {"coordinates":[-90.05141999999999,35.142691],"type":"Point"}
 }

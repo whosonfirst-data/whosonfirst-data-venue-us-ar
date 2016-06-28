@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102365611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.456308,36.187676,-90.456308,36.187676",
     "geom:latitude":36.187676,
     "geom:longitude":-90.456308,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3071 State Hwy 34 E",
     "sg:city":"Marmaduke",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102365611,
-    "wof:lastmodified":1449068188,
+    "wof:lastmodified":1466324404,
     "wof:name":"S & S Farms A Partnership",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.456308,36.187676,-90.456308,36.187676],
-  "geometry": {"coordinates":[-90.456308,36.187676],"type":"Point"}
+  "bbox": [
+    -90.456308,
+    36.187676,
+    -90.456308,
+    36.187676
+],
+  "geometry": {"coordinates":[-90.45630800000001,36.187676],"type":"Point"}
 }

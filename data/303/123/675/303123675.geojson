@@ -2,13 +2,14 @@
   "id": 303123675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.243318,34.568607,-94.243318,34.568607",
     "geom:latitude":34.568607,
     "geom:longitude":-94.243318,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1904 Cordie Dr",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303123675,
-    "wof:lastmodified":1448998849,
+    "wof:lastmodified":1466324510,
     "wof:name":"Lakeview Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-94.243318,34.568607,-94.243318,34.568607],
+  "bbox": [
+    -94.243318,
+    34.568607,
+    -94.243318,
+    34.568607
+],
   "geometry": {"coordinates":[-94.243318,34.568607],"type":"Point"}
 }

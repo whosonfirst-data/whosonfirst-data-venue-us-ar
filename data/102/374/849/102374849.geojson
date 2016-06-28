@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102374849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.492061,33.887653,-91.492061,33.887653",
     "geom:latitude":33.887653,
     "geom:longitude":-91.492061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"156 N Main St",
     "sg:city":"Dumas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102374849,
-    "wof:lastmodified":1449068809,
+    "wof:lastmodified":1466321021,
     "wof:name":"Country At Heart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.492061,33.887653,-91.492061,33.887653],
-  "geometry": {"coordinates":[-91.492061,33.887653],"type":"Point"}
+  "bbox": [
+    -91.492061,
+    33.887653,
+    -91.492061,
+    33.887653
+],
+  "geometry": {"coordinates":[-91.49206100000001,33.887653],"type":"Point"}
 }

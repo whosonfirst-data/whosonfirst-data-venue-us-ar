@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102343607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.45521,35.46612,-93.45521,35.46612",
     "geom:latitude":35.46612,
     "geom:longitude":-93.45521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 Ash St",
     "sg:city":"Clarksville",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102343607,
-    "wof:lastmodified":1449069510,
+    "wof:lastmodified":1466323918,
     "wof:name":"Wood & Wood Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.45521,35.46612,-93.45521,35.46612],
-  "geometry": {"coordinates":[-93.45521,35.46612],"type":"Point"}
+  "bbox": [
+    -93.45521,
+    35.46612,
+    -93.45521,
+    35.46612
+],
+  "geometry": {"coordinates":[-93.45520999999999,35.46612],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219775315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.107071,36.240582,-93.107071,36.240582",
     "geom:latitude":36.240582,
     "geom:longitude":-93.107071,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1005 N Main St",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":219775315,
-    "wof:lastmodified":1449073012,
+    "wof:lastmodified":1466324930,
     "wof:name":"Harrison Battery Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-93.107071,36.240582,-93.107071,36.240582],
+  "bbox": [
+    -93.107071,
+    36.240582,
+    -93.107071,
+    36.240582
+],
   "geometry": {"coordinates":[-93.107071,36.240582],"type":"Point"}
 }

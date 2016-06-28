@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102215177",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.289233,34.741478,-92.289233,34.741478",
     "geom:latitude":34.741478,
     "geom:longitude":-92.289233,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"905 Dr Martin Luther King Dr",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.lrsd.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878749,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85878749
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102215177",
-    "wof:lastmodified":1449069752,
+    "wof:lastmodified":1466320971,
     "wof:name":"King Magnet Interdistrict Elm",
     "wof:parent_id":85878749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.289233,34.741478,-92.289233,34.741478],
+  "bbox": [
+    -92.289233,
+    34.741478,
+    -92.289233,
+    34.741478
+],
   "geometry": {"coordinates":[-92.289233,34.741478],"type":"Point"}
 }

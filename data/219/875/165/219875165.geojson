@@ -2,13 +2,14 @@
   "id": 219875165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.215896,36.397171,-94.215896,36.397171",
     "geom:latitude":36.397171,
     "geom:longitude":-94.215896,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2301 Oakwood Ave",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219875165,
-    "wof:lastmodified":1449073027,
+    "wof:lastmodified":1466324992,
     "wof:name":"S K Morrison Dvm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "specialty"
     ]
 },
-  "bbox": [-94.215896,36.397171,-94.215896,36.397171],
+  "bbox": [
+    -94.215896,
+    36.397171,
+    -94.215896,
+    36.397171
+],
   "geometry": {"coordinates":[-94.215896,36.397171],"type":"Point"}
 }

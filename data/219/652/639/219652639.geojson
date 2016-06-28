@@ -2,13 +2,14 @@
   "id": 219652639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.763686,35.893097,-90.763686,35.893097",
     "geom:latitude":35.893097,
     "geom:longitude":-90.763686,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2438 County Road 333",
     "sg:city":"Bono",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219652639,
-    "wof:lastmodified":1449072660,
+    "wof:lastmodified":1466324732,
     "wof:name":"Cd Custom Closets",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "accessory"
     ]
 },
-  "bbox": [-90.763686,35.893097,-90.763686,35.893097],
-  "geometry": {"coordinates":[-90.763686,35.893097],"type":"Point"}
+  "bbox": [
+    -90.763686,
+    35.893097,
+    -90.763686,
+    35.893097
+],
+  "geometry": {"coordinates":[-90.76368600000001,35.893097],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219860927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.145254,36.123404,-94.145254,36.123404",
     "geom:latitude":36.123404,
     "geom:longitude":-94.145254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3931 N Shiloh Dr Ste 301",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":219860927,
-    "wof:lastmodified":1449071970,
+    "wof:lastmodified":1466325136,
     "wof:name":"Northwest Arkansas Florist Inc",
     "wof:parent_id":85885433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.145254,36.123404,-94.145254,36.123404],
-  "geometry": {"coordinates":[-94.145254,36.123404],"type":"Point"}
+  "bbox": [
+    -94.145254,
+    36.123404,
+    -94.145254,
+    36.123404
+],
+  "geometry": {"coordinates":[-94.14525399999999,36.123404],"type":"Point"}
 }

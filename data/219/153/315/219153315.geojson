@@ -2,13 +2,14 @@
   "id": 219153315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.797118,33.235631,-91.797118,33.235631",
     "geom:latitude":33.235631,
     "geom:longitude":-91.797118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1224 N Main St",
     "sg:city":"Hamburg",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219153315,
-    "wof:lastmodified":1449072821,
+    "wof:lastmodified":1466320414,
     "wof:name":"First United Pentecostal Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "churches-pentecostal"
     ]
 },
-  "bbox": [-91.797118,33.235631,-91.797118,33.235631],
+  "bbox": [
+    -91.797118,
+    33.235631,
+    -91.797118,
+    33.235631
+],
   "geometry": {"coordinates":[-91.797118,33.235631],"type":"Point"}
 }

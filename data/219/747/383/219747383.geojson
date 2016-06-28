@@ -2,13 +2,14 @@
   "id": 219747383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.440712,35.708067,-91.440712,35.708067",
     "geom:latitude":35.708067,
     "geom:longitude":-91.440712,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 N Oak St",
     "sg:city":"Newark",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219747383,
-    "wof:lastmodified":1449071036,
+    "wof:lastmodified":1466324986,
     "wof:name":"Us Post Office",
     "wof:parent_id":85808231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "shipping"
     ]
 },
-  "bbox": [-91.440712,35.708067,-91.440712,35.708067],
+  "bbox": [
+    -91.440712,
+    35.708067,
+    -91.440712,
+    35.708067
+],
   "geometry": {"coordinates":[-91.440712,35.708067],"type":"Point"}
 }

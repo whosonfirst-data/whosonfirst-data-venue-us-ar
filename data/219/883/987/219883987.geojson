@@ -2,13 +2,14 @@
   "id": 219883987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.198242,36.355554,-94.198242,36.355554",
     "geom:latitude":36.355554,
     "geom:longitude":-94.198242,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1108 SE 15th St",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":219883987,
-    "wof:lastmodified":1449073099,
+    "wof:lastmodified":1466325165,
     "wof:name":"Brown's Collision Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "repairing"
     ]
 },
-  "bbox": [-94.198242,36.355554,-94.198242,36.355554],
-  "geometry": {"coordinates":[-94.198242,36.355554],"type":"Point"}
+  "bbox": [
+    -94.198242,
+    36.355554,
+    -94.198242,
+    36.355554
+],
+  "geometry": {"coordinates":[-94.19824199999999,36.355554],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219334481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.905956,35.070867,-91.905956,35.070867",
     "geom:latitude":35.070867,
     "geom:longitude":-91.905956,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1907 W Dewitt Henry Dr Ste 1",
     "sg:city":"Beebe",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219334481,
-    "wof:lastmodified":1449071436,
+    "wof:lastmodified":1466322042,
     "wof:name":"Griffin Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "business"
     ]
 },
-  "bbox": [-91.905956,35.070867,-91.905956,35.070867],
+  "bbox": [
+    -91.905956,
+    35.070867,
+    -91.905956,
+    35.070867
+],
   "geometry": {"coordinates":[-91.905956,35.070867],"type":"Point"}
 }

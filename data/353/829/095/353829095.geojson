@@ -2,13 +2,14 @@
   "id": 353829095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.555052,36.176081,-94.555052,36.176081",
     "geom:latitude":36.176081,
     "geom:longitude":-94.555052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"911 Hwy 412 W",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353829095,
-    "wof:lastmodified":1449020626,
+    "wof:lastmodified":1466320523,
     "wof:name":"M & M Pawn & Trading Post",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pawnbroker"
     ]
 },
-  "bbox": [-94.555052,36.176081,-94.555052,36.176081],
+  "bbox": [
+    -94.555052,
+    36.176081,
+    -94.555052,
+    36.176081
+],
   "geometry": {"coordinates":[-94.555052,36.176081],"type":"Point"}
 }

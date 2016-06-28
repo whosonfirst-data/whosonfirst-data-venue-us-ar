@@ -2,13 +2,14 @@
   "id": 219372891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.746393,35.584206,-92.746393,35.584206",
     "geom:latitude":35.584206,
     "geom:longitude":-92.746393,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6146 Rex Rd",
     "sg:city":"Clinton",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219372891,
-    "wof:lastmodified":1449072535,
+    "wof:lastmodified":1466322611,
     "wof:name":"Rv Campground",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rental"
     ]
 },
-  "bbox": [-92.746393,35.584206,-92.746393,35.584206],
+  "bbox": [
+    -92.746393,
+    35.584206,
+    -92.746393,
+    35.584206
+],
   "geometry": {"coordinates":[-92.746393,35.584206],"type":"Point"}
 }

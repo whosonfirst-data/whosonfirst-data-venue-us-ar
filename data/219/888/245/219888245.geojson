@@ -2,13 +2,14 @@
   "id": 219888245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.213257,36.357021,-94.213257,36.357021",
     "geom:latitude":36.357021,
     "geom:longitude":-94.213257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1401 S Walton Blvd Ste 9",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219888245,
-    "wof:lastmodified":1449072599,
+    "wof:lastmodified":1466325075,
     "wof:name":"I T Harvest Inc",
     "wof:parent_id":85895807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "system"
     ]
 },
-  "bbox": [-94.213257,36.357021,-94.213257,36.357021],
+  "bbox": [
+    -94.213257,
+    36.357021,
+    -94.213257,
+    36.357021
+],
   "geometry": {"coordinates":[-94.213257,36.357021],"type":"Point"}
 }

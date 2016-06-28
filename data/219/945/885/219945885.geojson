@@ -2,13 +2,14 @@
   "id": 219945885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.1062,36.232493,-94.1062,36.232493",
     "geom:latitude":36.232493,
     "geom:longitude":-94.1062,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5257 S Primrose Rd",
     "sg:city":"Lowell",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219945885,
-    "wof:lastmodified":1449070691,
+    "wof:lastmodified":1466325090,
     "wof:name":"Kamp Laundry Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laundries-self"
     ]
 },
-  "bbox": [-94.1062,36.232493,-94.1062,36.232493],
+  "bbox": [
+    -94.1062,
+    36.232493,
+    -94.1062,
+    36.232493
+],
   "geometry": {"coordinates":[-94.1062,36.232493],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219221213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.772141,33.89246,-92.772141,33.89246",
     "geom:latitude":33.89246,
     "geom:longitude":-92.772141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1881 Dallas 201",
     "sg:city":"Sparkman",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219221213,
-    "wof:lastmodified":1449071943,
+    "wof:lastmodified":1466321054,
     "wof:name":"Danny E Givens",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "services-household"
     ]
 },
-  "bbox": [-92.772141,33.89246,-92.772141,33.89246],
+  "bbox": [
+    -92.772141,
+    33.89246,
+    -92.772141,
+    33.89246
+],
   "geometry": {"coordinates":[-92.772141,33.89246],"type":"Point"}
 }

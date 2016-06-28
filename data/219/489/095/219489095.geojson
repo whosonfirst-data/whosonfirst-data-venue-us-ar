@@ -2,13 +2,14 @@
   "id": 219489095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.229564,34.887885,-92.229564,34.887885",
     "geom:latitude":34.887885,
     "geom:longitude":-92.229564,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"75 Cardinal Valley Dr",
     "sg:city":"Sherwood",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":219489095,
-    "wof:lastmodified":1449072305,
+    "wof:lastmodified":1466323827,
     "wof:name":"Cbh Investments",
     "wof:parent_id":85837729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investing"
     ]
 },
-  "bbox": [-92.229564,34.887885,-92.229564,34.887885],
+  "bbox": [
+    -92.229564,
+    34.887885,
+    -92.229564,
+    34.887885
+],
   "geometry": {"coordinates":[-92.229564,34.887885],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102430085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.84719,33.943391,-93.84719,33.943391",
     "geom:latitude":33.943391,
     "geom:longitude":-93.84719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 S Main St",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102430085,
-    "wof:lastmodified":1449069303,
+    "wof:lastmodified":1466325491,
     "wof:name":"Take'Em Outfitters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.84719,33.943391,-93.84719,33.943391],
+  "bbox": [
+    -93.84719,
+    33.943391,
+    -93.84719,
+    33.943391
+],
   "geometry": {"coordinates":[-93.84719,33.943391],"type":"Point"}
 }

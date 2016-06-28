@@ -2,13 +2,14 @@
   "id": 219404775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.473857,35.093655,-92.473857,35.093655",
     "geom:latitude":35.093655,
     "geom:longitude":-92.473857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 W Post Oak Dr",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219404775,
-    "wof:lastmodified":1449072732,
+    "wof:lastmodified":1466322888,
     "wof:name":"Mwg Associates Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.473857,35.093655,-92.473857,35.093655],
+  "bbox": [
+    -92.473857,
+    35.093655,
+    -92.473857,
+    35.093655
+],
   "geometry": {"coordinates":[-92.473857,35.093655],"type":"Point"}
 }

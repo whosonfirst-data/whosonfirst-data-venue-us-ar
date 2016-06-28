@@ -2,13 +2,14 @@
   "id": 219905709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.195122,36.340172,-94.195122,36.340172",
     "geom:latitude":36.340172,
     "geom:longitude":-94.195122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 SE 30th St",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219905709,
-    "wof:lastmodified":1449071765,
+    "wof:lastmodified":1466325110,
     "wof:name":"Kee Action Sports",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.195122,36.340172,-94.195122,36.340172],
+  "bbox": [
+    -94.195122,
+    36.340172,
+    -94.195122,
+    36.340172
+],
   "geometry": {"coordinates":[-94.195122,36.340172],"type":"Point"}
 }

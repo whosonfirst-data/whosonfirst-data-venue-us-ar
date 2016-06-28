@@ -2,13 +2,14 @@
   "id": 219584473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.811668,35.106173,-90.811668,35.106173",
     "geom:latitude":35.106173,
     "geom:longitude":-90.811668,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7878 Highway 1 N",
     "sg:city":"Colt",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219584473,
-    "wof:lastmodified":1449070775,
+    "wof:lastmodified":1466324757,
     "wof:name":"S & S Sales Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "products-wholesale"
     ]
 },
-  "bbox": [-90.811668,35.106173,-90.811668,35.106173],
+  "bbox": [
+    -90.811668,
+    35.106173,
+    -90.811668,
+    35.106173
+],
   "geometry": {"coordinates":[-90.811668,35.106173],"type":"Point"}
 }

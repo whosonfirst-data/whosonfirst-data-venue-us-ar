@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102423999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.388325,35.213873,-92.388325,35.213873",
     "geom:latitude":35.213873,
     "geom:longitude":-92.388325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Brinkley St",
     "sg:city":"Greenbrier",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102423999,
-    "wof:lastmodified":1449068208,
+    "wof:lastmodified":1466325544,
     "wof:name":"Cut-N-Up",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.388325,35.213873,-92.388325,35.213873],
-  "geometry": {"coordinates":[-92.388325,35.213873],"type":"Point"}
+  "bbox": [
+    -92.388325,
+    35.213873,
+    -92.388325,
+    35.213873
+],
+  "geometry": {"coordinates":[-92.38832499999999,35.213873],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219768601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.096525,36.255438,-93.096525,36.255438",
     "geom:latitude":36.255438,
     "geom:longitude":-93.096525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2200 Highway 43 E",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219768601,
-    "wof:lastmodified":1449071744,
+    "wof:lastmodified":1466325004,
     "wof:name":"C S Whitmore Dvm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "specialty"
     ]
 },
-  "bbox": [-93.096525,36.255438,-93.096525,36.255438],
+  "bbox": [
+    -93.096525,
+    36.255438,
+    -93.096525,
+    36.255438
+],
   "geometry": {"coordinates":[-93.096525,36.255438],"type":"Point"}
 }

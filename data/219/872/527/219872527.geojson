@@ -2,13 +2,14 @@
   "id": 219872527,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.183284,36.366179,-94.183284,36.366179",
     "geom:latitude":36.366179,
     "geom:longitude":-94.183284,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"602 Moberly Ln",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219872527,
-    "wof:lastmodified":1449070705,
+    "wof:lastmodified":1466325056,
     "wof:name":"One Call Heating Cooling And Refrigeration",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "heating"
     ]
 },
-  "bbox": [-94.183284,36.366179,-94.183284,36.366179],
+  "bbox": [
+    -94.183284,
+    36.366179,
+    -94.183284,
+    36.366179
+],
   "geometry": {"coordinates":[-94.183284,36.366179],"type":"Point"}
 }

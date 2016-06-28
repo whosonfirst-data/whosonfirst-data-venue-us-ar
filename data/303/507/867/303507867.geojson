@@ -2,13 +2,14 @@
   "id": 303507867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.47818,35.264746,-94.47818,35.264746",
     "geom:latitude":35.264746,
     "geom:longitude":-94.47818,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 N Pocola Blvd",
     "sg:city":"Pocola",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303507867,
-    "wof:lastmodified":1448999376,
+    "wof:lastmodified":1466320500,
     "wof:name":"Tote-A-Poke",
     "wof:parent_id":85809847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.47818,35.264746,-94.47818,35.264746],
-  "geometry": {"coordinates":[-94.47818,35.264746],"type":"Point"}
+  "bbox": [
+    -94.47818,
+    35.264746,
+    -94.47818,
+    35.264746
+],
+  "geometry": {"coordinates":[-94.47817999999999,35.264746],"type":"Point"}
 }

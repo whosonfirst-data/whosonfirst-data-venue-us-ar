@@ -2,13 +2,14 @@
   "id": 219825995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.143692,36.066021,-94.143692,36.066021",
     "geom:latitude":36.066021,
     "geom:longitude":-94.143692,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"868 N Skyline Dr",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219825995,
-    "wof:lastmodified":1449070508,
+    "wof:lastmodified":1466325060,
     "wof:name":"Spirits Stable And Riding Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rodeo"
     ]
 },
-  "bbox": [-94.143692,36.066021,-94.143692,36.066021],
+  "bbox": [
+    -94.143692,
+    36.066021,
+    -94.143692,
+    36.066021
+],
   "geometry": {"coordinates":[-94.143692,36.066021],"type":"Point"}
 }

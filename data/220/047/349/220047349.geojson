@@ -2,13 +2,14 @@
   "id": 220047349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.141608,36.218733,-94.141608,36.218733",
     "geom:latitude":36.218733,
     "geom:longitude":-94.141608,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3472 Pasofino Loop",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":220047349,
-    "wof:lastmodified":1449074573,
+    "wof:lastmodified":1466320588,
     "wof:name":"M.J.R. Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "trucking"
     ]
 },
-  "bbox": [-94.141608,36.218733,-94.141608,36.218733],
-  "geometry": {"coordinates":[-94.141608,36.218733],"type":"Point"}
+  "bbox": [
+    -94.141608,
+    36.218733,
+    -94.141608,
+    36.218733
+],
+  "geometry": {"coordinates":[-94.14160800000001,36.218733],"type":"Point"}
 }

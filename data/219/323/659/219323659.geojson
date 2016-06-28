@@ -2,13 +2,14 @@
   "id": 219323659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.005113,34.343335,-94.005113,34.343335",
     "geom:latitude":34.343335,
     "geom:longitude":-94.005113,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"293 Shady Lake Rd",
     "sg:city":"Umpire",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219323659,
-    "wof:lastmodified":1449070693,
+    "wof:lastmodified":1466321920,
     "wof:name":"Shady Lake Hunting Club Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "hunting"
     ]
 },
-  "bbox": [-94.005113,34.343335,-94.005113,34.343335],
-  "geometry": {"coordinates":[-94.005113,34.343335],"type":"Point"}
+  "bbox": [
+    -94.005113,
+    34.343335,
+    -94.005113,
+    34.343335
+],
+  "geometry": {"coordinates":[-94.00511299999999,34.343335],"type":"Point"}
 }

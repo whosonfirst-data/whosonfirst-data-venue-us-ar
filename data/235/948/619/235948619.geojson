@@ -2,13 +2,14 @@
   "id": 235948619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.795412,36.564809,-94.795412,36.564809",
     "geom:latitude":36.564809,
     "geom:longitude":-94.795412,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1625 Pine Dr",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":235948619,
-    "wof:lastmodified":1449008525,
+    "wof:lastmodified":1466320430,
     "wof:name":"Buffalo Shore Recreational Clu",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-94.795412,36.564809,-94.795412,36.564809],
+  "bbox": [
+    -94.795412,
+    36.564809,
+    -94.795412,
+    36.564809
+],
   "geometry": {"coordinates":[-94.795412,36.564809],"type":"Point"}
 }

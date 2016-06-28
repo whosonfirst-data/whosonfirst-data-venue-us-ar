@@ -2,13 +2,14 @@
   "id": 219511105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.707206,35.239015,-91.707206,35.239015",
     "geom:latitude":35.239015,
     "geom:longitude":-91.707206,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2223 W Beebe Capps Expy",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219511105,
-    "wof:lastmodified":1449072025,
+    "wof:lastmodified":1466324039,
     "wof:name":"Family Dollar Stores",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "variety"
     ]
 },
-  "bbox": [-91.707206,35.239015,-91.707206,35.239015],
+  "bbox": [
+    -91.707206,
+    35.239015,
+    -91.707206,
+    35.239015
+],
   "geometry": {"coordinates":[-91.707206,35.239015],"type":"Point"}
 }

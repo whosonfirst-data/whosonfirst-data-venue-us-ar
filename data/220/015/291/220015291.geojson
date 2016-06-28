@@ -2,13 +2,14 @@
   "id": 220015291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.183546,36.189333,-94.183546,36.189333",
     "geom:latitude":36.189333,
     "geom:longitude":-94.183546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"444 N 48th St",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220015291,
-    "wof:lastmodified":1449074230,
+    "wof:lastmodified":1466320484,
     "wof:name":"Arkansas Security",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "system"
     ]
 },
-  "bbox": [-94.183546,36.189333,-94.183546,36.189333],
-  "geometry": {"coordinates":[-94.183546,36.189333],"type":"Point"}
+  "bbox": [
+    -94.183546,
+    36.189333,
+    -94.183546,
+    36.189333
+],
+  "geometry": {"coordinates":[-94.18354600000001,36.189333],"type":"Point"}
 }

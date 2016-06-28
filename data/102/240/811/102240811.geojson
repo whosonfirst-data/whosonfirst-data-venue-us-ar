@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102240811",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.708442,35.838302,-90.708442,35.838302",
     "geom:latitude":35.838302,
     "geom:longitude":-90.708442,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"501 W Washington Ave",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102240811",
-    "wof:lastmodified":1449068040,
+    "wof:lastmodified":1466321712,
     "wof:name":"Simmons First National Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.708442,35.838302,-90.708442,35.838302],
-  "geometry": {"coordinates":[-90.708442,35.838302],"type":"Point"}
+  "bbox": [
+    -90.708442,
+    35.838302,
+    -90.708442,
+    35.838302
+],
+  "geometry": {"coordinates":[-90.70844200000001,35.838302],"type":"Point"}
 }

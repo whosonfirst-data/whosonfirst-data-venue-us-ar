@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102350759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.352015,35.961021,-94.352015,35.961021",
     "geom:latitude":35.961021,
     "geom:longitude":-94.352015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16141 US Hwy 62 Scn",
     "sg:city":"Prairie Grove",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102350759,
-    "wof:lastmodified":1449068978,
+    "wof:lastmodified":1466324103,
     "wof:name":"Vinewood Animal Hospital",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.352015,35.961021,-94.352015,35.961021],
-  "geometry": {"coordinates":[-94.352015,35.961021],"type":"Point"}
+  "bbox": [
+    -94.352015,
+    35.961021,
+    -94.352015,
+    35.961021
+],
+  "geometry": {"coordinates":[-94.35201499999999,35.961021],"type":"Point"}
 }

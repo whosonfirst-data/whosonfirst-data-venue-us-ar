@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102230625",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.57049,35.742183,-90.57049,35.742183",
     "geom:latitude":35.742183,
     "geom:longitude":-90.57049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"609 Dedman St",
     "sg:city":"Bay",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102230625",
-    "wof:lastmodified":1449069587,
+    "wof:lastmodified":1466321459,
     "wof:name":"Dedmans Sanitation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.57049,35.742183,-90.57049,35.742183],
-  "geometry": {"coordinates":[-90.57049,35.742183],"type":"Point"}
+  "bbox": [
+    -90.57049,
+    35.742183,
+    -90.57049,
+    35.742183
+],
+  "geometry": {"coordinates":[-90.57049000000001,35.742183],"type":"Point"}
 }

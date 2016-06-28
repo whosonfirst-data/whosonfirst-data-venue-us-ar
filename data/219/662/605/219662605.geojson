@@ -2,13 +2,14 @@
   "id": 219662605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.711594,35.576224,-90.711594,35.576224",
     "geom:latitude":35.576224,
     "geom:longitude":-90.711594,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8976 Old Military Ln",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219662605,
-    "wof:lastmodified":1449072773,
+    "wof:lastmodified":1466324780,
     "wof:name":"Ezell Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "trucking"
     ]
 },
-  "bbox": [-90.711594,35.576224,-90.711594,35.576224],
-  "geometry": {"coordinates":[-90.711594,35.576224],"type":"Point"}
+  "bbox": [
+    -90.711594,
+    35.576224,
+    -90.711594,
+    35.576224
+],
+  "geometry": {"coordinates":[-90.71159400000001,35.576224],"type":"Point"}
 }

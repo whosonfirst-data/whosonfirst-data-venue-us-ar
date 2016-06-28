@@ -2,13 +2,14 @@
   "id": 219899405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.216848,36.37084,-94.216848,36.37084",
     "geom:latitude":36.37084,
     "geom:longitude":-94.216848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 SW F St",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219899405,
-    "wof:lastmodified":1449073735,
+    "wof:lastmodified":1466325192,
     "wof:name":"Rty Holdings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "holding"
     ]
 },
-  "bbox": [-94.216848,36.37084,-94.216848,36.37084],
+  "bbox": [
+    -94.216848,
+    36.37084,
+    -94.216848,
+    36.37084
+],
   "geometry": {"coordinates":[-94.216848,36.37084],"type":"Point"}
 }

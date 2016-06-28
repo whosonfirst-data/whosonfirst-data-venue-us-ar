@@ -2,13 +2,14 @@
   "id": 219172127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.781932,33.611579,-91.781932,33.611579",
     "geom:latitude":33.611579,
     "geom:longitude":-91.781932,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"316 Martha Cir",
     "sg:city":"Monticello",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219172127,
-    "wof:lastmodified":1449071810,
+    "wof:lastmodified":1466320567,
     "wof:name":"Michael & Deborah James",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.781932,33.611579,-91.781932,33.611579],
+  "bbox": [
+    -91.781932,
+    33.611579,
+    -91.781932,
+    33.611579
+],
   "geometry": {"coordinates":[-91.781932,33.611579],"type":"Point"}
 }

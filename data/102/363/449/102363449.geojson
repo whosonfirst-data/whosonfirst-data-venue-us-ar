@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102363449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.351594,35.36534,-94.351594,35.36534",
     "geom:latitude":35.36534,
     "geom:longitude":-94.351594,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7321 S Q St",
     "sg:city":"Fort Smith",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102363449,
-    "wof:lastmodified":1449069890,
+    "wof:lastmodified":1466324302,
     "wof:name":"Royal Arch Masons of Arkansas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.351594,35.36534,-94.351594,35.36534],
-  "geometry": {"coordinates":[-94.351594,35.36534],"type":"Point"}
+  "bbox": [
+    -94.351594,
+    35.36534,
+    -94.351594,
+    35.36534
+],
+  "geometry": {"coordinates":[-94.35159400000001,35.36534],"type":"Point"}
 }

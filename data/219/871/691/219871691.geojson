@@ -2,13 +2,14 @@
   "id": 219871691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.1858,36.342,-94.1858,36.342",
     "geom:latitude":36.342,
     "geom:longitude":-94.1858,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2308 Southeast 28th Street",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219871691,
-    "wof:lastmodified":1449071554,
+    "wof:lastmodified":1466325053,
     "wof:name":"Department of Motor Vehicle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.1858,36.342,-94.1858,36.342],
+  "bbox": [
+    -94.1858,
+    36.342,
+    -94.1858,
+    36.342
+],
   "geometry": {"coordinates":[-94.1858,36.342],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219481699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.261296,35.605904,-91.261296,35.605904",
     "geom:latitude":35.605904,
     "geom:longitude":-91.261296,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1504 Malcolm Ave",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":219481699,
-    "wof:lastmodified":1449073465,
+    "wof:lastmodified":1466323690,
     "wof:name":"Inklinations Body Art Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "body"
     ]
 },
-  "bbox": [-91.261296,35.605904,-91.261296,35.605904],
+  "bbox": [
+    -91.261296,
+    35.605904,
+    -91.261296,
+    35.605904
+],
   "geometry": {"coordinates":[-91.261296,35.605904],"type":"Point"}
 }

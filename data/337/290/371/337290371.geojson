@@ -2,13 +2,14 @@
   "id": 337290371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.28049,34.559636,-94.28049,34.559636",
     "geom:latitude":34.559636,
     "geom:longitude":-94.28049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2656 Highway 71 S",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":337290371,
-    "wof:lastmodified":1449027287,
+    "wof:lastmodified":1466322033,
     "wof:name":"Western Cherokee Nation Of Arkansas & Missouri Old Settlers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.28049,34.559636,-94.28049,34.559636],
+  "bbox": [
+    -94.28049,
+    34.559636,
+    -94.28049,
+    34.559636
+],
   "geometry": {"coordinates":[-94.28049,34.559636],"type":"Point"}
 }

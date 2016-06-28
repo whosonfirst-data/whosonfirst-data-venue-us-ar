@@ -2,13 +2,14 @@
   "id": 220066151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.129471,35.278782,-93.129471,35.278782",
     "geom:latitude":35.278782,
     "geom:longitude":-93.129471,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 N Detroit Ave Ste B",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":220066151,
-    "wof:lastmodified":1449074247,
+    "wof:lastmodified":1466321219,
     "wof:name":"Matthew Controls Ltd",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "panel"
     ]
 },
-  "bbox": [-93.129471,35.278782,-93.129471,35.278782],
+  "bbox": [
+    -93.129471,
+    35.278782,
+    -93.129471,
+    35.278782
+],
   "geometry": {"coordinates":[-93.129471,35.278782],"type":"Point"}
 }

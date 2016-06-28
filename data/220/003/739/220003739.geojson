@@ -2,13 +2,14 @@
   "id": 220003739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.139128,36.332702,-94.139128,36.332702",
     "geom:latitude":36.332702,
     "geom:longitude":-94.139128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"219 S 15th St",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":220003739,
-    "wof:lastmodified":1449074820,
+    "wof:lastmodified":1466320459,
     "wof:name":"Fayetteville",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "hand"
     ]
 },
-  "bbox": [-94.139128,36.332702,-94.139128,36.332702],
+  "bbox": [
+    -94.139128,
+    36.332702,
+    -94.139128,
+    36.332702
+],
   "geometry": {"coordinates":[-94.139128,36.332702],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219623177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.755134,35.224871,-90.755134,35.224871",
     "geom:latitude":35.224871,
     "geom:longitude":-90.755134,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"214 Clara Ann Dr",
     "sg:city":"Wynne",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219623177,
-    "wof:lastmodified":1449072871,
+    "wof:lastmodified":1466324609,
     "wof:name":"Debras Hair Designs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.755134,35.224871,-90.755134,35.224871],
+  "bbox": [
+    -90.755134,
+    35.224871,
+    -90.755134,
+    35.224871
+],
   "geometry": {"coordinates":[-90.755134,35.224871],"type":"Point"}
 }

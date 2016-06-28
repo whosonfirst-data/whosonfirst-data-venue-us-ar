@@ -2,13 +2,14 @@
   "id": 219487033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.215731,34.840263,-92.215731,34.840263",
     "geom:latitude":34.840263,
     "geom:longitude":-92.215731,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3280 Overcup Dr",
     "sg:city":"Sherwood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219487033,
-    "wof:lastmodified":1449071551,
+    "wof:lastmodified":1466323789,
     "wof:name":"Stuff's Sewing & Embroidery",
     "wof:parent_id":85837729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alterations-clothing"
     ]
 },
-  "bbox": [-92.215731,34.840263,-92.215731,34.840263],
-  "geometry": {"coordinates":[-92.215731,34.840263],"type":"Point"}
+  "bbox": [
+    -92.215731,
+    34.840263,
+    -92.215731,
+    34.840263
+],
+  "geometry": {"coordinates":[-92.21573100000001,34.840263],"type":"Point"}
 }

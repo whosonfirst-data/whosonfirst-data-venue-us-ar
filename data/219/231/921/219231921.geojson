@@ -2,13 +2,14 @@
   "id": 219231921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.118424,33.661536,-94.118424,33.661536",
     "geom:latitude":33.661536,
     "geom:longitude":-94.118424,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"951 S Locust St",
     "sg:city":"Ashdown",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":219231921,
-    "wof:lastmodified":1449072189,
+    "wof:lastmodified":1466321187,
     "wof:name":"H&R Block",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "bookkeeping"
     ]
 },
-  "bbox": [-94.118424,33.661536,-94.118424,33.661536],
+  "bbox": [
+    -94.118424,
+    33.661536,
+    -94.118424,
+    33.661536
+],
   "geometry": {"coordinates":[-94.118424,33.661536],"type":"Point"}
 }

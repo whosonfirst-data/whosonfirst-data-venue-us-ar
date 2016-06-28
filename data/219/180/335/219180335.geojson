@@ -2,13 +2,14 @@
   "id": 219180335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.103286,33.580353,-92.103286,33.580353",
     "geom:latitude":33.580353,
     "geom:longitude":-92.103286,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1811 Bradley 25 Rd N",
     "sg:city":"Warren",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219180335,
-    "wof:lastmodified":1449070514,
+    "wof:lastmodified":1466320633,
     "wof:name":"Parnell's Welding & General Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welder"
     ]
 },
-  "bbox": [-92.103286,33.580353,-92.103286,33.580353],
+  "bbox": [
+    -92.103286,
+    33.580353,
+    -92.103286,
+    33.580353
+],
   "geometry": {"coordinates":[-92.103286,33.580353],"type":"Point"}
 }

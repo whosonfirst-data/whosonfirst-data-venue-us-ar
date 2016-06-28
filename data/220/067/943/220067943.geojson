@@ -2,13 +2,14 @@
   "id": 220067943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.101442,35.263508,-93.101442,35.263508",
     "geom:latitude":35.263508,
     "geom:longitude":-93.101442,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3006 E 16th St",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220067943,
-    "wof:lastmodified":1449074091,
+    "wof:lastmodified":1466321258,
     "wof:name":"Sfi",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "specialty"
     ]
 },
-  "bbox": [-93.101442,35.263508,-93.101442,35.263508],
-  "geometry": {"coordinates":[-93.101442,35.263508],"type":"Point"}
+  "bbox": [
+    -93.101442,
+    35.263508,
+    -93.101442,
+    35.263508
+],
+  "geometry": {"coordinates":[-93.10144200000001,35.263508],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102291965",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.265352,34.74331,-92.265352,34.74331",
     "geom:latitude":34.74331,
     "geom:longitude":-92.265352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"523 E Capitol Ave",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -25,10 +26,10 @@
     "sg:website":"www.agc.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102082497,
-        85633793,
         85688549,
-        85878757
+        85633793,
+        85878757,
+        102082497
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":"102291965",
-    "wof:lastmodified":1449068518,
+    "wof:lastmodified":1466322965,
     "wof:name":"Associated General Contractors",
     "wof:parent_id":85878757,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.265352,34.74331,-92.265352,34.74331],
-  "geometry": {"coordinates":[-92.265352,34.74331],"type":"Point"}
+  "bbox": [
+    -92.265352,
+    34.74331,
+    -92.265352,
+    34.74331
+],
+  "geometry": {"coordinates":[-92.26535199999999,34.74331],"type":"Point"}
 }

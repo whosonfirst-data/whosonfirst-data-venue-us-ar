@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102282469",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.63478,35.848312,-90.63478,35.848312",
     "geom:latitude":35.848312,
     "geom:longitude":-90.63478,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"502 Gerald Dr",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102282469",
-    "wof:lastmodified":1449069270,
+    "wof:lastmodified":1466322659,
     "wof:name":"Sams Gun Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.63478,35.848312,-90.63478,35.848312],
-  "geometry": {"coordinates":[-90.63478,35.848312],"type":"Point"}
+  "bbox": [
+    -90.63478,
+    35.848312,
+    -90.63478,
+    35.848312
+],
+  "geometry": {"coordinates":[-90.63478000000001,35.848312],"type":"Point"}
 }

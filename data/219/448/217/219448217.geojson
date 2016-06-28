@@ -2,13 +2,14 @@
   "id": 219448217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.947585,34.917057,-91.947585,34.917057",
     "geom:latitude":34.917057,
     "geom:longitude":-91.947585,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"615 Bobwhite Rd",
     "sg:city":"Lonoke",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219448217,
-    "wof:lastmodified":1449073746,
+    "wof:lastmodified":1466323347,
     "wof:name":"Mccain Imports",
     "wof:parent_id":85811577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise-wholesale"
     ]
 },
-  "bbox": [-91.947585,34.917057,-91.947585,34.917057],
+  "bbox": [
+    -91.947585,
+    34.917057,
+    -91.947585,
+    34.917057
+],
   "geometry": {"coordinates":[-91.947585,34.917057],"type":"Point"}
 }

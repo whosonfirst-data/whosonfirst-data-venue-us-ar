@@ -2,13 +2,14 @@
   "id": 219392551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.438045,35.090223,-92.438045,35.090223",
     "geom:latitude":35.090223,
     "geom:longitude":-92.438045,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"807 Court St",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -70,10 +71,11 @@
         }
     ],
     "wof:id":219392551,
-    "wof:lastmodified":1449073226,
+    "wof:lastmodified":1466322785,
     "wof:name":"Salvation Army Thrift Store & Pick Up",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -84,6 +86,11 @@
         "hand"
     ]
 },
-  "bbox": [-92.438045,35.090223,-92.438045,35.090223],
+  "bbox": [
+    -92.438045,
+    35.090223,
+    -92.438045,
+    35.090223
+],
   "geometry": {"coordinates":[-92.438045,35.090223],"type":"Point"}
 }

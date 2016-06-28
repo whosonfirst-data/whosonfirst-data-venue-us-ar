@@ -2,13 +2,14 @@
   "id": 353590059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.478159,36.166698,-94.478159,36.166698",
     "geom:latitude":36.166698,
     "geom:longitude":-94.478159,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19980 Clark Ln",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":353590059,
-    "wof:lastmodified":1449019789,
+    "wof:lastmodified":1466320455,
     "wof:name":"Trios",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.478159,36.166698,-94.478159,36.166698],
-  "geometry": {"coordinates":[-94.478159,36.166698],"type":"Point"}
+  "bbox": [
+    -94.478159,
+    36.166698,
+    -94.478159,
+    36.166698
+],
+  "geometry": {"coordinates":[-94.47815900000001,36.166698],"type":"Point"}
 }

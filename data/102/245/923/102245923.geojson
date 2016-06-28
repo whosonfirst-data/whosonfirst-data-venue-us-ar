@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102245923",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.850574,33.584995,-92.850574,33.584995",
     "geom:latitude":33.584995,
     "geom:longitude":-92.850574,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1150 W Washington St",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102245923",
-    "wof:lastmodified":1449070138,
+    "wof:lastmodified":1466321857,
     "wof:name":"Overhead Door",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.850574,33.584995,-92.850574,33.584995],
-  "geometry": {"coordinates":[-92.850574,33.584995],"type":"Point"}
+  "bbox": [
+    -92.850574,
+    33.584995,
+    -92.850574,
+    33.584995
+],
+  "geometry": {"coordinates":[-92.85057399999999,33.584995],"type":"Point"}
 }

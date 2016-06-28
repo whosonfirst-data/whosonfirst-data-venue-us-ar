@@ -2,13 +2,14 @@
   "id": 219304709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.242223,34.57372,-94.242223,34.57372",
     "geom:latitude":34.57372,
     "geom:longitude":-94.242223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1504 Highway 71 S",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219304709,
-    "wof:lastmodified":1449073027,
+    "wof:lastmodified":1466321770,
     "wof:name":"The Mary Story Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "broker"
     ]
 },
-  "bbox": [-94.242223,34.57372,-94.242223,34.57372],
+  "bbox": [
+    -94.242223,
+    34.57372,
+    -94.242223,
+    34.57372
+],
   "geometry": {"coordinates":[-94.242223,34.57372],"type":"Point"}
 }

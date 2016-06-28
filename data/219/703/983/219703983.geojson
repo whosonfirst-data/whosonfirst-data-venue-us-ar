@@ -2,13 +2,14 @@
   "id": 219703983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.192549,36.385234,-90.192549,36.385234",
     "geom:latitude":36.385234,
     "geom:longitude":-90.192549,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"392 W Jackson St",
     "sg:city":"Piggott",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219703983,
-    "wof:lastmodified":1449071474,
+    "wof:lastmodified":1466324786,
     "wof:name":"G.S. Dehls D.D.S.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.192549,36.385234,-90.192549,36.385234],
+  "bbox": [
+    -90.192549,
+    36.385234,
+    -90.192549,
+    36.385234
+],
   "geometry": {"coordinates":[-90.192549,36.385234],"type":"Point"}
 }

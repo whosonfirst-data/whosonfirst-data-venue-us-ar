@@ -2,13 +2,14 @@
   "id": 219434957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.148322,34.879329,-92.148322,34.879329",
     "geom:latitude":34.879329,
     "geom:longitude":-92.148322,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1312 Sheridan Dr",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219434957,
-    "wof:lastmodified":1449071164,
+    "wof:lastmodified":1466323147,
     "wof:name":"Tier 3 Project Solutions Inc.",
     "wof:parent_id":85852337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "services-household"
     ]
 },
-  "bbox": [-92.148322,34.879329,-92.148322,34.879329],
-  "geometry": {"coordinates":[-92.148322,34.879329],"type":"Point"}
+  "bbox": [
+    -92.148322,
+    34.879329,
+    -92.148322,
+    34.879329
+],
+  "geometry": {"coordinates":[-92.14832199999999,34.879329],"type":"Point"}
 }

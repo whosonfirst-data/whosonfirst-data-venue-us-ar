@@ -2,13 +2,14 @@
   "id": 219864413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.20365,36.117785,-94.20365,36.117785",
     "geom:latitude":36.117785,
     "geom:longitude":-94.20365,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3210 W Howard Nickell Rd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":219864413,
-    "wof:lastmodified":1449073967,
+    "wof:lastmodified":1466324982,
     "wof:name":"Potty House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "toilets-portable"
     ]
 },
-  "bbox": [-94.20365,36.117785,-94.20365,36.117785],
+  "bbox": [
+    -94.20365,
+    36.117785,
+    -94.20365,
+    36.117785
+],
   "geometry": {"coordinates":[-94.20365,36.117785],"type":"Point"}
 }

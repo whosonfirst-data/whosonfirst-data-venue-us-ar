@@ -2,13 +2,14 @@
   "id": 219445037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.677062,35.325595,-91.677062,35.325595",
     "geom:latitude":35.325595,
     "geom:longitude":-91.677062,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2564 Highway 157",
     "sg:city":"Judsonia",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219445037,
-    "wof:lastmodified":1449070873,
+    "wof:lastmodified":1466323306,
     "wof:name":"Sneeds Flea Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "market"
     ]
 },
-  "bbox": [-91.677062,35.325595,-91.677062,35.325595],
-  "geometry": {"coordinates":[-91.677062,35.325595],"type":"Point"}
+  "bbox": [
+    -91.677062,
+    35.325595,
+    -91.677062,
+    35.325595
+],
+  "geometry": {"coordinates":[-91.67706200000001,35.325595],"type":"Point"}
 }

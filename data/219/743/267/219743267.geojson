@@ -2,13 +2,14 @@
   "id": 219743267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.460295,36.310363,-91.460295,36.310363",
     "geom:latitude":36.310363,
     "geom:longitude":-91.460295,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1951 Highway 63",
     "sg:city":"Hardy",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":219743267,
-    "wof:lastmodified":1449073893,
+    "wof:lastmodified":1466324903,
     "wof:name":"Me & My Mom's Scrapbooking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "supply"
     ]
 },
-  "bbox": [-91.460295,36.310363,-91.460295,36.310363],
+  "bbox": [
+    -91.460295,
+    36.310363,
+    -91.460295,
+    36.310363
+],
   "geometry": {"coordinates":[-91.460295,36.310363],"type":"Point"}
 }

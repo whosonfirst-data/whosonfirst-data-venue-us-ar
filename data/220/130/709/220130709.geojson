@@ -2,13 +2,14 @@
   "id": 220130709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.14726,34.894552,-94.14726,34.894552",
     "geom:latitude":34.894552,
     "geom:longitude":-94.14726,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3884 Lower Winfield Rd",
     "sg:city":"Waldron",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":220130709,
-    "wof:lastmodified":1449074290,
+    "wof:lastmodified":1466322805,
     "wof:name":"Newman Logging",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "logging"
     ]
 },
-  "bbox": [-94.14726,34.894552,-94.14726,34.894552],
+  "bbox": [
+    -94.14726,
+    34.894552,
+    -94.14726,
+    34.894552
+],
   "geometry": {"coordinates":[-94.14726,34.894552],"type":"Point"}
 }

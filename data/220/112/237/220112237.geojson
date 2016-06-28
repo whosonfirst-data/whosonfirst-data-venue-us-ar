@@ -2,13 +2,14 @@
   "id": 220112237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.255505,35.218816,-94.255505,35.218816",
     "geom:latitude":35.218816,
     "geom:longitude":-94.255505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"440 E Gary St",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":220112237,
-    "wof:lastmodified":1449074384,
+    "wof:lastmodified":1466322448,
     "wof:name":"Greenwood High School Counselor",
     "wof:parent_id":85832863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "private"
     ]
 },
-  "bbox": [-94.255505,35.218816,-94.255505,35.218816],
+  "bbox": [
+    -94.255505,
+    35.218816,
+    -94.255505,
+    35.218816
+],
   "geometry": {"coordinates":[-94.255505,35.218816],"type":"Point"}
 }

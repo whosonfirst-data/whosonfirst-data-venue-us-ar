@@ -2,13 +2,14 @@
   "id": 220019041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.155255,36.217726,-94.155255,36.217726",
     "geom:latitude":36.217726,
     "geom:longitude":-94.155255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2396 Huntsboro Ln",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":220019041,
-    "wof:lastmodified":1449074511,
+    "wof:lastmodified":1466320487,
     "wof:name":"Phil D West Pa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.155255,36.217726,-94.155255,36.217726],
+  "bbox": [
+    -94.155255,
+    36.217726,
+    -94.155255,
+    36.217726
+],
   "geometry": {"coordinates":[-94.155255,36.217726],"type":"Point"}
 }

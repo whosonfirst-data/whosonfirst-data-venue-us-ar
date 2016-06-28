@@ -2,13 +2,14 @@
   "id": 220004769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.188591,36.328455,-94.188591,36.328455",
     "geom:latitude":36.328455,
     "geom:longitude":-94.188591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"593 Horsebarn Rd",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":220004769,
-    "wof:lastmodified":1449074320,
+    "wof:lastmodified":1466320461,
     "wof:name":"The Wulf Clinic of Rogers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "physical"
     ]
 },
-  "bbox": [-94.188591,36.328455,-94.188591,36.328455],
+  "bbox": [
+    -94.188591,
+    36.328455,
+    -94.188591,
+    36.328455
+],
   "geometry": {"coordinates":[-94.188591,36.328455],"type":"Point"}
 }

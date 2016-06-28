@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102405331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.136008,36.04131,-94.136008,36.04131",
     "geom:latitude":36.04131,
     "geom:longitude":-94.136008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2084 S Armstrong Rd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102405331,
-    "wof:lastmodified":1449069994,
+    "wof:lastmodified":1466325030,
     "wof:name":"Armstrong Storage Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.136008,36.04131,-94.136008,36.04131],
+  "bbox": [
+    -94.136008,
+    36.04131,
+    -94.136008,
+    36.04131
+],
   "geometry": {"coordinates":[-94.136008,36.04131],"type":"Point"}
 }

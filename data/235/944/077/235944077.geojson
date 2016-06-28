@@ -2,13 +2,14 @@
   "id": 235944077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.742348,36.17976,-94.742348,36.17976",
     "geom:latitude":36.17976,
     "geom:longitude":-94.742348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"740 S White Oak Rd",
     "sg:city":"Colcord",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":235944077,
-    "wof:lastmodified":1449008417,
+    "wof:lastmodified":1466320413,
     "wof:name":"Flint Appliance Service",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "appliances-major-used"
     ]
 },
-  "bbox": [-94.742348,36.17976,-94.742348,36.17976],
-  "geometry": {"coordinates":[-94.742348,36.17976],"type":"Point"}
+  "bbox": [
+    -94.742348,
+    36.17976,
+    -94.742348,
+    36.17976
+],
+  "geometry": {"coordinates":[-94.74234800000001,36.17976],"type":"Point"}
 }

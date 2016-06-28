@@ -2,13 +2,14 @@
   "id": 219559135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.246918,35.082249,-92.246918,35.082249",
     "geom:latitude":35.082249,
     "geom:longitude":-92.246918,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"898 Main St",
     "sg:city":"Vilonia",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219559135,
-    "wof:lastmodified":1449073160,
+    "wof:lastmodified":1466324396,
     "wof:name":"J E Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.246918,35.082249,-92.246918,35.082249],
-  "geometry": {"coordinates":[-92.246918,35.082249],"type":"Point"}
+  "bbox": [
+    -92.246918,
+    35.082249,
+    -92.246918,
+    35.082249
+],
+  "geometry": {"coordinates":[-92.24691799999999,35.082249],"type":"Point"}
 }

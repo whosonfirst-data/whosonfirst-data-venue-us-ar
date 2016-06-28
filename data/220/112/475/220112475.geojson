@@ -2,13 +2,14 @@
   "id": 220112475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.250052,35.215996,-94.250052,35.215996",
     "geom:latitude":35.215996,
     "geom:longitude":-94.250052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"213 Bell Rd",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220112475,
-    "wof:lastmodified":1449074389,
+    "wof:lastmodified":1466322453,
     "wof:name":"Premier Lawn Services",
     "wof:parent_id":85832863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-94.250052,35.215996,-94.250052,35.215996],
+  "bbox": [
+    -94.250052,
+    35.215996,
+    -94.250052,
+    35.215996
+],
   "geometry": {"coordinates":[-94.250052,35.215996],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219630183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.670244,35.828369,-90.670244,35.828369",
     "geom:latitude":35.828369,
     "geom:longitude":-90.670244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2905 E Nettleton Ave",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":219630183,
-    "wof:lastmodified":1449071652,
+    "wof:lastmodified":1466324840,
     "wof:name":"B & L Trucking",
     "wof:parent_id":85836541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "hauling"
     ]
 },
-  "bbox": [-90.670244,35.828369,-90.670244,35.828369],
+  "bbox": [
+    -90.670244,
+    35.828369,
+    -90.670244,
+    35.828369
+],
   "geometry": {"coordinates":[-90.670244,35.828369],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336757205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.522726,36.201028,-94.522726,36.201028",
     "geom:latitude":36.201028,
     "geom:longitude":-94.522726,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1801 N Lincoln St",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336757205,
-    "wof:lastmodified":1448997544,
+    "wof:lastmodified":1466320423,
     "wof:name":"Gates Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "belting"
     ]
 },
-  "bbox": [-94.522726,36.201028,-94.522726,36.201028],
-  "geometry": {"coordinates":[-94.522726,36.201028],"type":"Point"}
+  "bbox": [
+    -94.522726,
+    36.201028,
+    -94.522726,
+    36.201028
+],
+  "geometry": {"coordinates":[-94.52272600000001,36.201028],"type":"Point"}
 }

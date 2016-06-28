@@ -2,13 +2,14 @@
   "id": 219819595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.161812,36.018704,-94.161812,36.018704",
     "geom:latitude":36.018704,
     "geom:longitude":-94.161812,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"89 W Willoughby Rd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219819595,
-    "wof:lastmodified":1449071234,
+    "wof:lastmodified":1466325047,
     "wof:name":"Miller Computer Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "bureau"
     ]
 },
-  "bbox": [-94.161812,36.018704,-94.161812,36.018704],
+  "bbox": [
+    -94.161812,
+    36.018704,
+    -94.161812,
+    36.018704
+],
   "geometry": {"coordinates":[-94.161812,36.018704],"type":"Point"}
 }

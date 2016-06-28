@@ -2,13 +2,14 @@
   "id": 220055467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.141893,36.163261,-94.141893,36.163261",
     "geom:latitude":36.163261,
     "geom:longitude":-94.141893,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"905 Hembree Ave",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":220055467,
-    "wof:lastmodified":1449074217,
+    "wof:lastmodified":1466320840,
     "wof:name":"Springdale Recycling Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.141893,36.163261,-94.141893,36.163261],
+  "bbox": [
+    -94.141893,
+    36.163261,
+    -94.141893,
+    36.163261
+],
   "geometry": {"coordinates":[-94.141893,36.163261],"type":"Point"}
 }

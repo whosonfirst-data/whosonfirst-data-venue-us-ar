@@ -2,13 +2,14 @@
   "id": 219472235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.733521,35.134899,-92.733521,35.134899",
     "geom:latitude":35.134899,
     "geom:longitude":-92.733521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1116 S Bridge St",
     "sg:city":"Morrilton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219472235,
-    "wof:lastmodified":1449070662,
+    "wof:lastmodified":1466323604,
     "wof:name":"David's Muffler Shop",
     "wof:parent_id":85814069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "system"
     ]
 },
-  "bbox": [-92.733521,35.134899,-92.733521,35.134899],
+  "bbox": [
+    -92.733521,
+    35.134899,
+    -92.733521,
+    35.134899
+],
   "geometry": {"coordinates":[-92.733521,35.134899],"type":"Point"}
 }

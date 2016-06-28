@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102320297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.768015,33.854216,-93.768015,33.854216",
     "geom:latitude":33.854216,
     "geom:longitude":-93.768015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6181 US Hwy 278",
     "sg:city":"Ozan",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":102320297,
-    "wof:lastmodified":1449068397,
+    "wof:lastmodified":1466323396,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.768015,33.854216,-93.768015,33.854216],
-  "geometry": {"coordinates":[-93.768015,33.854216],"type":"Point"}
+  "bbox": [
+    -93.768015,
+    33.854216,
+    -93.768015,
+    33.854216
+],
+  "geometry": {"coordinates":[-93.76801500000001,33.854216],"type":"Point"}
 }

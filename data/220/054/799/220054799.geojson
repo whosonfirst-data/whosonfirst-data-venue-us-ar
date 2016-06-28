@@ -2,13 +2,14 @@
   "id": 220054799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.143806,36.154836,-94.143806,36.154836",
     "geom:latitude":36.154836,
     "geom:longitude":-94.143806,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3291 S Thompson St",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220054799,
-    "wof:lastmodified":1449074401,
+    "wof:lastmodified":1466320811,
     "wof:name":"Allstate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "business"
     ]
 },
-  "bbox": [-94.143806,36.154836,-94.143806,36.154836],
+  "bbox": [
+    -94.143806,
+    36.154836,
+    -94.143806,
+    36.154836
+],
   "geometry": {"coordinates":[-94.143806,36.154836],"type":"Point"}
 }

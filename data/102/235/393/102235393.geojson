@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102235393",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.143775,36.153496,-94.143775,36.153496",
     "geom:latitude":36.153496,
     "geom:longitude":-94.143775,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3535 S Thompson St",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102235393",
-    "wof:lastmodified":1449068226,
+    "wof:lastmodified":1466321521,
     "wof:name":"Journey's Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.143775,36.153496,-94.143775,36.153496],
-  "geometry": {"coordinates":[-94.143775,36.153496],"type":"Point"}
+  "bbox": [
+    -94.143775,
+    36.153496,
+    -94.143775,
+    36.153496
+],
+  "geometry": {"coordinates":[-94.14377500000001,36.153496],"type":"Point"}
 }

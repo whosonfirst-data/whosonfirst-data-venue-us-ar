@@ -2,13 +2,14 @@
   "id": 219350591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.517691,34.615089,-92.517691,34.615089",
     "geom:latitude":34.615089,
     "geom:longitude":-92.517691,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3401 Highway 5 N Ste 2",
     "sg:city":"Bryant",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219350591,
-    "wof:lastmodified":1449072183,
+    "wof:lastmodified":1466322282,
     "wof:name":"Bryant Youth Association, Inc.",
     "wof:parent_id":85817531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "educational"
     ]
 },
-  "bbox": [-92.517691,34.615089,-92.517691,34.615089],
+  "bbox": [
+    -92.517691,
+    34.615089,
+    -92.517691,
+    34.615089
+],
   "geometry": {"coordinates":[-92.517691,34.615089],"type":"Point"}
 }

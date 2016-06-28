@@ -2,13 +2,14 @@
   "id": 219793685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.604841,36.314369,-92.604841,36.314369",
     "geom:latitude":36.314369,
     "geom:longitude":-92.604841,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3337 Highway 178 N",
     "sg:city":"Flippin",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219793685,
-    "wof:lastmodified":1449072322,
+    "wof:lastmodified":1466324950,
     "wof:name":"Coatney Small Engine Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "rebuilding"
     ]
 },
-  "bbox": [-92.604841,36.314369,-92.604841,36.314369],
-  "geometry": {"coordinates":[-92.604841,36.314369],"type":"Point"}
+  "bbox": [
+    -92.604841,
+    36.314369,
+    -92.604841,
+    36.314369
+],
+  "geometry": {"coordinates":[-92.60484099999999,36.314369],"type":"Point"}
 }

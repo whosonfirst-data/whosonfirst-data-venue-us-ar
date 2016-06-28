@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102209317",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.115411,35.40287,-93.115411,35.40287",
     "geom:latitude":35.40287,
     "geom:longitude":-93.115411,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9828 State Rte 7 N",
     "sg:city":"Dover",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102209317",
-    "wof:lastmodified":1449069933,
+    "wof:lastmodified":1466320856,
     "wof:name":"Dover Washboard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.115411,35.40287,-93.115411,35.40287],
-  "geometry": {"coordinates":[-93.115411,35.40287],"type":"Point"}
+  "bbox": [
+    -93.115411,
+    35.40287,
+    -93.115411,
+    35.40287
+],
+  "geometry": {"coordinates":[-93.11541099999999,35.40287],"type":"Point"}
 }

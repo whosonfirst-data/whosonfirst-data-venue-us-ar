@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102388119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.36258,34.668065,-92.36258,34.668065",
     "geom:latitude":34.668065,
     "geom:longitude":-92.36258,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9100 Chicot Rd",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85833869,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85833869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102388119,
-    "wof:lastmodified":1449067869,
+    "wof:lastmodified":1466323762,
     "wof:name":"Paradise Team Realty",
     "wof:parent_id":85833869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.36258,34.668065,-92.36258,34.668065],
-  "geometry": {"coordinates":[-92.36258,34.668065],"type":"Point"}
+  "bbox": [
+    -92.36258,
+    34.668065,
+    -92.36258,
+    34.668065
+],
+  "geometry": {"coordinates":[-92.36257999999999,34.668065],"type":"Point"}
 }

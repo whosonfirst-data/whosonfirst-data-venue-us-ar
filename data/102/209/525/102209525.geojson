@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102209525",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.665455,33.23136,-92.665455,33.23136",
     "geom:latitude":33.23136,
     "geom:longitude":-92.665455,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2115 N West Ave",
     "sg:city":"El Dorado",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102209525",
-    "wof:lastmodified":1449069938,
+    "wof:lastmodified":1466320899,
     "wof:name":"South Chiropractic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.665455,33.23136,-92.665455,33.23136],
-  "geometry": {"coordinates":[-92.665455,33.23136],"type":"Point"}
+  "bbox": [
+    -92.665455,
+    33.23136,
+    -92.665455,
+    33.23136
+],
+  "geometry": {"coordinates":[-92.66545499999999,33.23136],"type":"Point"}
 }

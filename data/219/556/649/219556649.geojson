@@ -2,13 +2,14 @@
   "id": 219556649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.605611,34.24672,-91.605611,34.24672",
     "geom:latitude":34.24672,
     "geom:longitude":-91.605611,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"550 Simpson Ln",
     "sg:city":"Stuttgart",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219556649,
-    "wof:lastmodified":1449071274,
+    "wof:lastmodified":1466324586,
     "wof:name":"Bart A Sollars",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.605611,34.24672,-91.605611,34.24672],
+  "bbox": [
+    -91.605611,
+    34.24672,
+    -91.605611,
+    34.24672
+],
   "geometry": {"coordinates":[-91.605611,34.24672],"type":"Point"}
 }

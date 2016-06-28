@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102361393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.957625,33.135361,-91.957625,33.135361",
     "geom:latitude":33.135361,
     "geom:longitude":-91.957625,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Beech St",
     "sg:city":"Crossett",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102361393,
-    "wof:lastmodified":1449069553,
+    "wof:lastmodified":1466324244,
     "wof:name":"Sugar Plum Day Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.957625,33.135361,-91.957625,33.135361],
-  "geometry": {"coordinates":[-91.957625,33.135361],"type":"Point"}
+  "bbox": [
+    -91.957625,
+    33.135361,
+    -91.957625,
+    33.135361
+],
+  "geometry": {"coordinates":[-91.95762499999999,33.135361],"type":"Point"}
 }

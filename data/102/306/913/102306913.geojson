@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102306913",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.091597,33.824529,-93.091597,33.824529",
     "geom:latitude":33.824529,
     "geom:longitude":-93.091597,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 Elia Ln",
     "sg:city":"Gurdon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102306913",
-    "wof:lastmodified":1449070094,
+    "wof:lastmodified":1466323285,
     "wof:name":"Hughes Pew Cushions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.091597,33.824529,-93.091597,33.824529],
-  "geometry": {"coordinates":[-93.091597,33.824529],"type":"Point"}
+  "bbox": [
+    -93.091597,
+    33.824529,
+    -93.091597,
+    33.824529
+],
+  "geometry": {"coordinates":[-93.09159699999999,33.824529],"type":"Point"}
 }

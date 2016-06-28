@@ -2,13 +2,14 @@
   "id": 219412083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.442636,35.08639,-92.442636,35.08639",
     "geom:latitude":35.08639,
     "geom:longitude":-92.442636,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"618 Oliver St",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219412083,
-    "wof:lastmodified":1449071114,
+    "wof:lastmodified":1466322951,
     "wof:name":"Custom Landscape & Sprink",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-92.442636,35.08639,-92.442636,35.08639],
-  "geometry": {"coordinates":[-92.442636,35.08639],"type":"Point"}
+  "bbox": [
+    -92.442636,
+    35.08639,
+    -92.442636,
+    35.08639
+],
+  "geometry": {"coordinates":[-92.44263599999999,35.08639],"type":"Point"}
 }

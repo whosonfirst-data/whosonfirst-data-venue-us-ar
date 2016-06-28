@@ -2,13 +2,14 @@
   "id": 219250671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.830215,33.925702,-93.830215,33.925702",
     "geom:latitude":33.925702,
     "geom:longitude":-93.830215,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"130 Antioch Rd",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219250671,
-    "wof:lastmodified":1449072387,
+    "wof:lastmodified":1466321337,
     "wof:name":"Open Door Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "churches-baptist"
     ]
 },
-  "bbox": [-93.830215,33.925702,-93.830215,33.925702],
+  "bbox": [
+    -93.830215,
+    33.925702,
+    -93.830215,
+    33.925702
+],
   "geometry": {"coordinates":[-93.830215,33.925702],"type":"Point"}
 }

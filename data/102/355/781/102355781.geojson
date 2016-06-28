@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102355781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.905437,35.925156,-89.905437,35.925156",
     "geom:latitude":35.925156,
     "geom:longitude":-89.905437,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 S 3rd St",
     "sg:city":"Blytheville",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102355781,
-    "wof:lastmodified":1449068451,
+    "wof:lastmodified":1466324234,
     "wof:name":"BNSF Railway Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.905437,35.925156,-89.905437,35.925156],
-  "geometry": {"coordinates":[-89.905437,35.925156],"type":"Point"}
+  "bbox": [
+    -89.905437,
+    35.925156,
+    -89.905437,
+    35.925156
+],
+  "geometry": {"coordinates":[-89.90543700000001,35.925156],"type":"Point"}
 }

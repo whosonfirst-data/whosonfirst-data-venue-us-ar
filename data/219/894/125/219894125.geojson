@@ -2,13 +2,14 @@
   "id": 219894125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.249737,36.325649,-94.249737,36.325649",
     "geom:latitude":36.325649,
     "geom:longitude":-94.249737,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8117 S Morning Star Rd",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":219894125,
-    "wof:lastmodified":1449071844,
+    "wof:lastmodified":1466325182,
     "wof:name":"Morning Star Heating & Air Conditioning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-94.249737,36.325649,-94.249737,36.325649],
+  "bbox": [
+    -94.249737,
+    36.325649,
+    -94.249737,
+    36.325649
+],
   "geometry": {"coordinates":[-94.249737,36.325649],"type":"Point"}
 }

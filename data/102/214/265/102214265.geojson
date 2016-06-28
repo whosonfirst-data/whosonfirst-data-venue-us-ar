@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102214265",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.541266,34.327356,-93.541266,34.327356",
     "geom:latitude":34.327356,
     "geom:longitude":-93.541266,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"705 E Broadway",
     "sg:city":"Glenwood",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102214265",
-    "wof:lastmodified":1449070139,
+    "wof:lastmodified":1466320974,
     "wof:name":"Bill West Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.541266,34.327356,-93.541266,34.327356],
-  "geometry": {"coordinates":[-93.541266,34.327356],"type":"Point"}
+  "bbox": [
+    -93.541266,
+    34.327356,
+    -93.541266,
+    34.327356
+],
+  "geometry": {"coordinates":[-93.54126599999999,34.327356],"type":"Point"}
 }

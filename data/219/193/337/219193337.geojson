@@ -2,13 +2,14 @@
   "id": 219193337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.836246,33.572182,-92.836246,33.572182",
     "geom:latitude":33.572182,
     "geom:longitude":-92.836246,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"715 California Ave SW",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219193337,
-    "wof:lastmodified":1449070957,
+    "wof:lastmodified":1466320803,
     "wof:name":"Andy's Restaurants",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "family"
     ]
 },
-  "bbox": [-92.836246,33.572182,-92.836246,33.572182],
+  "bbox": [
+    -92.836246,
+    33.572182,
+    -92.836246,
+    33.572182
+],
   "geometry": {"coordinates":[-92.836246,33.572182],"type":"Point"}
 }

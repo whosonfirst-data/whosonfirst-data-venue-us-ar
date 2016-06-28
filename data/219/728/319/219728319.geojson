@@ -2,13 +2,14 @@
   "id": 219728319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.632358,35.769516,-91.632358,35.769516",
     "geom:latitude":35.769516,
     "geom:longitude":-91.632358,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1931 Harrison St",
     "sg:city":"Batesville",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":219728319,
-    "wof:lastmodified":1449071214,
+    "wof:lastmodified":1466324886,
     "wof:name":"H&R Block",
     "wof:parent_id":85808231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "bookkeeping"
     ]
 },
-  "bbox": [-91.632358,35.769516,-91.632358,35.769516],
+  "bbox": [
+    -91.632358,
+    35.769516,
+    -91.632358,
+    35.769516
+],
   "geometry": {"coordinates":[-91.632358,35.769516],"type":"Point"}
 }

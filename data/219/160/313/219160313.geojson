@@ -2,13 +2,14 @@
   "id": 219160313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.801065,33.622966,-91.801065,33.622966",
     "geom:latitude":33.622966,
     "geom:longitude":-91.801065,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"437 W Conrad Ave",
     "sg:city":"Monticello",
     "sg:classifiers":[
@@ -68,10 +69,11 @@
         }
     ],
     "wof:id":219160313,
-    "wof:lastmodified":1449073353,
+    "wof:lastmodified":1466320470,
     "wof:name":"The Hashem Law Firm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -91,6 +93,11 @@
         "bankruptcy"
     ]
 },
-  "bbox": [-91.801065,33.622966,-91.801065,33.622966],
-  "geometry": {"coordinates":[-91.801065,33.622966],"type":"Point"}
+  "bbox": [
+    -91.801065,
+    33.622966,
+    -91.801065,
+    33.622966
+],
+  "geometry": {"coordinates":[-91.80106499999999,33.622966],"type":"Point"}
 }

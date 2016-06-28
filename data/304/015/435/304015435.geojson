@@ -2,13 +2,14 @@
   "id": 304015435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.746941,36.597846,-94.746941,36.597846",
     "geom:latitude":36.597846,
     "geom:longitude":-94.746941,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"63159 E 290 Rd",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":304015435,
-    "wof:lastmodified":1449043703,
+    "wof:lastmodified":1466324435,
     "wof:name":"Grove Beauty College",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "school"
     ]
 },
-  "bbox": [-94.746941,36.597846,-94.746941,36.597846],
-  "geometry": {"coordinates":[-94.746941,36.597846],"type":"Point"}
+  "bbox": [
+    -94.746941,
+    36.597846,
+    -94.746941,
+    36.597846
+],
+  "geometry": {"coordinates":[-94.74694100000001,36.597846],"type":"Point"}
 }

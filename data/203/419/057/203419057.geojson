@@ -2,13 +2,14 @@
   "id": 203419057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.482719,33.885736,-91.482719,33.885736",
     "geom:latitude":33.885736,
     "geom:longitude":-91.482719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"250 S Peterson St",
     "sg:city":"Dumas",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":203419057,
-    "wof:lastmodified":1449026849,
+    "wof:lastmodified":1466320579,
     "wof:name":"Brannon's Bail Bonds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "bond"
     ]
 },
-  "bbox": [-91.482719,33.885736,-91.482719,33.885736],
+  "bbox": [
+    -91.482719,
+    33.885736,
+    -91.482719,
+    33.885736
+],
   "geometry": {"coordinates":[-91.482719,33.885736],"type":"Point"}
 }

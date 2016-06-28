@@ -2,13 +2,14 @@
   "id": 219917031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.256272,36.045037,-94.256272,36.045037",
     "geom:latitude":36.045037,
     "geom:longitude":-94.256272,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Sugar Pine Pl",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219917031,
-    "wof:lastmodified":1449073445,
+    "wof:lastmodified":1466325035,
     "wof:name":"Tooley Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "park"
     ]
 },
-  "bbox": [-94.256272,36.045037,-94.256272,36.045037],
+  "bbox": [
+    -94.256272,
+    36.045037,
+    -94.256272,
+    36.045037
+],
   "geometry": {"coordinates":[-94.256272,36.045037],"type":"Point"}
 }

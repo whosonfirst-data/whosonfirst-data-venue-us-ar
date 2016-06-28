@@ -2,13 +2,14 @@
   "id": 219363207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.005371,34.961411,-92.005371,34.961411",
     "geom:latitude":34.961411,
     "geom:longitude":-92.005371,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Blake Dr",
     "sg:city":"Cabot",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219363207,
-    "wof:lastmodified":1449073494,
+    "wof:lastmodified":1466322455,
     "wof:name":"Payton Place Homes",
     "wof:parent_id":85839277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "contractor"
     ]
 },
-  "bbox": [-92.005371,34.961411,-92.005371,34.961411],
+  "bbox": [
+    -92.005371,
+    34.961411,
+    -92.005371,
+    34.961411
+],
   "geometry": {"coordinates":[-92.005371,34.961411],"type":"Point"}
 }

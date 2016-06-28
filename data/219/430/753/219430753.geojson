@@ -2,13 +2,14 @@
   "id": 219430753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.318907,34.556005,-92.318907,34.556005",
     "geom:latitude":34.556005,
     "geom:longitude":-92.318907,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21307 N Springlake Rd",
     "sg:city":"Hensley",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219430753,
-    "wof:lastmodified":1449072631,
+    "wof:lastmodified":1466323104,
     "wof:name":"Burris Truck & Fire Apparatus Repair Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truck"
     ]
 },
-  "bbox": [-92.318907,34.556005,-92.318907,34.556005],
+  "bbox": [
+    -92.318907,
+    34.556005,
+    -92.318907,
+    34.556005
+],
   "geometry": {"coordinates":[-92.318907,34.556005],"type":"Point"}
 }

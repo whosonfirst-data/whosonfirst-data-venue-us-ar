@@ -2,13 +2,14 @@
   "id": 219984961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.026612,36.28719,-94.026612,36.28719",
     "geom:latitude":36.28719,
     "geom:longitude":-94.026612,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16165 E Highway 94",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219984961,
-    "wof:lastmodified":1449072378,
+    "wof:lastmodified":1466325239,
     "wof:name":"Army Core Engeers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "vehicle"
     ]
 },
-  "bbox": [-94.026612,36.28719,-94.026612,36.28719],
+  "bbox": [
+    -94.026612,
+    36.28719,
+    -94.026612,
+    36.28719
+],
   "geometry": {"coordinates":[-94.026612,36.28719],"type":"Point"}
 }

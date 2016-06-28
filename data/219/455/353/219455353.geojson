@@ -2,13 +2,14 @@
   "id": 219455353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.827132,34.444219,-92.827132,34.444219",
     "geom:latitude":34.444219,
     "geom:longitude":-92.827132,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12790 Highway 51",
     "sg:city":"Malvern",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219455353,
-    "wof:lastmodified":1449073348,
+    "wof:lastmodified":1466323430,
     "wof:name":"S W Wright",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "management"
     ]
 },
-  "bbox": [-92.827132,34.444219,-92.827132,34.444219],
-  "geometry": {"coordinates":[-92.827132,34.444219],"type":"Point"}
+  "bbox": [
+    -92.827132,
+    34.444219,
+    -92.827132,
+    34.444219
+],
+  "geometry": {"coordinates":[-92.82713200000001,34.444219],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102209569",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.441915,34.996384,-92.441915,34.996384",
     "geom:latitude":34.996384,
     "geom:longitude":-92.441915,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 North Dr",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":"102209569",
-    "wof:lastmodified":1449069937,
+    "wof:lastmodified":1466320908,
     "wof:name":"W K Richardson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.441915,34.996384,-92.441915,34.996384],
-  "geometry": {"coordinates":[-92.441915,34.996384],"type":"Point"}
+  "bbox": [
+    -92.441915,
+    34.996384,
+    -92.441915,
+    34.996384
+],
+  "geometry": {"coordinates":[-92.44191499999999,34.996384],"type":"Point"}
 }

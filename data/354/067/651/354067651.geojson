@@ -2,13 +2,14 @@
   "id": 354067651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.478978,35.259837,-94.478978,35.259837",
     "geom:latitude":35.259837,
     "geom:longitude":-94.478978,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"805 Pryor Ave",
     "sg:city":"Pocola",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354067651,
-    "wof:lastmodified":1449066044,
+    "wof:lastmodified":1466324499,
     "wof:name":"Carman Inc",
     "wof:parent_id":85809847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-94.478978,35.259837,-94.478978,35.259837],
+  "bbox": [
+    -94.478978,
+    35.259837,
+    -94.478978,
+    35.259837
+],
   "geometry": {"coordinates":[-94.478978,35.259837],"type":"Point"}
 }

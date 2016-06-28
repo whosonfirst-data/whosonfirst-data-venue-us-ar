@@ -2,13 +2,14 @@
   "id": 219637995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.691607,35.845346,-90.691607,35.845346",
     "geom:latitude":35.845346,
     "geom:longitude":-90.691607,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 Howard St",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":219637995,
-    "wof:lastmodified":1449070382,
+    "wof:lastmodified":1466324646,
     "wof:name":"Adams And Cooper Plumbing Company Incorporated",
     "wof:parent_id":85836541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "contractor"
     ]
 },
-  "bbox": [-90.691607,35.845346,-90.691607,35.845346],
+  "bbox": [
+    -90.691607,
+    35.845346,
+    -90.691607,
+    35.845346
+],
   "geometry": {"coordinates":[-90.691607,35.845346],"type":"Point"}
 }

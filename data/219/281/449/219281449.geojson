@@ -2,13 +2,14 @@
   "id": 219281449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.122799,34.13779,-93.122799,34.13779",
     "geom:latitude":34.13779,
     "geom:longitude":-93.122799,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Degray Rd",
     "sg:city":"Arkadelphia",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219281449,
-    "wof:lastmodified":1449073374,
+    "wof:lastmodified":1466321579,
     "wof:name":"Wilson's Cleaning Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "house"
     ]
 },
-  "bbox": [-93.122799,34.13779,-93.122799,34.13779],
+  "bbox": [
+    -93.122799,
+    34.13779,
+    -93.122799,
+    34.13779
+],
   "geometry": {"coordinates":[-93.122799,34.13779],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219553057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.552258,34.506789,-91.552258,34.506789",
     "geom:latitude":34.506789,
     "geom:longitude":-91.552258,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"615 N Main St",
     "sg:city":"Stuttgart",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":219553057,
-    "wof:lastmodified":1449070392,
+    "wof:lastmodified":1466324357,
     "wof:name":"Krisell Machine And Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "pumps-service"
     ]
 },
-  "bbox": [-91.552258,34.506789,-91.552258,34.506789],
-  "geometry": {"coordinates":[-91.552258,34.506789],"type":"Point"}
+  "bbox": [
+    -91.552258,
+    34.506789,
+    -91.552258,
+    34.506789
+],
+  "geometry": {"coordinates":[-91.55225799999999,34.506789],"type":"Point"}
 }

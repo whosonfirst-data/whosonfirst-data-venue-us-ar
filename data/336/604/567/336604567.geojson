@@ -2,13 +2,14 @@
   "id": 336604567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.251352,34.586176,-94.251352,34.586176",
     "geom:latitude":34.586176,
     "geom:longitude":-94.251352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"246 Polk St S",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336604567,
-    "wof:lastmodified":1448997897,
+    "wof:lastmodified":1466324504,
     "wof:name":"Newsom Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-94.251352,34.586176,-94.251352,34.586176],
+  "bbox": [
+    -94.251352,
+    34.586176,
+    -94.251352,
+    34.586176
+],
   "geometry": {"coordinates":[-94.251352,34.586176],"type":"Point"}
 }

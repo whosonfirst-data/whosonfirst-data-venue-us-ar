@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102230761",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.466056,34.806338,-92.466056,34.806338",
     "geom:latitude":34.806338,
     "geom:longitude":-92.466056,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5509 Chevaux Ct",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102230761",
-    "wof:lastmodified":1449069583,
+    "wof:lastmodified":1466321486,
     "wof:name":"Trellis Square Shopping Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.466056,34.806338,-92.466056,34.806338],
-  "geometry": {"coordinates":[-92.466056,34.806338],"type":"Point"}
+  "bbox": [
+    -92.466056,
+    34.806338,
+    -92.466056,
+    34.806338
+],
+  "geometry": {"coordinates":[-92.46605599999999,34.806338],"type":"Point"}
 }

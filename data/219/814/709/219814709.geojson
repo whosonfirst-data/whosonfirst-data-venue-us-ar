@@ -2,13 +2,14 @@
   "id": 219814709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.139169,36.077551,-94.139169,36.077551",
     "geom:latitude":36.077551,
     "geom:longitude":-94.139169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1541 E Columbus Blvd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219814709,
-    "wof:lastmodified":1449071043,
+    "wof:lastmodified":1466324884,
     "wof:name":"Simco Examination Inc",
     "wof:parent_id":85885465,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "insurance"
     ]
 },
-  "bbox": [-94.139169,36.077551,-94.139169,36.077551],
+  "bbox": [
+    -94.139169,
+    36.077551,
+    -94.139169,
+    36.077551
+],
   "geometry": {"coordinates":[-94.139169,36.077551],"type":"Point"}
 }

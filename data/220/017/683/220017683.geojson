@@ -2,13 +2,14 @@
   "id": 220017683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.154512,36.174822,-94.154512,36.174822",
     "geom:latitude":36.174822,
     "geom:longitude":-94.154512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2200 W Sunset Ave Ste A-8",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -75,10 +76,11 @@
         }
     ],
     "wof:id":220017683,
-    "wof:lastmodified":1449074475,
+    "wof:lastmodified":1466320490,
     "wof:name":"Care IV Home Health",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -89,6 +91,11 @@
         "assistant"
     ]
 },
-  "bbox": [-94.154512,36.174822,-94.154512,36.174822],
+  "bbox": [
+    -94.154512,
+    36.174822,
+    -94.154512,
+    36.174822
+],
   "geometry": {"coordinates":[-94.154512,36.174822],"type":"Point"}
 }

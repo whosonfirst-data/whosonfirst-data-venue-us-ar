@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102404021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.721231,35.291816,-93.721231,35.291816",
     "geom:latitude":35.291816,
     "geom:longitude":-93.721231,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27 S 10th St",
     "sg:city":"Paris",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102404021,
-    "wof:lastmodified":1449069382,
+    "wof:lastmodified":1466324877,
     "wof:name":"A Unique Touch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.721231,35.291816,-93.721231,35.291816],
+  "bbox": [
+    -93.721231,
+    35.291816,
+    -93.721231,
+    35.291816
+],
   "geometry": {"coordinates":[-93.721231,35.291816],"type":"Point"}
 }

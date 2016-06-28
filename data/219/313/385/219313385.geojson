@@ -2,13 +2,14 @@
   "id": 219313385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.691194,34.054354,-93.691194,34.054354",
     "geom:latitude":34.054354,
     "geom:longitude":-93.691194,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Billy Winn St Apt 15",
     "sg:city":"Murfreesboro",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219313385,
-    "wof:lastmodified":1449070474,
+    "wof:lastmodified":1466321844,
     "wof:name":"Murfreesboro Apts,",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "listing"
     ]
 },
-  "bbox": [-93.691194,34.054354,-93.691194,34.054354],
+  "bbox": [
+    -93.691194,
+    34.054354,
+    -93.691194,
+    34.054354
+],
   "geometry": {"coordinates":[-93.691194,34.054354],"type":"Point"}
 }

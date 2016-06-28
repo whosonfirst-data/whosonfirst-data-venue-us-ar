@@ -2,13 +2,14 @@
   "id": 219344839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.536632,34.597056,-92.536632,34.597056",
     "geom:latitude":34.597056,
     "geom:longitude":-92.536632,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4321 Boone Rd",
     "sg:city":"Benton",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219344839,
-    "wof:lastmodified":1449070556,
+    "wof:lastmodified":1466322186,
     "wof:name":"Eagle Electric",
     "wof:parent_id":85817531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "electric"
     ]
 },
-  "bbox": [-92.536632,34.597056,-92.536632,34.597056],
+  "bbox": [
+    -92.536632,
+    34.597056,
+    -92.536632,
+    34.597056
+],
   "geometry": {"coordinates":[-92.536632,34.597056],"type":"Point"}
 }

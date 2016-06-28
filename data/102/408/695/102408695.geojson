@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102408695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.506487,34.67314,-92.506487,34.67314",
     "geom:latitude":34.67314,
     "geom:longitude":-92.506487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1821 Pamela Way",
     "sg:city":"Alexander",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":102408695,
-    "wof:lastmodified":1449068104,
+    "wof:lastmodified":1466325148,
     "wof:name":"Wells Lawn & Landscape",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.506487,34.67314,-92.506487,34.67314],
-  "geometry": {"coordinates":[-92.506487,34.67314],"type":"Point"}
+  "bbox": [
+    -92.506487,
+    34.67314,
+    -92.506487,
+    34.67314
+],
+  "geometry": {"coordinates":[-92.50648700000001,34.67314],"type":"Point"}
 }

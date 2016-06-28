@@ -2,13 +2,14 @@
   "id": 219736707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.884459,35.67,-91.884459,35.67",
     "geom:latitude":35.67,
     "geom:longitude":-91.884459,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9645 Heber Springs Rd N",
     "sg:city":"Concord",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219736707,
-    "wof:lastmodified":1449073874,
+    "wof:lastmodified":1466324898,
     "wof:name":"G&O Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cars-wholesale"
     ]
 },
-  "bbox": [-91.884459,35.67,-91.884459,35.67],
-  "geometry": {"coordinates":[-91.884459,35.67],"type":"Point"}
+  "bbox": [
+    -91.884459,
+    35.67,
+    -91.884459,
+    35.67
+],
+  "geometry": {"coordinates":[-91.88445900000001,35.67],"type":"Point"}
 }

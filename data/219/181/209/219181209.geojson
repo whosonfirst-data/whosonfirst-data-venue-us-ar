@@ -2,13 +2,14 @@
   "id": 219181209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.063024,33.612234,-92.063024,33.612234",
     "geom:latitude":33.612234,
     "geom:longitude":-92.063024,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 S Myrtle St",
     "sg:city":"Warren",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219181209,
-    "wof:lastmodified":1449072562,
+    "wof:lastmodified":1466320641,
     "wof:name":"Premier Tanning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "salon"
     ]
 },
-  "bbox": [-92.063024,33.612234,-92.063024,33.612234],
+  "bbox": [
+    -92.063024,
+    33.612234,
+    -92.063024,
+    33.612234
+],
   "geometry": {"coordinates":[-92.063024,33.612234],"type":"Point"}
 }

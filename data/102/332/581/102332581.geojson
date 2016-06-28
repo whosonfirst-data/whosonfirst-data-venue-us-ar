@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102332581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.438211,35.701679,-91.438211,35.701679",
     "geom:latitude":35.701679,
     "geom:longitude":-91.438211,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 E 7th St",
     "sg:city":"Newark",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102332581,
-    "wof:lastmodified":1449069075,
+    "wof:lastmodified":1466323708,
     "wof:name":"Connie's Corner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.438211,35.701679,-91.438211,35.701679],
+  "bbox": [
+    -91.438211,
+    35.701679,
+    -91.438211,
+    35.701679
+],
   "geometry": {"coordinates":[-91.438211,35.701679],"type":"Point"}
 }

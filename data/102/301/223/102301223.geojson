@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102301223",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.008964,34.960824,-92.008964,34.960824",
     "geom:latitude":34.960824,
     "geom:longitude":-92.008964,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"36 Pond St",
     "sg:city":"Cabot",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102301223",
-    "wof:lastmodified":1449068406,
+    "wof:lastmodified":1466323018,
     "wof:name":"Central Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.008964,34.960824,-92.008964,34.960824],
-  "geometry": {"coordinates":[-92.008964,34.960824],"type":"Point"}
+  "bbox": [
+    -92.008964,
+    34.960824,
+    -92.008964,
+    34.960824
+],
+  "geometry": {"coordinates":[-92.00896400000001,34.960824],"type":"Point"}
 }

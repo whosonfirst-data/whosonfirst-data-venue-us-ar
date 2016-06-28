@@ -2,13 +2,14 @@
   "id": 219907979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.295485,36.356233,-94.295485,36.356233",
     "geom:latitude":36.356233,
     "geom:longitude":-94.295485,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 Shane Dr",
     "sg:city":"Centerton",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219907979,
-    "wof:lastmodified":1449073641,
+    "wof:lastmodified":1466325032,
     "wof:name":"Uptown Lawn Hydro Seeding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "hydroseeding"
     ]
 },
-  "bbox": [-94.295485,36.356233,-94.295485,36.356233],
+  "bbox": [
+    -94.295485,
+    36.356233,
+    -94.295485,
+    36.356233
+],
   "geometry": {"coordinates":[-94.295485,36.356233],"type":"Point"}
 }

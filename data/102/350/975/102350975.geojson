@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102350975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.758103,36.21887,-91.758103,36.21887",
     "geom:latitude":36.21887,
     "geom:longitude":-91.758103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 Market St",
     "sg:city":"Horseshoe Bend",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102350975,
-    "wof:lastmodified":1449068976,
+    "wof:lastmodified":1466324146,
     "wof:name":"That's Me Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.758103,36.21887,-91.758103,36.21887],
-  "geometry": {"coordinates":[-91.758103,36.21887],"type":"Point"}
+  "bbox": [
+    -91.758103,
+    36.21887,
+    -91.758103,
+    36.21887
+],
+  "geometry": {"coordinates":[-91.75810300000001,36.21887],"type":"Point"}
 }

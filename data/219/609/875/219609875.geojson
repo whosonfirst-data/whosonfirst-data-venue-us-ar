@@ -2,13 +2,14 @@
   "id": 219609875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.920181,34.982284,-90.920181,34.982284",
     "geom:latitude":34.982284,
     "geom:longitude":-90.920181,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"134 Neighborhood Dr",
     "sg:city":"Palestine",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219609875,
-    "wof:lastmodified":1449071701,
+    "wof:lastmodified":1466324601,
     "wof:name":"Northside Day Care Inc. Forrest City, Ar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "day"
     ]
 },
-  "bbox": [-90.920181,34.982284,-90.920181,34.982284],
+  "bbox": [
+    -90.920181,
+    34.982284,
+    -90.920181,
+    34.982284
+],
   "geometry": {"coordinates":[-90.920181,34.982284],"type":"Point"}
 }

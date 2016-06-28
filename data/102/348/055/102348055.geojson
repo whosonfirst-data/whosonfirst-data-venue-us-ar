@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102348055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.973639,36.052476,-90.973639,36.052476",
     "geom:latitude":36.052476,
     "geom:longitude":-90.973639,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 NW Texas St",
     "sg:city":"Hoxie",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102348055,
-    "wof:lastmodified":1449067887,
+    "wof:lastmodified":1466323941,
     "wof:name":"American Cellular",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.973639,36.052476,-90.973639,36.052476],
-  "geometry": {"coordinates":[-90.973639,36.052476],"type":"Point"}
+  "bbox": [
+    -90.973639,
+    36.052476,
+    -90.973639,
+    36.052476
+],
+  "geometry": {"coordinates":[-90.97363900000001,36.052476],"type":"Point"}
 }

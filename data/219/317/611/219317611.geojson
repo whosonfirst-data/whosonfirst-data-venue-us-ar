@@ -2,13 +2,14 @@
   "id": 219317611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.771901,34.618705,-93.771901,34.618705",
     "geom:latitude":34.618705,
     "geom:longitude":-93.771901,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1296 W Highway 88",
     "sg:city":"Oden",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219317611,
-    "wof:lastmodified":1449072010,
+    "wof:lastmodified":1466321876,
     "wof:name":"Busy Bee Hospitality Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "bureau"
     ]
 },
-  "bbox": [-93.771901,34.618705,-93.771901,34.618705],
+  "bbox": [
+    -93.771901,
+    34.618705,
+    -93.771901,
+    34.618705
+],
   "geometry": {"coordinates":[-93.771901,34.618705],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219254747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.037742,33.466093,-94.037742,33.466093",
     "geom:latitude":33.466093,
     "geom:longitude":-94.037742,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4303 County Ave Ofc",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":219254747,
-    "wof:lastmodified":1449072812,
+    "wof:lastmodified":1466321366,
     "wof:name":"Fox Creek Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "listing"
     ]
 },
-  "bbox": [-94.037742,33.466093,-94.037742,33.466093],
-  "geometry": {"coordinates":[-94.037742,33.466093],"type":"Point"}
+  "bbox": [
+    -94.037742,
+    33.466093,
+    -94.037742,
+    33.466093
+],
+  "geometry": {"coordinates":[-94.03774199999999,33.466093],"type":"Point"}
 }

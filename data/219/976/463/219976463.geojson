@@ -2,13 +2,14 @@
   "id": 219976463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.137904,36.333872,-94.137904,36.333872",
     "geom:latitude":36.333872,
     "geom:longitude":-94.137904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1417 W Walnut St",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -70,10 +71,11 @@
         }
     ],
     "wof:id":219976463,
-    "wof:lastmodified":1449071849,
+    "wof:lastmodified":1466325180,
     "wof:name":"Allstate Insurance Company - Saleta Matthews-Jech",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -85,6 +87,11 @@
         "renter"
     ]
 },
-  "bbox": [-94.137904,36.333872,-94.137904,36.333872],
-  "geometry": {"coordinates":[-94.137904,36.333872],"type":"Point"}
+  "bbox": [
+    -94.137904,
+    36.333872,
+    -94.137904,
+    36.333872
+],
+  "geometry": {"coordinates":[-94.13790400000001,36.333872],"type":"Point"}
 }

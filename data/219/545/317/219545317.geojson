@@ -2,13 +2,14 @@
   "id": 219545317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.401482,34.306751,-92.401482,34.306751",
     "geom:latitude":34.306751,
     "geom:longitude":-92.401482,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 S Oak St",
     "sg:city":"Sheridan",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219545317,
-    "wof:lastmodified":1449071246,
+    "wof:lastmodified":1466324294,
     "wof:name":"Keely & Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.401482,34.306751,-92.401482,34.306751],
+  "bbox": [
+    -92.401482,
+    34.306751,
+    -92.401482,
+    34.306751
+],
   "geometry": {"coordinates":[-92.401482,34.306751],"type":"Point"}
 }

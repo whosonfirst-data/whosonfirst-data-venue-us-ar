@@ -2,13 +2,14 @@
   "id": 219233815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.576843,33.869301,-93.576843,33.869301",
     "geom:latitude":33.869301,
     "geom:longitude":-93.576843,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 S Main St",
     "sg:city":"Blevins",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219233815,
-    "wof:lastmodified":1449073985,
+    "wof:lastmodified":1466321204,
     "wof:name":"City Of Blevins",
     "wof:parent_id":85820749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "village"
     ]
 },
-  "bbox": [-93.576843,33.869301,-93.576843,33.869301],
+  "bbox": [
+    -93.576843,
+    33.869301,
+    -93.576843,
+    33.869301
+],
   "geometry": {"coordinates":[-93.576843,33.869301],"type":"Point"}
 }

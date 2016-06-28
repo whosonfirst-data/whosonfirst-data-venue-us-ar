@@ -2,13 +2,14 @@
   "id": 235974881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.613838,35.24137,-94.613838,35.24137",
     "geom:latitude":35.24137,
     "geom:longitude":-94.613838,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1008 E Broadway St",
     "sg:city":"Spiro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":235974881,
-    "wof:lastmodified":1449008559,
+    "wof:lastmodified":1466320465,
     "wof:name":"Spiro State Bank",
     "wof:parent_id":85809847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commercial"
     ]
 },
-  "bbox": [-94.613838,35.24137,-94.613838,35.24137],
+  "bbox": [
+    -94.613838,
+    35.24137,
+    -94.613838,
+    35.24137
+],
   "geometry": {"coordinates":[-94.613838,35.24137],"type":"Point"}
 }

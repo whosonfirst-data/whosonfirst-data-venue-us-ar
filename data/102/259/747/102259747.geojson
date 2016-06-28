@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102259747",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.204955,34.781889,-92.204955,34.781889",
     "geom:latitude":34.781889,
     "geom:longitude":-92.204955,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3905 State Hwy 161",
     "sg:city":"N Little Rock",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852263,
+        85688549,
         85633793,
         85921255,
         102082497,
-        85688549
+        85852263
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102259747",
-    "wof:lastmodified":1449068340,
+    "wof:lastmodified":1466322175,
     "wof:name":"Full Gospel Temple",
     "wof:parent_id":85852263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.204955,34.781889,-92.204955,34.781889],
+  "bbox": [
+    -92.204955,
+    34.781889,
+    -92.204955,
+    34.781889
+],
   "geometry": {"coordinates":[-92.204955,34.781889],"type":"Point"}
 }

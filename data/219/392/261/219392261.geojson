@@ -2,13 +2,14 @@
   "id": 219392261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.429703,35.11248,-92.429703,35.11248",
     "geom:latitude":35.11248,
     "geom:longitude":-92.429703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Skyline Dr",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -75,10 +76,11 @@
         }
     ],
     "wof:id":219392261,
-    "wof:lastmodified":1449073226,
+    "wof:lastmodified":1466322782,
     "wof:name":"Alltel Wireless",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -89,6 +91,11 @@
         "supply"
     ]
 },
-  "bbox": [-92.429703,35.11248,-92.429703,35.11248],
+  "bbox": [
+    -92.429703,
+    35.11248,
+    -92.429703,
+    35.11248
+],
   "geometry": {"coordinates":[-92.429703,35.11248],"type":"Point"}
 }

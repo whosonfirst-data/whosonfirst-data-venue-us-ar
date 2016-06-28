@@ -2,13 +2,14 @@
   "id": 219254149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.030212,33.414526,-94.030212,33.414526",
     "geom:latitude":33.414526,
     "geom:longitude":-94.030212,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"714 East St",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219254149,
-    "wof:lastmodified":1449072813,
+    "wof:lastmodified":1466321362,
     "wof:name":"Tfci Thrift Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "hand"
     ]
 },
-  "bbox": [-94.030212,33.414526,-94.030212,33.414526],
-  "geometry": {"coordinates":[-94.030212,33.414526],"type":"Point"}
+  "bbox": [
+    -94.030212,
+    33.414526,
+    -94.030212,
+    33.414526
+],
+  "geometry": {"coordinates":[-94.03021200000001,33.414526],"type":"Point"}
 }

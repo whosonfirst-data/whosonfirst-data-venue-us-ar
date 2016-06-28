@@ -2,13 +2,14 @@
   "id": 219291269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.287303,34.369294,-93.287303,34.369294",
     "geom:latitude":34.369294,
     "geom:longitude":-93.287303,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"357 Country Cottage Pl",
     "sg:city":"Bonnerdale",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219291269,
-    "wof:lastmodified":1449071485,
+    "wof:lastmodified":1466321660,
     "wof:name":"Cram-A-Lot Self Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "self"
     ]
 },
-  "bbox": [-93.287303,34.369294,-93.287303,34.369294],
-  "geometry": {"coordinates":[-93.287303,34.369294],"type":"Point"}
+  "bbox": [
+    -93.287303,
+    34.369294,
+    -93.287303,
+    34.369294
+],
+  "geometry": {"coordinates":[-93.28730299999999,34.369294],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320679345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.476565,36.122642,-94.476565,36.122642",
     "geom:latitude":36.122642,
     "geom:longitude":-94.476565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19682 Nokes Farm Rd",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":320679345,
-    "wof:lastmodified":1449013667,
+    "wof:lastmodified":1466320620,
     "wof:name":"Us Secret Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.476565,36.122642,-94.476565,36.122642],
-  "geometry": {"coordinates":[-94.476565,36.122642],"type":"Point"}
+  "bbox": [
+    -94.476565,
+    36.122642,
+    -94.476565,
+    36.122642
+],
+  "geometry": {"coordinates":[-94.47656499999999,36.122642],"type":"Point"}
 }

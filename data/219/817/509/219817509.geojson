@@ -2,13 +2,14 @@
   "id": 219817509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.143008,36.079588,-94.143008,36.079588",
     "geom:latitude":36.079588,
     "geom:longitude":-94.143008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1208 E Hope St",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219817509,
-    "wof:lastmodified":1449073238,
+    "wof:lastmodified":1466324896,
     "wof:name":"Pinnacle View",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-94.143008,36.079588,-94.143008,36.079588],
-  "geometry": {"coordinates":[-94.143008,36.079588],"type":"Point"}
+  "bbox": [
+    -94.143008,
+    36.079588,
+    -94.143008,
+    36.079588
+],
+  "geometry": {"coordinates":[-94.14300799999999,36.079588],"type":"Point"}
 }

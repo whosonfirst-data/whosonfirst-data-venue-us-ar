@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102222573",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.761013,36.475627,-93.761013,36.475627",
     "geom:latitude":36.475627,
     "geom:longitude":-93.761013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Woodsdale Dr",
     "sg:city":"Eureka Springs",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102222573",
-    "wof:lastmodified":1449069396,
+    "wof:lastmodified":1466321246,
     "wof:name":"Island Airco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.761013,36.475627,-93.761013,36.475627],
-  "geometry": {"coordinates":[-93.761013,36.475627],"type":"Point"}
+  "bbox": [
+    -93.761013,
+    36.475627,
+    -93.761013,
+    36.475627
+],
+  "geometry": {"coordinates":[-93.76101300000001,36.475627],"type":"Point"}
 }

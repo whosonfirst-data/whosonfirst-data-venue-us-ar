@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102420903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.732909,35.939974,-89.732909,35.939974",
     "geom:latitude":35.939974,
     "geom:longitude":-89.732909,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5176 N Co Rd 1015",
     "sg:city":"Blytheville",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102420903,
-    "wof:lastmodified":1449068923,
+    "wof:lastmodified":1466325319,
     "wof:name":"Kirby Transport Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.732909,35.939974,-89.732909,35.939974],
-  "geometry": {"coordinates":[-89.732909,35.939974],"type":"Point"}
+  "bbox": [
+    -89.732909,
+    35.939974,
+    -89.732909,
+    35.939974
+],
+  "geometry": {"coordinates":[-89.73290900000001,35.939974],"type":"Point"}
 }

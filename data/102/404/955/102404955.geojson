@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102404955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.394931,34.748353,-92.394931,34.748353",
     "geom:latitude":34.748353,
     "geom:longitude":-92.394931,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10900 Financial Centre Pkwy",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85833895,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85833895
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102404955,
-    "wof:lastmodified":1449069384,
+    "wof:lastmodified":1466324862,
     "wof:name":"Courtyard By Marriott-West",
     "wof:parent_id":85833895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.394931,34.748353,-92.394931,34.748353],
+  "bbox": [
+    -92.394931,
+    34.748353,
+    -92.394931,
+    34.748353
+],
   "geometry": {"coordinates":[-92.394931,34.748353],"type":"Point"}
 }

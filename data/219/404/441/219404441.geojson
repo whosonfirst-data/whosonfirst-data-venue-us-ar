@@ -2,13 +2,14 @@
   "id": 219404441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.499451,35.098274,-92.499451,35.098274",
     "geom:latitude":35.098274,
     "geom:longitude":-92.499451,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1320 Sunderlin Park Dr",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219404441,
-    "wof:lastmodified":1449072731,
+    "wof:lastmodified":1466322885,
     "wof:name":"Wellsco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "park"
     ]
 },
-  "bbox": [-92.499451,35.098274,-92.499451,35.098274],
-  "geometry": {"coordinates":[-92.499451,35.098274],"type":"Point"}
+  "bbox": [
+    -92.499451,
+    35.098274,
+    -92.499451,
+    35.098274
+],
+  "geometry": {"coordinates":[-92.49945099999999,35.098274],"type":"Point"}
 }

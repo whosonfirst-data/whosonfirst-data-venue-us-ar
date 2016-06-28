@@ -2,13 +2,14 @@
   "id": 219152645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.782227,33.223358,-91.782227,33.223358",
     "geom:latitude":33.223358,
     "geom:longitude":-91.782227,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"915 E Parker St",
     "sg:city":"Hamburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219152645,
-    "wof:lastmodified":1449073120,
+    "wof:lastmodified":1466320409,
     "wof:name":"Garcia Perez Elias",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"
     ]
 },
-  "bbox": [-91.782227,33.223358,-91.782227,33.223358],
-  "geometry": {"coordinates":[-91.782227,33.223358],"type":"Point"}
+  "bbox": [
+    -91.782227,
+    33.223358,
+    -91.782227,
+    33.223358
+],
+  "geometry": {"coordinates":[-91.78222700000001,33.223358],"type":"Point"}
 }

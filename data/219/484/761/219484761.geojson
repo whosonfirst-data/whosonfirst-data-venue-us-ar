@@ -2,13 +2,14 @@
   "id": 219484761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.391817,34.838484,-92.391817,34.838484",
     "geom:latitude":34.838484,
     "geom:longitude":-92.391817,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 Margeaux Dr",
     "sg:city":"Maumelle",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":219484761,
-    "wof:lastmodified":1449073705,
+    "wof:lastmodified":1466323743,
     "wof:name":"Shram Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "coach"
     ]
 },
-  "bbox": [-92.391817,34.838484,-92.391817,34.838484],
+  "bbox": [
+    -92.391817,
+    34.838484,
+    -92.391817,
+    34.838484
+],
   "geometry": {"coordinates":[-92.391817,34.838484],"type":"Point"}
 }

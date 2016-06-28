@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102389315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.715848,35.249386,-91.715848,35.249386",
     "geom:latitude":35.249386,
     "geom:longitude":-91.715848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1901 E Market Ave",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102389315,
-    "wof:lastmodified":1449069694,
+    "wof:lastmodified":1466324005,
     "wof:name":"Searcy City Fire Station #2",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.715848,35.249386,-91.715848,35.249386],
-  "geometry": {"coordinates":[-91.715848,35.249386],"type":"Point"}
+  "bbox": [
+    -91.715848,
+    35.249386,
+    -91.715848,
+    35.249386
+],
+  "geometry": {"coordinates":[-91.71584799999999,35.249386],"type":"Point"}
 }

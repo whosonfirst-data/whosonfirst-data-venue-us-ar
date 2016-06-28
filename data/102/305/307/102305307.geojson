@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102305307",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.652223,33.211581,-92.652223,33.211581",
     "geom:latitude":33.211581,
     "geom:longitude":-92.652223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 E Main St",
     "sg:city":"El Dorado",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102305307",
-    "wof:lastmodified":1449068168,
+    "wof:lastmodified":1466323137,
     "wof:name":"Byrd Marine & Cycles",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.652223,33.211581,-92.652223,33.211581],
-  "geometry": {"coordinates":[-92.652223,33.211581],"type":"Point"}
+  "bbox": [
+    -92.652223,
+    33.211581,
+    -92.652223,
+    33.211581
+],
+  "geometry": {"coordinates":[-92.65222300000001,33.211581],"type":"Point"}
 }

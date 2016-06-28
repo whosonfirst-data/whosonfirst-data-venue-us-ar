@@ -2,13 +2,14 @@
   "id": 220126755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.826595,35.490526,-93.826595,35.490526",
     "geom:latitude":35.490526,
     "geom:longitude":-93.826595,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"403 N 3rd St Ste A",
     "sg:city":"Ozark",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220126755,
-    "wof:lastmodified":1449074329,
+    "wof:lastmodified":1466322706,
     "wof:name":"Peggy A Boyd Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "business"
     ]
 },
-  "bbox": [-93.826595,35.490526,-93.826595,35.490526],
+  "bbox": [
+    -93.826595,
+    35.490526,
+    -93.826595,
+    35.490526
+],
   "geometry": {"coordinates":[-93.826595,35.490526],"type":"Point"}
 }

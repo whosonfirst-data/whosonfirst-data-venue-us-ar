@@ -2,13 +2,14 @@
   "id": 219407309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.461293,35.053183,-92.461293,35.053183",
     "geom:latitude":35.053183,
     "geom:longitude":-92.461293,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2390 Orchid",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219407309,
-    "wof:lastmodified":1449072331,
+    "wof:lastmodified":1466322911,
     "wof:name":"Keystone Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "park"
     ]
 },
-  "bbox": [-92.461293,35.053183,-92.461293,35.053183],
+  "bbox": [
+    -92.461293,
+    35.053183,
+    -92.461293,
+    35.053183
+],
   "geometry": {"coordinates":[-92.461293,35.053183],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102237401",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.902808,35.927533,-89.902808,35.927533",
     "geom:latitude":35.927533,
     "geom:longitude":-89.902808,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 E Main St",
     "sg:city":"Blytheville",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102237401",
-    "wof:lastmodified":1449067827,
+    "wof:lastmodified":1466321554,
     "wof:name":"B & J Wedding and Carriage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.902808,35.927533,-89.902808,35.927533],
-  "geometry": {"coordinates":[-89.902808,35.927533],"type":"Point"}
+  "bbox": [
+    -89.902808,
+    35.927533,
+    -89.902808,
+    35.927533
+],
+  "geometry": {"coordinates":[-89.90280799999999,35.927533],"type":"Point"}
 }

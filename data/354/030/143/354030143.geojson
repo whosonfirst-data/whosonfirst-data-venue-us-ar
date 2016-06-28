@@ -2,13 +2,14 @@
   "id": 354030143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.204692,34.59567,-94.204692,34.59567",
     "geom:latitude":34.59567,
     "geom:longitude":-94.204692,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2656 US Hwy 71",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":354030143,
-    "wof:lastmodified":1449066542,
+    "wof:lastmodified":1466324491,
     "wof:name":"Wiles Rock Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "rock"
     ]
 },
-  "bbox": [-94.204692,34.59567,-94.204692,34.59567],
-  "geometry": {"coordinates":[-94.204692,34.59567],"type":"Point"}
+  "bbox": [
+    -94.204692,
+    34.59567,
+    -94.204692,
+    34.59567
+],
+  "geometry": {"coordinates":[-94.20469199999999,34.59567],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102344673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.031399,35.491352,-92.031399,35.491352",
     "geom:latitude":35.491352,
     "geom:longitude":-92.031399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 S 3rd St",
     "sg:city":"Heber Springs",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102344673,
-    "wof:lastmodified":1449067898,
+    "wof:lastmodified":1466323979,
     "wof:name":"Courtesy Consignments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.031399,35.491352,-92.031399,35.491352],
-  "geometry": {"coordinates":[-92.031399,35.491352],"type":"Point"}
+  "bbox": [
+    -92.031399,
+    35.491352,
+    -92.031399,
+    35.491352
+],
+  "geometry": {"coordinates":[-92.03139899999999,35.491352],"type":"Point"}
 }

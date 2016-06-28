@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102314291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.414775,35.303368,-94.414775,35.303368",
     "geom:latitude":35.303368,
     "geom:longitude":-94.414775,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8628 Harvard Dr",
     "sg:city":"Fort Smith",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102082025,
-        85633793,
         85688549,
-        85809847
+        85633793,
+        85809847,
+        102082025
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102314291,
-    "wof:lastmodified":1449070107,
+    "wof:lastmodified":1466323307,
     "wof:name":"K Bradshaw President Baking",
     "wof:parent_id":85809847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.414775,35.303368,-94.414775,35.303368],
-  "geometry": {"coordinates":[-94.414775,35.303368],"type":"Point"}
+  "bbox": [
+    -94.414775,
+    35.303368,
+    -94.414775,
+    35.303368
+],
+  "geometry": {"coordinates":[-94.41477500000001,35.303368],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102337085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.497645,35.098297,-92.497645,35.098297",
     "geom:latitude":35.098297,
     "geom:longitude":-92.497645,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1475 Hogan Ln",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102337085,
-    "wof:lastmodified":1449068902,
+    "wof:lastmodified":1466323734,
     "wof:name":"Boys Scouts Of America",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.497645,35.098297,-92.497645,35.098297],
-  "geometry": {"coordinates":[-92.497645,35.098297],"type":"Point"}
+  "bbox": [
+    -92.497645,
+    35.098297,
+    -92.497645,
+    35.098297
+],
+  "geometry": {"coordinates":[-92.49764500000001,35.098297],"type":"Point"}
 }

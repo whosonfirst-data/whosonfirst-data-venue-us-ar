@@ -2,13 +2,14 @@
   "id": 219449357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.979546,34.856259,-91.979546,34.856259",
     "geom:latitude":34.856259,
     "geom:longitude":-91.979546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16315 Highway 89 S",
     "sg:city":"Lonoke",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219449357,
-    "wof:lastmodified":1449073653,
+    "wof:lastmodified":1466323369,
     "wof:name":"Walters Frm Acct",
     "wof:parent_id":85811577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [-91.979546,34.856259,-91.979546,34.856259],
+  "bbox": [
+    -91.979546,
+    34.856259,
+    -91.979546,
+    34.856259
+],
   "geometry": {"coordinates":[-91.979546,34.856259],"type":"Point"}
 }

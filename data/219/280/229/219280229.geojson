@@ -2,13 +2,14 @@
   "id": 219280229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.079319,34.122319,-93.079319,34.122319",
     "geom:latitude":34.122319,
     "geom:longitude":-93.079319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"131 N 25th St",
     "sg:city":"Arkadelphia",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219280229,
-    "wof:lastmodified":1449072119,
+    "wof:lastmodified":1466321569,
     "wof:name":"Silhouette Shoppe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.079319,34.122319,-93.079319,34.122319],
+  "bbox": [
+    -93.079319,
+    34.122319,
+    -93.079319,
+    34.122319
+],
   "geometry": {"coordinates":[-93.079319,34.122319],"type":"Point"}
 }

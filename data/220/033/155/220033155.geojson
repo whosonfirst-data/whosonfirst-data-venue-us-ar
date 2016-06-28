@@ -2,13 +2,14 @@
   "id": 220033155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.116098,36.177159,-94.116098,36.177159",
     "geom:latitude":36.177159,
     "geom:longitude":-94.116098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1510 Ford Ave",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220033155,
-    "wof:lastmodified":1449074210,
+    "wof:lastmodified":1466320518,
     "wof:name":"C L Swanson Corp.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-94.116098,36.177159,-94.116098,36.177159],
-  "geometry": {"coordinates":[-94.116098,36.177159],"type":"Point"}
+  "bbox": [
+    -94.116098,
+    36.177159,
+    -94.116098,
+    36.177159
+],
+  "geometry": {"coordinates":[-94.11609799999999,36.177159],"type":"Point"}
 }

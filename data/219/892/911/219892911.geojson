@@ -2,13 +2,14 @@
   "id": 219892911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.198322,36.355559,-94.198322,36.355559",
     "geom:latitude":36.355559,
     "geom:longitude":-94.198322,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1103 SE 15th St",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219892911,
-    "wof:lastmodified":1449070908,
+    "wof:lastmodified":1466325016,
     "wof:name":"Threads",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "embroidery"
     ]
 },
-  "bbox": [-94.198322,36.355559,-94.198322,36.355559],
+  "bbox": [
+    -94.198322,
+    36.355559,
+    -94.198322,
+    36.355559
+],
   "geometry": {"coordinates":[-94.198322,36.355559],"type":"Point"}
 }

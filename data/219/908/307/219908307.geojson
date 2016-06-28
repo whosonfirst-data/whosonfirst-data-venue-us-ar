@@ -2,13 +2,14 @@
   "id": 219908307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.288244,36.358509,-94.288244,36.358509",
     "geom:latitude":36.358509,
     "geom:longitude":-94.288244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"417 W Centerton Blvd",
     "sg:city":"Centerton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219908307,
-    "wof:lastmodified":1449072382,
+    "wof:lastmodified":1466325117,
     "wof:name":"1 Stop Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.288244,36.358509,-94.288244,36.358509],
-  "geometry": {"coordinates":[-94.288244,36.358509],"type":"Point"}
+  "bbox": [
+    -94.288244,
+    36.358509,
+    -94.288244,
+    36.358509
+],
+  "geometry": {"coordinates":[-94.28824400000001,36.358509],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219535429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.714345,35.234901,-91.714345,35.234901",
     "geom:latitude":35.234901,
     "geom:longitude":-91.714345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1112 Benton St",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219535429,
-    "wof:lastmodified":1449071034,
+    "wof:lastmodified":1466324223,
     "wof:name":"D & M Auto Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.714345,35.234901,-91.714345,35.234901],
-  "geometry": {"coordinates":[-91.714345,35.234901],"type":"Point"}
+  "bbox": [
+    -91.714345,
+    35.234901,
+    -91.714345,
+    35.234901
+],
+  "geometry": {"coordinates":[-91.71434499999999,35.234901],"type":"Point"}
 }

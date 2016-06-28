@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102414203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.23063,34.840506,-92.23063,34.840506",
     "geom:latitude":34.840506,
     "geom:longitude":-92.23063,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 E Maryland Ave",
     "sg:city":"Sherwood",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851723,
+        85688549,
         85633793,
         85921251,
         102082497,
-        85688549
+        85851723
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102414203,
-    "wof:lastmodified":1449068893,
+    "wof:lastmodified":1466325291,
     "wof:name":"Native American Coalition",
     "wof:parent_id":85851723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.23063,34.840506,-92.23063,34.840506],
+  "bbox": [
+    -92.23063,
+    34.840506,
+    -92.23063,
+    34.840506
+],
   "geometry": {"coordinates":[-92.23063,34.840506],"type":"Point"}
 }

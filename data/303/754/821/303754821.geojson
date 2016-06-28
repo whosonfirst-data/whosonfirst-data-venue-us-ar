@@ -2,13 +2,14 @@
   "id": 303754821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.445075,35.305786,-94.445075,35.305786",
     "geom:latitude":35.305786,
     "geom:longitude":-94.445075,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Knight St",
     "sg:city":"Pocola",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303754821,
-    "wof:lastmodified":1448999719,
+    "wof:lastmodified":1466320586,
     "wof:name":"William Slate Trucking",
     "wof:parent_id":85809847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-94.445075,35.305786,-94.445075,35.305786],
+  "bbox": [
+    -94.445075,
+    35.305786,
+    -94.445075,
+    35.305786
+],
   "geometry": {"coordinates":[-94.445075,35.305786],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219992853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.16081,36.327016,-94.16081,36.327016",
     "geom:latitude":36.327016,
     "geom:longitude":-94.16081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"913 Oakhill Dr",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219992853,
-    "wof:lastmodified":1449072055,
+    "wof:lastmodified":1466325250,
     "wof:name":"Glenn S Photography",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "wedding"
     ]
 },
-  "bbox": [-94.16081,36.327016,-94.16081,36.327016],
+  "bbox": [
+    -94.16081,
+    36.327016,
+    -94.16081,
+    36.327016
+],
   "geometry": {"coordinates":[-94.16081,36.327016],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219914377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.946877,36.008071,-93.946877,36.008071",
     "geom:latitude":36.008071,
     "geom:longitude":-93.946877,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21968 Mount Olive Rd",
     "sg:city":"Elkins",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":219914377,
-    "wof:lastmodified":1449071735,
+    "wof:lastmodified":1466325033,
     "wof:name":"Rightway Construction Co-Jw",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "contractor"
     ]
 },
-  "bbox": [-93.946877,36.008071,-93.946877,36.008071],
+  "bbox": [
+    -93.946877,
+    36.008071,
+    -93.946877,
+    36.008071
+],
   "geometry": {"coordinates":[-93.946877,36.008071],"type":"Point"}
 }

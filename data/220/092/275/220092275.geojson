@@ -2,13 +2,14 @@
   "id": 220092275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.728903,35.292098,-93.728903,35.292098",
     "geom:latitude":35.292098,
     "geom:longitude":-93.728903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 E Walnut St",
     "sg:city":"Paris",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":220092275,
-    "wof:lastmodified":1449074698,
+    "wof:lastmodified":1466321973,
     "wof:name":"Danny Poter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "stock"
     ]
 },
-  "bbox": [-93.728903,35.292098,-93.728903,35.292098],
+  "bbox": [
+    -93.728903,
+    35.292098,
+    -93.728903,
+    35.292098
+],
   "geometry": {"coordinates":[-93.728903,35.292098],"type":"Point"}
 }

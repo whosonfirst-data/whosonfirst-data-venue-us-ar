@@ -2,13 +2,14 @@
   "id": 219645809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.67612,35.806347,-90.67612,35.806347",
     "geom:latitude":35.806347,
     "geom:longitude":-90.67612,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1809 E Parker Rd",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219645809,
-    "wof:lastmodified":1449070744,
+    "wof:lastmodified":1466324703,
     "wof:name":"Tool Central",
     "wof:parent_id":85836541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tools-electric"
     ]
 },
-  "bbox": [-90.67612,35.806347,-90.67612,35.806347],
+  "bbox": [
+    -90.67612,
+    35.806347,
+    -90.67612,
+    35.806347
+],
   "geometry": {"coordinates":[-90.67612,35.806347],"type":"Point"}
 }

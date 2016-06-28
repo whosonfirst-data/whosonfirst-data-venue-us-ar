@@ -2,13 +2,14 @@
   "id": 219730405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.60534,35.76598,-91.60534,35.76598",
     "geom:latitude":35.76598,
     "geom:longitude":-91.60534,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"560 Woodmont Cir",
     "sg:city":"Batesville",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":219730405,
-    "wof:lastmodified":1449073347,
+    "wof:lastmodified":1466324972,
     "wof:name":"Church Of Jesus Christ",
     "wof:parent_id":85808231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "latter-day"
     ]
 },
-  "bbox": [-91.60534,35.76598,-91.60534,35.76598],
+  "bbox": [
+    -91.60534,
+    35.76598,
+    -91.60534,
+    35.76598
+],
   "geometry": {"coordinates":[-91.60534,35.76598],"type":"Point"}
 }

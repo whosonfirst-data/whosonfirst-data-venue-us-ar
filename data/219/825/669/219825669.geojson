@@ -2,13 +2,14 @@
   "id": 219825669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.1688,36.042679,-94.1688,36.042679",
     "geom:latitude":36.042679,
     "geom:longitude":-94.1688,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 W Research Center Blvd Genesis",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219825669,
-    "wof:lastmodified":1449070506,
+    "wof:lastmodified":1466325060,
     "wof:name":"V S S B Medical Nanotechnology",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welfare"
     ]
 },
-  "bbox": [-94.1688,36.042679,-94.1688,36.042679],
+  "bbox": [
+    -94.1688,
+    36.042679,
+    -94.1688,
+    36.042679
+],
   "geometry": {"coordinates":[-94.1688,36.042679],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102255909",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.054239,34.509187,-93.054239,34.509187",
     "geom:latitude":34.509187,
     "geom:longitude":-93.054239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"810 Central Ave",
     "sg:city":"Hot Springs",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102255909",
-    "wof:lastmodified":1449068861,
+    "wof:lastmodified":1466322073,
     "wof:name":"Artist Workshop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.054239,34.509187,-93.054239,34.509187],
+  "bbox": [
+    -93.054239,
+    34.509187,
+    -93.054239,
+    34.509187
+],
   "geometry": {"coordinates":[-93.054239,34.509187],"type":"Point"}
 }

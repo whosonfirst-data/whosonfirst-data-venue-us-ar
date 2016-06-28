@@ -2,13 +2,14 @@
   "id": 219815257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.176751,36.001913,-94.176751,36.001913",
     "geom:latitude":36.001913,
     "geom:longitude":-94.176751,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"93 W Smith St",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219815257,
-    "wof:lastmodified":1449072102,
+    "wof:lastmodified":1466324887,
     "wof:name":"Carson Rental",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "store"
     ]
 },
-  "bbox": [-94.176751,36.001913,-94.176751,36.001913],
+  "bbox": [
+    -94.176751,
+    36.001913,
+    -94.176751,
+    36.001913
+],
   "geometry": {"coordinates":[-94.176751,36.001913],"type":"Point"}
 }

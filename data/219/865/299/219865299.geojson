@@ -2,13 +2,14 @@
   "id": 219865299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.219579,36.072639,-94.219579,36.072639",
     "geom:latitude":36.072639,
     "geom:longitude":-94.219579,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"564 N Tennyson Ln",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219865299,
-    "wof:lastmodified":1449073063,
+    "wof:lastmodified":1466325050,
     "wof:name":"B.R.O. Properties And Investments",
     "wof:parent_id":85885449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investing"
     ]
 },
-  "bbox": [-94.219579,36.072639,-94.219579,36.072639],
+  "bbox": [
+    -94.219579,
+    36.072639,
+    -94.219579,
+    36.072639
+],
   "geometry": {"coordinates":[-94.219579,36.072639],"type":"Point"}
 }

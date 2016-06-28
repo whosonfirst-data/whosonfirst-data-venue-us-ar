@@ -2,13 +2,14 @@
   "id": 219504383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.507107,34.896108,-92.507107,34.896108",
     "geom:latitude":34.896108,
     "geom:longitude":-92.507107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21622 Stonewood Ln",
     "sg:city":"Roland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219504383,
-    "wof:lastmodified":1449071007,
+    "wof:lastmodified":1466323980,
     "wof:name":"Chapman Properties Inc",
     "wof:parent_id":85847659,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "park"
     ]
 },
-  "bbox": [-92.507107,34.896108,-92.507107,34.896108],
+  "bbox": [
+    -92.507107,
+    34.896108,
+    -92.507107,
+    34.896108
+],
   "geometry": {"coordinates":[-92.507107,34.896108],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219793065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.912216,36.1679,-92.912216,36.1679",
     "geom:latitude":36.1679,
     "geom:longitude":-92.912216,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4535 Blankenship Rd",
     "sg:city":"Everton",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219793065,
-    "wof:lastmodified":1449072322,
+    "wof:lastmodified":1466325018,
     "wof:name":"Waggoner Farm And Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.912216,36.1679,-92.912216,36.1679],
+  "bbox": [
+    -92.912216,
+    36.1679,
+    -92.912216,
+    36.1679
+],
   "geometry": {"coordinates":[-92.912216,36.1679],"type":"Point"}
 }

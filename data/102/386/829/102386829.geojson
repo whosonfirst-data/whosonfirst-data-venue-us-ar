@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102386829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.961098,33.81001,-93.961098,33.81001",
     "geom:latitude":33.81001,
     "geom:longitude":-93.961098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 Cottonshed Ln",
     "sg:city":"Mineral Springs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102386829,
-    "wof:lastmodified":1449069016,
+    "wof:lastmodified":1466323498,
     "wof:name":"Al's Cottonshed Bait Grocery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.961098,33.81001,-93.961098,33.81001],
-  "geometry": {"coordinates":[-93.961098,33.81001],"type":"Point"}
+  "bbox": [
+    -93.961098,
+    33.81001,
+    -93.961098,
+    33.81001
+],
+  "geometry": {"coordinates":[-93.96109800000001,33.81001],"type":"Point"}
 }

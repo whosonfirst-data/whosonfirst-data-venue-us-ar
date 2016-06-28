@@ -2,13 +2,14 @@
   "id": 220005681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.195735,36.302675,-94.195735,36.302675",
     "geom:latitude":36.302675,
     "geom:longitude":-94.195735,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"41 Buckingham Dr",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":220005681,
-    "wof:lastmodified":1449074815,
+    "wof:lastmodified":1466320467,
     "wof:name":"Mardis Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "listing"
     ]
 },
-  "bbox": [-94.195735,36.302675,-94.195735,36.302675],
+  "bbox": [
+    -94.195735,
+    36.302675,
+    -94.195735,
+    36.302675
+],
   "geometry": {"coordinates":[-94.195735,36.302675],"type":"Point"}
 }

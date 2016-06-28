@@ -2,13 +2,14 @@
   "id": 303094689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.434486,35.359911,-94.434486,35.359911",
     "geom:latitude":35.359911,
     "geom:longitude":-94.434486,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"427 Main St",
     "sg:city":"Arkoma",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303094689,
-    "wof:lastmodified":1448999652,
+    "wof:lastmodified":1466324506,
     "wof:name":"American Lenders Svc Co",
     "wof:parent_id":85809847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repossessing"
     ]
 },
-  "bbox": [-94.434486,35.359911,-94.434486,35.359911],
-  "geometry": {"coordinates":[-94.434486,35.359911],"type":"Point"}
+  "bbox": [
+    -94.434486,
+    35.359911,
+    -94.434486,
+    35.359911
+],
+  "geometry": {"coordinates":[-94.43448600000001,35.359911],"type":"Point"}
 }

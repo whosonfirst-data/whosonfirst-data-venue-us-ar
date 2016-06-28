@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102263921",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.439591,33.527738,-91.439591,33.527738",
     "geom:latitude":33.527738,
     "geom:longitude":-91.439591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"415 W Iowa St",
     "sg:city":"Dermott",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102263921",
-    "wof:lastmodified":1449070146,
+    "wof:lastmodified":1466322294,
     "wof:name":"St Paul Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.439591,33.527738,-91.439591,33.527738],
-  "geometry": {"coordinates":[-91.439591,33.527738],"type":"Point"}
+  "bbox": [
+    -91.439591,
+    33.527738,
+    -91.439591,
+    33.527738
+],
+  "geometry": {"coordinates":[-91.43959099999999,33.527738],"type":"Point"}
 }

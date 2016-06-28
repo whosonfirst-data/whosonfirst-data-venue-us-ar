@@ -2,13 +2,14 @@
   "id": 219879523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.216137,36.402325,-94.216137,36.402325",
     "geom:latitude":36.402325,
     "geom:longitude":-94.216137,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13020 N Walton Blvd",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219879523,
-    "wof:lastmodified":1449070405,
+    "wof:lastmodified":1466325001,
     "wof:name":"Exit Pro Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.216137,36.402325,-94.216137,36.402325],
+  "bbox": [
+    -94.216137,
+    36.402325,
+    -94.216137,
+    36.402325
+],
   "geometry": {"coordinates":[-94.216137,36.402325],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219179217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.086422,33.61316,-92.086422,33.61316",
     "geom:latitude":33.61316,
     "geom:longitude":-92.086422,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"224 1/2 N Wright St",
     "sg:city":"Warren",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219179217,
-    "wof:lastmodified":1449073558,
+    "wof:lastmodified":1466320621,
     "wof:name":"Sister To Sister",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.086422,33.61316,-92.086422,33.61316],
+  "bbox": [
+    -92.086422,
+    33.61316,
+    -92.086422,
+    33.61316
+],
   "geometry": {"coordinates":[-92.086422,33.61316],"type":"Point"}
 }

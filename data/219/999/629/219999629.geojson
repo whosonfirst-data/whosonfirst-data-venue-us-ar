@@ -2,13 +2,14 @@
   "id": 219999629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.062817,36.28826,-94.062817,36.28826",
     "geom:latitude":36.28826,
     "geom:longitude":-94.062817,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9934 Monte NE Estates Dr",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219999629,
-    "wof:lastmodified":1449073478,
+    "wof:lastmodified":1466325449,
     "wof:name":"Gabbert Trucking",
     "wof:parent_id":85834957,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "trucking"
     ]
 },
-  "bbox": [-94.062817,36.28826,-94.062817,36.28826],
+  "bbox": [
+    -94.062817,
+    36.28826,
+    -94.062817,
+    36.28826
+],
   "geometry": {"coordinates":[-94.062817,36.28826],"type":"Point"}
 }

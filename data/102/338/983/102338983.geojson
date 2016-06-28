@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102338983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.208053,35.083728,-92.208053,35.083728",
     "geom:latitude":35.083728,
     "geom:longitude":-92.208053,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1092 Main St",
     "sg:city":"Vilonia",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102338983,
-    "wof:lastmodified":1449068628,
+    "wof:lastmodified":1466323924,
     "wof:name":"Vilonia Sewer Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.208053,35.083728,-92.208053,35.083728],
-  "geometry": {"coordinates":[-92.208053,35.083728],"type":"Point"}
+  "bbox": [
+    -92.208053,
+    35.083728,
+    -92.208053,
+    35.083728
+],
+  "geometry": {"coordinates":[-92.20805300000001,35.083728],"type":"Point"}
 }

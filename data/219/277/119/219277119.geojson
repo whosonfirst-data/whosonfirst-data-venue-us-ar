@@ -2,13 +2,14 @@
   "id": 219277119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.647479,33.72209,-93.647479,33.72209",
     "geom:latitude":33.72209,
     "geom:longitude":-93.647479,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4365 Highway 278 W",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219277119,
-    "wof:lastmodified":1449070787,
+    "wof:lastmodified":1466321544,
     "wof:name":"C Mc Steel Products",
     "wof:parent_id":85806015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fabricator"
     ]
 },
-  "bbox": [-93.647479,33.72209,-93.647479,33.72209],
+  "bbox": [
+    -93.647479,
+    33.72209,
+    -93.647479,
+    33.72209
+],
   "geometry": {"coordinates":[-93.647479,33.72209],"type":"Point"}
 }

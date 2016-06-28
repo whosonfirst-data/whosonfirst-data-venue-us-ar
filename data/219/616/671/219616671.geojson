@@ -2,13 +2,14 @@
   "id": 219616671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.856311,35.154135,-90.856311,35.154135",
     "geom:latitude":35.154135,
     "geom:longitude":-90.856311,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"72 County Road 661",
     "sg:city":"Wynne",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219616671,
-    "wof:lastmodified":1449072993,
+    "wof:lastmodified":1466324603,
     "wof:name":"Greg S Small Engines",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-90.856311,35.154135,-90.856311,35.154135],
-  "geometry": {"coordinates":[-90.856311,35.154135],"type":"Point"}
+  "bbox": [
+    -90.856311,
+    35.154135,
+    -90.856311,
+    35.154135
+],
+  "geometry": {"coordinates":[-90.85631100000001,35.154135],"type":"Point"}
 }

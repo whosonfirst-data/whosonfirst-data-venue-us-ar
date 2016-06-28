@@ -2,13 +2,14 @@
   "id": 219599905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.220774,35.205881,-90.220774,35.205881",
     "geom:latitude":35.205881,
     "geom:longitude":-90.220774,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"63 Forbis Ln",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219599905,
-    "wof:lastmodified":1449072033,
+    "wof:lastmodified":1466324584,
     "wof:name":"Tschabold Distribution",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocers-wholesale"
     ]
 },
-  "bbox": [-90.220774,35.205881,-90.220774,35.205881],
-  "geometry": {"coordinates":[-90.220774,35.205881],"type":"Point"}
+  "bbox": [
+    -90.220774,
+    35.205881,
+    -90.220774,
+    35.205881
+],
+  "geometry": {"coordinates":[-90.22077400000001,35.205881],"type":"Point"}
 }

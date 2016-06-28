@@ -2,13 +2,14 @@
   "id": 219368315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.023493,34.966633,-92.023493,34.966633",
     "geom:latitude":34.966633,
     "geom:longitude":-92.023493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1005 S 1st St",
     "sg:city":"Cabot",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219368315,
-    "wof:lastmodified":1449071205,
+    "wof:lastmodified":1466322553,
     "wof:name":"Glover Shade & Blinds",
     "wof:parent_id":85839277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "treatment"
     ]
 },
-  "bbox": [-92.023493,34.966633,-92.023493,34.966633],
+  "bbox": [
+    -92.023493,
+    34.966633,
+    -92.023493,
+    34.966633
+],
   "geometry": {"coordinates":[-92.023493,34.966633],"type":"Point"}
 }

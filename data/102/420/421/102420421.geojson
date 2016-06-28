@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102420421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.401609,34.306778,-92.401609,34.306778",
     "geom:latitude":34.306778,
     "geom:longitude":-92.401609,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 S Oak St",
     "sg:city":"Sheridan",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102420421,
-    "wof:lastmodified":1449068924,
+    "wof:lastmodified":1466325230,
     "wof:name":"Black & Assoc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.401609,34.306778,-92.401609,34.306778],
-  "geometry": {"coordinates":[-92.401609,34.306778],"type":"Point"}
+  "bbox": [
+    -92.401609,
+    34.306778,
+    -92.401609,
+    34.306778
+],
+  "geometry": {"coordinates":[-92.40160899999999,34.306778],"type":"Point"}
 }

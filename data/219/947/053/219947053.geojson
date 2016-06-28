@@ -2,13 +2,14 @@
   "id": 219947053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.179001,36.280602,-94.179001,36.280602",
     "geom:latitude":36.280602,
     "geom:longitude":-94.179001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10600 West Dr",
     "sg:city":"Lowell",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":219947053,
-    "wof:lastmodified":1449072955,
+    "wof:lastmodified":1466325234,
     "wof:name":"Performance Auto Repair & Salvage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "towing"
     ]
 },
-  "bbox": [-94.179001,36.280602,-94.179001,36.280602],
+  "bbox": [
+    -94.179001,
+    36.280602,
+    -94.179001,
+    36.280602
+],
   "geometry": {"coordinates":[-94.179001,36.280602],"type":"Point"}
 }

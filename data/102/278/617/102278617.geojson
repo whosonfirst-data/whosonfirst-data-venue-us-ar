@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102278617",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.321602,34.724648,-92.321602,34.724648",
     "geom:latitude":34.724648,
     "geom:longitude":-92.321602,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4324 Asher Ave",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85838647,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85838647
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102278617",
-    "wof:lastmodified":1449069065,
+    "wof:lastmodified":1466322614,
     "wof:name":"ATR Transmissions",
     "wof:parent_id":85838647,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.321602,34.724648,-92.321602,34.724648],
+  "bbox": [
+    -92.321602,
+    34.724648,
+    -92.321602,
+    34.724648
+],
   "geometry": {"coordinates":[-92.321602,34.724648],"type":"Point"}
 }

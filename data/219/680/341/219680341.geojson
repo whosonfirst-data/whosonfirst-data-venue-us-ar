@@ -2,13 +2,14 @@
   "id": 219680341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.497833,35.987126,-90.497833,35.987126",
     "geom:latitude":35.987126,
     "geom:longitude":-90.497833,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5042 Highway 69",
     "sg:city":"Paragould",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219680341,
-    "wof:lastmodified":1449072869,
+    "wof:lastmodified":1466324836,
     "wof:name":"Presley Rentals A Ltd Liabilit",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-90.497833,35.987126,-90.497833,35.987126],
+  "bbox": [
+    -90.497833,
+    35.987126,
+    -90.497833,
+    35.987126
+],
   "geometry": {"coordinates":[-90.497833,35.987126],"type":"Point"}
 }

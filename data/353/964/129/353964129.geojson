@@ -2,13 +2,14 @@
   "id": 353964129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.732147,36.598031,-94.732147,36.598031",
     "geom:latitude":36.598031,
     "geom:longitude":-94.732147,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"64400 E 290 Rd",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353964129,
-    "wof:lastmodified":1449020181,
+    "wof:lastmodified":1466320561,
     "wof:name":"Showcase Collision Ctr & Auto",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "painting"
     ]
 },
-  "bbox": [-94.732147,36.598031,-94.732147,36.598031],
+  "bbox": [
+    -94.732147,
+    36.598031,
+    -94.732147,
+    36.598031
+],
   "geometry": {"coordinates":[-94.732147,36.598031],"type":"Point"}
 }

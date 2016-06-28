@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102413661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.219445,33.456113,-92.219445,33.456113",
     "geom:latitude":33.456113,
     "geom:longitude":-92.219445,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"365 Bradley Road 5 N",
     "sg:city":"Hermitage",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":102413661,
-    "wof:lastmodified":1449068183,
+    "wof:lastmodified":1466325260,
     "wof:name":"Brown Communications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.219445,33.456113,-92.219445,33.456113],
-  "geometry": {"coordinates":[-92.219445,33.456113],"type":"Point"}
+  "bbox": [
+    -92.219445,
+    33.456113,
+    -92.219445,
+    33.456113
+],
+  "geometry": {"coordinates":[-92.21944499999999,33.456113],"type":"Point"}
 }

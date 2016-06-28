@@ -2,13 +2,14 @@
   "id": 235948891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.769235,36.573752,-94.769235,36.573752",
     "geom:latitude":36.573752,
     "geom:longitude":-94.769235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2121 S Main St",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":235948891,
-    "wof:lastmodified":1449008526,
+    "wof:lastmodified":1466320437,
     "wof:name":"Taco Mayo",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "take"
     ]
 },
-  "bbox": [-94.769235,36.573752,-94.769235,36.573752],
-  "geometry": {"coordinates":[-94.769235,36.573752],"type":"Point"}
+  "bbox": [
+    -94.769235,
+    36.573752,
+    -94.769235,
+    36.573752
+],
+  "geometry": {"coordinates":[-94.76923499999999,36.573752],"type":"Point"}
 }

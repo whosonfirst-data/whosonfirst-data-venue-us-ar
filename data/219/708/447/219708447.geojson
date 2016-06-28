@@ -2,13 +2,14 @@
   "id": 219708447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.968694,36.260998,-90.968694,36.260998",
     "geom:latitude":36.260998,
     "geom:longitude":-90.968694,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 Mcdonald St",
     "sg:city":"Pocahontas",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":219708447,
-    "wof:lastmodified":1449070944,
+    "wof:lastmodified":1466324871,
     "wof:name":"Riverside Petroleum Products",
     "wof:parent_id":85816685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "gas-liquefied"
     ]
 },
-  "bbox": [-90.968694,36.260998,-90.968694,36.260998],
+  "bbox": [
+    -90.968694,
+    36.260998,
+    -90.968694,
+    36.260998
+],
   "geometry": {"coordinates":[-90.968694,36.260998],"type":"Point"}
 }

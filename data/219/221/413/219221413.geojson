@@ -2,13 +2,14 @@
   "id": 219221413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.068171,33.411449,-93.068171,33.411449",
     "geom:latitude":33.411449,
     "geom:longitude":-93.068171,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 E Chert St",
     "sg:city":"Stephens",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219221413,
-    "wof:lastmodified":1449071942,
+    "wof:lastmodified":1466321056,
     "wof:name":"Stephens Bookkeepping",
     "wof:parent_id":85813169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "billing"
     ]
 },
-  "bbox": [-93.068171,33.411449,-93.068171,33.411449],
-  "geometry": {"coordinates":[-93.068171,33.411449],"type":"Point"}
+  "bbox": [
+    -93.068171,
+    33.411449,
+    -93.068171,
+    33.411449
+],
+  "geometry": {"coordinates":[-93.06817100000001,33.411449],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102224521",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.191797,36.390546,-90.191797,36.390546",
     "geom:latitude":36.390546,
     "geom:longitude":-90.191797,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"790 N 4th Ave",
     "sg:city":"Piggott",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102224521",
-    "wof:lastmodified":1449069565,
+    "wof:lastmodified":1466321283,
     "wof:name":"Gordon Pike",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.191797,36.390546,-90.191797,36.390546],
-  "geometry": {"coordinates":[-90.191797,36.390546],"type":"Point"}
+  "bbox": [
+    -90.191797,
+    36.390546,
+    -90.191797,
+    36.390546
+],
+  "geometry": {"coordinates":[-90.19179699999999,36.390546],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102335925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.736928,34.781016,-91.736928,34.781016",
     "geom:latitude":34.781016,
     "geom:longitude":-91.736928,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"822 E Park St",
     "sg:city":"Carlisle",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102335925,
-    "wof:lastmodified":1449069366,
+    "wof:lastmodified":1466323849,
     "wof:name":"Cox Lasers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.736928,34.781016,-91.736928,34.781016],
-  "geometry": {"coordinates":[-91.736928,34.781016],"type":"Point"}
+  "bbox": [
+    -91.736928,
+    34.781016,
+    -91.736928,
+    34.781016
+],
+  "geometry": {"coordinates":[-91.73692800000001,34.781016],"type":"Point"}
 }

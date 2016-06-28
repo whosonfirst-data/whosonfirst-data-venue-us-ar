@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102244997",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.337409,34.700156,-92.337409,34.700156",
     "geom:latitude":34.700156,
     "geom:longitude":-92.337409,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Buffington Ct",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85803283,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85803283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102244997",
-    "wof:lastmodified":1449068723,
+    "wof:lastmodified":1466321863,
     "wof:name":"Rodger Buckels Trucking",
     "wof:parent_id":85803283,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.337409,34.700156,-92.337409,34.700156],
-  "geometry": {"coordinates":[-92.337409,34.700156],"type":"Point"}
+  "bbox": [
+    -92.337409,
+    34.700156,
+    -92.337409,
+    34.700156
+],
+  "geometry": {"coordinates":[-92.33740899999999,34.700156],"type":"Point"}
 }

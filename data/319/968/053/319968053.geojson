@@ -2,13 +2,14 @@
   "id": 319968053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.565642,36.181472,-94.565642,36.181472",
     "geom:latitude":36.181472,
     "geom:longitude":-94.565642,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2201 W Jefferson St",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":319968053,
-    "wof:lastmodified":1449024147,
+    "wof:lastmodified":1466320410,
     "wof:name":"Tulsa Street Detail & Auto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.565642,36.181472,-94.565642,36.181472],
+  "bbox": [
+    -94.565642,
+    36.181472,
+    -94.565642,
+    36.181472
+],
   "geometry": {"coordinates":[-94.565642,36.181472],"type":"Point"}
 }

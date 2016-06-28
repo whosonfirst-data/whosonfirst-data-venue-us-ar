@@ -2,13 +2,14 @@
   "id": 219488169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.248494,34.956902,-92.248494,34.956902",
     "geom:latitude":34.956902,
     "geom:longitude":-92.248494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"814 Highway 89 S",
     "sg:city":"Sherwood",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219488169,
-    "wof:lastmodified":1449073822,
+    "wof:lastmodified":1466323811,
     "wof:name":"Cato Volunteer Fire Department",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-92.248494,34.956902,-92.248494,34.956902],
-  "geometry": {"coordinates":[-92.248494,34.956902],"type":"Point"}
+  "bbox": [
+    -92.248494,
+    34.956902,
+    -92.248494,
+    34.956902
+],
+  "geometry": {"coordinates":[-92.24849399999999,34.956902],"type":"Point"}
 }

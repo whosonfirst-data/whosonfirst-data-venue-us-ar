@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102201639",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.757585,34.774261,-90.757585,34.774261",
     "geom:latitude":34.774261,
     "geom:longitude":-90.757585,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33 N Poplar St",
     "sg:city":"Marianna",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102201639",
-    "wof:lastmodified":1449069855,
+    "wof:lastmodified":1466320725,
     "wof:name":"Gilmore Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.757585,34.774261,-90.757585,34.774261],
-  "geometry": {"coordinates":[-90.757585,34.774261],"type":"Point"}
+  "bbox": [
+    -90.757585,
+    34.774261,
+    -90.757585,
+    34.774261
+],
+  "geometry": {"coordinates":[-90.75758500000001,34.774261],"type":"Point"}
 }

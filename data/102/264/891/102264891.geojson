@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102264891",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.888596,36.058641,-91.888596,36.058641",
     "geom:latitude":36.058641,
     "geom:longitude":-91.888596,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"905 Main St",
     "sg:city":"Melbourne",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102264891",
-    "wof:lastmodified":1449069337,
+    "wof:lastmodified":1466322313,
     "wof:name":"Howard Funeral Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.888596,36.058641,-91.888596,36.058641],
-  "geometry": {"coordinates":[-91.888596,36.058641],"type":"Point"}
+  "bbox": [
+    -91.888596,
+    36.058641,
+    -91.888596,
+    36.058641
+],
+  "geometry": {"coordinates":[-91.88859600000001,36.058641],"type":"Point"}
 }

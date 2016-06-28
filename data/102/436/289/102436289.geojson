@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102436289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.164747,35.287152,-93.164747,35.287152",
     "geom:latitude":35.287152,
     "geom:longitude":-93.164747,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 S Inglewood Ave",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102436289,
-    "wof:lastmodified":1449069958,
+    "wof:lastmodified":1466325592,
     "wof:name":"John R Lee MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.164747,35.287152,-93.164747,35.287152],
-  "geometry": {"coordinates":[-93.164747,35.287152],"type":"Point"}
+  "bbox": [
+    -93.164747,
+    35.287152,
+    -93.164747,
+    35.287152
+],
+  "geometry": {"coordinates":[-93.16474700000001,35.287152],"type":"Point"}
 }

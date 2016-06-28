@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102313789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.15401,36.190017,-94.15401,36.190017",
     "geom:latitude":36.190017,
     "geom:longitude":-94.15401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1815 Ross Ave",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885491,
+        85688549,
         85633793,
         85919623,
         102082007,
-        85688549
+        85885491
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102313789,
-    "wof:lastmodified":1449067838,
+    "wof:lastmodified":1466323384,
     "wof:name":"A First National Rooter Svc",
     "wof:parent_id":85885491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.15401,36.190017,-94.15401,36.190017],
+  "bbox": [
+    -94.15401,
+    36.190017,
+    -94.15401,
+    36.190017
+],
   "geometry": {"coordinates":[-94.15401,36.190017],"type":"Point"}
 }

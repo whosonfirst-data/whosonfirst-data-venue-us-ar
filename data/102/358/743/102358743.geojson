@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102358743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.576704,34.57699,-92.576704,34.57699",
     "geom:latitude":34.57699,
     "geom:longitude":-92.576704,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1227 Military Rd",
     "sg:city":"Benton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102358743,
-    "wof:lastmodified":1449068777,
+    "wof:lastmodified":1466324287,
     "wof:name":"Tri Lakes Edition",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.576704,34.57699,-92.576704,34.57699],
-  "geometry": {"coordinates":[-92.576704,34.57699],"type":"Point"}
+  "bbox": [
+    -92.576704,
+    34.57699,
+    -92.576704,
+    34.57699
+],
+  "geometry": {"coordinates":[-92.57670400000001,34.57699],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102326503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.266357,35.60709,-91.266357,35.60709",
     "geom:latitude":35.60709,
     "geom:longitude":-91.266357,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1120 Holden Ave",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102326503,
-    "wof:lastmodified":1449068787,
+    "wof:lastmodified":1466323614,
     "wof:name":"Payload Logistics Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.266357,35.60709,-91.266357,35.60709],
+  "bbox": [
+    -91.266357,
+    35.60709,
+    -91.266357,
+    35.60709
+],
   "geometry": {"coordinates":[-91.266357,35.60709],"type":"Point"}
 }

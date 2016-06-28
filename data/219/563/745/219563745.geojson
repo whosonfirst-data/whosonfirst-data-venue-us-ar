@@ -2,13 +2,14 @@
   "id": 219563745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.93276,34.981228,-91.93276,34.981228",
     "geom:latitude":34.981228,
     "geom:longitude":-91.93276,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"253 Burkhead Rd",
     "sg:city":"Ward",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219563745,
-    "wof:lastmodified":1449070426,
+    "wof:lastmodified":1466324433,
     "wof:name":"Gina R Whited",
     "wof:parent_id":85839277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-91.93276,34.981228,-91.93276,34.981228],
+  "bbox": [
+    -91.93276,
+    34.981228,
+    -91.93276,
+    34.981228
+],
   "geometry": {"coordinates":[-91.93276,34.981228],"type":"Point"}
 }

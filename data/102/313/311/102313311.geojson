@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102313311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.148985,36.272212,-93.148985,36.272212",
     "geom:latitude":36.272212,
     "geom:longitude":-93.148985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1609 N Hwy 62 65",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102313311,
-    "wof:lastmodified":1449067839,
+    "wof:lastmodified":1466323285,
     "wof:name":"Movie Time",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.148985,36.272212,-93.148985,36.272212],
+  "bbox": [
+    -93.148985,
+    36.272212,
+    -93.148985,
+    36.272212
+],
   "geometry": {"coordinates":[-93.148985,36.272212],"type":"Point"}
 }

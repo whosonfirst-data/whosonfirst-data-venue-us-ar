@@ -2,13 +2,14 @@
   "id": 219176297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.050619,33.794554,-92.050619,33.794554",
     "geom:latitude":33.794554,
     "geom:longitude":-92.050619,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3160 Rye Cutoff",
     "sg:city":"Rison",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219176297,
-    "wof:lastmodified":1449072686,
+    "wof:lastmodified":1466320600,
     "wof:name":"Selby John",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-92.050619,33.794554,-92.050619,33.794554],
+  "bbox": [
+    -92.050619,
+    33.794554,
+    -92.050619,
+    33.794554
+],
   "geometry": {"coordinates":[-92.050619,33.794554],"type":"Point"}
 }

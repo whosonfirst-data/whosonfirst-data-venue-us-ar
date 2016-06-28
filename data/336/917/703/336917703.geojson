@@ -2,13 +2,14 @@
   "id": 336917703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.251226,34.592536,-94.251226,34.592536",
     "geom:latitude":34.592536,
     "geom:longitude":-94.251226,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"713 Polk St N",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336917703,
-    "wof:lastmodified":1448997881,
+    "wof:lastmodified":1466320468,
     "wof:name":"Ouachita Baptist Camp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "camp"
     ]
 },
-  "bbox": [-94.251226,34.592536,-94.251226,34.592536],
+  "bbox": [
+    -94.251226,
+    34.592536,
+    -94.251226,
+    34.592536
+],
   "geometry": {"coordinates":[-94.251226,34.592536],"type":"Point"}
 }

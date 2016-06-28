@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102297561",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.982275,36.253008,-90.982275,36.253008",
     "geom:latitude":36.253008,
     "geom:longitude":-90.982275,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1705 Deshae Cove",
     "sg:city":"Pocahontas",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85816685,
+        85688549,
         85633793,
         85919829,
         102082011,
-        85688549
+        85816685
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102297561",
-    "wof:lastmodified":1449069298,
+    "wof:lastmodified":1466323011,
     "wof:name":"South Point Apartments",
     "wof:parent_id":85816685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.982275,36.253008,-90.982275,36.253008],
+  "bbox": [
+    -90.982275,
+    36.253008,
+    -90.982275,
+    36.253008
+],
   "geometry": {"coordinates":[-90.982275,36.253008],"type":"Point"}
 }

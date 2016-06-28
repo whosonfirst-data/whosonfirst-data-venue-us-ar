@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102369365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.8372,33.53841,-92.8372,33.53841",
     "geom:latitude":33.53841,
     "geom:longitude":-92.8372,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"523 Jenkins St SW",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102369365,
-    "wof:lastmodified":1449070079,
+    "wof:lastmodified":1466324418,
     "wof:name":"Mike Kordsmeier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.8372,33.53841,-92.8372,33.53841],
+  "bbox": [
+    -92.8372,
+    33.53841,
+    -92.8372,
+    33.53841
+],
   "geometry": {"coordinates":[-92.8372,33.53841],"type":"Point"}
 }

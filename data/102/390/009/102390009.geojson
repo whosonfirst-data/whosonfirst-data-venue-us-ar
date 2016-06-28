@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102390009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.407243,34.747466,-92.407243,34.747466",
     "geom:latitude":34.747466,
     "geom:longitude":-92.407243,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"620 S Bowman Rd",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.bestcarwash.cc",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85833895,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85833895
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102390009,
-    "wof:lastmodified":1449070243,
+    "wof:lastmodified":1466324146,
     "wof:name":"Best Car Wash",
     "wof:parent_id":85833895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.407243,34.747466,-92.407243,34.747466],
-  "geometry": {"coordinates":[-92.407243,34.747466],"type":"Point"}
+  "bbox": [
+    -92.407243,
+    34.747466,
+    -92.407243,
+    34.747466
+],
+  "geometry": {"coordinates":[-92.40724299999999,34.747466],"type":"Point"}
 }

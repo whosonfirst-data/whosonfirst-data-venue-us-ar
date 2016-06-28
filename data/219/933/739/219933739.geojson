@@ -2,13 +2,14 @@
   "id": 219933739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.738373,36.085461,-93.738373,36.085461",
     "geom:latitude":36.085461,
     "geom:longitude":-93.738373,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 Lee Ave",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219933739,
-    "wof:lastmodified":1449071118,
+    "wof:lastmodified":1466325162,
     "wof:name":"Terry Long",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "engineer"
     ]
 },
-  "bbox": [-93.738373,36.085461,-93.738373,36.085461],
+  "bbox": [
+    -93.738373,
+    36.085461,
+    -93.738373,
+    36.085461
+],
   "geometry": {"coordinates":[-93.738373,36.085461],"type":"Point"}
 }

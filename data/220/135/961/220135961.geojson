@@ -2,13 +2,14 @@
   "id": 220135961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.092748,35.876805,-94.092748,35.876805",
     "geom:latitude":35.876805,
     "geom:longitude":-94.092748,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15731 Parker Branch Rd",
     "sg:city":"Winslow",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":220135961,
-    "wof:lastmodified":1449074344,
+    "wof:lastmodified":1466322897,
     "wof:name":"Dutton HVAC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-94.092748,35.876805,-94.092748,35.876805],
+  "bbox": [
+    -94.092748,
+    35.876805,
+    -94.092748,
+    35.876805
+],
   "geometry": {"coordinates":[-94.092748,35.876805],"type":"Point"}
 }

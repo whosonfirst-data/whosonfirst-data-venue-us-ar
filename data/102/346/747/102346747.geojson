@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102346747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.234338,33.267014,-93.234338,33.267014",
     "geom:latitude":33.267014,
     "geom:longitude":-93.234338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"550 E Main St",
     "sg:city":"Magnolia",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102346747,
-    "wof:lastmodified":1449067752,
+    "wof:lastmodified":1466324074,
     "wof:name":"Freds Car Town",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.234338,33.267014,-93.234338,33.267014],
-  "geometry": {"coordinates":[-93.234338,33.267014],"type":"Point"}
+  "bbox": [
+    -93.234338,
+    33.267014,
+    -93.234338,
+    33.267014
+],
+  "geometry": {"coordinates":[-93.23433799999999,33.267014],"type":"Point"}
 }

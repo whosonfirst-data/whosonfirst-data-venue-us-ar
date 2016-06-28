@@ -2,13 +2,14 @@
   "id": 220081775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.45024,35.467776,-93.45024,35.467776",
     "geom:latitude":35.467776,
     "geom:longitude":-93.45024,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 S Meadow Pl",
     "sg:city":"Clarksville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":220081775,
-    "wof:lastmodified":1449074268,
+    "wof:lastmodified":1466321627,
     "wof:name":"Joanies House Of Style",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.45024,35.467776,-93.45024,35.467776],
-  "geometry": {"coordinates":[-93.45024,35.467776],"type":"Point"}
+  "bbox": [
+    -93.45024,
+    35.467776,
+    -93.45024,
+    35.467776
+],
+  "geometry": {"coordinates":[-93.45023999999999,35.467776],"type":"Point"}
 }

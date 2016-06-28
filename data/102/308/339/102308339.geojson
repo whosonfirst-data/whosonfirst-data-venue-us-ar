@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102308339",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.226154,34.843892,-92.226154,34.843892",
     "geom:latitude":34.843892,
     "geom:longitude":-92.226154,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"222 E Woodruff Ave",
     "sg:city":"Sherwood",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851723,
+        85688549,
         85633793,
         85921251,
         102082497,
-        85688549
+        85851723
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102308339",
-    "wof:lastmodified":1449070271,
+    "wof:lastmodified":1466323191,
     "wof:name":"Arkansas Rv Svc",
     "wof:parent_id":85851723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.226154,34.843892,-92.226154,34.843892],
-  "geometry": {"coordinates":[-92.226154,34.843892],"type":"Point"}
+  "bbox": [
+    -92.226154,
+    34.843892,
+    -92.226154,
+    34.843892
+],
+  "geometry": {"coordinates":[-92.22615399999999,34.843892],"type":"Point"}
 }

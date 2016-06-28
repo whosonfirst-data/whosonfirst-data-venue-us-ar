@@ -2,13 +2,14 @@
   "id": 220002159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.174032,36.305408,-94.174032,36.305408",
     "geom:latitude":36.305408,
     "geom:longitude":-94.174032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2203 Promenade Blvd",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":220002159,
-    "wof:lastmodified":1449074704,
+    "wof:lastmodified":1466320453,
     "wof:name":"Borders",
     "wof:parent_id":85895851,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "dvd's"
     ]
 },
-  "bbox": [-94.174032,36.305408,-94.174032,36.305408],
+  "bbox": [
+    -94.174032,
+    36.305408,
+    -94.174032,
+    36.305408
+],
   "geometry": {"coordinates":[-94.174032,36.305408],"type":"Point"}
 }

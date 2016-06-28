@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102426593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.393825,34.002472,-94.393825,34.002472",
     "geom:latitude":34.002472,
     "geom:longitude":-94.393825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 Pecan Meadows Dr",
     "sg:city":"De Queen",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":102426593,
-    "wof:lastmodified":1449068308,
+    "wof:lastmodified":1466325546,
     "wof:name":"Stephanie Wishard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.393825,34.002472,-94.393825,34.002472],
-  "geometry": {"coordinates":[-94.393825,34.002472],"type":"Point"}
+  "bbox": [
+    -94.393825,
+    34.002472,
+    -94.393825,
+    34.002472
+],
+  "geometry": {"coordinates":[-94.39382500000001,34.002472],"type":"Point"}
 }

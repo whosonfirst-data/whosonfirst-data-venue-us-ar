@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102348791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.249279,34.782464,-92.249279,34.782464",
     "geom:latitude":34.782464,
     "geom:longitude":-92.249279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1701 Skyline Dr",
     "sg:city":"N Little Rock",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840541,
+        85688549,
         85633793,
         85921255,
         102082497,
-        85688549
+        85840541
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102348791,
-    "wof:lastmodified":1449067888,
+    "wof:lastmodified":1466324093,
     "wof:name":"Woodland Terrace Apartments",
     "wof:parent_id":85840541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.249279,34.782464,-92.249279,34.782464],
+  "bbox": [
+    -92.249279,
+    34.782464,
+    -92.249279,
+    34.782464
+],
   "geometry": {"coordinates":[-92.249279,34.782464],"type":"Point"}
 }

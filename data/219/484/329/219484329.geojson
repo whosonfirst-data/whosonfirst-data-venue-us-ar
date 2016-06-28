@@ -2,13 +2,14 @@
   "id": 219484329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.41411,34.849107,-92.41411,34.849107",
     "geom:latitude":34.849107,
     "geom:longitude":-92.41411,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"127 Southshore Dr",
     "sg:city":"Maumelle",
     "sg:classifiers":[
@@ -60,16 +61,22 @@
         }
     ],
     "wof:id":219484329,
-    "wof:lastmodified":1449073705,
+    "wof:lastmodified":1466323733,
     "wof:name":"Baker Logan Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "park"
     ]
 },
-  "bbox": [-92.41411,34.849107,-92.41411,34.849107],
-  "geometry": {"coordinates":[-92.41411,34.849107],"type":"Point"}
+  "bbox": [
+    -92.41411,
+    34.849107,
+    -92.41411,
+    34.849107
+],
+  "geometry": {"coordinates":[-92.41410999999999,34.849107],"type":"Point"}
 }

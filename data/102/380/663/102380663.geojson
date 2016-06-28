@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102380663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.1212,36.087087,-94.1212,36.087087",
     "geom:latitude":36.087087,
     "geom:longitude":-94.1212,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1968 N Crossover Rd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -34,11 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885465,
+        85688549,
         85633793,
         85919609,
         102082007,
-        85688549
+        85885465
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":102380663,
-    "wof:lastmodified":1449068882,
+    "wof:lastmodified":1466322226,
     "wof:name":"Crossover Daylight Donuts Inc",
     "wof:parent_id":85885465,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.1212,36.087087,-94.1212,36.087087],
+  "bbox": [
+    -94.1212,
+    36.087087,
+    -94.1212,
+    36.087087
+],
   "geometry": {"coordinates":[-94.1212,36.087087],"type":"Point"}
 }

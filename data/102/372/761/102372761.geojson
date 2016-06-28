@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102372761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.312416,34.725716,-92.312416,34.725716",
     "geom:latitude":34.725716,
     "geom:longitude":-92.312416,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3318 W Roosevelt Rd",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878755,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85878755
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":102372761,
-    "wof:lastmodified":1449069205,
+    "wof:lastmodified":1466320569,
     "wof:name":"Lockhart Service Co",
     "wof:parent_id":85878755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.312416,34.725716,-92.312416,34.725716],
+  "bbox": [
+    -92.312416,
+    34.725716,
+    -92.312416,
+    34.725716
+],
   "geometry": {"coordinates":[-92.312416,34.725716],"type":"Point"}
 }

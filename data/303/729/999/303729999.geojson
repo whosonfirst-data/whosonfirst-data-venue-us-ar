@@ -2,13 +2,14 @@
   "id": 303729999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.374241,35.281754,-94.374241,35.281754",
     "geom:latitude":35.281754,
     "geom:longitude":-94.374241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5504 Steep Hill Rd",
     "sg:city":"Fort Smith",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303729999,
-    "wof:lastmodified":1448999351,
+    "wof:lastmodified":1466320575,
     "wof:name":"Restoration Specialists",
     "wof:parent_id":85808359,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "upholstery"
     ]
 },
-  "bbox": [-94.374241,35.281754,-94.374241,35.281754],
+  "bbox": [
+    -94.374241,
+    35.281754,
+    -94.374241,
+    35.281754
+],
   "geometry": {"coordinates":[-94.374241,35.281754],"type":"Point"}
 }

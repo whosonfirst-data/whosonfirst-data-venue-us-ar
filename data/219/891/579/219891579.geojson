@@ -2,13 +2,14 @@
   "id": 219891579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.221696,36.369665,-94.221696,36.369665",
     "geom:latitude":36.369665,
     "geom:longitude":-94.221696,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 S Walton Blvd Ste B",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219891579,
-    "wof:lastmodified":1449072517,
+    "wof:lastmodified":1466325085,
     "wof:name":"Enterprise Rent-A-Car",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "car"
     ]
 },
-  "bbox": [-94.221696,36.369665,-94.221696,36.369665],
-  "geometry": {"coordinates":[-94.221696,36.369665],"type":"Point"}
+  "bbox": [
+    -94.221696,
+    36.369665,
+    -94.221696,
+    36.369665
+],
+  "geometry": {"coordinates":[-94.22169599999999,36.369665],"type":"Point"}
 }

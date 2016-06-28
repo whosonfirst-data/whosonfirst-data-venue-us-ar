@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102241831",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.177381,35.187442,-90.177381,35.187442",
     "geom:latitude":35.187442,
     "geom:longitude":-90.177381,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"355 Southwind Dr",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102082505,
-        85633793,
         85688549,
-        85843083
+        85633793,
+        85843083,
+        102082505
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102241831",
-    "wof:lastmodified":1449070149,
+    "wof:lastmodified":1466321761,
     "wof:name":"Farmington United Meth Chr",
     "wof:parent_id":85843083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.177381,35.187442,-90.177381,35.187442],
+  "bbox": [
+    -90.177381,
+    35.187442,
+    -90.177381,
+    35.187442
+],
   "geometry": {"coordinates":[-90.177381,35.187442],"type":"Point"}
 }

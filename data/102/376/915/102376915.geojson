@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102376915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.850519,34.311025,-90.850519,34.311025",
     "geom:latitude":34.311025,
     "geom:longitude":-90.850519,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Nelson Ave",
     "sg:city":"Elaine",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102376915,
-    "wof:lastmodified":1449068620,
+    "wof:lastmodified":1466321457,
     "wof:name":"Elaine Tire Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.850519,34.311025,-90.850519,34.311025],
-  "geometry": {"coordinates":[-90.850519,34.311025],"type":"Point"}
+  "bbox": [
+    -90.850519,
+    34.311025,
+    -90.850519,
+    34.311025
+],
+  "geometry": {"coordinates":[-90.85051900000001,34.311025],"type":"Point"}
 }

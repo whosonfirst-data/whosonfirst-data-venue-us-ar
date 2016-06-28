@@ -2,13 +2,14 @@
   "id": 219983345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.151312,36.334163,-94.151312,36.334163",
     "geom:latitude":36.334163,
     "geom:longitude":-94.151312,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2301 W Walnut St Ste 23",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":219983345,
-    "wof:lastmodified":1449073625,
+    "wof:lastmodified":1466325304,
     "wof:name":"Bigwag Dog Bakery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-94.151312,36.334163,-94.151312,36.334163],
+  "bbox": [
+    -94.151312,
+    36.334163,
+    -94.151312,
+    36.334163
+],
   "geometry": {"coordinates":[-94.151312,36.334163],"type":"Point"}
 }

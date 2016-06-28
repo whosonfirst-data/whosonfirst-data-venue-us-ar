@@ -2,13 +2,14 @@
   "id": 220106095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.917054,35.139235,-93.917054,35.139235",
     "geom:latitude":35.139235,
     "geom:longitude":-93.917054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Village Loop",
     "sg:city":"Booneville",
     "sg:classifiers":[
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":220106095,
-    "wof:lastmodified":1449074046,
+    "wof:lastmodified":1466322334,
     "wof:name":"Village Hair & Nail Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.917054,35.139235,-93.917054,35.139235],
-  "geometry": {"coordinates":[-93.917054,35.139235],"type":"Point"}
+  "bbox": [
+    -93.917054,
+    35.139235,
+    -93.917054,
+    35.139235
+],
+  "geometry": {"coordinates":[-93.91705399999999,35.139235],"type":"Point"}
 }

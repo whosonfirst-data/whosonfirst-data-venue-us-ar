@@ -2,13 +2,14 @@
   "id": 219674643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.343567,35.89045,-90.343567,35.89045",
     "geom:latitude":35.89045,
     "geom:longitude":-90.343567,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 E Drew Ave",
     "sg:city":"Monette",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219674643,
-    "wof:lastmodified":1449073038,
+    "wof:lastmodified":1466324607,
     "wof:name":"Greenway Equipment Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "tractor"
     ]
 },
-  "bbox": [-90.343567,35.89045,-90.343567,35.89045],
-  "geometry": {"coordinates":[-90.343567,35.89045],"type":"Point"}
+  "bbox": [
+    -90.343567,
+    35.89045,
+    -90.343567,
+    35.89045
+],
+  "geometry": {"coordinates":[-90.34356699999999,35.89045],"type":"Point"}
 }

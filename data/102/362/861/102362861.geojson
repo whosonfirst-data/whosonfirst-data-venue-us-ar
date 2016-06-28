@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102362861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.722413,34.751139,-90.722413,34.751139",
     "geom:latitude":34.751139,
     "geom:longitude":-90.722413,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2675 State Hwy 44",
     "sg:city":"Marianna",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102362861,
-    "wof:lastmodified":1449069327,
+    "wof:lastmodified":1466324349,
     "wof:name":"US Forestry Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.722413,34.751139,-90.722413,34.751139],
+  "bbox": [
+    -90.722413,
+    34.751139,
+    -90.722413,
+    34.751139
+],
   "geometry": {"coordinates":[-90.722413,34.751139],"type":"Point"}
 }

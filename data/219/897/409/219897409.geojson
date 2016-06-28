@@ -2,13 +2,14 @@
   "id": 219897409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.211098,36.344101,-94.211098,36.344101",
     "geom:latitude":36.344101,
     "geom:longitude":-94.211098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2810 S Walton Blvd",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219897409,
-    "wof:lastmodified":1449073341,
+    "wof:lastmodified":1466325096,
     "wof:name":"Car Show",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "car"
     ]
 },
-  "bbox": [-94.211098,36.344101,-94.211098,36.344101],
-  "geometry": {"coordinates":[-94.211098,36.344101],"type":"Point"}
+  "bbox": [
+    -94.211098,
+    36.344101,
+    -94.211098,
+    36.344101
+],
+  "geometry": {"coordinates":[-94.21109800000001,36.344101],"type":"Point"}
 }

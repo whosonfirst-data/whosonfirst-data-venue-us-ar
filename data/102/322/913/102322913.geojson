@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102322913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.381938,34.722156,-92.381938,34.722156",
     "geom:latitude":34.722156,
     "geom:longitude":-92.381938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3400 Romine Rd",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.lrsd.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878761,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85878761
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102322913,
-    "wof:lastmodified":1449067742,
+    "wof:lastmodified":1466323571,
     "wof:name":"Romine Elementary School",
     "wof:parent_id":85878761,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.381938,34.722156,-92.381938,34.722156],
-  "geometry": {"coordinates":[-92.381938,34.722156],"type":"Point"}
+  "bbox": [
+    -92.381938,
+    34.722156,
+    -92.381938,
+    34.722156
+],
+  "geometry": {"coordinates":[-92.38193800000001,34.722156],"type":"Point"}
 }

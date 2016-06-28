@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102420037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.490045,33.888521,-91.490045,33.888521",
     "geom:latitude":33.888521,
     "geom:longitude":-91.490045,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Court St",
     "sg:city":"Dumas",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102420037,
-    "wof:lastmodified":1449068925,
+    "wof:lastmodified":1466325268,
     "wof:name":"Schools Cafeteria",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.490045,33.888521,-91.490045,33.888521],
-  "geometry": {"coordinates":[-91.490045,33.888521],"type":"Point"}
+  "bbox": [
+    -91.490045,
+    33.888521,
+    -91.490045,
+    33.888521
+],
+  "geometry": {"coordinates":[-91.49004499999999,33.888521],"type":"Point"}
 }

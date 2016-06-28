@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102325343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.972378,36.054299,-90.972378,36.054299",
     "geom:latitude":36.054299,
     "geom:longitude":-90.972378,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"311 NW Texas St",
     "sg:city":"Hoxie",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102325343,
-    "wof:lastmodified":1449068706,
+    "wof:lastmodified":1466323564,
     "wof:name":"Cellular Mobility",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.972378,36.054299,-90.972378,36.054299],
-  "geometry": {"coordinates":[-90.972378,36.054299],"type":"Point"}
+  "bbox": [
+    -90.972378,
+    36.054299,
+    -90.972378,
+    36.054299
+],
+  "geometry": {"coordinates":[-90.97237800000001,36.054299],"type":"Point"}
 }

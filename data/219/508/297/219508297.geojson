@@ -2,13 +2,14 @@
   "id": 219508297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.096222,34.691235,-92.096222,34.691235",
     "geom:latitude":34.691235,
     "geom:longitude":-92.096222,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5301 Highway 161 S",
     "sg:city":"Scott",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219508297,
-    "wof:lastmodified":1449072355,
+    "wof:lastmodified":1466324017,
     "wof:name":"Cotham's Mercantile",
     "wof:parent_id":85811577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.096222,34.691235,-92.096222,34.691235],
+  "bbox": [
+    -92.096222,
+    34.691235,
+    -92.096222,
+    34.691235
+],
   "geometry": {"coordinates":[-92.096222,34.691235],"type":"Point"}
 }

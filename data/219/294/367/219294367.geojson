@@ -2,13 +2,14 @@
   "id": 219294367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.950371,34.277909,-92.950371,34.277909",
     "geom:latitude":34.277909,
     "geom:longitude":-92.950371,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"651 Antioch Cemetery Rd",
     "sg:city":"Donaldson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219294367,
-    "wof:lastmodified":1449072914,
+    "wof:lastmodified":1466321683,
     "wof:name":"Saginaw Missionary Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-92.950371,34.277909,-92.950371,34.277909],
+  "bbox": [
+    -92.950371,
+    34.277909,
+    -92.950371,
+    34.277909
+],
   "geometry": {"coordinates":[-92.950371,34.277909],"type":"Point"}
 }

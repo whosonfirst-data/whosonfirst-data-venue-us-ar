@@ -2,13 +2,14 @@
   "id": 220042261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.137009,36.141927,-94.137009,36.141927",
     "geom:latitude":36.141927,
     "geom:longitude":-94.137009,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4403 Bogey Dr",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":220042261,
-    "wof:lastmodified":1449074647,
+    "wof:lastmodified":1466320555,
     "wof:name":"Grays Firearms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "gunsmith"
     ]
 },
-  "bbox": [-94.137009,36.141927,-94.137009,36.141927],
-  "geometry": {"coordinates":[-94.137009,36.141927],"type":"Point"}
+  "bbox": [
+    -94.137009,
+    36.141927,
+    -94.137009,
+    36.141927
+],
+  "geometry": {"coordinates":[-94.13700900000001,36.141927],"type":"Point"}
 }

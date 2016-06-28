@@ -2,13 +2,14 @@
   "id": 219252835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.005648,33.430893,-94.005648,33.430893",
     "geom:latitude":33.430893,
     "geom:longitude":-94.005648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"905 L E Gilliland Rd",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219252835,
-    "wof:lastmodified":1449070856,
+    "wof:lastmodified":1466321353,
     "wof:name":"Fcm Products, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "sheet"
     ]
 },
-  "bbox": [-94.005648,33.430893,-94.005648,33.430893],
-  "geometry": {"coordinates":[-94.005648,33.430893],"type":"Point"}
+  "bbox": [
+    -94.005648,
+    33.430893,
+    -94.005648,
+    33.430893
+],
+  "geometry": {"coordinates":[-94.00564799999999,33.430893],"type":"Point"}
 }

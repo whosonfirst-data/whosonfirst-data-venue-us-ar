@@ -2,13 +2,14 @@
   "id": 219418147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.316419,34.148548,-92.316419,34.148548",
     "geom:latitude":34.148548,
     "geom:longitude":-92.316419,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"83 Grant County 3565",
     "sg:city":"Grapevine",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219418147,
-    "wof:lastmodified":1449073168,
+    "wof:lastmodified":1466323007,
     "wof:name":"Hudson Varity",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "market"
     ]
 },
-  "bbox": [-92.316419,34.148548,-92.316419,34.148548],
+  "bbox": [
+    -92.316419,
+    34.148548,
+    -92.316419,
+    34.148548
+],
   "geometry": {"coordinates":[-92.316419,34.148548],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219671877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.430577,36.143709,-90.430577,36.143709",
     "geom:latitude":36.143709,
     "geom:longitude":-90.430577,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1282 Greene Road 515 Th",
     "sg:city":"Marmaduke",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219671877,
-    "wof:lastmodified":1449071207,
+    "wof:lastmodified":1466324879,
     "wof:name":"David G Parker",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.430577,36.143709,-90.430577,36.143709],
+  "bbox": [
+    -90.430577,
+    36.143709,
+    -90.430577,
+    36.143709
+],
   "geometry": {"coordinates":[-90.430577,36.143709],"type":"Point"}
 }

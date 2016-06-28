@@ -2,13 +2,14 @@
   "id": 219158201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.338179,33.305456,-92.338179,33.305456",
     "geom:latitude":33.305456,
     "geom:longitude":-92.338179,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"253 Bradley Road 85",
     "sg:city":"Jersey",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219158201,
-    "wof:lastmodified":1449072742,
+    "wof:lastmodified":1466320453,
     "wof:name":"Stanton Hog Dog Breeder",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "market"
     ]
 },
-  "bbox": [-92.338179,33.305456,-92.338179,33.305456],
+  "bbox": [
+    -92.338179,
+    33.305456,
+    -92.338179,
+    33.305456
+],
   "geometry": {"coordinates":[-92.338179,33.305456],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219292537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.408949,34.442894,-94.408949,34.442894",
     "geom:latitude":34.442894,
     "geom:longitude":-94.408949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5608 Highway 71 S",
     "sg:city":"Cove",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219292537,
-    "wof:lastmodified":1449070684,
+    "wof:lastmodified":1466321669,
     "wof:name":"Hatfield Poultry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "equipment"
     ]
 },
-  "bbox": [-94.408949,34.442894,-94.408949,34.442894],
-  "geometry": {"coordinates":[-94.408949,34.442894],"type":"Point"}
+  "bbox": [
+    -94.408949,
+    34.442894,
+    -94.408949,
+    34.442894
+],
+  "geometry": {"coordinates":[-94.40894900000001,34.442894],"type":"Point"}
 }

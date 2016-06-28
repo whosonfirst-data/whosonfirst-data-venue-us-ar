@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102256125",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.22253,34.591991,-94.22253,34.591991",
     "geom:latitude":34.591991,
     "geom:longitude":-94.22253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"702 Morrow St N",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102256125",
-    "wof:lastmodified":1449069620,
+    "wof:lastmodified":1466321960,
     "wof:name":"Mena Forest Products",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.22253,34.591991,-94.22253,34.591991],
-  "geometry": {"coordinates":[-94.22253,34.591991],"type":"Point"}
+  "bbox": [
+    -94.22253,
+    34.591991,
+    -94.22253,
+    34.591991
+],
+  "geometry": {"coordinates":[-94.22253000000001,34.591991],"type":"Point"}
 }

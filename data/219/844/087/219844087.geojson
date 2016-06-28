@@ -2,13 +2,14 @@
   "id": 219844087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.158251,36.080636,-94.158251,36.080636",
     "geom:latitude":36.080636,
     "geom:longitude":-94.158251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 E Memorial Dr",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219844087,
-    "wof:lastmodified":1449071890,
+    "wof:lastmodified":1466325017,
     "wof:name":"University Of Arkansas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "psychologist"
     ]
 },
-  "bbox": [-94.158251,36.080636,-94.158251,36.080636],
-  "geometry": {"coordinates":[-94.158251,36.080636],"type":"Point"}
+  "bbox": [
+    -94.158251,
+    36.080636,
+    -94.158251,
+    36.080636
+],
+  "geometry": {"coordinates":[-94.15825100000001,36.080636],"type":"Point"}
 }

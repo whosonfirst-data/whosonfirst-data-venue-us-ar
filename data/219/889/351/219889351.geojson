@@ -2,13 +2,14 @@
   "id": 219889351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.235851,36.373164,-94.235851,36.373164",
     "geom:latitude":36.373164,
     "geom:longitude":-94.235851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 El Contento Dr",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219889351,
-    "wof:lastmodified":1449070316,
+    "wof:lastmodified":1466325075,
     "wof:name":"Broughton Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.235851,36.373164,-94.235851,36.373164],
+  "bbox": [
+    -94.235851,
+    36.373164,
+    -94.235851,
+    36.373164
+],
   "geometry": {"coordinates":[-94.235851,36.373164],"type":"Point"}
 }

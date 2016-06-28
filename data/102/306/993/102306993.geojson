@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102306993",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.157623,36.069657,-94.157623,36.069657",
     "geom:latitude":36.069657,
     "geom:longitude":-94.157623,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"420 N College Ave",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885435,
+        85688549,
         85633793,
         85919609,
         102082007,
-        85688549
+        85885435
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102306993",
-    "wof:lastmodified":1449070093,
+    "wof:lastmodified":1466323302,
     "wof:name":"Trophies & Awards",
     "wof:parent_id":85885435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.157623,36.069657,-94.157623,36.069657],
+  "bbox": [
+    -94.157623,
+    36.069657,
+    -94.157623,
+    36.069657
+],
   "geometry": {"coordinates":[-94.157623,36.069657],"type":"Point"}
 }

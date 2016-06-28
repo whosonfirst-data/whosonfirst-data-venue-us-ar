@@ -2,13 +2,14 @@
   "id": 219959107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.143443,36.341302,-94.143443,36.341302",
     "geom:latitude":36.341302,
     "geom:longitude":-94.143443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1803 W Olive St",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -70,10 +71,11 @@
         }
     ],
     "wof:id":219959107,
-    "wof:lastmodified":1449073564,
+    "wof:lastmodified":1466325256,
     "wof:name":"Allstate Insurance Company - Corey Davidson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -85,6 +87,11 @@
         "renter"
     ]
 },
-  "bbox": [-94.143443,36.341302,-94.143443,36.341302],
+  "bbox": [
+    -94.143443,
+    36.341302,
+    -94.143443,
+    36.341302
+],
   "geometry": {"coordinates":[-94.143443,36.341302],"type":"Point"}
 }

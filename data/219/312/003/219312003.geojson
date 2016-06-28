@@ -2,13 +2,14 @@
   "id": 219312003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.069441,34.485572,-94.069441,34.485572",
     "geom:latitude":34.485572,
     "geom:longitude":-94.069441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"559 Polk Road 61",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219312003,
-    "wof:lastmodified":1449072167,
+    "wof:lastmodified":1466321832,
     "wof:name":"Wolf Pen Gap Atv Campground",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "vehicle"
     ]
 },
-  "bbox": [-94.069441,34.485572,-94.069441,34.485572],
+  "bbox": [
+    -94.069441,
+    34.485572,
+    -94.069441,
+    34.485572
+],
   "geometry": {"coordinates":[-94.069441,34.485572],"type":"Point"}
 }

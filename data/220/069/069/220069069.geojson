@@ -2,13 +2,14 @@
   "id": 220069069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.155903,35.26153,-93.155903,35.26153",
     "geom:latitude":35.26153,
     "geom:longitude":-93.155903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Mooncrest Way",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220069069,
-    "wof:lastmodified":1449074560,
+    "wof:lastmodified":1466321311,
     "wof:name":"Drilling Enterprises Inc",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "billing"
     ]
 },
-  "bbox": [-93.155903,35.26153,-93.155903,35.26153],
+  "bbox": [
+    -93.155903,
+    35.26153,
+    -93.155903,
+    35.26153
+],
   "geometry": {"coordinates":[-93.155903,35.26153],"type":"Point"}
 }

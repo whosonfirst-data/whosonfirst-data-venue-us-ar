@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102381215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.066307,34.499913,-93.066307,34.499913",
     "geom:latitude":34.499913,
     "geom:longitude":-93.066307,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 Garland Ave",
     "sg:city":"Hot Springs",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102381215,
-    "wof:lastmodified":1449067995,
+    "wof:lastmodified":1466322340,
     "wof:name":"Christian Crossgate Academy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.066307,34.499913,-93.066307,34.499913],
-  "geometry": {"coordinates":[-93.066307,34.499913],"type":"Point"}
+  "bbox": [
+    -93.066307,
+    34.499913,
+    -93.066307,
+    34.499913
+],
+  "geometry": {"coordinates":[-93.06630699999999,34.499913],"type":"Point"}
 }

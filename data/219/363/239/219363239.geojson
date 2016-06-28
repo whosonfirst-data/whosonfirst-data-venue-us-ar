@@ -2,13 +2,14 @@
   "id": 219363239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.067978,34.951347,-92.067978,34.951347",
     "geom:latitude":34.951347,
     "geom:longitude":-92.067978,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3950 Highway 5",
     "sg:city":"Cabot",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219363239,
-    "wof:lastmodified":1449073488,
+    "wof:lastmodified":1466322457,
     "wof:name":"Samaher",
     "wof:parent_id":85811577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "services-commercial"
     ]
 },
-  "bbox": [-92.067978,34.951347,-92.067978,34.951347],
+  "bbox": [
+    -92.067978,
+    34.951347,
+    -92.067978,
+    34.951347
+],
   "geometry": {"coordinates":[-92.067978,34.951347],"type":"Point"}
 }

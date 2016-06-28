@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102395985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.705078,35.231224,-91.705078,35.231224",
     "geom:latitude":35.231224,
     "geom:longitude":-91.705078,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2220 Taylor Rd",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":102395985,
-    "wof:lastmodified":1449069820,
+    "wof:lastmodified":1466324818,
     "wof:name":"Advanced Collision Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.705078,35.231224,-91.705078,35.231224],
+  "bbox": [
+    -91.705078,
+    35.231224,
+    -91.705078,
+    35.231224
+],
   "geometry": {"coordinates":[-91.705078,35.231224],"type":"Point"}
 }

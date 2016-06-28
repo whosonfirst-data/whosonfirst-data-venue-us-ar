@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102399441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.438444,34.751372,-92.438444,34.751372",
     "geom:latitude":34.751372,
     "geom:longitude":-92.438444,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15001 Kanis Rd",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -25,10 +26,10 @@
     "sg:website":"www.pcssd.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102082497,
-        85633793,
         85688549,
-        85840773
+        85633793,
+        85840773,
+        102082497
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102399441,
-    "wof:lastmodified":1449068239,
+    "wof:lastmodified":1466324733,
     "wof:name":"Baker Elementary School",
     "wof:parent_id":85840773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.438444,34.751372,-92.438444,34.751372],
+  "bbox": [
+    -92.438444,
+    34.751372,
+    -92.438444,
+    34.751372
+],
   "geometry": {"coordinates":[-92.438444,34.751372],"type":"Point"}
 }

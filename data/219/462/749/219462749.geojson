@@ -2,13 +2,14 @@
   "id": 219462749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.797379,34.364263,-92.797379,34.364263",
     "geom:latitude":34.364263,
     "geom:longitude":-92.797379,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1309 E Page Ave",
     "sg:city":"Malvern",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":219462749,
-    "wof:lastmodified":1449073775,
+    "wof:lastmodified":1466323489,
     "wof:name":"Citgo Mart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.797379,34.364263,-92.797379,34.364263],
-  "geometry": {"coordinates":[-92.797379,34.364263],"type":"Point"}
+  "bbox": [
+    -92.797379,
+    34.364263,
+    -92.797379,
+    34.364263
+],
+  "geometry": {"coordinates":[-92.79737900000001,34.364263],"type":"Point"}
 }

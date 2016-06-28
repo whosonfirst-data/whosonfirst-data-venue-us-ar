@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102430123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.149691,36.071783,-94.149691,36.071783",
     "geom:latitude":36.071783,
     "geom:longitude":-94.149691,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"687 N Mission Blvd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885459,
+        85688549,
         85633793,
         85919609,
         102082007,
-        85688549
+        85885459
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102430123,
-    "wof:lastmodified":1449069301,
+    "wof:lastmodified":1466325544,
     "wof:name":"Carousel Child Care",
     "wof:parent_id":85885459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.149691,36.071783,-94.149691,36.071783],
+  "bbox": [
+    -94.149691,
+    36.071783,
+    -94.149691,
+    36.071783
+],
   "geometry": {"coordinates":[-94.149691,36.071783],"type":"Point"}
 }

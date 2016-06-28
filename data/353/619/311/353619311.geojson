@@ -2,13 +2,14 @@
   "id": 353619311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.769516,36.612528,-94.769516,36.612528",
     "geom:latitude":36.612528,
     "geom:longitude":-94.769516,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"61802 E 280 Rd",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353619311,
-    "wof:lastmodified":1449018701,
+    "wof:lastmodified":1466320462,
     "wof:name":"Lazy D Trucking",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-94.769516,36.612528,-94.769516,36.612528],
+  "bbox": [
+    -94.769516,
+    36.612528,
+    -94.769516,
+    36.612528
+],
   "geometry": {"coordinates":[-94.769516,36.612528],"type":"Point"}
 }

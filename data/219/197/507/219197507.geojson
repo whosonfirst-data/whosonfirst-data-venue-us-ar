@@ -2,13 +2,14 @@
   "id": 219197507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.425018,33.811699,-92.425018,33.811699",
     "geom:latitude":33.811699,
     "geom:longitude":-92.425018,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 W 3rd St",
     "sg:city":"Fordyce",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219197507,
-    "wof:lastmodified":1449073474,
+    "wof:lastmodified":1466320842,
     "wof:name":"Bob N Rushing Dds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.425018,33.811699,-92.425018,33.811699],
-  "geometry": {"coordinates":[-92.425018,33.811699],"type":"Point"}
+  "bbox": [
+    -92.425018,
+    33.811699,
+    -92.425018,
+    33.811699
+],
+  "geometry": {"coordinates":[-92.42501799999999,33.811699],"type":"Point"}
 }

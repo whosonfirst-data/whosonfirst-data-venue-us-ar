@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102346491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.130024,36.185997,-94.130024,36.185997",
     "geom:latitude":36.185997,
     "geom:longitude":-94.130024,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"130 Spring St",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885481,
+        85688549,
         85633793,
         85919623,
         102082007,
-        85688549
+        85885481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102346491,
-    "wof:lastmodified":1449067753,
+    "wof:lastmodified":1466324021,
     "wof:name":"Pursley Dow Crtif Dplomate APA",
     "wof:parent_id":85885481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.130024,36.185997,-94.130024,36.185997],
-  "geometry": {"coordinates":[-94.130024,36.185997],"type":"Point"}
+  "bbox": [
+    -94.130024,
+    36.185997,
+    -94.130024,
+    36.185997
+],
+  "geometry": {"coordinates":[-94.13002400000001,36.185997],"type":"Point"}
 }

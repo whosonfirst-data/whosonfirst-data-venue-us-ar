@@ -2,13 +2,14 @@
   "id": 203405753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.949815,33.154189,-91.949815,33.154189",
     "geom:latitude":33.154189,
     "geom:longitude":-91.949815,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1148 Highway 133 N",
     "sg:city":"Crossett",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":203405753,
-    "wof:lastmodified":1449026697,
+    "wof:lastmodified":1466320525,
     "wof:name":"Martin Wallace Tire And Auto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-91.949815,33.154189,-91.949815,33.154189],
+  "bbox": [
+    -91.949815,
+    33.154189,
+    -91.949815,
+    33.154189
+],
   "geometry": {"coordinates":[-91.949815,33.154189],"type":"Point"}
 }

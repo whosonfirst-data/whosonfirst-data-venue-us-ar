@@ -2,13 +2,14 @@
   "id": 219525243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.740784,35.217099,-91.740784,35.217099",
     "geom:latitude":35.217099,
     "geom:longitude":-91.740784,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2413 Pioneer Rd",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219525243,
-    "wof:lastmodified":1449073194,
+    "wof:lastmodified":1466324145,
     "wof:name":"Buttercup Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.740784,35.217099,-91.740784,35.217099],
+  "bbox": [
+    -91.740784,
+    35.217099,
+    -91.740784,
+    35.217099
+],
   "geometry": {"coordinates":[-91.740784,35.217099],"type":"Point"}
 }

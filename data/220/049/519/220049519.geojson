@@ -2,13 +2,14 @@
   "id": 220049519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.145099,36.157892,-94.145099,36.157892",
     "geom:latitude":36.157892,
     "geom:longitude":-94.145099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3065 American St Ste B",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":220049519,
-    "wof:lastmodified":1449074433,
+    "wof:lastmodified":1466320665,
     "wof:name":"R L Maxon Moving",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -84,6 +86,11 @@
         "piano"
     ]
 },
-  "bbox": [-94.145099,36.157892,-94.145099,36.157892],
+  "bbox": [
+    -94.145099,
+    36.157892,
+    -94.145099,
+    36.157892
+],
   "geometry": {"coordinates":[-94.145099,36.157892],"type":"Point"}
 }

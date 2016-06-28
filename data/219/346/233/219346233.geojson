@@ -2,13 +2,14 @@
   "id": 219346233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.584858,35.047252,-92.584858,35.047252",
     "geom:latitude":35.047252,
     "geom:longitude":-92.584858,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"52 Oakridge Dr",
     "sg:city":"Bigelow",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219346233,
-    "wof:lastmodified":1449070362,
+    "wof:lastmodified":1466322202,
     "wof:name":"Eddie Lipsmeyer Hauling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-92.584858,35.047252,-92.584858,35.047252],
+  "bbox": [
+    -92.584858,
+    35.047252,
+    -92.584858,
+    35.047252
+],
   "geometry": {"coordinates":[-92.584858,35.047252],"type":"Point"}
 }

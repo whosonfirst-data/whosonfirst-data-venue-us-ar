@@ -2,13 +2,14 @@
   "id": 219723675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.513525,35.693744,-90.513525,35.693744",
     "geom:latitude":35.693744,
     "geom:longitude":-90.513525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17203 Odell Ln",
     "sg:city":"Trumann",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219723675,
-    "wof:lastmodified":1449072447,
+    "wof:lastmodified":1466324884,
     "wof:name":"Wheels & Deals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wheel"
     ]
 },
-  "bbox": [-90.513525,35.693744,-90.513525,35.693744],
+  "bbox": [
+    -90.513525,
+    35.693744,
+    -90.513525,
+    35.693744
+],
   "geometry": {"coordinates":[-90.513525,35.693744],"type":"Point"}
 }

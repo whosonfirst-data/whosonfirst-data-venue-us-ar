@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102210269",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.380587,35.410198,-94.380587,35.410198",
     "geom:latitude":35.410198,
     "geom:longitude":-94.380587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4525 Brockman Ave",
     "sg:city":"Fort Smith",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102210269",
-    "wof:lastmodified":1449068607,
+    "wof:lastmodified":1466320871,
     "wof:name":"Northside Churh of Christ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.380587,35.410198,-94.380587,35.410198],
-  "geometry": {"coordinates":[-94.380587,35.410198],"type":"Point"}
+  "bbox": [
+    -94.380587,
+    35.410198,
+    -94.380587,
+    35.410198
+],
+  "geometry": {"coordinates":[-94.38058700000001,35.410198],"type":"Point"}
 }

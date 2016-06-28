@@ -2,13 +2,14 @@
   "id": 220111417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.315412,35.139543,-94.315412,35.139543",
     "geom:latitude":35.139543,
     "geom:longitude":-94.315412,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3517 Mockingbird Hill Rd",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220111417,
-    "wof:lastmodified":1449074897,
+    "wof:lastmodified":1466322423,
     "wof:name":"William J White",
     "wof:parent_id":85808359,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "accessory"
     ]
 },
-  "bbox": [-94.315412,35.139543,-94.315412,35.139543],
-  "geometry": {"coordinates":[-94.315412,35.139543],"type":"Point"}
+  "bbox": [
+    -94.315412,
+    35.139543,
+    -94.315412,
+    35.139543
+],
+  "geometry": {"coordinates":[-94.31541199999999,35.139543],"type":"Point"}
 }

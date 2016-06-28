@@ -2,13 +2,14 @@
   "id": 219611805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.238953,35.05707,-90.238953,35.05707",
     "geom:latitude":35.05707,
     "geom:longitude":-90.238953,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5169 Waverly Rd",
     "sg:city":"Proctor",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219611805,
-    "wof:lastmodified":1449073182,
+    "wof:lastmodified":1466324602,
     "wof:name":"Blessing Thru Faith Ministries Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.238953,35.05707,-90.238953,35.05707],
+  "bbox": [
+    -90.238953,
+    35.05707,
+    -90.238953,
+    35.05707
+],
   "geometry": {"coordinates":[-90.238953,35.05707],"type":"Point"}
 }

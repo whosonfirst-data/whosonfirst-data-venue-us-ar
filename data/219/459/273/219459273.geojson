@@ -2,13 +2,14 @@
   "id": 219459273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.714162,34.468926,-92.714162,34.468926",
     "geom:latitude":34.468926,
     "geom:longitude":-92.714162,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"170 Peach Orchard Rd",
     "sg:city":"Malvern",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219459273,
-    "wof:lastmodified":1449071824,
+    "wof:lastmodified":1466323461,
     "wof:name":"Littlejohn Law Firm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "practice"
     ]
 },
-  "bbox": [-92.714162,34.468926,-92.714162,34.468926],
+  "bbox": [
+    -92.714162,
+    34.468926,
+    -92.714162,
+    34.468926
+],
   "geometry": {"coordinates":[-92.714162,34.468926],"type":"Point"}
 }

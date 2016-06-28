@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102363369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.344192,34.680081,-92.344192,34.680081",
     "geom:latitude":34.680081,
     "geom:longitude":-92.344192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6216 Young Rd",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102363369,
-    "wof:lastmodified":1449069889,
+    "wof:lastmodified":1466324285,
     "wof:name":"Marking Systems Of Arkansas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.344192,34.680081,-92.344192,34.680081],
-  "geometry": {"coordinates":[-92.344192,34.680081],"type":"Point"}
+  "bbox": [
+    -92.344192,
+    34.680081,
+    -92.344192,
+    34.680081
+],
+  "geometry": {"coordinates":[-92.34419200000001,34.680081],"type":"Point"}
 }

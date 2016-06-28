@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102281051",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.323618,34.74069,-92.323618,34.74069",
     "geom:latitude":34.74069,
     "geom:longitude":-92.323618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4415 W 12th St",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85838647,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85838647
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102281051",
-    "wof:lastmodified":1449069797,
+    "wof:lastmodified":1466322555,
     "wof:name":"Marys Magic Curl Buty Gallery",
     "wof:parent_id":85838647,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.323618,34.74069,-92.323618,34.74069],
+  "bbox": [
+    -92.323618,
+    34.74069,
+    -92.323618,
+    34.74069
+],
   "geometry": {"coordinates":[-92.323618,34.74069],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219572835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.733978,35.960296,-89.733978,35.960296",
     "geom:latitude":35.960296,
     "geom:longitude":-89.733978,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6054 N State Highway 137",
     "sg:city":"Blytheville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219572835,
-    "wof:lastmodified":1449072555,
+    "wof:lastmodified":1466324545,
     "wof:name":"Jim B Young",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "business"
     ]
 },
-  "bbox": [-89.733978,35.960296,-89.733978,35.960296],
-  "geometry": {"coordinates":[-89.733978,35.960296],"type":"Point"}
+  "bbox": [
+    -89.733978,
+    35.960296,
+    -89.733978,
+    35.960296
+],
+  "geometry": {"coordinates":[-89.73397799999999,35.960296],"type":"Point"}
 }

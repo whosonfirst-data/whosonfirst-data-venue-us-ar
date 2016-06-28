@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102332621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.340195,35.61359,-90.340195,35.61359",
     "geom:latitude":35.61359,
     "geom:longitude":-90.340195,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 McClellan Ave",
     "sg:city":"Lepanto",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102332621,
-    "wof:lastmodified":1449069077,
+    "wof:lastmodified":1466323716,
     "wof:name":"A & B Party Place",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.340195,35.61359,-90.340195,35.61359],
-  "geometry": {"coordinates":[-90.340195,35.61359],"type":"Point"}
+  "bbox": [
+    -90.340195,
+    35.61359,
+    -90.340195,
+    35.61359
+],
+  "geometry": {"coordinates":[-90.34019499999999,35.61359],"type":"Point"}
 }

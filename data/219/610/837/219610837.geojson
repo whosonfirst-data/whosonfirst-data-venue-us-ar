@@ -2,13 +2,14 @@
   "id": 219610837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.554371,35.268228,-90.554371,35.268228",
     "geom:latitude":35.268228,
     "geom:longitude":-90.554371,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Park",
     "sg:city":"Parkin",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219610837,
-    "wof:lastmodified":1449073854,
+    "wof:lastmodified":1466324597,
     "wof:name":"Miracle & Blessing Beauty Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.554371,35.268228,-90.554371,35.268228],
+  "bbox": [
+    -90.554371,
+    35.268228,
+    -90.554371,
+    35.268228
+],
   "geometry": {"coordinates":[-90.554371,35.268228],"type":"Point"}
 }

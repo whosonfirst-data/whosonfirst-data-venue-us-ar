@@ -2,13 +2,14 @@
   "id": 219561943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.173282,35.037362,-92.173282,35.037362",
     "geom:latitude":35.037362,
     "geom:longitude":-92.173282,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 Ballard Rd",
     "sg:city":"Vilonia",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219561943,
-    "wof:lastmodified":1449072901,
+    "wof:lastmodified":1466324413,
     "wof:name":"Isom Auto Glass",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-92.173282,35.037362,-92.173282,35.037362],
+  "bbox": [
+    -92.173282,
+    35.037362,
+    -92.173282,
+    35.037362
+],
   "geometry": {"coordinates":[-92.173282,35.037362],"type":"Point"}
 }

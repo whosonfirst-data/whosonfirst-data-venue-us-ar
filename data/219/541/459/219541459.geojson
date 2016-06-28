@@ -2,13 +2,14 @@
   "id": 219541459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.401008,34.306822,-92.401008,34.306822",
     "geom:latitude":34.306822,
     "geom:longitude":-92.401008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 W Center St",
     "sg:city":"Sheridan",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219541459,
-    "wof:lastmodified":1449070778,
+    "wof:lastmodified":1466324267,
     "wof:name":"All About Hair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.401008,34.306822,-92.401008,34.306822],
+  "bbox": [
+    -92.401008,
+    34.306822,
+    -92.401008,
+    34.306822
+],
   "geometry": {"coordinates":[-92.401008,34.306822],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102268103",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.193998,36.083887,-94.193998,36.083887",
     "geom:latitude":36.083887,
     "geom:longitude":-94.193998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 N Stable Ave",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885447,
+        85688549,
         85633793,
         85919609,
         102082007,
-        85688549
+        85885447
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102268103",
-    "wof:lastmodified":1449069115,
+    "wof:lastmodified":1466322260,
     "wof:name":"Mc Enterprises Inc",
     "wof:parent_id":85885447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.193998,36.083887,-94.193998,36.083887],
-  "geometry": {"coordinates":[-94.193998,36.083887],"type":"Point"}
+  "bbox": [
+    -94.193998,
+    36.083887,
+    -94.193998,
+    36.083887
+],
+  "geometry": {"coordinates":[-94.19399799999999,36.083887],"type":"Point"}
 }

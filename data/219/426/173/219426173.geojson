@@ -2,13 +2,14 @@
   "id": 219426173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.472774,35.230301,-92.472774,35.230301",
     "geom:latitude":35.230301,
     "geom:longitude":-92.472774,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Shady Grove Ln",
     "sg:city":"Greenbrier",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219426173,
-    "wof:lastmodified":1449071148,
+    "wof:lastmodified":1466323067,
     "wof:name":"Bristol Fabrication Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-92.472774,35.230301,-92.472774,35.230301],
+  "bbox": [
+    -92.472774,
+    35.230301,
+    -92.472774,
+    35.230301
+],
   "geometry": {"coordinates":[-92.472774,35.230301],"type":"Point"}
 }

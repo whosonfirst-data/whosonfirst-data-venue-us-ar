@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102217541",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.052422,34.506288,-93.052422,34.506288",
     "geom:latitude":34.506288,
     "geom:longitude":-93.052422,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"303 Broadway St",
     "sg:city":"Hot Springs National",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102217541",
-    "wof:lastmodified":1449070046,
+    "wof:lastmodified":1466321114,
     "wof:name":"Cheese Corner Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.052422,34.506288,-93.052422,34.506288],
-  "geometry": {"coordinates":[-93.052422,34.506288],"type":"Point"}
+  "bbox": [
+    -93.052422,
+    34.506288,
+    -93.052422,
+    34.506288
+],
+  "geometry": {"coordinates":[-93.05242200000001,34.506288],"type":"Point"}
 }

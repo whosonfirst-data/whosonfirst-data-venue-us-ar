@@ -2,13 +2,14 @@
   "id": 219493553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.761595,34.738992,-92.761595,34.738992",
     "geom:latitude":34.738992,
     "geom:longitude":-92.761595,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22269 Highway 9",
     "sg:city":"Paron",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219493553,
-    "wof:lastmodified":1449071513,
+    "wof:lastmodified":1466323893,
     "wof:name":"Paron Headstart",
     "wof:parent_id":85817531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "day"
     ]
 },
-  "bbox": [-92.761595,34.738992,-92.761595,34.738992],
+  "bbox": [
+    -92.761595,
+    34.738992,
+    -92.761595,
+    34.738992
+],
   "geometry": {"coordinates":[-92.761595,34.738992],"type":"Point"}
 }

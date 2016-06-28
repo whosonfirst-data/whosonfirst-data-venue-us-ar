@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102296677",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.010809,34.980305,-92.010809,34.980305",
     "geom:latitude":34.980305,
     "geom:longitude":-92.010809,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"802 N 2nd St",
     "sg:city":"Cabot",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102296677",
-    "wof:lastmodified":1449069722,
+    "wof:lastmodified":1466323026,
     "wof:name":"American Residential Mortgage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.010809,34.980305,-92.010809,34.980305],
-  "geometry": {"coordinates":[-92.010809,34.980305],"type":"Point"}
+  "bbox": [
+    -92.010809,
+    34.980305,
+    -92.010809,
+    34.980305
+],
+  "geometry": {"coordinates":[-92.01080899999999,34.980305],"type":"Point"}
 }

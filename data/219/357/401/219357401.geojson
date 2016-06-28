@@ -2,13 +2,14 @@
   "id": 219357401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.464341,34.621052,-92.464341,34.621052",
     "geom:latitude":34.621052,
     "geom:longitude":-92.464341,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3116 Lacrosse",
     "sg:city":"Bryant",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219357401,
-    "wof:lastmodified":1449073488,
+    "wof:lastmodified":1466322347,
     "wof:name":"501 Sports Marketing Inc",
     "wof:parent_id":85817531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "consultant"
     ]
 },
-  "bbox": [-92.464341,34.621052,-92.464341,34.621052],
+  "bbox": [
+    -92.464341,
+    34.621052,
+    -92.464341,
+    34.621052
+],
   "geometry": {"coordinates":[-92.464341,34.621052],"type":"Point"}
 }

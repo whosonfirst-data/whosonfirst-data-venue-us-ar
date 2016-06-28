@@ -2,13 +2,14 @@
   "id": 337292223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.906839,35.929365,-89.906839,35.929365",
     "geom:latitude":35.929365,
     "geom:longitude":-89.906839,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"317 N Broadway St",
     "sg:city":"Blytheville",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":337292223,
-    "wof:lastmodified":1449027007,
+    "wof:lastmodified":1466322093,
     "wof:name":"Goff Real Estate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-89.906839,35.929365,-89.906839,35.929365],
-  "geometry": {"coordinates":[-89.906839,35.929365],"type":"Point"}
+  "bbox": [
+    -89.906839,
+    35.929365,
+    -89.906839,
+    35.929365
+],
+  "geometry": {"coordinates":[-89.90683900000001,35.929365],"type":"Point"}
 }

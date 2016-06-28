@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102403811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.403491,34.794834,-92.403491,34.794834",
     "geom:latitude":34.794834,
     "geom:longitude":-92.403491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11810 Pleasant Ridge Rd",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     "sg:website":"www.newformulanaturals.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858725,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85858725
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":102403811,
-    "wof:lastmodified":1449069839,
+    "wof:lastmodified":1466324865,
     "wof:name":"New Formula Naturals Inc",
     "wof:parent_id":85858725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.403491,34.794834,-92.403491,34.794834],
+  "bbox": [
+    -92.403491,
+    34.794834,
+    -92.403491,
+    34.794834
+],
   "geometry": {"coordinates":[-92.403491,34.794834],"type":"Point"}
 }

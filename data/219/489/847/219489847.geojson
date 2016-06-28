@@ -2,13 +2,14 @@
   "id": 219489847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.225657,34.836487,-92.225657,34.836487",
     "geom:latitude":34.836487,
     "geom:longitude":-92.225657,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8823 Thomas St",
     "sg:city":"Sherwood",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":219489847,
-    "wof:lastmodified":1449072304,
+    "wof:lastmodified":1466323842,
     "wof:name":"Hidden Valley Apts",
     "wof:parent_id":85851723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "listing"
     ]
 },
-  "bbox": [-92.225657,34.836487,-92.225657,34.836487],
+  "bbox": [
+    -92.225657,
+    34.836487,
+    -92.225657,
+    34.836487
+],
   "geometry": {"coordinates":[-92.225657,34.836487],"type":"Point"}
 }

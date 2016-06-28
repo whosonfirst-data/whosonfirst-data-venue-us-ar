@@ -2,13 +2,14 @@
   "id": 219473783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.287727,35.650451,-91.287727,35.650451",
     "geom:latitude":35.650451,
     "geom:longitude":-91.287727,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Lakeview Dr",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219473783,
-    "wof:lastmodified":1449071125,
+    "wof:lastmodified":1466323625,
     "wof:name":"Proag Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "bureau"
     ]
 },
-  "bbox": [-91.287727,35.650451,-91.287727,35.650451],
+  "bbox": [
+    -91.287727,
+    35.650451,
+    -91.287727,
+    35.650451
+],
   "geometry": {"coordinates":[-91.287727,35.650451],"type":"Point"}
 }

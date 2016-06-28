@@ -2,13 +2,14 @@
   "id": 320780391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.502564,36.180754,-94.502564,36.180754",
     "geom:latitude":36.180754,
     "geom:longitude":-94.502564,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4198 Hwy 412 E",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320780391,
-    "wof:lastmodified":1449014043,
+    "wof:lastmodified":1466320649,
     "wof:name":"Second Shift Auto Upholstery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "body"
     ]
 },
-  "bbox": [-94.502564,36.180754,-94.502564,36.180754],
-  "geometry": {"coordinates":[-94.502564,36.180754],"type":"Point"}
+  "bbox": [
+    -94.502564,
+    36.180754,
+    -94.502564,
+    36.180754
+],
+  "geometry": {"coordinates":[-94.50256400000001,36.180754],"type":"Point"}
 }

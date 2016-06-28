@@ -2,13 +2,14 @@
   "id": 219197571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.444168,33.813099,-92.444168,33.813099",
     "geom:latitude":33.813099,
     "geom:longitude":-92.444168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2400 W 4th St",
     "sg:city":"Fordyce",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219197571,
-    "wof:lastmodified":1449073476,
+    "wof:lastmodified":1466320843,
     "wof:name":"Simpson Furniture & Appliance Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "store"
     ]
 },
-  "bbox": [-92.444168,33.813099,-92.444168,33.813099],
+  "bbox": [
+    -92.444168,
+    33.813099,
+    -92.444168,
+    33.813099
+],
   "geometry": {"coordinates":[-92.444168,33.813099],"type":"Point"}
 }

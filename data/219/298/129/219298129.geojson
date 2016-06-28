@@ -2,13 +2,14 @@
   "id": 219298129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.524858,34.319904,-93.524858,34.319904",
     "geom:latitude":34.319904,
     "geom:longitude":-93.524858,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 Baker Rd",
     "sg:city":"Glenwood",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219298129,
-    "wof:lastmodified":1449071360,
+    "wof:lastmodified":1466321715,
     "wof:name":"Caddomead Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.524858,34.319904,-93.524858,34.319904],
-  "geometry": {"coordinates":[-93.524858,34.319904],"type":"Point"}
+  "bbox": [
+    -93.524858,
+    34.319904,
+    -93.524858,
+    34.319904
+],
+  "geometry": {"coordinates":[-93.52485799999999,34.319904],"type":"Point"}
 }

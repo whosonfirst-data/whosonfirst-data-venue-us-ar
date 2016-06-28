@@ -2,13 +2,14 @@
   "id": 219679333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.500976,36.056192,-90.500976,36.056192",
     "geom:latitude":36.056192,
     "geom:longitude":-90.500976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1211 W Court St",
     "sg:city":"Paragould",
     "sg:classifiers":[
@@ -70,10 +71,11 @@
         }
     ],
     "wof:id":219679333,
-    "wof:lastmodified":1449072655,
+    "wof:lastmodified":1466324890,
     "wof:name":"Allstate Insurance Company - Chris Robinson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -85,6 +87,11 @@
         "renter"
     ]
 },
-  "bbox": [-90.500976,36.056192,-90.500976,36.056192],
-  "geometry": {"coordinates":[-90.500976,36.056192],"type":"Point"}
+  "bbox": [
+    -90.500976,
+    36.056192,
+    -90.500976,
+    36.056192
+],
+  "geometry": {"coordinates":[-90.50097599999999,36.056192],"type":"Point"}
 }

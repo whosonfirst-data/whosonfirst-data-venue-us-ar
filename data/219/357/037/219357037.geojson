@@ -2,13 +2,14 @@
   "id": 219357037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.193003,34.887183,-91.193003,34.887183",
     "geom:latitude":34.887183,
     "geom:longitude":-91.193003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 W Cypress St",
     "sg:city":"Brinkley",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219357037,
-    "wof:lastmodified":1449073490,
+    "wof:lastmodified":1466322340,
     "wof:name":"Timeless Treasures",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.193003,34.887183,-91.193003,34.887183],
+  "bbox": [
+    -91.193003,
+    34.887183,
+    -91.193003,
+    34.887183
+],
   "geometry": {"coordinates":[-91.193003,34.887183],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219836769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.124392,36.119931,-94.124392,36.119931",
     "geom:latitude":36.119931,
     "geom:longitude":-94.124392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2566 E Joyce Blvd Ste 1",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219836769,
-    "wof:lastmodified":1449072716,
+    "wof:lastmodified":1466324930,
     "wof:name":"Pulaski Mortgage Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "processing"
     ]
 },
-  "bbox": [-94.124392,36.119931,-94.124392,36.119931],
+  "bbox": [
+    -94.124392,
+    36.119931,
+    -94.124392,
+    36.119931
+],
   "geometry": {"coordinates":[-94.124392,36.119931],"type":"Point"}
 }

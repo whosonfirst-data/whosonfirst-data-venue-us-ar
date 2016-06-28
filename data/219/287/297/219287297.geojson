@@ -2,13 +2,14 @@
   "id": 219287297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.080501,34.121361,-93.080501,34.121361",
     "geom:latitude":34.121361,
     "geom:longitude":-93.080501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2607 Caddo St",
     "sg:city":"Arkadelphia",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219287297,
-    "wof:lastmodified":1449070596,
+    "wof:lastmodified":1466321630,
     "wof:name":"Perfection Communications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cellular"
     ]
 },
-  "bbox": [-93.080501,34.121361,-93.080501,34.121361],
+  "bbox": [
+    -93.080501,
+    34.121361,
+    -93.080501,
+    34.121361
+],
   "geometry": {"coordinates":[-93.080501,34.121361],"type":"Point"}
 }

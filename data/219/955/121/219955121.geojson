@@ -2,13 +2,14 @@
   "id": 219955121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.104233,36.370419,-94.104233,36.370419",
     "geom:latitude":36.370419,
     "geom:longitude":-94.104233,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Cass Hough Dr",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219955121,
-    "wof:lastmodified":1449072841,
+    "wof:lastmodified":1466325245,
     "wof:name":"Concert Technologies",
     "wof:parent_id":85895859,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "technology-research"
     ]
 },
-  "bbox": [-94.104233,36.370419,-94.104233,36.370419],
-  "geometry": {"coordinates":[-94.104233,36.370419],"type":"Point"}
+  "bbox": [
+    -94.104233,
+    36.370419,
+    -94.104233,
+    36.370419
+],
+  "geometry": {"coordinates":[-94.10423299999999,36.370419],"type":"Point"}
 }

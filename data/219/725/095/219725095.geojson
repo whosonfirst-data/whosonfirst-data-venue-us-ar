@@ -2,13 +2,14 @@
   "id": 219725095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.160845,35.784223,-91.160845,35.784223",
     "geom:latitude":35.784223,
     "geom:longitude":-91.160845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9019 Highway 67 S",
     "sg:city":"Tuckerman",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219725095,
-    "wof:lastmodified":1449071254,
+    "wof:lastmodified":1466324882,
     "wof:name":"Holt's Well & Irrigation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "system"
     ]
 },
-  "bbox": [-91.160845,35.784223,-91.160845,35.784223],
-  "geometry": {"coordinates":[-91.160845,35.784223],"type":"Point"}
+  "bbox": [
+    -91.160845,
+    35.784223,
+    -91.160845,
+    35.784223
+],
+  "geometry": {"coordinates":[-91.16084499999999,35.784223],"type":"Point"}
 }

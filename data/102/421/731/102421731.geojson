@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102421731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.121508,36.088722,-94.121508,36.088722",
     "geom:latitude":36.088722,
     "geom:longitude":-94.121508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2000 N Crossover Rd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885465,
+        85688549,
         85633793,
         85919609,
         102082007,
-        85688549
+        85885465
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102421731,
-    "wof:lastmodified":1449069293,
+    "wof:lastmodified":1466325531,
     "wof:name":"Snip N' Clip",
     "wof:parent_id":85885465,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.121508,36.088722,-94.121508,36.088722],
-  "geometry": {"coordinates":[-94.121508,36.088722],"type":"Point"}
+  "bbox": [
+    -94.121508,
+    36.088722,
+    -94.121508,
+    36.088722
+],
+  "geometry": {"coordinates":[-94.12150800000001,36.088722],"type":"Point"}
 }

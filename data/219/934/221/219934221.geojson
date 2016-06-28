@@ -2,13 +2,14 @@
   "id": 219934221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.712597,36.107353,-93.712597,36.107353",
     "geom:latitude":36.107353,
     "geom:longitude":-93.712597,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5221 Business Highway 412",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219934221,
-    "wof:lastmodified":1449070553,
+    "wof:lastmodified":1466325159,
     "wof:name":"James P Fleming Dr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-93.712597,36.107353,-93.712597,36.107353],
+  "bbox": [
+    -93.712597,
+    36.107353,
+    -93.712597,
+    36.107353
+],
   "geometry": {"coordinates":[-93.712597,36.107353],"type":"Point"}
 }

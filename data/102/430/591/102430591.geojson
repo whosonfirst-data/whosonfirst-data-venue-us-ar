@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102430591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.074187,35.312515,-93.074187,35.312515",
     "geom:latitude":35.312515,
     "geom:longitude":-93.074187,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 N Sherman Cir",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":102430591,
-    "wof:lastmodified":1449069301,
+    "wof:lastmodified":1466325563,
     "wof:name":"Marjorie Anne Fox",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.074187,35.312515,-93.074187,35.312515],
-  "geometry": {"coordinates":[-93.074187,35.312515],"type":"Point"}
+  "bbox": [
+    -93.074187,
+    35.312515,
+    -93.074187,
+    35.312515
+],
+  "geometry": {"coordinates":[-93.07418699999999,35.312515],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102313835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.398394,34.767277,-92.398394,34.767277",
     "geom:latitude":34.767277,
     "geom:longitude":-92.398394,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1520 Market St",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85843659,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85843659
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102313835,
-    "wof:lastmodified":1449067838,
+    "wof:lastmodified":1466323394,
     "wof:name":"Mi Ranchito 5 Mexican Rstrnt",
     "wof:parent_id":85843659,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.398394,34.767277,-92.398394,34.767277],
+  "bbox": [
+    -92.398394,
+    34.767277,
+    -92.398394,
+    34.767277
+],
   "geometry": {"coordinates":[-92.398394,34.767277],"type":"Point"}
 }

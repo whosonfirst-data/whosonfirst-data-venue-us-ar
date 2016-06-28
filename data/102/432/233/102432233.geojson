@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102432233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.850125,33.933949,-93.850125,33.933949",
     "geom:latitude":33.933949,
     "geom:longitude":-93.850125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 W Dodson St",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102432233,
-    "wof:lastmodified":1449067730,
+    "wof:lastmodified":1466325638,
     "wof:name":"Us Pawn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.850125,33.933949,-93.850125,33.933949],
-  "geometry": {"coordinates":[-93.850125,33.933949],"type":"Point"}
+  "bbox": [
+    -93.850125,
+    33.933949,
+    -93.850125,
+    33.933949
+],
+  "geometry": {"coordinates":[-93.85012500000001,33.933949],"type":"Point"}
 }

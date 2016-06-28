@@ -2,13 +2,14 @@
   "id": 219876647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.233322,36.37701,-94.233322,36.37701",
     "geom:latitude":36.37701,
     "geom:longitude":-94.233322,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 NW Saddlebrook Dr",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219876647,
-    "wof:lastmodified":1449071110,
+    "wof:lastmodified":1466325154,
     "wof:name":"College Place Development",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.233322,36.37701,-94.233322,36.37701],
+  "bbox": [
+    -94.233322,
+    36.37701,
+    -94.233322,
+    36.37701
+],
   "geometry": {"coordinates":[-94.233322,36.37701],"type":"Point"}
 }

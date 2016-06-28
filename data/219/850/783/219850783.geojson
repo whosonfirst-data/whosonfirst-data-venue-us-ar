@@ -2,13 +2,14 @@
   "id": 219850783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.117937,36.129946,-94.117937,36.129946",
     "geom:latitude":36.129946,
     "geom:longitude":-94.117937,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4315 N Crossover Rd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219850783,
-    "wof:lastmodified":1449072423,
+    "wof:lastmodified":1466325113,
     "wof:name":"U-Haul Neighborhood Dealer - Crossover Corner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truck"
     ]
 },
-  "bbox": [-94.117937,36.129946,-94.117937,36.129946],
+  "bbox": [
+    -94.117937,
+    36.129946,
+    -94.117937,
+    36.129946
+],
   "geometry": {"coordinates":[-94.117937,36.129946],"type":"Point"}
 }

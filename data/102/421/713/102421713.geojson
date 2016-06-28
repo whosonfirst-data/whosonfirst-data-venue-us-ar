@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102421713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.314388,35.335014,-94.314388,35.335014",
     "geom:latitude":35.335014,
     "geom:longitude":-94.314388,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"708 Strozier Ln",
     "sg:city":"Barling",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102421713,
-    "wof:lastmodified":1449069294,
+    "wof:lastmodified":1466325456,
     "wof:name":"Strozier Mini Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.314388,35.335014,-94.314388,35.335014],
-  "geometry": {"coordinates":[-94.314388,35.335014],"type":"Point"}
+  "bbox": [
+    -94.314388,
+    35.335014,
+    -94.314388,
+    35.335014
+],
+  "geometry": {"coordinates":[-94.31438799999999,35.335014],"type":"Point"}
 }

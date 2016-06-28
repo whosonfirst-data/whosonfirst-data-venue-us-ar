@@ -2,13 +2,14 @@
   "id": 303379999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.850079,36.510297,-94.850079,36.510297",
     "geom:latitude":36.510297,
     "geom:longitude":-94.850079,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"57501 E 350 Rd",
     "sg:city":"Jay",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303379999,
-    "wof:lastmodified":1448999545,
+    "wof:lastmodified":1466320458,
     "wof:name":"Webb Weight Equipment & Wldg",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "welding"
     ]
 },
-  "bbox": [-94.850079,36.510297,-94.850079,36.510297],
-  "geometry": {"coordinates":[-94.850079,36.510297],"type":"Point"}
+  "bbox": [
+    -94.850079,
+    36.510297,
+    -94.850079,
+    36.510297
+],
+  "geometry": {"coordinates":[-94.85007899999999,36.510297],"type":"Point"}
 }

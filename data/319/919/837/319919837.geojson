@@ -2,13 +2,14 @@
   "id": 319919837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.525321,36.181261,-94.525321,36.181261",
     "geom:latitude":36.181261,
     "geom:longitude":-94.525321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1630 E Main St",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":319919837,
-    "wof:lastmodified":1449024693,
+    "wof:lastmodified":1466324518,
     "wof:name":"Siloam Springs Cycles",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "scooter"
     ]
 },
-  "bbox": [-94.525321,36.181261,-94.525321,36.181261],
-  "geometry": {"coordinates":[-94.525321,36.181261],"type":"Point"}
+  "bbox": [
+    -94.525321,
+    36.181261,
+    -94.525321,
+    36.181261
+],
+  "geometry": {"coordinates":[-94.52532100000001,36.181261],"type":"Point"}
 }

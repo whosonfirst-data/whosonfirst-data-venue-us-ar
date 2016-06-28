@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102379333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.55004,34.501149,-91.55004,34.501149",
     "geom:latitude":34.501149,
     "geom:longitude":-91.55004,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 S Grand St",
     "sg:city":"Stuttgart",
     "sg:classifiers":[
@@ -34,11 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85838089,
+        85688549,
         85633793,
         85919671,
         102082495,
-        85688549
+        85838089
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":102379333,
-    "wof:lastmodified":1449069147,
+    "wof:lastmodified":1466321952,
     "wof:name":"N C B A Arkansas Senior",
     "wof:parent_id":85838089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.55004,34.501149,-91.55004,34.501149],
+  "bbox": [
+    -91.55004,
+    34.501149,
+    -91.55004,
+    34.501149
+],
   "geometry": {"coordinates":[-91.55004,34.501149],"type":"Point"}
 }

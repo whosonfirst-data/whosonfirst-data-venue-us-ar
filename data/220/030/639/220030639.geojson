@@ -2,13 +2,14 @@
   "id": 220030639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.156915,36.189178,-94.156915,36.189178",
     "geom:latitude":36.189178,
     "geom:longitude":-94.156915,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2008 W Huntsville Ave",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220030639,
-    "wof:lastmodified":1449074326,
+    "wof:lastmodified":1466320516,
     "wof:name":"E-San Restaurant",
     "wof:parent_id":85885491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "family"
     ]
 },
-  "bbox": [-94.156915,36.189178,-94.156915,36.189178],
+  "bbox": [
+    -94.156915,
+    36.189178,
+    -94.156915,
+    36.189178
+],
   "geometry": {"coordinates":[-94.156915,36.189178],"type":"Point"}
 }

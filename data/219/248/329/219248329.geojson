@@ -2,13 +2,14 @@
   "id": 219248329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.856273,33.96667,-93.856273,33.96667",
     "geom:latitude":33.96667,
     "geom:longitude":-93.856273,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1463 Mount Pleasant Dr",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219248329,
-    "wof:lastmodified":1449072313,
+    "wof:lastmodified":1466321320,
     "wof:name":"Miss Jeannies Daycare Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "day"
     ]
 },
-  "bbox": [-93.856273,33.96667,-93.856273,33.96667],
+  "bbox": [
+    -93.856273,
+    33.96667,
+    -93.856273,
+    33.96667
+],
   "geometry": {"coordinates":[-93.856273,33.96667],"type":"Point"}
 }

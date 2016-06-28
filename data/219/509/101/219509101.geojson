@@ -2,13 +2,14 @@
   "id": 219509101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.708315,35.239246,-91.708315,35.239246",
     "geom:latitude":35.239246,
     "geom:longitude":-91.708315,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2108 W Beebe Capps Expy",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219509101,
-    "wof:lastmodified":1449070517,
+    "wof:lastmodified":1466324023,
     "wof:name":"Hall's Cleaners & Laundry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaner"
     ]
 },
-  "bbox": [-91.708315,35.239246,-91.708315,35.239246],
+  "bbox": [
+    -91.708315,
+    35.239246,
+    -91.708315,
+    35.239246
+],
   "geometry": {"coordinates":[-91.708315,35.239246],"type":"Point"}
 }

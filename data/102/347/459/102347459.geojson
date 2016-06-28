@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102347459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.340697,34.626384,-92.340697,34.626384",
     "geom:latitude":34.626384,
     "geom:longitude":-92.340697,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5210 Peach Leaf Cove",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858761,
+        85688549,
         85633793,
         85921709,
         102082497,
-        85688549
+        85858761
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102347459,
-    "wof:lastmodified":1449068929,
+    "wof:lastmodified":1466324017,
     "wof:name":"Expedited Freight Systems",
     "wof:parent_id":85858761,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.340697,34.626384,-92.340697,34.626384],
-  "geometry": {"coordinates":[-92.340697,34.626384],"type":"Point"}
+  "bbox": [
+    -92.340697,
+    34.626384,
+    -92.340697,
+    34.626384
+],
+  "geometry": {"coordinates":[-92.34069700000001,34.626384],"type":"Point"}
 }

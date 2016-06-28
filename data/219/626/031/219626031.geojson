@@ -2,13 +2,14 @@
   "id": 219626031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.664497,35.813911,-90.664497,35.813911",
     "geom:latitude":35.813911,
     "geom:longitude":-90.664497,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3307 Race St",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219626031,
-    "wof:lastmodified":1449073920,
+    "wof:lastmodified":1466324611,
     "wof:name":"Total Man Ministries, Inc.",
     "wof:parent_id":85836541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.664497,35.813911,-90.664497,35.813911],
+  "bbox": [
+    -90.664497,
+    35.813911,
+    -90.664497,
+    35.813911
+],
   "geometry": {"coordinates":[-90.664497,35.813911],"type":"Point"}
 }

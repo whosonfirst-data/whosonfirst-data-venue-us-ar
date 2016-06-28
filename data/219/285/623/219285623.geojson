@@ -2,13 +2,14 @@
   "id": 219285623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.072626,34.109693,-93.072626,34.109693",
     "geom:latitude":34.109693,
     "geom:longitude":-93.072626,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2030 Elaine Cir",
     "sg:city":"Arkadelphia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219285623,
-    "wof:lastmodified":1449070468,
+    "wof:lastmodified":1466321615,
     "wof:name":"Pig Pit Bar Bq",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "barbecue"
     ]
 },
-  "bbox": [-93.072626,34.109693,-93.072626,34.109693],
+  "bbox": [
+    -93.072626,
+    34.109693,
+    -93.072626,
+    34.109693
+],
   "geometry": {"coordinates":[-93.072626,34.109693],"type":"Point"}
 }

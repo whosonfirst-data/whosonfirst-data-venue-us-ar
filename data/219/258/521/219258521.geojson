@@ -2,13 +2,14 @@
   "id": 219258521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.011846,33.459814,-94.011846,33.459814",
     "geom:latitude":33.459814,
     "geom:longitude":-94.011846,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3907 Sanderson Ln",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":219258521,
-    "wof:lastmodified":1449073212,
+    "wof:lastmodified":1466321396,
     "wof:name":"Fomby Service Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-94.011846,33.459814,-94.011846,33.459814],
-  "geometry": {"coordinates":[-94.011846,33.459814],"type":"Point"}
+  "bbox": [
+    -94.011846,
+    33.459814,
+    -94.011846,
+    33.459814
+],
+  "geometry": {"coordinates":[-94.01184600000001,33.459814],"type":"Point"}
 }

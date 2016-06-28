@@ -2,13 +2,14 @@
   "id": 220093735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.752591,35.292744,-93.752591,35.292744",
     "geom:latitude":35.292744,
     "geom:longitude":-93.752591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2521 W Walnut St",
     "sg:city":"Paris",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220093735,
-    "wof:lastmodified":1449074061,
+    "wof:lastmodified":1466322025,
     "wof:name":"Coburn Vending",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-93.752591,35.292744,-93.752591,35.292744],
+  "bbox": [
+    -93.752591,
+    35.292744,
+    -93.752591,
+    35.292744
+],
   "geometry": {"coordinates":[-93.752591,35.292744],"type":"Point"}
 }

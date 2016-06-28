@@ -2,13 +2,14 @@
   "id": 219796045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.494615,36.282317,-92.494615,36.282317",
     "geom:latitude":36.282317,
     "geom:longitude":-92.494615,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"137 E Sanford St Ste 2",
     "sg:city":"Gassville",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":219796045,
-    "wof:lastmodified":1449072061,
+    "wof:lastmodified":1466324948,
     "wof:name":"Valley Agri/Tek Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "stock"
     ]
 },
-  "bbox": [-92.494615,36.282317,-92.494615,36.282317],
+  "bbox": [
+    -92.494615,
+    36.282317,
+    -92.494615,
+    36.282317
+],
   "geometry": {"coordinates":[-92.494615,36.282317],"type":"Point"}
 }

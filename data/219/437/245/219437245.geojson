@@ -2,13 +2,14 @@
   "id": 219437245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.115822,34.877739,-92.115822,34.877739",
     "geom:latitude":34.877739,
     "geom:longitude":-92.115822,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1310 John Harden Dr",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -71,10 +72,11 @@
         }
     ],
     "wof:id":219437245,
-    "wof:lastmodified":1449072951,
+    "wof:lastmodified":1466323191,
     "wof:name":"Allstate Insurance Company - Anthony Cuillier",
     "wof:parent_id":85852337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -86,6 +88,11 @@
         "renter"
     ]
 },
-  "bbox": [-92.115822,34.877739,-92.115822,34.877739],
-  "geometry": {"coordinates":[-92.115822,34.877739],"type":"Point"}
+  "bbox": [
+    -92.115822,
+    34.877739,
+    -92.115822,
+    34.877739
+],
+  "geometry": {"coordinates":[-92.11582199999999,34.877739],"type":"Point"}
 }

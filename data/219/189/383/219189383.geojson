@@ -2,13 +2,14 @@
   "id": 219189383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.869728,33.603678,-92.869728,33.603678",
     "geom:latitude":33.603678,
     "geom:longitude":-92.869728,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1175 Ridgeview Rd",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219189383,
-    "wof:lastmodified":1449072893,
+    "wof:lastmodified":1466320727,
     "wof:name":"Diversified Railcar",
     "wof:parent_id":85813169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-92.869728,33.603678,-92.869728,33.603678],
-  "geometry": {"coordinates":[-92.869728,33.603678],"type":"Point"}
+  "bbox": [
+    -92.869728,
+    33.603678,
+    -92.869728,
+    33.603678
+],
+  "geometry": {"coordinates":[-92.86972799999999,33.603678],"type":"Point"}
 }

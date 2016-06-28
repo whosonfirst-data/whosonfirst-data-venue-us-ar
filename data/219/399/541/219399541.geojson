@@ -2,13 +2,14 @@
   "id": 219399541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.468529,35.092251,-92.468529,35.092251",
     "geom:latitude":35.092251,
     "geom:longitude":-92.468529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2755 Prince St",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":219399541,
-    "wof:lastmodified":1449071014,
+    "wof:lastmodified":1466322845,
     "wof:name":"Higgs, William N",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "oral"
     ]
 },
-  "bbox": [-92.468529,35.092251,-92.468529,35.092251],
+  "bbox": [
+    -92.468529,
+    35.092251,
+    -92.468529,
+    35.092251
+],
   "geometry": {"coordinates":[-92.468529,35.092251],"type":"Point"}
 }

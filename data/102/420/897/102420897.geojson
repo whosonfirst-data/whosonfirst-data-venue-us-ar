@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102420897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.331277,35.414816,-94.331277,35.414816",
     "geom:latitude":35.414816,
     "geom:longitude":-94.331277,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2704 S 4th St",
     "sg:city":"Van Buren",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102420897,
-    "wof:lastmodified":1449068925,
+    "wof:lastmodified":1466325318,
     "wof:name":"US Filter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.331277,35.414816,-94.331277,35.414816],
+  "bbox": [
+    -94.331277,
+    35.414816,
+    -94.331277,
+    35.414816
+],
   "geometry": {"coordinates":[-94.331277,35.414816],"type":"Point"}
 }

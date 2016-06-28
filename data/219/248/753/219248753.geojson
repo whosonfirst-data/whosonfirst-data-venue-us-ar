@@ -2,13 +2,14 @@
   "id": 219248753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.847107,33.9445,-93.847107,33.9445",
     "geom:latitude":33.9445,
     "geom:longitude":-93.847107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 N Main St",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":219248753,
-    "wof:lastmodified":1449072312,
+    "wof:lastmodified":1466321322,
     "wof:name":"Mainstreet Musician Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "amplifier"
     ]
 },
-  "bbox": [-93.847107,33.9445,-93.847107,33.9445],
-  "geometry": {"coordinates":[-93.847107,33.9445],"type":"Point"}
+  "bbox": [
+    -93.847107,
+    33.9445,
+    -93.847107,
+    33.9445
+],
+  "geometry": {"coordinates":[-93.84710699999999,33.9445],"type":"Point"}
 }

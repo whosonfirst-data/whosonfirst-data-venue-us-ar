@@ -2,13 +2,14 @@
   "id": 219978481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.139076,36.334007,-94.139076,36.334007",
     "geom:latitude":36.334007,
     "geom:longitude":-94.139076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1501 W Walnut St",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219978481,
-    "wof:lastmodified":1449072416,
+    "wof:lastmodified":1466325232,
     "wof:name":"Kasita's Beauty Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hair"
     ]
 },
-  "bbox": [-94.139076,36.334007,-94.139076,36.334007],
+  "bbox": [
+    -94.139076,
+    36.334007,
+    -94.139076,
+    36.334007
+],
   "geometry": {"coordinates":[-94.139076,36.334007],"type":"Point"}
 }

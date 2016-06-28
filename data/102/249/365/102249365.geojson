@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102249365",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.587122,33.668201,-93.587122,33.668201",
     "geom:latitude":33.668201,
     "geom:longitude":-93.587122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"414 E 3rd St",
     "sg:city":"Hope",
     "sg:classifiers":[
@@ -33,11 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806015,
+        85688549,
         85633793,
         85920547,
         102083213,
-        85688549
+        85806015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":"102249365",
-    "wof:lastmodified":1449067903,
+    "wof:lastmodified":1466321841,
     "wof:name":"Morton's Texaco",
     "wof:parent_id":85806015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.587122,33.668201,-93.587122,33.668201],
-  "geometry": {"coordinates":[-93.587122,33.668201],"type":"Point"}
+  "bbox": [
+    -93.587122,
+    33.668201,
+    -93.587122,
+    33.668201
+],
+  "geometry": {"coordinates":[-93.58712199999999,33.668201],"type":"Point"}
 }

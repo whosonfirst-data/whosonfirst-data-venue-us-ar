@@ -2,13 +2,14 @@
   "id": 353504913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.478181,35.272776,-94.478181,35.272776",
     "geom:latitude":35.272776,
     "geom:longitude":-94.478181,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1307 N Pocola Blvd",
     "sg:city":"Pocola",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353504913,
-    "wof:lastmodified":1449018689,
+    "wof:lastmodified":1466320429,
     "wof:name":"Howard Brothers Used Cars",
     "wof:parent_id":85809847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-94.478181,35.272776,-94.478181,35.272776],
-  "geometry": {"coordinates":[-94.478181,35.272776],"type":"Point"}
+  "bbox": [
+    -94.478181,
+    35.272776,
+    -94.478181,
+    35.272776
+],
+  "geometry": {"coordinates":[-94.47818100000001,35.272776],"type":"Point"}
 }

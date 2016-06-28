@@ -2,13 +2,14 @@
   "id": 220034461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.135024,36.185131,-94.135024,36.185131",
     "geom:latitude":36.185131,
     "geom:longitude":-94.135024,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"415 W Emma Ave",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220034461,
-    "wof:lastmodified":1449074121,
+    "wof:lastmodified":1466320525,
     "wof:name":"Springdale Bank And Trust Company",
     "wof:parent_id":85885481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "commercial"
     ]
 },
-  "bbox": [-94.135024,36.185131,-94.135024,36.185131],
+  "bbox": [
+    -94.135024,
+    36.185131,
+    -94.135024,
+    36.185131
+],
   "geometry": {"coordinates":[-94.135024,36.185131],"type":"Point"}
 }

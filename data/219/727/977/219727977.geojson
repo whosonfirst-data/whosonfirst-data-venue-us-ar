@@ -2,13 +2,14 @@
   "id": 219727977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.591822,35.862808,-91.591822,35.862808",
     "geom:latitude":35.862808,
     "geom:longitude":-91.591822,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2790 Cave Creek Rd",
     "sg:city":"Batesville",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":219727977,
-    "wof:lastmodified":1449070924,
+    "wof:lastmodified":1466324974,
     "wof:name":"Church of God",
     "wof:parent_id":85845643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "churches-pentecostal"
     ]
 },
-  "bbox": [-91.591822,35.862808,-91.591822,35.862808],
-  "geometry": {"coordinates":[-91.591822,35.862808],"type":"Point"}
+  "bbox": [
+    -91.591822,
+    35.862808,
+    -91.591822,
+    35.862808
+],
+  "geometry": {"coordinates":[-91.59182199999999,35.862808],"type":"Point"}
 }

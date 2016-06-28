@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102403463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.965285,33.951598,-93.965285,33.951598",
     "geom:latitude":33.951598,
     "geom:longitude":-93.965285,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2717 US Hwy 371",
     "sg:city":"Mineral Springs",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102403463,
-    "wof:lastmodified":1449069839,
+    "wof:lastmodified":1466324736,
     "wof:name":"Mc Crary Irrigation Constr Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.965285,33.951598,-93.965285,33.951598],
-  "geometry": {"coordinates":[-93.965285,33.951598],"type":"Point"}
+  "bbox": [
+    -93.965285,
+    33.951598,
+    -93.965285,
+    33.951598
+],
+  "geometry": {"coordinates":[-93.96528499999999,33.951598],"type":"Point"}
 }

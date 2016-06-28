@@ -2,13 +2,14 @@
   "id": 337290529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.03056,34.974884,-92.03056,34.974884",
     "geom:latitude":34.974884,
     "geom:longitude":-92.03056,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203A Dakota Dr",
     "sg:city":"Cabot",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":337290529,
-    "wof:lastmodified":1449027288,
+    "wof:lastmodified":1466322034,
     "wof:name":"Lonoke Abstract",
     "wof:parent_id":85839277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "title"
     ]
 },
-  "bbox": [-92.03056,34.974884,-92.03056,34.974884],
-  "geometry": {"coordinates":[-92.03056,34.974884],"type":"Point"}
+  "bbox": [
+    -92.03056,
+    34.974884,
+    -92.03056,
+    34.974884
+],
+  "geometry": {"coordinates":[-92.03055999999999,34.974884],"type":"Point"}
 }

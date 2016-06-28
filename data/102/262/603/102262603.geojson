@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102262603",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.444455,35.698689,-91.444455,35.698689",
     "geom:latitude":35.698689,
     "geom:longitude":-91.444455,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 S Oak St",
     "sg:city":"Newark",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102262603",
-    "wof:lastmodified":1449069255,
+    "wof:lastmodified":1466322216,
     "wof:name":"Newark Police Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.444455,35.698689,-91.444455,35.698689],
+  "bbox": [
+    -91.444455,
+    35.698689,
+    -91.444455,
+    35.698689
+],
   "geometry": {"coordinates":[-91.444455,35.698689],"type":"Point"}
 }

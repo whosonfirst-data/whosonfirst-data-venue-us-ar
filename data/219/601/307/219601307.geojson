@@ -2,13 +2,14 @@
   "id": 219601307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.186928,35.1931,-90.186928,35.1931",
     "geom:latitude":35.1931,
     "geom:longitude":-90.186928,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"714 Carter Dr",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219601307,
-    "wof:lastmodified":1449071974,
+    "wof:lastmodified":1466324808,
     "wof:name":"Mcelroy's Place",
     "wof:parent_id":85843083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandising"
     ]
 },
-  "bbox": [-90.186928,35.1931,-90.186928,35.1931],
-  "geometry": {"coordinates":[-90.186928,35.1931],"type":"Point"}
+  "bbox": [
+    -90.186928,
+    35.1931,
+    -90.186928,
+    35.1931
+],
+  "geometry": {"coordinates":[-90.18692799999999,35.1931],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102332797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.476587,35.266245,-90.476587,35.266245",
     "geom:latitude":35.266245,
     "geom:longitude":-90.476587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Oak St",
     "sg:city":"Earle",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102332797,
-    "wof:lastmodified":1449069076,
+    "wof:lastmodified":1466323751,
     "wof:name":"Push Ministries Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.476587,35.266245,-90.476587,35.266245],
-  "geometry": {"coordinates":[-90.476587,35.266245],"type":"Point"}
+  "bbox": [
+    -90.476587,
+    35.266245,
+    -90.476587,
+    35.266245
+],
+  "geometry": {"coordinates":[-90.47658699999999,35.266245],"type":"Point"}
 }

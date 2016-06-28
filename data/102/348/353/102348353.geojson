@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102348353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.548763,35.946354,-91.548763,35.946354",
     "geom:latitude":35.946354,
     "geom:longitude":-91.548763,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"518 N Main St",
     "sg:city":"Cave City",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102348353,
-    "wof:lastmodified":1449067887,
+    "wof:lastmodified":1466324002,
     "wof:name":"Arkansas Game & Fish",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.548763,35.946354,-91.548763,35.946354],
-  "geometry": {"coordinates":[-91.548763,35.946354],"type":"Point"}
+  "bbox": [
+    -91.548763,
+    35.946354,
+    -91.548763,
+    35.946354
+],
+  "geometry": {"coordinates":[-91.54876299999999,35.946354],"type":"Point"}
 }

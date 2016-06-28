@@ -2,13 +2,14 @@
   "id": 219669131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.5787,36.337626,-90.5787,36.337626",
     "geom:latitude":36.337626,
     "geom:longitude":-90.5787,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"133 County Road 231",
     "sg:city":"Knobel",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":219669131,
-    "wof:lastmodified":1449070792,
+    "wof:lastmodified":1466324577,
     "wof:name":"Marlin Curtis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.5787,36.337626,-90.5787,36.337626],
+  "bbox": [
+    -90.5787,
+    36.337626,
+    -90.5787,
+    36.337626
+],
   "geometry": {"coordinates":[-90.5787,36.337626],"type":"Point"}
 }

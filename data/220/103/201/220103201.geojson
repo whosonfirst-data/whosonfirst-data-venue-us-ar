@@ -2,13 +2,14 @@
   "id": 220103201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.925341,35.126857,-93.925341,35.126857",
     "geom:latitude":35.126857,
     "geom:longitude":-93.925341,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 W Linda St",
     "sg:city":"Booneville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220103201,
-    "wof:lastmodified":1449074545,
+    "wof:lastmodified":1466322273,
     "wof:name":"Louise Terry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitorial"
     ]
 },
-  "bbox": [-93.925341,35.126857,-93.925341,35.126857],
+  "bbox": [
+    -93.925341,
+    35.126857,
+    -93.925341,
+    35.126857
+],
   "geometry": {"coordinates":[-93.925341,35.126857],"type":"Point"}
 }

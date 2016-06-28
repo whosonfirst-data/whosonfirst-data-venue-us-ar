@@ -2,13 +2,14 @@
   "id": 219856485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.160002,36.105728,-94.160002,36.105728",
     "geom:latitude":36.105728,
     "geom:longitude":-94.160002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2987 N Quail Creek Dr",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":219856485,
-    "wof:lastmodified":1449071407,
+    "wof:lastmodified":1466325128,
     "wof:name":"Ken Merrit Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.160002,36.105728,-94.160002,36.105728],
-  "geometry": {"coordinates":[-94.160002,36.105728],"type":"Point"}
+  "bbox": [
+    -94.160002,
+    36.105728,
+    -94.160002,
+    36.105728
+],
+  "geometry": {"coordinates":[-94.16000200000001,36.105728],"type":"Point"}
 }

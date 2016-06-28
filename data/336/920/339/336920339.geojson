@@ -2,13 +2,14 @@
   "id": 336920339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.233352,34.580622,-94.233352,34.580622",
     "geom:latitude":34.580622,
     "geom:longitude":-94.233352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 Mena St",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336920339,
-    "wof:lastmodified":1448997790,
+    "wof:lastmodified":1466320469,
     "wof:name":"Lindy's Jewelry & Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "jeweler"
     ]
 },
-  "bbox": [-94.233352,34.580622,-94.233352,34.580622],
+  "bbox": [
+    -94.233352,
+    34.580622,
+    -94.233352,
+    34.580622
+],
   "geometry": {"coordinates":[-94.233352,34.580622],"type":"Point"}
 }

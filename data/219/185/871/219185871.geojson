@@ -2,13 +2,14 @@
   "id": 219185871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.988959,33.747132,-91.988959,33.747132",
     "geom:latitude":33.747132,
     "geom:longitude":-91.988959,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"380 Tooke Ln W",
     "sg:city":"Warren",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219185871,
-    "wof:lastmodified":1449070964,
+    "wof:lastmodified":1466320681,
     "wof:name":"Tooke Farm Jm Betty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.988959,33.747132,-91.988959,33.747132],
-  "geometry": {"coordinates":[-91.988959,33.747132],"type":"Point"}
+  "bbox": [
+    -91.988959,
+    33.747132,
+    -91.988959,
+    33.747132
+],
+  "geometry": {"coordinates":[-91.98895899999999,33.747132],"type":"Point"}
 }

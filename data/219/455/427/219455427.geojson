@@ -2,13 +2,14 @@
   "id": 219455427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.784865,34.357219,-92.784865,34.357219",
     "geom:latitude":34.357219,
     "geom:longitude":-92.784865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1221 Bayer St",
     "sg:city":"Malvern",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219455427,
-    "wof:lastmodified":1449073347,
+    "wof:lastmodified":1466323431,
     "wof:name":"Gilmore Designs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "producer"
     ]
 },
-  "bbox": [-92.784865,34.357219,-92.784865,34.357219],
+  "bbox": [
+    -92.784865,
+    34.357219,
+    -92.784865,
+    34.357219
+],
   "geometry": {"coordinates":[-92.784865,34.357219],"type":"Point"}
 }

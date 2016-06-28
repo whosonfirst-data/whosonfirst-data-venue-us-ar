@@ -2,13 +2,14 @@
   "id": 220029311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.165901,36.167351,-94.165901,36.167351",
     "geom:latitude":36.167351,
     "geom:longitude":-94.165901,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2100 Carley Rd",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220029311,
-    "wof:lastmodified":1449074378,
+    "wof:lastmodified":1466320510,
     "wof:name":"Dcc",
     "wof:parent_id":85885473,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "day"
     ]
 },
-  "bbox": [-94.165901,36.167351,-94.165901,36.167351],
-  "geometry": {"coordinates":[-94.165901,36.167351],"type":"Point"}
+  "bbox": [
+    -94.165901,
+    36.167351,
+    -94.165901,
+    36.167351
+],
+  "geometry": {"coordinates":[-94.16590100000001,36.167351],"type":"Point"}
 }

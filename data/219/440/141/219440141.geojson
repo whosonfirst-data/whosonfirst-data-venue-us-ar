@@ -2,13 +2,14 @@
   "id": 219440141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.115523,34.854522,-92.115523,34.854522",
     "geom:latitude":34.854522,
     "geom:longitude":-92.115523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1408 S Highway 161",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":219440141,
-    "wof:lastmodified":1449071639,
+    "wof:lastmodified":1466323243,
     "wof:name":"Jacksonville Sheet Metal",
     "wof:parent_id":85852337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-92.115523,34.854522,-92.115523,34.854522],
+  "bbox": [
+    -92.115523,
+    34.854522,
+    -92.115523,
+    34.854522
+],
   "geometry": {"coordinates":[-92.115523,34.854522],"type":"Point"}
 }

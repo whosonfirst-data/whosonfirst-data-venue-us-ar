@@ -2,13 +2,14 @@
   "id": 219408091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.442852,35.091772,-92.442852,35.091772",
     "geom:latitude":35.091772,
     "geom:longitude":-92.442852,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1310 Prince St",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219408091,
-    "wof:lastmodified":1449070826,
+    "wof:lastmodified":1466322917,
     "wof:name":"Bark About It",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "grooming"
     ]
 },
-  "bbox": [-92.442852,35.091772,-92.442852,35.091772],
+  "bbox": [
+    -92.442852,
+    35.091772,
+    -92.442852,
+    35.091772
+],
   "geometry": {"coordinates":[-92.442852,35.091772],"type":"Point"}
 }

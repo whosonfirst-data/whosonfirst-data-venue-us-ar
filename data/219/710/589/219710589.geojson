@@ -2,13 +2,14 @@
   "id": 219710589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.98101,36.278448,-90.98101,36.278448",
     "geom:latitude":36.278448,
     "geom:longitude":-90.98101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2204 N Thomasville Ave",
     "sg:city":"Pocahontas",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219710589,
-    "wof:lastmodified":1449070602,
+    "wof:lastmodified":1466324808,
     "wof:name":"Rcfa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "animals-circus"
     ]
 },
-  "bbox": [-90.98101,36.278448,-90.98101,36.278448],
+  "bbox": [
+    -90.98101,
+    36.278448,
+    -90.98101,
+    36.278448
+],
   "geometry": {"coordinates":[-90.98101,36.278448],"type":"Point"}
 }

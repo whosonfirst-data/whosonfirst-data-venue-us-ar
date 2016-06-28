@@ -2,13 +2,14 @@
   "id": 219666117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.685959,35.551991,-90.685959,35.551991",
     "geom:latitude":35.551991,
     "geom:longitude":-90.685959,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7552 Rush Ln",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219666117,
-    "wof:lastmodified":1449071684,
+    "wof:lastmodified":1466324864,
     "wof:name":"Bradley Walls",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-90.685959,35.551991,-90.685959,35.551991],
+  "bbox": [
+    -90.685959,
+    35.551991,
+    -90.685959,
+    35.551991
+],
   "geometry": {"coordinates":[-90.685959,35.551991],"type":"Point"}
 }

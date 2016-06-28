@@ -2,13 +2,14 @@
   "id": 219793073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.921179,36.166386,-92.921179,36.166386",
     "geom:latitude":36.166386,
     "geom:longitude":-92.921179,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11540 Jones Rd",
     "sg:city":"Everton",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219793073,
-    "wof:lastmodified":1449072317,
+    "wof:lastmodified":1466324944,
     "wof:name":"Jones Prairie Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.921179,36.166386,-92.921179,36.166386],
+  "bbox": [
+    -92.921179,
+    36.166386,
+    -92.921179,
+    36.166386
+],
   "geometry": {"coordinates":[-92.921179,36.166386],"type":"Point"}
 }

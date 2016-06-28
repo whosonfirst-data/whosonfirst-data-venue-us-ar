@@ -2,13 +2,14 @@
   "id": 220056789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.130882,36.198308,-94.130882,36.198308",
     "geom:latitude":36.198308,
     "geom:longitude":-94.130882,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1084 State St Ste 412",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":220056789,
-    "wof:lastmodified":1449074240,
+    "wof:lastmodified":1466320890,
     "wof:name":"Las Palmas Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.130882,36.198308,-94.130882,36.198308],
+  "bbox": [
+    -94.130882,
+    36.198308,
+    -94.130882,
+    36.198308
+],
   "geometry": {"coordinates":[-94.130882,36.198308],"type":"Point"}
 }

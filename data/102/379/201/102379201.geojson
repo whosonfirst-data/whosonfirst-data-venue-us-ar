@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102379201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.355883,35.870932,-94.355883,35.870932",
     "geom:latitude":35.870932,
     "geom:longitude":-94.355883,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16334 Blue Mountain Rd",
     "sg:city":"Prairie Grove",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102379201,
-    "wof:lastmodified":1449069143,
+    "wof:lastmodified":1466321926,
     "wof:name":"Quality Wood Truss",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.355883,35.870932,-94.355883,35.870932],
-  "geometry": {"coordinates":[-94.355883,35.870932],"type":"Point"}
+  "bbox": [
+    -94.355883,
+    35.870932,
+    -94.355883,
+    35.870932
+],
+  "geometry": {"coordinates":[-94.35588300000001,35.870932],"type":"Point"}
 }

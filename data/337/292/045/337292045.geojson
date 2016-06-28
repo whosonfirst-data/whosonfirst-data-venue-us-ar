@@ -2,13 +2,14 @@
   "id": 337292045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.985595,34.307031,-90.985595,34.307031",
     "geom:latitude":34.307031,
     "geom:longitude":-90.985595,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3210 Phillips Road 529",
     "sg:city":"Elaine",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":337292045,
-    "wof:lastmodified":1449027014,
+    "wof:lastmodified":1466324476,
     "wof:name":"Gaylan Farms Inc",
     "wof:parent_id":85834075,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [-90.985595,34.307031,-90.985595,34.307031],
+  "bbox": [
+    -90.985595,
+    34.307031,
+    -90.985595,
+    34.307031
+],
   "geometry": {"coordinates":[-90.985595,34.307031],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219214893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.231475,33.27506,-93.231475,33.27506",
     "geom:latitude":33.27506,
     "geom:longitude":-93.231475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1010 N Dudney Rd",
     "sg:city":"Magnolia",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219214893,
-    "wof:lastmodified":1449073803,
+    "wof:lastmodified":1466321002,
     "wof:name":"Jason A Franks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-93.231475,33.27506,-93.231475,33.27506],
+  "bbox": [
+    -93.231475,
+    33.27506,
+    -93.231475,
+    33.27506
+],
   "geometry": {"coordinates":[-93.231475,33.27506],"type":"Point"}
 }

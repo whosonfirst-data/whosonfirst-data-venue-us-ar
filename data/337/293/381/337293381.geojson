@@ -2,13 +2,14 @@
   "id": 337293381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.114387,36.24698,-93.114387,36.24698",
     "geom:latitude":36.24698,
     "geom:longitude":-93.114387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1417 Highway 62 65 N 65 N 65 N",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":337293381,
-    "wof:lastmodified":1449027081,
+    "wof:lastmodified":1466322112,
     "wof:name":"McDonald's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "chicken"
     ]
 },
-  "bbox": [-93.114387,36.24698,-93.114387,36.24698],
-  "geometry": {"coordinates":[-93.114387,36.24698],"type":"Point"}
+  "bbox": [
+    -93.114387,
+    36.24698,
+    -93.114387,
+    36.24698
+],
+  "geometry": {"coordinates":[-93.11438699999999,36.24698],"type":"Point"}
 }

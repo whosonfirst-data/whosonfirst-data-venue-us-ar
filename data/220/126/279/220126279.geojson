@@ -2,13 +2,14 @@
   "id": 220126279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.854907,35.490001,-93.854907,35.490001",
     "geom:latitude":35.490001,
     "geom:longitude":-93.854907,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2720 W Commercial St",
     "sg:city":"Ozark",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":220126279,
-    "wof:lastmodified":1449074328,
+    "wof:lastmodified":1466322702,
     "wof:name":"Ozark Field Service Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "agricultural"
     ]
 },
-  "bbox": [-93.854907,35.490001,-93.854907,35.490001],
+  "bbox": [
+    -93.854907,
+    35.490001,
+    -93.854907,
+    35.490001
+],
   "geometry": {"coordinates":[-93.854907,35.490001],"type":"Point"}
 }

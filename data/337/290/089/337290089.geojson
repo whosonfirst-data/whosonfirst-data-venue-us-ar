@@ -2,13 +2,14 @@
   "id": 337290089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.850903,33.933867,-93.850903,33.933867",
     "geom:latitude":33.933867,
     "geom:longitude":-93.850903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 Highway 27 S",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":337290089,
-    "wof:lastmodified":1449027285,
+    "wof:lastmodified":1466322028,
     "wof:name":"Nashville Animal Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "emergency"
     ]
 },
-  "bbox": [-93.850903,33.933867,-93.850903,33.933867],
+  "bbox": [
+    -93.850903,
+    33.933867,
+    -93.850903,
+    33.933867
+],
   "geometry": {"coordinates":[-93.850903,33.933867],"type":"Point"}
 }

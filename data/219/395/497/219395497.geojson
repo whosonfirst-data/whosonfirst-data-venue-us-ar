@@ -2,13 +2,14 @@
   "id": 219395497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.433731,35.112104,-92.433731,35.112104",
     "geom:latitude":35.112104,
     "geom:longitude":-92.433731,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"Highway 65 N",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":219395497,
-    "wof:lastmodified":1449073397,
+    "wof:lastmodified":1466322810,
     "wof:name":"Virco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-92.433731,35.112104,-92.433731,35.112104],
-  "geometry": {"coordinates":[-92.433731,35.112104],"type":"Point"}
+  "bbox": [
+    -92.433731,
+    35.112104,
+    -92.433731,
+    35.112104
+],
+  "geometry": {"coordinates":[-92.43373099999999,35.112104],"type":"Point"}
 }

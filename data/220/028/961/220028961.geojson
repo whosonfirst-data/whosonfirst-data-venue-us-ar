@@ -2,13 +2,14 @@
   "id": 220028961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.161645,36.174944,-94.161645,36.174944",
     "geom:latitude":36.174944,
     "geom:longitude":-94.161645,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2832 W Sunset Ave",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":220028961,
-    "wof:lastmodified":1449074487,
+    "wof:lastmodified":1466320513,
     "wof:name":"Simmons First Bank Of Northwest Arkansas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "commercial"
     ]
 },
-  "bbox": [-94.161645,36.174944,-94.161645,36.174944],
-  "geometry": {"coordinates":[-94.161645,36.174944],"type":"Point"}
+  "bbox": [
+    -94.161645,
+    36.174944,
+    -94.161645,
+    36.174944
+],
+  "geometry": {"coordinates":[-94.16164499999999,36.174944],"type":"Point"}
 }

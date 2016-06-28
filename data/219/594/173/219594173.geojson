@@ -2,13 +2,14 @@
   "id": 219594173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.699127,34.55555,-90.699127,34.55555",
     "geom:latitude":34.55555,
     "geom:longitude":-90.699127,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"375 Phillips Road 273",
     "sg:city":"Lexa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219594173,
-    "wof:lastmodified":1449070902,
+    "wof:lastmodified":1466324577,
     "wof:name":"Jwn Construction Inc",
     "wof:parent_id":85834075,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "grading"
     ]
 },
-  "bbox": [-90.699127,34.55555,-90.699127,34.55555],
+  "bbox": [
+    -90.699127,
+    34.55555,
+    -90.699127,
+    34.55555
+],
   "geometry": {"coordinates":[-90.699127,34.55555],"type":"Point"}
 }

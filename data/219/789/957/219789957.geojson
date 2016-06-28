@@ -2,13 +2,14 @@
   "id": 219789957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.568178,36.363487,-93.568178,36.363487",
     "geom:latitude":36.363487,
     "geom:longitude":-93.568178,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Spring St",
     "sg:city":"Berryville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219789957,
-    "wof:lastmodified":1449071990,
+    "wof:lastmodified":1466324942,
     "wof:name":"Berryville Public Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.568178,36.363487,-93.568178,36.363487],
+  "bbox": [
+    -93.568178,
+    36.363487,
+    -93.568178,
+    36.363487
+],
   "geometry": {"coordinates":[-93.568178,36.363487],"type":"Point"}
 }

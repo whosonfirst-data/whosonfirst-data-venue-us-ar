@@ -2,13 +2,14 @@
   "id": 219361961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.043409,34.949662,-92.043409,34.949662",
     "geom:latitude":34.949662,
     "geom:longitude":-92.043409,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3980 S 1st St",
     "sg:city":"Cabot",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":219361961,
-    "wof:lastmodified":1449072973,
+    "wof:lastmodified":1466322435,
     "wof:name":"Gunther Toody's",
     "wof:parent_id":85839277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "take"
     ]
 },
-  "bbox": [-92.043409,34.949662,-92.043409,34.949662],
+  "bbox": [
+    -92.043409,
+    34.949662,
+    -92.043409,
+    34.949662
+],
   "geometry": {"coordinates":[-92.043409,34.949662],"type":"Point"}
 }

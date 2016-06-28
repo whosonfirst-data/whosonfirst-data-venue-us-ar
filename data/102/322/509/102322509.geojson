@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102322509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.576959,33.869426,-93.576959,33.869426",
     "geom:latitude":33.869426,
     "geom:longitude":-93.576959,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5890 State Hwy 29",
     "sg:city":"Blevins",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102322509,
-    "wof:lastmodified":1449067741,
+    "wof:lastmodified":1466323490,
     "wof:name":"Blevins Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.576959,33.869426,-93.576959,33.869426],
+  "bbox": [
+    -93.576959,
+    33.869426,
+    -93.576959,
+    33.869426
+],
   "geometry": {"coordinates":[-93.576959,33.869426],"type":"Point"}
 }

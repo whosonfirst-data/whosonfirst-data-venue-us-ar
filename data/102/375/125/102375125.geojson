@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102375125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.815233,34.555447,-90.815233,34.555447",
     "geom:latitude":34.555447,
     "geom:longitude":-90.815233,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8278 US Hwy 49",
     "sg:city":"Poplar Grove",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102375125,
-    "wof:lastmodified":1449067861,
+    "wof:lastmodified":1466321081,
     "wof:name":"Mauldin Rudee Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.815233,34.555447,-90.815233,34.555447],
-  "geometry": {"coordinates":[-90.815233,34.555447],"type":"Point"}
+  "bbox": [
+    -90.815233,
+    34.555447,
+    -90.815233,
+    34.555447
+],
+  "geometry": {"coordinates":[-90.81523300000001,34.555447],"type":"Point"}
 }

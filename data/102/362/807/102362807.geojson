@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102362807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.551116,36.27596,-94.551116,36.27596",
     "geom:latitude":36.27596,
     "geom:longitude":-94.551116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23236 State Hwy 12",
     "sg:city":"Gentry",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102362807,
-    "wof:lastmodified":1449069325,
+    "wof:lastmodified":1466324338,
     "wof:name":"Rumsey Equestrian Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.551116,36.27596,-94.551116,36.27596],
-  "geometry": {"coordinates":[-94.551116,36.27596],"type":"Point"}
+  "bbox": [
+    -94.551116,
+    36.27596,
+    -94.551116,
+    36.27596
+],
+  "geometry": {"coordinates":[-94.55111599999999,36.27596],"type":"Point"}
 }

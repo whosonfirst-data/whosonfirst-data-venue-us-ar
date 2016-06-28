@@ -2,13 +2,14 @@
   "id": 220110871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.262936,35.209539,-94.262936,35.209539",
     "geom:latitude":35.209539,
     "geom:longitude":-94.262936,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"250 Old Hackett Rd",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220110871,
-    "wof:lastmodified":1449074281,
+    "wof:lastmodified":1466322402,
     "wof:name":"Judy Lee's Fine Foods",
     "wof:parent_id":85808359,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "family"
     ]
 },
-  "bbox": [-94.262936,35.209539,-94.262936,35.209539],
+  "bbox": [
+    -94.262936,
+    35.209539,
+    -94.262936,
+    35.209539
+],
   "geometry": {"coordinates":[-94.262936,35.209539],"type":"Point"}
 }

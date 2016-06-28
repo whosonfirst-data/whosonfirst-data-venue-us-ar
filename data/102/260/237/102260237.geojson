@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102260237",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.13137,36.179605,-94.13137,36.179605",
     "geom:latitude":36.179605,
     "geom:longitude":-94.13137,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"515 Holcomb St",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885481,
+        85688549,
         85633793,
         85919623,
         102082007,
-        85688549
+        85885481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102260237",
-    "wof:lastmodified":1449068207,
+    "wof:lastmodified":1466322089,
     "wof:name":"Jimani Rentals",
     "wof:parent_id":85885481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.13137,36.179605,-94.13137,36.179605],
+  "bbox": [
+    -94.13137,
+    36.179605,
+    -94.13137,
+    36.179605
+],
   "geometry": {"coordinates":[-94.13137,36.179605],"type":"Point"}
 }

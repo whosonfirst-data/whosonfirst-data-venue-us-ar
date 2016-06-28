@@ -2,13 +2,14 @@
   "id": 220011617,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.202698,36.186699,-94.202698,36.186699",
     "geom:latitude":36.186699,
     "geom:longitude":-94.202698,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6220 Har Ber Ave",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220011617,
-    "wof:lastmodified":1449074701,
+    "wof:lastmodified":1466320478,
     "wof:name":"Brush Creek Golf Course Inc",
     "wof:parent_id":85885477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.202698,36.186699,-94.202698,36.186699],
+  "bbox": [
+    -94.202698,
+    36.186699,
+    -94.202698,
+    36.186699
+],
   "geometry": {"coordinates":[-94.202698,36.186699],"type":"Point"}
 }

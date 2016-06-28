@@ -2,13 +2,14 @@
   "id": 220068131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.073117,35.270805,-93.073117,35.270805",
     "geom:latitude":35.270805,
     "geom:longitude":-93.073117,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4142 E Main St",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":220068131,
-    "wof:lastmodified":1449074447,
+    "wof:lastmodified":1466321287,
     "wof:name":"New Life Church Of Russellville Inc",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "denomination"
     ]
 },
-  "bbox": [-93.073117,35.270805,-93.073117,35.270805],
+  "bbox": [
+    -93.073117,
+    35.270805,
+    -93.073117,
+    35.270805
+],
   "geometry": {"coordinates":[-93.073117,35.270805],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102230669",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.310841,34.612549,-92.310841,34.612549",
     "geom:latitude":34.612549,
     "geom:longitude":-92.310841,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15112 Sara Dr",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858761,
+        85688549,
         85633793,
         85921709,
         102082497,
-        85688549
+        85858761
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102230669",
-    "wof:lastmodified":1449069581,
+    "wof:lastmodified":1466321467,
     "wof:name":"Hicks & Hicks Vacation Planner",
     "wof:parent_id":85858761,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.310841,34.612549,-92.310841,34.612549],
+  "bbox": [
+    -92.310841,
+    34.612549,
+    -92.310841,
+    34.612549
+],
   "geometry": {"coordinates":[-92.310841,34.612549],"type":"Point"}
 }

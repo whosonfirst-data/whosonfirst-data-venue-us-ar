@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102300119",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.23099,36.374201,-94.23099,36.374201",
     "geom:latitude":36.374201,
     "geom:longitude":-94.23099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 NW O St",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102300119",
-    "wof:lastmodified":1449069105,
+    "wof:lastmodified":1466322958,
     "wof:name":"Havermeyer Holdings LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.23099,36.374201,-94.23099,36.374201],
-  "geometry": {"coordinates":[-94.23099,36.374201],"type":"Point"}
+  "bbox": [
+    -94.23099,
+    36.374201,
+    -94.23099,
+    36.374201
+],
+  "geometry": {"coordinates":[-94.23099000000001,36.374201],"type":"Point"}
 }

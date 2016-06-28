@@ -2,13 +2,14 @@
   "id": 219670991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.231197,35.888139,-90.231197,35.888139",
     "geom:latitude":35.888139,
     "geom:longitude":-90.231197,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4280 W State Highway 18",
     "sg:city":"Manila",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219670991,
-    "wof:lastmodified":1449070916,
+    "wof:lastmodified":1466324826,
     "wof:name":"United Suppliers Inc",
     "wof:parent_id":85814753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-90.231197,35.888139,-90.231197,35.888139],
-  "geometry": {"coordinates":[-90.231197,35.888139],"type":"Point"}
+  "bbox": [
+    -90.231197,
+    35.888139,
+    -90.231197,
+    35.888139
+],
+  "geometry": {"coordinates":[-90.23119699999999,35.888139],"type":"Point"}
 }

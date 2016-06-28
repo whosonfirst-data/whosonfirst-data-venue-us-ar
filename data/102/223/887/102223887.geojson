@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102223887",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.934705,35.340111,-93.934705,35.340111",
     "geom:latitude":35.340111,
     "geom:longitude":-93.934705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10215 State Hwy 41",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":"102223887",
-    "wof:lastmodified":1449067954,
+    "wof:lastmodified":1466321335,
     "wof:name":"Plumbing Systems Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.934705,35.340111,-93.934705,35.340111],
-  "geometry": {"coordinates":[-93.934705,35.340111],"type":"Point"}
+  "bbox": [
+    -93.934705,
+    35.340111,
+    -93.934705,
+    35.340111
+],
+  "geometry": {"coordinates":[-93.93470499999999,35.340111],"type":"Point"}
 }

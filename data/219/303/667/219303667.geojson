@@ -2,13 +2,14 @@
   "id": 219303667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.996608,34.464106,-93.996608,34.464106",
     "geom:latitude":34.464106,
     "geom:longitude":-93.996608,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"279 Polk Road 615",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219303667,
-    "wof:lastmodified":1449070412,
+    "wof:lastmodified":1466321761,
     "wof:name":"Edwards Acoustical Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "contractor"
     ]
 },
-  "bbox": [-93.996608,34.464106,-93.996608,34.464106],
-  "geometry": {"coordinates":[-93.996608,34.464106],"type":"Point"}
+  "bbox": [
+    -93.996608,
+    34.464106,
+    -93.996608,
+    34.464106
+],
+  "geometry": {"coordinates":[-93.99660799999999,34.464106],"type":"Point"}
 }

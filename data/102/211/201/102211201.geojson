@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102211201",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.058906,33.719049,-94.058906,33.719049",
     "geom:latitude":33.719049,
     "geom:longitude":-94.058906,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"603 Jacks Isle Rd",
     "sg:city":"Ashdown",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":"102211201",
-    "wof:lastmodified":1449068380,
+    "wof:lastmodified":1466320889,
     "wof:name":"Will W Deerman Jr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.058906,33.719049,-94.058906,33.719049],
-  "geometry": {"coordinates":[-94.058906,33.719049],"type":"Point"}
+  "bbox": [
+    -94.058906,
+    33.719049,
+    -94.058906,
+    33.719049
+],
+  "geometry": {"coordinates":[-94.05890599999999,33.719049],"type":"Point"}
 }

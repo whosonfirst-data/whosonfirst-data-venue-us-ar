@@ -2,13 +2,14 @@
   "id": 353853145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.203408,34.550951,-94.203408,34.550951",
     "geom:latitude":34.550951,
     "geom:longitude":-94.203408,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Aviation Ln",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":353853145,
-    "wof:lastmodified":1449019286,
+    "wof:lastmodified":1466320528,
     "wof:name":"Blair Air Interiors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "painting"
     ]
 },
-  "bbox": [-94.203408,34.550951,-94.203408,34.550951],
+  "bbox": [
+    -94.203408,
+    34.550951,
+    -94.203408,
+    34.550951
+],
   "geometry": {"coordinates":[-94.203408,34.550951],"type":"Point"}
 }

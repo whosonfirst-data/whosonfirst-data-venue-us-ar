@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102274643",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.67828,35.807961,-90.67828,35.807961",
     "geom:latitude":35.807961,
     "geom:longitude":-90.67828,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2929 S Caraway Rd",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85836541,
+        85688549,
         85633793,
         85920203,
         102082033,
-        85688549
+        85836541
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102274643",
-    "wof:lastmodified":1449068100,
+    "wof:lastmodified":1466322507,
     "wof:name":"American Physical Therapy Ctr",
     "wof:parent_id":85836541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.67828,35.807961,-90.67828,35.807961],
+  "bbox": [
+    -90.67828,
+    35.807961,
+    -90.67828,
+    35.807961
+],
   "geometry": {"coordinates":[-90.67828,35.807961],"type":"Point"}
 }

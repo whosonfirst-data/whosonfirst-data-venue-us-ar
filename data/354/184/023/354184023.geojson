@@ -2,13 +2,14 @@
   "id": 354184023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.464642,35.258724,-94.464642,35.258724",
     "geom:latitude":35.258724,
     "geom:longitude":-94.464642,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Home St",
     "sg:city":"Pocola",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354184023,
-    "wof:lastmodified":1449066227,
+    "wof:lastmodified":1466324518,
     "wof:name":"Pocola Nursing Ctr",
     "wof:parent_id":85809847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-94.464642,35.258724,-94.464642,35.258724],
+  "bbox": [
+    -94.464642,
+    35.258724,
+    -94.464642,
+    35.258724
+],
   "geometry": {"coordinates":[-94.464642,35.258724],"type":"Point"}
 }

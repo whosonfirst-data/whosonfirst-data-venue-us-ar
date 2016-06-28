@@ -2,13 +2,14 @@
   "id": 219851169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.163521,36.106792,-94.163521,36.106792",
     "geom:latitude":36.106792,
     "geom:longitude":-94.163521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3026 N Gregg Ave Apt 10",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219851169,
-    "wof:lastmodified":1449072711,
+    "wof:lastmodified":1466325032,
     "wof:name":"Tnt Baby Designs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "producer"
     ]
 },
-  "bbox": [-94.163521,36.106792,-94.163521,36.106792],
+  "bbox": [
+    -94.163521,
+    36.106792,
+    -94.163521,
+    36.106792
+],
   "geometry": {"coordinates":[-94.163521,36.106792],"type":"Point"}
 }

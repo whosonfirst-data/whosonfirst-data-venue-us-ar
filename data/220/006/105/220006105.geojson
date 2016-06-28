@@ -2,13 +2,14 @@
   "id": 220006105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.149644,36.307305,-94.149644,36.307305",
     "geom:latitude":36.307305,
     "geom:longitude":-94.149644,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2103 W Green Acres Dr",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220006105,
-    "wof:lastmodified":1449074682,
+    "wof:lastmodified":1466320461,
     "wof:name":"Liberty Home Inspection",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-94.149644,36.307305,-94.149644,36.307305],
+  "bbox": [
+    -94.149644,
+    36.307305,
+    -94.149644,
+    36.307305
+],
   "geometry": {"coordinates":[-94.149644,36.307305],"type":"Point"}
 }

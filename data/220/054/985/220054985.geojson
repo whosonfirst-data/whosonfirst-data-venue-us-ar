@@ -2,13 +2,14 @@
   "id": 220054985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.128502,36.17789,-94.128502,36.17789",
     "geom:latitude":36.17789,
     "geom:longitude":-94.128502,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"402 Caudle Ave",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":220054985,
-    "wof:lastmodified":1449074398,
+    "wof:lastmodified":1466320813,
     "wof:name":"Caudle Ave Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "churches-baptist"
     ]
 },
-  "bbox": [-94.128502,36.17789,-94.128502,36.17789],
+  "bbox": [
+    -94.128502,
+    36.17789,
+    -94.128502,
+    36.17789
+],
   "geometry": {"coordinates":[-94.128502,36.17789],"type":"Point"}
 }

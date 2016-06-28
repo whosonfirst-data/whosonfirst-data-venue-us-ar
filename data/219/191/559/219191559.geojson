@@ -2,13 +2,14 @@
   "id": 219191559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.839352,33.536456,-92.839352,33.536456",
     "geom:latitude":33.536456,
     "geom:longitude":-92.839352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2603 Bryant Ave",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219191559,
-    "wof:lastmodified":1449072532,
+    "wof:lastmodified":1466320768,
     "wof:name":"Max B Lindsey",
     "wof:parent_id":85813169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.839352,33.536456,-92.839352,33.536456],
-  "geometry": {"coordinates":[-92.839352,33.536456],"type":"Point"}
+  "bbox": [
+    -92.839352,
+    33.536456,
+    -92.839352,
+    33.536456
+],
+  "geometry": {"coordinates":[-92.83935200000001,33.536456],"type":"Point"}
 }

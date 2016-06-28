@@ -2,13 +2,14 @@
   "id": 219274277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.389053,33.87155,-93.389053,33.87155",
     "geom:latitude":33.87155,
     "geom:longitude":-93.389053,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"648 Nevada 64",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219274277,
-    "wof:lastmodified":1449070822,
+    "wof:lastmodified":1466321519,
     "wof:name":"Mc Williams Lock Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "locksmiths-commercial"
     ]
 },
-  "bbox": [-93.389053,33.87155,-93.389053,33.87155],
+  "bbox": [
+    -93.389053,
+    33.87155,
+    -93.389053,
+    33.87155
+],
   "geometry": {"coordinates":[-93.389053,33.87155],"type":"Point"}
 }

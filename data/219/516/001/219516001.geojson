@@ -2,13 +2,14 @@
   "id": 219516001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.803625,35.235402,-91.803625,35.235402",
     "geom:latitude":35.235402,
     "geom:longitude":-91.803625,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2946 W Country Club Rd",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219516001,
-    "wof:lastmodified":1449071067,
+    "wof:lastmodified":1466324074,
     "wof:name":"Robert G Miller Dds Pa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.803625,35.235402,-91.803625,35.235402],
+  "bbox": [
+    -91.803625,
+    35.235402,
+    -91.803625,
+    35.235402
+],
   "geometry": {"coordinates":[-91.803625,35.235402],"type":"Point"}
 }

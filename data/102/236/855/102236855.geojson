@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102236855",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.345297,34.649722,-92.345297,34.649722",
     "geom:latitude":34.649722,
     "geom:longitude":-92.345297,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11301 Geyer Springs Rd",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.southwestchristianacademy.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859401,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85859401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102236855",
-    "wof:lastmodified":1449068054,
+    "wof:lastmodified":1466321635,
     "wof:name":"Southwest Christian Academy",
     "wof:parent_id":85859401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.345297,34.649722,-92.345297,34.649722],
+  "bbox": [
+    -92.345297,
+    34.649722,
+    -92.345297,
+    34.649722
+],
   "geometry": {"coordinates":[-92.345297,34.649722],"type":"Point"}
 }

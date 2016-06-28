@@ -2,13 +2,14 @@
   "id": 220100637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.117684,35.511149,-94.117684,35.511149",
     "geom:latitude":35.511149,
     "geom:longitude":-94.117684,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3806 Mulberry Highway 64 W",
     "sg:city":"Alma",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":220100637,
-    "wof:lastmodified":1449074639,
+    "wof:lastmodified":1466322237,
     "wof:name":"Utility Trailer Sales Nw Ark",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "trailer"
     ]
 },
-  "bbox": [-94.117684,35.511149,-94.117684,35.511149],
+  "bbox": [
+    -94.117684,
+    35.511149,
+    -94.117684,
+    35.511149
+],
   "geometry": {"coordinates":[-94.117684,35.511149],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219172207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.797374,33.646562,-91.797374,33.646562",
     "geom:latitude":33.646562,
     "geom:longitude":-91.797374,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 Park St",
     "sg:city":"Monticello",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219172207,
-    "wof:lastmodified":1449071811,
+    "wof:lastmodified":1466320568,
     "wof:name":"Jerry Pamplin Farms Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.797374,33.646562,-91.797374,33.646562],
+  "bbox": [
+    -91.797374,
+    33.646562,
+    -91.797374,
+    33.646562
+],
   "geometry": {"coordinates":[-91.797374,33.646562],"type":"Point"}
 }

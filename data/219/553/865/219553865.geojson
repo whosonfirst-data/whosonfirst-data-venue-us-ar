@@ -2,13 +2,14 @@
   "id": 219553865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.566098,34.484135,-91.566098,34.484135",
     "geom:latitude":34.484135,
     "geom:longitude":-91.566098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1916 Weidner St",
     "sg:city":"Stuttgart",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219553865,
-    "wof:lastmodified":1449070393,
+    "wof:lastmodified":1466324364,
     "wof:name":"Redfield Grocery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.566098,34.484135,-91.566098,34.484135],
+  "bbox": [
+    -91.566098,
+    34.484135,
+    -91.566098,
+    34.484135
+],
   "geometry": {"coordinates":[-91.566098,34.484135],"type":"Point"}
 }

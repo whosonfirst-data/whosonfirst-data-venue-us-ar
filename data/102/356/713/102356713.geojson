@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102356713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.458956,35.468215,-93.458956,35.468215",
     "geom:latitude":35.468215,
     "geom:longitude":-93.458956,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 S Rogers St",
     "sg:city":"Clarksville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102356713,
-    "wof:lastmodified":1449069742,
+    "wof:lastmodified":1466324275,
     "wof:name":"Meadville Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.458956,35.468215,-93.458956,35.468215],
+  "bbox": [
+    -93.458956,
+    35.468215,
+    -93.458956,
+    35.468215
+],
   "geometry": {"coordinates":[-93.458956,35.468215],"type":"Point"}
 }

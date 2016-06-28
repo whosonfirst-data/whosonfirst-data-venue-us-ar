@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102355135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.160047,35.335832,-94.160047,35.335832",
     "geom:latitude":35.335832,
     "geom:longitude":-94.160047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1701 State Hwy 96",
     "sg:city":"Lavaca",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102355135,
-    "wof:lastmodified":1449068451,
+    "wof:lastmodified":1466324100,
     "wof:name":"Triple R Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.160047,35.335832,-94.160047,35.335832],
-  "geometry": {"coordinates":[-94.160047,35.335832],"type":"Point"}
+  "bbox": [
+    -94.160047,
+    35.335832,
+    -94.160047,
+    35.335832
+],
+  "geometry": {"coordinates":[-94.16004700000001,35.335832],"type":"Point"}
 }

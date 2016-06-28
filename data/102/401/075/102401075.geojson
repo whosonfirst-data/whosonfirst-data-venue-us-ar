@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102401075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.330168,33.695553,-91.330168,33.695553",
     "geom:latitude":33.695553,
     "geom:longitude":-91.330168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1123 McArthur Rd",
     "sg:city":"Tillar",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102401075,
-    "wof:lastmodified":1449069813,
+    "wof:lastmodified":1466324670,
     "wof:name":"E & V Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.330168,33.695553,-91.330168,33.695553],
+  "bbox": [
+    -91.330168,
+    33.695553,
+    -91.330168,
+    33.695553
+],
   "geometry": {"coordinates":[-91.330168,33.695553],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 235944049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.750994,36.23408,-94.750994,36.23408",
     "geom:latitude":36.23408,
     "geom:longitude":-94.750994,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15402 E 540 Rd",
     "sg:city":"Colcord",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":235944049,
-    "wof:lastmodified":1449008417,
+    "wof:lastmodified":1466320412,
     "wof:name":"Arkansas Church Of God Fellows",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-94.750994,36.23408,-94.750994,36.23408],
-  "geometry": {"coordinates":[-94.750994,36.23408],"type":"Point"}
+  "bbox": [
+    -94.750994,
+    36.23408,
+    -94.750994,
+    36.23408
+],
+  "geometry": {"coordinates":[-94.75099400000001,36.23408],"type":"Point"}
 }

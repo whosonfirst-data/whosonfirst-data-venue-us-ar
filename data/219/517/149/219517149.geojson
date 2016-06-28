@@ -2,13 +2,14 @@
   "id": 219517149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.713248,35.07961,-91.713248,35.07961",
     "geom:latitude":35.07961,
     "geom:longitude":-91.713248,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 W Vinity Rd",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":219517149,
-    "wof:lastmodified":1449072393,
+    "wof:lastmodified":1466324083,
     "wof:name":"Jimmy Smith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [-91.713248,35.07961,-91.713248,35.07961],
-  "geometry": {"coordinates":[-91.713248,35.07961],"type":"Point"}
+  "bbox": [
+    -91.713248,
+    35.07961,
+    -91.713248,
+    35.07961
+],
+  "geometry": {"coordinates":[-91.71324799999999,35.07961],"type":"Point"}
 }

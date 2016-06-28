@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102229159",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.315254,34.738547,-92.315254,34.738547",
     "geom:latitude":34.738547,
     "geom:longitude":-92.315254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3701 W 14th St",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85838647,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85838647
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102229159",
-    "wof:lastmodified":1449069696,
+    "wof:lastmodified":1466321341,
     "wof:name":"Bulldog Insulation",
     "wof:parent_id":85838647,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.315254,34.738547,-92.315254,34.738547],
+  "bbox": [
+    -92.315254,
+    34.738547,
+    -92.315254,
+    34.738547
+],
   "geometry": {"coordinates":[-92.315254,34.738547],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219771941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.109689,36.237239,-93.109689,36.237239",
     "geom:latitude":36.237239,
     "geom:longitude":-93.109689,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"825 N Spring St Ste B",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219771941,
-    "wof:lastmodified":1449072292,
+    "wof:lastmodified":1466324933,
     "wof:name":"Robert Kent Dds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.109689,36.237239,-93.109689,36.237239],
+  "bbox": [
+    -93.109689,
+    36.237239,
+    -93.109689,
+    36.237239
+],
   "geometry": {"coordinates":[-93.109689,36.237239],"type":"Point"}
 }

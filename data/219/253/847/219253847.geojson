@@ -2,13 +2,14 @@
   "id": 219253847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.024887,33.41991,-94.024887,33.41991",
     "geom:latitude":33.41991,
     "geom:longitude":-94.024887,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1800 Dudley St",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219253847,
-    "wof:lastmodified":1449073482,
+    "wof:lastmodified":1466321361,
     "wof:name":"Ozan District Baptist Assn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "churches-baptist"
     ]
 },
-  "bbox": [-94.024887,33.41991,-94.024887,33.41991],
-  "geometry": {"coordinates":[-94.024887,33.41991],"type":"Point"}
+  "bbox": [
+    -94.024887,
+    33.41991,
+    -94.024887,
+    33.41991
+],
+  "geometry": {"coordinates":[-94.02488700000001,33.41991],"type":"Point"}
 }

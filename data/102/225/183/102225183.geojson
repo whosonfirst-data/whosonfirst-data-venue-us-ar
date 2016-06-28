@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102225183",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.029586,34.480767,-93.029586,34.480767",
     "geom:latitude":34.480767,
     "geom:longitude":-93.029586,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Country Club Dr",
     "sg:city":"Hot Springs National",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102225183",
-    "wof:lastmodified":1449068529,
+    "wof:lastmodified":1466321238,
     "wof:name":"Hot Springs Country Club Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.029586,34.480767,-93.029586,34.480767],
-  "geometry": {"coordinates":[-93.029586,34.480767],"type":"Point"}
+  "bbox": [
+    -93.029586,
+    34.480767,
+    -93.029586,
+    34.480767
+],
+  "geometry": {"coordinates":[-93.02958599999999,34.480767],"type":"Point"}
 }

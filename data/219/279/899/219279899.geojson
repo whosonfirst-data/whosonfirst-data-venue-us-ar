@@ -2,13 +2,14 @@
   "id": 219279899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.065677,34.131441,-93.065677,34.131441",
     "geom:latitude":34.131441,
     "geom:longitude":-93.065677,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1514 Millcreek Dr",
     "sg:city":"Arkadelphia",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219279899,
-    "wof:lastmodified":1449072020,
+    "wof:lastmodified":1466321566,
     "wof:name":"Perennial Communications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.065677,34.131441,-93.065677,34.131441],
-  "geometry": {"coordinates":[-93.065677,34.131441],"type":"Point"}
+  "bbox": [
+    -93.065677,
+    34.131441,
+    -93.065677,
+    34.131441
+],
+  "geometry": {"coordinates":[-93.06567699999999,34.131441],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102420541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.724157,36.488939,-93.724157,36.488939",
     "geom:latitude":36.488939,
     "geom:longitude":-93.724157,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Park Ln",
     "sg:city":"Holiday Island",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102420541,
-    "wof:lastmodified":1449068923,
+    "wof:lastmodified":1466325297,
     "wof:name":"Island Video",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.724157,36.488939,-93.724157,36.488939],
-  "geometry": {"coordinates":[-93.724157,36.488939],"type":"Point"}
+  "bbox": [
+    -93.724157,
+    36.488939,
+    -93.724157,
+    36.488939
+],
+  "geometry": {"coordinates":[-93.72415700000001,36.488939],"type":"Point"}
 }

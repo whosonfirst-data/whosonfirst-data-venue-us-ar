@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102328781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.219277,35.165165,-94.219277,35.165165",
     "geom:latitude":35.165165,
     "geom:longitude":-94.219277,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3505 Lafleur Rd",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102328781,
-    "wof:lastmodified":1449069161,
+    "wof:lastmodified":1466323683,
     "wof:name":"Arkansas Electric Coop Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.219277,35.165165,-94.219277,35.165165],
-  "geometry": {"coordinates":[-94.219277,35.165165],"type":"Point"}
+  "bbox": [
+    -94.219277,
+    35.165165,
+    -94.219277,
+    35.165165
+],
+  "geometry": {"coordinates":[-94.21927700000001,35.165165],"type":"Point"}
 }

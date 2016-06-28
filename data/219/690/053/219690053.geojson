@@ -2,13 +2,14 @@
   "id": 219690053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.486167,36.055445,-90.486167,36.055445",
     "geom:latitude":36.055445,
     "geom:longitude":-90.486167,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"213 S Pruett St",
     "sg:city":"Paragould",
     "sg:classifiers":[
@@ -63,14 +64,20 @@
         }
     ],
     "wof:id":219690053,
-    "wof:lastmodified":1449072241,
+    "wof:lastmodified":1466324687,
     "wof:name":"The Hair Loft",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.486167,36.055445,-90.486167,36.055445],
-  "geometry": {"coordinates":[-90.486167,36.055445],"type":"Point"}
+  "bbox": [
+    -90.486167,
+    36.055445,
+    -90.486167,
+    36.055445
+],
+  "geometry": {"coordinates":[-90.48616699999999,36.055445],"type":"Point"}
 }

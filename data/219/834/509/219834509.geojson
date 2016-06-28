@@ -2,13 +2,14 @@
   "id": 219834509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.19854,36.000528,-94.19854,36.000528",
     "geom:latitude":36.000528,
     "geom:longitude":-94.19854,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"490 N Cato Springs Rd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":219834509,
-    "wof:lastmodified":1449070715,
+    "wof:lastmodified":1466325004,
     "wof:name":"Lock Down Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "boat"
     ]
 },
-  "bbox": [-94.19854,36.000528,-94.19854,36.000528],
-  "geometry": {"coordinates":[-94.19854,36.000528],"type":"Point"}
+  "bbox": [
+    -94.19854,
+    36.000528,
+    -94.19854,
+    36.000528
+],
+  "geometry": {"coordinates":[-94.19853999999999,36.000528],"type":"Point"}
 }

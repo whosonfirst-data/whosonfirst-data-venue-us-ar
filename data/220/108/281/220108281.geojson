@@ -2,13 +2,14 @@
   "id": 220108281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.031702,35.295982,-94.031702,35.295982",
     "geom:latitude":35.295982,
     "geom:longitude":-94.031702,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1008 Falconer St 12",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":220108281,
-    "wof:lastmodified":1449074080,
+    "wof:lastmodified":1466322353,
     "wof:name":"Frank Fusco Graphics",
     "wof:parent_id":85885347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "artist"
     ]
 },
-  "bbox": [-94.031702,35.295982,-94.031702,35.295982],
+  "bbox": [
+    -94.031702,
+    35.295982,
+    -94.031702,
+    35.295982
+],
   "geometry": {"coordinates":[-94.031702,35.295982],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102437967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.090001,36.377451,-94.090001,36.377451",
     "geom:latitude":36.377451,
     "geom:longitude":-94.090001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13262 Walnut Valley Rd",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102083255,
-        85633793,
         85688549,
-        85895859
+        85633793,
+        85895859,
+        102083255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102437967,
-    "wof:lastmodified":1449069543,
+    "wof:lastmodified":1466325595,
     "wof:name":"Rogers Masonry Contractors",
     "wof:parent_id":85895859,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.090001,36.377451,-94.090001,36.377451],
+  "bbox": [
+    -94.090001,
+    36.377451,
+    -94.090001,
+    36.377451
+],
   "geometry": {"coordinates":[-94.090001,36.377451],"type":"Point"}
 }

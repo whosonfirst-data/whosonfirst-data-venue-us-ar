@@ -2,13 +2,14 @@
   "id": 219537363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.698854,35.257574,-91.698854,35.257574",
     "geom:latitude":35.257574,
     "geom:longitude":-91.698854,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1016 Golf Course Dr",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219537363,
-    "wof:lastmodified":1449071264,
+    "wof:lastmodified":1466324238,
     "wof:name":"Kenneth Canfield",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [-91.698854,35.257574,-91.698854,35.257574],
+  "bbox": [
+    -91.698854,
+    35.257574,
+    -91.698854,
+    35.257574
+],
   "geometry": {"coordinates":[-91.698854,35.257574],"type":"Point"}
 }

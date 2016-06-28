@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102325721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.886373,35.364291,-91.886373,35.364291",
     "geom:latitude":35.364291,
     "geom:longitude":-91.886373,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 Pickens Mountain Rd",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102325721,
-    "wof:lastmodified":1449068706,
+    "wof:lastmodified":1466323642,
     "wof:name":"Hudson Heating & Air Cond",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.886373,35.364291,-91.886373,35.364291],
-  "geometry": {"coordinates":[-91.886373,35.364291],"type":"Point"}
+  "bbox": [
+    -91.886373,
+    35.364291,
+    -91.886373,
+    35.364291
+],
+  "geometry": {"coordinates":[-91.88637300000001,35.364291],"type":"Point"}
 }

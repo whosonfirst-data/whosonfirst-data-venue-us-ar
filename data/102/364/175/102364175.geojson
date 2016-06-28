@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102364175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.541221,35.405014,-91.541221,35.405014",
     "geom:latitude":35.405014,
     "geom:longitude":-91.541221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 Fire Tower Rd",
     "sg:city":"Bald Knob",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":102364175,
-    "wof:lastmodified":1449069100,
+    "wof:lastmodified":1466324288,
     "wof:name":"Centennial Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.541221,35.405014,-91.541221,35.405014],
-  "geometry": {"coordinates":[-91.541221,35.405014],"type":"Point"}
+  "bbox": [
+    -91.541221,
+    35.405014,
+    -91.541221,
+    35.405014
+],
+  "geometry": {"coordinates":[-91.54122099999999,35.405014],"type":"Point"}
 }

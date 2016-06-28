@@ -2,13 +2,14 @@
   "id": 219345413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.588155,34.563297,-92.588155,34.563297",
     "geom:latitude":34.563297,
     "geom:longitude":-92.588155,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 S Market St",
     "sg:city":"Benton",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219345413,
-    "wof:lastmodified":1449073636,
+    "wof:lastmodified":1466322197,
     "wof:name":"Spears Huffman & Butler PLLC",
     "wof:parent_id":85817531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "law"
     ]
 },
-  "bbox": [-92.588155,34.563297,-92.588155,34.563297],
+  "bbox": [
+    -92.588155,
+    34.563297,
+    -92.588155,
+    34.563297
+],
   "geometry": {"coordinates":[-92.588155,34.563297],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102380135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.470065,34.570161,-93.470065,34.570161",
     "geom:latitude":34.570161,
     "geom:longitude":-93.470065,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"987 Shangri la Dr",
     "sg:city":"Mount Ida",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102380135,
-    "wof:lastmodified":1449068883,
+    "wof:lastmodified":1466322116,
     "wof:name":"Shangri-La Resort",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.470065,34.570161,-93.470065,34.570161],
-  "geometry": {"coordinates":[-93.470065,34.570161],"type":"Point"}
+  "bbox": [
+    -93.470065,
+    34.570161,
+    -93.470065,
+    34.570161
+],
+  "geometry": {"coordinates":[-93.47006500000001,34.570161],"type":"Point"}
 }

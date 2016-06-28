@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102265001",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.343686,34.680136,-92.343686,34.680136",
     "geom:latitude":34.680136,
     "geom:longitude":-92.343686,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7521 Geyer Springs Rd",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102265001",
-    "wof:lastmodified":1449068610,
+    "wof:lastmodified":1466324477,
     "wof:name":"Discount Carpet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.343686,34.680136,-92.343686,34.680136],
-  "geometry": {"coordinates":[-92.343686,34.680136],"type":"Point"}
+  "bbox": [
+    -92.343686,
+    34.680136,
+    -92.343686,
+    34.680136
+],
+  "geometry": {"coordinates":[-92.34368600000001,34.680136],"type":"Point"}
 }

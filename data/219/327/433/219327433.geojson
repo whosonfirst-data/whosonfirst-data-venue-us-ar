@@ -2,13 +2,14 @@
   "id": 219327433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.417319,34.617353,-92.417319,34.617353",
     "geom:latitude":34.617353,
     "geom:longitude":-92.417319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14880 Vimy Ridge Rd",
     "sg:city":"Alexander",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219327433,
-    "wof:lastmodified":1449070654,
+    "wof:lastmodified":1466321967,
     "wof:name":"Ark Rad Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "x-ray"
     ]
 },
-  "bbox": [-92.417319,34.617353,-92.417319,34.617353],
-  "geometry": {"coordinates":[-92.417319,34.617353],"type":"Point"}
+  "bbox": [
+    -92.417319,
+    34.617353,
+    -92.417319,
+    34.617353
+],
+  "geometry": {"coordinates":[-92.41731900000001,34.617353],"type":"Point"}
 }

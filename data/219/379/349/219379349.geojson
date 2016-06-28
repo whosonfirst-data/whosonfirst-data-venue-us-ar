@@ -2,13 +2,14 @@
   "id": 219379349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.443979,35.120337,-92.443979,35.120337",
     "geom:latitude":35.120337,
     "geom:longitude":-92.443979,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3225 Vineyard Dr",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219379349,
-    "wof:lastmodified":1449072432,
+    "wof:lastmodified":1466322668,
     "wof:name":"Barger Author Researcher",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "writer"
     ]
 },
-  "bbox": [-92.443979,35.120337,-92.443979,35.120337],
+  "bbox": [
+    -92.443979,
+    35.120337,
+    -92.443979,
+    35.120337
+],
   "geometry": {"coordinates":[-92.443979,35.120337],"type":"Point"}
 }

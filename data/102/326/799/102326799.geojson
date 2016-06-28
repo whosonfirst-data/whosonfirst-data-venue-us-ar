@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102326799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.079541,34.918332,-92.079541,34.918332",
     "geom:latitude":34.918332,
     "geom:longitude":-92.079541,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2804 Coffelt Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102326799,
-    "wof:lastmodified":1449068787,
+    "wof:lastmodified":1466323675,
     "wof:name":"Southeast Building Concepts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.079541,34.918332,-92.079541,34.918332],
-  "geometry": {"coordinates":[-92.079541,34.918332],"type":"Point"}
+  "bbox": [
+    -92.079541,
+    34.918332,
+    -92.079541,
+    34.918332
+],
+  "geometry": {"coordinates":[-92.07954100000001,34.918332],"type":"Point"}
 }

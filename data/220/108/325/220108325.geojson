@@ -2,13 +2,14 @@
   "id": 220108325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.037651,35.295202,-94.037651,35.295202",
     "geom:latitude":35.295202,
     "geom:longitude":-94.037651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 S Logan St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220108325,
-    "wof:lastmodified":1449074078,
+    "wof:lastmodified":1466322353,
     "wof:name":"Penny Kleck",
     "wof:parent_id":85885347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trust"
     ]
 },
-  "bbox": [-94.037651,35.295202,-94.037651,35.295202],
+  "bbox": [
+    -94.037651,
+    35.295202,
+    -94.037651,
+    35.295202
+],
   "geometry": {"coordinates":[-94.037651,35.295202],"type":"Point"}
 }

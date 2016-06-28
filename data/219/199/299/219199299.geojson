@@ -2,13 +2,14 @@
   "id": 219199299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.437279,33.816101,-92.437279,33.816101",
     "geom:latitude":33.816101,
     "geom:longitude":-92.437279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2100 Meadowlane Dr",
     "sg:city":"Fordyce",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219199299,
-    "wof:lastmodified":1449070751,
+    "wof:lastmodified":1466320857,
     "wof:name":"Fordyce Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.437279,33.816101,-92.437279,33.816101],
+  "bbox": [
+    -92.437279,
+    33.816101,
+    -92.437279,
+    33.816101
+],
   "geometry": {"coordinates":[-92.437279,33.816101],"type":"Point"}
 }

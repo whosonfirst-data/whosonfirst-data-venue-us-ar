@@ -2,13 +2,14 @@
   "id": 219376103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.457558,35.592461,-92.457558,35.592461",
     "geom:latitude":35.592461,
     "geom:longitude":-92.457558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"264 Court St",
     "sg:city":"Clinton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219376103,
-    "wof:lastmodified":1449071609,
+    "wof:lastmodified":1466322639,
     "wof:name":"Morgan, M. Edward - Morgan & Tester, P.A.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "surgeons"
     ]
 },
-  "bbox": [-92.457558,35.592461,-92.457558,35.592461],
-  "geometry": {"coordinates":[-92.457558,35.592461],"type":"Point"}
+  "bbox": [
+    -92.457558,
+    35.592461,
+    -92.457558,
+    35.592461
+],
+  "geometry": {"coordinates":[-92.45755800000001,35.592461],"type":"Point"}
 }

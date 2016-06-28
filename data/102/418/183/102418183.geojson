@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102418183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.813888,34.36399,-92.813888,34.36399",
     "geom:latitude":34.36399,
     "geom:longitude":-92.813888,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 W 2nd St",
     "sg:city":"Malvern",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102418183,
-    "wof:lastmodified":1449069657,
+    "wof:lastmodified":1466325502,
     "wof:name":"William C Gilliam",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.813888,34.36399,-92.813888,34.36399],
-  "geometry": {"coordinates":[-92.813888,34.36399],"type":"Point"}
+  "bbox": [
+    -92.813888,
+    34.36399,
+    -92.813888,
+    34.36399
+],
+  "geometry": {"coordinates":[-92.81388800000001,34.36399],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219456543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.845137,34.446937,-92.845137,34.446937",
     "geom:latitude":34.446937,
     "geom:longitude":-92.845137,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 Sardis Ln",
     "sg:city":"Malvern",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219456543,
-    "wof:lastmodified":1449071454,
+    "wof:lastmodified":1466323441,
     "wof:name":"Silver Treasures Trinkets",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-92.845137,34.446937,-92.845137,34.446937],
-  "geometry": {"coordinates":[-92.845137,34.446937],"type":"Point"}
+  "bbox": [
+    -92.845137,
+    34.446937,
+    -92.845137,
+    34.446937
+],
+  "geometry": {"coordinates":[-92.84513699999999,34.446937],"type":"Point"}
 }

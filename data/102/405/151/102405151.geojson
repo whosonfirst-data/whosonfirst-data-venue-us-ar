@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102405151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.662191,33.219944,-92.662191,33.219944",
     "geom:latitude":33.219944,
     "geom:longitude":-92.662191,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"719 N Jefferson Ave",
     "sg:city":"El Dorado",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102405151,
-    "wof:lastmodified":1449069993,
+    "wof:lastmodified":1466325017,
     "wof:name":"Civitan International",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.662191,33.219944,-92.662191,33.219944],
-  "geometry": {"coordinates":[-92.662191,33.219944],"type":"Point"}
+  "bbox": [
+    -92.662191,
+    33.219944,
+    -92.662191,
+    33.219944
+],
+  "geometry": {"coordinates":[-92.66219100000001,33.219944],"type":"Point"}
 }

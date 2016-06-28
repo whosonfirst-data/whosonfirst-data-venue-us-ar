@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102415771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.367719,34.667701,-92.367719,34.667701",
     "geom:latitude":34.667701,
     "geom:longitude":-92.367719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7909 Mann Rd",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85833869,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85833869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102415771,
-    "wof:lastmodified":1449069536,
+    "wof:lastmodified":1466325377,
     "wof:name":"Rosa's Beauty Salon",
     "wof:parent_id":85833869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.367719,34.667701,-92.367719,34.667701],
-  "geometry": {"coordinates":[-92.367719,34.667701],"type":"Point"}
+  "bbox": [
+    -92.367719,
+    34.667701,
+    -92.367719,
+    34.667701
+],
+  "geometry": {"coordinates":[-92.36771899999999,34.667701],"type":"Point"}
 }

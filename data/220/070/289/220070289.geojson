@@ -2,13 +2,14 @@
   "id": 220070289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.091046,35.278372,-93.091046,35.278372",
     "geom:latitude":35.278372,
     "geom:longitude":-93.091046,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 N Shamrock Blvd",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":220070289,
-    "wof:lastmodified":1449074413,
+    "wof:lastmodified":1466321364,
     "wof:name":"Houston Insurance, Inc.",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "boat"
     ]
 },
-  "bbox": [-93.091046,35.278372,-93.091046,35.278372],
-  "geometry": {"coordinates":[-93.091046,35.278372],"type":"Point"}
+  "bbox": [
+    -93.091046,
+    35.278372,
+    -93.091046,
+    35.278372
+],
+  "geometry": {"coordinates":[-93.09104600000001,35.278372],"type":"Point"}
 }

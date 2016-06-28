@@ -2,13 +2,14 @@
   "id": 220086011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.103522,35.404734,-93.103522,35.404734",
     "geom:latitude":35.404734,
     "geom:longitude":-93.103522,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"178 Freeman Dr",
     "sg:city":"Dover",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220086011,
-    "wof:lastmodified":1449074593,
+    "wof:lastmodified":1466324473,
     "wof:name":"Wolf Lonely Transport",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transportation"
     ]
 },
-  "bbox": [-93.103522,35.404734,-93.103522,35.404734],
+  "bbox": [
+    -93.103522,
+    35.404734,
+    -93.103522,
+    35.404734
+],
   "geometry": {"coordinates":[-93.103522,35.404734],"type":"Point"}
 }

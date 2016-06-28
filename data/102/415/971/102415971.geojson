@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102415971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.675734,35.846427,-90.675734,35.846427",
     "geom:latitude":35.846427,
     "geom:longitude":-90.675734,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2307 Shelton St",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102415971,
-    "wof:lastmodified":1449069536,
+    "wof:lastmodified":1466325419,
     "wof:name":"Air Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.675734,35.846427,-90.675734,35.846427],
-  "geometry": {"coordinates":[-90.675734,35.846427],"type":"Point"}
+  "bbox": [
+    -90.675734,
+    35.846427,
+    -90.675734,
+    35.846427
+],
+  "geometry": {"coordinates":[-90.67573400000001,35.846427],"type":"Point"}
 }

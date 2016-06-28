@@ -2,13 +2,14 @@
   "id": 235944337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.773413,36.532448,-94.773413,36.532448",
     "geom:latitude":36.532448,
     "geom:longitude":-94.773413,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6800 Highway 59 N",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":235944337,
-    "wof:lastmodified":1449008418,
+    "wof:lastmodified":1466320415,
     "wof:name":"Grand Lake Pools",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "tub"
     ]
 },
-  "bbox": [-94.773413,36.532448,-94.773413,36.532448],
-  "geometry": {"coordinates":[-94.773413,36.532448],"type":"Point"}
+  "bbox": [
+    -94.773413,
+    36.532448,
+    -94.773413,
+    36.532448
+],
+  "geometry": {"coordinates":[-94.77341300000001,36.532448],"type":"Point"}
 }

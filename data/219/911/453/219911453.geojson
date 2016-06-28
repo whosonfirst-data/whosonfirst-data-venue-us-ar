@@ -2,13 +2,14 @@
   "id": 219911453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.460649,36.33729,-94.460649,36.33729",
     "geom:latitude":36.33729,
     "geom:longitude":-94.460649,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"324 S Highway 59",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":219911453,
-    "wof:lastmodified":1449073339,
+    "wof:lastmodified":1466325116,
     "wof:name":"Grand Insurance & Financial Professionals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "business"
     ]
 },
-  "bbox": [-94.460649,36.33729,-94.460649,36.33729],
+  "bbox": [
+    -94.460649,
+    36.33729,
+    -94.460649,
+    36.33729
+],
   "geometry": {"coordinates":[-94.460649,36.33729],"type":"Point"}
 }

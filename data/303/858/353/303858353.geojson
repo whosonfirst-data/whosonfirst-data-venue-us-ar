@@ -2,13 +2,14 @@
   "id": 303858353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.360386,35.265199,-94.360386,35.265199",
     "geom:latitude":35.265199,
     "geom:longitude":-94.360386,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6820 Breezemont Way",
     "sg:city":"Fort Smith",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303858353,
-    "wof:lastmodified":1448998362,
+    "wof:lastmodified":1466320621,
     "wof:name":"Denney Tree Specialists",
     "wof:parent_id":85808359,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-94.360386,35.265199,-94.360386,35.265199],
-  "geometry": {"coordinates":[-94.360386,35.265199],"type":"Point"}
+  "bbox": [
+    -94.360386,
+    35.265199,
+    -94.360386,
+    35.265199
+],
+  "geometry": {"coordinates":[-94.36038600000001,35.265199],"type":"Point"}
 }

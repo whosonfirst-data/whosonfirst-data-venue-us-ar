@@ -2,13 +2,14 @@
   "id": 219493349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.836971,35.422364,-91.836971,35.422364",
     "geom:latitude":35.422364,
     "geom:longitude":-91.836971,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1109 2nd St",
     "sg:city":"Pangburn",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219493349,
-    "wof:lastmodified":1449071515,
+    "wof:lastmodified":1466323891,
     "wof:name":"O Sharp Welding Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welder"
     ]
 },
-  "bbox": [-91.836971,35.422364,-91.836971,35.422364],
-  "geometry": {"coordinates":[-91.836971,35.422364],"type":"Point"}
+  "bbox": [
+    -91.836971,
+    35.422364,
+    -91.836971,
+    35.422364
+],
+  "geometry": {"coordinates":[-91.83697100000001,35.422364],"type":"Point"}
 }

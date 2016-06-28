@@ -2,13 +2,14 @@
   "id": 219369291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.746592,34.783796,-91.746592,34.783796",
     "geom:latitude":34.783796,
     "geom:longitude":-91.746592,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 N Court St",
     "sg:city":"Carlisle",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":219369291,
-    "wof:lastmodified":1449073727,
+    "wof:lastmodified":1466322568,
     "wof:name":"Carlisle Insurance Agency Inc",
     "wof:parent_id":85811577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "resume"
     ]
 },
-  "bbox": [-91.746592,34.783796,-91.746592,34.783796],
-  "geometry": {"coordinates":[-91.746592,34.783796],"type":"Point"}
+  "bbox": [
+    -91.746592,
+    34.783796,
+    -91.746592,
+    34.783796
+],
+  "geometry": {"coordinates":[-91.74659200000001,34.783796],"type":"Point"}
 }

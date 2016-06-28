@@ -2,13 +2,14 @@
   "id": 304025433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.236212,34.584218,-94.236212,34.584218",
     "geom:latitude":34.584218,
     "geom:longitude":-94.236212,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"710 Mena St",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":304025433,
-    "wof:lastmodified":1449044074,
+    "wof:lastmodified":1466324440,
     "wof:name":"Really Great Pizza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-94.236212,34.584218,-94.236212,34.584218],
-  "geometry": {"coordinates":[-94.236212,34.584218],"type":"Point"}
+  "bbox": [
+    -94.236212,
+    34.584218,
+    -94.236212,
+    34.584218
+],
+  "geometry": {"coordinates":[-94.23621199999999,34.584218],"type":"Point"}
 }

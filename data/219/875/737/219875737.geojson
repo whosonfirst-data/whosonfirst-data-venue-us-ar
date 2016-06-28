@@ -2,13 +2,14 @@
   "id": 219875737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.21083,36.346627,-94.21083,36.346627",
     "geom:latitude":36.346627,
     "geom:longitude":-94.21083,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2612 S Walton Blvd",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219875737,
-    "wof:lastmodified":1449073023,
+    "wof:lastmodified":1466325060,
     "wof:name":"Jla Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-94.21083,36.346627,-94.21083,36.346627],
+  "bbox": [
+    -94.21083,
+    36.346627,
+    -94.21083,
+    36.346627
+],
   "geometry": {"coordinates":[-94.21083,36.346627],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219240609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.292233,33.948864,-94.292233,33.948864",
     "geom:latitude":33.948864,
     "geom:longitude":-94.292233,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2216 Red Bridge Rd",
     "sg:city":"Horatio",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219240609,
-    "wof:lastmodified":1449070754,
+    "wof:lastmodified":1466321261,
     "wof:name":"Patrick Wing Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.292233,33.948864,-94.292233,33.948864],
+  "bbox": [
+    -94.292233,
+    33.948864,
+    -94.292233,
+    33.948864
+],
   "geometry": {"coordinates":[-94.292233,33.948864],"type":"Point"}
 }

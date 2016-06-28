@@ -2,13 +2,14 @@
   "id": 219245039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.847131,33.942183,-93.847131,33.942183",
     "geom:latitude":33.942183,
     "geom:longitude":-93.847131,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"218 S Main St",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219245039,
-    "wof:lastmodified":1449073801,
+    "wof:lastmodified":1466321295,
     "wof:name":"Britt Tony Hair Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.847131,33.942183,-93.847131,33.942183],
+  "bbox": [
+    -93.847131,
+    33.942183,
+    -93.847131,
+    33.942183
+],
   "geometry": {"coordinates":[-93.847131,33.942183],"type":"Point"}
 }

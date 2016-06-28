@@ -2,13 +2,14 @@
   "id": 219649691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.691942,35.804325,-90.691942,35.804325",
     "geom:latitude":35.804325,
     "geom:longitude":-90.691942,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3116 Mead Dr",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219649691,
-    "wof:lastmodified":1449072791,
+    "wof:lastmodified":1466324722,
     "wof:name":"Scottish Inn",
     "wof:parent_id":85836541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lodging"
     ]
 },
-  "bbox": [-90.691942,35.804325,-90.691942,35.804325],
+  "bbox": [
+    -90.691942,
+    35.804325,
+    -90.691942,
+    35.804325
+],
   "geometry": {"coordinates":[-90.691942,35.804325],"type":"Point"}
 }

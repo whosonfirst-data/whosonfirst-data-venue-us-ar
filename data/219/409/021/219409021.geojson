@@ -2,13 +2,14 @@
   "id": 219409021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.503676,35.104952,-92.503676,35.104952",
     "geom:latitude":35.104952,
     "geom:longitude":-92.503676,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4505 Sawgrass Cv",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219409021,
-    "wof:lastmodified":1449071840,
+    "wof:lastmodified":1466322925,
     "wof:name":"G & D Christian Investments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "advisory"
     ]
 },
-  "bbox": [-92.503676,35.104952,-92.503676,35.104952],
+  "bbox": [
+    -92.503676,
+    35.104952,
+    -92.503676,
+    35.104952
+],
   "geometry": {"coordinates":[-92.503676,35.104952],"type":"Point"}
 }

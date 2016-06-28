@@ -2,13 +2,14 @@
   "id": 219950005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.117363,36.313061,-94.117363,36.313061",
     "geom:latitude":36.313061,
     "geom:longitude":-94.117363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1820 S 1st St",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -72,10 +73,11 @@
         }
     ],
     "wof:id":219950005,
-    "wof:lastmodified":1449071763,
+    "wof:lastmodified":1466325238,
     "wof:name":"George's Commercial Refrigeration & Heating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -93,6 +95,11 @@
         "refrigerating"
     ]
 },
-  "bbox": [-94.117363,36.313061,-94.117363,36.313061],
+  "bbox": [
+    -94.117363,
+    36.313061,
+    -94.117363,
+    36.313061
+],
   "geometry": {"coordinates":[-94.117363,36.313061],"type":"Point"}
 }

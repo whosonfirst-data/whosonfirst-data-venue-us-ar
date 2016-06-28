@@ -2,13 +2,14 @@
   "id": 219447105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.587997,34.16486,-92.587997,34.16486",
     "geom:latitude":34.16486,
     "geom:longitude":-92.587997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 E 14th Ave",
     "sg:city":"Leola",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":219447105,
-    "wof:lastmodified":1449072880,
+    "wof:lastmodified":1466323325,
     "wof:name":"La Tienda Mexicana",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "japanese"
     ]
 },
-  "bbox": [-92.587997,34.16486,-92.587997,34.16486],
+  "bbox": [
+    -92.587997,
+    34.16486,
+    -92.587997,
+    34.16486
+],
   "geometry": {"coordinates":[-92.587997,34.16486],"type":"Point"}
 }

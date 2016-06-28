@@ -2,13 +2,14 @@
   "id": 219755773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.128978,36.260554,-93.128978,36.260554",
     "geom:latitude":36.260554,
     "geom:longitude":-93.128978,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Country Club Ln",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219755773,
-    "wof:lastmodified":1449071404,
+    "wof:lastmodified":1466324988,
     "wof:name":"J & J Pro Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "courses-private"
     ]
 },
-  "bbox": [-93.128978,36.260554,-93.128978,36.260554],
+  "bbox": [
+    -93.128978,
+    36.260554,
+    -93.128978,
+    36.260554
+],
   "geometry": {"coordinates":[-93.128978,36.260554],"type":"Point"}
 }

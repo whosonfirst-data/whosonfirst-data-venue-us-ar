@@ -2,13 +2,14 @@
   "id": 220070363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.099906,35.343335,-93.099906,35.343335",
     "geom:latitude":35.343335,
     "geom:longitude":-93.099906,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"434 Meadowrue Rd",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220070363,
-    "wof:lastmodified":1449074412,
+    "wof:lastmodified":1466321365,
     "wof:name":"Amigo Forestry Service Inc",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "consulting"
     ]
 },
-  "bbox": [-93.099906,35.343335,-93.099906,35.343335],
+  "bbox": [
+    -93.099906,
+    35.343335,
+    -93.099906,
+    35.343335
+],
   "geometry": {"coordinates":[-93.099906,35.343335],"type":"Point"}
 }

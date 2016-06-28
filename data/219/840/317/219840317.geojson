@@ -2,13 +2,14 @@
   "id": 219840317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.13092,36.117953,-94.13092,36.117953",
     "geom:latitude":36.117953,
     "geom:longitude":-94.13092,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3714 N Business Dr Ste 105",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219840317,
-    "wof:lastmodified":1449073136,
+    "wof:lastmodified":1466325018,
     "wof:name":"Smith, Courtney D, Dds - Pediatric Dental Assoc",
     "wof:parent_id":85885433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dentistry"
     ]
 },
-  "bbox": [-94.13092,36.117953,-94.13092,36.117953],
+  "bbox": [
+    -94.13092,
+    36.117953,
+    -94.13092,
+    36.117953
+],
   "geometry": {"coordinates":[-94.13092,36.117953],"type":"Point"}
 }

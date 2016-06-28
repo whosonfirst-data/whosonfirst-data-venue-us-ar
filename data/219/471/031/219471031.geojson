@@ -2,13 +2,14 @@
   "id": 219471031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.735544,35.167135,-92.735544,35.167135",
     "geom:latitude":35.167135,
     "geom:longitude":-92.735544,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Shadybrook Dr",
     "sg:city":"Morrilton",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219471031,
-    "wof:lastmodified":1449071803,
+    "wof:lastmodified":1466323579,
     "wof:name":"Belaman Construction",
     "wof:parent_id":85850611,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "contractor"
     ]
 },
-  "bbox": [-92.735544,35.167135,-92.735544,35.167135],
+  "bbox": [
+    -92.735544,
+    35.167135,
+    -92.735544,
+    35.167135
+],
   "geometry": {"coordinates":[-92.735544,35.167135],"type":"Point"}
 }

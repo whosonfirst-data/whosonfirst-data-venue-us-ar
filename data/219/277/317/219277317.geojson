@@ -2,13 +2,14 @@
   "id": 219277317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.779314,33.775134,-93.779314,33.775134",
     "geom:latitude":33.775134,
     "geom:longitude":-93.779314,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1038 Hempstead 14",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219277317,
-    "wof:lastmodified":1449070786,
+    "wof:lastmodified":1466321545,
     "wof:name":"B And W Farm",
     "wof:parent_id":85806015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.779314,33.775134,-93.779314,33.775134],
+  "bbox": [
+    -93.779314,
+    33.775134,
+    -93.779314,
+    33.775134
+],
   "geometry": {"coordinates":[-93.779314,33.775134],"type":"Point"}
 }

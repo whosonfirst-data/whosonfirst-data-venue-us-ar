@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102303745",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.393577,36.32026,-92.393577,36.32026",
     "geom:latitude":36.32026,
     "geom:longitude":-92.393577,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2736 Hwy 62 W",
     "sg:city":"Mountain Home",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":"102303745",
-    "wof:lastmodified":1449067780,
+    "wof:lastmodified":1466323167,
     "wof:name":"Meek's The Builder's Choice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.393577,36.32026,-92.393577,36.32026],
-  "geometry": {"coordinates":[-92.393577,36.32026],"type":"Point"}
+  "bbox": [
+    -92.393577,
+    36.32026,
+    -92.393577,
+    36.32026
+],
+  "geometry": {"coordinates":[-92.39357699999999,36.32026],"type":"Point"}
 }

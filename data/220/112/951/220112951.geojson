@@ -2,13 +2,14 @@
   "id": 220112951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.28656,35.223012,-94.28656,35.223012",
     "geom:latitude":35.223012,
     "geom:longitude":-94.28656,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2615 W Center St",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":220112951,
-    "wof:lastmodified":1449074385,
+    "wof:lastmodified":1466322464,
     "wof:name":"Greenwood Collision",
     "wof:parent_id":85808359,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "repairing"
     ]
 },
-  "bbox": [-94.28656,35.223012,-94.28656,35.223012],
-  "geometry": {"coordinates":[-94.28656,35.223012],"type":"Point"}
+  "bbox": [
+    -94.28656,
+    35.223012,
+    -94.28656,
+    35.223012
+],
+  "geometry": {"coordinates":[-94.28655999999999,35.223012],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219234121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.105433,33.647587,-94.105433,33.647587",
     "geom:latitude":33.647587,
     "geom:longitude":-94.105433,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"222 Highway 71 S",
     "sg:city":"Ashdown",
     "sg:classifiers":[
@@ -67,10 +68,11 @@
         }
     ],
     "wof:id":219234121,
-    "wof:lastmodified":1449073717,
+    "wof:lastmodified":1466321210,
     "wof:name":"Wheels Auto Salvage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -86,6 +88,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-94.105433,33.647587,-94.105433,33.647587],
+  "bbox": [
+    -94.105433,
+    33.647587,
+    -94.105433,
+    33.647587
+],
   "geometry": {"coordinates":[-94.105433,33.647587],"type":"Point"}
 }

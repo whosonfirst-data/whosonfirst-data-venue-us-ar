@@ -2,13 +2,14 @@
   "id": 219161807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.822576,33.584111,-91.822576,33.584111",
     "geom:latitude":33.584111,
     "geom:longitude":-91.822576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"127 Lukes Country Ln",
     "sg:city":"Monticello",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219161807,
-    "wof:lastmodified":1449071782,
+    "wof:lastmodified":1466320483,
     "wof:name":"Mrice Photography",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "wedding"
     ]
 },
-  "bbox": [-91.822576,33.584111,-91.822576,33.584111],
+  "bbox": [
+    -91.822576,
+    33.584111,
+    -91.822576,
+    33.584111
+],
   "geometry": {"coordinates":[-91.822576,33.584111],"type":"Point"}
 }

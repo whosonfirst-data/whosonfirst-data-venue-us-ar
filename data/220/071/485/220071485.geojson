@@ -2,13 +2,14 @@
   "id": 220071485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.016834,35.347993,-93.016834,35.347993",
     "geom:latitude":35.347993,
     "geom:longitude":-93.016834,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Upper Pine Ridge Rd",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":220071485,
-    "wof:lastmodified":1449074552,
+    "wof:lastmodified":1466321388,
     "wof:name":"Dream Catcher Outdoor Adventures Inc",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "special"
     ]
 },
-  "bbox": [-93.016834,35.347993,-93.016834,35.347993],
+  "bbox": [
+    -93.016834,
+    35.347993,
+    -93.016834,
+    35.347993
+],
   "geometry": {"coordinates":[-93.016834,35.347993],"type":"Point"}
 }

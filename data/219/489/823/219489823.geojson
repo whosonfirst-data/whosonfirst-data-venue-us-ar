@@ -2,13 +2,14 @@
   "id": 219489823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.206705,34.814381,-92.206705,34.814381",
     "geom:latitude":34.814381,
     "geom:longitude":-92.206705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2215 Wildwood Ave",
     "sg:city":"Sherwood",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":219489823,
-    "wof:lastmodified":1449072307,
+    "wof:lastmodified":1466323840,
     "wof:name":"Arkansas Pulmonary Sleep & Infectious Disease",
     "wof:parent_id":85837729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "pulmonary"
     ]
 },
-  "bbox": [-92.206705,34.814381,-92.206705,34.814381],
+  "bbox": [
+    -92.206705,
+    34.814381,
+    -92.206705,
+    34.814381
+],
   "geometry": {"coordinates":[-92.206705,34.814381],"type":"Point"}
 }

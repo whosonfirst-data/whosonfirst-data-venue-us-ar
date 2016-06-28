@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102315569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.133778,33.931371,-94.133778,33.931371",
     "geom:latitude":33.931371,
     "geom:longitude":-94.133778,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"580 State Hwy 317",
     "sg:city":"Lockesburg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102315569,
-    "wof:lastmodified":1449070079,
+    "wof:lastmodified":1466323403,
     "wof:name":"S & S Gear Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.133778,33.931371,-94.133778,33.931371],
-  "geometry": {"coordinates":[-94.133778,33.931371],"type":"Point"}
+  "bbox": [
+    -94.133778,
+    33.931371,
+    -94.133778,
+    33.931371
+],
+  "geometry": {"coordinates":[-94.13377800000001,33.931371],"type":"Point"}
 }

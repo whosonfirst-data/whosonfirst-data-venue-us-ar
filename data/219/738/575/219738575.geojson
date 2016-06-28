@@ -2,13 +2,14 @@
   "id": 219738575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.095908,36.331581,-92.095908,36.331581",
     "geom:latitude":36.331581,
     "geom:longitude":-92.095908,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4506 Elizabeth Rd",
     "sg:city":"Elizabeth",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":219738575,
-    "wof:lastmodified":1449072985,
+    "wof:lastmodified":1466324899,
     "wof:name":"USPS - United States Post Office - Elizabeth Main Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "shipping"
     ]
 },
-  "bbox": [-92.095908,36.331581,-92.095908,36.331581],
-  "geometry": {"coordinates":[-92.095908,36.331581],"type":"Point"}
+  "bbox": [
+    -92.095908,
+    36.331581,
+    -92.095908,
+    36.331581
+],
+  "geometry": {"coordinates":[-92.09590799999999,36.331581],"type":"Point"}
 }

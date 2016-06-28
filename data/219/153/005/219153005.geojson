@@ -2,13 +2,14 @@
   "id": 219153005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.796677,33.225773,-91.796677,33.225773",
     "geom:latitude":33.225773,
     "geom:longitude":-91.796677,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 N Mulberry St",
     "sg:city":"Hamburg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219153005,
-    "wof:lastmodified":1449072819,
+    "wof:lastmodified":1466320411,
     "wof:name":"La Azteca",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.796677,33.225773,-91.796677,33.225773],
+  "bbox": [
+    -91.796677,
+    33.225773,
+    -91.796677,
+    33.225773
+],
   "geometry": {"coordinates":[-91.796677,33.225773],"type":"Point"}
 }

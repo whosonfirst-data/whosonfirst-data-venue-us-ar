@@ -2,13 +2,14 @@
   "id": 219970667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.069293,36.419526,-94.069293,36.419526",
     "geom:latitude":36.419526,
     "geom:longitude":-94.069293,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14058 Sugar Creek Rd",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219970667,
-    "wof:lastmodified":1449073852,
+    "wof:lastmodified":1466325281,
     "wof:name":"Whitlow's Auto Body",
     "wof:parent_id":85895835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "repairing"
     ]
 },
-  "bbox": [-94.069293,36.419526,-94.069293,36.419526],
+  "bbox": [
+    -94.069293,
+    36.419526,
+    -94.069293,
+    36.419526
+],
   "geometry": {"coordinates":[-94.069293,36.419526],"type":"Point"}
 }

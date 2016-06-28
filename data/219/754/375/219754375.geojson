@@ -2,13 +2,14 @@
   "id": 219754375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.106003,36.232033,-93.106003,36.232033",
     "geom:latitude":36.232033,
     "geom:longitude":-93.106003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 E Ridge Ave",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":219754375,
-    "wof:lastmodified":1449072694,
+    "wof:lastmodified":1466324986,
     "wof:name":"Comunity First Bank Shares",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "saving"
     ]
 },
-  "bbox": [-93.106003,36.232033,-93.106003,36.232033],
+  "bbox": [
+    -93.106003,
+    36.232033,
+    -93.106003,
+    36.232033
+],
   "geometry": {"coordinates":[-93.106003,36.232033],"type":"Point"}
 }

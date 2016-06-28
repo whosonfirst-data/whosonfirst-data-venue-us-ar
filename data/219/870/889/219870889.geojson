@@ -2,13 +2,14 @@
   "id": 219870889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.215829,36.424302,-94.215829,36.424302",
     "geom:latitude":36.424302,
     "geom:longitude":-94.215829,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8579 W Ford Springs Rd",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219870889,
-    "wof:lastmodified":1449071324,
+    "wof:lastmodified":1466325146,
     "wof:name":"Ambassadors For Christ Academy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "private"
     ]
 },
-  "bbox": [-94.215829,36.424302,-94.215829,36.424302],
+  "bbox": [
+    -94.215829,
+    36.424302,
+    -94.215829,
+    36.424302
+],
   "geometry": {"coordinates":[-94.215829,36.424302],"type":"Point"}
 }

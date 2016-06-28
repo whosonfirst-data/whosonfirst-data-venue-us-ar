@@ -2,13 +2,14 @@
   "id": 219480827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.216744,35.703528,-91.216744,35.703528",
     "geom:latitude":35.703528,
     "geom:longitude":-91.216744,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4803 Highway 67 N",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":219480827,
-    "wof:lastmodified":1449071543,
+    "wof:lastmodified":1466323681,
     "wof:name":"Allen Manufacturing Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "equipment"
     ]
 },
-  "bbox": [-91.216744,35.703528,-91.216744,35.703528],
-  "geometry": {"coordinates":[-91.216744,35.703528],"type":"Point"}
+  "bbox": [
+    -91.216744,
+    35.703528,
+    -91.216744,
+    35.703528
+],
+  "geometry": {"coordinates":[-91.21674400000001,35.703528],"type":"Point"}
 }

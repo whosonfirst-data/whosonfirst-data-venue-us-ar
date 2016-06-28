@@ -2,13 +2,14 @@
   "id": 219434033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.679606,34.425863,-91.679606,34.425863",
     "geom:latitude":34.425863,
     "geom:longitude":-91.679606,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"43 Roebuck Ln",
     "sg:city":"Humphrey",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219434033,
-    "wof:lastmodified":1449071162,
+    "wof:lastmodified":1466323131,
     "wof:name":"Touch Therapy For You",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "treatment"
     ]
 },
-  "bbox": [-91.679606,34.425863,-91.679606,34.425863],
-  "geometry": {"coordinates":[-91.679606,34.425863],"type":"Point"}
+  "bbox": [
+    -91.679606,
+    34.425863,
+    -91.679606,
+    34.425863
+],
+  "geometry": {"coordinates":[-91.67960600000001,34.425863],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219193405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.021238,33.530577,-93.021238,33.530577",
     "geom:latitude":33.530577,
     "geom:longitude":-93.021238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1345 Ouachita 4",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219193405,
-    "wof:lastmodified":1449070958,
+    "wof:lastmodified":1466320804,
     "wof:name":"Brookshire's Tasty Bakery",
     "wof:parent_id":85813169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "wedding"
     ]
 },
-  "bbox": [-93.021238,33.530577,-93.021238,33.530577],
+  "bbox": [
+    -93.021238,
+    33.530577,
+    -93.021238,
+    33.530577
+],
   "geometry": {"coordinates":[-93.021238,33.530577],"type":"Point"}
 }

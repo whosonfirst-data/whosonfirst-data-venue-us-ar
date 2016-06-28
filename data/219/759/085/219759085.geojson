@@ -2,13 +2,14 @@
   "id": 219759085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.107713,36.299831,-93.107713,36.299831",
     "geom:latitude":36.299831,
     "geom:longitude":-93.107713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4591 Merrit Ct",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":219759085,
-    "wof:lastmodified":1449073977,
+    "wof:lastmodified":1466324916,
     "wof:name":"Creamer Woodwork",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "supply"
     ]
 },
-  "bbox": [-93.107713,36.299831,-93.107713,36.299831],
+  "bbox": [
+    -93.107713,
+    36.299831,
+    -93.107713,
+    36.299831
+],
   "geometry": {"coordinates":[-93.107713,36.299831],"type":"Point"}
 }

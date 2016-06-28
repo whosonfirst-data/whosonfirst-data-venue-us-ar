@@ -2,13 +2,14 @@
   "id": 219409689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.434937,35.077104,-92.434937,35.077104",
     "geom:latitude":35.077104,
     "geom:longitude":-92.434937,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 Robins St",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219409689,
-    "wof:lastmodified":1449071840,
+    "wof:lastmodified":1466322931,
     "wof:name":"Valley Plating Works Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "plating"
     ]
 },
-  "bbox": [-92.434937,35.077104,-92.434937,35.077104],
-  "geometry": {"coordinates":[-92.434937,35.077104],"type":"Point"}
+  "bbox": [
+    -92.434937,
+    35.077104,
+    -92.434937,
+    35.077104
+],
+  "geometry": {"coordinates":[-92.43493700000001,35.077104],"type":"Point"}
 }

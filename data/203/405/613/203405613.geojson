@@ -2,13 +2,14 @@
   "id": 203405613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.921871,33.169943,-91.921871,33.169943",
     "geom:latitude":33.169943,
     "geom:longitude":-91.921871,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1453 Highway 52 W",
     "sg:city":"Crossett",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203405613,
-    "wof:lastmodified":1449026699,
+    "wof:lastmodified":1466320522,
     "wof:name":"Jones Wrecker Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "bureau"
     ]
 },
-  "bbox": [-91.921871,33.169943,-91.921871,33.169943],
+  "bbox": [
+    -91.921871,
+    33.169943,
+    -91.921871,
+    33.169943
+],
   "geometry": {"coordinates":[-91.921871,33.169943],"type":"Point"}
 }

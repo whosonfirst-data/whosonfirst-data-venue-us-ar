@@ -2,13 +2,14 @@
   "id": 219612589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.257561,35.37418,-90.257561,35.37418",
     "geom:latitude":35.37418,
     "geom:longitude":-90.257561,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"237 Barton St",
     "sg:city":"Turrell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219612589,
-    "wof:lastmodified":1449071952,
+    "wof:lastmodified":1466324599,
     "wof:name":"Post Offices",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "heading"
     ]
 },
-  "bbox": [-90.257561,35.37418,-90.257561,35.37418],
+  "bbox": [
+    -90.257561,
+    35.37418,
+    -90.257561,
+    35.37418
+],
   "geometry": {"coordinates":[-90.257561,35.37418],"type":"Point"}
 }

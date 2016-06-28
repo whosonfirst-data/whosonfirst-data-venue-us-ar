@@ -2,13 +2,14 @@
   "id": 219681237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.479196,36.1337,-90.479196,36.1337",
     "geom:latitude":36.1337,
     "geom:longitude":-90.479196,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"922 Greene Road 517",
     "sg:city":"Paragould",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":219681237,
-    "wof:lastmodified":1449072552,
+    "wof:lastmodified":1466324625,
     "wof:name":"Ellington's Banquet Hall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "store"
     ]
 },
-  "bbox": [-90.479196,36.1337,-90.479196,36.1337],
+  "bbox": [
+    -90.479196,
+    36.1337,
+    -90.479196,
+    36.1337
+],
   "geometry": {"coordinates":[-90.479196,36.1337],"type":"Point"}
 }

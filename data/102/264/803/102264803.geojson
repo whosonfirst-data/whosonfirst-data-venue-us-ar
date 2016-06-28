@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102264803",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.206563,36.351787,-94.206563,36.351787",
     "geom:latitude":36.351787,
     "geom:longitude":-94.206563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 SE 18th St",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895825,
+        85688549,
         85633793,
         85921509,
         102083255,
-        85688549
+        85895825
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102264803",
-    "wof:lastmodified":1449069339,
+    "wof:lastmodified":1466322295,
     "wof:name":"Lisa Frank Inc",
     "wof:parent_id":85895825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.206563,36.351787,-94.206563,36.351787],
+  "bbox": [
+    -94.206563,
+    36.351787,
+    -94.206563,
+    36.351787
+],
   "geometry": {"coordinates":[-94.206563,36.351787],"type":"Point"}
 }

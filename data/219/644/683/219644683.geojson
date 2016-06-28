@@ -2,13 +2,14 @@
   "id": 219644683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.714088,35.778648,-90.714088,35.778648",
     "geom:latitude":35.778648,
     "geom:longitude":-90.714088,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5106 S Culberhouse Rd",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219644683,
-    "wof:lastmodified":1449072395,
+    "wof:lastmodified":1466324686,
     "wof:name":"J.R. Holland Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "contractor"
     ]
 },
-  "bbox": [-90.714088,35.778648,-90.714088,35.778648],
+  "bbox": [
+    -90.714088,
+    35.778648,
+    -90.714088,
+    35.778648
+],
   "geometry": {"coordinates":[-90.714088,35.778648],"type":"Point"}
 }

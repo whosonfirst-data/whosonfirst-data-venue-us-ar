@@ -2,13 +2,14 @@
   "id": 219946553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.034144,36.24902,-94.034144,36.24902",
     "geom:latitude":36.24902,
     "geom:longitude":-94.034144,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14711 E Highway 264",
     "sg:city":"Lowell",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219946553,
-    "wof:lastmodified":1449073493,
+    "wof:lastmodified":1466325234,
     "wof:name":"Arkansas Custom Metal Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "railing"
     ]
 },
-  "bbox": [-94.034144,36.24902,-94.034144,36.24902],
+  "bbox": [
+    -94.034144,
+    36.24902,
+    -94.034144,
+    36.24902
+],
   "geometry": {"coordinates":[-94.034144,36.24902],"type":"Point"}
 }

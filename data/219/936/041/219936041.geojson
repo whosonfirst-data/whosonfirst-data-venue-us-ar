@@ -2,13 +2,14 @@
   "id": 219936041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.413102,35.935216,-94.413102,35.935216",
     "geom:latitude":35.935216,
     "geom:longitude":-94.413102,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12880 Lincoln Canehill Rd",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219936041,
-    "wof:lastmodified":1449071571,
+    "wof:lastmodified":1466325068,
     "wof:name":"Ladonna & Nannas Playhouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "day"
     ]
 },
-  "bbox": [-94.413102,35.935216,-94.413102,35.935216],
-  "geometry": {"coordinates":[-94.413102,35.935216],"type":"Point"}
+  "bbox": [
+    -94.413102,
+    35.935216,
+    -94.413102,
+    35.935216
+],
+  "geometry": {"coordinates":[-94.41310199999999,35.935216],"type":"Point"}
 }

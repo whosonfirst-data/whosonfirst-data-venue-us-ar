@@ -2,13 +2,14 @@
   "id": 219951895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.060108,36.369278,-94.060108,36.369278",
     "geom:latitude":36.369278,
     "geom:longitude":-94.060108,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10495 Hickory Hills Dr",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219951895,
-    "wof:lastmodified":1449070528,
+    "wof:lastmodified":1466325104,
     "wof:name":"Rex D Waggoner Pa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeons"
     ]
 },
-  "bbox": [-94.060108,36.369278,-94.060108,36.369278],
+  "bbox": [
+    -94.060108,
+    36.369278,
+    -94.060108,
+    36.369278
+],
   "geometry": {"coordinates":[-94.060108,36.369278],"type":"Point"}
 }

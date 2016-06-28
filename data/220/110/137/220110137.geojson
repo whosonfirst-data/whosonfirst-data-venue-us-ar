@@ -2,13 +2,14 @@
   "id": 220110137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.255734,35.212887,-94.255734,35.212887",
     "geom:latitude":35.212887,
     "geom:longitude":-94.255734,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Town Sq",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220110137,
-    "wof:lastmodified":1449074284,
+    "wof:lastmodified":1466322386,
     "wof:name":"Scatco",
     "wof:parent_id":85832863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-94.255734,35.212887,-94.255734,35.212887],
+  "bbox": [
+    -94.255734,
+    35.212887,
+    -94.255734,
+    35.212887
+],
   "geometry": {"coordinates":[-94.255734,35.212887],"type":"Point"}
 }

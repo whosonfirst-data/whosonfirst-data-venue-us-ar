@@ -2,13 +2,14 @@
   "id": 220059415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.111506,36.190996,-94.111506,36.190996",
     "geom:latitude":36.190996,
     "geom:longitude":-94.111506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"821 N Gray Ave",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":220059415,
-    "wof:lastmodified":1449074237,
+    "wof:lastmodified":1466320980,
     "wof:name":"Gray Brothers Bag, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "bags-specialty"
     ]
 },
-  "bbox": [-94.111506,36.190996,-94.111506,36.190996],
-  "geometry": {"coordinates":[-94.111506,36.190996],"type":"Point"}
+  "bbox": [
+    -94.111506,
+    36.190996,
+    -94.111506,
+    36.190996
+],
+  "geometry": {"coordinates":[-94.11150600000001,36.190996],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102385555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.089335,34.495308,-93.089335,34.495308",
     "geom:latitude":34.495308,
     "geom:longitude":-93.089335,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 N Mission St",
     "sg:city":"Hot Springs National Park",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102385555,
-    "wof:lastmodified":1449069176,
+    "wof:lastmodified":1466323237,
     "wof:name":"Gvmb Enterprises Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.089335,34.495308,-93.089335,34.495308],
-  "geometry": {"coordinates":[-93.089335,34.495308],"type":"Point"}
+  "bbox": [
+    -93.089335,
+    34.495308,
+    -93.089335,
+    34.495308
+],
+  "geometry": {"coordinates":[-93.08933500000001,34.495308],"type":"Point"}
 }

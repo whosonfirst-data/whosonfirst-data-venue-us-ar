@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102388089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.364606,34.817774,-92.364606,34.817774",
     "geom:latitude":34.817774,
     "geom:longitude":-92.364606,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9756 Maumelle Blvd",
     "sg:city":"Maumelle",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878759,
+        85688549,
         85633793,
         85921255,
         102082497,
-        85688549
+        85878759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":102388089,
-    "wof:lastmodified":1449067868,
+    "wof:lastmodified":1466323756,
     "wof:name":"Ortho Instruments LLC",
     "wof:parent_id":85878759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.364606,34.817774,-92.364606,34.817774],
-  "geometry": {"coordinates":[-92.364606,34.817774],"type":"Point"}
+  "bbox": [
+    -92.364606,
+    34.817774,
+    -92.364606,
+    34.817774
+],
+  "geometry": {"coordinates":[-92.36460599999999,34.817774],"type":"Point"}
 }

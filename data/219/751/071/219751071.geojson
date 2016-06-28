@@ -2,13 +2,14 @@
   "id": 219751071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.858732,36.320833,-91.858732,36.320833",
     "geom:latitude":36.320833,
     "geom:longitude":-91.858732,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3493 Highway 9 S",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219751071,
-    "wof:lastmodified":1449070579,
+    "wof:lastmodified":1466324908,
     "wof:name":"Image Auto Body",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "repairing"
     ]
 },
-  "bbox": [-91.858732,36.320833,-91.858732,36.320833],
+  "bbox": [
+    -91.858732,
+    36.320833,
+    -91.858732,
+    36.320833
+],
   "geometry": {"coordinates":[-91.858732,36.320833],"type":"Point"}
 }

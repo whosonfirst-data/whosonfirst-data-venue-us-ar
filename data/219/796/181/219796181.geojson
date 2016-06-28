@@ -2,13 +2,14 @@
   "id": 219796181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.489472,36.284298,-92.489472,36.284298",
     "geom:latitude":36.284298,
     "geom:longitude":-92.489472,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"413 E Main St",
     "sg:city":"Gassville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219796181,
-    "wof:lastmodified":1449072060,
+    "wof:lastmodified":1466324950,
     "wof:name":"Letty's Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.489472,36.284298,-92.489472,36.284298],
-  "geometry": {"coordinates":[-92.489472,36.284298],"type":"Point"}
+  "bbox": [
+    -92.489472,
+    36.284298,
+    -92.489472,
+    36.284298
+],
+  "geometry": {"coordinates":[-92.48947200000001,36.284298],"type":"Point"}
 }

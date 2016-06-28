@@ -2,13 +2,14 @@
   "id": 219716851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.356608,36.328941,-90.356608,36.328941",
     "geom:latitude":36.328941,
     "geom:longitude":-90.356608,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 County Road 437",
     "sg:city":"Rector",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219716851,
-    "wof:lastmodified":1449070896,
+    "wof:lastmodified":1466324825,
     "wof:name":"Hartsfield Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-90.356608,36.328941,-90.356608,36.328941],
-  "geometry": {"coordinates":[-90.356608,36.328941],"type":"Point"}
+  "bbox": [
+    -90.356608,
+    36.328941,
+    -90.356608,
+    36.328941
+],
+  "geometry": {"coordinates":[-90.35660799999999,36.328941],"type":"Point"}
 }

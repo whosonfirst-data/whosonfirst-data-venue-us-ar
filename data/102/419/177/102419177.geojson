@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102419177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.677726,35.483772,-91.677726,35.483772",
     "geom:latitude":35.483772,
     "geom:longitude":-91.677726,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4789 State Hwy 157",
     "sg:city":"Judsonia",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102419177,
-    "wof:lastmodified":1449070172,
+    "wof:lastmodified":1466325286,
     "wof:name":"S&S Hillside Farms LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.677726,35.483772,-91.677726,35.483772],
-  "geometry": {"coordinates":[-91.677726,35.483772],"type":"Point"}
+  "bbox": [
+    -91.677726,
+    35.483772,
+    -91.677726,
+    35.483772
+],
+  "geometry": {"coordinates":[-91.67772600000001,35.483772],"type":"Point"}
 }

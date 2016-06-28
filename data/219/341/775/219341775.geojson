@@ -2,13 +2,14 @@
   "id": 219341775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.538994,34.508572,-92.538994,34.508572",
     "geom:latitude":34.508572,
     "geom:longitude":-92.538994,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6921 Highway 35",
     "sg:city":"Benton",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":219341775,
-    "wof:lastmodified":1449073760,
+    "wof:lastmodified":1466322124,
     "wof:name":"Wholesale Motors",
     "wof:parent_id":85844395,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "new"
     ]
 },
-  "bbox": [-92.538994,34.508572,-92.538994,34.508572],
+  "bbox": [
+    -92.538994,
+    34.508572,
+    -92.538994,
+    34.508572
+],
   "geometry": {"coordinates":[-92.538994,34.508572],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219502645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.187586,34.445268,-92.187586,34.445268",
     "geom:latitude":34.445268,
     "geom:longitude":-92.187586,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 Davis Avenue",
     "sg:city":"Redfield",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":219502645,
-    "wof:lastmodified":1449072012,
+    "wof:lastmodified":1466323964,
     "wof:name":"Redfield Missionary Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "churches-baptist"
     ]
 },
-  "bbox": [-92.187586,34.445268,-92.187586,34.445268],
+  "bbox": [
+    -92.187586,
+    34.445268,
+    -92.187586,
+    34.445268
+],
   "geometry": {"coordinates":[-92.187586,34.445268],"type":"Point"}
 }

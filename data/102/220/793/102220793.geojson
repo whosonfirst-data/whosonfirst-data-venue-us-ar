@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102220793",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.24209,34.812129,-92.24209,34.812129",
     "geom:latitude":34.812129,
     "geom:longitude":-92.24209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6109 Navajo Trl",
     "sg:city":"North Little Rock",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851793,
+        85688549,
         85633793,
         85921255,
         102082497,
-        85688549
+        85851793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102220793",
-    "wof:lastmodified":1449070129,
+    "wof:lastmodified":1466321242,
     "wof:name":"After Hours Computing",
     "wof:parent_id":85851793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.24209,34.812129,-92.24209,34.812129],
+  "bbox": [
+    -92.24209,
+    34.812129,
+    -92.24209,
+    34.812129
+],
   "geometry": {"coordinates":[-92.24209,34.812129],"type":"Point"}
 }

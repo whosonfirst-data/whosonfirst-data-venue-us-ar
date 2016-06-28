@@ -2,13 +2,14 @@
   "id": 219759771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.108634,36.229851,-93.108634,36.229851",
     "geom:latitude":36.229851,
     "geom:longitude":-93.108634,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 N Willow St",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219759771,
-    "wof:lastmodified":1449073977,
+    "wof:lastmodified":1466324917,
     "wof:name":"Shipman's Jewelry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "jeweler"
     ]
 },
-  "bbox": [-93.108634,36.229851,-93.108634,36.229851],
+  "bbox": [
+    -93.108634,
+    36.229851,
+    -93.108634,
+    36.229851
+],
   "geometry": {"coordinates":[-93.108634,36.229851],"type":"Point"}
 }

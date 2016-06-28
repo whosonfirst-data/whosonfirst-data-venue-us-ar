@@ -2,13 +2,14 @@
   "id": 219432869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.129082,35.549165,-92.129082,35.549165",
     "geom:latitude":35.549165,
     "geom:longitude":-92.129082,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1380 Fox Chase Dr",
     "sg:city":"Higden",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219432869,
-    "wof:lastmodified":1449070322,
+    "wof:lastmodified":1466323121,
     "wof:name":"J J Construction Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-92.129082,35.549165,-92.129082,35.549165],
+  "bbox": [
+    -92.129082,
+    35.549165,
+    -92.129082,
+    35.549165
+],
   "geometry": {"coordinates":[-92.129082,35.549165],"type":"Point"}
 }

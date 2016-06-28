@@ -2,13 +2,14 @@
   "id": 219490599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.231575,34.84177,-92.231575,34.84177",
     "geom:latitude":34.84177,
     "geom:longitude":-92.231575,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9511 Highway 107",
     "sg:city":"Sherwood",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219490599,
-    "wof:lastmodified":1449073563,
+    "wof:lastmodified":1466323855,
     "wof:name":"Arkansas Garden & Landscape Co",
     "wof:parent_id":85851723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "nurseries-plants"
     ]
 },
-  "bbox": [-92.231575,34.84177,-92.231575,34.84177],
-  "geometry": {"coordinates":[-92.231575,34.84177],"type":"Point"}
+  "bbox": [
+    -92.231575,
+    34.84177,
+    -92.231575,
+    34.84177
+],
+  "geometry": {"coordinates":[-92.23157500000001,34.84177],"type":"Point"}
 }

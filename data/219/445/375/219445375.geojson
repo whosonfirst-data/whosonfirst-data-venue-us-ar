@@ -2,13 +2,14 @@
   "id": 219445375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.660876,35.284976,-91.660876,35.284976",
     "geom:latitude":35.284976,
     "geom:longitude":-91.660876,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Cedar Crest Rd",
     "sg:city":"Judsonia",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219445375,
-    "wof:lastmodified":1449070866,
+    "wof:lastmodified":1466323310,
     "wof:name":"Michael Westerhof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-91.660876,35.284976,-91.660876,35.284976],
+  "bbox": [
+    -91.660876,
+    35.284976,
+    -91.660876,
+    35.284976
+],
   "geometry": {"coordinates":[-91.660876,35.284976],"type":"Point"}
 }

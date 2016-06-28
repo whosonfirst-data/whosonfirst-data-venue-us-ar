@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102230665",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.78602,35.010999,-90.78602,35.010999",
     "geom:latitude":35.010999,
     "geom:longitude":-90.78602,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 W Garland Ave",
     "sg:city":"Forrest City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102230665",
-    "wof:lastmodified":1449069583,
+    "wof:lastmodified":1466321466,
     "wof:name":"Forrest City Fire Department",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.78602,35.010999,-90.78602,35.010999],
-  "geometry": {"coordinates":[-90.78602,35.010999],"type":"Point"}
+  "bbox": [
+    -90.78602,
+    35.010999,
+    -90.78602,
+    35.010999
+],
+  "geometry": {"coordinates":[-90.78601999999999,35.010999],"type":"Point"}
 }

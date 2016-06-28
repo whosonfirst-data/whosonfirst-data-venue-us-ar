@@ -2,13 +2,14 @@
   "id": 219933533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.578268,36.045769,-93.578268,36.045769",
     "geom:latitude":36.045769,
     "geom:longitude":-93.578268,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2148 Madison 2750",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219933533,
-    "wof:lastmodified":1449071116,
+    "wof:lastmodified":1466325220,
     "wof:name":"Van Campen Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "ranch"
     ]
 },
-  "bbox": [-93.578268,36.045769,-93.578268,36.045769],
-  "geometry": {"coordinates":[-93.578268,36.045769],"type":"Point"}
+  "bbox": [
+    -93.578268,
+    36.045769,
+    -93.578268,
+    36.045769
+],
+  "geometry": {"coordinates":[-93.57826799999999,36.045769],"type":"Point"}
 }

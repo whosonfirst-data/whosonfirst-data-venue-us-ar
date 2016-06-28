@@ -2,13 +2,14 @@
   "id": 219798795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.191672,36.006389,-93.191672,36.006389",
     "geom:latitude":36.006389,
     "geom:longitude":-93.191672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"609 W Court St",
     "sg:city":"Jasper",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":219798795,
-    "wof:lastmodified":1449071054,
+    "wof:lastmodified":1466324949,
     "wof:name":"Riverbend Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "listing"
     ]
 },
-  "bbox": [-93.191672,36.006389,-93.191672,36.006389],
+  "bbox": [
+    -93.191672,
+    36.006389,
+    -93.191672,
+    36.006389
+],
   "geometry": {"coordinates":[-93.191672,36.006389],"type":"Point"}
 }

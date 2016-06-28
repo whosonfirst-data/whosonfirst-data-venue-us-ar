@@ -2,13 +2,14 @@
   "id": 203414381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.479347,33.879429,-91.479347,33.879429",
     "geom:latitude":33.879429,
     "geom:longitude":-91.479347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Belmont St",
     "sg:city":"Dumas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203414381,
-    "wof:lastmodified":1449025802,
+    "wof:lastmodified":1466320551,
     "wof:name":"Benny M Estes Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "business"
     ]
 },
-  "bbox": [-91.479347,33.879429,-91.479347,33.879429],
+  "bbox": [
+    -91.479347,
+    33.879429,
+    -91.479347,
+    33.879429
+],
   "geometry": {"coordinates":[-91.479347,33.879429],"type":"Point"}
 }

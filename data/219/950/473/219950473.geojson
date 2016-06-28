@@ -2,13 +2,14 @@
   "id": 219950473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.106989,36.364591,-94.106989,36.364591",
     "geom:latitude":36.364591,
     "geom:longitude":-94.106989,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 S Airport Dr",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219950473,
-    "wof:lastmodified":1449071762,
+    "wof:lastmodified":1466325240,
     "wof:name":"Pinnacle Air Hangar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "aircraft"
     ]
 },
-  "bbox": [-94.106989,36.364591,-94.106989,36.364591],
+  "bbox": [
+    -94.106989,
+    36.364591,
+    -94.106989,
+    36.364591
+],
   "geometry": {"coordinates":[-94.106989,36.364591],"type":"Point"}
 }

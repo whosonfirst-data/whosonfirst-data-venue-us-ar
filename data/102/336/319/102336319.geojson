@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102336319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.1903,36.31075,-94.1903,36.31075",
     "geom:latitude":36.31075,
     "geom:longitude":-94.1903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5430 Walsh Dr",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895857,
+        85688549,
         85633793,
         85921535,
         102083255,
-        85688549
+        85895857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102336319,
-    "wof:lastmodified":1449067722,
+    "wof:lastmodified":1466323779,
     "wof:name":"CDI Contractors",
     "wof:parent_id":85895857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.1903,36.31075,-94.1903,36.31075],
-  "geometry": {"coordinates":[-94.1903,36.31075],"type":"Point"}
+  "bbox": [
+    -94.1903,
+    36.31075,
+    -94.1903,
+    36.31075
+],
+  "geometry": {"coordinates":[-94.19029999999999,36.31075],"type":"Point"}
 }

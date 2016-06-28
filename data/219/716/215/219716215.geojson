@@ -2,13 +2,14 @@
   "id": 219716215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.13851,36.063214,-91.13851,36.063214",
     "geom:latitude":36.063214,
     "geom:longitude":-91.13851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3712 Highway 25",
     "sg:city":"Powhatan",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219716215,
-    "wof:lastmodified":1449070896,
+    "wof:lastmodified":1466324820,
     "wof:name":"Vizions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.13851,36.063214,-91.13851,36.063214],
+  "bbox": [
+    -91.13851,
+    36.063214,
+    -91.13851,
+    36.063214
+],
   "geometry": {"coordinates":[-91.13851,36.063214],"type":"Point"}
 }

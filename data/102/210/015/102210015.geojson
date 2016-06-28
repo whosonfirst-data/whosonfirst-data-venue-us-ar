@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102210015",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.532902,35.382549,-91.532902,35.382549",
     "geom:latitude":35.382549,
     "geom:longitude":-91.532902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"572 Strawberry Rd",
     "sg:city":"Bald Knob",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":"102210015",
-    "wof:lastmodified":1449068606,
+    "wof:lastmodified":1466320816,
     "wof:name":"Delta Fruits",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.532902,35.382549,-91.532902,35.382549],
-  "geometry": {"coordinates":[-91.532902,35.382549],"type":"Point"}
+  "bbox": [
+    -91.532902,
+    35.382549,
+    -91.532902,
+    35.382549
+],
+  "geometry": {"coordinates":[-91.53290200000001,35.382549],"type":"Point"}
 }

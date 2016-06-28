@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102333049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.105896,34.47976,-93.105896,34.47976",
     "geom:latitude":34.47976,
     "geom:longitude":-93.105896,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"913 Airport Rd",
     "sg:city":"Hot Springs",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102333049,
-    "wof:lastmodified":1449070015,
+    "wof:lastmodified":1466323643,
     "wof:name":"Airport Mini-Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.105896,34.47976,-93.105896,34.47976],
+  "bbox": [
+    -93.105896,
+    34.47976,
+    -93.105896,
+    34.47976
+],
   "geometry": {"coordinates":[-93.105896,34.47976],"type":"Point"}
 }

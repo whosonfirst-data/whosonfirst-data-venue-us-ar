@@ -2,13 +2,14 @@
   "id": 219714141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.908855,36.339756,-90.908855,36.339756",
     "geom:latitude":36.339756,
     "geom:longitude":-90.908855,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4584 Engelberg Rd",
     "sg:city":"Pocahontas",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219714141,
-    "wof:lastmodified":1449072121,
+    "wof:lastmodified":1466324944,
     "wof:name":"St Johns Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-90.908855,36.339756,-90.908855,36.339756],
+  "bbox": [
+    -90.908855,
+    36.339756,
+    -90.908855,
+    36.339756
+],
   "geometry": {"coordinates":[-90.908855,36.339756],"type":"Point"}
 }

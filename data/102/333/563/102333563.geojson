@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102333563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.26898,34.739763,-92.26898,34.739763",
     "geom:latitude":34.739763,
     "geom:longitude":-92.26898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"311 E 9th St",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878749,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85878749
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102333563,
-    "wof:lastmodified":1449070014,
+    "wof:lastmodified":1466323750,
     "wof:name":"Poll Position Magazine",
     "wof:parent_id":85878749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.26898,34.739763,-92.26898,34.739763],
+  "bbox": [
+    -92.26898,
+    34.739763,
+    -92.26898,
+    34.739763
+],
   "geometry": {"coordinates":[-92.26898,34.739763],"type":"Point"}
 }

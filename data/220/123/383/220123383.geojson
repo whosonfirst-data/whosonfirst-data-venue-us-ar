@@ -2,13 +2,14 @@
   "id": 220123383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.825358,35.540486,-93.825358,35.540486",
     "geom:latitude":35.540486,
     "geom:longitude":-93.825358,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2126 Highway 352",
     "sg:city":"Ozark",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":220123383,
-    "wof:lastmodified":1449074255,
+    "wof:lastmodified":1466322656,
     "wof:name":"J&J Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cars-wholesale"
     ]
 },
-  "bbox": [-93.825358,35.540486,-93.825358,35.540486],
-  "geometry": {"coordinates":[-93.825358,35.540486],"type":"Point"}
+  "bbox": [
+    -93.825358,
+    35.540486,
+    -93.825358,
+    35.540486
+],
+  "geometry": {"coordinates":[-93.82535799999999,35.540486],"type":"Point"}
 }

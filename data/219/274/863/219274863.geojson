@@ -2,13 +2,14 @@
   "id": 219274863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.376617,33.803809,-93.376617,33.803809",
     "geom:latitude":33.803809,
     "geom:longitude":-93.376617,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"327 E 2nd St N",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219274863,
-    "wof:lastmodified":1449070823,
+    "wof:lastmodified":1466321524,
     "wof:name":"Dalrymple Carl Pub Accountant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "accountants-certified"
     ]
 },
-  "bbox": [-93.376617,33.803809,-93.376617,33.803809],
+  "bbox": [
+    -93.376617,
+    33.803809,
+    -93.376617,
+    33.803809
+],
   "geometry": {"coordinates":[-93.376617,33.803809],"type":"Point"}
 }

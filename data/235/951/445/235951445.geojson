@@ -2,13 +2,14 @@
   "id": 235951445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.798571,36.425362,-94.798571,36.425362",
     "geom:latitude":36.425362,
     "geom:longitude":-94.798571,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"333 N 6th St",
     "sg:city":"Jay",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":235951445,
-    "wof:lastmodified":1449008282,
+    "wof:lastmodified":1466320446,
     "wof:name":"Patterson Insurance Service Inc",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "bond"
     ]
 },
-  "bbox": [-94.798571,36.425362,-94.798571,36.425362],
+  "bbox": [
+    -94.798571,
+    36.425362,
+    -94.798571,
+    36.425362
+],
   "geometry": {"coordinates":[-94.798571,36.425362],"type":"Point"}
 }

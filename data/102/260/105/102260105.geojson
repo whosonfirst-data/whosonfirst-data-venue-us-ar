@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102260105",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.38594,34.753736,-92.38594,34.753736",
     "geom:latitude":34.753736,
     "geom:longitude":-92.38594,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10010 W Markham St",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85807173,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85807173
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102260105",
-    "wof:lastmodified":1449068208,
+    "wof:lastmodified":1466322062,
     "wof:name":"Markham Heights Animal Clinic",
     "wof:parent_id":85807173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.38594,34.753736,-92.38594,34.753736],
-  "geometry": {"coordinates":[-92.38594,34.753736],"type":"Point"}
+  "bbox": [
+    -92.38594,
+    34.753736,
+    -92.38594,
+    34.753736
+],
+  "geometry": {"coordinates":[-92.38594000000001,34.753736],"type":"Point"}
 }

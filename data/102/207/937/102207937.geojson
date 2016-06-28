@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102207937",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.339823,34.76941,-92.339823,34.76941",
     "geom:latitude":34.76941,
     "geom:longitude":-92.339823,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5920 R St",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878751,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85878751
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102207937",
-    "wof:lastmodified":1449069483,
+    "wof:lastmodified":1466320961,
     "wof:name":"Wordsworth Books & Co Inc",
     "wof:parent_id":85878751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.339823,34.76941,-92.339823,34.76941],
+  "bbox": [
+    -92.339823,
+    34.76941,
+    -92.339823,
+    34.76941
+],
   "geometry": {"coordinates":[-92.339823,34.76941],"type":"Point"}
 }

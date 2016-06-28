@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102224371",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.58683,34.564506,-92.58683,34.564506",
     "geom:latitude":34.564506,
     "geom:longitude":-92.58683,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 N Main St",
     "sg:city":"Benton",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102224371",
-    "wof:lastmodified":1449069566,
+    "wof:lastmodified":1466321251,
     "wof:name":"Colonial Cleaners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.58683,34.564506,-92.58683,34.564506],
-  "geometry": {"coordinates":[-92.58683,34.564506],"type":"Point"}
+  "bbox": [
+    -92.58683,
+    34.564506,
+    -92.58683,
+    34.564506
+],
+  "geometry": {"coordinates":[-92.58683000000001,34.564506],"type":"Point"}
 }

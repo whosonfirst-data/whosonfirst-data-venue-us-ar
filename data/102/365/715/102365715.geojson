@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102365715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.847315,33.936842,-93.847315,33.936842",
     "geom:latitude":33.936842,
     "geom:longitude":-93.847315,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"724 S Main St",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102365715,
-    "wof:lastmodified":1449068187,
+    "wof:lastmodified":1466324423,
     "wof:name":"Jerry R Herndon DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.847315,33.936842,-93.847315,33.936842],
-  "geometry": {"coordinates":[-93.847315,33.936842],"type":"Point"}
+  "bbox": [
+    -93.847315,
+    33.936842,
+    -93.847315,
+    33.936842
+],
+  "geometry": {"coordinates":[-93.84731499999999,33.936842],"type":"Point"}
 }

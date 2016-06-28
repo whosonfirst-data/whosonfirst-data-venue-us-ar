@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102368005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.492415,35.937565,-94.492415,35.937565",
     "geom:latitude":35.937565,
     "geom:longitude":-94.492415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12884 Little Rd",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102368005,
-    "wof:lastmodified":1449068348,
+    "wof:lastmodified":1466324341,
     "wof:name":"Charles Hughes Trucking LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.492415,35.937565,-94.492415,35.937565],
-  "geometry": {"coordinates":[-94.492415,35.937565],"type":"Point"}
+  "bbox": [
+    -94.492415,
+    35.937565,
+    -94.492415,
+    35.937565
+],
+  "geometry": {"coordinates":[-94.49241499999999,35.937565],"type":"Point"}
 }

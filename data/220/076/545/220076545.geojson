@@ -2,13 +2,14 @@
   "id": 220076545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.482626,35.472512,-93.482626,35.472512",
     "geom:latitude":35.472512,
     "geom:longitude":-93.482626,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1706 W Cherry St",
     "sg:city":"Clarksville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220076545,
-    "wof:lastmodified":1449074667,
+    "wof:lastmodified":1466321470,
     "wof:name":"Apex Automation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "engineer"
     ]
 },
-  "bbox": [-93.482626,35.472512,-93.482626,35.472512],
+  "bbox": [
+    -93.482626,
+    35.472512,
+    -93.482626,
+    35.472512
+],
   "geometry": {"coordinates":[-93.482626,35.472512],"type":"Point"}
 }

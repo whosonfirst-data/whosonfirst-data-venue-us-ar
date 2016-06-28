@@ -2,13 +2,14 @@
   "id": 219661855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.689109,35.635261,-90.689109,35.635261",
     "geom:latitude":35.635261,
     "geom:longitude":-90.689109,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20549 Greenfield Rd",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219661855,
-    "wof:lastmodified":1449073538,
+    "wof:lastmodified":1466324863,
     "wof:name":"C Armstrong Heat Air",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-90.689109,35.635261,-90.689109,35.635261],
+  "bbox": [
+    -90.689109,
+    35.635261,
+    -90.689109,
+    35.635261
+],
   "geometry": {"coordinates":[-90.689109,35.635261],"type":"Point"}
 }

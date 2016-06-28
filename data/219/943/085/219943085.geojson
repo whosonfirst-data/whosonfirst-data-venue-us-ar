@@ -2,13 +2,14 @@
   "id": 219943085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.137132,36.241424,-94.137132,36.241424",
     "geom:latitude":36.241424,
     "geom:longitude":-94.137132,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 Jane Pl",
     "sg:city":"Lowell",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219943085,
-    "wof:lastmodified":1449071333,
+    "wof:lastmodified":1466325177,
     "wof:name":"Pro Fab",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "millwright"
     ]
 },
-  "bbox": [-94.137132,36.241424,-94.137132,36.241424],
-  "geometry": {"coordinates":[-94.137132,36.241424],"type":"Point"}
+  "bbox": [
+    -94.137132,
+    36.241424,
+    -94.137132,
+    36.241424
+],
+  "geometry": {"coordinates":[-94.13713199999999,36.241424],"type":"Point"}
 }

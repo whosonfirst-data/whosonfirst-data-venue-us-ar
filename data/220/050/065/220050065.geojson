@@ -2,13 +2,14 @@
   "id": 220050065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.138199,36.191502,-94.138199,36.191502",
     "geom:latitude":36.191502,
     "geom:longitude":-94.138199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"812 N Thompson St",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -70,10 +71,11 @@
         }
     ],
     "wof:id":220050065,
-    "wof:lastmodified":1449074497,
+    "wof:lastmodified":1466324461,
     "wof:name":"Heil Beauty Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -84,6 +86,11 @@
         "supply"
     ]
 },
-  "bbox": [-94.138199,36.191502,-94.138199,36.191502],
+  "bbox": [
+    -94.138199,
+    36.191502,
+    -94.138199,
+    36.191502
+],
   "geometry": {"coordinates":[-94.138199,36.191502],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219637857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.672936,35.828387,-90.672936,35.828387",
     "geom:latitude":35.828387,
     "geom:longitude":-90.672936,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2621 E Nettleton Ave",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -71,10 +72,11 @@
         }
     ],
     "wof:id":219637857,
-    "wof:lastmodified":1449070382,
+    "wof:lastmodified":1466324644,
     "wof:name":"Allstate Insurance Company - Pete Harmon",
     "wof:parent_id":85836541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -86,6 +88,11 @@
         "renter"
     ]
 },
-  "bbox": [-90.672936,35.828387,-90.672936,35.828387],
-  "geometry": {"coordinates":[-90.672936,35.828387],"type":"Point"}
+  "bbox": [
+    -90.672936,
+    35.828387,
+    -90.672936,
+    35.828387
+],
+  "geometry": {"coordinates":[-90.67293600000001,35.828387],"type":"Point"}
 }

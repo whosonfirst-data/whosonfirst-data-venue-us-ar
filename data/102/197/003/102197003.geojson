@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102197003",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.780909,35.013533,-90.780909,35.013533",
     "geom:latitude":35.013533,
     "geom:longitude":-90.780909,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"815 Dillard Ave",
     "sg:city":"Forrest City",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102197003",
-    "wof:lastmodified":1449069878,
+    "wof:lastmodified":1466320552,
     "wof:name":"Eric R Britzke",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.780909,35.013533,-90.780909,35.013533],
-  "geometry": {"coordinates":[-90.780909,35.013533],"type":"Point"}
+  "bbox": [
+    -90.780909,
+    35.013533,
+    -90.780909,
+    35.013533
+],
+  "geometry": {"coordinates":[-90.78090899999999,35.013533],"type":"Point"}
 }

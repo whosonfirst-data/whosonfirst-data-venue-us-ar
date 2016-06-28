@@ -2,13 +2,14 @@
   "id": 219224033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.573815,33.632501,-93.573815,33.632501",
     "geom:latitude":33.632501,
     "geom:longitude":-93.573815,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1409 Fairway Dr",
     "sg:city":"Hope",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219224033,
-    "wof:lastmodified":1449072980,
+    "wof:lastmodified":1466321081,
     "wof:name":"Southwest Arkansas Arts Council Inc",
     "wof:parent_id":85806015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "information"
     ]
 },
-  "bbox": [-93.573815,33.632501,-93.573815,33.632501],
+  "bbox": [
+    -93.573815,
+    33.632501,
+    -93.573815,
+    33.632501
+],
   "geometry": {"coordinates":[-93.573815,33.632501],"type":"Point"}
 }

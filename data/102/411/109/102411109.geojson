@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102411109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.188443,36.095929,-94.188443,36.095929",
     "geom:latitude":36.095929,
     "geom:longitude":-94.188443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2501 N Shiloh Dr",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102411109,
-    "wof:lastmodified":1449067891,
+    "wof:lastmodified":1466325015,
     "wof:name":"Williams Tractor Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.188443,36.095929,-94.188443,36.095929],
-  "geometry": {"coordinates":[-94.188443,36.095929],"type":"Point"}
+  "bbox": [
+    -94.188443,
+    36.095929,
+    -94.188443,
+    36.095929
+],
+  "geometry": {"coordinates":[-94.18844300000001,36.095929],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219395959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.387199,35.024035,-92.387199,35.024035",
     "geom:latitude":35.024035,
     "geom:longitude":-92.387199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Sierra Dr",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219395959,
-    "wof:lastmodified":1449073396,
+    "wof:lastmodified":1466322815,
     "wof:name":"Bell Xpress Records",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-92.387199,35.024035,-92.387199,35.024035],
+  "bbox": [
+    -92.387199,
+    35.024035,
+    -92.387199,
+    35.024035
+],
   "geometry": {"coordinates":[-92.387199,35.024035],"type":"Point"}
 }

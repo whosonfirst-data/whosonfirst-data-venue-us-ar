@@ -2,13 +2,14 @@
   "id": 219771025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.015027,36.205094,-93.015027,36.205094",
     "geom:latitude":36.205094,
     "geom:longitude":-93.015027,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6366 Highway 62 E",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219771025,
-    "wof:lastmodified":1449072293,
+    "wof:lastmodified":1466325008,
     "wof:name":"Melton Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.015027,36.205094,-93.015027,36.205094],
+  "bbox": [
+    -93.015027,
+    36.205094,
+    -93.015027,
+    36.205094
+],
   "geometry": {"coordinates":[-93.015027,36.205094],"type":"Point"}
 }

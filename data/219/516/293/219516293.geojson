@@ -2,13 +2,14 @@
   "id": 219516293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.738548,35.252548,-91.738548,35.252548",
     "geom:latitude":35.252548,
     "geom:longitude":-91.738548,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 N Spruce St",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219516293,
-    "wof:lastmodified":1449071067,
+    "wof:lastmodified":1466324079,
     "wof:name":"White County Chiropractic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chiropractic"
     ]
 },
-  "bbox": [-91.738548,35.252548,-91.738548,35.252548],
-  "geometry": {"coordinates":[-91.738548,35.252548],"type":"Point"}
+  "bbox": [
+    -91.738548,
+    35.252548,
+    -91.738548,
+    35.252548
+],
+  "geometry": {"coordinates":[-91.73854799999999,35.252548],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219684021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.504392,36.056978,-90.504392,36.056978",
     "geom:latitude":36.056978,
     "geom:longitude":-90.504392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"412 Highway 49 N",
     "sg:city":"Paragould",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219684021,
-    "wof:lastmodified":1449071276,
+    "wof:lastmodified":1466324844,
     "wof:name":"Sun Kissed Tanning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "salons-equipment"
     ]
 },
-  "bbox": [-90.504392,36.056978,-90.504392,36.056978],
+  "bbox": [
+    -90.504392,
+    36.056978,
+    -90.504392,
+    36.056978
+],
   "geometry": {"coordinates":[-90.504392,36.056978],"type":"Point"}
 }

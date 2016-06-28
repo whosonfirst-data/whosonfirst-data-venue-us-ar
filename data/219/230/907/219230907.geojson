@@ -2,13 +2,14 @@
   "id": 219230907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.135727,33.684429,-94.135727,33.684429",
     "geom:latitude":33.684429,
     "geom:longitude":-94.135727,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1411 N Constitution Ave",
     "sg:city":"Ashdown",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219230907,
-    "wof:lastmodified":1449073022,
+    "wof:lastmodified":1466321178,
     "wof:name":"Co-Op Extension Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "consultant"
     ]
 },
-  "bbox": [-94.135727,33.684429,-94.135727,33.684429],
+  "bbox": [
+    -94.135727,
+    33.684429,
+    -94.135727,
+    33.684429
+],
   "geometry": {"coordinates":[-94.135727,33.684429],"type":"Point"}
 }

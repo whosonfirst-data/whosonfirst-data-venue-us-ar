@@ -2,13 +2,14 @@
   "id": 219491375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.227717,34.816584,-92.227717,34.816584",
     "geom:latitude":34.816584,
     "geom:longitude":-92.227717,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 Delmont Ave",
     "sg:city":"Sherwood",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219491375,
-    "wof:lastmodified":1449070322,
+    "wof:lastmodified":1466323870,
     "wof:name":"Durite Finish Carpentry",
     "wof:parent_id":85848703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "wood"
     ]
 },
-  "bbox": [-92.227717,34.816584,-92.227717,34.816584],
+  "bbox": [
+    -92.227717,
+    34.816584,
+    -92.227717,
+    34.816584
+],
   "geometry": {"coordinates":[-92.227717,34.816584],"type":"Point"}
 }

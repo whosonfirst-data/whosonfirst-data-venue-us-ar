@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102318577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.538559,36.26416,-92.538559,36.26416",
     "geom:latitude":36.26416,
     "geom:longitude":-92.538559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Hargis Ave",
     "sg:city":"Cotter",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102318577,
-    "wof:lastmodified":1449068326,
+    "wof:lastmodified":1466323435,
     "wof:name":"George A Peters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.538559,36.26416,-92.538559,36.26416],
-  "geometry": {"coordinates":[-92.538559,36.26416],"type":"Point"}
+  "bbox": [
+    -92.538559,
+    36.26416,
+    -92.538559,
+    36.26416
+],
+  "geometry": {"coordinates":[-92.53855900000001,36.26416],"type":"Point"}
 }

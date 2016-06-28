@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102232381",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.445423,35.703116,-91.445423,35.703116",
     "geom:latitude":35.703116,
     "geom:longitude":-91.445423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"625 N Hill St",
     "sg:city":"Newark",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102232381",
-    "wof:lastmodified":1449068565,
+    "wof:lastmodified":1466321455,
     "wof:name":"Looking Glass",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.445423,35.703116,-91.445423,35.703116],
-  "geometry": {"coordinates":[-91.445423,35.703116],"type":"Point"}
+  "bbox": [
+    -91.445423,
+    35.703116,
+    -91.445423,
+    35.703116
+],
+  "geometry": {"coordinates":[-91.44542300000001,35.703116],"type":"Point"}
 }

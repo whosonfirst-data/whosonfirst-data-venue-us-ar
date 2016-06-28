@@ -2,13 +2,14 @@
   "id": 219952823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.147202,36.339199,-94.147202,36.339199",
     "geom:latitude":36.339199,
     "geom:longitude":-94.147202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"526 N 22nd St",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219952823,
-    "wof:lastmodified":1449072944,
+    "wof:lastmodified":1466325112,
     "wof:name":"Turtle Creek Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-94.147202,36.339199,-94.147202,36.339199],
-  "geometry": {"coordinates":[-94.147202,36.339199],"type":"Point"}
+  "bbox": [
+    -94.147202,
+    36.339199,
+    -94.147202,
+    36.339199
+],
+  "geometry": {"coordinates":[-94.14720199999999,36.339199],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220014439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.165201,36.190208,-94.165201,36.190208",
     "geom:latitude":36.190208,
     "geom:longitude":-94.165201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"627 White Rd Ste A",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220014439,
-    "wof:lastmodified":1449074421,
+    "wof:lastmodified":1466320480,
     "wof:name":"AT&T Corp.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "communication"
     ]
 },
-  "bbox": [-94.165201,36.190208,-94.165201,36.190208],
+  "bbox": [
+    -94.165201,
+    36.190208,
+    -94.165201,
+    36.190208
+],
   "geometry": {"coordinates":[-94.165201,36.190208],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219526741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.710294,35.248026,-91.710294,35.248026",
     "geom:latitude":35.248026,
     "geom:longitude":-91.710294,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Indian Trl",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219526741,
-    "wof:lastmodified":1449071476,
+    "wof:lastmodified":1466324155,
     "wof:name":"J J Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "trucking"
     ]
 },
-  "bbox": [-91.710294,35.248026,-91.710294,35.248026],
+  "bbox": [
+    -91.710294,
+    35.248026,
+    -91.710294,
+    35.248026
+],
   "geometry": {"coordinates":[-91.710294,35.248026],"type":"Point"}
 }

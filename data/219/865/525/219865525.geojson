@@ -2,13 +2,14 @@
   "id": 219865525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.211632,36.106111,-94.211632,36.106111",
     "geom:latitude":36.106111,
     "geom:longitude":-94.211632,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2937 N Bluegrass Pl",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219865525,
-    "wof:lastmodified":1449073067,
+    "wof:lastmodified":1466325052,
     "wof:name":"Roof Management Specialties, Inc",
     "wof:parent_id":85885457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-94.211632,36.106111,-94.211632,36.106111],
-  "geometry": {"coordinates":[-94.211632,36.106111],"type":"Point"}
+  "bbox": [
+    -94.211632,
+    36.106111,
+    -94.211632,
+    36.106111
+],
+  "geometry": {"coordinates":[-94.21163199999999,36.106111],"type":"Point"}
 }

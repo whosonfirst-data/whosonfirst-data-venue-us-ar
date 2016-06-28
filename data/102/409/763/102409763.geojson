@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102409763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.133339,36.141915,-94.133339,36.141915",
     "geom:latitude":36.141915,
     "geom:longitude":-94.133339,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"506 Lake Rd",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102409763,
-    "wof:lastmodified":1449068767,
+    "wof:lastmodified":1466325224,
     "wof:name":"Tharp & Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.133339,36.141915,-94.133339,36.141915],
-  "geometry": {"coordinates":[-94.133339,36.141915],"type":"Point"}
+  "bbox": [
+    -94.133339,
+    36.141915,
+    -94.133339,
+    36.141915
+],
+  "geometry": {"coordinates":[-94.13333900000001,36.141915],"type":"Point"}
 }

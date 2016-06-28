@@ -2,13 +2,14 @@
   "id": 220066383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.132233,35.291029,-93.132233,35.291029",
     "geom:latitude":35.291029,
     "geom:longitude":-93.132233,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1314 N Boston Ave",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220066383,
-    "wof:lastmodified":1449074249,
+    "wof:lastmodified":1466321224,
     "wof:name":"Ozark Maternity Svc",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chimney"
     ]
 },
-  "bbox": [-93.132233,35.291029,-93.132233,35.291029],
+  "bbox": [
+    -93.132233,
+    35.291029,
+    -93.132233,
+    35.291029
+],
   "geometry": {"coordinates":[-93.132233,35.291029],"type":"Point"}
 }

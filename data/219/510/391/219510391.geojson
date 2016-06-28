@@ -2,13 +2,14 @@
   "id": 219510391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.732618,35.181583,-91.732618,35.181583",
     "geom:latitude":35.181583,
     "geom:longitude":-91.732618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"129 W Booth Rd",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219510391,
-    "wof:lastmodified":1449072515,
+    "wof:lastmodified":1466324033,
     "wof:name":"Liles Animal Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "specialty"
     ]
 },
-  "bbox": [-91.732618,35.181583,-91.732618,35.181583],
+  "bbox": [
+    -91.732618,
+    35.181583,
+    -91.732618,
+    35.181583
+],
   "geometry": {"coordinates":[-91.732618,35.181583],"type":"Point"}
 }

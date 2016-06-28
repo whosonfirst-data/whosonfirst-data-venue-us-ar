@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102371505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.968404,34.213114,-91.968404,34.213114",
     "geom:latitude":34.213114,
     "geom:longitude":-91.968404,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3103 Market St",
     "sg:city":"Pine Bluff",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102371505,
-    "wof:lastmodified":1449069652,
+    "wof:lastmodified":1466324459,
     "wof:name":"Hampton Inn Pine Bluff",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.968404,34.213114,-91.968404,34.213114],
-  "geometry": {"coordinates":[-91.968404,34.213114],"type":"Point"}
+  "bbox": [
+    -91.968404,
+    34.213114,
+    -91.968404,
+    34.213114
+],
+  "geometry": {"coordinates":[-91.96840400000001,34.213114],"type":"Point"}
 }

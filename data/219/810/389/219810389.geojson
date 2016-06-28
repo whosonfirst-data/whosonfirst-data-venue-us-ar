@@ -2,13 +2,14 @@
   "id": 219810389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.691565,36.209258,-92.691565,36.209258",
     "geom:latitude":36.209258,
     "geom:longitude":-92.691565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"90 Heritage Ln",
     "sg:city":"Yellville",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219810389,
-    "wof:lastmodified":1449071434,
+    "wof:lastmodified":1466324957,
     "wof:name":"Thomas Michael Byers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-92.691565,36.209258,-92.691565,36.209258],
+  "bbox": [
+    -92.691565,
+    36.209258,
+    -92.691565,
+    36.209258
+],
   "geometry": {"coordinates":[-92.691565,36.209258],"type":"Point"}
 }

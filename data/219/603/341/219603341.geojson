@@ -2,13 +2,14 @@
   "id": 219603341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.222649,35.189449,-90.222649,35.189449",
     "geom:latitude":35.189449,
     "geom:longitude":-90.222649,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4001 Commercial Center Dr",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219603341,
-    "wof:lastmodified":1449073366,
+    "wof:lastmodified":1466324588,
     "wof:name":"C H Bond Jr Engineer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "engineer"
     ]
 },
-  "bbox": [-90.222649,35.189449,-90.222649,35.189449],
+  "bbox": [
+    -90.222649,
+    35.189449,
+    -90.222649,
+    35.189449
+],
   "geometry": {"coordinates":[-90.222649,35.189449],"type":"Point"}
 }

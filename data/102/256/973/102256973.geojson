@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102256973",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.584341,34.561189,-92.584341,34.561189",
     "geom:latitude":34.561189,
     "geom:longitude":-92.584341,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"313 E Smith St",
     "sg:city":"Benton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102256973",
-    "wof:lastmodified":1449069615,
+    "wof:lastmodified":1466322136,
     "wof:name":"Smith Street Church Of Christ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.584341,34.561189,-92.584341,34.561189],
-  "geometry": {"coordinates":[-92.584341,34.561189],"type":"Point"}
+  "bbox": [
+    -92.584341,
+    34.561189,
+    -92.584341,
+    34.561189
+],
+  "geometry": {"coordinates":[-92.58434099999999,34.561189],"type":"Point"}
 }

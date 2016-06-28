@@ -2,13 +2,14 @@
   "id": 235945399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.71544,36.630608,-94.71544,36.630608",
     "geom:latitude":36.630608,
     "geom:longitude":-94.71544,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26321 S 650 Rd",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":235945399,
-    "wof:lastmodified":1449008307,
+    "wof:lastmodified":1466320422,
     "wof:name":"NOVUS Glass",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "glass-auto"
     ]
 },
-  "bbox": [-94.71544,36.630608,-94.71544,36.630608],
+  "bbox": [
+    -94.71544,
+    36.630608,
+    -94.71544,
+    36.630608
+],
   "geometry": {"coordinates":[-94.71544,36.630608],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354218851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.968544,33.47362,-93.968544,33.47362",
     "geom:latitude":33.47362,
     "geom:longitude":-93.968544,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6022 Dooley Ferry Rd",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354218851,
-    "wof:lastmodified":1449067048,
+    "wof:lastmodified":1466324340,
     "wof:name":"Mandeville Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-93.968544,33.47362,-93.968544,33.47362],
-  "geometry": {"coordinates":[-93.968544,33.47362],"type":"Point"}
+  "bbox": [
+    -93.968544,
+    33.47362,
+    -93.968544,
+    33.47362
+],
+  "geometry": {"coordinates":[-93.96854399999999,33.47362],"type":"Point"}
 }

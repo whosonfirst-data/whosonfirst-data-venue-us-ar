@@ -2,13 +2,14 @@
   "id": 219179699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.071807,33.614798,-92.071807,33.614798",
     "geom:latitude":33.614798,
     "geom:longitude":-92.071807,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"503 Sturgis St",
     "sg:city":"Warren",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219179699,
-    "wof:lastmodified":1449073556,
+    "wof:lastmodified":1466320626,
     "wof:name":"Tim's Upholstery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "vinyl"
     ]
 },
-  "bbox": [-92.071807,33.614798,-92.071807,33.614798],
-  "geometry": {"coordinates":[-92.071807,33.614798],"type":"Point"}
+  "bbox": [
+    -92.071807,
+    33.614798,
+    -92.071807,
+    33.614798
+],
+  "geometry": {"coordinates":[-92.07180700000001,33.614798],"type":"Point"}
 }

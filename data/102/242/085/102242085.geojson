@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102242085",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.293573,34.598577,-92.293573,34.598577",
     "geom:latitude":34.598577,
     "geom:longitude":-92.293573,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 Bland Rd",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":"102242085",
-    "wof:lastmodified":1449069897,
+    "wof:lastmodified":1466321623,
     "wof:name":"Williams Realty Investments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.293573,34.598577,-92.293573,34.598577],
-  "geometry": {"coordinates":[-92.293573,34.598577],"type":"Point"}
+  "bbox": [
+    -92.293573,
+    34.598577,
+    -92.293573,
+    34.598577
+],
+  "geometry": {"coordinates":[-92.29357299999999,34.598577],"type":"Point"}
 }

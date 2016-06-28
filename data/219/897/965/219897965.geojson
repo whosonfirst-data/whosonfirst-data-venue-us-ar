@@ -2,13 +2,14 @@
   "id": 219897965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.221443,36.373091,-94.221443,36.373091",
     "geom:latitude":36.373091,
     "geom:longitude":-94.221443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 N Walton Blvd Suite 10",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":219897965,
-    "wof:lastmodified":1449073341,
+    "wof:lastmodified":1466325097,
     "wof:name":"Trichell, DeWayne - State Farm Insurance Agent",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "auto"
     ]
 },
-  "bbox": [-94.221443,36.373091,-94.221443,36.373091],
-  "geometry": {"coordinates":[-94.221443,36.373091],"type":"Point"}
+  "bbox": [
+    -94.221443,
+    36.373091,
+    -94.221443,
+    36.373091
+],
+  "geometry": {"coordinates":[-94.22144299999999,36.373091],"type":"Point"}
 }

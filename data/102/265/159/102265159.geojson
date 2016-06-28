@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102265159",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.410153,33.323718,-93.410153,33.323718",
     "geom:latitude":33.323718,
     "geom:longitude":-93.410153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2310 Columbia Rd 52",
     "sg:city":"Waldo",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":"102265159",
-    "wof:lastmodified":1449068608,
+    "wof:lastmodified":1466322174,
     "wof:name":"Robert Hanson Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.410153,33.323718,-93.410153,33.323718],
-  "geometry": {"coordinates":[-93.410153,33.323718],"type":"Point"}
+  "bbox": [
+    -93.410153,
+    33.323718,
+    -93.410153,
+    33.323718
+],
+  "geometry": {"coordinates":[-93.41015299999999,33.323718],"type":"Point"}
 }

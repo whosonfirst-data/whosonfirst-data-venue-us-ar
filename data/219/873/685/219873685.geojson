@@ -2,13 +2,14 @@
   "id": 219873685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.247935,36.371597,-94.247935,36.371597",
     "geom:latitude":36.371597,
     "geom:longitude":-94.247935,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3217 SW Orchard Way",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219873685,
-    "wof:lastmodified":1449071132,
+    "wof:lastmodified":1466325058,
     "wof:name":"Arrowpoint Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.247935,36.371597,-94.247935,36.371597],
+  "bbox": [
+    -94.247935,
+    36.371597,
+    -94.247935,
+    36.371597
+],
   "geometry": {"coordinates":[-94.247935,36.371597],"type":"Point"}
 }

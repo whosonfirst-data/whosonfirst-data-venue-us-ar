@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102304063",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.134442,34.867452,-92.134442,34.867452",
     "geom:latitude":34.867452,
     "geom:longitude":-92.134442,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Campbell Dr",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102304063",
-    "wof:lastmodified":1449069587,
+    "wof:lastmodified":1466323053,
     "wof:name":"Central Arkansas Precision",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.134442,34.867452,-92.134442,34.867452],
-  "geometry": {"coordinates":[-92.134442,34.867452],"type":"Point"}
+  "bbox": [
+    -92.134442,
+    34.867452,
+    -92.134442,
+    34.867452
+],
+  "geometry": {"coordinates":[-92.13444200000001,34.867452],"type":"Point"}
 }

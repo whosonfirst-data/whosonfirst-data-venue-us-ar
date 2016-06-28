@@ -2,13 +2,14 @@
   "id": 219487965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.231337,34.810039,-92.231337,34.810039",
     "geom:latitude":34.810039,
     "geom:longitude":-92.231337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Spring River Rd",
     "sg:city":"Sherwood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219487965,
-    "wof:lastmodified":1449071551,
+    "wof:lastmodified":1466323806,
     "wof:name":"Siemens Medical Solutions Usa, Inc.",
     "wof:parent_id":85848703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "assistant"
     ]
 },
-  "bbox": [-92.231337,34.810039,-92.231337,34.810039],
+  "bbox": [
+    -92.231337,
+    34.810039,
+    -92.231337,
+    34.810039
+],
   "geometry": {"coordinates":[-92.231337,34.810039],"type":"Point"}
 }

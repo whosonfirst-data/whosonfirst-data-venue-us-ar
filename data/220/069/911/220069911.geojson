@@ -2,13 +2,14 @@
   "id": 220069911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.04385,35.351014,-93.04385,35.351014",
     "geom:latitude":35.351014,
     "geom:longitude":-93.04385,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1584 Paradise Acres Rd",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220069911,
-    "wof:lastmodified":1449074560,
+    "wof:lastmodified":1466321327,
     "wof:name":"J & W Plumbing",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractors-commercial"
     ]
 },
-  "bbox": [-93.04385,35.351014,-93.04385,35.351014],
-  "geometry": {"coordinates":[-93.04385,35.351014],"type":"Point"}
+  "bbox": [
+    -93.04385,
+    35.351014,
+    -93.04385,
+    35.351014
+],
+  "geometry": {"coordinates":[-93.04385000000001,35.351014],"type":"Point"}
 }

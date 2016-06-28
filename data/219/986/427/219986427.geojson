@@ -2,13 +2,14 @@
   "id": 219986427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.188661,36.330241,-94.188661,36.330241",
     "geom:latitude":36.330241,
     "geom:longitude":-94.188661,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"428 Horsebarn Rd",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219986427,
-    "wof:lastmodified":1449073246,
+    "wof:lastmodified":1466325241,
     "wof:name":"Robert F Alexander Trust Uad A",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trust"
     ]
 },
-  "bbox": [-94.188661,36.330241,-94.188661,36.330241],
+  "bbox": [
+    -94.188661,
+    36.330241,
+    -94.188661,
+    36.330241
+],
   "geometry": {"coordinates":[-94.188661,36.330241],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102336495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.351012,34.768468,-92.351012,34.768468",
     "geom:latitude":34.768468,
     "geom:longitude":-92.351012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6815 Cantrell Rd",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878753,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85878753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102336495,
-    "wof:lastmodified":1449067721,
+    "wof:lastmodified":1466323815,
     "wof:name":"Tanglewood Drug Store",
     "wof:parent_id":85878753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.351012,34.768468,-92.351012,34.768468],
+  "bbox": [
+    -92.351012,
+    34.768468,
+    -92.351012,
+    34.768468
+],
   "geometry": {"coordinates":[-92.351012,34.768468],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220077431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.470728,35.484997,-93.470728,35.484997",
     "geom:latitude":35.484997,
     "geom:longitude":-93.470728,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1802 N Harmony Rd",
     "sg:city":"Clarksville",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":220077431,
-    "wof:lastmodified":1449074159,
+    "wof:lastmodified":1466321518,
     "wof:name":"Immel Fence Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "contractor"
     ]
 },
-  "bbox": [-93.470728,35.484997,-93.470728,35.484997],
-  "geometry": {"coordinates":[-93.470728,35.484997],"type":"Point"}
+  "bbox": [
+    -93.470728,
+    35.484997,
+    -93.470728,
+    35.484997
+],
+  "geometry": {"coordinates":[-93.47072799999999,35.484997],"type":"Point"}
 }

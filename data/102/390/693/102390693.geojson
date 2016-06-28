@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102390693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.359088,34.89193,-92.359088,34.89193",
     "geom:latitude":34.89193,
     "geom:longitude":-92.359088,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15124 Cedar Heights Rd",
     "sg:city":"North Little Rock",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102390693,
-    "wof:lastmodified":1449070240,
+    "wof:lastmodified":1466324286,
     "wof:name":"Morgan Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.359088,34.89193,-92.359088,34.89193],
+  "bbox": [
+    -92.359088,
+    34.89193,
+    -92.359088,
+    34.89193
+],
   "geometry": {"coordinates":[-92.359088,34.89193],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219336951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.903891,35.072159,-91.903891,35.072159",
     "geom:latitude":35.072159,
     "geom:longitude":-91.903891,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1701 W Dewitt Henry Dr",
     "sg:city":"Beebe",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":219336951,
-    "wof:lastmodified":1449070310,
+    "wof:lastmodified":1466322058,
     "wof:name":"Knight's Super Foods",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "super"
     ]
 },
-  "bbox": [-91.903891,35.072159,-91.903891,35.072159],
+  "bbox": [
+    -91.903891,
+    35.072159,
+    -91.903891,
+    35.072159
+],
   "geometry": {"coordinates":[-91.903891,35.072159],"type":"Point"}
 }

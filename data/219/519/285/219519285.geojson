@@ -2,13 +2,14 @@
   "id": 219519285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.737568,35.24844,-91.737568,35.24844",
     "geom:latitude":35.24844,
     "geom:longitude":-91.737568,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 S Spring St",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219519285,
-    "wof:lastmodified":1449073669,
+    "wof:lastmodified":1466324101,
     "wof:name":"Center For Christian Broadcasting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.737568,35.24844,-91.737568,35.24844],
+  "bbox": [
+    -91.737568,
+    35.24844,
+    -91.737568,
+    35.24844
+],
   "geometry": {"coordinates":[-91.737568,35.24844],"type":"Point"}
 }

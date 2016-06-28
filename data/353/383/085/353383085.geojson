@@ -2,13 +2,14 @@
   "id": 353383085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.478181,35.26482,-94.478181,35.26482",
     "geom:latitude":35.26482,
     "geom:longitude":-94.478181,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"607 N Pocola Blvd",
     "sg:city":"Pocola",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353383085,
-    "wof:lastmodified":1449019325,
+    "wof:lastmodified":1466324524,
     "wof:name":"Second Blessings Resale",
     "wof:parent_id":85809847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.478181,35.26482,-94.478181,35.26482],
-  "geometry": {"coordinates":[-94.478181,35.26482],"type":"Point"}
+  "bbox": [
+    -94.478181,
+    35.26482,
+    -94.478181,
+    35.26482
+],
+  "geometry": {"coordinates":[-94.47818100000001,35.26482],"type":"Point"}
 }

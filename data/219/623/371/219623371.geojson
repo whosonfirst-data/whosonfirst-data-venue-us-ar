@@ -2,13 +2,14 @@
   "id": 219623371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.776556,35.224903,-90.776556,35.224903",
     "geom:latitude":35.224903,
     "geom:longitude":-90.776556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1325 Hamilton Ave E",
     "sg:city":"Wynne",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219623371,
-    "wof:lastmodified":1449072873,
+    "wof:lastmodified":1466324613,
     "wof:name":"Junque Gypsy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "boutique"
     ]
 },
-  "bbox": [-90.776556,35.224903,-90.776556,35.224903],
+  "bbox": [
+    -90.776556,
+    35.224903,
+    -90.776556,
+    35.224903
+],
   "geometry": {"coordinates":[-90.776556,35.224903],"type":"Point"}
 }

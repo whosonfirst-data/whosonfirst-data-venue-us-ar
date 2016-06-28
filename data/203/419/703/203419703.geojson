@@ -2,13 +2,14 @@
   "id": 203419703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.485794,33.872289,-91.485794,33.872289",
     "geom:latitude":33.872289,
     "geom:longitude":-91.485794,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Brookhaven Dr",
     "sg:city":"Dumas",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203419703,
-    "wof:lastmodified":1449026847,
+    "wof:lastmodified":1466320582,
     "wof:name":"General Tin Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "cutting"
     ]
 },
-  "bbox": [-91.485794,33.872289,-91.485794,33.872289],
+  "bbox": [
+    -91.485794,
+    33.872289,
+    -91.485794,
+    33.872289
+],
   "geometry": {"coordinates":[-91.485794,33.872289],"type":"Point"}
 }

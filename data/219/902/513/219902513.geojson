@@ -2,13 +2,14 @@
   "id": 219902513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.180722,36.370891,-94.180722,36.370891",
     "geom:latitude":36.370891,
     "geom:longitude":-94.180722,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2602 E Central Ave",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":219902513,
-    "wof:lastmodified":1449073017,
+    "wof:lastmodified":1466325106,
     "wof:name":"Steves Plumbing Sewer Service",
     "wof:parent_id":85895817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "plumbing-drain"
     ]
 },
-  "bbox": [-94.180722,36.370891,-94.180722,36.370891],
+  "bbox": [
+    -94.180722,
+    36.370891,
+    -94.180722,
+    36.370891
+],
   "geometry": {"coordinates":[-94.180722,36.370891],"type":"Point"}
 }

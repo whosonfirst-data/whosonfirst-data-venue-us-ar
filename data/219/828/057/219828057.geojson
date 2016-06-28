@@ -2,13 +2,14 @@
   "id": 219828057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.160755,36.064684,-94.160755,36.064684",
     "geom:latitude":36.064684,
     "geom:longitude":-94.160755,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 W Spring St",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219828057,
-    "wof:lastmodified":1449072172,
+    "wof:lastmodified":1466324990,
     "wof:name":"Arkansas Public Defender Commission Conflicts Office",
     "wof:parent_id":85885435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-94.160755,36.064684,-94.160755,36.064684],
-  "geometry": {"coordinates":[-94.160755,36.064684],"type":"Point"}
+  "bbox": [
+    -94.160755,
+    36.064684,
+    -94.160755,
+    36.064684
+],
+  "geometry": {"coordinates":[-94.16075499999999,36.064684],"type":"Point"}
 }

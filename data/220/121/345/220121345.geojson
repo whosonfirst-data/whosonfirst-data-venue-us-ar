@@ -2,13 +2,14 @@
   "id": 220121345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.049422,35.509709,-94.049422,35.509709",
     "geom:latitude":35.509709,
     "geom:longitude":-94.049422,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1003 Pleasant Hill Rd",
     "sg:city":"Mulberry",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220121345,
-    "wof:lastmodified":1449074663,
+    "wof:lastmodified":1466322613,
     "wof:name":"Pro Care Lawn Service & Landscaping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-94.049422,35.509709,-94.049422,35.509709],
-  "geometry": {"coordinates":[-94.049422,35.509709],"type":"Point"}
+  "bbox": [
+    -94.049422,
+    35.509709,
+    -94.049422,
+    35.509709
+],
+  "geometry": {"coordinates":[-94.04942200000001,35.509709],"type":"Point"}
 }

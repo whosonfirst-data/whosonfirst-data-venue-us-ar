@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102360251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.556506,34.842428,-92.556506,34.842428",
     "geom:latitude":34.842428,
     "geom:longitude":-92.556506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Rock Ridge Rd",
     "sg:city":"Roland",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102360251,
-    "wof:lastmodified":1449069637,
+    "wof:lastmodified":1466324204,
     "wof:name":"Landstar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.556506,34.842428,-92.556506,34.842428],
+  "bbox": [
+    -92.556506,
+    34.842428,
+    -92.556506,
+    34.842428
+],
   "geometry": {"coordinates":[-92.556506,34.842428],"type":"Point"}
 }

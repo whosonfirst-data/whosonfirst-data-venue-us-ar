@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102409163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.074396,33.547715,-93.074396,33.547715",
     "geom:latitude":33.547715,
     "geom:longitude":-93.074396,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4923 US Hwy 278",
     "sg:city":"Chidester",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":102409163,
-    "wof:lastmodified":1449068765,
+    "wof:lastmodified":1466325090,
     "wof:name":"Connie Hodge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.074396,33.547715,-93.074396,33.547715],
-  "geometry": {"coordinates":[-93.074396,33.547715],"type":"Point"}
+  "bbox": [
+    -93.074396,
+    33.547715,
+    -93.074396,
+    33.547715
+],
+  "geometry": {"coordinates":[-93.07439599999999,33.547715],"type":"Point"}
 }

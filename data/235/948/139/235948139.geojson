@@ -2,13 +2,14 @@
   "id": 235948139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.762697,36.593725,-94.762697,36.593725",
     "geom:latitude":36.593725,
     "geom:longitude":-94.762697,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"514 E 3rd St",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":235948139,
-    "wof:lastmodified":1449008525,
+    "wof:lastmodified":1466320421,
     "wof:name":"Frosty's Glass Inc",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-94.762697,36.593725,-94.762697,36.593725],
+  "bbox": [
+    -94.762697,
+    36.593725,
+    -94.762697,
+    36.593725
+],
   "geometry": {"coordinates":[-94.762697,36.593725],"type":"Point"}
 }

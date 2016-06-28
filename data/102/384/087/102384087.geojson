@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102384087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.184697,35.164732,-90.184697,35.164732",
     "geom:latitude":35.164732,
     "geom:longitude":-90.184697,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1701 N Missouri St",
     "sg:city":"West Memphis",
     "sg:classifiers":[
@@ -30,10 +31,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102082505,
-        85633793,
         85688549,
-        85843083
+        85633793,
+        85843083,
+        102082505
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102384087,
-    "wof:lastmodified":1449068110,
+    "wof:lastmodified":1466322934,
     "wof:name":"Great Games",
     "wof:parent_id":85843083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.184697,35.164732,-90.184697,35.164732],
+  "bbox": [
+    -90.184697,
+    35.164732,
+    -90.184697,
+    35.164732
+],
   "geometry": {"coordinates":[-90.184697,35.164732],"type":"Point"}
 }

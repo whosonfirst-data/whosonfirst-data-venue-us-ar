@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102255753",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.815576,36.352028,-93.815576,36.352028",
     "geom:latitude":36.352028,
     "geom:longitude":-93.815576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"745 Co Rd 155",
     "sg:city":"Eureka Springs",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":"102255753",
-    "wof:lastmodified":1449068859,
+    "wof:lastmodified":1466322041,
     "wof:name":"Buck Mountain Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.815576,36.352028,-93.815576,36.352028],
-  "geometry": {"coordinates":[-93.815576,36.352028],"type":"Point"}
+  "bbox": [
+    -93.815576,
+    36.352028,
+    -93.815576,
+    36.352028
+],
+  "geometry": {"coordinates":[-93.81557599999999,36.352028],"type":"Point"}
 }

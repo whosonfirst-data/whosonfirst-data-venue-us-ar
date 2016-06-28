@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102410155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.953225,33.128806,-91.953225,33.128806",
     "geom:latitude":33.128806,
     "geom:longitude":-91.953225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"609 Hickory St",
     "sg:city":"Crossett",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102410155,
-    "wof:lastmodified":1449067795,
+    "wof:lastmodified":1466325099,
     "wof:name":"Charles Harmon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.953225,33.128806,-91.953225,33.128806],
+  "bbox": [
+    -91.953225,
+    33.128806,
+    -91.953225,
+    33.128806
+],
   "geometry": {"coordinates":[-91.953225,33.128806],"type":"Point"}
 }

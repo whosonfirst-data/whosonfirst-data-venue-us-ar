@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102211597",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.381481,33.793391,-93.381481,33.793391",
     "geom:latitude":33.793391,
     "geom:longitude":-93.381481,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 Sherwood Blvd",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102211597",
-    "wof:lastmodified":1449068379,
+    "wof:lastmodified":1466320974,
     "wof:name":"Willow Oak Acres",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.381481,33.793391,-93.381481,33.793391],
-  "geometry": {"coordinates":[-93.381481,33.793391],"type":"Point"}
+  "bbox": [
+    -93.381481,
+    33.793391,
+    -93.381481,
+    33.793391
+],
+  "geometry": {"coordinates":[-93.38148099999999,33.793391],"type":"Point"}
 }

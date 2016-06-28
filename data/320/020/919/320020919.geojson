@@ -2,13 +2,14 @@
   "id": 320020919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.797301,36.421957,-94.797301,36.421957",
     "geom:latitude":36.421957,
     "geom:longitude":-94.797301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"234 S 5th St",
     "sg:city":"Jay",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320020919,
-    "wof:lastmodified":1449012999,
+    "wof:lastmodified":1466320411,
     "wof:name":"Jay Fire Dept",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "protection"
     ]
 },
-  "bbox": [-94.797301,36.421957,-94.797301,36.421957],
+  "bbox": [
+    -94.797301,
+    36.421957,
+    -94.797301,
+    36.421957
+],
   "geometry": {"coordinates":[-94.797301,36.421957],"type":"Point"}
 }

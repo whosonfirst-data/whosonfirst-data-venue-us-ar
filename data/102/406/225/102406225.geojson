@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102406225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.291406,36.271619,-94.291406,36.271619",
     "geom:latitude":36.271619,
     "geom:longitude":-94.291406,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11400 E Insco Rd",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102406225,
-    "wof:lastmodified":1449069038,
+    "wof:lastmodified":1466324876,
     "wof:name":"S Ba Towers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.291406,36.271619,-94.291406,36.271619],
-  "geometry": {"coordinates":[-94.291406,36.271619],"type":"Point"}
+  "bbox": [
+    -94.291406,
+    36.271619,
+    -94.291406,
+    36.271619
+],
+  "geometry": {"coordinates":[-94.29140599999999,36.271619],"type":"Point"}
 }

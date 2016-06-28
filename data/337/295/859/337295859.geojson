@@ -2,13 +2,14 @@
   "id": 337295859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.450569,35.473881,-93.450569,35.473881",
     "geom:latitude":35.473881,
     "geom:longitude":-93.450569,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"707 Apple Tree Ln",
     "sg:city":"Clarksville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337295859,
-    "wof:lastmodified":1449027260,
+    "wof:lastmodified":1466322196,
     "wof:name":"Granite Telecom",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "communication"
     ]
 },
-  "bbox": [-93.450569,35.473881,-93.450569,35.473881],
+  "bbox": [
+    -93.450569,
+    35.473881,
+    -93.450569,
+    35.473881
+],
   "geometry": {"coordinates":[-93.450569,35.473881],"type":"Point"}
 }

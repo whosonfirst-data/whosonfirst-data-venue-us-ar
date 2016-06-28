@@ -2,13 +2,14 @@
   "id": 220043559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.111778,36.135471,-94.111778,36.135471",
     "geom:latitude":36.135471,
     "geom:longitude":-94.111778,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3420 Peppermill Pl",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220043559,
-    "wof:lastmodified":1449074647,
+    "wof:lastmodified":1466320561,
     "wof:name":"Gbs Development, Inc.",
     "wof:parent_id":85885493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.111778,36.135471,-94.111778,36.135471],
+  "bbox": [
+    -94.111778,
+    36.135471,
+    -94.111778,
+    36.135471
+],
   "geometry": {"coordinates":[-94.111778,36.135471],"type":"Point"}
 }

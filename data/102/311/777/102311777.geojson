@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102311777",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.998252,36.159567,-93.998252,36.159567",
     "geom:latitude":36.159567,
     "geom:longitude":-93.998252,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19328 Hilton Rd",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102311777",
-    "wof:lastmodified":1449068361,
+    "wof:lastmodified":1466323340,
     "wof:name":"Blue Spring Apparatus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.998252,36.159567,-93.998252,36.159567],
-  "geometry": {"coordinates":[-93.998252,36.159567],"type":"Point"}
+  "bbox": [
+    -93.998252,
+    36.159567,
+    -93.998252,
+    36.159567
+],
+  "geometry": {"coordinates":[-93.99825199999999,36.159567],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219275275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.322376,33.610543,-93.322376,33.610543",
     "geom:latitude":33.610543,
     "geom:longitude":-93.322376,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"173 Nevada 288",
     "sg:city":"Rosston",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219275275,
-    "wof:lastmodified":1449071533,
+    "wof:lastmodified":1466321527,
     "wof:name":"Daniel Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.322376,33.610543,-93.322376,33.610543],
-  "geometry": {"coordinates":[-93.322376,33.610543],"type":"Point"}
+  "bbox": [
+    -93.322376,
+    33.610543,
+    -93.322376,
+    33.610543
+],
+  "geometry": {"coordinates":[-93.32237600000001,33.610543],"type":"Point"}
 }

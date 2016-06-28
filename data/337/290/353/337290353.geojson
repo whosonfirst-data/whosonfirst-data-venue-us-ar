@@ -2,13 +2,14 @@
   "id": 337290353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.585301,34.572689,-92.585301,34.572689",
     "geom:latitude":34.572689,
     "geom:longitude":-92.585301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Medical Park Dr Ste 300",
     "sg:city":"Benton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337290353,
-    "wof:lastmodified":1449027289,
+    "wof:lastmodified":1466322033,
     "wof:name":"Annette Enderlin",
     "wof:parent_id":85817531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-92.585301,34.572689,-92.585301,34.572689],
+  "bbox": [
+    -92.585301,
+    34.572689,
+    -92.585301,
+    34.572689
+],
   "geometry": {"coordinates":[-92.585301,34.572689],"type":"Point"}
 }

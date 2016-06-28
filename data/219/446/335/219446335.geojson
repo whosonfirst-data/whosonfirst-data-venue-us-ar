@@ -2,13 +2,14 @@
   "id": 219446335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.676707,35.346478,-91.676707,35.346478",
     "geom:latitude":35.346478,
     "geom:longitude":-91.676707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2805 Highway 157",
     "sg:city":"Judsonia",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219446335,
-    "wof:lastmodified":1449073619,
+    "wof:lastmodified":1466323319,
     "wof:name":"North White County Rural Water Public Facilities Board",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "supply"
     ]
 },
-  "bbox": [-91.676707,35.346478,-91.676707,35.346478],
-  "geometry": {"coordinates":[-91.676707,35.346478],"type":"Point"}
+  "bbox": [
+    -91.676707,
+    35.346478,
+    -91.676707,
+    35.346478
+],
+  "geometry": {"coordinates":[-91.67670699999999,35.346478],"type":"Point"}
 }

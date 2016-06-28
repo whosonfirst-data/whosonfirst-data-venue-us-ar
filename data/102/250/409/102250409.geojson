@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102250409",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.488267,35.094252,-92.488267,35.094252",
     "geom:latitude":35.094252,
     "geom:longitude":-92.488267,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Shady Valley Dr",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102250409",
-    "wof:lastmodified":1449069118,
+    "wof:lastmodified":1466321892,
     "wof:name":"Pfizer Corporation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.488267,35.094252,-92.488267,35.094252],
-  "geometry": {"coordinates":[-92.488267,35.094252],"type":"Point"}
+  "bbox": [
+    -92.488267,
+    35.094252,
+    -92.488267,
+    35.094252
+],
+  "geometry": {"coordinates":[-92.48826699999999,35.094252],"type":"Point"}
 }

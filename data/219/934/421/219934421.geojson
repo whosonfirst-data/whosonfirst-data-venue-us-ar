@@ -2,13 +2,14 @@
   "id": 219934421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.6947,36.069761,-93.6947,36.069761",
     "geom:latitude":36.069761,
     "geom:longitude":-93.6947,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2227 Madison 2035",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219934421,
-    "wof:lastmodified":1449070554,
+    "wof:lastmodified":1466325159,
     "wof:name":"Case's Lawn & Garden",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-93.6947,36.069761,-93.6947,36.069761],
+  "bbox": [
+    -93.6947,
+    36.069761,
+    -93.6947,
+    36.069761
+],
   "geometry": {"coordinates":[-93.6947,36.069761],"type":"Point"}
 }

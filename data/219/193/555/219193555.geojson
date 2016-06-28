@@ -2,13 +2,14 @@
   "id": 219193555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.85119,33.584936,-92.85119,33.584936",
     "geom:latitude":33.584936,
     "geom:longitude":-92.85119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1112 W Washington St",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219193555,
-    "wof:lastmodified":1449070959,
+    "wof:lastmodified":1466320806,
     "wof:name":"Marshall I Mitchell Dds",
     "wof:parent_id":85813169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.85119,33.584936,-92.85119,33.584936],
+  "bbox": [
+    -92.85119,
+    33.584936,
+    -92.85119,
+    33.584936
+],
   "geometry": {"coordinates":[-92.85119,33.584936],"type":"Point"}
 }

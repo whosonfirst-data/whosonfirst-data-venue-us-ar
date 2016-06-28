@@ -2,13 +2,14 @@
   "id": 219470285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.727328,35.152081,-92.727328,35.152081",
     "geom:latitude":35.152081,
     "geom:longitude":-92.727328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1205 E Broadway St",
     "sg:city":"Morrilton",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219470285,
-    "wof:lastmodified":1449071248,
+    "wof:lastmodified":1466323561,
     "wof:name":"G & G Auto Sales",
     "wof:parent_id":85814069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "cars-wholesale"
     ]
 },
-  "bbox": [-92.727328,35.152081,-92.727328,35.152081],
+  "bbox": [
+    -92.727328,
+    35.152081,
+    -92.727328,
+    35.152081
+],
   "geometry": {"coordinates":[-92.727328,35.152081],"type":"Point"}
 }

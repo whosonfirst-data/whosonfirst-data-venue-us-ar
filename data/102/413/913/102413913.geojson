@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102413913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.265773,34.774209,-92.265773,34.774209",
     "geom:latitude":34.774209,
     "geom:longitude":-92.265773,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2001 N Poplar St",
     "sg:city":"North Little Rock",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837877,
+        85688549,
         85633793,
         85921255,
         102082497,
-        85688549
+        85837877
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102413913,
-    "wof:lastmodified":1449068183,
+    "wof:lastmodified":1466325264,
     "wof:name":"Honey Fischer Company Inc",
     "wof:parent_id":85837877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.265773,34.774209,-92.265773,34.774209],
+  "bbox": [
+    -92.265773,
+    34.774209,
+    -92.265773,
+    34.774209
+],
   "geometry": {"coordinates":[-92.265773,34.774209],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219631961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.686955,35.813915,-90.686955,35.813915",
     "geom:latitude":35.813915,
     "geom:longitude":-90.686955,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2606 Browns Ln",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219631961,
-    "wof:lastmodified":1449071493,
+    "wof:lastmodified":1466324632,
     "wof:name":"Arkansas Orthodontic Centers",
     "wof:parent_id":85836541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentists-orthodontists"
     ]
 },
-  "bbox": [-90.686955,35.813915,-90.686955,35.813915],
+  "bbox": [
+    -90.686955,
+    35.813915,
+    -90.686955,
+    35.813915
+],
   "geometry": {"coordinates":[-90.686955,35.813915],"type":"Point"}
 }

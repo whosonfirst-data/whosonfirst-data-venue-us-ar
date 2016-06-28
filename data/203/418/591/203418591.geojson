@@ -2,13 +2,14 @@
   "id": 203418591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.48162,33.8738,-91.48162,33.8738",
     "geom:latitude":33.8738,
     "geom:longitude":-91.48162,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"710 Highway 65 S",
     "sg:city":"Dumas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203418591,
-    "wof:lastmodified":1449026426,
+    "wof:lastmodified":1466320576,
     "wof:name":"State Farm Insurance Agent-Ted Thompson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.48162,33.8738,-91.48162,33.8738],
-  "geometry": {"coordinates":[-91.48162,33.8738],"type":"Point"}
+  "bbox": [
+    -91.48162,
+    33.8738,
+    -91.48162,
+    33.8738
+],
+  "geometry": {"coordinates":[-91.48162000000001,33.8738],"type":"Point"}
 }

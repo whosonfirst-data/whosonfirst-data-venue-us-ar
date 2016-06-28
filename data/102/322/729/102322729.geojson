@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102322729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.468472,35.475853,-93.468472,35.475853",
     "geom:latitude":35.475853,
     "geom:longitude":-93.468472,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"407 N Johnson St",
     "sg:city":"Clarksville",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102322729,
-    "wof:lastmodified":1449067742,
+    "wof:lastmodified":1466323533,
     "wof:name":"Baptist Student Union",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.468472,35.475853,-93.468472,35.475853],
-  "geometry": {"coordinates":[-93.468472,35.475853],"type":"Point"}
+  "bbox": [
+    -93.468472,
+    35.475853,
+    -93.468472,
+    35.475853
+],
+  "geometry": {"coordinates":[-93.46847200000001,35.475853],"type":"Point"}
 }

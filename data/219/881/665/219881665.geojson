@@ -2,13 +2,14 @@
   "id": 219881665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.213038,36.34023,-94.213038,36.34023",
     "geom:latitude":36.34023,
     "geom:longitude":-94.213038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3200 SW Regency Pkwy",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219881665,
-    "wof:lastmodified":1449072426,
+    "wof:lastmodified":1466325165,
     "wof:name":"Global Home Products",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "design"
     ]
 },
-  "bbox": [-94.213038,36.34023,-94.213038,36.34023],
+  "bbox": [
+    -94.213038,
+    36.34023,
+    -94.213038,
+    36.34023
+],
   "geometry": {"coordinates":[-94.213038,36.34023],"type":"Point"}
 }

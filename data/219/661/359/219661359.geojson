@@ -2,13 +2,14 @@
   "id": 219661359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.717201,35.56422,-90.717201,35.56422",
     "geom:latitude":35.56422,
     "geom:longitude":-90.717201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 N Main St",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219661359,
-    "wof:lastmodified":1449073536,
+    "wof:lastmodified":1466324776,
     "wof:name":"Rice Well Company Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-90.717201,35.56422,-90.717201,35.56422],
+  "bbox": [
+    -90.717201,
+    35.56422,
+    -90.717201,
+    35.56422
+],
   "geometry": {"coordinates":[-90.717201,35.56422],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219849283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.152492,36.113872,-94.152492,36.113872",
     "geom:latitude":36.113872,
     "geom:longitude":-94.152492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"303 E Millsap Rd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219849283,
-    "wof:lastmodified":1449071045,
+    "wof:lastmodified":1466325029,
     "wof:name":"Taylor Law Partners",
     "wof:parent_id":85885431,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "law"
     ]
 },
-  "bbox": [-94.152492,36.113872,-94.152492,36.113872],
+  "bbox": [
+    -94.152492,
+    36.113872,
+    -94.152492,
+    36.113872
+],
   "geometry": {"coordinates":[-94.152492,36.113872],"type":"Point"}
 }

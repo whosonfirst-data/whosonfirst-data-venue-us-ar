@@ -2,13 +2,14 @@
   "id": 219797725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.45431,36.340964,-92.45431,36.340964",
     "geom:latitude":36.340964,
     "geom:longitude":-92.45431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Parkman Ter",
     "sg:city":"Gassville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219797725,
-    "wof:lastmodified":1449073568,
+    "wof:lastmodified":1466325024,
     "wof:name":"Slagle's Consulting Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "coach"
     ]
 },
-  "bbox": [-92.45431,36.340964,-92.45431,36.340964],
-  "geometry": {"coordinates":[-92.45431,36.340964],"type":"Point"}
+  "bbox": [
+    -92.45431,
+    36.340964,
+    -92.45431,
+    36.340964
+],
+  "geometry": {"coordinates":[-92.45431000000001,36.340964],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220102087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.309631,35.332298,-94.309631,35.332298",
     "geom:latitude":35.332298,
     "geom:longitude":-94.309631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1301 Fort St",
     "sg:city":"Barling",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220102087,
-    "wof:lastmodified":1449074828,
+    "wof:lastmodified":1466322259,
     "wof:name":"Works The",
     "wof:parent_id":85832863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "salon"
     ]
 },
-  "bbox": [-94.309631,35.332298,-94.309631,35.332298],
+  "bbox": [
+    -94.309631,
+    35.332298,
+    -94.309631,
+    35.332298
+],
   "geometry": {"coordinates":[-94.309631,35.332298],"type":"Point"}
 }

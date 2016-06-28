@@ -2,13 +2,14 @@
   "id": 219548401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.589737,35.309926,-92.589737,35.309926",
     "geom:latitude":35.309926,
     "geom:longitude":-92.589737,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Wright Loop",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219548401,
-    "wof:lastmodified":1449072833,
+    "wof:lastmodified":1466324321,
     "wof:name":"Ross Roofing",
     "wof:parent_id":85850611,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-92.589737,35.309926,-92.589737,35.309926],
+  "bbox": [
+    -92.589737,
+    35.309926,
+    -92.589737,
+    35.309926
+],
   "geometry": {"coordinates":[-92.589737,35.309926],"type":"Point"}
 }

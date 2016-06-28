@@ -2,13 +2,14 @@
   "id": 219604893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.192705,35.200257,-90.192705,35.200257",
     "geom:latitude":35.200257,
     "geom:longitude":-90.192705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"131 Meadowbrook Cir",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219604893,
-    "wof:lastmodified":1449073508,
+    "wof:lastmodified":1466324819,
     "wof:name":"Gutter Service Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gutter"
     ]
 },
-  "bbox": [-90.192705,35.200257,-90.192705,35.200257],
+  "bbox": [
+    -90.192705,
+    35.200257,
+    -90.192705,
+    35.200257
+],
   "geometry": {"coordinates":[-90.192705,35.200257],"type":"Point"}
 }

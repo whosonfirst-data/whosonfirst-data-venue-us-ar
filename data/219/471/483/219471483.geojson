@@ -2,13 +2,14 @@
   "id": 219471483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.733375,35.243204,-92.733375,35.243204",
     "geom:latitude":35.243204,
     "geom:longitude":-92.733375,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 Highway 95",
     "sg:city":"Morrilton",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":219471483,
-    "wof:lastmodified":1449071805,
+    "wof:lastmodified":1466323588,
     "wof:name":"Subway",
     "wof:parent_id":85850611,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "take"
     ]
 },
-  "bbox": [-92.733375,35.243204,-92.733375,35.243204],
+  "bbox": [
+    -92.733375,
+    35.243204,
+    -92.733375,
+    35.243204
+],
   "geometry": {"coordinates":[-92.733375,35.243204],"type":"Point"}
 }

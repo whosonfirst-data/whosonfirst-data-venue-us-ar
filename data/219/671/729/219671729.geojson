@@ -2,13 +2,14 @@
   "id": 219671729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.500519,36.203958,-90.500519,36.203958",
     "geom:latitude":36.203958,
     "geom:longitude":-90.500519,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"140 Whipperwill Ln",
     "sg:city":"Marmaduke",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219671729,
-    "wof:lastmodified":1449071207,
+    "wof:lastmodified":1466324878,
     "wof:name":"Lafe Auto Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "tune"
     ]
 },
-  "bbox": [-90.500519,36.203958,-90.500519,36.203958],
+  "bbox": [
+    -90.500519,
+    36.203958,
+    -90.500519,
+    36.203958
+],
   "geometry": {"coordinates":[-90.500519,36.203958],"type":"Point"}
 }

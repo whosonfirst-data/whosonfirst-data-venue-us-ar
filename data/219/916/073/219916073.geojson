@@ -2,13 +2,14 @@
   "id": 219916073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.27387,36.043141,-94.27387,36.043141",
     "geom:latitude":36.043141,
     "geom:longitude":-94.27387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"774 Rheas Mill Rd",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219916073,
-    "wof:lastmodified":1449072306,
+    "wof:lastmodified":1466325200,
     "wof:name":"Bequette Land And Cattle Co",
     "wof:parent_id":85885427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ranch"
     ]
 },
-  "bbox": [-94.27387,36.043141,-94.27387,36.043141],
+  "bbox": [
+    -94.27387,
+    36.043141,
+    -94.27387,
+    36.043141
+],
   "geometry": {"coordinates":[-94.27387,36.043141],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219753535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.104775,36.241164,-93.104775,36.241164",
     "geom:latitude":36.241164,
     "geom:longitude":-93.104775,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1012 Highway 62 65 N 65 Bus",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":219753535,
-    "wof:lastmodified":1449070803,
+    "wof:lastmodified":1466324911,
     "wof:name":"Neighbor's Mill Bakery & Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "sandwich"
     ]
 },
-  "bbox": [-93.104775,36.241164,-93.104775,36.241164],
+  "bbox": [
+    -93.104775,
+    36.241164,
+    -93.104775,
+    36.241164
+],
   "geometry": {"coordinates":[-93.104775,36.241164],"type":"Point"}
 }

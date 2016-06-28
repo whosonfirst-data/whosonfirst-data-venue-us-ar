@@ -2,13 +2,14 @@
   "id": 219282591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.085659,34.119735,-93.085659,34.119735",
     "geom:latitude":34.119735,
     "geom:longitude":-93.085659,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2911 Pine St",
     "sg:city":"Arkadelphia",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219282591,
-    "wof:lastmodified":1449072602,
+    "wof:lastmodified":1466321588,
     "wof:name":"Runyan, Keith L",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "business"
     ]
 },
-  "bbox": [-93.085659,34.119735,-93.085659,34.119735],
-  "geometry": {"coordinates":[-93.085659,34.119735],"type":"Point"}
+  "bbox": [
+    -93.085659,
+    34.119735,
+    -93.085659,
+    34.119735
+],
+  "geometry": {"coordinates":[-93.08565900000001,34.119735],"type":"Point"}
 }

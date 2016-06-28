@@ -2,13 +2,14 @@
   "id": 219220241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.721779,33.35627,-92.721779,33.35627",
     "geom:latitude":33.35627,
     "geom:longitude":-92.721779,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 Pershing Hwy",
     "sg:city":"Smackover",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":219220241,
-    "wof:lastmodified":1449073791,
+    "wof:lastmodified":1466321046,
     "wof:name":"Davis R Keith Jr Md",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-92.721779,33.35627,-92.721779,33.35627],
+  "bbox": [
+    -92.721779,
+    33.35627,
+    -92.721779,
+    33.35627
+],
   "geometry": {"coordinates":[-92.721779,33.35627],"type":"Point"}
 }

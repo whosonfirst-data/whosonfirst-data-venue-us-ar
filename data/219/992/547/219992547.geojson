@@ -2,13 +2,14 @@
   "id": 219992547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.142992,36.315331,-94.142992,36.315331",
     "geom:latitude":36.315331,
     "geom:longitude":-94.142992,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1705 W Lela St",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219992547,
-    "wof:lastmodified":1449072053,
+    "wof:lastmodified":1466325250,
     "wof:name":"Church Of God Peniel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-94.142992,36.315331,-94.142992,36.315331],
-  "geometry": {"coordinates":[-94.142992,36.315331],"type":"Point"}
+  "bbox": [
+    -94.142992,
+    36.315331,
+    -94.142992,
+    36.315331
+],
+  "geometry": {"coordinates":[-94.14299200000001,36.315331],"type":"Point"}
 }

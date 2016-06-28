@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102343613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.111219,36.22523,-93.111219,36.22523",
     "geom:latitude":36.22523,
     "geom:longitude":-93.111219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"522 S Pine St",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102343613,
-    "wof:lastmodified":1449069515,
+    "wof:lastmodified":1466323920,
     "wof:name":"S&J Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.111219,36.22523,-93.111219,36.22523],
-  "geometry": {"coordinates":[-93.111219,36.22523],"type":"Point"}
+  "bbox": [
+    -93.111219,
+    36.22523,
+    -93.111219,
+    36.22523
+],
+  "geometry": {"coordinates":[-93.11121900000001,36.22523],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219273545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.376655,33.791862,-93.376655,33.791862",
     "geom:latitude":33.791862,
     "geom:longitude":-93.376655,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"736 Martin St",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219273545,
-    "wof:lastmodified":1449072212,
+    "wof:lastmodified":1466321512,
     "wof:name":"Prescott Adult Education",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "adult"
     ]
 },
-  "bbox": [-93.376655,33.791862,-93.376655,33.791862],
+  "bbox": [
+    -93.376655,
+    33.791862,
+    -93.376655,
+    33.791862
+],
   "geometry": {"coordinates":[-93.376655,33.791862],"type":"Point"}
 }

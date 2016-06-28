@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102326857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.732064,36.380813,-93.732064,36.380813",
     "geom:latitude":36.380813,
     "geom:longitude":-93.732064,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Forest Ln",
     "sg:city":"Eureka Springs",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102326857,
-    "wof:lastmodified":1449068787,
+    "wof:lastmodified":1466323687,
     "wof:name":"Bill Billings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.732064,36.380813,-93.732064,36.380813],
-  "geometry": {"coordinates":[-93.732064,36.380813],"type":"Point"}
+  "bbox": [
+    -93.732064,
+    36.380813,
+    -93.732064,
+    36.380813
+],
+  "geometry": {"coordinates":[-93.73206399999999,36.380813],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219469583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.420743,34.970898,-92.420743,34.970898",
     "geom:latitude":34.970898,
     "geom:longitude":-92.420743,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"725 Highway 365",
     "sg:city":"Mayflower",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219469583,
-    "wof:lastmodified":1449074023,
+    "wof:lastmodified":1466323549,
     "wof:name":"Grassy Lake Apts.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-92.420743,34.970898,-92.420743,34.970898],
+  "bbox": [
+    -92.420743,
+    34.970898,
+    -92.420743,
+    34.970898
+],
   "geometry": {"coordinates":[-92.420743,34.970898],"type":"Point"}
 }

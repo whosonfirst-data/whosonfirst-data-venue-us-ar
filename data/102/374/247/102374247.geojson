@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102374247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.352472,35.443592,-94.352472,35.443592",
     "geom:latitude":35.443592,
     "geom:longitude":-94.352472,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 N 7th St",
     "sg:city":"Van Buren",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102374247,
-    "wof:lastmodified":1449068811,
+    "wof:lastmodified":1466320891,
     "wof:name":"Gold Key Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.352472,35.443592,-94.352472,35.443592],
-  "geometry": {"coordinates":[-94.352472,35.443592],"type":"Point"}
+  "bbox": [
+    -94.352472,
+    35.443592,
+    -94.352472,
+    35.443592
+],
+  "geometry": {"coordinates":[-94.35247200000001,35.443592],"type":"Point"}
 }

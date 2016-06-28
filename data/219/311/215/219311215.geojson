@@ -2,13 +2,14 @@
   "id": 219311215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.171885,34.557292,-94.171885,34.557292",
     "geom:latitude":34.557292,
     "geom:longitude":-94.171885,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3455 Polk Road 54",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219311215,
-    "wof:lastmodified":1449071222,
+    "wof:lastmodified":1466321826,
     "wof:name":"Belle Southern Depot",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "railroads-ticket"
     ]
 },
-  "bbox": [-94.171885,34.557292,-94.171885,34.557292],
+  "bbox": [
+    -94.171885,
+    34.557292,
+    -94.171885,
+    34.557292
+],
   "geometry": {"coordinates":[-94.171885,34.557292],"type":"Point"}
 }

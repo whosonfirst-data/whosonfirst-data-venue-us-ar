@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102409453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.186399,36.008624,-93.186399,36.008624",
     "geom:latitude":36.008624,
     "geom:longitude":-93.186399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"502 Court St",
     "sg:city":"Jasper",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102409453,
-    "wof:lastmodified":1449068766,
+    "wof:lastmodified":1466325204,
     "wof:name":"Newton County Family Practice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.186399,36.008624,-93.186399,36.008624],
-  "geometry": {"coordinates":[-93.186399,36.008624],"type":"Point"}
+  "bbox": [
+    -93.186399,
+    36.008624,
+    -93.186399,
+    36.008624
+],
+  "geometry": {"coordinates":[-93.18639899999999,36.008624],"type":"Point"}
 }

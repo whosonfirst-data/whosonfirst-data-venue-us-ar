@@ -2,13 +2,14 @@
   "id": 219565751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.91893,35.941643,-89.91893,35.941643",
     "geom:latitude":35.941643,
     "geom:longitude":-89.91893,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1520 N Division St",
     "sg:city":"Blytheville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219565751,
-    "wof:lastmodified":1449073604,
+    "wof:lastmodified":1466324533,
     "wof:name":"Green River Medical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.91893,35.941643,-89.91893,35.941643],
+  "bbox": [
+    -89.91893,
+    35.941643,
+    -89.91893,
+    35.941643
+],
   "geometry": {"coordinates":[-89.91893,35.941643],"type":"Point"}
 }

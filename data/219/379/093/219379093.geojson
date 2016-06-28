@@ -2,13 +2,14 @@
   "id": 219379093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.414909,35.07877,-92.414909,35.07877",
     "geom:latitude":35.07877,
     "geom:longitude":-92.414909,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"175 Tilk Rd",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219379093,
-    "wof:lastmodified":1449072432,
+    "wof:lastmodified":1466322665,
     "wof:name":"American Freightways Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking-motor"
     ]
 },
-  "bbox": [-92.414909,35.07877,-92.414909,35.07877],
-  "geometry": {"coordinates":[-92.414909,35.07877],"type":"Point"}
+  "bbox": [
+    -92.414909,
+    35.07877,
+    -92.414909,
+    35.07877
+],
+  "geometry": {"coordinates":[-92.41490899999999,35.07877],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219557983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.263512,34.03106,-91.263512,34.03106",
     "geom:latitude":34.03106,
     "geom:longitude":-91.263512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"148 Merrisach Ln",
     "sg:city":"Tichnor",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219557983,
-    "wof:lastmodified":1449072922,
+    "wof:lastmodified":1466324389,
     "wof:name":"Willard Lee Kellum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "bureau"
     ]
 },
-  "bbox": [-91.263512,34.03106,-91.263512,34.03106],
-  "geometry": {"coordinates":[-91.263512,34.03106],"type":"Point"}
+  "bbox": [
+    -91.263512,
+    34.03106,
+    -91.263512,
+    34.03106
+],
+  "geometry": {"coordinates":[-91.26351200000001,34.03106],"type":"Point"}
 }

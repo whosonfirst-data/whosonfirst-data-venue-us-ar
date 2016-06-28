@@ -2,13 +2,14 @@
   "id": 219294599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.030563,34.305224,-93.030563,34.305224",
     "geom:latitude":34.305224,
     "geom:longitude":-93.030563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2011 Antioch Rd",
     "sg:city":"Donaldson",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219294599,
-    "wof:lastmodified":1449072914,
+    "wof:lastmodified":1466321685,
     "wof:name":"Shane's Crane Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-93.030563,34.305224,-93.030563,34.305224],
+  "bbox": [
+    -93.030563,
+    34.305224,
+    -93.030563,
+    34.305224
+],
   "geometry": {"coordinates":[-93.030563,34.305224],"type":"Point"}
 }

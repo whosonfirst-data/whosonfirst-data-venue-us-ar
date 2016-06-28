@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102269053",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.405986,34.755501,-92.405986,34.755501",
     "geom:latitude":34.755501,
     "geom:longitude":-92.405986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Markham Park Dr",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85833895,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85833895
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102269053",
-    "wof:lastmodified":1449069272,
+    "wof:lastmodified":1466322272,
     "wof:name":"Moose Cleaners",
     "wof:parent_id":85833895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.405986,34.755501,-92.405986,34.755501],
+  "bbox": [
+    -92.405986,
+    34.755501,
+    -92.405986,
+    34.755501
+],
   "geometry": {"coordinates":[-92.405986,34.755501],"type":"Point"}
 }

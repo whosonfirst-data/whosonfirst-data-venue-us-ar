@@ -2,13 +2,14 @@
   "id": 220112791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.28006,35.221931,-94.28006,35.221931",
     "geom:latitude":35.221931,
     "geom:longitude":-94.28006,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1501 W Center St",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":220112791,
-    "wof:lastmodified":1449074387,
+    "wof:lastmodified":1466322460,
     "wof:name":"Carnival Party",
     "wof:parent_id":85808359,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "event"
     ]
 },
-  "bbox": [-94.28006,35.221931,-94.28006,35.221931],
-  "geometry": {"coordinates":[-94.28006,35.221931],"type":"Point"}
+  "bbox": [
+    -94.28006,
+    35.221931,
+    -94.28006,
+    35.221931
+],
+  "geometry": {"coordinates":[-94.28006000000001,35.221931],"type":"Point"}
 }

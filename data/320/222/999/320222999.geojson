@@ -2,13 +2,14 @@
   "id": 320222999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.478045,35.25153,-94.478045,35.25153",
     "geom:latitude":35.25153,
     "geom:longitude":-94.478045,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1307 State Hwy 112",
     "sg:city":"Pocola",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320222999,
-    "wof:lastmodified":1449013771,
+    "wof:lastmodified":1466320484,
     "wof:name":"Diamond D Ind Svc",
     "wof:parent_id":85809847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "sheet"
     ]
 },
-  "bbox": [-94.478045,35.25153,-94.478045,35.25153],
-  "geometry": {"coordinates":[-94.478045,35.25153],"type":"Point"}
+  "bbox": [
+    -94.478045,
+    35.25153,
+    -94.478045,
+    35.25153
+],
+  "geometry": {"coordinates":[-94.47804499999999,35.25153],"type":"Point"}
 }

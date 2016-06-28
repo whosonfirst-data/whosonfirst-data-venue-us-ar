@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102337843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.091107,34.897547,-94.091107,34.897547",
     "geom:latitude":34.897547,
     "geom:longitude":-94.091107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 S Main St",
     "sg:city":"Waldron",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102337843,
-    "wof:lastmodified":1449068899,
+    "wof:lastmodified":1466323890,
     "wof:name":"T & Z Small Engine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.091107,34.897547,-94.091107,34.897547],
-  "geometry": {"coordinates":[-94.091107,34.897547],"type":"Point"}
+  "bbox": [
+    -94.091107,
+    34.897547,
+    -94.091107,
+    34.897547
+],
+  "geometry": {"coordinates":[-94.09110699999999,34.897547],"type":"Point"}
 }

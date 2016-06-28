@@ -2,13 +2,14 @@
   "id": 219169577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.78949,33.638218,-91.78949,33.638218",
     "geom:latitude":33.638218,
     "geom:longitude":-91.78949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1004 N Main St",
     "sg:city":"Monticello",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219169577,
-    "wof:lastmodified":1449072576,
+    "wof:lastmodified":1466320547,
     "wof:name":"Daniels, William R Atty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-91.78949,33.638218,-91.78949,33.638218],
+  "bbox": [
+    -91.78949,
+    33.638218,
+    -91.78949,
+    33.638218
+],
   "geometry": {"coordinates":[-91.78949,33.638218],"type":"Point"}
 }

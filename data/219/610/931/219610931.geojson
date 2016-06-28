@@ -2,13 +2,14 @@
   "id": 219610931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.554128,35.268225,-90.554128,35.268225",
     "geom:latitude":35.268225,
     "geom:longitude":-90.554128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"96 Park",
     "sg:city":"Parkin",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219610931,
-    "wof:lastmodified":1449073858,
+    "wof:lastmodified":1466324598,
     "wof:name":"The Friendly Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.554128,35.268225,-90.554128,35.268225],
-  "geometry": {"coordinates":[-90.554128,35.268225],"type":"Point"}
+  "bbox": [
+    -90.554128,
+    35.268225,
+    -90.554128,
+    35.268225
+],
+  "geometry": {"coordinates":[-90.55412800000001,35.268225],"type":"Point"}
 }

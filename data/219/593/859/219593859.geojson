@@ -2,13 +2,14 @@
   "id": 219593859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.768082,34.584682,-90.768082,34.584682",
     "geom:latitude":34.584682,
     "geom:longitude":-90.768082,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1716 Highway 1 N",
     "sg:city":"Lexa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219593859,
-    "wof:lastmodified":1449072726,
+    "wof:lastmodified":1466324575,
     "wof:name":"Ronald Turner",
     "wof:parent_id":85834075,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.768082,34.584682,-90.768082,34.584682],
-  "geometry": {"coordinates":[-90.768082,34.584682],"type":"Point"}
+  "bbox": [
+    -90.768082,
+    34.584682,
+    -90.768082,
+    34.584682
+],
+  "geometry": {"coordinates":[-90.76808200000001,34.584682],"type":"Point"}
 }

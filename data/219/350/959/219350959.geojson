@@ -2,13 +2,14 @@
   "id": 219350959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.627522,34.656857,-92.627522,34.656857",
     "geom:latitude":34.656857,
     "geom:longitude":-92.627522,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4261 Steel Bridge Rd",
     "sg:city":"Benton",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219350959,
-    "wof:lastmodified":1449072184,
+    "wof:lastmodified":1466322289,
     "wof:name":"Adams Maintenance Service",
     "wof:parent_id":85817531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "cleaners-interior"
     ]
 },
-  "bbox": [-92.627522,34.656857,-92.627522,34.656857],
+  "bbox": [
+    -92.627522,
+    34.656857,
+    -92.627522,
+    34.656857
+],
   "geometry": {"coordinates":[-92.627522,34.656857],"type":"Point"}
 }

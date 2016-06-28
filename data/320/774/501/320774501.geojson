@@ -2,13 +2,14 @@
   "id": 320774501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.549309,36.185818,-94.549309,36.185818",
     "geom:latitude":36.185818,
     "geom:longitude":-94.549309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 S Carl St",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320774501,
-    "wof:lastmodified":1449012724,
+    "wof:lastmodified":1466320647,
     "wof:name":"John Haid Lindsey & Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.549309,36.185818,-94.549309,36.185818],
-  "geometry": {"coordinates":[-94.549309,36.185818],"type":"Point"}
+  "bbox": [
+    -94.549309,
+    36.185818,
+    -94.549309,
+    36.185818
+],
+  "geometry": {"coordinates":[-94.54930899999999,36.185818],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102423849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.603547,34.938128,-92.603547,34.938128",
     "geom:latitude":34.938128,
     "geom:longitude":-92.603547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33223 State Hwy 300",
     "sg:city":"Bigelow",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102423849,
-    "wof:lastmodified":1449068199,
+    "wof:lastmodified":1466325476,
     "wof:name":"St Francis Hall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.603547,34.938128,-92.603547,34.938128],
-  "geometry": {"coordinates":[-92.603547,34.938128],"type":"Point"}
+  "bbox": [
+    -92.603547,
+    34.938128,
+    -92.603547,
+    34.938128
+],
+  "geometry": {"coordinates":[-92.60354700000001,34.938128],"type":"Point"}
 }

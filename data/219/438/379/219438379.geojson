@@ -2,13 +2,14 @@
   "id": 219438379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.1202,34.867337,-92.1202,34.867337",
     "geom:latitude":34.867337,
     "geom:longitude":-92.1202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 N Jeff Davis Ave",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219438379,
-    "wof:lastmodified":1449071595,
+    "wof:lastmodified":1466323214,
     "wof:name":"Nail Works",
     "wof:parent_id":85852337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.1202,34.867337,-92.1202,34.867337],
+  "bbox": [
+    -92.1202,
+    34.867337,
+    -92.1202,
+    34.867337
+],
   "geometry": {"coordinates":[-92.1202,34.867337],"type":"Point"}
 }

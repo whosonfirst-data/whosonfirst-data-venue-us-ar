@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102405561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.746693,34.780322,-91.746693,34.780322",
     "geom:latitude":34.780322,
     "geom:longitude":-91.746693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 E Park St",
     "sg:city":"Carlisle",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102405561,
-    "wof:lastmodified":1449069996,
+    "wof:lastmodified":1466325045,
     "wof:name":"Elder Drilling & Supply Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.746693,34.780322,-91.746693,34.780322],
-  "geometry": {"coordinates":[-91.746693,34.780322],"type":"Point"}
+  "bbox": [
+    -91.746693,
+    34.780322,
+    -91.746693,
+    34.780322
+],
+  "geometry": {"coordinates":[-91.74669299999999,34.780322],"type":"Point"}
 }

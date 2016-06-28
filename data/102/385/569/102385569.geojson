@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102385569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.351089,34.722915,-92.351089,34.722915",
     "geom:latitude":34.722915,
     "geom:longitude":-92.351089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3210 S Bryant St",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85815039,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85815039
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102385569,
-    "wof:lastmodified":1449069176,
+    "wof:lastmodified":1466323240,
     "wof:name":"Reflections Of Elegance",
     "wof:parent_id":85815039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.351089,34.722915,-92.351089,34.722915],
+  "bbox": [
+    -92.351089,
+    34.722915,
+    -92.351089,
+    34.722915
+],
   "geometry": {"coordinates":[-92.351089,34.722915],"type":"Point"}
 }

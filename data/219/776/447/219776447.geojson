@@ -2,13 +2,14 @@
   "id": 219776447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.10026,36.270037,-93.10026,36.270037",
     "geom:latitude":36.270037,
     "geom:longitude":-93.10026,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"532 Bunker Rd",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219776447,
-    "wof:lastmodified":1449071166,
+    "wof:lastmodified":1466324931,
     "wof:name":"Hard Hat Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-93.10026,36.270037,-93.10026,36.270037],
-  "geometry": {"coordinates":[-93.10026,36.270037],"type":"Point"}
+  "bbox": [
+    -93.10026,
+    36.270037,
+    -93.10026,
+    36.270037
+],
+  "geometry": {"coordinates":[-93.10026000000001,36.270037],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203415999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.481933,33.875399,-91.481933,33.875399",
     "geom:latitude":33.875399,
     "geom:longitude":-91.481933,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"660 Highway 65 S",
     "sg:city":"Dumas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203415999,
-    "wof:lastmodified":1449026333,
+    "wof:lastmodified":1466320559,
     "wof:name":"The Wash House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "commercial"
     ]
 },
-  "bbox": [-91.481933,33.875399,-91.481933,33.875399],
+  "bbox": [
+    -91.481933,
+    33.875399,
+    -91.481933,
+    33.875399
+],
   "geometry": {"coordinates":[-91.481933,33.875399],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219377183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.339033,35.045349,-92.339033,35.045349",
     "geom:latitude":35.045349,
     "geom:longitude":-92.339033,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"457 Highway 286 E",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219377183,
-    "wof:lastmodified":1449071713,
+    "wof:lastmodified":1466322649,
     "wof:name":"Healy's Auto Tech Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "bureau"
     ]
 },
-  "bbox": [-92.339033,35.045349,-92.339033,35.045349],
+  "bbox": [
+    -92.339033,
+    35.045349,
+    -92.339033,
+    35.045349
+],
   "geometry": {"coordinates":[-92.339033,35.045349],"type":"Point"}
 }

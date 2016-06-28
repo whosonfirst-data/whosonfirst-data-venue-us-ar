@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102363283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.203764,35.20833,-90.203764,35.20833",
     "geom:latitude":35.20833,
     "geom:longitude":-90.203764,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"178 Block St",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102363283,
-    "wof:lastmodified":1449069887,
+    "wof:lastmodified":1466324268,
     "wof:name":"Nichols Lawrence S Dr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.203764,35.20833,-90.203764,35.20833],
-  "geometry": {"coordinates":[-90.203764,35.20833],"type":"Point"}
+  "bbox": [
+    -90.203764,
+    35.20833,
+    -90.203764,
+    35.20833
+],
+  "geometry": {"coordinates":[-90.20376400000001,35.20833],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219333323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.923702,35.146084,-91.923702,35.146084",
     "geom:latitude":35.146084,
     "geom:longitude":-91.923702,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1897 Highway 31 N",
     "sg:city":"Beebe",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":219333323,
-    "wof:lastmodified":1449073656,
+    "wof:lastmodified":1466322030,
     "wof:name":"Patrick Fence Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "contractor"
     ]
 },
-  "bbox": [-91.923702,35.146084,-91.923702,35.146084],
-  "geometry": {"coordinates":[-91.923702,35.146084],"type":"Point"}
+  "bbox": [
+    -91.923702,
+    35.146084,
+    -91.923702,
+    35.146084
+],
+  "geometry": {"coordinates":[-91.92370200000001,35.146084],"type":"Point"}
 }

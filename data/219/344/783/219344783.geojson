@@ -2,13 +2,14 @@
   "id": 219344783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.544149,34.599745,-92.544149,34.599745",
     "geom:latitude":34.599745,
     "geom:longitude":-92.544149,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3315 Boone Rd",
     "sg:city":"Benton",
     "sg:classifiers":[
@@ -74,10 +75,11 @@
         }
     ],
     "wof:id":219344783,
-    "wof:lastmodified":1449070555,
+    "wof:lastmodified":1466322185,
     "wof:name":"Coors Aci",
     "wof:parent_id":85817531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -91,6 +93,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-92.544149,34.599745,-92.544149,34.599745],
+  "bbox": [
+    -92.544149,
+    34.599745,
+    -92.544149,
+    34.599745
+],
   "geometry": {"coordinates":[-92.544149,34.599745],"type":"Point"}
 }

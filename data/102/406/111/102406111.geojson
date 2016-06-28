@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102406111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.293672,33.35143,-93.293672,33.35143",
     "geom:latitude":33.35143,
     "geom:longitude":-93.293672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"306 E McKissack",
     "sg:city":"Waldo",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102406111,
-    "wof:lastmodified":1449069041,
+    "wof:lastmodified":1466324940,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.293672,33.35143,-93.293672,33.35143],
+  "bbox": [
+    -93.293672,
+    33.35143,
+    -93.293672,
+    33.35143
+],
   "geometry": {"coordinates":[-93.293672,33.35143],"type":"Point"}
 }

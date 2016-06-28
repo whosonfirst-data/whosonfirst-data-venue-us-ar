@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102244847",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.346051,34.749135,-92.346051,34.749135",
     "geom:latitude":34.749135,
     "geom:longitude":-92.346051,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"605 Nottingham Rd",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -32,11 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85838647,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85838647
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":"102244847",
-    "wof:lastmodified":1449068719,
+    "wof:lastmodified":1466321832,
     "wof:name":"Outdoor Images Inc",
     "wof:parent_id":85838647,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.346051,34.749135,-92.346051,34.749135],
+  "bbox": [
+    -92.346051,
+    34.749135,
+    -92.346051,
+    34.749135
+],
   "geometry": {"coordinates":[-92.346051,34.749135],"type":"Point"}
 }

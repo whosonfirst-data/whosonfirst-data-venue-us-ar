@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102373293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.239922,34.586968,-94.239922,34.586968",
     "geom:latitude":34.586968,
     "geom:longitude":-94.239922,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"304 Dequeen St",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102373293,
-    "wof:lastmodified":1449068989,
+    "wof:lastmodified":1466320684,
     "wof:name":"Mena Police Department",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.239922,34.586968,-94.239922,34.586968],
-  "geometry": {"coordinates":[-94.239922,34.586968],"type":"Point"}
+  "bbox": [
+    -94.239922,
+    34.586968,
+    -94.239922,
+    34.586968
+],
+  "geometry": {"coordinates":[-94.23992200000001,34.586968],"type":"Point"}
 }

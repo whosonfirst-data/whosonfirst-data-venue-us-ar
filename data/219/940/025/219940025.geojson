@@ -2,13 +2,14 @@
   "id": 219940025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.138298,36.252701,-94.138298,36.252701",
     "geom:latitude":36.252701,
     "geom:longitude":-94.138298,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 Parkwood St Ste C",
     "sg:city":"Lowell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219940025,
-    "wof:lastmodified":1449071261,
+    "wof:lastmodified":1466325073,
     "wof:name":"Klock Robert D Atty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.138298,36.252701,-94.138298,36.252701],
-  "geometry": {"coordinates":[-94.138298,36.252701],"type":"Point"}
+  "bbox": [
+    -94.138298,
+    36.252701,
+    -94.138298,
+    36.252701
+],
+  "geometry": {"coordinates":[-94.13829800000001,36.252701],"type":"Point"}
 }

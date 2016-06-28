@@ -2,13 +2,14 @@
   "id": 219577685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.026639,35.862543,-90.026639,35.862543",
     "geom:latitude":35.862543,
     "geom:longitude":-90.026639,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 E State Highway 18",
     "sg:city":"Blytheville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219577685,
-    "wof:lastmodified":1449074042,
+    "wof:lastmodified":1466324733,
     "wof:name":"Dell Power Plant",
     "wof:parent_id":85814753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.026639,35.862543,-90.026639,35.862543],
+  "bbox": [
+    -90.026639,
+    35.862543,
+    -90.026639,
+    35.862543
+],
   "geometry": {"coordinates":[-90.026639,35.862543],"type":"Point"}
 }

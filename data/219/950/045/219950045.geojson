@@ -2,13 +2,14 @@
   "id": 219950045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.151783,36.355801,-94.151783,36.355801",
     "geom:latitude":36.355801,
     "geom:longitude":-94.151783,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2340 W Hudson Rd",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -71,10 +72,11 @@
         }
     ],
     "wof:id":219950045,
-    "wof:lastmodified":1449071764,
+    "wof:lastmodified":1466325239,
     "wof:name":"Clear Creek Golf Car",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -86,6 +88,11 @@
         "utility"
     ]
 },
-  "bbox": [-94.151783,36.355801,-94.151783,36.355801],
-  "geometry": {"coordinates":[-94.151783,36.355801],"type":"Point"}
+  "bbox": [
+    -94.151783,
+    36.355801,
+    -94.151783,
+    36.355801
+],
+  "geometry": {"coordinates":[-94.15178299999999,36.355801],"type":"Point"}
 }

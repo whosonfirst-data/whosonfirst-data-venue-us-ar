@@ -2,13 +2,14 @@
   "id": 220086875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.61447,35.431463,-93.61447,35.431463",
     "geom:latitude":35.431463,
     "geom:longitude":-93.61447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 Main St",
     "sg:city":"Hartman",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":220086875,
-    "wof:lastmodified":1449074594,
+    "wof:lastmodified":1466321807,
     "wof:name":"USPS - United States Post Office - Hartman Main Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "shipping"
     ]
 },
-  "bbox": [-93.61447,35.431463,-93.61447,35.431463],
+  "bbox": [
+    -93.61447,
+    35.431463,
+    -93.61447,
+    35.431463
+],
   "geometry": {"coordinates":[-93.61447,35.431463],"type":"Point"}
 }

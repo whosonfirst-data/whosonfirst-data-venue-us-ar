@@ -2,13 +2,14 @@
   "id": 336754857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.236565,34.582825,-94.236565,34.582825",
     "geom:latitude":34.582825,
     "geom:longitude":-94.236565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"812 Dequeen St",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336754857,
-    "wof:lastmodified":1448997637,
+    "wof:lastmodified":1466320422,
     "wof:name":"Bill Beam CPA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-94.236565,34.582825,-94.236565,34.582825],
+  "bbox": [
+    -94.236565,
+    34.582825,
+    -94.236565,
+    34.582825
+],
   "geometry": {"coordinates":[-94.236565,34.582825],"type":"Point"}
 }

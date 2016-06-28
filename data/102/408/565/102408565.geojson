@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102408565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.044019,34.65874,-93.044019,34.65874",
     "geom:latitude":34.65874,
     "geom:longitude":-93.044019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 W Villena Dr",
     "sg:city":"Hot Springs National",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102408565,
-    "wof:lastmodified":1449068106,
+    "wof:lastmodified":1466325206,
     "wof:name":"Ekstrand Construction Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.044019,34.65874,-93.044019,34.65874],
-  "geometry": {"coordinates":[-93.044019,34.65874],"type":"Point"}
+  "bbox": [
+    -93.044019,
+    34.65874,
+    -93.044019,
+    34.65874
+],
+  "geometry": {"coordinates":[-93.04401900000001,34.65874],"type":"Point"}
 }

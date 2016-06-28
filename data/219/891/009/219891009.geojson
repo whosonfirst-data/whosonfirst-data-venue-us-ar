@@ -2,13 +2,14 @@
   "id": 219891009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.249334,36.422668,-94.249334,36.422668",
     "geom:latitude":36.422668,
     "geom:longitude":-94.249334,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10085 Howland Rd",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219891009,
-    "wof:lastmodified":1449072521,
+    "wof:lastmodified":1466325178,
     "wof:name":"Compass Product Management Inc",
     "wof:parent_id":85895803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "services-household"
     ]
 },
-  "bbox": [-94.249334,36.422668,-94.249334,36.422668],
+  "bbox": [
+    -94.249334,
+    36.422668,
+    -94.249334,
+    36.422668
+],
   "geometry": {"coordinates":[-94.249334,36.422668],"type":"Point"}
 }

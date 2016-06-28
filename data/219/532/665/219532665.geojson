@@ -2,13 +2,14 @@
   "id": 219532665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.715109,35.224302,-91.715109,35.224302",
     "geom:latitude":35.224302,
     "geom:longitude":-91.715109,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1801 Benton St",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219532665,
-    "wof:lastmodified":1449071586,
+    "wof:lastmodified":1466324201,
     "wof:name":"K & L Electronics Sales And Service, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-91.715109,35.224302,-91.715109,35.224302],
+  "bbox": [
+    -91.715109,
+    35.224302,
+    -91.715109,
+    35.224302
+],
   "geometry": {"coordinates":[-91.715109,35.224302],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219370285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.744055,34.780281,-91.744055,34.780281",
     "geom:latitude":34.780281,
     "geom:longitude":-91.744055,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 E Park St",
     "sg:city":"Carlisle",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219370285,
-    "wof:lastmodified":1449072297,
+    "wof:lastmodified":1466322588,
     "wof:name":"Carlisle Auto Repair",
     "wof:parent_id":85811577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.744055,34.780281,-91.744055,34.780281],
+  "bbox": [
+    -91.744055,
+    34.780281,
+    -91.744055,
+    34.780281
+],
   "geometry": {"coordinates":[-91.744055,34.780281],"type":"Point"}
 }

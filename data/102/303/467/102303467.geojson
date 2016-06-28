@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102303467",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.489324,34.598913,-92.489324,34.598913",
     "geom:latitude":34.598913,
     "geom:longitude":-92.489324,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"805 N Reynolds Rd",
     "sg:city":"Bryant",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85844395,
+        85688549,
         85633793,
         85921383,
         102083257,
-        85688549
+        85844395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102303467",
-    "wof:lastmodified":1449067775,
+    "wof:lastmodified":1466323109,
     "wof:name":"Miss Brooke's Co",
     "wof:parent_id":85844395,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.489324,34.598913,-92.489324,34.598913],
+  "bbox": [
+    -92.489324,
+    34.598913,
+    -92.489324,
+    34.598913
+],
   "geometry": {"coordinates":[-92.489324,34.598913],"type":"Point"}
 }

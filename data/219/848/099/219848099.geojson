@@ -2,13 +2,14 @@
   "id": 219848099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.121725,36.120973,-94.121725,36.120973",
     "geom:latitude":36.120973,
     "geom:longitude":-94.121725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2786 E Millennium Pl # 1",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219848099,
-    "wof:lastmodified":1449070894,
+    "wof:lastmodified":1466325028,
     "wof:name":"Sdi Of Tontitown Arkansas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.121725,36.120973,-94.121725,36.120973],
+  "bbox": [
+    -94.121725,
+    36.120973,
+    -94.121725,
+    36.120973
+],
   "geometry": {"coordinates":[-94.121725,36.120973],"type":"Point"}
 }

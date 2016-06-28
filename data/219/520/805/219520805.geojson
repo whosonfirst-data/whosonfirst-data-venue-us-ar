@@ -2,13 +2,14 @@
   "id": 219520805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.818381,35.232422,-91.818381,35.232422",
     "geom:latitude":35.232422,
     "geom:longitude":-91.818381,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3183 W Country Club Rd",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219520805,
-    "wof:lastmodified":1449071560,
+    "wof:lastmodified":1466324110,
     "wof:name":"Elander Communications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.818381,35.232422,-91.818381,35.232422],
+  "bbox": [
+    -91.818381,
+    35.232422,
+    -91.818381,
+    35.232422
+],
   "geometry": {"coordinates":[-91.818381,35.232422],"type":"Point"}
 }

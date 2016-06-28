@@ -2,13 +2,14 @@
   "id": 203409629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.940315,33.092398,-91.940315,33.092398",
     "geom:latitude":33.092398,
     "geom:longitude":-91.940315,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 Ashley Road 6 E",
     "sg:city":"Crossett",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203409629,
-    "wof:lastmodified":1449025703,
+    "wof:lastmodified":1466320538,
     "wof:name":"Seven Acre Sky Services Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "bureau"
     ]
 },
-  "bbox": [-91.940315,33.092398,-91.940315,33.092398],
+  "bbox": [
+    -91.940315,
+    33.092398,
+    -91.940315,
+    33.092398
+],
   "geometry": {"coordinates":[-91.940315,33.092398],"type":"Point"}
 }

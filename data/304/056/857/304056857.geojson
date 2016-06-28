@@ -2,13 +2,14 @@
   "id": 304056857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.229724,34.586007,-94.229724,34.586007",
     "geom:latitude":34.586007,
     "geom:longitude":-94.229724,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"420 US Hwy 71",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":304056857,
-    "wof:lastmodified":1449043720,
+    "wof:lastmodified":1466324450,
     "wof:name":"Food Fast 92",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.229724,34.586007,-94.229724,34.586007],
+  "bbox": [
+    -94.229724,
+    34.586007,
+    -94.229724,
+    34.586007
+],
   "geometry": {"coordinates":[-94.229724,34.586007],"type":"Point"}
 }

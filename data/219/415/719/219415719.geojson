@@ -2,13 +2,14 @@
   "id": 219415719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.970365,34.544686,-91.970365,34.544686",
     "geom:latitude":34.544686,
     "geom:longitude":-91.970365,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 E Haywood St",
     "sg:city":"England",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":219415719,
-    "wof:lastmodified":1449072944,
+    "wof:lastmodified":1466322986,
     "wof:name":"Delbert's",
     "wof:parent_id":85811577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "perfume"
     ]
 },
-  "bbox": [-91.970365,34.544686,-91.970365,34.544686],
+  "bbox": [
+    -91.970365,
+    34.544686,
+    -91.970365,
+    34.544686
+],
   "geometry": {"coordinates":[-91.970365,34.544686],"type":"Point"}
 }

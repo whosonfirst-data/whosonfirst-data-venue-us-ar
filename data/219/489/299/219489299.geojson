@@ -2,13 +2,14 @@
   "id": 219489299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.231517,34.821683,-92.231517,34.821683",
     "geom:latitude":34.821683,
     "geom:longitude":-92.231517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7500 Highway 107",
     "sg:city":"Sherwood",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219489299,
-    "wof:lastmodified":1449072305,
+    "wof:lastmodified":1466323831,
     "wof:name":"Metropolitan Realty & Development",
     "wof:parent_id":85851723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "broker"
     ]
 },
-  "bbox": [-92.231517,34.821683,-92.231517,34.821683],
+  "bbox": [
+    -92.231517,
+    34.821683,
+    -92.231517,
+    34.821683
+],
   "geometry": {"coordinates":[-92.231517,34.821683],"type":"Point"}
 }

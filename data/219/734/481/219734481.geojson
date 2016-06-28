@@ -2,13 +2,14 @@
   "id": 219734481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.682523,35.801384,-91.682523,35.801384",
     "geom:latitude":35.801384,
     "geom:longitude":-91.682523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"380 Mcmahan Ln",
     "sg:city":"Batesville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219734481,
-    "wof:lastmodified":1449073469,
+    "wof:lastmodified":1466324898,
     "wof:name":"John E Clements",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.682523,35.801384,-91.682523,35.801384],
+  "bbox": [
+    -91.682523,
+    35.801384,
+    -91.682523,
+    35.801384
+],
   "geometry": {"coordinates":[-91.682523,35.801384],"type":"Point"}
 }

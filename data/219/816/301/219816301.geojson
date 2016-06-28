@@ -2,13 +2,14 @@
   "id": 219816301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.140486,36.07468,-94.140486,36.07468",
     "geom:latitude":36.07468,
     "geom:longitude":-94.140486,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"925 N Eastwood Dr",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219816301,
-    "wof:lastmodified":1449072436,
+    "wof:lastmodified":1466324974,
     "wof:name":"Clower Cattle Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ranch"
     ]
 },
-  "bbox": [-94.140486,36.07468,-94.140486,36.07468],
+  "bbox": [
+    -94.140486,
+    36.07468,
+    -94.140486,
+    36.07468
+],
   "geometry": {"coordinates":[-94.140486,36.07468],"type":"Point"}
 }

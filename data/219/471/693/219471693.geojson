@@ -2,13 +2,14 @@
   "id": 219471693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.743764,35.15263,-92.743764,35.15263",
     "geom:latitude":35.15263,
     "geom:longitude":-92.743764,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 S Moose St",
     "sg:city":"Morrilton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219471693,
-    "wof:lastmodified":1449071802,
+    "wof:lastmodified":1466323590,
     "wof:name":"Gordon, Allen",
     "wof:parent_id":85814069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-92.743764,35.15263,-92.743764,35.15263],
+  "bbox": [
+    -92.743764,
+    35.15263,
+    -92.743764,
+    35.15263
+],
   "geometry": {"coordinates":[-92.743764,35.15263],"type":"Point"}
 }

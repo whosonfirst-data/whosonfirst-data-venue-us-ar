@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102233951",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.367581,34.820491,-92.367581,34.820491",
     "geom:latitude":34.820491,
     "geom:longitude":-92.367581,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9825 Maumelle Blvd",
     "sg:city":"N Little Rock",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878759,
+        85688549,
         85633793,
         85921255,
         102082497,
-        85688549
+        85878759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102233951",
-    "wof:lastmodified":1449070252,
+    "wof:lastmodified":1466321590,
     "wof:name":"Gateway Self Storage",
     "wof:parent_id":85878759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.367581,34.820491,-92.367581,34.820491],
+  "bbox": [
+    -92.367581,
+    34.820491,
+    -92.367581,
+    34.820491
+],
   "geometry": {"coordinates":[-92.367581,34.820491],"type":"Point"}
 }

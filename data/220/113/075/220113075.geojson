@@ -2,13 +2,14 @@
   "id": 220113075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.260096,35.225883,-94.260096,35.225883",
     "geom:latitude":35.225883,
     "geom:longitude":-94.260096,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 E Nashville St",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":220113075,
-    "wof:lastmodified":1449074807,
+    "wof:lastmodified":1466322468,
     "wof:name":"Clyde Holland Electric",
     "wof:parent_id":85832863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "electric"
     ]
 },
-  "bbox": [-94.260096,35.225883,-94.260096,35.225883],
+  "bbox": [
+    -94.260096,
+    35.225883,
+    -94.260096,
+    35.225883
+],
   "geometry": {"coordinates":[-94.260096,35.225883],"type":"Point"}
 }

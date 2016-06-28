@@ -2,13 +2,14 @@
   "id": 219747035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.910339,36.058567,-91.910339,36.058567",
     "geom:latitude":36.058567,
     "geom:longitude":-91.910339,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Court St",
     "sg:city":"Melbourne",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219747035,
-    "wof:lastmodified":1449071038,
+    "wof:lastmodified":1466324982,
     "wof:name":"Spring River Times",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.910339,36.058567,-91.910339,36.058567],
-  "geometry": {"coordinates":[-91.910339,36.058567],"type":"Point"}
+  "bbox": [
+    -91.910339,
+    36.058567,
+    -91.910339,
+    36.058567
+],
+  "geometry": {"coordinates":[-91.91033899999999,36.058567],"type":"Point"}
 }

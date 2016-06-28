@@ -2,13 +2,14 @@
   "id": 220010231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.066732,36.287711,-94.066732,36.287711",
     "geom:latitude":36.287711,
     "geom:longitude":-94.066732,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14252 Sunset Dr",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220010231,
-    "wof:lastmodified":1449074540,
+    "wof:lastmodified":1466320473,
     "wof:name":"Ozark Fly Flinger",
     "wof:parent_id":85834957,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "guide"
     ]
 },
-  "bbox": [-94.066732,36.287711,-94.066732,36.287711],
+  "bbox": [
+    -94.066732,
+    36.287711,
+    -94.066732,
+    36.287711
+],
   "geometry": {"coordinates":[-94.066732,36.287711],"type":"Point"}
 }

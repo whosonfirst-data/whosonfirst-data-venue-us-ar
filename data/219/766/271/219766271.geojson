@@ -2,13 +2,14 @@
   "id": 219766271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.145977,36.248711,-93.145977,36.248711",
     "geom:latitude":36.248711,
     "geom:longitude":-93.145977,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"329 W Industrial Park Rd",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":219766271,
-    "wof:lastmodified":1449070334,
+    "wof:lastmodified":1466324922,
     "wof:name":"Rock-Tenn Co Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-93.145977,36.248711,-93.145977,36.248711],
+  "bbox": [
+    -93.145977,
+    36.248711,
+    -93.145977,
+    36.248711
+],
   "geometry": {"coordinates":[-93.145977,36.248711],"type":"Point"}
 }

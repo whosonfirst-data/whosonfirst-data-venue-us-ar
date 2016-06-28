@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102337901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.689574,34.78745,-90.689574,34.78745",
     "geom:latitude":34.78745,
     "geom:longitude":-90.689574,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3397 Hwy 121 E",
     "sg:city":"Marianna",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":102337901,
-    "wof:lastmodified":1449068902,
+    "wof:lastmodified":1466323902,
     "wof:name":"R T Turbines Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.689574,34.78745,-90.689574,34.78745],
-  "geometry": {"coordinates":[-90.689574,34.78745],"type":"Point"}
+  "bbox": [
+    -90.689574,
+    34.78745,
+    -90.689574,
+    34.78745
+],
+  "geometry": {"coordinates":[-90.68957399999999,34.78745],"type":"Point"}
 }

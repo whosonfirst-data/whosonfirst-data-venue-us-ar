@@ -2,13 +2,14 @@
   "id": 219415249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.968537,34.53823,-91.968537,34.53823",
     "geom:latitude":34.53823,
     "geom:longitude":-91.968537,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"714 Short St",
     "sg:city":"England",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":219415249,
-    "wof:lastmodified":1449072944,
+    "wof:lastmodified":1466322978,
     "wof:name":"Harper Bail Bond Arvis",
     "wof:parent_id":85811577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "bond"
     ]
 },
-  "bbox": [-91.968537,34.53823,-91.968537,34.53823],
+  "bbox": [
+    -91.968537,
+    34.53823,
+    -91.968537,
+    34.53823
+],
   "geometry": {"coordinates":[-91.968537,34.53823],"type":"Point"}
 }

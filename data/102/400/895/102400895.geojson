@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102400895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.968184,34.243174,-92.968184,34.243174",
     "geom:latitude":34.243174,
     "geom:longitude":-92.968184,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"540 Strother Rd",
     "sg:city":"Donaldson",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102400895,
-    "wof:lastmodified":1449068028,
+    "wof:lastmodified":1466324809,
     "wof:name":"Hn Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.968184,34.243174,-92.968184,34.243174],
-  "geometry": {"coordinates":[-92.968184,34.243174],"type":"Point"}
+  "bbox": [
+    -92.968184,
+    34.243174,
+    -92.968184,
+    34.243174
+],
+  "geometry": {"coordinates":[-92.96818399999999,34.243174],"type":"Point"}
 }

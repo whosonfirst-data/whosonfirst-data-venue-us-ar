@@ -2,13 +2,14 @@
   "id": 219233145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.10333,33.688467,-94.10333,33.688467",
     "geom:latitude":33.688467,
     "geom:longitude":-94.10333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 Deerwood St",
     "sg:city":"Ashdown",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219233145,
-    "wof:lastmodified":1449073985,
+    "wof:lastmodified":1466321199,
     "wof:name":"High Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "contractor"
     ]
 },
-  "bbox": [-94.10333,33.688467,-94.10333,33.688467],
+  "bbox": [
+    -94.10333,
+    33.688467,
+    -94.10333,
+    33.688467
+],
   "geometry": {"coordinates":[-94.10333,33.688467],"type":"Point"}
 }

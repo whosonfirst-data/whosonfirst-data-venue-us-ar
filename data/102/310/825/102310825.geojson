@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102310825",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.024633,34.199524,-92.024633,34.199524",
     "geom:latitude":34.199524,
     "geom:longitude":-92.024633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2901 S Hazel St",
     "sg:city":"Pine Bluff",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102310825",
-    "wof:lastmodified":1449069239,
+    "wof:lastmodified":1466323310,
     "wof:name":"Hazel Street Exxon Service Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.024633,34.199524,-92.024633,34.199524],
-  "geometry": {"coordinates":[-92.024633,34.199524],"type":"Point"}
+  "bbox": [
+    -92.024633,
+    34.199524,
+    -92.024633,
+    34.199524
+],
+  "geometry": {"coordinates":[-92.02463299999999,34.199524],"type":"Point"}
 }

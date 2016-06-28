@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102222523",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.908093,35.931409,-89.908093,35.931409",
     "geom:latitude":35.931409,
     "geom:longitude":-89.908093,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 N 5th St",
     "sg:city":"Blytheville",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102222523",
-    "wof:lastmodified":1449069396,
+    "wof:lastmodified":1466321236,
     "wof:name":"First Tennessee Mortgage Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.908093,35.931409,-89.908093,35.931409],
-  "geometry": {"coordinates":[-89.908093,35.931409],"type":"Point"}
+  "bbox": [
+    -89.908093,
+    35.931409,
+    -89.908093,
+    35.931409
+],
+  "geometry": {"coordinates":[-89.90809299999999,35.931409],"type":"Point"}
 }

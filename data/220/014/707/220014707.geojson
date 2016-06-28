@@ -2,13 +2,14 @@
   "id": 220014707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.158939,36.144506,-94.158939,36.144506",
     "geom:latitude":36.144506,
     "geom:longitude":-94.158939,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2207 Dogwood Pl",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":220014707,
-    "wof:lastmodified":1449074424,
+    "wof:lastmodified":1466320483,
     "wof:name":"A Rose Electrical Services",
     "wof:parent_id":85885471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "electric"
     ]
 },
-  "bbox": [-94.158939,36.144506,-94.158939,36.144506],
+  "bbox": [
+    -94.158939,
+    36.144506,
+    -94.158939,
+    36.144506
+],
   "geometry": {"coordinates":[-94.158939,36.144506],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219271307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.030098,33.419979,-94.030098,33.419979",
     "geom:latitude":33.419979,
     "geom:longitude":-94.030098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1300 Dudley St",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219271307,
-    "wof:lastmodified":1449072231,
+    "wof:lastmodified":1466321494,
     "wof:name":"Billie June Owen Real Est",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "broker"
     ]
 },
-  "bbox": [-94.030098,33.419979,-94.030098,33.419979],
+  "bbox": [
+    -94.030098,
+    33.419979,
+    -94.030098,
+    33.419979
+],
   "geometry": {"coordinates":[-94.030098,33.419979],"type":"Point"}
 }

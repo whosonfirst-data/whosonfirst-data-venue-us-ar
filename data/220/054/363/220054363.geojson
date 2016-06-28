@@ -2,13 +2,14 @@
   "id": 220054363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.146666,36.188823,-94.146666,36.188823",
     "geom:latitude":36.188823,
     "geom:longitude":-94.146666,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1520 W Huntsville Ave",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":220054363,
-    "wof:lastmodified":1449074401,
+    "wof:lastmodified":1466320807,
     "wof:name":"Wesley United Methodist Church",
     "wof:parent_id":85885485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "churches-methodist"
     ]
 },
-  "bbox": [-94.146666,36.188823,-94.146666,36.188823],
+  "bbox": [
+    -94.146666,
+    36.188823,
+    -94.146666,
+    36.188823
+],
   "geometry": {"coordinates":[-94.146666,36.188823],"type":"Point"}
 }

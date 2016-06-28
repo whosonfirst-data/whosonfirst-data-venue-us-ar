@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102401707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.143105,36.180065,-94.143105,36.180065",
     "geom:latitude":36.180065,
     "geom:longitude":-94.143105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"717 S Pleasant St",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885485,
+        85688549,
         85633793,
         85919623,
         102082007,
-        85688549
+        85885485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102401707,
-    "wof:lastmodified":1449069811,
+    "wof:lastmodified":1466324781,
     "wof:name":"Louises House of Beauty",
     "wof:parent_id":85885485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.143105,36.180065,-94.143105,36.180065],
-  "geometry": {"coordinates":[-94.143105,36.180065],"type":"Point"}
+  "bbox": [
+    -94.143105,
+    36.180065,
+    -94.143105,
+    36.180065
+],
+  "geometry": {"coordinates":[-94.14310500000001,36.180065],"type":"Point"}
 }

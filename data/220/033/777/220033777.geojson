@@ -2,13 +2,14 @@
   "id": 220033777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.138394,36.18812,-94.138394,36.18812",
     "geom:latitude":36.18812,
     "geom:longitude":-94.138394,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 N Thompson St",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220033777,
-    "wof:lastmodified":1449074208,
+    "wof:lastmodified":1466320525,
     "wof:name":"La Super Quesadilla Restaurant",
     "wof:parent_id":85885481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "family"
     ]
 },
-  "bbox": [-94.138394,36.18812,-94.138394,36.18812],
-  "geometry": {"coordinates":[-94.138394,36.18812],"type":"Point"}
+  "bbox": [
+    -94.138394,
+    36.18812,
+    -94.138394,
+    36.18812
+],
+  "geometry": {"coordinates":[-94.13839400000001,36.18812],"type":"Point"}
 }

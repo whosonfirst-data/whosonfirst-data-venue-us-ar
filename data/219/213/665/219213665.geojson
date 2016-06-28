@@ -2,13 +2,14 @@
   "id": 219213665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.230444,33.277763,-93.230444,33.277763",
     "geom:latitude":33.277763,
     "geom:longitude":-93.230444,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"925 Highland Cir",
     "sg:city":"Magnolia",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219213665,
-    "wof:lastmodified":1449070412,
+    "wof:lastmodified":1466320990,
     "wof:name":"Scott Mcmahen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-93.230444,33.277763,-93.230444,33.277763],
-  "geometry": {"coordinates":[-93.230444,33.277763],"type":"Point"}
+  "bbox": [
+    -93.230444,
+    33.277763,
+    -93.230444,
+    33.277763
+],
+  "geometry": {"coordinates":[-93.23044400000001,33.277763],"type":"Point"}
 }

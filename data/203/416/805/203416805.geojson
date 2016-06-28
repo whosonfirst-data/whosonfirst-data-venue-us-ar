@@ -2,13 +2,14 @@
   "id": 203416805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.473817,33.881405,-91.473817,33.881405",
     "geom:latitude":33.881405,
     "geom:longitude":-91.473817,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Evergreen St",
     "sg:city":"Dumas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203416805,
-    "wof:lastmodified":1449025762,
+    "wof:lastmodified":1466320561,
     "wof:name":"Campbell Contracting & Roofing Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-91.473817,33.881405,-91.473817,33.881405],
+  "bbox": [
+    -91.473817,
+    33.881405,
+    -91.473817,
+    33.881405
+],
   "geometry": {"coordinates":[-91.473817,33.881405],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219673841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.912202,36.385523,-90.912202,36.385523",
     "geom:latitude":36.385523,
     "geom:longitude":-90.912202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11357 Highway 115",
     "sg:city":"Maynard",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219673841,
-    "wof:lastmodified":1449071752,
+    "wof:lastmodified":1466324605,
     "wof:name":"Hanson Trailers Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "warehouse"
     ]
 },
-  "bbox": [-90.912202,36.385523,-90.912202,36.385523],
-  "geometry": {"coordinates":[-90.912202,36.385523],"type":"Point"}
+  "bbox": [
+    -90.912202,
+    36.385523,
+    -90.912202,
+    36.385523
+],
+  "geometry": {"coordinates":[-90.91220199999999,36.385523],"type":"Point"}
 }

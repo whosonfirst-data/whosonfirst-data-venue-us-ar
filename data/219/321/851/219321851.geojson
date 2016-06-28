@@ -2,13 +2,14 @@
   "id": 219321851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.260302,34.46553,-93.260302,34.46553",
     "geom:latitude":34.46553,
     "geom:longitude":-93.260302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 Old Dallas Rd",
     "sg:city":"Royal",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219321851,
-    "wof:lastmodified":1449070453,
+    "wof:lastmodified":1466321908,
     "wof:name":"Cleaning Janitorial",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitorial"
     ]
 },
-  "bbox": [-93.260302,34.46553,-93.260302,34.46553],
+  "bbox": [
+    -93.260302,
+    34.46553,
+    -93.260302,
+    34.46553
+],
   "geometry": {"coordinates":[-93.260302,34.46553],"type":"Point"}
 }

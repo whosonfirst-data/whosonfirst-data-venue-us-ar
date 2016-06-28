@@ -2,13 +2,14 @@
   "id": 219822619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.103282,36.089954,-94.103282,36.089954",
     "geom:latitude":36.089954,
     "geom:longitude":-94.103282,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4018 E Churchill Dr",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219822619,
-    "wof:lastmodified":1449073805,
+    "wof:lastmodified":1466324994,
     "wof:name":"Hamilton Family Investments",
     "wof:parent_id":85885455,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "advisory"
     ]
 },
-  "bbox": [-94.103282,36.089954,-94.103282,36.089954],
-  "geometry": {"coordinates":[-94.103282,36.089954],"type":"Point"}
+  "bbox": [
+    -94.103282,
+    36.089954,
+    -94.103282,
+    36.089954
+],
+  "geometry": {"coordinates":[-94.10328199999999,36.089954],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219884717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.196753,36.364626,-94.196753,36.364626",
     "geom:latitude":36.364626,
     "geom:longitude":-94.196753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"703 SE J St",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219884717,
-    "wof:lastmodified":1449073248,
+    "wof:lastmodified":1466325071,
     "wof:name":"Arkansas Dept Of Correction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "government-state"
     ]
 },
-  "bbox": [-94.196753,36.364626,-94.196753,36.364626],
+  "bbox": [
+    -94.196753,
+    36.364626,
+    -94.196753,
+    36.364626
+],
   "geometry": {"coordinates":[-94.196753,36.364626],"type":"Point"}
 }

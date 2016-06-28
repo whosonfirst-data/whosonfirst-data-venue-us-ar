@@ -2,13 +2,14 @@
   "id": 336716309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.258134,34.587826,-94.258134,34.587826",
     "geom:latitude":34.587826,
     "geom:longitude":-94.258134,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2407 Sutherland Ave",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336716309,
-    "wof:lastmodified":1448997087,
+    "wof:lastmodified":1466320412,
     "wof:name":"Faith Missionary Baptist Ch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-94.258134,34.587826,-94.258134,34.587826],
+  "bbox": [
+    -94.258134,
+    34.587826,
+    -94.258134,
+    34.587826
+],
   "geometry": {"coordinates":[-94.258134,34.587826],"type":"Point"}
 }

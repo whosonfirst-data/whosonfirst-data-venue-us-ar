@@ -2,13 +2,14 @@
   "id": 219859949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.156168,36.095221,-94.156168,36.095221",
     "geom:latitude":36.095221,
     "geom:longitude":-94.156168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 E Township St Ste 15",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219859949,
-    "wof:lastmodified":1449072925,
+    "wof:lastmodified":1466324977,
     "wof:name":"Certapro Painters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-94.156168,36.095221,-94.156168,36.095221],
-  "geometry": {"coordinates":[-94.156168,36.095221],"type":"Point"}
+  "bbox": [
+    -94.156168,
+    36.095221,
+    -94.156168,
+    36.095221
+],
+  "geometry": {"coordinates":[-94.15616799999999,36.095221],"type":"Point"}
 }

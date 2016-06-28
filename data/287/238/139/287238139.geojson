@@ -2,13 +2,14 @@
   "id": 287238139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.517923,36.180741,-94.517923,36.180741",
     "geom:latitude":36.180741,
     "geom:longitude":-94.517923,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1912 Hwy 412 E",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":287238139,
-    "wof:lastmodified":1449001001,
+    "wof:lastmodified":1466320482,
     "wof:name":"Zamoras Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-94.517923,36.180741,-94.517923,36.180741],
+  "bbox": [
+    -94.517923,
+    36.180741,
+    -94.517923,
+    36.180741
+],
   "geometry": {"coordinates":[-94.517923,36.180741],"type":"Point"}
 }

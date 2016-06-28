@@ -2,13 +2,14 @@
   "id": 220013321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.201597,36.15151,-94.201597,36.15151",
     "geom:latitude":36.15151,
     "geom:longitude":-94.201597,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10437 Western Trails Dr",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220013321,
-    "wof:lastmodified":1449074597,
+    "wof:lastmodified":1466320478,
     "wof:name":"Huett & Sons Cutting Horses",
     "wof:parent_id":85885483,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "horse"
     ]
 },
-  "bbox": [-94.201597,36.15151,-94.201597,36.15151],
-  "geometry": {"coordinates":[-94.201597,36.15151],"type":"Point"}
+  "bbox": [
+    -94.201597,
+    36.15151,
+    -94.201597,
+    36.15151
+],
+  "geometry": {"coordinates":[-94.20159700000001,36.15151],"type":"Point"}
 }

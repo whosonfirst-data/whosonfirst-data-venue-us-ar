@@ -2,13 +2,14 @@
   "id": 219684473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.487411,36.05455,-90.487411,36.05455",
     "geom:latitude":36.05455,
     "geom:longitude":-90.487411,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 W Main St",
     "sg:city":"Paragould",
     "sg:classifiers":[
@@ -66,16 +67,22 @@
         }
     ],
     "wof:id":219684473,
-    "wof:lastmodified":1449071277,
+    "wof:lastmodified":1466324907,
     "wof:name":"Dollar General",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-90.487411,36.05455,-90.487411,36.05455],
-  "geometry": {"coordinates":[-90.487411,36.05455],"type":"Point"}
+  "bbox": [
+    -90.487411,
+    36.05455,
+    -90.487411,
+    36.05455
+],
+  "geometry": {"coordinates":[-90.48741099999999,36.05455],"type":"Point"}
 }

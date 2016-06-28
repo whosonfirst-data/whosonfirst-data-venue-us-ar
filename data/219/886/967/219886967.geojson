@@ -2,13 +2,14 @@
   "id": 219886967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.183937,36.337206,-94.183937,36.337206",
     "geom:latitude":36.337206,
     "geom:longitude":-94.183937,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3000 Moberly Ln",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219886967,
-    "wof:lastmodified":1449072331,
+    "wof:lastmodified":1466325073,
     "wof:name":"Hyundai Of Bentonville",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "car"
     ]
 },
-  "bbox": [-94.183937,36.337206,-94.183937,36.337206],
+  "bbox": [
+    -94.183937,
+    36.337206,
+    -94.183937,
+    36.337206
+],
   "geometry": {"coordinates":[-94.183937,36.337206],"type":"Point"}
 }

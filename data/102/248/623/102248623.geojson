@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102248623",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.034394,34.334728,-93.034394,34.334728",
     "geom:latitude":34.334728,
     "geom:longitude":-93.034394,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19834 Hwy 84",
     "sg:city":"Malvern",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":"102248623",
-    "wof:lastmodified":1449069063,
+    "wof:lastmodified":1466321869,
     "wof:name":"Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.034394,34.334728,-93.034394,34.334728],
-  "geometry": {"coordinates":[-93.034394,34.334728],"type":"Point"}
+  "bbox": [
+    -93.034394,
+    34.334728,
+    -93.034394,
+    34.334728
+],
+  "geometry": {"coordinates":[-93.03439400000001,34.334728],"type":"Point"}
 }

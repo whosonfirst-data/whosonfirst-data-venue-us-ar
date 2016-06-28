@@ -2,13 +2,14 @@
   "id": 219979875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.082115,36.39365,-94.082115,36.39365",
     "geom:latitude":36.39365,
     "geom:longitude":-94.082115,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13101 N Highway 62",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":219979875,
-    "wof:lastmodified":1449072884,
+    "wof:lastmodified":1466325234,
     "wof:name":"Rogers Church Of God",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "churches-pentecostal"
     ]
 },
-  "bbox": [-94.082115,36.39365,-94.082115,36.39365],
+  "bbox": [
+    -94.082115,
+    36.39365,
+    -94.082115,
+    36.39365
+],
   "geometry": {"coordinates":[-94.082115,36.39365],"type":"Point"}
 }

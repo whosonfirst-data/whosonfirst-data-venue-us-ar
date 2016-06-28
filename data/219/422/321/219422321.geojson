@@ -2,13 +2,14 @@
   "id": 219422321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.387291,35.222599,-92.387291,35.222599",
     "geom:latitude":35.222599,
     "geom:longitude":-92.387291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Wilson Farm Rd",
     "sg:city":"Greenbrier",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219422321,
-    "wof:lastmodified":1449070631,
+    "wof:lastmodified":1466323038,
     "wof:name":"David J Myers D D S M S Pa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentists-orthodontists"
     ]
 },
-  "bbox": [-92.387291,35.222599,-92.387291,35.222599],
+  "bbox": [
+    -92.387291,
+    35.222599,
+    -92.387291,
+    35.222599
+],
   "geometry": {"coordinates":[-92.387291,35.222599],"type":"Point"}
 }

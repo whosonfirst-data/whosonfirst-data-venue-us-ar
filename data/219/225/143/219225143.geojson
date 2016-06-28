@@ -2,13 +2,14 @@
   "id": 219225143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.582417,33.668298,-93.582417,33.668298",
     "geom:latitude":33.668298,
     "geom:longitude":-93.582417,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"807 E 3rd St",
     "sg:city":"Hope",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":219225143,
-    "wof:lastmodified":1449071495,
+    "wof:lastmodified":1466321102,
     "wof:name":"Parker, David - State Farm Insurance Agent",
     "wof:parent_id":85820749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "auto"
     ]
 },
-  "bbox": [-93.582417,33.668298,-93.582417,33.668298],
-  "geometry": {"coordinates":[-93.582417,33.668298],"type":"Point"}
+  "bbox": [
+    -93.582417,
+    33.668298,
+    -93.582417,
+    33.668298
+],
+  "geometry": {"coordinates":[-93.58241700000001,33.668298],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219928283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.512244,36.428784,-94.512244,36.428784",
     "geom:latitude":36.428784,
     "geom:longitude":-94.512244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15633 W Highway 72",
     "sg:city":"Gravette",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219928283,
-    "wof:lastmodified":1449073418,
+    "wof:lastmodified":1466325217,
     "wof:name":"I-Carz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cars-wholesale"
     ]
 },
-  "bbox": [-94.512244,36.428784,-94.512244,36.428784],
+  "bbox": [
+    -94.512244,
+    36.428784,
+    -94.512244,
+    36.428784
+],
   "geometry": {"coordinates":[-94.512244,36.428784],"type":"Point"}
 }

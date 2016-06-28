@@ -2,13 +2,14 @@
   "id": 219158353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.293668,33.855959,-92.293668,33.855959",
     "geom:latitude":33.855959,
     "geom:longitude":-92.293668,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"380 Highway 97",
     "sg:city":"Kingsland",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219158353,
-    "wof:lastmodified":1449072741,
+    "wof:lastmodified":1466320455,
     "wof:name":"Gerald Scott",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.293668,33.855959,-92.293668,33.855959],
+  "bbox": [
+    -92.293668,
+    33.855959,
+    -92.293668,
+    33.855959
+],
   "geometry": {"coordinates":[-92.293668,33.855959],"type":"Point"}
 }

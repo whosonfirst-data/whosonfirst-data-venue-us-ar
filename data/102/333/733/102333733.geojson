@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102333733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.012071,33.451631,-94.012071,33.451631",
     "geom:latitude":33.451631,
     "geom:longitude":-94.012071,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3409 Sanderson Ln",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102333733,
-    "wof:lastmodified":1449070014,
+    "wof:lastmodified":1466323785,
     "wof:name":"Knights of Columbus Ark",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.012071,33.451631,-94.012071,33.451631],
-  "geometry": {"coordinates":[-94.012071,33.451631],"type":"Point"}
+  "bbox": [
+    -94.012071,
+    33.451631,
+    -94.012071,
+    33.451631
+],
+  "geometry": {"coordinates":[-94.01207100000001,33.451631],"type":"Point"}
 }

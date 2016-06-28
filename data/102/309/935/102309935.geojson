@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102309935",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.062052,34.456528,-93.062052,34.456528",
     "geom:latitude":34.456528,
     "geom:longitude":-93.062052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 Buena Vista Rd",
     "sg:city":"Hot Springs",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102309935",
-    "wof:lastmodified":1449068329,
+    "wof:lastmodified":1466323321,
     "wof:name":"Happy Tails",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.062052,34.456528,-93.062052,34.456528],
-  "geometry": {"coordinates":[-93.062052,34.456528],"type":"Point"}
+  "bbox": [
+    -93.062052,
+    34.456528,
+    -93.062052,
+    34.456528
+],
+  "geometry": {"coordinates":[-93.06205199999999,34.456528],"type":"Point"}
 }

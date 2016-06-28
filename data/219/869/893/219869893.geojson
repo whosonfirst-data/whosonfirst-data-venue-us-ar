@@ -2,13 +2,14 @@
   "id": 219869893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.223098,36.359012,-94.223098,36.359012",
     "geom:latitude":36.359012,
     "geom:longitude":-94.223098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1002 Westpark Dr",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219869893,
-    "wof:lastmodified":1449073633,
+    "wof:lastmodified":1466325056,
     "wof:name":"4 Elements Inc",
     "wof:parent_id":85895819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "logistics"
     ]
 },
-  "bbox": [-94.223098,36.359012,-94.223098,36.359012],
-  "geometry": {"coordinates":[-94.223098,36.359012],"type":"Point"}
+  "bbox": [
+    -94.223098,
+    36.359012,
+    -94.223098,
+    36.359012
+],
+  "geometry": {"coordinates":[-94.22309799999999,36.359012],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219175585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.12792,33.97665,-92.12792,33.97665",
     "geom:latitude":33.97665,
     "geom:longitude":-92.12792,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"480 Brushy Crk",
     "sg:city":"Rison",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219175585,
-    "wof:lastmodified":1449072838,
+    "wof:lastmodified":1466320593,
     "wof:name":"Rainbow Carpet Cleaning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "carpet"
     ]
 },
-  "bbox": [-92.12792,33.97665,-92.12792,33.97665],
+  "bbox": [
+    -92.12792,
+    33.97665,
+    -92.12792,
+    33.97665
+],
   "geometry": {"coordinates":[-92.12792,33.97665],"type":"Point"}
 }

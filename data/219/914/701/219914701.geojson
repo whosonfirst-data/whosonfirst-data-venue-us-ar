@@ -2,13 +2,14 @@
   "id": 219914701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.260463,36.014823,-94.260463,36.014823",
     "geom:latitude":36.014823,
     "geom:longitude":-94.260463,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11641 Charles Ct",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219914701,
-    "wof:lastmodified":1449071734,
+    "wof:lastmodified":1466325034,
     "wof:name":"Health Inventures",
     "wof:parent_id":85885429,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welfare"
     ]
 },
-  "bbox": [-94.260463,36.014823,-94.260463,36.014823],
+  "bbox": [
+    -94.260463,
+    36.014823,
+    -94.260463,
+    36.014823
+],
   "geometry": {"coordinates":[-94.260463,36.014823],"type":"Point"}
 }

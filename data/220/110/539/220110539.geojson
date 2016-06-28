@@ -2,13 +2,14 @@
   "id": 220110539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.265312,35.230751,-94.265312,35.230751",
     "geom:latitude":35.230751,
     "geom:longitude":-94.265312,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 Valley Loop",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":220110539,
-    "wof:lastmodified":1449074284,
+    "wof:lastmodified":1466322396,
     "wof:name":"Doctor A Lock",
     "wof:parent_id":85832863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "locksmiths-commercial"
     ]
 },
-  "bbox": [-94.265312,35.230751,-94.265312,35.230751],
-  "geometry": {"coordinates":[-94.265312,35.230751],"type":"Point"}
+  "bbox": [
+    -94.265312,
+    35.230751,
+    -94.265312,
+    35.230751
+],
+  "geometry": {"coordinates":[-94.26531199999999,35.230751],"type":"Point"}
 }

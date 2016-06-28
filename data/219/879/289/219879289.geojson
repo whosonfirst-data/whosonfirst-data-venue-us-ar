@@ -2,13 +2,14 @@
   "id": 219879289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.174398,36.358545,-94.174398,36.358545",
     "geom:latitude":36.358545,
     "geom:longitude":-94.174398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1202 SE Eagle Way",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219879289,
-    "wof:lastmodified":1449070405,
+    "wof:lastmodified":1466324999,
     "wof:name":"Highlands Oncology Group Pa",
     "wof:parent_id":85895823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "gynecologic"
     ]
 },
-  "bbox": [-94.174398,36.358545,-94.174398,36.358545],
+  "bbox": [
+    -94.174398,
+    36.358545,
+    -94.174398,
+    36.358545
+],
   "geometry": {"coordinates":[-94.174398,36.358545],"type":"Point"}
 }

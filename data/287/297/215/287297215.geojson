@@ -2,13 +2,14 @@
   "id": 287297215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.237461,34.583691,-94.237461,34.583691",
     "geom:latitude":34.583691,
     "geom:longitude":-94.237461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"611 Janssen Ave",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":287297215,
-    "wof:lastmodified":1449001250,
+    "wof:lastmodified":1466324450,
     "wof:name":"Beasley-Wood-Geyer-Quillin Hm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-94.237461,34.583691,-94.237461,34.583691],
+  "bbox": [
+    -94.237461,
+    34.583691,
+    -94.237461,
+    34.583691
+],
   "geometry": {"coordinates":[-94.237461,34.583691],"type":"Point"}
 }

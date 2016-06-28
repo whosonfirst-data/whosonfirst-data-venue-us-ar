@@ -2,13 +2,14 @@
   "id": 220068417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.169883,35.267673,-93.169883,35.267673",
     "geom:latitude":35.267673,
     "geom:longitude":-93.169883,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Wedgewood Dr",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220068417,
-    "wof:lastmodified":1449074447,
+    "wof:lastmodified":1466321294,
     "wof:name":"Carl D Minehart",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "consulting"
     ]
 },
-  "bbox": [-93.169883,35.267673,-93.169883,35.267673],
+  "bbox": [
+    -93.169883,
+    35.267673,
+    -93.169883,
+    35.267673
+],
   "geometry": {"coordinates":[-93.169883,35.267673],"type":"Point"}
 }

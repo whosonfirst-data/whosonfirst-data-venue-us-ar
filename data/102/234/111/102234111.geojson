@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102234111",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.735191,35.250751,-91.735191,35.250751",
     "geom:latitude":35.250751,
     "geom:longitude":-91.735191,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 E Race Ave",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102234111",
-    "wof:lastmodified":1449070069,
+    "wof:lastmodified":1466321441,
     "wof:name":"Searcy Gallery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.735191,35.250751,-91.735191,35.250751],
+  "bbox": [
+    -91.735191,
+    35.250751,
+    -91.735191,
+    35.250751
+],
   "geometry": {"coordinates":[-91.735191,35.250751],"type":"Point"}
 }

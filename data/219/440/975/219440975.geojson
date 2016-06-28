@@ -2,13 +2,14 @@
   "id": 219440975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.099989,34.875641,-92.099989,34.875641",
     "geom:latitude":34.875641,
     "geom:longitude":-92.099989,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"818 E Martin St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219440975,
-    "wof:lastmodified":1449071639,
+    "wof:lastmodified":1466323258,
     "wof:name":"Senior Residences Of Jacksonville 1 L.P.",
     "wof:parent_id":85852337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-92.099989,34.875641,-92.099989,34.875641],
-  "geometry": {"coordinates":[-92.099989,34.875641],"type":"Point"}
+  "bbox": [
+    -92.099989,
+    34.875641,
+    -92.099989,
+    34.875641
+],
+  "geometry": {"coordinates":[-92.09998899999999,34.875641],"type":"Point"}
 }

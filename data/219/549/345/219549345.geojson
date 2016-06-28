@@ -2,13 +2,14 @@
   "id": 219549345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.549926,34.511347,-91.549926,34.511347",
     "geom:latitude":34.511347,
     "geom:longitude":-91.549926,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1112 N Grand Ave",
     "sg:city":"Stuttgart",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219549345,
-    "wof:lastmodified":1449071374,
+    "wof:lastmodified":1466324329,
     "wof:name":"Big B S Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.549926,34.511347,-91.549926,34.511347],
+  "bbox": [
+    -91.549926,
+    34.511347,
+    -91.549926,
+    34.511347
+],
   "geometry": {"coordinates":[-91.549926,34.511347],"type":"Point"}
 }

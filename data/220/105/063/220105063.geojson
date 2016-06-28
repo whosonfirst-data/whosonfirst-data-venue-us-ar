@@ -2,13 +2,14 @@
   "id": 220105063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.921772,35.14087,-93.921772,35.14087",
     "geom:latitude":35.14087,
     "geom:longitude":-93.921772,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"366 N Broadway Ave Ste 6",
     "sg:city":"Booneville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220105063,
-    "wof:lastmodified":1449074337,
+    "wof:lastmodified":1466322312,
     "wof:name":"Arvac, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "engineer"
     ]
 },
-  "bbox": [-93.921772,35.14087,-93.921772,35.14087],
+  "bbox": [
+    -93.921772,
+    35.14087,
+    -93.921772,
+    35.14087
+],
   "geometry": {"coordinates":[-93.921772,35.14087],"type":"Point"}
 }

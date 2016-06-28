@@ -2,13 +2,14 @@
   "id": 220034339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.117301,36.173266,-94.117301,36.173266",
     "geom:latitude":36.173266,
     "geom:longitude":-94.117301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1202 Esi Dr",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":220034339,
-    "wof:lastmodified":1449074122,
+    "wof:lastmodified":1466320525,
     "wof:name":"Walco International",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "supply-wholesale"
     ]
 },
-  "bbox": [-94.117301,36.173266,-94.117301,36.173266],
+  "bbox": [
+    -94.117301,
+    36.173266,
+    -94.117301,
+    36.173266
+],
   "geometry": {"coordinates":[-94.117301,36.173266],"type":"Point"}
 }

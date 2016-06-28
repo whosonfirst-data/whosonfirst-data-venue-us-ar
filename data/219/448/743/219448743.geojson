@@ -2,13 +2,14 @@
   "id": 219448743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.900106,34.784337,-91.900106,34.784337",
     "geom:latitude":34.784337,
     "geom:longitude":-91.900106,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 W Front St",
     "sg:city":"Lonoke",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":219448743,
-    "wof:lastmodified":1449073744,
+    "wof:lastmodified":1466323357,
     "wof:name":"H&R Block",
     "wof:parent_id":85811577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "bookkeeping"
     ]
 },
-  "bbox": [-91.900106,34.784337,-91.900106,34.784337],
-  "geometry": {"coordinates":[-91.900106,34.784337],"type":"Point"}
+  "bbox": [
+    -91.900106,
+    34.784337,
+    -91.900106,
+    34.784337
+],
+  "geometry": {"coordinates":[-91.90010599999999,34.784337],"type":"Point"}
 }

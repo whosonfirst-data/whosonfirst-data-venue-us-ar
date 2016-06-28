@@ -2,13 +2,14 @@
   "id": 219607581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.975563,35.708092,-89.975563,35.708092",
     "geom:latitude":35.708092,
     "geom:longitude":-89.975563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 Seminole Dr",
     "sg:city":"Osceola",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219607581,
-    "wof:lastmodified":1449070863,
+    "wof:lastmodified":1466324599,
     "wof:name":"Osceola Village Apts.",
     "wof:parent_id":85814753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-89.975563,35.708092,-89.975563,35.708092],
-  "geometry": {"coordinates":[-89.975563,35.708092],"type":"Point"}
+  "bbox": [
+    -89.975563,
+    35.708092,
+    -89.975563,
+    35.708092
+],
+  "geometry": {"coordinates":[-89.97556299999999,35.708092],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102389689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.435994,35.084488,-92.435994,35.084488",
     "geom:latitude":35.084488,
     "geom:longitude":-92.435994,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 6th St",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102389689,
-    "wof:lastmodified":1449069693,
+    "wof:lastmodified":1466324084,
     "wof:name":"Taylor Motors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.435994,35.084488,-92.435994,35.084488],
-  "geometry": {"coordinates":[-92.435994,35.084488],"type":"Point"}
+  "bbox": [
+    -92.435994,
+    35.084488,
+    -92.435994,
+    35.084488
+],
+  "geometry": {"coordinates":[-92.43599399999999,35.084488],"type":"Point"}
 }

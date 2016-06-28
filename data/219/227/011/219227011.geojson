@@ -2,13 +2,14 @@
   "id": 219227011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.629727,33.688593,-93.629727,33.688593",
     "geom:latitude":33.688593,
     "geom:longitude":-93.629727,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3865 Highway 278 W",
     "sg:city":"Hope",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219227011,
-    "wof:lastmodified":1449071178,
+    "wof:lastmodified":1466321136,
     "wof:name":"Glanton Plantation & Farms",
     "wof:parent_id":85806015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.629727,33.688593,-93.629727,33.688593],
+  "bbox": [
+    -93.629727,
+    33.688593,
+    -93.629727,
+    33.688593
+],
   "geometry": {"coordinates":[-93.629727,33.688593],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102380861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.474736,35.071086,-92.474736,35.071086",
     "geom:latitude":35.071086,
     "geom:longitude":-92.474736,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3065 Sassy Rd",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102380861,
-    "wof:lastmodified":1449068885,
+    "wof:lastmodified":1466322267,
     "wof:name":"Mitchell International Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.474736,35.071086,-92.474736,35.071086],
-  "geometry": {"coordinates":[-92.474736,35.071086],"type":"Point"}
+  "bbox": [
+    -92.474736,
+    35.071086,
+    -92.474736,
+    35.071086
+],
+  "geometry": {"coordinates":[-92.47473599999999,35.071086],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102313279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.505282,33.365806,-93.505282,33.365806",
     "geom:latitude":33.365806,
     "geom:longitude":-93.505282,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"222 W Antigo St",
     "sg:city":"Stamps",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102313279,
-    "wof:lastmodified":1449067839,
+    "wof:lastmodified":1466323278,
     "wof:name":"Community Ch Of The Nazarene",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.505282,33.365806,-93.505282,33.365806],
-  "geometry": {"coordinates":[-93.505282,33.365806],"type":"Point"}
+  "bbox": [
+    -93.505282,
+    33.365806,
+    -93.505282,
+    33.365806
+],
+  "geometry": {"coordinates":[-93.50528199999999,33.365806],"type":"Point"}
 }

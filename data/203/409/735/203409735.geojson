@@ -2,13 +2,14 @@
   "id": 203409735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.996391,33.144588,-91.996391,33.144588",
     "geom:latitude":33.144588,
     "geom:longitude":-91.996391,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3200 Porter Jasper Rd",
     "sg:city":"Crossett",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203409735,
-    "wof:lastmodified":1449025702,
+    "wof:lastmodified":1466320540,
     "wof:name":"4 Wright's Catering Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "bureau"
     ]
 },
-  "bbox": [-91.996391,33.144588,-91.996391,33.144588],
+  "bbox": [
+    -91.996391,
+    33.144588,
+    -91.996391,
+    33.144588
+],
   "geometry": {"coordinates":[-91.996391,33.144588],"type":"Point"}
 }

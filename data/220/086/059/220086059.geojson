@@ -2,13 +2,14 @@
   "id": 220086059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.065855,35.36052,-93.065855,35.36052",
     "geom:latitude":35.36052,
     "geom:longitude":-93.065855,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"233 Chateau Dr",
     "sg:city":"Dover",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":220086059,
-    "wof:lastmodified":1449074594,
+    "wof:lastmodified":1466321798,
     "wof:name":"Arkansas Charters, Inc",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "tours-operators"
     ]
 },
-  "bbox": [-93.065855,35.36052,-93.065855,35.36052],
+  "bbox": [
+    -93.065855,
+    35.36052,
+    -93.065855,
+    35.36052
+],
   "geometry": {"coordinates":[-93.065855,35.36052],"type":"Point"}
 }

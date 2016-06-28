@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102352975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.800891,35.261265,-91.800891,35.261265",
     "geom:latitude":35.261265,
     "geom:longitude":-91.800891,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"306 N Valley Rd",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":102352975,
-    "wof:lastmodified":1449069238,
+    "wof:lastmodified":1466324165,
     "wof:name":"Johnny Flowers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.800891,35.261265,-91.800891,35.261265],
-  "geometry": {"coordinates":[-91.800891,35.261265],"type":"Point"}
+  "bbox": [
+    -91.800891,
+    35.261265,
+    -91.800891,
+    35.261265
+],
+  "geometry": {"coordinates":[-91.80089099999999,35.261265],"type":"Point"}
 }

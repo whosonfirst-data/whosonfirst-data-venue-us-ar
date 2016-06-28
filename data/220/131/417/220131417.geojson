@@ -2,13 +2,14 @@
   "id": 220131417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.09289,34.891834,-94.09289,34.891834",
     "geom:latitude":34.891834,
     "geom:longitude":-94.09289,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"165 W 9th St",
     "sg:city":"Waldron",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":220131417,
-    "wof:lastmodified":1449074259,
+    "wof:lastmodified":1466322830,
     "wof:name":"Lynda Bennett",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "perfume"
     ]
 },
-  "bbox": [-94.09289,34.891834,-94.09289,34.891834],
+  "bbox": [
+    -94.09289,
+    34.891834,
+    -94.09289,
+    34.891834
+],
   "geometry": {"coordinates":[-94.09289,34.891834],"type":"Point"}
 }

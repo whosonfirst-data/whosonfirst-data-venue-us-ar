@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102435409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.337899,35.44859,-94.337899,35.44859",
     "geom:latitude":35.44859,
     "geom:longitude":-94.337899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1309 City Park Rd",
     "sg:city":"Van Buren",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102435409,
-    "wof:lastmodified":1449069969,
+    "wof:lastmodified":1466325604,
     "wof:name":"City-Van Buren Swimming Pool",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.337899,35.44859,-94.337899,35.44859],
-  "geometry": {"coordinates":[-94.337899,35.44859],"type":"Point"}
+  "bbox": [
+    -94.337899,
+    35.44859,
+    -94.337899,
+    35.44859
+],
+  "geometry": {"coordinates":[-94.33789899999999,35.44859],"type":"Point"}
 }

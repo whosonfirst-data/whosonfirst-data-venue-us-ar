@@ -2,13 +2,14 @@
   "id": 219981049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.1797,36.3419,-94.1797,36.3419",
     "geom:latitude":36.3419,
     "geom:longitude":-94.1797,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4601 W Rozell",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":219981049,
-    "wof:lastmodified":1449073990,
+    "wof:lastmodified":1466325184,
     "wof:name":"Candlewood Suites Extended Stay Hotel Rogers/Bentonville",
     "wof:parent_id":85895853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "venue"
     ]
 },
-  "bbox": [-94.1797,36.3419,-94.1797,36.3419],
+  "bbox": [
+    -94.1797,
+    36.3419,
+    -94.1797,
+    36.3419
+],
   "geometry": {"coordinates":[-94.1797,36.3419],"type":"Point"}
 }

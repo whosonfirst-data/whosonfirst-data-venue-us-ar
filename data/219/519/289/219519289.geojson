@@ -2,13 +2,14 @@
   "id": 219519289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.721126,35.241226,-91.721126,35.241226",
     "geom:latitude":35.241226,
     "geom:longitude":-91.721126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1303 E Beebe Capps Expy",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":219519289,
-    "wof:lastmodified":1449073672,
+    "wof:lastmodified":1466324101,
     "wof:name":"Zaxby's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "take"
     ]
 },
-  "bbox": [-91.721126,35.241226,-91.721126,35.241226],
+  "bbox": [
+    -91.721126,
+    35.241226,
+    -91.721126,
+    35.241226
+],
   "geometry": {"coordinates":[-91.721126,35.241226],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102362277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.953184,35.310047,-93.953184,35.310047",
     "geom:latitude":35.310047,
     "geom:longitude":-93.953184,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"423 Williams St",
     "sg:city":"Branch",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102362277,
-    "wof:lastmodified":1449069325,
+    "wof:lastmodified":1466324228,
     "wof:name":"Dairy Diner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.953184,35.310047,-93.953184,35.310047],
-  "geometry": {"coordinates":[-93.953184,35.310047],"type":"Point"}
+  "bbox": [
+    -93.953184,
+    35.310047,
+    -93.953184,
+    35.310047
+],
+  "geometry": {"coordinates":[-93.95318399999999,35.310047],"type":"Point"}
 }

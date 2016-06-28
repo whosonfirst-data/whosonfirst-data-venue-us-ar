@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102348043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.554437,35.268173,-90.554437,35.268173",
     "geom:latitude":35.268173,
     "geom:longitude":-90.554437,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Park St",
     "sg:city":"Parkin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102348043,
-    "wof:lastmodified":1449067889,
+    "wof:lastmodified":1466323939,
     "wof:name":"Atkin's City Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.554437,35.268173,-90.554437,35.268173],
-  "geometry": {"coordinates":[-90.554437,35.268173],"type":"Point"}
+  "bbox": [
+    -90.554437,
+    35.268173,
+    -90.554437,
+    35.268173
+],
+  "geometry": {"coordinates":[-90.55443699999999,35.268173],"type":"Point"}
 }

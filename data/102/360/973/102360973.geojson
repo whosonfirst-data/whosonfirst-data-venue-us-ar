@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102360973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.43255,35.353258,-94.43255,35.353258",
     "geom:latitude":35.353258,
     "geom:longitude":-94.43255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4925 State Line Rd",
     "sg:city":"Fort Smith",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102360973,
-    "wof:lastmodified":1449069641,
+    "wof:lastmodified":1466324352,
     "wof:name":"Hickory Springs Mfg Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.43255,35.353258,-94.43255,35.353258],
-  "geometry": {"coordinates":[-94.43255,35.353258],"type":"Point"}
+  "bbox": [
+    -94.43255,
+    35.353258,
+    -94.43255,
+    35.353258
+],
+  "geometry": {"coordinates":[-94.43255000000001,35.353258],"type":"Point"}
 }

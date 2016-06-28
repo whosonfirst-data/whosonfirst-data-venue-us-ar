@@ -2,13 +2,14 @@
   "id": 219339935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.624841,34.528285,-92.624841,34.528285",
     "geom:latitude":34.528285,
     "geom:longitude":-92.624841,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 Turtle Creek Rd",
     "sg:city":"Benton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219339935,
-    "wof:lastmodified":1449071973,
+    "wof:lastmodified":1466322086,
     "wof:name":"Wjlc Properties",
     "wof:parent_id":85817531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "park"
     ]
 },
-  "bbox": [-92.624841,34.528285,-92.624841,34.528285],
+  "bbox": [
+    -92.624841,
+    34.528285,
+    -92.624841,
+    34.528285
+],
   "geometry": {"coordinates":[-92.624841,34.528285],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336598331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.751688,36.646437,-94.751688,36.646437",
     "geom:latitude":36.646437,
     "geom:longitude":-94.751688,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25241 S 630 Rd",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336598331,
-    "wof:lastmodified":1448996968,
+    "wof:lastmodified":1466324502,
     "wof:name":"Alvin W Pharris",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "consultant"
     ]
 },
-  "bbox": [-94.751688,36.646437,-94.751688,36.646437],
+  "bbox": [
+    -94.751688,
+    36.646437,
+    -94.751688,
+    36.646437
+],
   "geometry": {"coordinates":[-94.751688,36.646437],"type":"Point"}
 }

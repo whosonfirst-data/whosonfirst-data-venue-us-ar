@@ -2,13 +2,14 @@
   "id": 219729355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.63997,35.771593,-91.63997,35.771593",
     "geom:latitude":35.771593,
     "geom:longitude":-91.63997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1368 Neeley St",
     "sg:city":"Batesville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219729355,
-    "wof:lastmodified":1449072160,
+    "wof:lastmodified":1466324974,
     "wof:name":"D D Cake Crafts Candy Supplies",
     "wof:parent_id":85808231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "supply"
     ]
 },
-  "bbox": [-91.63997,35.771593,-91.63997,35.771593],
-  "geometry": {"coordinates":[-91.63997,35.771593],"type":"Point"}
+  "bbox": [
+    -91.63997,
+    35.771593,
+    -91.63997,
+    35.771593
+],
+  "geometry": {"coordinates":[-91.63997000000001,35.771593],"type":"Point"}
 }

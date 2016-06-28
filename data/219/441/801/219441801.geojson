@@ -2,13 +2,14 @@
   "id": 219441801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.112238,34.867024,-92.112238,34.867024",
     "geom:latitude":34.867024,
     "geom:longitude":-92.112238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"324 W Main St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219441801,
-    "wof:lastmodified":1449070662,
+    "wof:lastmodified":1466323275,
     "wof:name":"Delgados Market",
     "wof:parent_id":85852337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.112238,34.867024,-92.112238,34.867024],
+  "bbox": [
+    -92.112238,
+    34.867024,
+    -92.112238,
+    34.867024
+],
   "geometry": {"coordinates":[-92.112238,34.867024],"type":"Point"}
 }

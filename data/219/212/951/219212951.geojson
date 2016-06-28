@@ -2,13 +2,14 @@
   "id": 219212951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.241409,33.267216,-93.241409,33.267216",
     "geom:latitude":33.267216,
     "geom:longitude":-93.241409,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 N Jefferson",
     "sg:city":"Magnolia",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219212951,
-    "wof:lastmodified":1449072664,
+    "wof:lastmodified":1466320984,
     "wof:name":"Buffaloe's 2 Dept Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "women's"
     ]
 },
-  "bbox": [-93.241409,33.267216,-93.241409,33.267216],
+  "bbox": [
+    -93.241409,
+    33.267216,
+    -93.241409,
+    33.267216
+],
   "geometry": {"coordinates":[-93.241409,33.267216],"type":"Point"}
 }

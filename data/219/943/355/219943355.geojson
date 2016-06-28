@@ -2,13 +2,14 @@
   "id": 219943355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.137299,36.241402,-94.137299,36.241402",
     "geom:latitude":36.241402,
     "geom:longitude":-94.137299,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 S Bloomington St Ste F",
     "sg:city":"Lowell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219943355,
-    "wof:lastmodified":1449071333,
+    "wof:lastmodified":1466325082,
     "wof:name":"Cellular 2000 Plus Satellite Tv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.137299,36.241402,-94.137299,36.241402],
+  "bbox": [
+    -94.137299,
+    36.241402,
+    -94.137299,
+    36.241402
+],
   "geometry": {"coordinates":[-94.137299,36.241402],"type":"Point"}
 }

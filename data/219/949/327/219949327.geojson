@@ -2,13 +2,14 @@
   "id": 219949327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.117361,36.313119,-94.117361,36.313119",
     "geom:latitude":36.313119,
     "geom:longitude":-94.117361,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1818 S 1st St",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":219949327,
-    "wof:lastmodified":1449072583,
+    "wof:lastmodified":1466325239,
     "wof:name":"Kerry Ingredients",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [-94.117361,36.313119,-94.117361,36.313119],
+  "bbox": [
+    -94.117361,
+    36.313119,
+    -94.117361,
+    36.313119
+],
   "geometry": {"coordinates":[-94.117361,36.313119],"type":"Point"}
 }

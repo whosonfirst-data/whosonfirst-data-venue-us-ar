@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102317773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.354988,33.938326,-94.354988,33.938326",
     "geom:latitude":33.938326,
     "geom:longitude":-94.354988,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"404 Main St",
     "sg:city":"Horatio",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102317773,
-    "wof:lastmodified":1449068861,
+    "wof:lastmodified":1466323469,
     "wof:name":"Cutting Up",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.354988,33.938326,-94.354988,33.938326],
-  "geometry": {"coordinates":[-94.354988,33.938326],"type":"Point"}
+  "bbox": [
+    -94.354988,
+    33.938326,
+    -94.354988,
+    33.938326
+],
+  "geometry": {"coordinates":[-94.35498800000001,33.938326],"type":"Point"}
 }

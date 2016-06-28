@@ -2,13 +2,14 @@
   "id": 219184739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.036949,33.605381,-92.036949,33.605381",
     "geom:latitude":33.605381,
     "geom:longitude":-92.036949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Cloverdale Dr",
     "sg:city":"Warren",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219184739,
-    "wof:lastmodified":1449070986,
+    "wof:lastmodified":1466320670,
     "wof:name":"Lee Edward Smith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.036949,33.605381,-92.036949,33.605381],
-  "geometry": {"coordinates":[-92.036949,33.605381],"type":"Point"}
+  "bbox": [
+    -92.036949,
+    33.605381,
+    -92.036949,
+    33.605381
+],
+  "geometry": {"coordinates":[-92.03694900000001,33.605381],"type":"Point"}
 }

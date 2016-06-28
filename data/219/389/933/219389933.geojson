@@ -2,13 +2,14 @@
   "id": 219389933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.390765,35.108845,-92.390765,35.108845",
     "geom:latitude":35.108845,
     "geom:longitude":-92.390765,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2334 Hermes Dr",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219389933,
-    "wof:lastmodified":1449073212,
+    "wof:lastmodified":1466322761,
     "wof:name":"Nash Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.390765,35.108845,-92.390765,35.108845],
+  "bbox": [
+    -92.390765,
+    35.108845,
+    -92.390765,
+    35.108845
+],
   "geometry": {"coordinates":[-92.390765,35.108845],"type":"Point"}
 }

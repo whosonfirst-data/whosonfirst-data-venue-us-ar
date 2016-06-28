@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102233117",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.198187,34.824834,-92.198187,34.824834",
     "geom:latitude":34.824834,
     "geom:longitude":-92.198187,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1051 Lantrip Rd",
     "sg:city":"Sherwood",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837729,
+        85688549,
         85633793,
         85921251,
         102082497,
-        85688549
+        85837729
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102233117",
-    "wof:lastmodified":1449070258,
+    "wof:lastmodified":1466321417,
     "wof:name":"Playtime Childrens Preschool",
     "wof:parent_id":85837729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.198187,34.824834,-92.198187,34.824834],
+  "bbox": [
+    -92.198187,
+    34.824834,
+    -92.198187,
+    34.824834
+],
   "geometry": {"coordinates":[-92.198187,34.824834],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219329403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.84509,34.320737,-91.84509,34.320737",
     "geom:latitude":34.320737,
     "geom:longitude":-91.84509,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 E Front St",
     "sg:city":"Altheimer",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219329403,
-    "wof:lastmodified":1449071386,
+    "wof:lastmodified":1466321984,
     "wof:name":"Altheimer Revenue Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "village"
     ]
 },
-  "bbox": [-91.84509,34.320737,-91.84509,34.320737],
+  "bbox": [
+    -91.84509,
+    34.320737,
+    -91.84509,
+    34.320737
+],
   "geometry": {"coordinates":[-91.84509,34.320737],"type":"Point"}
 }

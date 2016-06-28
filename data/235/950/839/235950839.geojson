@@ -2,13 +2,14 @@
   "id": 235950839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.643509,36.39465,-94.643509,36.39465",
     "geom:latitude":36.39465,
     "geom:longitude":-94.643509,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19699 E 430 Rd",
     "sg:city":"Jay",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":235950839,
-    "wof:lastmodified":1449008392,
+    "wof:lastmodified":1466320452,
     "wof:name":"Peaceful Country Kennel",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "kennel"
     ]
 },
-  "bbox": [-94.643509,36.39465,-94.643509,36.39465],
-  "geometry": {"coordinates":[-94.643509,36.39465],"type":"Point"}
+  "bbox": [
+    -94.643509,
+    36.39465,
+    -94.643509,
+    36.39465
+],
+  "geometry": {"coordinates":[-94.64350899999999,36.39465],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102400343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.749201,35.275385,-91.749201,35.275385",
     "geom:latitude":35.275385,
     "geom:longitude":-91.749201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Fairview Rd",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102400343,
-    "wof:lastmodified":1449068028,
+    "wof:lastmodified":1466324712,
     "wof:name":"Mortgage Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.749201,35.275385,-91.749201,35.275385],
+  "bbox": [
+    -91.749201,
+    35.275385,
+    -91.749201,
+    35.275385
+],
   "geometry": {"coordinates":[-91.749201,35.275385],"type":"Point"}
 }

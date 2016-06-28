@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102322423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.127523,36.477954,-93.127523,36.477954",
     "geom:latitude":36.477954,
     "geom:longitude":-93.127523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15696 Roberson Dr N",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":102322423,
-    "wof:lastmodified":1449067742,
+    "wof:lastmodified":1466323473,
     "wof:name":"Jim Roberson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.127523,36.477954,-93.127523,36.477954],
+  "bbox": [
+    -93.127523,
+    36.477954,
+    -93.127523,
+    36.477954
+],
   "geometry": {"coordinates":[-93.127523,36.477954],"type":"Point"}
 }

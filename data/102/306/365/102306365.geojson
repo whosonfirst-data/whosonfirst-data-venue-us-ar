@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102306365",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.435972,35.199477,-92.435972,35.199477",
     "geom:latitude":35.199477,
     "geom:longitude":-92.435972,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40 W Martin Ln",
     "sg:city":"Greenbrier",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":"102306365",
-    "wof:lastmodified":1449070094,
+    "wof:lastmodified":1466323169,
     "wof:name":"KCS Consulting Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.435972,35.199477,-92.435972,35.199477],
-  "geometry": {"coordinates":[-92.435972,35.199477],"type":"Point"}
+  "bbox": [
+    -92.435972,
+    35.199477,
+    -92.435972,
+    35.199477
+],
+  "geometry": {"coordinates":[-92.43597200000001,35.199477],"type":"Point"}
 }

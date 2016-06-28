@@ -2,13 +2,14 @@
   "id": 320169073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.917076,36.624337,-94.917076,36.624337",
     "geom:latitude":36.624337,
     "geom:longitude":-94.917076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Woods Dr",
     "sg:city":"Kansas",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":320169073,
-    "wof:lastmodified":1449013556,
+    "wof:lastmodified":1466320465,
     "wof:name":"Kansas Public Middle School",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.917076,36.624337,-94.917076,36.624337],
-  "geometry": {"coordinates":[-94.917076,36.624337],"type":"Point"}
+  "bbox": [
+    -94.917076,
+    36.624337,
+    -94.917076,
+    36.624337
+],
+  "geometry": {"coordinates":[-94.91707599999999,36.624337],"type":"Point"}
 }

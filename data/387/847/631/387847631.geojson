@@ -2,13 +2,14 @@
   "id": 387847631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.035354,33.424974,-94.035354,33.424974",
     "geom:latitude":33.424974,
     "geom:longitude":-94.035354,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 E Broad St",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387847631,
-    "wof:lastmodified":1449057479,
+    "wof:lastmodified":1466320416,
     "wof:name":"Bolls Distributing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ale"
     ]
 },
-  "bbox": [-94.035354,33.424974,-94.035354,33.424974],
+  "bbox": [
+    -94.035354,
+    33.424974,
+    -94.035354,
+    33.424974
+],
   "geometry": {"coordinates":[-94.035354,33.424974],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102277281",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.157654,36.110779,-94.157654,36.110779",
     "geom:latitude":36.110779,
     "geom:longitude":-94.157654,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3318 N Northhills Blvd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.mcdonaldeye.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885431,
+        85688549,
         85633793,
         85919609,
         102082007,
-        85688549
+        85885431
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102277281",
-    "wof:lastmodified":1449068068,
+    "wof:lastmodified":1466322523,
     "wof:name":"Mc Donald Eye Assoc & Laser",
     "wof:parent_id":85885431,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.157654,36.110779,-94.157654,36.110779],
-  "geometry": {"coordinates":[-94.157654,36.110779],"type":"Point"}
+  "bbox": [
+    -94.157654,
+    36.110779,
+    -94.157654,
+    36.110779
+],
+  "geometry": {"coordinates":[-94.15765399999999,36.110779],"type":"Point"}
 }

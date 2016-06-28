@@ -2,13 +2,14 @@
   "id": 219437805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.122303,34.862453,-92.122303,34.862453",
     "geom:latitude":34.862453,
     "geom:longitude":-92.122303,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1320 School Dr",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219437805,
-    "wof:lastmodified":1449072949,
+    "wof:lastmodified":1466323202,
     "wof:name":"Alpha Learning Center",
     "wof:parent_id":85852337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "day"
     ]
 },
-  "bbox": [-92.122303,34.862453,-92.122303,34.862453],
+  "bbox": [
+    -92.122303,
+    34.862453,
+    -92.122303,
+    34.862453
+],
   "geometry": {"coordinates":[-92.122303,34.862453],"type":"Point"}
 }

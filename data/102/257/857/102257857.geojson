@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102257857",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.593635,36.411435,-90.593635,36.411435",
     "geom:latitude":36.411435,
     "geom:longitude":-90.593635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1700 W Main St",
     "sg:city":"Corning",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102257857",
-    "wof:lastmodified":1449068483,
+    "wof:lastmodified":1466322128,
     "wof:name":"Northeast Arkansas Physical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.593635,36.411435,-90.593635,36.411435],
-  "geometry": {"coordinates":[-90.593635,36.411435],"type":"Point"}
+  "bbox": [
+    -90.593635,
+    36.411435,
+    -90.593635,
+    36.411435
+],
+  "geometry": {"coordinates":[-90.59363500000001,36.411435],"type":"Point"}
 }

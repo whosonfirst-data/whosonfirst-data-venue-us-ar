@@ -2,13 +2,14 @@
   "id": 220112489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.235598,35.208516,-94.235598,35.208516",
     "geom:latitude":35.208516,
     "geom:longitude":-94.235598,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1440 Whippoorwill Dr",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220112489,
-    "wof:lastmodified":1449074387,
+    "wof:lastmodified":1466322453,
     "wof:name":"Dunavin Brent W Dds Dentists",
     "wof:parent_id":85832863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.235598,35.208516,-94.235598,35.208516],
+  "bbox": [
+    -94.235598,
+    35.208516,
+    -94.235598,
+    35.208516
+],
   "geometry": {"coordinates":[-94.235598,35.208516],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203423111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.699921,34.080215,-91.699921,34.080215",
     "geom:latitude":34.080215,
     "geom:longitude":-91.699921,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 Highway 65 S",
     "sg:city":"Grady",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203423111,
-    "wof:lastmodified":1449025255,
+    "wof:lastmodified":1466320674,
     "wof:name":"Hardin Randy Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.699921,34.080215,-91.699921,34.080215],
+  "bbox": [
+    -91.699921,
+    34.080215,
+    -91.699921,
+    34.080215
+],
   "geometry": {"coordinates":[-91.699921,34.080215],"type":"Point"}
 }

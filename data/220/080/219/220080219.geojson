@@ -2,13 +2,14 @@
   "id": 220080219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.516531,35.462282,-93.516531,35.462282",
     "geom:latitude":35.462282,
     "geom:longitude":-93.516531,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"131 Massengale Rd",
     "sg:city":"Clarksville",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":220080219,
-    "wof:lastmodified":1449074856,
+    "wof:lastmodified":1466321600,
     "wof:name":"Barry Park Auto Sales Inc",
     "wof:parent_id":85847897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "new"
     ]
 },
-  "bbox": [-93.516531,35.462282,-93.516531,35.462282],
+  "bbox": [
+    -93.516531,
+    35.462282,
+    -93.516531,
+    35.462282
+],
   "geometry": {"coordinates":[-93.516531,35.462282],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219695325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.554946,36.102537,-90.554946,36.102537",
     "geom:latitude":36.102537,
     "geom:longitude":-90.554946,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3041 Greene Road 628",
     "sg:city":"Paragould",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219695325,
-    "wof:lastmodified":1449071725,
+    "wof:lastmodified":1466324730,
     "wof:name":"Gipson Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-90.554946,36.102537,-90.554946,36.102537],
+  "bbox": [
+    -90.554946,
+    36.102537,
+    -90.554946,
+    36.102537
+],
   "geometry": {"coordinates":[-90.554946,36.102537],"type":"Point"}
 }

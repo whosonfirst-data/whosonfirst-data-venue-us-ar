@@ -2,13 +2,14 @@
   "id": 219276989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.512314,33.09082,-93.512314,33.09082",
     "geom:latitude":33.09082,
     "geom:longitude":-93.512314,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6371 Highway 53",
     "sg:city":"Taylor",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219276989,
-    "wof:lastmodified":1449070498,
+    "wof:lastmodified":1466321542,
     "wof:name":"Jon Russel Umphries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.512314,33.09082,-93.512314,33.09082],
+  "bbox": [
+    -93.512314,
+    33.09082,
+    -93.512314,
+    33.09082
+],
   "geometry": {"coordinates":[-93.512314,33.09082],"type":"Point"}
 }

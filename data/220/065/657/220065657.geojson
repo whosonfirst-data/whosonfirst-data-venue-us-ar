@@ -2,13 +2,14 @@
   "id": 220065657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.132022,35.275038,-93.132022,35.275038",
     "geom:latitude":35.275038,
     "geom:longitude":-93.132022,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 E 4th St",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220065657,
-    "wof:lastmodified":1449074871,
+    "wof:lastmodified":1466321164,
     "wof:name":"Mr Handi Janitorial Services",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitorial"
     ]
 },
-  "bbox": [-93.132022,35.275038,-93.132022,35.275038],
-  "geometry": {"coordinates":[-93.132022,35.275038],"type":"Point"}
+  "bbox": [
+    -93.132022,
+    35.275038,
+    -93.132022,
+    35.275038
+],
+  "geometry": {"coordinates":[-93.13202200000001,35.275038],"type":"Point"}
 }

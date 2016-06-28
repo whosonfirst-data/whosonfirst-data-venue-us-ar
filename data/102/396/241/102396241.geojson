@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102396241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.578673,35.305407,-91.578673,35.305407",
     "geom:latitude":35.305407,
     "geom:longitude":-91.578673,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Sycamore Terrace Ln",
     "sg:city":"Bald Knob",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102396241,
-    "wof:lastmodified":1449069363,
+    "wof:lastmodified":1466324693,
     "wof:name":"Sycamore Terrace Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.578673,35.305407,-91.578673,35.305407],
-  "geometry": {"coordinates":[-91.578673,35.305407],"type":"Point"}
+  "bbox": [
+    -91.578673,
+    35.305407,
+    -91.578673,
+    35.305407
+],
+  "geometry": {"coordinates":[-91.57867299999999,35.305407],"type":"Point"}
 }

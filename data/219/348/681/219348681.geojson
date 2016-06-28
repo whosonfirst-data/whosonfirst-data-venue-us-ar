@@ -2,13 +2,14 @@
   "id": 219348681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.602867,34.581299,-92.602867,34.581299",
     "geom:latitude":34.581299,
     "geom:longitude":-92.602867,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1601 Scandia",
     "sg:city":"Benton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219348681,
-    "wof:lastmodified":1449070526,
+    "wof:lastmodified":1466322242,
     "wof:name":"C T S Rocks & Minerals",
     "wof:parent_id":85817531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-92.602867,34.581299,-92.602867,34.581299],
+  "bbox": [
+    -92.602867,
+    34.581299,
+    -92.602867,
+    34.581299
+],
   "geometry": {"coordinates":[-92.602867,34.581299],"type":"Point"}
 }

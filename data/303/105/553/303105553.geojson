@@ -2,13 +2,14 @@
   "id": 303105553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.720293,36.648399,-94.720293,36.648399",
     "geom:latitude":36.648399,
     "geom:longitude":-94.720293,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"64600 254Loop",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303105553,
-    "wof:lastmodified":1448999048,
+    "wof:lastmodified":1466323509,
     "wof:name":"King Point Mobile Home Park",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "resort"
     ]
 },
-  "bbox": [-94.720293,36.648399,-94.720293,36.648399],
+  "bbox": [
+    -94.720293,
+    36.648399,
+    -94.720293,
+    36.648399
+],
   "geometry": {"coordinates":[-94.720293,36.648399],"type":"Point"}
 }

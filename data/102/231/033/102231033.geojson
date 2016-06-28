@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102231033",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.08943,35.30465,-93.08943,35.30465",
     "geom:latitude":35.30465,
     "geom:longitude":-93.08943,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 Creek Ln",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":"102231033",
-    "wof:lastmodified":1449068977,
+    "wof:lastmodified":1466321340,
     "wof:name":"Matt W Lee",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.08943,35.30465,-93.08943,35.30465],
-  "geometry": {"coordinates":[-93.08943,35.30465],"type":"Point"}
+  "bbox": [
+    -93.08943,
+    35.30465,
+    -93.08943,
+    35.30465
+],
+  "geometry": {"coordinates":[-93.08942999999999,35.30465],"type":"Point"}
 }

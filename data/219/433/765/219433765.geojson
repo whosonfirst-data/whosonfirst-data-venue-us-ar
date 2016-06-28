@@ -2,13 +2,14 @@
   "id": 219433765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.083726,35.564769,-92.083726,35.564769",
     "geom:latitude":35.564769,
     "geom:longitude":-92.083726,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"650 Indian Trail Cir",
     "sg:city":"Higden",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219433765,
-    "wof:lastmodified":1449070797,
+    "wof:lastmodified":1466323129,
     "wof:name":"Schooover Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "equipment"
     ]
 },
-  "bbox": [-92.083726,35.564769,-92.083726,35.564769],
+  "bbox": [
+    -92.083726,
+    35.564769,
+    -92.083726,
+    35.564769
+],
   "geometry": {"coordinates":[-92.083726,35.564769],"type":"Point"}
 }

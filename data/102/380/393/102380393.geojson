@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102380393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.37153,34.710616,-92.37153,34.710616",
     "geom:latitude":34.710616,
     "geom:longitude":-92.37153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8510 Asher Ave",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85804131,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85804131
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102380393,
-    "wof:lastmodified":1449068882,
+    "wof:lastmodified":1466322170,
     "wof:name":"Family Dollar Store",
     "wof:parent_id":85804131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.37153,34.710616,-92.37153,34.710616],
-  "geometry": {"coordinates":[-92.37153,34.710616],"type":"Point"}
+  "bbox": [
+    -92.37153,
+    34.710616,
+    -92.37153,
+    34.710616
+],
+  "geometry": {"coordinates":[-92.37153000000001,34.710616],"type":"Point"}
 }

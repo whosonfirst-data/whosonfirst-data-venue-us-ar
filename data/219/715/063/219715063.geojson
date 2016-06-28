@@ -2,13 +2,14 @@
   "id": 219715063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.994549,36.289595,-90.994549,36.289595",
     "geom:latitude":36.289595,
     "geom:longitude":-90.994549,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"306 Camp Rd",
     "sg:city":"Pocahontas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219715063,
-    "wof:lastmodified":1449073220,
+    "wof:lastmodified":1466324813,
     "wof:name":"Natural Resources Conservation Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "conservation"
     ]
 },
-  "bbox": [-90.994549,36.289595,-90.994549,36.289595],
-  "geometry": {"coordinates":[-90.994549,36.289595],"type":"Point"}
+  "bbox": [
+    -90.994549,
+    36.289595,
+    -90.994549,
+    36.289595
+],
+  "geometry": {"coordinates":[-90.99454900000001,36.289595],"type":"Point"}
 }

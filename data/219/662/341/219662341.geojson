@@ -2,13 +2,14 @@
   "id": 219662341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.731607,35.560705,-90.731607,35.560705",
     "geom:latitude":35.560705,
     "geom:longitude":-90.731607,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 Mills Rd",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219662341,
-    "wof:lastmodified":1449072775,
+    "wof:lastmodified":1466324776,
     "wof:name":"Statewide Crop Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.731607,35.560705,-90.731607,35.560705],
+  "bbox": [
+    -90.731607,
+    35.560705,
+    -90.731607,
+    35.560705
+],
   "geometry": {"coordinates":[-90.731607,35.560705],"type":"Point"}
 }

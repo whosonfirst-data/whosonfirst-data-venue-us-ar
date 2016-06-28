@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102315223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.145182,36.160807,-94.145182,36.160807",
     "geom:latitude":36.160807,
     "geom:longitude":-94.145182,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2704 American St",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102315223,
-    "wof:lastmodified":1449070073,
+    "wof:lastmodified":1466323330,
     "wof:name":"Eaton Corp Cutler Hammer Prod",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.145182,36.160807,-94.145182,36.160807],
-  "geometry": {"coordinates":[-94.145182,36.160807],"type":"Point"}
+  "bbox": [
+    -94.145182,
+    36.160807,
+    -94.145182,
+    36.160807
+],
+  "geometry": {"coordinates":[-94.14518200000001,36.160807],"type":"Point"}
 }

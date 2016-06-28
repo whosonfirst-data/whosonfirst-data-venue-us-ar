@@ -2,13 +2,14 @@
   "id": 219192331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.870254,33.485171,-92.870254,33.485171",
     "geom:latitude":33.485171,
     "geom:longitude":-92.870254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"145 Ouachita 531",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219192331,
-    "wof:lastmodified":1449072898,
+    "wof:lastmodified":1466320782,
     "wof:name":"Sam Benable",
     "wof:parent_id":85813169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "craft"
     ]
 },
-  "bbox": [-92.870254,33.485171,-92.870254,33.485171],
+  "bbox": [
+    -92.870254,
+    33.485171,
+    -92.870254,
+    33.485171
+],
   "geometry": {"coordinates":[-92.870254,33.485171],"type":"Point"}
 }

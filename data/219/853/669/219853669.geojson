@@ -2,13 +2,14 @@
   "id": 219853669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.157046,36.097363,-94.157046,36.097363",
     "geom:latitude":36.097363,
     "geom:longitude":-94.157046,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2533 N New School Pl",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -68,10 +69,11 @@
         }
     ],
     "wof:id":219853669,
-    "wof:lastmodified":1449071811,
+    "wof:lastmodified":1466325124,
     "wof:name":"Psychology & Counseling Associates Center For Children & Adolescence",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -86,6 +88,11 @@
         "counselor"
     ]
 },
-  "bbox": [-94.157046,36.097363,-94.157046,36.097363],
-  "geometry": {"coordinates":[-94.157046,36.097363],"type":"Point"}
+  "bbox": [
+    -94.157046,
+    36.097363,
+    -94.157046,
+    36.097363
+],
+  "geometry": {"coordinates":[-94.15704599999999,36.097363],"type":"Point"}
 }

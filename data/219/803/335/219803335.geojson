@@ -2,13 +2,14 @@
   "id": 219803335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.262375,36.201665,-92.262375,36.201665",
     "geom:latitude":36.201665,
     "geom:longitude":-92.262375,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13869 Highway 5 S",
     "sg:city":"Norfork",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219803335,
-    "wof:lastmodified":1449073964,
+    "wof:lastmodified":1466325027,
     "wof:name":"The Comfort Zone",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-92.262375,36.201665,-92.262375,36.201665],
-  "geometry": {"coordinates":[-92.262375,36.201665],"type":"Point"}
+  "bbox": [
+    -92.262375,
+    36.201665,
+    -92.262375,
+    36.201665
+],
+  "geometry": {"coordinates":[-92.26237500000001,36.201665],"type":"Point"}
 }

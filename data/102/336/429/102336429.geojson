@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102336429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.155599,36.133302,-94.155599,36.133302",
     "geom:latitude":36.133302,
     "geom:longitude":-94.155599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2015 Main Dr",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885433,
+        85688549,
         85633793,
         85919609,
         102082007,
-        85688549
+        85885433
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102336429,
-    "wof:lastmodified":1449067725,
+    "wof:lastmodified":1466323801,
     "wof:name":"Outdoor America Marine",
     "wof:parent_id":85885433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.155599,36.133302,-94.155599,36.133302],
+  "bbox": [
+    -94.155599,
+    36.133302,
+    -94.155599,
+    36.133302
+],
   "geometry": {"coordinates":[-94.155599,36.133302],"type":"Point"}
 }

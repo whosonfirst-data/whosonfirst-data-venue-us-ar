@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102230203",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.379648,33.801301,-93.379648,33.801301",
     "geom:latitude":33.801301,
     "geom:longitude":-93.379648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 E 2nd St S",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":"102230203",
-    "wof:lastmodified":1449069584,
+    "wof:lastmodified":1466321371,
     "wof:name":"Bank Of Prescott",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.379648,33.801301,-93.379648,33.801301],
+  "bbox": [
+    -93.379648,
+    33.801301,
+    -93.379648,
+    33.801301
+],
   "geometry": {"coordinates":[-93.379648,33.801301],"type":"Point"}
 }

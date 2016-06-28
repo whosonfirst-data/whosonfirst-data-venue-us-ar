@@ -2,13 +2,14 @@
   "id": 219352967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.199337,34.890996,-91.199337,34.890996",
     "geom:latitude":34.890996,
     "geom:longitude":-91.199337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"413 N Charlyne Ave",
     "sg:city":"Brinkley",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219352967,
-    "wof:lastmodified":1449072569,
+    "wof:lastmodified":1466322306,
     "wof:name":"Dianna's Day Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "day"
     ]
 },
-  "bbox": [-91.199337,34.890996,-91.199337,34.890996],
+  "bbox": [
+    -91.199337,
+    34.890996,
+    -91.199337,
+    34.890996
+],
   "geometry": {"coordinates":[-91.199337,34.890996],"type":"Point"}
 }

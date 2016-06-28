@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102253729",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.268069,34.740713,-92.268069,34.740713",
     "geom:latitude":34.740713,
     "geom:longitude":-92.268069,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 Rock St",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.arcf.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878749,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85878749
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102253729",
-    "wof:lastmodified":1449069880,
+    "wof:lastmodified":1466322023,
     "wof:name":"Arkansas Community Foundation",
     "wof:parent_id":85878749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.268069,34.740713,-92.268069,34.740713],
+  "bbox": [
+    -92.268069,
+    34.740713,
+    -92.268069,
+    34.740713
+],
   "geometry": {"coordinates":[-92.268069,34.740713],"type":"Point"}
 }

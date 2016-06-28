@@ -2,13 +2,14 @@
   "id": 219447473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.909877,34.780389,-91.909877,34.780389",
     "geom:latitude":34.780389,
     "geom:longitude":-91.909877,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 Rosemary Ln",
     "sg:city":"Lonoke",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":219447473,
-    "wof:lastmodified":1449072879,
+    "wof:lastmodified":1466323332,
     "wof:name":"Tsvlscom",
     "wof:parent_id":85811577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-91.909877,34.780389,-91.909877,34.780389],
-  "geometry": {"coordinates":[-91.909877,34.780389],"type":"Point"}
+  "bbox": [
+    -91.909877,
+    34.780389,
+    -91.909877,
+    34.780389
+],
+  "geometry": {"coordinates":[-91.90987699999999,34.780389],"type":"Point"}
 }

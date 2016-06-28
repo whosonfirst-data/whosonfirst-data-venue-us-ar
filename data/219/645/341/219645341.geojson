@@ -2,13 +2,14 @@
   "id": 219645341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.687437,35.756597,-90.687437,35.756597",
     "geom:latitude":35.756597,
     "geom:longitude":-90.687437,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5305 Stadium Blvd",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219645341,
-    "wof:lastmodified":1449070746,
+    "wof:lastmodified":1466324694,
     "wof:name":"Palmer Agricultural Services",
     "wof:parent_id":85836541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "consultant"
     ]
 },
-  "bbox": [-90.687437,35.756597,-90.687437,35.756597],
+  "bbox": [
+    -90.687437,
+    35.756597,
+    -90.687437,
+    35.756597
+],
   "geometry": {"coordinates":[-90.687437,35.756597],"type":"Point"}
 }

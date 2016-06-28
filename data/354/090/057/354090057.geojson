@@ -2,13 +2,14 @@
   "id": 354090057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.868675,36.598938,-94.868675,36.598938",
     "geom:latitude":36.598938,
     "geom:longitude":-94.868675,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"56156 E 288 Rd",
     "sg:city":"Afton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354090057,
-    "wof:lastmodified":1449067287,
+    "wof:lastmodified":1466324505,
     "wof:name":"Arts Crafts Gifts & More",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.868675,36.598938,-94.868675,36.598938],
+  "bbox": [
+    -94.868675,
+    36.598938,
+    -94.868675,
+    36.598938
+],
   "geometry": {"coordinates":[-94.868675,36.598938],"type":"Point"}
 }

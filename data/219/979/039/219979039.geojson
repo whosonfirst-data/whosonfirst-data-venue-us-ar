@@ -2,13 +2,14 @@
   "id": 219979039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.132248,36.333729,-94.132248,36.333729",
     "geom:latitude":36.333729,
     "geom:longitude":-94.132248,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1149 W Walnut St",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219979039,
-    "wof:lastmodified":1449072884,
+    "wof:lastmodified":1466325182,
     "wof:name":"Healthway Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "care"
     ]
 },
-  "bbox": [-94.132248,36.333729,-94.132248,36.333729],
+  "bbox": [
+    -94.132248,
+    36.333729,
+    -94.132248,
+    36.333729
+],
   "geometry": {"coordinates":[-94.132248,36.333729],"type":"Point"}
 }

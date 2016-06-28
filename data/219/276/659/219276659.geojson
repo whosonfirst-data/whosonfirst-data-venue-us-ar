@@ -2,13 +2,14 @@
   "id": 219276659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.437655,33.169354,-93.437655,33.169354",
     "geom:latitude":33.169354,
     "geom:longitude":-93.437655,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10061 Highway 371 S",
     "sg:city":"Taylor",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219276659,
-    "wof:lastmodified":1449070497,
+    "wof:lastmodified":1466321538,
     "wof:name":"Beacon Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "churches-baptist"
     ]
 },
-  "bbox": [-93.437655,33.169354,-93.437655,33.169354],
-  "geometry": {"coordinates":[-93.437655,33.169354],"type":"Point"}
+  "bbox": [
+    -93.437655,
+    33.169354,
+    -93.437655,
+    33.169354
+],
+  "geometry": {"coordinates":[-93.43765500000001,33.169354],"type":"Point"}
 }

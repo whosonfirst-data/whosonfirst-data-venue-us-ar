@@ -2,13 +2,14 @@
   "id": 219558507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.461458,34.575193,-91.461458,34.575193",
     "geom:latitude":34.575193,
     "geom:longitude":-91.461458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"127 W 2nd St",
     "sg:city":"Ulm",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219558507,
-    "wof:lastmodified":1449071363,
+    "wof:lastmodified":1466324393,
     "wof:name":"USPS - United States Post Office - Ulm Main Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "shipping"
     ]
 },
-  "bbox": [-91.461458,34.575193,-91.461458,34.575193],
-  "geometry": {"coordinates":[-91.461458,34.575193],"type":"Point"}
+  "bbox": [
+    -91.461458,
+    34.575193,
+    -91.461458,
+    34.575193
+],
+  "geometry": {"coordinates":[-91.46145799999999,34.575193],"type":"Point"}
 }

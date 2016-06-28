@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102263483",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.106446,33.235008,-93.106446,33.235008",
     "geom:latitude":33.235008,
     "geom:longitude":-93.106446,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Columbia Rd 295",
     "sg:city":"Magnolia",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102263483",
-    "wof:lastmodified":1449070144,
+    "wof:lastmodified":1466322202,
     "wof:name":"A M Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.106446,33.235008,-93.106446,33.235008],
-  "geometry": {"coordinates":[-93.106446,33.235008],"type":"Point"}
+  "bbox": [
+    -93.106446,
+    33.235008,
+    -93.106446,
+    33.235008
+],
+  "geometry": {"coordinates":[-93.10644600000001,33.235008],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102357053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.797581,33.225118,-91.797581,33.225118",
     "geom:latitude":33.225118,
     "geom:longitude":-91.797581,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 E Polk St",
     "sg:city":"Hamburg",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":102357053,
-    "wof:lastmodified":1449069883,
+    "wof:lastmodified":1466324139,
     "wof:name":"Fire Ball Electronics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.797581,33.225118,-91.797581,33.225118],
-  "geometry": {"coordinates":[-91.797581,33.225118],"type":"Point"}
+  "bbox": [
+    -91.797581,
+    33.225118,
+    -91.797581,
+    33.225118
+],
+  "geometry": {"coordinates":[-91.79758099999999,33.225118],"type":"Point"}
 }

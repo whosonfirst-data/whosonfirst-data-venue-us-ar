@@ -2,13 +2,14 @@
   "id": 235945691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.769082,36.579977,-94.769082,36.579977",
     "geom:latitude":36.579977,
     "geom:longitude":-94.769082,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1629 S Main St",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -69,10 +70,11 @@
         }
     ],
     "wof:id":235945691,
-    "wof:lastmodified":1449008307,
+    "wof:lastmodified":1466320427,
     "wof:name":"Oklahoma Counseling Services",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -87,6 +89,11 @@
         "counselor"
     ]
 },
-  "bbox": [-94.769082,36.579977,-94.769082,36.579977],
+  "bbox": [
+    -94.769082,
+    36.579977,
+    -94.769082,
+    36.579977
+],
   "geometry": {"coordinates":[-94.769082,36.579977],"type":"Point"}
 }

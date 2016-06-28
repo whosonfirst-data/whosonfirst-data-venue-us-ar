@@ -2,13 +2,14 @@
   "id": 219252275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.041,33.427021,-94.041,33.427021",
     "geom:latitude":33.427021,
     "geom:longitude":-94.041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 E 6th St",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219252275,
-    "wof:lastmodified":1449070859,
+    "wof:lastmodified":1466321349,
     "wof:name":"Jon Hall Md",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-94.041,33.427021,-94.041,33.427021],
+  "bbox": [
+    -94.041,
+    33.427021,
+    -94.041,
+    33.427021
+],
   "geometry": {"coordinates":[-94.041,33.427021],"type":"Point"}
 }

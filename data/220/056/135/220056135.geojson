@@ -2,13 +2,14 @@
   "id": 220056135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.143597,36.169033,-94.143597,36.169033",
     "geom:latitude":36.169033,
     "geom:longitude":-94.143597,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1830 S Pleasant St Ste A",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -72,10 +73,11 @@
         }
     ],
     "wof:id":220056135,
-    "wof:lastmodified":1449074241,
+    "wof:lastmodified":1466320883,
     "wof:name":"Print & Copy Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -88,6 +90,11 @@
         "plotting"
     ]
 },
-  "bbox": [-94.143597,36.169033,-94.143597,36.169033],
+  "bbox": [
+    -94.143597,
+    36.169033,
+    -94.143597,
+    36.169033
+],
   "geometry": {"coordinates":[-94.143597,36.169033],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219548175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.505421,35.284394,-92.505421,35.284394",
     "geom:latitude":35.284394,
     "geom:longitude":-92.505421,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"242 Mallett Town Rd",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":219548175,
-    "wof:lastmodified":1449072832,
+    "wof:lastmodified":1466324319,
     "wof:name":"Jimmie D Scroggins",
     "wof:parent_id":85850611,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.505421,35.284394,-92.505421,35.284394],
+  "bbox": [
+    -92.505421,
+    35.284394,
+    -92.505421,
+    35.284394
+],
   "geometry": {"coordinates":[-92.505421,35.284394],"type":"Point"}
 }

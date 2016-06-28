@@ -2,13 +2,14 @@
   "id": 219643573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.697184,35.842969,-90.697184,35.842969",
     "geom:latitude":35.842969,
     "geom:longitude":-90.697184,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 S Fisher St",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219643573,
-    "wof:lastmodified":1449073444,
+    "wof:lastmodified":1466324668,
     "wof:name":"The Lost Cherokee Of Arkansas And Missou",
     "wof:parent_id":85836541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.697184,35.842969,-90.697184,35.842969],
-  "geometry": {"coordinates":[-90.697184,35.842969],"type":"Point"}
+  "bbox": [
+    -90.697184,
+    35.842969,
+    -90.697184,
+    35.842969
+],
+  "geometry": {"coordinates":[-90.69718399999999,35.842969],"type":"Point"}
 }

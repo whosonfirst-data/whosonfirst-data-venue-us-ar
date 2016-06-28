@@ -2,13 +2,14 @@
   "id": 219340795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.552805,34.572479,-92.552805,34.572479",
     "geom:latitude":34.572479,
     "geom:longitude":-92.552805,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2415 Spring Creek Dr",
     "sg:city":"Benton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219340795,
-    "wof:lastmodified":1449073129,
+    "wof:lastmodified":1466322104,
     "wof:name":"Twofish Media Solutions",
     "wof:parent_id":85817531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.552805,34.572479,-92.552805,34.572479],
-  "geometry": {"coordinates":[-92.552805,34.572479],"type":"Point"}
+  "bbox": [
+    -92.552805,
+    34.572479,
+    -92.552805,
+    34.572479
+],
+  "geometry": {"coordinates":[-92.55280500000001,34.572479],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102372101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.162976,36.132019,-94.162976,36.132019",
     "geom:latitude":36.132019,
     "geom:longitude":-94.162976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5909 S Wilkerson Rd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885471,
+        85688549,
         85633793,
         85919595,
         102082007,
-        85688549
+        85885471
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102372101,
-    "wof:lastmodified":1449069205,
+    "wof:lastmodified":1466320429,
     "wof:name":"Affordable PC Inc",
     "wof:parent_id":85885471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.162976,36.132019,-94.162976,36.132019],
+  "bbox": [
+    -94.162976,
+    36.132019,
+    -94.162976,
+    36.132019
+],
   "geometry": {"coordinates":[-94.162976,36.132019],"type":"Point"}
 }

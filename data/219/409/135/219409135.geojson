@@ -2,13 +2,14 @@
   "id": 219409135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.471644,35.086342,-92.471644,35.086342",
     "geom:latitude":35.086342,
     "geom:longitude":-92.471644,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"740 S Salem Rd",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -70,10 +71,11 @@
         }
     ],
     "wof:id":219409135,
-    "wof:lastmodified":1449071841,
+    "wof:lastmodified":1466322927,
     "wof:name":"Allstate Insurance Company - Mark Massey",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -85,6 +87,11 @@
         "renter"
     ]
 },
-  "bbox": [-92.471644,35.086342,-92.471644,35.086342],
+  "bbox": [
+    -92.471644,
+    35.086342,
+    -92.471644,
+    35.086342
+],
   "geometry": {"coordinates":[-92.471644,35.086342],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102319601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.241267,33.267083,-93.241267,33.267083",
     "geom:latitude":33.267083,
     "geom:longitude":-93.241267,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 S Jefferson St",
     "sg:city":"Magnolia",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102319601,
-    "wof:lastmodified":1449068756,
+    "wof:lastmodified":1466323452,
     "wof:name":"Frame N Gallery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.241267,33.267083,-93.241267,33.267083],
-  "geometry": {"coordinates":[-93.241267,33.267083],"type":"Point"}
+  "bbox": [
+    -93.241267,
+    33.267083,
+    -93.241267,
+    33.267083
+],
+  "geometry": {"coordinates":[-93.24126699999999,33.267083],"type":"Point"}
 }

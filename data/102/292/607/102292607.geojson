@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102292607",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.09528,36.341975,-94.09528,36.341975",
     "geom:latitude":36.341975,
     "geom:longitude":-94.09528,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1406 Prairie Creek Dr",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895843,
+        85688549,
         85633793,
         85921535,
         102083255,
-        85688549
+        85895843
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102292607",
-    "wof:lastmodified":1449068001,
+    "wof:lastmodified":1466322901,
     "wof:name":"Quality Woodworks Inc",
     "wof:parent_id":85895843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.09528,36.341975,-94.09528,36.341975],
+  "bbox": [
+    -94.09528,
+    36.341975,
+    -94.09528,
+    36.341975
+],
   "geometry": {"coordinates":[-94.09528,36.341975],"type":"Point"}
 }

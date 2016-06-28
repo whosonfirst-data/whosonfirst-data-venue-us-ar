@@ -2,13 +2,14 @@
   "id": 219230179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.081244,33.623031,-94.081244,33.623031",
     "geom:latitude":33.623031,
     "geom:longitude":-94.081244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"853 Highway 71 S",
     "sg:city":"Ashdown",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219230179,
-    "wof:lastmodified":1449073022,
+    "wof:lastmodified":1466321174,
     "wof:name":"Quick's Car Lube",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "oil"
     ]
 },
-  "bbox": [-94.081244,33.623031,-94.081244,33.623031],
+  "bbox": [
+    -94.081244,
+    33.623031,
+    -94.081244,
+    33.623031
+],
   "geometry": {"coordinates":[-94.081244,33.623031],"type":"Point"}
 }

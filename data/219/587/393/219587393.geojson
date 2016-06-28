@@ -2,13 +2,14 @@
   "id": 219587393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.851853,34.308022,-90.851853,34.308022",
     "geom:latitude":34.308022,
     "geom:longitude":-90.851853,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 Main St",
     "sg:city":"Elaine",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219587393,
-    "wof:lastmodified":1449071612,
+    "wof:lastmodified":1466324569,
     "wof:name":"Bail Winston Clinic",
     "wof:parent_id":85834075,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-90.851853,34.308022,-90.851853,34.308022],
-  "geometry": {"coordinates":[-90.851853,34.308022],"type":"Point"}
+  "bbox": [
+    -90.851853,
+    34.308022,
+    -90.851853,
+    34.308022
+],
+  "geometry": {"coordinates":[-90.85185300000001,34.308022],"type":"Point"}
 }

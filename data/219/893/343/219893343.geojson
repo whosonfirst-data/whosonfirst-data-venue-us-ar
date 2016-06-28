@@ -2,13 +2,14 @@
   "id": 219893343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.220168,36.360999,-94.220168,36.360999",
     "geom:latitude":36.360999,
     "geom:longitude":-94.220168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"811 SW Raintree Ste 8",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219893343,
-    "wof:lastmodified":1449073259,
+    "wof:lastmodified":1466325088,
     "wof:name":"Infiniti Group International",
     "wof:parent_id":85895819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-94.220168,36.360999,-94.220168,36.360999],
+  "bbox": [
+    -94.220168,
+    36.360999,
+    -94.220168,
+    36.360999
+],
   "geometry": {"coordinates":[-94.220168,36.360999],"type":"Point"}
 }

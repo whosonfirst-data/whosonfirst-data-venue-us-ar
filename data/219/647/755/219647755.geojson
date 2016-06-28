@@ -2,13 +2,14 @@
   "id": 219647755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.729103,35.804133,-90.729103,35.804133",
     "geom:latitude":35.804133,
     "geom:longitude":-90.729103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3211 Candlewood Dr",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219647755,
-    "wof:lastmodified":1449072063,
+    "wof:lastmodified":1466324713,
     "wof:name":"Rd Investments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "investment"
     ]
 },
-  "bbox": [-90.729103,35.804133,-90.729103,35.804133],
-  "geometry": {"coordinates":[-90.729103,35.804133],"type":"Point"}
+  "bbox": [
+    -90.729103,
+    35.804133,
+    -90.729103,
+    35.804133
+],
+  "geometry": {"coordinates":[-90.72910299999999,35.804133],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102346751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.143586,36.172374,-94.143586,36.172374",
     "geom:latitude":36.172374,
     "geom:longitude":-94.143586,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1458 S Pleasant St",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885485,
+        85688549,
         85633793,
         85919623,
         102082007,
-        85688549
+        85885485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":102346751,
-    "wof:lastmodified":1449067753,
+    "wof:lastmodified":1466324075,
     "wof:name":"Reed Joe B",
     "wof:parent_id":85885485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.143586,36.172374,-94.143586,36.172374],
+  "bbox": [
+    -94.143586,
+    36.172374,
+    -94.143586,
+    36.172374
+],
   "geometry": {"coordinates":[-94.143586,36.172374],"type":"Point"}
 }

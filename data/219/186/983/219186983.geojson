@@ -2,13 +2,14 @@
   "id": 219186983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.310363,33.919762,-91.310363,33.919762",
     "geom:latitude":33.919762,
     "geom:longitude":-91.310363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"130 Camden Ln",
     "sg:city":"Watson",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219186983,
-    "wof:lastmodified":1449073166,
+    "wof:lastmodified":1466320690,
     "wof:name":"Montgomerys Grocery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.310363,33.919762,-91.310363,33.919762],
+  "bbox": [
+    -91.310363,
+    33.919762,
+    -91.310363,
+    33.919762
+],
   "geometry": {"coordinates":[-91.310363,33.919762],"type":"Point"}
 }

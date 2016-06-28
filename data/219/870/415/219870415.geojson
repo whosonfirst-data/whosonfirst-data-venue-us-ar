@@ -2,13 +2,14 @@
   "id": 219870415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.239735,36.363396,-94.239735,36.363396",
     "geom:latitude":36.363396,
     "geom:longitude":-94.239735,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"821 SW Tunbridge Dr",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219870415,
-    "wof:lastmodified":1449071331,
+    "wof:lastmodified":1466325144,
     "wof:name":"Top Notch Custom Fencing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "contractor"
     ]
 },
-  "bbox": [-94.239735,36.363396,-94.239735,36.363396],
+  "bbox": [
+    -94.239735,
+    36.363396,
+    -94.239735,
+    36.363396
+],
   "geometry": {"coordinates":[-94.239735,36.363396],"type":"Point"}
 }

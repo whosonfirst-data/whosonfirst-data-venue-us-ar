@@ -2,13 +2,14 @@
   "id": 219575463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.906731,35.925202,-89.906731,35.925202",
     "geom:latitude":35.925202,
     "geom:longitude":-89.906731,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"290 S Broadway St",
     "sg:city":"Blytheville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219575463,
-    "wof:lastmodified":1449071427,
+    "wof:lastmodified":1466324491,
     "wof:name":"Hughes, R D Gin Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cotton"
     ]
 },
-  "bbox": [-89.906731,35.925202,-89.906731,35.925202],
-  "geometry": {"coordinates":[-89.906731,35.925202],"type":"Point"}
+  "bbox": [
+    -89.906731,
+    35.925202,
+    -89.906731,
+    35.925202
+],
+  "geometry": {"coordinates":[-89.90673099999999,35.925202],"type":"Point"}
 }

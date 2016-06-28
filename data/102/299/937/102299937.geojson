@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102299937",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.170939,36.345882,-94.170939,36.345882",
     "geom:latitude":36.345882,
     "geom:longitude":-94.170939,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1108 N Mallard Ln",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895823,
+        85688549,
         85633793,
         85921509,
         102083255,
-        85688549
+        85895823
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102299937",
-    "wof:lastmodified":1449068401,
+    "wof:lastmodified":1466323116,
     "wof:name":"Tyco Health Care Retail Group",
     "wof:parent_id":85895823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.170939,36.345882,-94.170939,36.345882],
+  "bbox": [
+    -94.170939,
+    36.345882,
+    -94.170939,
+    36.345882
+],
   "geometry": {"coordinates":[-94.170939,36.345882],"type":"Point"}
 }

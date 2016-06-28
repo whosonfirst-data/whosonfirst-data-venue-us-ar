@@ -2,13 +2,14 @@
   "id": 219281097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.054849,34.117858,-93.054849,34.117858",
     "geom:latitude":34.117858,
     "geom:longitude":-93.054849,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"524 S 7th St",
     "sg:city":"Arkadelphia",
     "sg:classifiers":[
@@ -68,10 +69,11 @@
         }
     ],
     "wof:id":219281097,
-    "wof:lastmodified":1449073371,
+    "wof:lastmodified":1466321576,
     "wof:name":"Edward Jones - Financial Advisor: BLAKE BELL",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -85,6 +87,11 @@
         "stock"
     ]
 },
-  "bbox": [-93.054849,34.117858,-93.054849,34.117858],
+  "bbox": [
+    -93.054849,
+    34.117858,
+    -93.054849,
+    34.117858
+],
   "geometry": {"coordinates":[-93.054849,34.117858],"type":"Point"}
 }

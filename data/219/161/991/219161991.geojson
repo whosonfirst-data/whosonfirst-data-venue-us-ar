@@ -2,13 +2,14 @@
   "id": 219161991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.803574,33.664394,-91.803574,33.664394",
     "geom:latitude":33.664394,
     "geom:longitude":-91.803574,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1271 Highway 425 N",
     "sg:city":"Monticello",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219161991,
-    "wof:lastmodified":1449071781,
+    "wof:lastmodified":1466320485,
     "wof:name":"Carrington Emeli",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-91.803574,33.664394,-91.803574,33.664394],
+  "bbox": [
+    -91.803574,
+    33.664394,
+    -91.803574,
+    33.664394
+],
   "geometry": {"coordinates":[-91.803574,33.664394],"type":"Point"}
 }

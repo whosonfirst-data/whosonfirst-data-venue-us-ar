@@ -2,13 +2,14 @@
   "id": 219437225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.125098,34.858484,-92.125098,34.858484",
     "geom:latitude":34.858484,
     "geom:longitude":-92.125098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1108 S Redmond Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219437225,
-    "wof:lastmodified":1449072950,
+    "wof:lastmodified":1466323190,
     "wof:name":"Ultimate Fitness-Jacksonville",
     "wof:parent_id":85852337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "physical"
     ]
 },
-  "bbox": [-92.125098,34.858484,-92.125098,34.858484],
-  "geometry": {"coordinates":[-92.125098,34.858484],"type":"Point"}
+  "bbox": [
+    -92.125098,
+    34.858484,
+    -92.125098,
+    34.858484
+],
+  "geometry": {"coordinates":[-92.12509799999999,34.858484],"type":"Point"}
 }

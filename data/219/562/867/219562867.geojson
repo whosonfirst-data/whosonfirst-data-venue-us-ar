@@ -2,13 +2,14 @@
   "id": 219562867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.95586,35.006543,-91.95586,35.006543",
     "geom:latitude":35.006543,
     "geom:longitude":-91.95586,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Margie Dr",
     "sg:city":"Ward",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219562867,
-    "wof:lastmodified":1449072251,
+    "wof:lastmodified":1466324420,
     "wof:name":"Max Mart 15 Inc",
     "wof:parent_id":85839277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.95586,35.006543,-91.95586,35.006543],
+  "bbox": [
+    -91.95586,
+    35.006543,
+    -91.95586,
+    35.006543
+],
   "geometry": {"coordinates":[-91.95586,35.006543],"type":"Point"}
 }

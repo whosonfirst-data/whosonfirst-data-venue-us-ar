@@ -2,13 +2,14 @@
   "id": 220102157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.30447,35.329272,-94.30447,35.329272",
     "geom:latitude":35.329272,
     "geom:longitude":-94.30447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 8th St",
     "sg:city":"Barling",
     "sg:classifiers":[
@@ -71,10 +72,11 @@
         }
     ],
     "wof:id":220102157,
-    "wof:lastmodified":1449074829,
+    "wof:lastmodified":1466322261,
     "wof:name":"Dan's Auto Center",
     "wof:parent_id":85832863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -90,6 +92,11 @@
         "painting"
     ]
 },
-  "bbox": [-94.30447,35.329272,-94.30447,35.329272],
-  "geometry": {"coordinates":[-94.30447,35.329272],"type":"Point"}
+  "bbox": [
+    -94.30447,
+    35.329272,
+    -94.30447,
+    35.329272
+],
+  "geometry": {"coordinates":[-94.30446999999999,35.329272],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219437395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.10984,34.866669,-92.10984,34.866669",
     "geom:latitude":34.866669,
     "geom:longitude":-92.10984,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 N 1st St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219437395,
-    "wof:lastmodified":1449072952,
+    "wof:lastmodified":1466323194,
     "wof:name":"Pate's Cleaners & Laundry",
     "wof:parent_id":85852337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commercial"
     ]
 },
-  "bbox": [-92.10984,34.866669,-92.10984,34.866669],
-  "geometry": {"coordinates":[-92.10984,34.866669],"type":"Point"}
+  "bbox": [
+    -92.10984,
+    34.866669,
+    -92.10984,
+    34.866669
+],
+  "geometry": {"coordinates":[-92.10984000000001,34.866669],"type":"Point"}
 }

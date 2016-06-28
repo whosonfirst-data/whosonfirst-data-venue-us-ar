@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102333667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.232178,35.320542,-94.232178,35.320542",
     "geom:latitude":35.320542,
     "geom:longitude":-94.232178,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"810 E Central Ave",
     "sg:city":"Lavaca",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102333667,
-    "wof:lastmodified":1449070016,
+    "wof:lastmodified":1466323771,
     "wof:name":"Central City Fuel Stop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.232178,35.320542,-94.232178,35.320542],
+  "bbox": [
+    -94.232178,
+    35.320542,
+    -94.232178,
+    35.320542
+],
   "geometry": {"coordinates":[-94.232178,35.320542],"type":"Point"}
 }

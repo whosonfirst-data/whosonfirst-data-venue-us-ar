@@ -2,13 +2,14 @@
   "id": 219814379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.118821,36.082728,-94.118821,36.082728",
     "geom:latitude":36.082728,
     "geom:longitude":-94.118821,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2954 E Whippoorwill Ln",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219814379,
-    "wof:lastmodified":1449071044,
+    "wof:lastmodified":1466324966,
     "wof:name":"Magee Cattle Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ranch"
     ]
 },
-  "bbox": [-94.118821,36.082728,-94.118821,36.082728],
+  "bbox": [
+    -94.118821,
+    36.082728,
+    -94.118821,
+    36.082728
+],
   "geometry": {"coordinates":[-94.118821,36.082728],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102330923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.016695,33.531103,-93.016695,33.531103",
     "geom:latitude":33.531103,
     "geom:longitude":-93.016695,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1270 Ouachita Road 4",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102330923,
-    "wof:lastmodified":1449068954,
+    "wof:lastmodified":1466323732,
     "wof:name":"CenturyTel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.016695,33.531103,-93.016695,33.531103],
+  "bbox": [
+    -93.016695,
+    33.531103,
+    -93.016695,
+    33.531103
+],
   "geometry": {"coordinates":[-93.016695,33.531103],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219426243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.469279,35.214588,-92.469279,35.214588",
     "geom:latitude":35.214588,
     "geom:longitude":-92.469279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"126 Western Hills Cir",
     "sg:city":"Greenbrier",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219426243,
-    "wof:lastmodified":1449071147,
+    "wof:lastmodified":1466323067,
     "wof:name":"G & S Hot Shot",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "oil"
     ]
 },
-  "bbox": [-92.469279,35.214588,-92.469279,35.214588],
+  "bbox": [
+    -92.469279,
+    35.214588,
+    -92.469279,
+    35.214588
+],
   "geometry": {"coordinates":[-92.469279,35.214588],"type":"Point"}
 }

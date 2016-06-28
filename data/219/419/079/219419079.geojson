@@ -2,13 +2,14 @@
   "id": 219419079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.389114,35.206635,-92.389114,35.206635",
     "geom:latitude":35.206635,
     "geom:longitude":-92.389114,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"168 S Broadview St",
     "sg:city":"Greenbrier",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":219419079,
-    "wof:lastmodified":1449073849,
+    "wof:lastmodified":1466323014,
     "wof:name":"H&R Block",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "bookkeeping"
     ]
 },
-  "bbox": [-92.389114,35.206635,-92.389114,35.206635],
-  "geometry": {"coordinates":[-92.389114,35.206635],"type":"Point"}
+  "bbox": [
+    -92.389114,
+    35.206635,
+    -92.389114,
+    35.206635
+],
+  "geometry": {"coordinates":[-92.38911400000001,35.206635],"type":"Point"}
 }

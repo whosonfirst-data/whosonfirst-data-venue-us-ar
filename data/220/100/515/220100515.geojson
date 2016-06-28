@@ -2,13 +2,14 @@
   "id": 220100515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.233813,35.499587,-94.233813,35.499587",
     "geom:latitude":35.499587,
     "geom:longitude":-94.233813,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"720 Maple Shade Rd",
     "sg:city":"Alma",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":220100515,
-    "wof:lastmodified":1449074639,
+    "wof:lastmodified":1466322236,
     "wof:name":"Roger Newton Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "trucking"
     ]
 },
-  "bbox": [-94.233813,35.499587,-94.233813,35.499587],
+  "bbox": [
+    -94.233813,
+    35.499587,
+    -94.233813,
+    35.499587
+],
   "geometry": {"coordinates":[-94.233813,35.499587],"type":"Point"}
 }

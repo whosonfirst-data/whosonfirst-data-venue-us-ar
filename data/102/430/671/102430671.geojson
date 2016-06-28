@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102430671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.023603,34.480709,-93.023603,34.480709",
     "geom:latitude":34.480709,
     "geom:longitude":-93.023603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 Spencer St",
     "sg:city":"Hot Springs National",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102430671,
-    "wof:lastmodified":1449069301,
+    "wof:lastmodified":1466325564,
     "wof:name":"Southern Environmental Svcs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.023603,34.480709,-93.023603,34.480709],
-  "geometry": {"coordinates":[-93.023603,34.480709],"type":"Point"}
+  "bbox": [
+    -93.023603,
+    34.480709,
+    -93.023603,
+    34.480709
+],
+  "geometry": {"coordinates":[-93.02360299999999,34.480709],"type":"Point"}
 }

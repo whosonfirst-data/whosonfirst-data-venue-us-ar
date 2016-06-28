@@ -2,13 +2,14 @@
   "id": 219814039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.171466,36.028566,-94.171466,36.028566",
     "geom:latitude":36.028566,
     "geom:longitude":-94.171466,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"725 W Skelton St",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219814039,
-    "wof:lastmodified":1449071044,
+    "wof:lastmodified":1466324963,
     "wof:name":"Kobie Cakes & Pastries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.171466,36.028566,-94.171466,36.028566],
+  "bbox": [
+    -94.171466,
+    36.028566,
+    -94.171466,
+    36.028566
+],
   "geometry": {"coordinates":[-94.171466,36.028566],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219511743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.696564,35.236573,-91.696564,35.236573",
     "geom:latitude":35.236573,
     "geom:longitude":-91.696564,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1011 Truman Baker Dr",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219511743,
-    "wof:lastmodified":1449072025,
+    "wof:lastmodified":1466324043,
     "wof:name":"East Park Service Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.696564,35.236573,-91.696564,35.236573],
+  "bbox": [
+    -91.696564,
+    35.236573,
+    -91.696564,
+    35.236573
+],
   "geometry": {"coordinates":[-91.696564,35.236573],"type":"Point"}
 }

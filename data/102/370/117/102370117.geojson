@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102370117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.342621,34.739684,-92.342621,34.739684",
     "geom:latitude":34.739684,
     "geom:longitude":-92.342621,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1501 Garfield Dr",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85838647,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85838647
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102370117,
-    "wof:lastmodified":1449069051,
+    "wof:lastmodified":1466324382,
     "wof:name":"United Wholesale Florists Inc",
     "wof:parent_id":85838647,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.342621,34.739684,-92.342621,34.739684],
-  "geometry": {"coordinates":[-92.342621,34.739684],"type":"Point"}
+  "bbox": [
+    -92.342621,
+    34.739684,
+    -92.342621,
+    34.739684
+],
+  "geometry": {"coordinates":[-92.34262099999999,34.739684],"type":"Point"}
 }

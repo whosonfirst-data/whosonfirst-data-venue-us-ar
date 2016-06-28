@@ -2,13 +2,14 @@
   "id": 337469215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.379061,34.486398,-94.379061,34.486398",
     "geom:latitude":34.486398,
     "geom:longitude":-94.379061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 W Johnson Ave",
     "sg:city":"Hatfield",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337469215,
-    "wof:lastmodified":1449027749,
+    "wof:lastmodified":1466324495,
     "wof:name":"T & T Welding & Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-94.379061,34.486398,-94.379061,34.486398],
-  "geometry": {"coordinates":[-94.379061,34.486398],"type":"Point"}
+  "bbox": [
+    -94.379061,
+    34.486398,
+    -94.379061,
+    34.486398
+],
+  "geometry": {"coordinates":[-94.37906099999999,34.486398],"type":"Point"}
 }

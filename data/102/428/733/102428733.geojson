@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102428733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.335038,35.352577,-94.335038,35.352577",
     "geom:latitude":35.352577,
     "geom:longitude":-94.335038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8800 Dallas St",
     "sg:city":"Fort Smith",
     "sg:classifiers":[
@@ -34,11 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85832863,
+        85688549,
         85633793,
         85921431,
         102082025,
-        85688549
+        85832863
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":102428733,
-    "wof:lastmodified":1449070021,
+    "wof:lastmodified":1466325483,
     "wof:name":"Goldtrap Gardner Boys Clubs",
     "wof:parent_id":85832863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.335038,35.352577,-94.335038,35.352577],
+  "bbox": [
+    -94.335038,
+    35.352577,
+    -94.335038,
+    35.352577
+],
   "geometry": {"coordinates":[-94.335038,35.352577],"type":"Point"}
 }

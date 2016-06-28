@@ -2,13 +2,14 @@
   "id": 219729979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.577331,35.768844,-91.577331,35.768844",
     "geom:latitude":35.768844,
     "geom:longitude":-91.577331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4539 Harrison St",
     "sg:city":"Batesville",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219729979,
-    "wof:lastmodified":1449072162,
+    "wof:lastmodified":1466324977,
     "wof:name":"Vivian's Fashion Closet",
     "wof:parent_id":85808231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "women's"
     ]
 },
-  "bbox": [-91.577331,35.768844,-91.577331,35.768844],
+  "bbox": [
+    -91.577331,
+    35.768844,
+    -91.577331,
+    35.768844
+],
   "geometry": {"coordinates":[-91.577331,35.768844],"type":"Point"}
 }

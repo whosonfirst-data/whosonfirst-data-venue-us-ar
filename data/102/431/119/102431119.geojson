@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102431119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.214013,35.391276,-92.214013,35.391276",
     "geom:latitude":35.391276,
     "geom:longitude":-92.214013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Bee Branch Rd",
     "sg:city":"Quitman",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102431119,
-    "wof:lastmodified":1449068136,
+    "wof:lastmodified":1466325600,
     "wof:name":"Quitman Ems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.214013,35.391276,-92.214013,35.391276],
-  "geometry": {"coordinates":[-92.214013,35.391276],"type":"Point"}
+  "bbox": [
+    -92.214013,
+    35.391276,
+    -92.214013,
+    35.391276
+],
+  "geometry": {"coordinates":[-92.21401299999999,35.391276],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219620445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.787323,35.221539,-90.787323,35.221539",
     "geom:latitude":35.221539,
     "geom:longitude":-90.787323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"609 Canal Ave E",
     "sg:city":"Wynne",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219620445,
-    "wof:lastmodified":1449073613,
+    "wof:lastmodified":1466324612,
     "wof:name":"Talbott & Ladd",
     "wof:parent_id":85819407,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "bankruptcy"
     ]
 },
-  "bbox": [-90.787323,35.221539,-90.787323,35.221539],
+  "bbox": [
+    -90.787323,
+    35.221539,
+    -90.787323,
+    35.221539
+],
   "geometry": {"coordinates":[-90.787323,35.221539],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219780327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.119018,36.251242,-93.119018,36.251242",
     "geom:latitude":36.251242,
     "geom:longitude":-93.119018,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"611 Highway 62 65 N 65 N 65",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219780327,
-    "wof:lastmodified":1449073040,
+    "wof:lastmodified":1466324935,
     "wof:name":"Country Mart 232",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.119018,36.251242,-93.119018,36.251242],
+  "bbox": [
+    -93.119018,
+    36.251242,
+    -93.119018,
+    36.251242
+],
   "geometry": {"coordinates":[-93.119018,36.251242],"type":"Point"}
 }

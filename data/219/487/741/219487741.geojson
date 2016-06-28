@@ -2,13 +2,14 @@
   "id": 219487741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.229388,34.847671,-92.229388,34.847671",
     "geom:latitude":34.847671,
     "geom:longitude":-92.229388,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 Hillcrest Rd",
     "sg:city":"Sherwood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219487741,
-    "wof:lastmodified":1449071547,
+    "wof:lastmodified":1466323801,
     "wof:name":"One Stop Safe & Lock",
     "wof:parent_id":85851723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lock"
     ]
 },
-  "bbox": [-92.229388,34.847671,-92.229388,34.847671],
+  "bbox": [
+    -92.229388,
+    34.847671,
+    -92.229388,
+    34.847671
+],
   "geometry": {"coordinates":[-92.229388,34.847671],"type":"Point"}
 }

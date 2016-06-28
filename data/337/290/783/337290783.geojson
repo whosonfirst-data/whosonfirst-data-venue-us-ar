@@ -2,13 +2,14 @@
   "id": 337290783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.13472,34.986722,-92.13472,34.986722",
     "geom:latitude":34.986722,
     "geom:longitude":-92.13472,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13111B Sumner Cemetary Rd",
     "sg:city":"Cabot",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":337290783,
-    "wof:lastmodified":1449027285,
+    "wof:lastmodified":1466322038,
     "wof:name":"Conway Insulation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-92.13472,34.986722,-92.13472,34.986722],
+  "bbox": [
+    -92.13472,
+    34.986722,
+    -92.13472,
+    34.986722
+],
   "geometry": {"coordinates":[-92.13472,34.986722],"type":"Point"}
 }

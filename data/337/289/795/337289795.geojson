@@ -2,13 +2,14 @@
   "id": 337289795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.054947,33.61083,-92.054947,33.61083",
     "geom:latitude":33.61083,
     "geom:longitude":-92.054947,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"607 E Church St",
     "sg:city":"Warren",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337289795,
-    "wof:lastmodified":1449027605,
+    "wof:lastmodified":1466322016,
     "wof:name":"Scott Clanton Auto Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.054947,33.61083,-92.054947,33.61083],
+  "bbox": [
+    -92.054947,
+    33.61083,
+    -92.054947,
+    33.61083
+],
   "geometry": {"coordinates":[-92.054947,33.61083],"type":"Point"}
 }

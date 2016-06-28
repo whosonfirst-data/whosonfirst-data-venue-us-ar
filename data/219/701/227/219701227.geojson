@@ -2,13 +2,14 @@
   "id": 219701227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.55102,36.0613,-90.55102,36.0613",
     "geom:latitude":36.0613,
     "geom:longitude":-90.55102,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4904 W Kingshighway",
     "sg:city":"Paragould",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219701227,
-    "wof:lastmodified":1449073190,
+    "wof:lastmodified":1466324764,
     "wof:name":"Phillips Funeral Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "embalmer"
     ]
 },
-  "bbox": [-90.55102,36.0613,-90.55102,36.0613],
-  "geometry": {"coordinates":[-90.55102,36.0613],"type":"Point"}
+  "bbox": [
+    -90.55102,
+    36.0613,
+    -90.55102,
+    36.0613
+],
+  "geometry": {"coordinates":[-90.55101999999999,36.0613],"type":"Point"}
 }

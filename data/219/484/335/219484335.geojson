@@ -2,13 +2,14 @@
   "id": 219484335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.399232,34.862528,-92.399232,34.862528",
     "geom:latitude":34.862528,
     "geom:longitude":-92.399232,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Commercial Park Ct",
     "sg:city":"Maumelle",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219484335,
-    "wof:lastmodified":1449073706,
+    "wof:lastmodified":1466323734,
     "wof:name":"Sickle Cell Support Services",
     "wof:parent_id":85854423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trust"
     ]
 },
-  "bbox": [-92.399232,34.862528,-92.399232,34.862528],
+  "bbox": [
+    -92.399232,
+    34.862528,
+    -92.399232,
+    34.862528
+],
   "geometry": {"coordinates":[-92.399232,34.862528],"type":"Point"}
 }

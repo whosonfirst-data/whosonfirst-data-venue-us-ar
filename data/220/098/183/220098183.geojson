@@ -2,13 +2,14 @@
   "id": 220098183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.22621,35.484725,-94.22621,35.484725",
     "geom:latitude":35.484725,
     "geom:longitude":-94.22621,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 Highway 71 N Ste 16",
     "sg:city":"Alma",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":220098183,
-    "wof:lastmodified":1449074788,
+    "wof:lastmodified":1466322173,
     "wof:name":"Trimmers Of Alma Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.22621,35.484725,-94.22621,35.484725],
-  "geometry": {"coordinates":[-94.22621,35.484725],"type":"Point"}
+  "bbox": [
+    -94.22621,
+    35.484725,
+    -94.22621,
+    35.484725
+],
+  "geometry": {"coordinates":[-94.22620999999999,35.484725],"type":"Point"}
 }

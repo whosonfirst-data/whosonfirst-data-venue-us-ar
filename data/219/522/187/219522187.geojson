@@ -2,13 +2,14 @@
   "id": 219522187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.741837,35.247761,-91.741837,35.247761",
     "geom:latitude":35.247761,
     "geom:longitude":-91.741837,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 W Pleasure Ave",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":219522187,
-    "wof:lastmodified":1449072070,
+    "wof:lastmodified":1466324122,
     "wof:name":"Pleasure Street Conoco DBA/Budget Truck Rental",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "moving"
     ]
 },
-  "bbox": [-91.741837,35.247761,-91.741837,35.247761],
+  "bbox": [
+    -91.741837,
+    35.247761,
+    -91.741837,
+    35.247761
+],
   "geometry": {"coordinates":[-91.741837,35.247761],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220110151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.266763,35.216478,-94.266763,35.216478",
     "geom:latitude":35.216478,
     "geom:longitude":-94.266763,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"550 W Denver St",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":220110151,
-    "wof:lastmodified":1449074280,
+    "wof:lastmodified":1466322387,
     "wof:name":"All Phase Electric, Inc.",
     "wof:parent_id":85832863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "electric"
     ]
 },
-  "bbox": [-94.266763,35.216478,-94.266763,35.216478],
+  "bbox": [
+    -94.266763,
+    35.216478,
+    -94.266763,
+    35.216478
+],
   "geometry": {"coordinates":[-94.266763,35.216478],"type":"Point"}
 }

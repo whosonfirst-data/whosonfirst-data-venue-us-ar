@@ -2,13 +2,14 @@
   "id": 219224481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.633533,33.683031,-93.633533,33.683031",
     "geom:latitude":33.683031,
     "geom:longitude":-93.633533,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4451 Hempstead 21",
     "sg:city":"Hope",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219224481,
-    "wof:lastmodified":1449072982,
+    "wof:lastmodified":1466321089,
     "wof:name":"Golden Industrial Services, Inc",
     "wof:parent_id":85806015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "machinery-rebuild"
     ]
 },
-  "bbox": [-93.633533,33.683031,-93.633533,33.683031],
+  "bbox": [
+    -93.633533,
+    33.683031,
+    -93.633533,
+    33.683031
+],
   "geometry": {"coordinates":[-93.633533,33.683031],"type":"Point"}
 }

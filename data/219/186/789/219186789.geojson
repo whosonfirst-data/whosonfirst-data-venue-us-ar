@@ -2,13 +2,14 @@
   "id": 219186789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.26107,33.889549,-91.26107,33.889549",
     "geom:latitude":33.889549,
     "geom:longitude":-91.26107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 Dumas St",
     "sg:city":"Watson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219186789,
-    "wof:lastmodified":1449073164,
+    "wof:lastmodified":1466320689,
     "wof:name":"Watson Area Volunteer Fire Department",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-91.26107,33.889549,-91.26107,33.889549],
+  "bbox": [
+    -91.26107,
+    33.889549,
+    -91.26107,
+    33.889549
+],
   "geometry": {"coordinates":[-91.26107,33.889549],"type":"Point"}
 }

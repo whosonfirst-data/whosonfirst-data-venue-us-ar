@@ -2,13 +2,14 @@
   "id": 219728873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.596568,35.646606,-91.596568,35.646606",
     "geom:latitude":35.646606,
     "geom:longitude":-91.596568,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"140 Swaim Hill Rd",
     "sg:city":"Batesville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219728873,
-    "wof:lastmodified":1449071214,
+    "wof:lastmodified":1466324887,
     "wof:name":"Luke 4 18",
     "wof:parent_id":85808231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-91.596568,35.646606,-91.596568,35.646606],
+  "bbox": [
+    -91.596568,
+    35.646606,
+    -91.596568,
+    35.646606
+],
   "geometry": {"coordinates":[-91.596568,35.646606],"type":"Point"}
 }

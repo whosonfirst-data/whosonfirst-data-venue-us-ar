@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102401857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.538271,36.055779,-90.538271,36.055779",
     "geom:latitude":36.055779,
     "geom:longitude":-90.538271,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Quail Run",
     "sg:city":"Paragould",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102401857,
-    "wof:lastmodified":1449069811,
+    "wof:lastmodified":1466324808,
     "wof:name":"J & D Properties Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.538271,36.055779,-90.538271,36.055779],
-  "geometry": {"coordinates":[-90.538271,36.055779],"type":"Point"}
+  "bbox": [
+    -90.538271,
+    36.055779,
+    -90.538271,
+    36.055779
+],
+  "geometry": {"coordinates":[-90.53827099999999,36.055779],"type":"Point"}
 }

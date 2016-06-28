@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102431939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.110447,36.24149,-94.110447,36.24149",
     "geom:latitude":36.24149,
     "geom:longitude":-94.110447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"729 N Wharton Rd",
     "sg:city":"Lowell",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102431939,
-    "wof:lastmodified":1449068131,
+    "wof:lastmodified":1466325630,
     "wof:name":"West Fork Laundry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.110447,36.24149,-94.110447,36.24149],
-  "geometry": {"coordinates":[-94.110447,36.24149],"type":"Point"}
+  "bbox": [
+    -94.110447,
+    36.24149,
+    -94.110447,
+    36.24149
+],
+  "geometry": {"coordinates":[-94.11044699999999,36.24149],"type":"Point"}
 }

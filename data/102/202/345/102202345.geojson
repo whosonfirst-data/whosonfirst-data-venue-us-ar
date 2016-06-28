@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102202345",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.641805,33.747021,-91.641805,33.747021",
     "geom:latitude":33.747021,
     "geom:longitude":-91.641805,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"444 Co Rd 81",
     "sg:city":"Monticello",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":"102202345",
-    "wof:lastmodified":1449069863,
+    "wof:lastmodified":1466320693,
     "wof:name":"Child Support Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.641805,33.747021,-91.641805,33.747021],
-  "geometry": {"coordinates":[-91.641805,33.747021],"type":"Point"}
+  "bbox": [
+    -91.641805,
+    33.747021,
+    -91.641805,
+    33.747021
+],
+  "geometry": {"coordinates":[-91.64180500000001,33.747021],"type":"Point"}
 }

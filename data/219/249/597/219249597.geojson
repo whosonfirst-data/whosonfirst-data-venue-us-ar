@@ -2,13 +2,14 @@
   "id": 219249597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.851052,33.939388,-93.851052,33.939388",
     "geom:latitude":33.939388,
     "geom:longitude":-93.851052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"508 S 4th St",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":219249597,
-    "wof:lastmodified":1449070565,
+    "wof:lastmodified":1466321329,
     "wof:name":"Fair Of Hair Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.851052,33.939388,-93.851052,33.939388],
+  "bbox": [
+    -93.851052,
+    33.939388,
+    -93.851052,
+    33.939388
+],
   "geometry": {"coordinates":[-93.851052,33.939388],"type":"Point"}
 }

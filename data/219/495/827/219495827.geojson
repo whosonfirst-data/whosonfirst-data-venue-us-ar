@@ -2,13 +2,14 @@
   "id": 219495827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.795855,34.981503,-92.795855,34.981503",
     "geom:latitude":34.981503,
     "geom:longitude":-92.795855,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Red Oak Ln",
     "sg:city":"Perryville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219495827,
-    "wof:lastmodified":1449071948,
+    "wof:lastmodified":1466323911,
     "wof:name":"Hackett Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "broker"
     ]
 },
-  "bbox": [-92.795855,34.981503,-92.795855,34.981503],
+  "bbox": [
+    -92.795855,
+    34.981503,
+    -92.795855,
+    34.981503
+],
   "geometry": {"coordinates":[-92.795855,34.981503],"type":"Point"}
 }

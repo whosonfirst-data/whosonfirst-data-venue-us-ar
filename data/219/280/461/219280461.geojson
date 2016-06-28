@@ -2,13 +2,14 @@
   "id": 219280461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.054802,34.118858,-93.054802,34.118858",
     "geom:latitude":34.118858,
     "geom:longitude":-93.054802,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 Clay St Ste 218",
     "sg:city":"Arkadelphia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219280461,
-    "wof:lastmodified":1449072119,
+    "wof:lastmodified":1466321571,
     "wof:name":"Arkadelphia Chamber Commerce Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commerce"
     ]
 },
-  "bbox": [-93.054802,34.118858,-93.054802,34.118858],
+  "bbox": [
+    -93.054802,
+    34.118858,
+    -93.054802,
+    34.118858
+],
   "geometry": {"coordinates":[-93.054802,34.118858],"type":"Point"}
 }

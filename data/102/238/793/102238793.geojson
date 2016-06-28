@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102238793",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.455781,34.768547,-92.455781,34.768547",
     "geom:latitude":34.768547,
     "geom:longitude":-92.455781,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Rahling Cir",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85846723,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85846723
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102238793",
-    "wof:lastmodified":1449068680,
+    "wof:lastmodified":1466321681,
     "wof:name":"Chenal Valley Animal Hospital",
     "wof:parent_id":85846723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.455781,34.768547,-92.455781,34.768547],
+  "bbox": [
+    -92.455781,
+    34.768547,
+    -92.455781,
+    34.768547
+],
   "geometry": {"coordinates":[-92.455781,34.768547],"type":"Point"}
 }

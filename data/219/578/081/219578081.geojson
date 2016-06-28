@@ -2,13 +2,14 @@
   "id": 219578081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.918739,35.915567,-89.918739,35.915567",
     "geom:latitude":35.915567,
     "geom:longitude":-89.918739,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 S Division St",
     "sg:city":"Blytheville",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219578081,
-    "wof:lastmodified":1449071283,
+    "wof:lastmodified":1466324497,
     "wof:name":"Us Lighting Depot",
     "wof:parent_id":85814753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "electric"
     ]
 },
-  "bbox": [-89.918739,35.915567,-89.918739,35.915567],
+  "bbox": [
+    -89.918739,
+    35.915567,
+    -89.918739,
+    35.915567
+],
   "geometry": {"coordinates":[-89.918739,35.915567],"type":"Point"}
 }

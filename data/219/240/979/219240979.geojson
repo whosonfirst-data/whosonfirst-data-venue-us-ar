@@ -2,13 +2,14 @@
   "id": 219240979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.577628,33.35628,-93.577628,33.35628",
     "geom:latitude":33.35628,
     "geom:longitude":-93.577628,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 Spruce St",
     "sg:city":"Lewisville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219240979,
-    "wof:lastmodified":1449070755,
+    "wof:lastmodified":1466321262,
     "wof:name":"The First National Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.577628,33.35628,-93.577628,33.35628],
+  "bbox": [
+    -93.577628,
+    33.35628,
+    -93.577628,
+    33.35628
+],
   "geometry": {"coordinates":[-93.577628,33.35628],"type":"Point"}
 }

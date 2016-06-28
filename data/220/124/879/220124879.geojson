@@ -2,13 +2,14 @@
   "id": 220124879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.832031,35.48748,-93.832031,35.48748",
     "geom:latitude":35.48748,
     "geom:longitude":-93.832031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 W Commercial St",
     "sg:city":"Ozark",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":220124879,
-    "wof:lastmodified":1449074823,
+    "wof:lastmodified":1466322681,
     "wof:name":"C V's Family Foods",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.832031,35.48748,-93.832031,35.48748],
+  "bbox": [
+    -93.832031,
+    35.48748,
+    -93.832031,
+    35.48748
+],
   "geometry": {"coordinates":[-93.832031,35.48748],"type":"Point"}
 }

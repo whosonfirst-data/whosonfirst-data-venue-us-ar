@@ -2,13 +2,14 @@
   "id": 219593669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.768093,34.592781,-90.768093,34.592781",
     "geom:latitude":34.592781,
     "geom:longitude":-90.768093,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2202 Highway 1 N",
     "sg:city":"Lexa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219593669,
-    "wof:lastmodified":1449072723,
+    "wof:lastmodified":1466324574,
     "wof:name":"Van Dawson",
     "wof:parent_id":85834075,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cotton"
     ]
 },
-  "bbox": [-90.768093,34.592781,-90.768093,34.592781],
-  "geometry": {"coordinates":[-90.768093,34.592781],"type":"Point"}
+  "bbox": [
+    -90.768093,
+    34.592781,
+    -90.768093,
+    34.592781
+],
+  "geometry": {"coordinates":[-90.76809299999999,34.592781],"type":"Point"}
 }

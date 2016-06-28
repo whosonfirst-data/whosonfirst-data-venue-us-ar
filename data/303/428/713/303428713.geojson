@@ -2,13 +2,14 @@
   "id": 303428713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.14159,34.583711,-94.14159,34.583711",
     "geom:latitude":34.583711,
     "geom:longitude":-94.14159,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3160 State Hwy 88",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303428713,
-    "wof:lastmodified":1449000400,
+    "wof:lastmodified":1466320473,
     "wof:name":"Spitzer's Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "dealer"
     ]
 },
-  "bbox": [-94.14159,34.583711,-94.14159,34.583711],
-  "geometry": {"coordinates":[-94.14159,34.583711],"type":"Point"}
+  "bbox": [
+    -94.14159,
+    34.583711,
+    -94.14159,
+    34.583711
+],
+  "geometry": {"coordinates":[-94.14158999999999,34.583711],"type":"Point"}
 }

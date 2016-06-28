@@ -2,13 +2,14 @@
   "id": 220085947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.112897,35.391478,-93.112897,35.391478",
     "geom:latitude":35.391478,
     "geom:longitude":-93.112897,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8952 Market St Ste 2",
     "sg:city":"Dover",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":220085947,
-    "wof:lastmodified":1449074234,
+    "wof:lastmodified":1466321764,
     "wof:name":"Dover Pawn & Gun",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "hand"
     ]
 },
-  "bbox": [-93.112897,35.391478,-93.112897,35.391478],
+  "bbox": [
+    -93.112897,
+    35.391478,
+    -93.112897,
+    35.391478
+],
   "geometry": {"coordinates":[-93.112897,35.391478],"type":"Point"}
 }

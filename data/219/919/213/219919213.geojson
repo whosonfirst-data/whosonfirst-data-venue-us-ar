@@ -2,13 +2,14 @@
   "id": 219919213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.959244,36.441929,-93.959244,36.441929",
     "geom:latitude":36.441929,
     "geom:longitude":-93.959244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18996 N Highway 127",
     "sg:city":"Garfield",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219919213,
-    "wof:lastmodified":1449073067,
+    "wof:lastmodified":1466325040,
     "wof:name":"4 B's Auto Sales",
     "wof:parent_id":85895837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "cars-wholesale"
     ]
 },
-  "bbox": [-93.959244,36.441929,-93.959244,36.441929],
+  "bbox": [
+    -93.959244,
+    36.441929,
+    -93.959244,
+    36.441929
+],
   "geometry": {"coordinates":[-93.959244,36.441929],"type":"Point"}
 }

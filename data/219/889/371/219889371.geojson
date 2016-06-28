@@ -2,13 +2,14 @@
   "id": 219889371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.215695,36.359716,-94.215695,36.359716",
     "geom:latitude":36.359716,
     "geom:longitude":-94.215695,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1116 S Walton Blvd",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":219889371,
-    "wof:lastmodified":1449070315,
+    "wof:lastmodified":1466325075,
     "wof:name":"Complete Computer Solutions",
     "wof:parent_id":85895819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "network"
     ]
 },
-  "bbox": [-94.215695,36.359716,-94.215695,36.359716],
+  "bbox": [
+    -94.215695,
+    36.359716,
+    -94.215695,
+    36.359716
+],
   "geometry": {"coordinates":[-94.215695,36.359716],"type":"Point"}
 }

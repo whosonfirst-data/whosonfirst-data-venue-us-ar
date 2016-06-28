@@ -2,13 +2,14 @@
   "id": 220010415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.143771,36.328059,-94.143771,36.328059",
     "geom:latitude":36.328059,
     "geom:longitude":-94.143771,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"711 S Dixieland Rd",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220010415,
-    "wof:lastmodified":1449074539,
+    "wof:lastmodified":1466320475,
     "wof:name":"Friendly Book Store, The",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "rare"
     ]
 },
-  "bbox": [-94.143771,36.328059,-94.143771,36.328059],
+  "bbox": [
+    -94.143771,
+    36.328059,
+    -94.143771,
+    36.328059
+],
   "geometry": {"coordinates":[-94.143771,36.328059],"type":"Point"}
 }

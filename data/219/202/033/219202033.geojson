@@ -2,13 +2,14 @@
   "id": 219202033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.152603,33.909257,-93.152603,33.909257",
     "geom:latitude":33.909257,
     "geom:longitude":-93.152603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"323 Plum St",
     "sg:city":"Gurdon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219202033,
-    "wof:lastmodified":1449073456,
+    "wof:lastmodified":1466320882,
     "wof:name":"Mt. Iseral C.M.E. Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-93.152603,33.909257,-93.152603,33.909257],
+  "bbox": [
+    -93.152603,
+    33.909257,
+    -93.152603,
+    33.909257
+],
   "geometry": {"coordinates":[-93.152603,33.909257],"type":"Point"}
 }

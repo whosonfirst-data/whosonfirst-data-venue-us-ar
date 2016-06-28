@@ -2,13 +2,14 @@
   "id": 219425501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.389343,35.221656,-92.389343,35.221656",
     "geom:latitude":35.221656,
     "geom:longitude":-92.389343,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Timberlane Cir",
     "sg:city":"Greenbrier",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219425501,
-    "wof:lastmodified":1449071636,
+    "wof:lastmodified":1466323062,
     "wof:name":"The Alex Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "used"
     ]
 },
-  "bbox": [-92.389343,35.221656,-92.389343,35.221656],
+  "bbox": [
+    -92.389343,
+    35.221656,
+    -92.389343,
+    35.221656
+],
   "geometry": {"coordinates":[-92.389343,35.221656],"type":"Point"}
 }

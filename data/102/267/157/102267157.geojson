@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102267157",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.390966,36.351858,-91.390966,36.351858",
     "geom:latitude":36.351858,
     "geom:longitude":-91.390966,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 Hickory Rd",
     "sg:city":"Hardy",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102267157",
-    "wof:lastmodified":1449069975,
+    "wof:lastmodified":1466322240,
     "wof:name":"Promise Electronics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.390966,36.351858,-91.390966,36.351858],
-  "geometry": {"coordinates":[-91.390966,36.351858],"type":"Point"}
+  "bbox": [
+    -91.390966,
+    36.351858,
+    -91.390966,
+    36.351858
+],
+  "geometry": {"coordinates":[-91.39096600000001,36.351858],"type":"Point"}
 }

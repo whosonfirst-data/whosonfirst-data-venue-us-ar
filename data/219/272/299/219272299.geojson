@@ -2,13 +2,14 @@
   "id": 219272299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.021469,33.445328,-94.021469,33.445328",
     "geom:latitude":33.445328,
     "geom:longitude":-94.021469,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2400 Brookridge Dr Ofc",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219272299,
-    "wof:lastmodified":1449073662,
+    "wof:lastmodified":1466321502,
     "wof:name":"Adam N Eve Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-94.021469,33.445328,-94.021469,33.445328],
+  "bbox": [
+    -94.021469,
+    33.445328,
+    -94.021469,
+    33.445328
+],
   "geometry": {"coordinates":[-94.021469,33.445328],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102361697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.722451,34.085665,-93.722451,34.085665",
     "geom:latitude":34.085665,
     "geom:longitude":-93.722451,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"52 Branch Farm Rd",
     "sg:city":"Murfreesboro",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":102361697,
-    "wof:lastmodified":1449069556,
+    "wof:lastmodified":1466324306,
     "wof:name":"Dickie Branch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.722451,34.085665,-93.722451,34.085665],
-  "geometry": {"coordinates":[-93.722451,34.085665],"type":"Point"}
+  "bbox": [
+    -93.722451,
+    34.085665,
+    -93.722451,
+    34.085665
+],
+  "geometry": {"coordinates":[-93.72245100000001,34.085665],"type":"Point"}
 }

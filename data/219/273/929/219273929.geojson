@@ -2,13 +2,14 @@
   "id": 219273929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.385237,33.796719,-93.385237,33.796719",
     "geom:latitude":33.796719,
     "geom:longitude":-93.385237,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"221 Holly St",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219273929,
-    "wof:lastmodified":1449072212,
+    "wof:lastmodified":1466321516,
     "wof:name":"Terry's Card Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "card"
     ]
 },
-  "bbox": [-93.385237,33.796719,-93.385237,33.796719],
+  "bbox": [
+    -93.385237,
+    33.796719,
+    -93.385237,
+    33.796719
+],
   "geometry": {"coordinates":[-93.385237,33.796719],"type":"Point"}
 }

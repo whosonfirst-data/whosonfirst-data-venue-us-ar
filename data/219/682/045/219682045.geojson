@@ -2,13 +2,14 @@
   "id": 219682045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.505169,36.053317,-90.505169,36.053317",
     "geom:latitude":36.053317,
     "geom:longitude":-90.505169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"402 Linwood Drive Suite1",
     "sg:city":"Paragould",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219682045,
-    "wof:lastmodified":1449071005,
+    "wof:lastmodified":1466324630,
     "wof:name":"Rainbow Cleaning Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "vacuum"
     ]
 },
-  "bbox": [-90.505169,36.053317,-90.505169,36.053317],
+  "bbox": [
+    -90.505169,
+    36.053317,
+    -90.505169,
+    36.053317
+],
   "geometry": {"coordinates":[-90.505169,36.053317],"type":"Point"}
 }

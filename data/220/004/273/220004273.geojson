@@ -2,13 +2,14 @@
   "id": 220004273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.179139,36.30607,-94.179139,36.30607",
     "geom:latitude":36.30607,
     "geom:longitude":-94.179139,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2203 S Promenade Blvd Ste 3110",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":220004273,
-    "wof:lastmodified":1449074322,
+    "wof:lastmodified":1466320457,
     "wof:name":"Fish City Grill",
     "wof:parent_id":85895851,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cajun/creole"
     ]
 },
-  "bbox": [-94.179139,36.30607,-94.179139,36.30607],
-  "geometry": {"coordinates":[-94.179139,36.30607],"type":"Point"}
+  "bbox": [
+    -94.179139,
+    36.30607,
+    -94.179139,
+    36.30607
+],
+  "geometry": {"coordinates":[-94.17913900000001,36.30607],"type":"Point"}
 }

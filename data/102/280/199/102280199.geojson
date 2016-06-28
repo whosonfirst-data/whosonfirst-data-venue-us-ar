@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102280199",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.206894,34.837108,-92.206894,34.837108",
     "geom:latitude":34.837108,
     "geom:longitude":-92.206894,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"51 Shelby Rd",
     "sg:city":"Sherwood",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.ci.sherwood.ar.us",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851723,
+        85688549,
         85633793,
         85921251,
         102082497,
-        85688549
+        85851723
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102280199",
-    "wof:lastmodified":1449068937,
+    "wof:lastmodified":1466322562,
     "wof:name":"Parks & Recreation Director",
     "wof:parent_id":85851723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.206894,34.837108,-92.206894,34.837108],
-  "geometry": {"coordinates":[-92.206894,34.837108],"type":"Point"}
+  "bbox": [
+    -92.206894,
+    34.837108,
+    -92.206894,
+    34.837108
+],
+  "geometry": {"coordinates":[-92.20689400000001,34.837108],"type":"Point"}
 }

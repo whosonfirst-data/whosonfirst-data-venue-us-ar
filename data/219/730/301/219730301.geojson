@@ -2,13 +2,14 @@
   "id": 219730301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.857559,35.77591,-91.857559,35.77591",
     "geom:latitude":35.77591,
     "geom:longitude":-91.857559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1535 Oneal Rd",
     "sg:city":"Batesville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219730301,
-    "wof:lastmodified":1449073344,
+    "wof:lastmodified":1466324972,
     "wof:name":"S & R Farm & Pet Supply Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "equipment"
     ]
 },
-  "bbox": [-91.857559,35.77591,-91.857559,35.77591],
-  "geometry": {"coordinates":[-91.857559,35.77591],"type":"Point"}
+  "bbox": [
+    -91.857559,
+    35.77591,
+    -91.857559,
+    35.77591
+],
+  "geometry": {"coordinates":[-91.85755899999999,35.77591],"type":"Point"}
 }

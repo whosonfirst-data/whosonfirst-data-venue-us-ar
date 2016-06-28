@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102408591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.983065,34.213142,-91.983065,34.213142",
     "geom:latitude":34.213142,
     "geom:longitude":-91.983065,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1705 E Harding Ave",
     "sg:city":"Pine Bluff",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102408591,
-    "wof:lastmodified":1449068103,
+    "wof:lastmodified":1466325138,
     "wof:name":"Bank Of America",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.983065,34.213142,-91.983065,34.213142],
+  "bbox": [
+    -91.983065,
+    34.213142,
+    -91.983065,
+    34.213142
+],
   "geometry": {"coordinates":[-91.983065,34.213142],"type":"Point"}
 }

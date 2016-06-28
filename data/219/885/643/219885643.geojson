@@ -2,13 +2,14 @@
   "id": 219885643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.19224,36.336635,-94.19224,36.336635",
     "geom:latitude":36.336635,
     "geom:longitude":-94.19224,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3400 John Rollow Dr",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219885643,
-    "wof:lastmodified":1449072255,
+    "wof:lastmodified":1466325068,
     "wof:name":"Children's Clinic At Bentonville",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.19224,36.336635,-94.19224,36.336635],
+  "bbox": [
+    -94.19224,
+    36.336635,
+    -94.19224,
+    36.336635
+],
   "geometry": {"coordinates":[-94.19224,36.336635],"type":"Point"}
 }

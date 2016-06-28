@@ -2,13 +2,14 @@
   "id": 235950727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.816677,36.345737,-94.816677,36.345737",
     "geom:latitude":36.345737,
     "geom:longitude":-94.816677,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10593 E 464 Rd",
     "sg:city":"Jay",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":235950727,
-    "wof:lastmodified":1449008390,
+    "wof:lastmodified":1466320449,
     "wof:name":"Walt's Carpets",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "rug"
     ]
 },
-  "bbox": [-94.816677,36.345737,-94.816677,36.345737],
+  "bbox": [
+    -94.816677,
+    36.345737,
+    -94.816677,
+    36.345737
+],
   "geometry": {"coordinates":[-94.816677,36.345737],"type":"Point"}
 }

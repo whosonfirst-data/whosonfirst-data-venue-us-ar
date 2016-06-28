@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102387341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.117836,36.131151,-94.117836,36.131151",
     "geom:latitude":36.131151,
     "geom:longitude":-94.117836,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4444 N Crossover Rd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885493,
+        85688549,
         85633793,
         85919609,
         102082007,
-        85688549
+        85885493
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102387341,
-    "wof:lastmodified":1449069851,
+    "wof:lastmodified":1466323603,
     "wof:name":"Elks Lodge 1987",
     "wof:parent_id":85885493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.117836,36.131151,-94.117836,36.131151],
+  "bbox": [
+    -94.117836,
+    36.131151,
+    -94.117836,
+    36.131151
+],
   "geometry": {"coordinates":[-94.117836,36.131151],"type":"Point"}
 }

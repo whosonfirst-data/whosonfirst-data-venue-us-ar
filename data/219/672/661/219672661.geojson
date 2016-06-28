@@ -2,13 +2,14 @@
   "id": 219672661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.904624,36.418743,-90.904624,36.418743",
     "geom:latitude":36.418743,
     "geom:longitude":-90.904624,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Broadway Cv Apt 25",
     "sg:city":"Maynard",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":219672661,
-    "wof:lastmodified":1449070612,
+    "wof:lastmodified":1466324826,
     "wof:name":"Broadway Cove Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "listing"
     ]
 },
-  "bbox": [-90.904624,36.418743,-90.904624,36.418743],
+  "bbox": [
+    -90.904624,
+    36.418743,
+    -90.904624,
+    36.418743
+],
   "geometry": {"coordinates":[-90.904624,36.418743],"type":"Point"}
 }

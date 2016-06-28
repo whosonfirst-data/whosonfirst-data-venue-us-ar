@@ -2,13 +2,14 @@
   "id": 219750175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.921156,36.26016,-91.921156,36.26016",
     "geom:latitude":36.26016,
     "geom:longitude":-91.921156,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9401 Highway 9 S",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219750175,
-    "wof:lastmodified":1449072522,
+    "wof:lastmodified":1466324983,
     "wof:name":"Ronnie Allan Bennett",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "builder"
     ]
 },
-  "bbox": [-91.921156,36.26016,-91.921156,36.26016],
+  "bbox": [
+    -91.921156,
+    36.26016,
+    -91.921156,
+    36.26016
+],
   "geometry": {"coordinates":[-91.921156,36.26016],"type":"Point"}
 }

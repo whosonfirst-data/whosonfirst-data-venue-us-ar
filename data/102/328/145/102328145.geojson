@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102328145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.909962,35.935159,-89.909962,35.935159",
     "geom:latitude":35.935159,
     "geom:longitude":-89.909962,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"812 N 6th St",
     "sg:city":"Blytheville",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102328145,
-    "wof:lastmodified":1449069162,
+    "wof:lastmodified":1466323553,
     "wof:name":"Discount Warehouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.909962,35.935159,-89.909962,35.935159],
-  "geometry": {"coordinates":[-89.909962,35.935159],"type":"Point"}
+  "bbox": [
+    -89.909962,
+    35.935159,
+    -89.909962,
+    35.935159
+],
+  "geometry": {"coordinates":[-89.90996199999999,35.935159],"type":"Point"}
 }

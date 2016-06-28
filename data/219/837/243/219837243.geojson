@@ -2,13 +2,14 @@
   "id": 219837243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.145559,36.095111,-94.145559,36.095111",
     "geom:latitude":36.095111,
     "geom:longitude":-94.145559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2414 N Sherwood Ln",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219837243,
-    "wof:lastmodified":1449070938,
+    "wof:lastmodified":1466324936,
     "wof:name":"First Call Medical Staffing, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "opportunity"
     ]
 },
-  "bbox": [-94.145559,36.095111,-94.145559,36.095111],
-  "geometry": {"coordinates":[-94.145559,36.095111],"type":"Point"}
+  "bbox": [
+    -94.145559,
+    36.095111,
+    -94.145559,
+    36.095111
+],
+  "geometry": {"coordinates":[-94.14555900000001,36.095111],"type":"Point"}
 }

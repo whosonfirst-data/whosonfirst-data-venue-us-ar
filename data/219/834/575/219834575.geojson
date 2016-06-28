@@ -2,13 +2,14 @@
   "id": 219834575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.155554,36.064548,-94.155554,36.064548",
     "geom:latitude":36.064548,
     "geom:longitude":-94.155554,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 E Spring St",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219834575,
-    "wof:lastmodified":1449070715,
+    "wof:lastmodified":1466325005,
     "wof:name":"Yarnell Ice Cream Co Inc Toll Free-Dial 1 and Then",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "distributor"
     ]
 },
-  "bbox": [-94.155554,36.064548,-94.155554,36.064548],
+  "bbox": [
+    -94.155554,
+    36.064548,
+    -94.155554,
+    36.064548
+],
   "geometry": {"coordinates":[-94.155554,36.064548],"type":"Point"}
 }

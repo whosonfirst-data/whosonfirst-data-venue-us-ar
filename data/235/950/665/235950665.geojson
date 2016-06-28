@@ -2,13 +2,14 @@
   "id": 235950665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.792146,36.422769,-94.792146,36.422769",
     "geom:latitude":36.422769,
     "geom:longitude":-94.792146,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"160 N Main St",
     "sg:city":"Jay",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":235950665,
-    "wof:lastmodified":1449008389,
+    "wof:lastmodified":1466320447,
     "wof:name":"Tri-State Discount Furniture",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "store"
     ]
 },
-  "bbox": [-94.792146,36.422769,-94.792146,36.422769],
+  "bbox": [
+    -94.792146,
+    36.422769,
+    -94.792146,
+    36.422769
+],
   "geometry": {"coordinates":[-94.792146,36.422769],"type":"Point"}
 }

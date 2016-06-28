@@ -2,13 +2,14 @@
   "id": 219685925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.521619,36.026821,-90.521619,36.026821",
     "geom:latitude":36.026821,
     "geom:longitude":-90.521619,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2702 Southwind Dr",
     "sg:city":"Paragould",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219685925,
-    "wof:lastmodified":1449073823,
+    "wof:lastmodified":1466324654,
     "wof:name":"Blue Plate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.521619,36.026821,-90.521619,36.026821],
+  "bbox": [
+    -90.521619,
+    36.026821,
+    -90.521619,
+    36.026821
+],
   "geometry": {"coordinates":[-90.521619,36.026821],"type":"Point"}
 }

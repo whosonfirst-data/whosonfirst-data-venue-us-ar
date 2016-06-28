@@ -2,13 +2,14 @@
   "id": 303824851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.478181,35.272745,-94.478181,35.272745",
     "geom:latitude":35.272745,
     "geom:longitude":-94.478181,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1304 N Pocola Blvd",
     "sg:city":"Pocola",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303824851,
-    "wof:lastmodified":1448998991,
+    "wof:lastmodified":1466320607,
     "wof:name":"Anglen Crane Svc",
     "wof:parent_id":85809847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engine"
     ]
 },
-  "bbox": [-94.478181,35.272745,-94.478181,35.272745],
-  "geometry": {"coordinates":[-94.478181,35.272745],"type":"Point"}
+  "bbox": [
+    -94.478181,
+    35.272745,
+    -94.478181,
+    35.272745
+],
+  "geometry": {"coordinates":[-94.47818100000001,35.272745],"type":"Point"}
 }

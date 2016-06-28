@@ -2,13 +2,14 @@
   "id": 220047239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.140577,36.165951,-94.140577,36.165951",
     "geom:latitude":36.165951,
     "geom:longitude":-94.140577,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2022 Long St Ste B",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220047239,
-    "wof:lastmodified":1449074569,
+    "wof:lastmodified":1466320587,
     "wof:name":"Procare Medical Incorpora",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welfare"
     ]
 },
-  "bbox": [-94.140577,36.165951,-94.140577,36.165951],
-  "geometry": {"coordinates":[-94.140577,36.165951],"type":"Point"}
+  "bbox": [
+    -94.140577,
+    36.165951,
+    -94.140577,
+    36.165951
+],
+  "geometry": {"coordinates":[-94.14057699999999,36.165951],"type":"Point"}
 }

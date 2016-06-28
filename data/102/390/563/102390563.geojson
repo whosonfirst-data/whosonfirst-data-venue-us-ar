@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102390563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.09308,36.337435,-93.09308,36.337435",
     "geom:latitude":36.337435,
     "geom:longitude":-93.09308,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10123 Hopewell Rd N",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102390563,
-    "wof:lastmodified":1449070239,
+    "wof:lastmodified":1466324260,
     "wof:name":"White Technical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.09308,36.337435,-93.09308,36.337435],
+  "bbox": [
+    -93.09308,
+    36.337435,
+    -93.09308,
+    36.337435
+],
   "geometry": {"coordinates":[-93.09308,36.337435],"type":"Point"}
 }

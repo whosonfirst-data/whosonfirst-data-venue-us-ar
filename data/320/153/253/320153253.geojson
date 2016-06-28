@@ -2,13 +2,14 @@
   "id": 320153253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.442731,35.253263,-94.442731,35.253263",
     "geom:latitude":35.253263,
     "geom:longitude":-94.442731,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1406 Gray St",
     "sg:city":"Pocola",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320153253,
-    "wof:lastmodified":1449013848,
+    "wof:lastmodified":1466320458,
     "wof:name":"Peaceful Valley Kennel",
     "wof:parent_id":85809847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.442731,35.253263,-94.442731,35.253263],
-  "geometry": {"coordinates":[-94.442731,35.253263],"type":"Point"}
+  "bbox": [
+    -94.442731,
+    35.253263,
+    -94.442731,
+    35.253263
+],
+  "geometry": {"coordinates":[-94.44273099999999,35.253263],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102369215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.537641,35.942002,-91.537641,35.942002",
     "geom:latitude":35.942002,
     "geom:longitude":-91.537641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 Lillian",
     "sg:city":"Cave City",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102369215,
-    "wof:lastmodified":1449070081,
+    "wof:lastmodified":1466324524,
     "wof:name":"Stitcher Satellite Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.537641,35.942002,-91.537641,35.942002],
-  "geometry": {"coordinates":[-91.537641,35.942002],"type":"Point"}
+  "bbox": [
+    -91.537641,
+    35.942002,
+    -91.537641,
+    35.942002
+],
+  "geometry": {"coordinates":[-91.53764099999999,35.942002],"type":"Point"}
 }

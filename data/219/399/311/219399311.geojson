@@ -2,13 +2,14 @@
   "id": 219399311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.488495,35.085406,-92.488495,35.085406",
     "geom:latitude":35.085406,
     "geom:longitude":-92.488495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3501 College Ave",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":219399311,
-    "wof:lastmodified":1449071015,
+    "wof:lastmodified":1466322842,
     "wof:name":"St Andrews Place Nursing Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "homes-skilled"
     ]
 },
-  "bbox": [-92.488495,35.085406,-92.488495,35.085406],
+  "bbox": [
+    -92.488495,
+    35.085406,
+    -92.488495,
+    35.085406
+],
   "geometry": {"coordinates":[-92.488495,35.085406],"type":"Point"}
 }

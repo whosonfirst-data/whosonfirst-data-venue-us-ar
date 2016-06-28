@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102277639",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.308342,34.809355,-92.308342,34.809355",
     "geom:latitude":34.809355,
     "geom:longitude":-92.308342,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6500 Macarthur Dr",
     "sg:city":"N Little Rock",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     "sg:website":"www.skatepaige.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102082497,
-        85633793,
         85688549,
-        85802999
+        85633793,
+        85802999,
+        102082497
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102277639",
-    "wof:lastmodified":1449068069,
+    "wof:lastmodified":1466322598,
     "wof:name":"Skateboard Plus",
     "wof:parent_id":85802999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.308342,34.809355,-92.308342,34.809355],
+  "bbox": [
+    -92.308342,
+    34.809355,
+    -92.308342,
+    34.809355
+],
   "geometry": {"coordinates":[-92.308342,34.809355],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102392221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.832591,33.597635,-92.832591,33.597635",
     "geom:latitude":33.597635,
     "geom:longitude":-92.832591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"805 Monroe Ave",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102392221,
-    "wof:lastmodified":1449069707,
+    "wof:lastmodified":1466324579,
     "wof:name":"Alcoholics Anonymous Camden",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.832591,33.597635,-92.832591,33.597635],
-  "geometry": {"coordinates":[-92.832591,33.597635],"type":"Point"}
+  "bbox": [
+    -92.832591,
+    33.597635,
+    -92.832591,
+    33.597635
+],
+  "geometry": {"coordinates":[-92.83259099999999,33.597635],"type":"Point"}
 }

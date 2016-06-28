@@ -2,13 +2,14 @@
   "id": 219589325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.6614,34.515869,-90.6614,34.515869",
     "geom:latitude":34.515869,
     "geom:longitude":-90.6614,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Phillips 330",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":219589325,
-    "wof:lastmodified":1449072263,
+    "wof:lastmodified":1466324802,
     "wof:name":"Donahue's Body Shop",
     "wof:parent_id":85834075,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "repairing"
     ]
 },
-  "bbox": [-90.6614,34.515869,-90.6614,34.515869],
+  "bbox": [
+    -90.6614,
+    34.515869,
+    -90.6614,
+    34.515869
+],
   "geometry": {"coordinates":[-90.6614,34.515869],"type":"Point"}
 }

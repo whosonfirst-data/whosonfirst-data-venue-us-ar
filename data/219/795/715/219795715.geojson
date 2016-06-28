@@ -2,13 +2,14 @@
   "id": 219795715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.598904,36.277826,-92.598904,36.277826",
     "geom:latitude":36.277826,
     "geom:longitude":-92.598904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 E Main St",
     "sg:city":"Flippin",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219795715,
-    "wof:lastmodified":1449072475,
+    "wof:lastmodified":1466324949,
     "wof:name":"Mane Place",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.598904,36.277826,-92.598904,36.277826],
+  "bbox": [
+    -92.598904,
+    36.277826,
+    -92.598904,
+    36.277826
+],
   "geometry": {"coordinates":[-92.598904,36.277826],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102320691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.46465,35.472021,-93.46465,35.472021",
     "geom:latitude":35.472021,
     "geom:longitude":-93.46465,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 N Cravens St",
     "sg:city":"Clarksville",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102320691,
-    "wof:lastmodified":1449068395,
+    "wof:lastmodified":1466323478,
     "wof:name":"First Security Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.46465,35.472021,-93.46465,35.472021],
-  "geometry": {"coordinates":[-93.46465,35.472021],"type":"Point"}
+  "bbox": [
+    -93.46465,
+    35.472021,
+    -93.46465,
+    35.472021
+],
+  "geometry": {"coordinates":[-93.46465000000001,35.472021],"type":"Point"}
 }

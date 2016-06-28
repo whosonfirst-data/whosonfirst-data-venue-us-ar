@@ -2,13 +2,14 @@
   "id": 303713821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.370338,35.319672,-94.370338,35.319672",
     "geom:latitude":35.319672,
     "geom:longitude":-94.370338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6307 Galven Way",
     "sg:city":"Fort Smith",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303713821,
-    "wof:lastmodified":1449000336,
+    "wof:lastmodified":1466320569,
     "wof:name":"King Construction Inc",
     "wof:parent_id":85849681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "builder"
     ]
 },
-  "bbox": [-94.370338,35.319672,-94.370338,35.319672],
+  "bbox": [
+    -94.370338,
+    35.319672,
+    -94.370338,
+    35.319672
+],
   "geometry": {"coordinates":[-94.370338,35.319672],"type":"Point"}
 }

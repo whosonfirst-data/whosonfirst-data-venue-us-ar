@@ -2,13 +2,14 @@
   "id": 219833279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.046997,36.039143,-94.046997,36.039143",
     "geom:latitude":36.039143,
     "geom:longitude":-94.046997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2684 Hollybrooke Dr",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219833279,
-    "wof:lastmodified":1449070845,
+    "wof:lastmodified":1466325066,
     "wof:name":"Pam's Family Hair Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "stylist"
     ]
 },
-  "bbox": [-94.046997,36.039143,-94.046997,36.039143],
+  "bbox": [
+    -94.046997,
+    36.039143,
+    -94.046997,
+    36.039143
+],
   "geometry": {"coordinates":[-94.046997,36.039143],"type":"Point"}
 }

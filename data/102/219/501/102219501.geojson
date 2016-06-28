@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102219501",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.78362,33.631624,-91.78362,33.631624",
     "geom:latitude":33.631624,
     "geom:longitude":-91.78362,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"424 N Conley St",
     "sg:city":"Monticello",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102219501",
-    "wof:lastmodified":1449070115,
+    "wof:lastmodified":1466321149,
     "wof:name":"Roadway Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.78362,33.631624,-91.78362,33.631624],
+  "bbox": [
+    -91.78362,
+    33.631624,
+    -91.78362,
+    33.631624
+],
   "geometry": {"coordinates":[-91.78362,33.631624],"type":"Point"}
 }

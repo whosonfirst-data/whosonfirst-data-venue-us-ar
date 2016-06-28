@@ -2,13 +2,14 @@
   "id": 219886381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.242996,36.356319,-94.242996,36.356319",
     "geom:latitude":36.356319,
     "geom:longitude":-94.242996,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2801 SW Wagon Ave Apt 26",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219886381,
-    "wof:lastmodified":1449072326,
+    "wof:lastmodified":1466325005,
     "wof:name":"Chick Studios",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hatcheries-poultry"
     ]
 },
-  "bbox": [-94.242996,36.356319,-94.242996,36.356319],
-  "geometry": {"coordinates":[-94.242996,36.356319],"type":"Point"}
+  "bbox": [
+    -94.242996,
+    36.356319,
+    -94.242996,
+    36.356319
+],
+  "geometry": {"coordinates":[-94.24299600000001,36.356319],"type":"Point"}
 }

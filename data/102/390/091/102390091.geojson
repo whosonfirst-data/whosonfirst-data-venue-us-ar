@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102390091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.964441,33.133891,-91.964441,33.133891",
     "geom:latitude":33.133891,
     "geom:longitude":-91.964441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 W 2nd Ave",
     "sg:city":"Crossett",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":102390091,
-    "wof:lastmodified":1449070239,
+    "wof:lastmodified":1466324163,
     "wof:name":"Second Avenue Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.964441,33.133891,-91.964441,33.133891],
-  "geometry": {"coordinates":[-91.964441,33.133891],"type":"Point"}
+  "bbox": [
+    -91.964441,
+    33.133891,
+    -91.964441,
+    33.133891
+],
+  "geometry": {"coordinates":[-91.96444099999999,33.133891],"type":"Point"}
 }

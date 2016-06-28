@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102406173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.325237,34.650919,-92.325237,34.650919",
     "geom:latitude":34.650919,
     "geom:longitude":-92.325237,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11507 Hilaro Springs Rd",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102406173,
-    "wof:lastmodified":1449069038,
+    "wof:lastmodified":1466324943,
     "wof:name":"Capitol City Building Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.325237,34.650919,-92.325237,34.650919],
+  "bbox": [
+    -92.325237,
+    34.650919,
+    -92.325237,
+    34.650919
+],
   "geometry": {"coordinates":[-92.325237,34.650919],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102335815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.902904,33.751833,-93.902904,33.751833",
     "geom:latitude":33.751833,
     "geom:longitude":-93.902904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1944 Main St",
     "sg:city":"Saratoga",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102335815,
-    "wof:lastmodified":1449069370,
+    "wof:lastmodified":1466323826,
     "wof:name":"Ford Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.902904,33.751833,-93.902904,33.751833],
-  "geometry": {"coordinates":[-93.902904,33.751833],"type":"Point"}
+  "bbox": [
+    -93.902904,
+    33.751833,
+    -93.902904,
+    33.751833
+],
+  "geometry": {"coordinates":[-93.90290400000001,33.751833],"type":"Point"}
 }

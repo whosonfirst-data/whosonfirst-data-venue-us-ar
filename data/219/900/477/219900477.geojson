@@ -2,13 +2,14 @@
   "id": 219900477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.210999,36.338799,-94.210999,36.338799",
     "geom:latitude":36.338799,
     "geom:longitude":-94.210999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 SE 14th St",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219900477,
-    "wof:lastmodified":1449071909,
+    "wof:lastmodified":1466325100,
     "wof:name":"Nazario Theresa S Atty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.210999,36.338799,-94.210999,36.338799],
+  "bbox": [
+    -94.210999,
+    36.338799,
+    -94.210999,
+    36.338799
+],
   "geometry": {"coordinates":[-94.210999,36.338799],"type":"Point"}
 }

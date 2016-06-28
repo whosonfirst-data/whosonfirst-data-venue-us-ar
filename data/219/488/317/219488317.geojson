@@ -2,13 +2,14 @@
   "id": 219488317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.19072,34.845451,-92.19072,34.845451",
     "geom:latitude":34.845451,
     "geom:longitude":-92.19072,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9901 Brockington Rd",
     "sg:city":"Sherwood",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":219488317,
-    "wof:lastmodified":1449073822,
+    "wof:lastmodified":1466323812,
     "wof:name":"North Quarter Pavillion",
     "wof:parent_id":85837729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "listing"
     ]
 },
-  "bbox": [-92.19072,34.845451,-92.19072,34.845451],
+  "bbox": [
+    -92.19072,
+    34.845451,
+    -92.19072,
+    34.845451
+],
   "geometry": {"coordinates":[-92.19072,34.845451],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219626833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.677812,35.822404,-90.677812,35.822404",
     "geom:latitude":35.822404,
     "geom:longitude":-90.677812,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1901 S Caraway Rd Ste 14",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":219626833,
-    "wof:lastmodified":1449073915,
+    "wof:lastmodified":1466324618,
     "wof:name":"Payless ShoeSource",
     "wof:parent_id":85836541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "women's"
     ]
 },
-  "bbox": [-90.677812,35.822404,-90.677812,35.822404],
+  "bbox": [
+    -90.677812,
+    35.822404,
+    -90.677812,
+    35.822404
+],
   "geometry": {"coordinates":[-90.677812,35.822404],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102318265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.340825,34.758801,-92.340825,34.758801",
     "geom:latitude":34.758801,
     "geom:longitude":-92.340825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"804 N University Ave",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85838647,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85838647
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102318265,
-    "wof:lastmodified":1449068322,
+    "wof:lastmodified":1466323371,
     "wof:name":"Pinnacle Appraisal Co",
     "wof:parent_id":85838647,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.340825,34.758801,-92.340825,34.758801],
+  "bbox": [
+    -92.340825,
+    34.758801,
+    -92.340825,
+    34.758801
+],
   "geometry": {"coordinates":[-92.340825,34.758801],"type":"Point"}
 }

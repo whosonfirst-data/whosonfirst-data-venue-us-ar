@@ -2,13 +2,14 @@
   "id": 320461989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.865032,36.590145,-94.865032,36.590145",
     "geom:latitude":36.590145,
     "geom:longitude":-94.865032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 Privateer Dr",
     "sg:city":"Eucha",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320461989,
-    "wof:lastmodified":1449012689,
+    "wof:lastmodified":1466320555,
     "wof:name":"3-D Handyman LLC",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nonresidential"
     ]
 },
-  "bbox": [-94.865032,36.590145,-94.865032,36.590145],
+  "bbox": [
+    -94.865032,
+    36.590145,
+    -94.865032,
+    36.590145
+],
   "geometry": {"coordinates":[-94.865032,36.590145],"type":"Point"}
 }

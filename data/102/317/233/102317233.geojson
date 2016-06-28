@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102317233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.198112,36.357998,-94.198112,36.357998",
     "geom:latitude":36.357998,
     "geom:longitude":-94.198112,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"902 SE 13th Ct",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102317233,
-    "wof:lastmodified":1449068868,
+    "wof:lastmodified":1466323358,
     "wof:name":"Bentonville Medical Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.198112,36.357998,-94.198112,36.357998],
-  "geometry": {"coordinates":[-94.198112,36.357998],"type":"Point"}
+  "bbox": [
+    -94.198112,
+    36.357998,
+    -94.198112,
+    36.357998
+],
+  "geometry": {"coordinates":[-94.19811199999999,36.357998],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220067915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.130823,35.249824,-93.130823,35.249824",
     "geom:latitude":35.249824,
     "geom:longitude":-93.130823,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3432 Bernice Ave",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220067915,
-    "wof:lastmodified":1449074094,
+    "wof:lastmodified":1466321257,
     "wof:name":"Allan's Body Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "repairing"
     ]
 },
-  "bbox": [-93.130823,35.249824,-93.130823,35.249824],
-  "geometry": {"coordinates":[-93.130823,35.249824],"type":"Point"}
+  "bbox": [
+    -93.130823,
+    35.249824,
+    -93.130823,
+    35.249824
+],
+  "geometry": {"coordinates":[-93.13082300000001,35.249824],"type":"Point"}
 }

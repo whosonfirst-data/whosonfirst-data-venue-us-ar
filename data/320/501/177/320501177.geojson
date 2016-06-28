@@ -2,13 +2,14 @@
   "id": 320501177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.544691,36.179034,-94.544691,36.179034",
     "geom:latitude":36.179034,
     "geom:longitude":-94.544691,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"716 S Maple St",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320501177,
-    "wof:lastmodified":1449015004,
+    "wof:lastmodified":1466320567,
     "wof:name":"Will Rev Clinton & Gail",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.544691,36.179034,-94.544691,36.179034],
+  "bbox": [
+    -94.544691,
+    36.179034,
+    -94.544691,
+    36.179034
+],
   "geometry": {"coordinates":[-94.544691,36.179034],"type":"Point"}
 }

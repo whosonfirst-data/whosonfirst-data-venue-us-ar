@@ -2,13 +2,14 @@
   "id": 219157403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.174271,33.448388,-92.174271,33.448388",
     "geom:latitude":33.448388,
     "geom:longitude":-92.174271,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"217 Main St",
     "sg:city":"Hermitage",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219157403,
-    "wof:lastmodified":1449073413,
+    "wof:lastmodified":1466320447,
     "wof:name":"Dees Service Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.174271,33.448388,-92.174271,33.448388],
+  "bbox": [
+    -92.174271,
+    33.448388,
+    -92.174271,
+    33.448388
+],
   "geometry": {"coordinates":[-92.174271,33.448388],"type":"Point"}
 }

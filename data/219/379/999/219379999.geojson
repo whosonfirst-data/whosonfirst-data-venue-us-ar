@@ -2,13 +2,14 @@
   "id": 219379999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.420418,35.140384,-92.420418,35.140384",
     "geom:latitude":35.140384,
     "geom:longitude":-92.420418,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Caddo Dr",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219379999,
-    "wof:lastmodified":1449072434,
+    "wof:lastmodified":1466322674,
     "wof:name":"Satelite Direct Communica",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.420418,35.140384,-92.420418,35.140384],
+  "bbox": [
+    -92.420418,
+    35.140384,
+    -92.420418,
+    35.140384
+],
   "geometry": {"coordinates":[-92.420418,35.140384],"type":"Point"}
 }

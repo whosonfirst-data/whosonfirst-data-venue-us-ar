@@ -2,13 +2,14 @@
   "id": 219366107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.033409,34.91608,-92.033409,34.91608",
     "geom:latitude":34.91608,
     "geom:longitude":-92.033409,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1244 Sunset Cir",
     "sg:city":"Cabot",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219366107,
-    "wof:lastmodified":1449072974,
+    "wof:lastmodified":1466322510,
     "wof:name":"Everetts Cars",
     "wof:parent_id":85811577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "cars-wholesale"
     ]
 },
-  "bbox": [-92.033409,34.91608,-92.033409,34.91608],
-  "geometry": {"coordinates":[-92.033409,34.91608],"type":"Point"}
+  "bbox": [
+    -92.033409,
+    34.91608,
+    -92.033409,
+    34.91608
+],
+  "geometry": {"coordinates":[-92.03340900000001,34.91608],"type":"Point"}
 }

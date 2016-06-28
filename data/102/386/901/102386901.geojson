@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102386901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.051836,35.498771,-94.051836,35.498771",
     "geom:latitude":35.498771,
     "geom:longitude":-94.051836,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"304 N Main St",
     "sg:city":"Mulberry",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102386901,
-    "wof:lastmodified":1449069016,
+    "wof:lastmodified":1466323514,
     "wof:name":"Envision",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.051836,35.498771,-94.051836,35.498771],
-  "geometry": {"coordinates":[-94.051836,35.498771],"type":"Point"}
+  "bbox": [
+    -94.051836,
+    35.498771,
+    -94.051836,
+    35.498771
+],
+  "geometry": {"coordinates":[-94.05183599999999,35.498771],"type":"Point"}
 }

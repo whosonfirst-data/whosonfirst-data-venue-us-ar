@@ -2,13 +2,14 @@
   "id": 320573341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.789536,36.631529,-94.789536,36.631529",
     "geom:latitude":36.631529,
     "geom:longitude":-94.789536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"60801 E 265 Pl",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320573341,
-    "wof:lastmodified":1449014014,
+    "wof:lastmodified":1466320590,
     "wof:name":"Prewitt Mhp",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "site"
     ]
 },
-  "bbox": [-94.789536,36.631529,-94.789536,36.631529],
+  "bbox": [
+    -94.789536,
+    36.631529,
+    -94.789536,
+    36.631529
+],
   "geometry": {"coordinates":[-94.789536,36.631529],"type":"Point"}
 }

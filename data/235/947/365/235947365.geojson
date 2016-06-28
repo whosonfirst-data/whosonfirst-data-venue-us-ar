@@ -2,13 +2,14 @@
   "id": 235947365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.769089,36.578942,-94.769089,36.578942",
     "geom:latitude":36.578942,
     "geom:longitude":-94.769089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1721 S Main St",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":235947365,
-    "wof:lastmodified":1449008500,
+    "wof:lastmodified":1466320425,
     "wof:name":"Charlie's Chicken",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "barbecue"
     ]
 },
-  "bbox": [-94.769089,36.578942,-94.769089,36.578942],
-  "geometry": {"coordinates":[-94.769089,36.578942],"type":"Point"}
+  "bbox": [
+    -94.769089,
+    36.578942,
+    -94.769089,
+    36.578942
+],
+  "geometry": {"coordinates":[-94.76908899999999,36.578942],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102404777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.619223,34.541129,-90.619223,34.541129",
     "geom:latitude":34.541129,
     "geom:longitude":-90.619223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 Valley Dr",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834075,
+        85688549,
         85633793,
         85919725,
         102082001,
-        85688549
+        85834075
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102404777,
-    "wof:lastmodified":1449069382,
+    "wof:lastmodified":1466324922,
     "wof:name":"Helena West Helena Sch Dist",
     "wof:parent_id":85834075,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.619223,34.541129,-90.619223,34.541129],
-  "geometry": {"coordinates":[-90.619223,34.541129],"type":"Point"}
+  "bbox": [
+    -90.619223,
+    34.541129,
+    -90.619223,
+    34.541129
+],
+  "geometry": {"coordinates":[-90.61922300000001,34.541129],"type":"Point"}
 }

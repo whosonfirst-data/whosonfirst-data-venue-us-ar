@@ -2,13 +2,14 @@
   "id": 219966191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.133904,36.336399,-94.133904,36.336399",
     "geom:latitude":36.336399,
     "geom:longitude":-94.133904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 N 13th St",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":219966191,
-    "wof:lastmodified":1449070394,
+    "wof:lastmodified":1466325155,
     "wof:name":"Rogers Health Food Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "market"
     ]
 },
-  "bbox": [-94.133904,36.336399,-94.133904,36.336399],
+  "bbox": [
+    -94.133904,
+    36.336399,
+    -94.133904,
+    36.336399
+],
   "geometry": {"coordinates":[-94.133904,36.336399],"type":"Point"}
 }

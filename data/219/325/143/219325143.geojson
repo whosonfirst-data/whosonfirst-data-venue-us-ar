@@ -2,13 +2,14 @@
   "id": 219325143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.413142,34.627611,-92.413142,34.627611",
     "geom:latitude":34.627611,
     "geom:longitude":-92.413142,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Leprechaun Ln",
     "sg:city":"Alexander",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219325143,
-    "wof:lastmodified":1449071774,
+    "wof:lastmodified":1466321937,
     "wof:name":"Jd Management & Consultant Inc",
     "wof:parent_id":85851969,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "coach"
     ]
 },
-  "bbox": [-92.413142,34.627611,-92.413142,34.627611],
-  "geometry": {"coordinates":[-92.413142,34.627611],"type":"Point"}
+  "bbox": [
+    -92.413142,
+    34.627611,
+    -92.413142,
+    34.627611
+],
+  "geometry": {"coordinates":[-92.41314199999999,34.627611],"type":"Point"}
 }

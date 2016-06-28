@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102405005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.069811,35.266954,-93.069811,35.266954",
     "geom:latitude":35.266954,
     "geom:longitude":-93.069811,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5024 US Hwy 64 E",
     "sg:city":"Pottsville",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102405005,
-    "wof:lastmodified":1449069996,
+    "wof:lastmodified":1466324932,
     "wof:name":"Tyson Feed Mill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.069811,35.266954,-93.069811,35.266954],
+  "bbox": [
+    -93.069811,
+    35.266954,
+    -93.069811,
+    35.266954
+],
   "geometry": {"coordinates":[-93.069811,35.266954],"type":"Point"}
 }

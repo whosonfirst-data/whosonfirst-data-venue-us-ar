@@ -2,13 +2,14 @@
   "id": 219395949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.436623,35.09462,-92.436623,35.09462",
     "geom:latitude":35.09462,
     "geom:longitude":-92.436623,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1150 Harkrider St",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219395949,
-    "wof:lastmodified":1449073396,
+    "wof:lastmodified":1466322814,
     "wof:name":"Easy Drop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "honey"
     ]
 },
-  "bbox": [-92.436623,35.09462,-92.436623,35.09462],
+  "bbox": [
+    -92.436623,
+    35.09462,
+    -92.436623,
+    35.09462
+],
   "geometry": {"coordinates":[-92.436623,35.09462],"type":"Point"}
 }

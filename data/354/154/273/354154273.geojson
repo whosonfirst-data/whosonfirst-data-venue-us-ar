@@ -2,13 +2,14 @@
   "id": 354154273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.042362,33.422758,-94.042362,33.422758",
     "geom:latitude":33.422758,
     "geom:longitude":-94.042362,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 Olive St",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354154273,
-    "wof:lastmodified":1449067682,
+    "wof:lastmodified":1466324514,
     "wof:name":"Miss Pams Styling Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-94.042362,33.422758,-94.042362,33.422758],
+  "bbox": [
+    -94.042362,
+    33.422758,
+    -94.042362,
+    33.422758
+],
   "geometry": {"coordinates":[-94.042362,33.422758],"type":"Point"}
 }

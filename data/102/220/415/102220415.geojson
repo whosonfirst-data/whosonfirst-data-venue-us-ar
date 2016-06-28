@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102220415",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.34057,34.766264,-92.34057,34.766264",
     "geom:latitude":34.766264,
     "geom:longitude":-92.34057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1501 N University Ave",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -32,11 +33,11 @@
     "sg:website":"www.ciber.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878751,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85878751
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":"102220415",
-    "wof:lastmodified":1449070129,
+    "wof:lastmodified":1466321161,
     "wof:name":"Ciber Inc",
     "wof:parent_id":85878751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.34057,34.766264,-92.34057,34.766264],
+  "bbox": [
+    -92.34057,
+    34.766264,
+    -92.34057,
+    34.766264
+],
   "geometry": {"coordinates":[-92.34057,34.766264],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219278517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.452288,34.272801,-93.452288,34.272801",
     "geom:latitude":34.272801,
     "geom:longitude":-93.452288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"649 School St",
     "sg:city":"Amity",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219278517,
-    "wof:lastmodified":1449072323,
+    "wof:lastmodified":1466321555,
     "wof:name":"K & P Country Oaks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-93.452288,34.272801,-93.452288,34.272801],
+  "bbox": [
+    -93.452288,
+    34.272801,
+    -93.452288,
+    34.272801
+],
   "geometry": {"coordinates":[-93.452288,34.272801],"type":"Point"}
 }

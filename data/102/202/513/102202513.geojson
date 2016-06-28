@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102202513",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.160815,36.094857,-94.160815,36.094857",
     "geom:latitude":36.094857,
     "geom:longitude":-94.160815,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2195 N Gregg Ave",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.ridout.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885445,
+        85688549,
         85633793,
         85919609,
         102082007,
-        85688549
+        85885445
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102202513",
-    "wof:lastmodified":1449069864,
+    "wof:lastmodified":1466320729,
     "wof:name":"Ridout Contractor Outlet",
     "wof:parent_id":85885445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.160815,36.094857,-94.160815,36.094857],
+  "bbox": [
+    -94.160815,
+    36.094857,
+    -94.160815,
+    36.094857
+],
   "geometry": {"coordinates":[-94.160815,36.094857],"type":"Point"}
 }

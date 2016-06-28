@@ -2,13 +2,14 @@
   "id": 219505165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.536639,34.894271,-92.536639,34.894271",
     "geom:latitude":34.894271,
     "geom:longitude":-92.536639,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15714 Wild Oak Ln",
     "sg:city":"Roland",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219505165,
-    "wof:lastmodified":1449073336,
+    "wof:lastmodified":1466323988,
     "wof:name":"Ward Gibson Realty",
     "wof:parent_id":85847659,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "broker"
     ]
 },
-  "bbox": [-92.536639,34.894271,-92.536639,34.894271],
-  "geometry": {"coordinates":[-92.536639,34.894271],"type":"Point"}
+  "bbox": [
+    -92.536639,
+    34.894271,
+    -92.536639,
+    34.894271
+],
+  "geometry": {"coordinates":[-92.53663899999999,34.894271],"type":"Point"}
 }

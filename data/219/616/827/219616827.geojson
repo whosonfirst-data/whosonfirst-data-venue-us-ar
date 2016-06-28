@@ -2,13 +2,14 @@
   "id": 219616827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.784801,35.231232,-90.784801,35.231232",
     "geom:latitude":35.231232,
     "geom:longitude":-90.784801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"750 Bridges Ave E Ste D",
     "sg:city":"Wynne",
     "sg:classifiers":[
@@ -68,10 +69,11 @@
         }
     ],
     "wof:id":219616827,
-    "wof:lastmodified":1449072993,
+    "wof:lastmodified":1466324604,
     "wof:name":"Shelter Insurance - Brett Mcfadden",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "homeowner"
     ]
 },
-  "bbox": [-90.784801,35.231232,-90.784801,35.231232],
+  "bbox": [
+    -90.784801,
+    35.231232,
+    -90.784801,
+    35.231232
+],
   "geometry": {"coordinates":[-90.784801,35.231232],"type":"Point"}
 }

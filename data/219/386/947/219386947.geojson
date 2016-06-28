@@ -2,13 +2,14 @@
   "id": 219386947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.330772,35.085407,-92.330772,35.085407",
     "geom:latitude":35.085407,
     "geom:longitude":-92.330772,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 Highway 64 E",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219386947,
-    "wof:lastmodified":1449072237,
+    "wof:lastmodified":1466322735,
     "wof:name":"Tel.-Ark. Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "telemarketing"
     ]
 },
-  "bbox": [-92.330772,35.085407,-92.330772,35.085407],
+  "bbox": [
+    -92.330772,
+    35.085407,
+    -92.330772,
+    35.085407
+],
   "geometry": {"coordinates":[-92.330772,35.085407],"type":"Point"}
 }

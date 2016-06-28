@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102419981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.35469,34.44813,-92.35469,34.44813",
     "geom:latitude":34.44813,
     "geom:longitude":-92.35469,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1132 Grant 53",
     "sg:city":"Sheridan",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102419981,
-    "wof:lastmodified":1449070171,
+    "wof:lastmodified":1466325424,
     "wof:name":"H&S Publications Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.35469,34.44813,-92.35469,34.44813],
-  "geometry": {"coordinates":[-92.35469,34.44813],"type":"Point"}
+  "bbox": [
+    -92.35469,
+    34.44813,
+    -92.35469,
+    34.44813
+],
+  "geometry": {"coordinates":[-92.35469000000001,34.44813],"type":"Point"}
 }

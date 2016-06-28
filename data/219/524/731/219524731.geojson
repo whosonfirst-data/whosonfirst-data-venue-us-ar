@@ -2,13 +2,14 @@
   "id": 219524731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.717262,35.249391,-91.717262,35.249391",
     "geom:latitude":35.249391,
     "geom:longitude":-91.717262,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1716 E Market Ave Lot 1",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219524731,
-    "wof:lastmodified":1449070346,
+    "wof:lastmodified":1466324140,
     "wof:name":"Rsc Transport Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transportation"
     ]
 },
-  "bbox": [-91.717262,35.249391,-91.717262,35.249391],
-  "geometry": {"coordinates":[-91.717262,35.249391],"type":"Point"}
+  "bbox": [
+    -91.717262,
+    35.249391,
+    -91.717262,
+    35.249391
+],
+  "geometry": {"coordinates":[-91.71726200000001,35.249391],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219864935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.198089,36.095523,-94.198089,36.095523",
     "geom:latitude":36.095523,
     "geom:longitude":-94.198089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2741 W Quail Dr",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219864935,
-    "wof:lastmodified":1449073972,
+    "wof:lastmodified":1466324984,
     "wof:name":"Pinnacle Claims Presh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "adjuster"
     ]
 },
-  "bbox": [-94.198089,36.095523,-94.198089,36.095523],
+  "bbox": [
+    -94.198089,
+    36.095523,
+    -94.198089,
+    36.095523
+],
   "geometry": {"coordinates":[-94.198089,36.095523],"type":"Point"}
 }

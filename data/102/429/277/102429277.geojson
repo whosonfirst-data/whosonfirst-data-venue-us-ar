@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102429277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.156033,35.538628,-90.156033,35.538628",
     "geom:latitude":35.538628,
     "geom:longitude":-90.156033,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2694 W State Hwy 181",
     "sg:city":"Joiner",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":102429277,
-    "wof:lastmodified":1449070069,
+    "wof:lastmodified":1466325349,
     "wof:name":"4243 San Ridge Grocery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.156033,35.538628,-90.156033,35.538628],
-  "geometry": {"coordinates":[-90.156033,35.538628],"type":"Point"}
+  "bbox": [
+    -90.156033,
+    35.538628,
+    -90.156033,
+    35.538628
+],
+  "geometry": {"coordinates":[-90.15603299999999,35.538628],"type":"Point"}
 }

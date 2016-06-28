@@ -2,13 +2,14 @@
   "id": 219989571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.220171,36.286501,-94.220171,36.286501",
     "geom:latitude":36.286501,
     "geom:longitude":-94.220171,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7001 Shadow Valley Rd",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219989571,
-    "wof:lastmodified":1449072992,
+    "wof:lastmodified":1466325437,
     "wof:name":"Shadow Valley Country Club",
     "wof:parent_id":85895855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.220171,36.286501,-94.220171,36.286501],
-  "geometry": {"coordinates":[-94.220171,36.286501],"type":"Point"}
+  "bbox": [
+    -94.220171,
+    36.286501,
+    -94.220171,
+    36.286501
+],
+  "geometry": {"coordinates":[-94.22017099999999,36.286501],"type":"Point"}
 }

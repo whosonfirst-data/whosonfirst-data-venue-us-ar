@@ -2,13 +2,14 @@
   "id": 220067561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.224995,35.32743,-93.224995,35.32743",
     "geom:latitude":35.32743,
     "geom:longitude":-93.224995,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8817 US Highway 64 W",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":220067561,
-    "wof:lastmodified":1449074094,
+    "wof:lastmodified":1466321249,
     "wof:name":"Lakeview Animal Clinic",
     "wof:parent_id":85834239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "specialty"
     ]
 },
-  "bbox": [-93.224995,35.32743,-93.224995,35.32743],
-  "geometry": {"coordinates":[-93.224995,35.32743],"type":"Point"}
+  "bbox": [
+    -93.224995,
+    35.32743,
+    -93.224995,
+    35.32743
+],
+  "geometry": {"coordinates":[-93.22499500000001,35.32743],"type":"Point"}
 }

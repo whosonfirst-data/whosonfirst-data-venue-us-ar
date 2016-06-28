@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102289499",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.398356,34.789738,-92.398356,34.789738",
     "geom:latitude":34.789738,
     "geom:longitude":-92.398356,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4000 N Rodney Parham Rd",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858725,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85858725
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102289499",
-    "wof:lastmodified":1449069755,
+    "wof:lastmodified":1466322816,
     "wof:name":"Christ King Catholic Church",
     "wof:parent_id":85858725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.398356,34.789738,-92.398356,34.789738],
-  "geometry": {"coordinates":[-92.398356,34.789738],"type":"Point"}
+  "bbox": [
+    -92.398356,
+    34.789738,
+    -92.398356,
+    34.789738
+],
+  "geometry": {"coordinates":[-92.39835600000001,34.789738],"type":"Point"}
 }

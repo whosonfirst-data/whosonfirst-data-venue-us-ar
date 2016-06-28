@@ -2,13 +2,14 @@
   "id": 219493133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.86048,35.413013,-91.86048,35.413013",
     "geom:latitude":35.413013,
     "geom:longitude":-91.86048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1325 Marsh Mountain Rd",
     "sg:city":"Pangburn",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219493133,
-    "wof:lastmodified":1449071515,
+    "wof:lastmodified":1466323887,
     "wof:name":"Taylor Horton D",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-91.86048,35.413013,-91.86048,35.413013],
+  "bbox": [
+    -91.86048,
+    35.413013,
+    -91.86048,
+    35.413013
+],
   "geometry": {"coordinates":[-91.86048,35.413013],"type":"Point"}
 }

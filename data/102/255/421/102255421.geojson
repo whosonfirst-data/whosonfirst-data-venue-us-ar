@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102255421",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.190633,36.005524,-93.190633,36.005524",
     "geom:latitude":36.005524,
     "geom:longitude":-93.190633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 Clark St",
     "sg:city":"Jasper",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102255421",
-    "wof:lastmodified":1449068860,
+    "wof:lastmodified":1466321972,
     "wof:name":"Bradley House Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.190633,36.005524,-93.190633,36.005524],
-  "geometry": {"coordinates":[-93.190633,36.005524],"type":"Point"}
+  "bbox": [
+    -93.190633,
+    36.005524,
+    -93.190633,
+    36.005524
+],
+  "geometry": {"coordinates":[-93.19063300000001,36.005524],"type":"Point"}
 }

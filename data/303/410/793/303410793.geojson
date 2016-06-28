@@ -2,13 +2,14 @@
   "id": 303410793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.541508,36.172318,-94.541508,36.172318",
     "geom:latitude":36.172318,
     "geom:longitude":-94.541508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"504 Hwy 412 E",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303410793,
-    "wof:lastmodified":1448998153,
+    "wof:lastmodified":1466320467,
     "wof:name":"Superior Auto Mall LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "sales"
     ]
 },
-  "bbox": [-94.541508,36.172318,-94.541508,36.172318],
-  "geometry": {"coordinates":[-94.541508,36.172318],"type":"Point"}
+  "bbox": [
+    -94.541508,
+    36.172318,
+    -94.541508,
+    36.172318
+],
+  "geometry": {"coordinates":[-94.54150799999999,36.172318],"type":"Point"}
 }

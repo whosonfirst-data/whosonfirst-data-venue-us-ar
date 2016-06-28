@@ -2,13 +2,14 @@
   "id": 219710567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.019123,36.321663,-91.019123,36.321663",
     "geom:latitude":36.321663,
     "geom:longitude":-91.019123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2070 Springview Rd",
     "sg:city":"Pocahontas",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219710567,
-    "wof:lastmodified":1449070604,
+    "wof:lastmodified":1466324870,
     "wof:name":"Allie & Darby Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.019123,36.321663,-91.019123,36.321663],
-  "geometry": {"coordinates":[-91.019123,36.321663],"type":"Point"}
+  "bbox": [
+    -91.019123,
+    36.321663,
+    -91.019123,
+    36.321663
+],
+  "geometry": {"coordinates":[-91.01912299999999,36.321663],"type":"Point"}
 }

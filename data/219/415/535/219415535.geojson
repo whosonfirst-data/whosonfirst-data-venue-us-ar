@@ -2,13 +2,14 @@
   "id": 219415535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.760979,34.578152,-91.760979,34.578152",
     "geom:latitude":34.578152,
     "geom:longitude":-91.760979,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"234 Isbell Rd",
     "sg:city":"England",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219415535,
-    "wof:lastmodified":1449072943,
+    "wof:lastmodified":1466322983,
     "wof:name":"Zero Grade Farm",
     "wof:parent_id":85811577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rice"
     ]
 },
-  "bbox": [-91.760979,34.578152,-91.760979,34.578152],
-  "geometry": {"coordinates":[-91.760979,34.578152],"type":"Point"}
+  "bbox": [
+    -91.760979,
+    34.578152,
+    -91.760979,
+    34.578152
+],
+  "geometry": {"coordinates":[-91.76097900000001,34.578152],"type":"Point"}
 }

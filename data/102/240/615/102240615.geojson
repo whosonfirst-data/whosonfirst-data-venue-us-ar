@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102240615",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.157076,36.078385,-94.157076,36.078385",
     "geom:latitude":36.078385,
     "geom:longitude":-94.157076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1125 N College Ave",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885437,
+        85688549,
         85633793,
         85919609,
         102082007,
-        85688549
+        85885437
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102240615",
-    "wof:lastmodified":1449068040,
+    "wof:lastmodified":1466321673,
     "wof:name":"AR Institute For Research",
     "wof:parent_id":85885437,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.157076,36.078385,-94.157076,36.078385],
+  "bbox": [
+    -94.157076,
+    36.078385,
+    -94.157076,
+    36.078385
+],
   "geometry": {"coordinates":[-94.157076,36.078385],"type":"Point"}
 }

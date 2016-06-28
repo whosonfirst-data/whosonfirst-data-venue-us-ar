@@ -2,13 +2,14 @@
   "id": 219966655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.148277,36.33412,-94.148277,36.33412",
     "geom:latitude":36.33412,
     "geom:longitude":-94.148277,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2214 W Walnut St",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219966655,
-    "wof:lastmodified":1449070394,
+    "wof:lastmodified":1466325159,
     "wof:name":"Kwik Kar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.148277,36.33412,-94.148277,36.33412],
-  "geometry": {"coordinates":[-94.148277,36.33412],"type":"Point"}
+  "bbox": [
+    -94.148277,
+    36.33412,
+    -94.148277,
+    36.33412
+],
+  "geometry": {"coordinates":[-94.14827699999999,36.33412],"type":"Point"}
 }

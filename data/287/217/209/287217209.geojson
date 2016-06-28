@@ -2,13 +2,14 @@
   "id": 287217209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.913162,36.622458,-94.913162,36.622458",
     "geom:latitude":36.622458,
     "geom:longitude":-94.913162,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 Beech St",
     "sg:city":"Bernice",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287217209,
-    "wof:lastmodified":1449001536,
+    "wof:lastmodified":1466324425,
     "wof:name":"Sodo Enterprises",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "craft"
     ]
 },
-  "bbox": [-94.913162,36.622458,-94.913162,36.622458],
+  "bbox": [
+    -94.913162,
+    36.622458,
+    -94.913162,
+    36.622458
+],
   "geometry": {"coordinates":[-94.913162,36.622458],"type":"Point"}
 }

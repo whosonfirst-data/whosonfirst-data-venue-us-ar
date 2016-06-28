@@ -2,13 +2,14 @@
   "id": 219711569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.955752,36.320415,-90.955752,36.320415",
     "geom:latitude":36.320415,
     "geom:longitude":-90.955752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5770 Highway 115",
     "sg:city":"Pocahontas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219711569,
-    "wof:lastmodified":1449073279,
+    "wof:lastmodified":1466324945,
     "wof:name":"The Cattleman's Resource Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "software"
     ]
 },
-  "bbox": [-90.955752,36.320415,-90.955752,36.320415],
+  "bbox": [
+    -90.955752,
+    36.320415,
+    -90.955752,
+    36.320415
+],
   "geometry": {"coordinates":[-90.955752,36.320415],"type":"Point"}
 }

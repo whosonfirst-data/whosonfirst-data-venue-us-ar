@@ -2,13 +2,14 @@
   "id": 219363499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.070698,34.966717,-92.070698,34.966717",
     "geom:latitude":34.966717,
     "geom:longitude":-92.070698,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"71 Clayton Freeman Rd",
     "sg:city":"Cabot",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":219363499,
-    "wof:lastmodified":1449073490,
+    "wof:lastmodified":1466322461,
     "wof:name":"Car Corner",
     "wof:parent_id":85811577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "new"
     ]
 },
-  "bbox": [-92.070698,34.966717,-92.070698,34.966717],
-  "geometry": {"coordinates":[-92.070698,34.966717],"type":"Point"}
+  "bbox": [
+    -92.070698,
+    34.966717,
+    -92.070698,
+    34.966717
+],
+  "geometry": {"coordinates":[-92.07069799999999,34.966717],"type":"Point"}
 }

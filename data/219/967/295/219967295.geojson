@@ -2,13 +2,14 @@
   "id": 219967295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.1369,36.336115,-94.1369,36.336115",
     "geom:latitude":36.336115,
     "geom:longitude":-94.1369,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 N 14th St",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219967295,
-    "wof:lastmodified":1449073646,
+    "wof:lastmodified":1466325273,
     "wof:name":"Buanext Level Training",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.1369,36.336115,-94.1369,36.336115],
+  "bbox": [
+    -94.1369,
+    36.336115,
+    -94.1369,
+    36.336115
+],
   "geometry": {"coordinates":[-94.1369,36.336115],"type":"Point"}
 }

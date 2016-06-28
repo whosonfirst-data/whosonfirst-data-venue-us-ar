@@ -2,13 +2,14 @@
   "id": 219448003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.899924,34.790192,-91.899924,34.790192",
     "geom:latitude":34.790192,
     "geom:longitude":-91.899924,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 E 8th St",
     "sg:city":"Lonoke",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219448003,
-    "wof:lastmodified":1449073744,
+    "wof:lastmodified":1466323342,
     "wof:name":"Pruett's Bar-B-Que & Catfish",
     "wof:parent_id":85811577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "barbecue"
     ]
 },
-  "bbox": [-91.899924,34.790192,-91.899924,34.790192],
+  "bbox": [
+    -91.899924,
+    34.790192,
+    -91.899924,
+    34.790192
+],
   "geometry": {"coordinates":[-91.899924,34.790192],"type":"Point"}
 }

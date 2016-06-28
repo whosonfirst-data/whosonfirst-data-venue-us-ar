@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102237153",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.283229,35.606099,-91.283229,35.606099",
     "geom:latitude":35.606099,
     "geom:longitude":-91.283229,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Walnut St",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102237153",
-    "wof:lastmodified":1449067827,
+    "wof:lastmodified":1466321504,
     "wof:name":"Jackson County 911 Addressing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.283229,35.606099,-91.283229,35.606099],
-  "geometry": {"coordinates":[-91.283229,35.606099],"type":"Point"}
+  "bbox": [
+    -91.283229,
+    35.606099,
+    -91.283229,
+    35.606099
+],
+  "geometry": {"coordinates":[-91.28322900000001,35.606099],"type":"Point"}
 }

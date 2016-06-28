@@ -2,13 +2,14 @@
   "id": 219224933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.598518,33.66534,-93.598518,33.66534",
     "geom:latitude":33.66534,
     "geom:longitude":-93.598518,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 S Washington St",
     "sg:city":"Hope",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":219224933,
-    "wof:lastmodified":1449072980,
+    "wof:lastmodified":1466321099,
     "wof:name":"Still's Auto Service",
     "wof:parent_id":85806015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "truck"
     ]
 },
-  "bbox": [-93.598518,33.66534,-93.598518,33.66534],
+  "bbox": [
+    -93.598518,
+    33.66534,
+    -93.598518,
+    33.66534
+],
   "geometry": {"coordinates":[-93.598518,33.66534],"type":"Point"}
 }

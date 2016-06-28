@@ -2,13 +2,14 @@
   "id": 219640011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.721872,35.840391,-90.721872,35.840391",
     "geom:latitude":35.840391,
     "geom:longitude":-90.721872,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1327 W Huntington Ave",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -67,10 +68,11 @@
         }
     ],
     "wof:id":219640011,
-    "wof:lastmodified":1449071922,
+    "wof:lastmodified":1466324635,
     "wof:name":"Cliff's Body Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -84,6 +86,11 @@
         "cars-wholesale"
     ]
 },
-  "bbox": [-90.721872,35.840391,-90.721872,35.840391],
+  "bbox": [
+    -90.721872,
+    35.840391,
+    -90.721872,
+    35.840391
+],
   "geometry": {"coordinates":[-90.721872,35.840391],"type":"Point"}
 }

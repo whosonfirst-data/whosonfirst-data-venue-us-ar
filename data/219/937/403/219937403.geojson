@@ -2,13 +2,14 @@
   "id": 219937403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.424622,35.94791,-94.424622,35.94791",
     "geom:latitude":35.94791,
     "geom:longitude":-94.424622,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 W Pridemore Dr",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":219937403,
-    "wof:lastmodified":1449071064,
+    "wof:lastmodified":1466325225,
     "wof:name":"Huff's Video",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "video"
     ]
 },
-  "bbox": [-94.424622,35.94791,-94.424622,35.94791],
+  "bbox": [
+    -94.424622,
+    35.94791,
+    -94.424622,
+    35.94791
+],
   "geometry": {"coordinates":[-94.424622,35.94791],"type":"Point"}
 }

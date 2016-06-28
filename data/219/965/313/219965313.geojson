@@ -2,13 +2,14 @@
   "id": 219965313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.118846,36.332072,-94.118846,36.332072",
     "geom:latitude":36.332072,
     "geom:longitude":-94.118846,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 S 3rd St",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219965313,
-    "wof:lastmodified":1449072854,
+    "wof:lastmodified":1466325266,
     "wof:name":"Special Services Center",
     "wof:parent_id":85895845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.118846,36.332072,-94.118846,36.332072],
+  "bbox": [
+    -94.118846,
+    36.332072,
+    -94.118846,
+    36.332072
+],
   "geometry": {"coordinates":[-94.118846,36.332072],"type":"Point"}
 }

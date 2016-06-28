@@ -2,13 +2,14 @@
   "id": 219415541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.145553,35.602836,-92.145553,35.602836",
     "geom:latitude":35.602836,
     "geom:longitude":-92.145553,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 Airport Rd",
     "sg:city":"Edgemont",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":219415541,
-    "wof:lastmodified":1449072943,
+    "wof:lastmodified":1466322984,
     "wof:name":"Arkansas Log Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-92.145553,35.602836,-92.145553,35.602836],
-  "geometry": {"coordinates":[-92.145553,35.602836],"type":"Point"}
+  "bbox": [
+    -92.145553,
+    35.602836,
+    -92.145553,
+    35.602836
+],
+  "geometry": {"coordinates":[-92.14555300000001,35.602836],"type":"Point"}
 }

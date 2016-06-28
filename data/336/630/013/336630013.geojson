@@ -2,13 +2,14 @@
   "id": 336630013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.468243,36.343541,-94.468243,36.343541",
     "geom:latitude":36.343541,
     "geom:longitude":-94.468243,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"985 Austin Ave",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336630013,
-    "wof:lastmodified":1448997311,
+    "wof:lastmodified":1466324508,
     "wof:name":"Decatur Pollution Control",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "program"
     ]
 },
-  "bbox": [-94.468243,36.343541,-94.468243,36.343541],
+  "bbox": [
+    -94.468243,
+    36.343541,
+    -94.468243,
+    36.343541
+],
   "geometry": {"coordinates":[-94.468243,36.343541],"type":"Point"}
 }

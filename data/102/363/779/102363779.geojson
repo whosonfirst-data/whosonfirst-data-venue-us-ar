@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102363779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.41606,34.778766,-92.41606,34.778766",
     "geom:latitude":34.778766,
     "geom:longitude":-92.41606,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Oakmont Ct",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85843659,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85843659
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102363779,
-    "wof:lastmodified":1449069887,
+    "wof:lastmodified":1466324370,
     "wof:name":"Save IT",
     "wof:parent_id":85843659,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.41606,34.778766,-92.41606,34.778766],
+  "bbox": [
+    -92.41606,
+    34.778766,
+    -92.41606,
+    34.778766
+],
   "geometry": {"coordinates":[-92.41606,34.778766],"type":"Point"}
 }

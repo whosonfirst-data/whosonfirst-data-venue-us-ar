@@ -2,13 +2,14 @@
   "id": 219754425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.209577,36.318705,-93.209577,36.318705",
     "geom:latitude":36.318705,
     "geom:longitude":-93.209577,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2670 Lacy Ln",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219754425,
-    "wof:lastmodified":1449072693,
+    "wof:lastmodified":1466324914,
     "wof:name":"Phillips Handyman Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "home"
     ]
 },
-  "bbox": [-93.209577,36.318705,-93.209577,36.318705],
+  "bbox": [
+    -93.209577,
+    36.318705,
+    -93.209577,
+    36.318705
+],
   "geometry": {"coordinates":[-93.209577,36.318705],"type":"Point"}
 }

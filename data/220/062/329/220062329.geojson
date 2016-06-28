@@ -2,13 +2,14 @@
   "id": 220062329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.135002,36.181099,-94.135002,36.181099",
     "geom:latitude":36.181099,
     "geom:longitude":-94.135002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"417 W Maple Ave",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220062329,
-    "wof:lastmodified":1449074832,
+    "wof:lastmodified":1466321065,
     "wof:name":"Kids First Schmieding Developmental Center",
     "wof:parent_id":85885481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-94.135002,36.181099,-94.135002,36.181099],
+  "bbox": [
+    -94.135002,
+    36.181099,
+    -94.135002,
+    36.181099
+],
   "geometry": {"coordinates":[-94.135002,36.181099],"type":"Point"}
 }

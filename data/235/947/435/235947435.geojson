@@ -2,13 +2,14 @@
   "id": 235947435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.710982,36.528863,-94.710982,36.528863",
     "geom:latitude":36.528863,
     "geom:longitude":-94.710982,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24591 S 655 Rd",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":235947435,
-    "wof:lastmodified":1449008502,
+    "wof:lastmodified":1466320427,
     "wof:name":"Seneca-Cayuga Dept of Public Safety",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.710982,36.528863,-94.710982,36.528863],
+  "bbox": [
+    -94.710982,
+    36.528863,
+    -94.710982,
+    36.528863
+],
   "geometry": {"coordinates":[-94.710982,36.528863],"type":"Point"}
 }

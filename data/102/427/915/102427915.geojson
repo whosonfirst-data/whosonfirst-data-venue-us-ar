@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102427915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.479972,34.607687,-92.479972,34.607687",
     "geom:latitude":34.607687,
     "geom:longitude":-92.479972,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Parkview Dr",
     "sg:city":"Bryant",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85844395,
+        85688549,
         85633793,
         85921383,
         102083257,
-        85688549
+        85844395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102427915,
-    "wof:lastmodified":1449068505,
+    "wof:lastmodified":1466325561,
     "wof:name":"Miller Tile",
     "wof:parent_id":85844395,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.479972,34.607687,-92.479972,34.607687],
+  "bbox": [
+    -92.479972,
+    34.607687,
+    -92.479972,
+    34.607687
+],
   "geometry": {"coordinates":[-92.479972,34.607687],"type":"Point"}
 }

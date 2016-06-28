@@ -2,13 +2,14 @@
   "id": 219398093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.476495,35.04168,-92.476495,35.04168",
     "geom:latitude":35.04168,
     "geom:longitude":-92.476495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Richland Hills Cv",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219398093,
-    "wof:lastmodified":1449070674,
+    "wof:lastmodified":1466322832,
     "wof:name":"Ralph D Scott Jr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-92.476495,35.04168,-92.476495,35.04168],
+  "bbox": [
+    -92.476495,
+    35.04168,
+    -92.476495,
+    35.04168
+],
   "geometry": {"coordinates":[-92.476495,35.04168],"type":"Point"}
 }

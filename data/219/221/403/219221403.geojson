@@ -2,13 +2,14 @@
   "id": 219221403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.754596,33.907434,-92.754596,33.907434",
     "geom:latitude":33.907434,
     "geom:longitude":-92.754596,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 Dallas 219",
     "sg:city":"Sparkman",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219221403,
-    "wof:lastmodified":1449071945,
+    "wof:lastmodified":1466321056,
     "wof:name":"Oauchita Area Col Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "protection"
     ]
 },
-  "bbox": [-92.754596,33.907434,-92.754596,33.907434],
-  "geometry": {"coordinates":[-92.754596,33.907434],"type":"Point"}
+  "bbox": [
+    -92.754596,
+    33.907434,
+    -92.754596,
+    33.907434
+],
+  "geometry": {"coordinates":[-92.75459600000001,33.907434],"type":"Point"}
 }

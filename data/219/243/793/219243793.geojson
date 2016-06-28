@@ -2,13 +2,14 @@
   "id": 219243793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.860268,33.926392,-93.860268,33.926392",
     "geom:latitude":33.926392,
     "geom:longitude":-93.860268,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"176 Sunnyside Dr",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":219243793,
-    "wof:lastmodified":1449071542,
+    "wof:lastmodified":1466321283,
     "wof:name":"Pro-Fab",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "metal-wholesale"
     ]
 },
-  "bbox": [-93.860268,33.926392,-93.860268,33.926392],
+  "bbox": [
+    -93.860268,
+    33.926392,
+    -93.860268,
+    33.926392
+],
   "geometry": {"coordinates":[-93.860268,33.926392],"type":"Point"}
 }

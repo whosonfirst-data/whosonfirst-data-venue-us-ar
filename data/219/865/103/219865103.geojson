@@ -2,13 +2,14 @@
   "id": 219865103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.163002,36.130697,-94.163002,36.130697",
     "geom:latitude":36.130697,
     "geom:longitude":-94.163002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6200 S Wilkerson St",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -68,10 +69,11 @@
         }
     ],
     "wof:id":219865103,
-    "wof:lastmodified":1449073066,
+    "wof:lastmodified":1466325142,
     "wof:name":"Green Country Nursery & Landscaping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -86,6 +88,11 @@
         "grower"
     ]
 },
-  "bbox": [-94.163002,36.130697,-94.163002,36.130697],
-  "geometry": {"coordinates":[-94.163002,36.130697],"type":"Point"}
+  "bbox": [
+    -94.163002,
+    36.130697,
+    -94.163002,
+    36.130697
+],
+  "geometry": {"coordinates":[-94.16300200000001,36.130697],"type":"Point"}
 }

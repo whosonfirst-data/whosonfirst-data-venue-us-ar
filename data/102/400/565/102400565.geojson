@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102400565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.355753,34.991554,-90.355753,34.991554",
     "geom:latitude":34.991554,
     "geom:longitude":-90.355753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"36 Ragland Rd",
     "sg:city":"Hughes",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102400565,
-    "wof:lastmodified":1449068029,
+    "wof:lastmodified":1466324753,
     "wof:name":"Cupples Bill Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.355753,34.991554,-90.355753,34.991554],
-  "geometry": {"coordinates":[-90.355753,34.991554],"type":"Point"}
+  "bbox": [
+    -90.355753,
+    34.991554,
+    -90.355753,
+    34.991554
+],
+  "geometry": {"coordinates":[-90.35575300000001,34.991554],"type":"Point"}
 }

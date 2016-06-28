@@ -2,13 +2,14 @@
   "id": 235949075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.782113,36.589176,-94.782113,36.589176",
     "geom:latitude":36.589176,
     "geom:longitude":-94.782113,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"802 W 7th St",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":235949075,
-    "wof:lastmodified":1449008462,
+    "wof:lastmodified":1466320428,
     "wof:name":"Grove Head Start Center",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "day"
     ]
 },
-  "bbox": [-94.782113,36.589176,-94.782113,36.589176],
+  "bbox": [
+    -94.782113,
+    36.589176,
+    -94.782113,
+    36.589176
+],
   "geometry": {"coordinates":[-94.782113,36.589176],"type":"Point"}
 }

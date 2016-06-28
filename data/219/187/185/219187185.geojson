@@ -2,13 +2,14 @@
   "id": 219187185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.906865,33.762071,-91.906865,33.762071",
     "geom:latitude":33.762071,
     "geom:longitude":-91.906865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"909 Rock Springs Rd",
     "sg:city":"Wilmar",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219187185,
-    "wof:lastmodified":1449070912,
+    "wof:lastmodified":1466320691,
     "wof:name":"Mckeown Welding Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welder"
     ]
 },
-  "bbox": [-91.906865,33.762071,-91.906865,33.762071],
+  "bbox": [
+    -91.906865,
+    33.762071,
+    -91.906865,
+    33.762071
+],
   "geometry": {"coordinates":[-91.906865,33.762071],"type":"Point"}
 }

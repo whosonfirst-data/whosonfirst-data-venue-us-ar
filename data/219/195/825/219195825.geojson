@@ -2,13 +2,14 @@
   "id": 219195825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.413045,33.813718,-92.413045,33.813718",
     "geom:latitude":33.813718,
     "geom:longitude":-92.413045,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 W 4th St",
     "sg:city":"Fordyce",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":219195825,
-    "wof:lastmodified":1449072701,
+    "wof:lastmodified":1466320830,
     "wof:name":"Mark Klappenbach Attorney",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "public"
     ]
 },
-  "bbox": [-92.413045,33.813718,-92.413045,33.813718],
+  "bbox": [
+    -92.413045,
+    33.813718,
+    -92.413045,
+    33.813718
+],
   "geometry": {"coordinates":[-92.413045,33.813718],"type":"Point"}
 }

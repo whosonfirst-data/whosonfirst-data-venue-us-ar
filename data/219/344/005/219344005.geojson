@@ -2,13 +2,14 @@
   "id": 219344005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.598094,34.563827,-92.598094,34.563827",
     "geom:latitude":34.563827,
     "geom:longitude":-92.598094,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1016 W South St",
     "sg:city":"Benton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219344005,
-    "wof:lastmodified":1449070558,
+    "wof:lastmodified":1466322171,
     "wof:name":"La Placita",
     "wof:parent_id":85817531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.598094,34.563827,-92.598094,34.563827],
+  "bbox": [
+    -92.598094,
+    34.563827,
+    -92.598094,
+    34.563827
+],
   "geometry": {"coordinates":[-92.598094,34.563827],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219520193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.740681,35.25082,-91.740681,35.25082",
     "geom:latitude":35.25082,
     "geom:longitude":-91.740681,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"407 W Race Ave",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219520193,
-    "wof:lastmodified":1449071557,
+    "wof:lastmodified":1466324107,
     "wof:name":"Hudgins, Robert, Attorney At Law",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "plan"
     ]
 },
-  "bbox": [-91.740681,35.25082,-91.740681,35.25082],
+  "bbox": [
+    -91.740681,
+    35.25082,
+    -91.740681,
+    35.25082
+],
   "geometry": {"coordinates":[-91.740681,35.25082],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219212875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.240429,33.266585,-93.240429,33.266585",
     "geom:latitude":33.266585,
     "geom:longitude":-93.240429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 S Washington",
     "sg:city":"Magnolia",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":219212875,
-    "wof:lastmodified":1449072671,
+    "wof:lastmodified":1466320984,
     "wof:name":"Imperial Antique Mall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "hand"
     ]
 },
-  "bbox": [-93.240429,33.266585,-93.240429,33.266585],
-  "geometry": {"coordinates":[-93.240429,33.266585],"type":"Point"}
+  "bbox": [
+    -93.240429,
+    33.266585,
+    -93.240429,
+    33.266585
+],
+  "geometry": {"coordinates":[-93.24042900000001,33.266585],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102363305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.895266,34.820781,-91.895266,34.820781",
     "geom:latitude":34.820781,
     "geom:longitude":-91.895266,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1386 Watson Ln",
     "sg:city":"Lonoke",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":102363305,
-    "wof:lastmodified":1449069887,
+    "wof:lastmodified":1466324272,
     "wof:name":"BDCI Control",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.895266,34.820781,-91.895266,34.820781],
-  "geometry": {"coordinates":[-91.895266,34.820781],"type":"Point"}
+  "bbox": [
+    -91.895266,
+    34.820781,
+    -91.895266,
+    34.820781
+],
+  "geometry": {"coordinates":[-91.89526600000001,34.820781],"type":"Point"}
 }

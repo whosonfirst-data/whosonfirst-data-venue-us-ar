@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102428365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.433017,36.335392,-93.433017,36.335392",
     "geom:latitude":36.335392,
     "geom:longitude":-93.433017,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"312 E Main St",
     "sg:city":"Green Forest",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102428365,
-    "wof:lastmodified":1449070022,
+    "wof:lastmodified":1466325464,
     "wof:name":"Mattox House Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.433017,36.335392,-93.433017,36.335392],
-  "geometry": {"coordinates":[-93.433017,36.335392],"type":"Point"}
+  "bbox": [
+    -93.433017,
+    36.335392,
+    -93.433017,
+    36.335392
+],
+  "geometry": {"coordinates":[-93.43301700000001,36.335392],"type":"Point"}
 }

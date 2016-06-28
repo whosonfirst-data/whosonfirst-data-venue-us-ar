@@ -2,13 +2,14 @@
   "id": 220066049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.120468,35.2784,-93.120468,35.2784",
     "geom:latitude":35.2784,
     "geom:longitude":-93.120468,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 S Knoxville Ave",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220066049,
-    "wof:lastmodified":1449074251,
+    "wof:lastmodified":1466321217,
     "wof:name":"Bart Black Entertainment",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "video"
     ]
 },
-  "bbox": [-93.120468,35.2784,-93.120468,35.2784],
+  "bbox": [
+    -93.120468,
+    35.2784,
+    -93.120468,
+    35.2784
+],
   "geometry": {"coordinates":[-93.120468,35.2784],"type":"Point"}
 }

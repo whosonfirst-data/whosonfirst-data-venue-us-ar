@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102383437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.238865,34.784475,-92.238865,34.784475",
     "geom:latitude":34.784475,
     "geom:longitude":-92.238865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7 Belair",
     "sg:city":"N Little Rock",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829537,
+        85688549,
         85633793,
         85921255,
         102082497,
-        85688549
+        85829537
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102383437,
-    "wof:lastmodified":1449068780,
+    "wof:lastmodified":1466322800,
     "wof:name":"Midwest Inventory Svc",
     "wof:parent_id":85829537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.238865,34.784475,-92.238865,34.784475],
+  "bbox": [
+    -92.238865,
+    34.784475,
+    -92.238865,
+    34.784475
+],
   "geometry": {"coordinates":[-92.238865,34.784475],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219756365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.187742,36.29806,-93.187742,36.29806",
     "geom:latitude":36.29806,
     "geom:longitude":-93.187742,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"350 Devitos Loop",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":219756365,
-    "wof:lastmodified":1449072501,
+    "wof:lastmodified":1466324988,
     "wof:name":"DeVito's Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.187742,36.29806,-93.187742,36.29806],
+  "bbox": [
+    -93.187742,
+    36.29806,
+    -93.187742,
+    36.29806
+],
   "geometry": {"coordinates":[-93.187742,36.29806],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219401507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.475126,35.093872,-92.475126,35.093872",
     "geom:latitude":35.093872,
     "geom:longitude":-92.475126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Post Oak Cir",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219401507,
-    "wof:lastmodified":1449073389,
+    "wof:lastmodified":1466322861,
     "wof:name":"Alan Henry Enterprises Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "analyst"
     ]
 },
-  "bbox": [-92.475126,35.093872,-92.475126,35.093872],
+  "bbox": [
+    -92.475126,
+    35.093872,
+    -92.475126,
+    35.093872
+],
   "geometry": {"coordinates":[-92.475126,35.093872],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219943011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.034846,36.253979,-94.034846,36.253979",
     "geom:latitude":36.253979,
     "geom:longitude":-94.034846,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15475 E Highway 264",
     "sg:city":"Lowell",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219943011,
-    "wof:lastmodified":1449071335,
+    "wof:lastmodified":1466325177,
     "wof:name":"B J G Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "park"
     ]
 },
-  "bbox": [-94.034846,36.253979,-94.034846,36.253979],
+  "bbox": [
+    -94.034846,
+    36.253979,
+    -94.034846,
+    36.253979
+],
   "geometry": {"coordinates":[-94.034846,36.253979],"type":"Point"}
 }

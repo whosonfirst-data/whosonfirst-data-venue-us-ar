@@ -2,13 +2,14 @@
   "id": 219721189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.524179,35.678591,-90.524179,35.678591",
     "geom:latitude":35.678591,
     "geom:longitude":-90.524179,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 Highway 463 N",
     "sg:city":"Trumann",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219721189,
-    "wof:lastmodified":1449073907,
+    "wof:lastmodified":1466324965,
     "wof:name":"Gibson L D",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "plan"
     ]
 },
-  "bbox": [-90.524179,35.678591,-90.524179,35.678591],
+  "bbox": [
+    -90.524179,
+    35.678591,
+    -90.524179,
+    35.678591
+],
   "geometry": {"coordinates":[-90.524179,35.678591],"type":"Point"}
 }

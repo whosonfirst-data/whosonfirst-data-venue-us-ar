@@ -2,13 +2,14 @@
   "id": 219992005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.1887,36.3061,-94.1887,36.3061",
     "geom:latitude":36.3061,
     "geom:longitude":-94.1887,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3300 Market St Ste 136",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":219992005,
-    "wof:lastmodified":1449072059,
+    "wof:lastmodified":1466325437,
     "wof:name":"Basil's Cafe",
     "wof:parent_id":85895851,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.1887,36.3061,-94.1887,36.3061],
+  "bbox": [
+    -94.1887,
+    36.3061,
+    -94.1887,
+    36.3061
+],
   "geometry": {"coordinates":[-94.1887,36.3061],"type":"Point"}
 }

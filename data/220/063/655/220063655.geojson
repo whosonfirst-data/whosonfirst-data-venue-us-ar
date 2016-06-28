@@ -2,13 +2,14 @@
   "id": 220063655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.158225,35.285162,-93.158225,35.285162",
     "geom:latitude":35.285162,
     "geom:longitude":-93.158225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"130 S Cumberland Ave",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -68,10 +69,11 @@
         }
     ],
     "wof:id":220063655,
-    "wof:lastmodified":1449074096,
+    "wof:lastmodified":1466321115,
     "wof:name":"Taylor Nursery-Tayco/Tbn Inc",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -85,6 +87,11 @@
         "landscape"
     ]
 },
-  "bbox": [-93.158225,35.285162,-93.158225,35.285162],
+  "bbox": [
+    -93.158225,
+    35.285162,
+    -93.158225,
+    35.285162
+],
   "geometry": {"coordinates":[-93.158225,35.285162],"type":"Point"}
 }

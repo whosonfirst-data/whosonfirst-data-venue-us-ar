@@ -2,13 +2,14 @@
   "id": 320172765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.370144,35.264746,-94.370144,35.264746",
     "geom:latitude":35.264746,
     "geom:longitude":-94.370144,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12417 Old Hwy 71 S",
     "sg:city":"Fort Smith",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320172765,
-    "wof:lastmodified":1449012771,
+    "wof:lastmodified":1466320466,
     "wof:name":"J F H Equipment & Service Inc",
     "wof:parent_id":85808359,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "used"
     ]
 },
-  "bbox": [-94.370144,35.264746,-94.370144,35.264746],
+  "bbox": [
+    -94.370144,
+    35.264746,
+    -94.370144,
+    35.264746
+],
   "geometry": {"coordinates":[-94.370144,35.264746],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219257627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.026241,33.430852,-94.026241,33.430852",
     "geom:latitude":33.430852,
     "geom:longitude":-94.026241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1620 E 9th St",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219257627,
-    "wof:lastmodified":1449071444,
+    "wof:lastmodified":1466321389,
     "wof:name":"Pro Oil Changer Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.026241,33.430852,-94.026241,33.430852],
+  "bbox": [
+    -94.026241,
+    33.430852,
+    -94.026241,
+    33.430852
+],
   "geometry": {"coordinates":[-94.026241,33.430852],"type":"Point"}
 }

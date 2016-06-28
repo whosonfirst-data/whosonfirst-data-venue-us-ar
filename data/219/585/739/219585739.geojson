@@ -2,13 +2,14 @@
   "id": 219585739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.226477,35.263091,-90.226477,35.263091",
     "geom:latitude":35.263091,
     "geom:longitude":-90.226477,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"518 James Mill Rd",
     "sg:city":"Crawfordsville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219585739,
-    "wof:lastmodified":1449072735,
+    "wof:lastmodified":1466324763,
     "wof:name":"Billingsley & Billingsley",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "industrial"
     ]
 },
-  "bbox": [-90.226477,35.263091,-90.226477,35.263091],
+  "bbox": [
+    -90.226477,
+    35.263091,
+    -90.226477,
+    35.263091
+],
   "geometry": {"coordinates":[-90.226477,35.263091],"type":"Point"}
 }

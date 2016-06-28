@@ -2,13 +2,14 @@
   "id": 219698491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.527493,36.016766,-90.527493,36.016766",
     "geom:latitude":36.016766,
     "geom:longitude":-90.527493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3603A Linwood Dr",
     "sg:city":"Paragould",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219698491,
-    "wof:lastmodified":1449073691,
+    "wof:lastmodified":1466324745,
     "wof:name":"U-Haul Neighborhood Dealer - Paragould Cycles&Accessories",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "truck"
     ]
 },
-  "bbox": [-90.527493,36.016766,-90.527493,36.016766],
-  "geometry": {"coordinates":[-90.527493,36.016766],"type":"Point"}
+  "bbox": [
+    -90.527493,
+    36.016766,
+    -90.527493,
+    36.016766
+],
+  "geometry": {"coordinates":[-90.52749300000001,36.016766],"type":"Point"}
 }

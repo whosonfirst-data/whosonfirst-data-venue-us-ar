@@ -2,13 +2,14 @@
   "id": 220006087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.186401,36.311401,-94.186401,36.311401",
     "geom:latitude":36.311401,
     "geom:longitude":-94.186401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5403 Pinnacle Point Dr",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220006087,
-    "wof:lastmodified":1449074682,
+    "wof:lastmodified":1466320461,
     "wof:name":"Debbie's Family Pharmacy & Healthy Living Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drugstore"
     ]
 },
-  "bbox": [-94.186401,36.311401,-94.186401,36.311401],
+  "bbox": [
+    -94.186401,
+    36.311401,
+    -94.186401,
+    36.311401
+],
   "geometry": {"coordinates":[-94.186401,36.311401],"type":"Point"}
 }

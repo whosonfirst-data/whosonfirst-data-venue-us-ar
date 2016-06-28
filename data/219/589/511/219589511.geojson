@@ -2,13 +2,14 @@
   "id": 219589511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.634696,34.511747,-90.634696,34.511747",
     "geom:latitude":34.511747,
     "geom:longitude":-90.634696,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8641 Phillips 300",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219589511,
-    "wof:lastmodified":1449072263,
+    "wof:lastmodified":1466324576,
     "wof:name":"St Peter Missionary Baptist Church",
     "wof:parent_id":85834075,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "churches-baptist"
     ]
 },
-  "bbox": [-90.634696,34.511747,-90.634696,34.511747],
-  "geometry": {"coordinates":[-90.634696,34.511747],"type":"Point"}
+  "bbox": [
+    -90.634696,
+    34.511747,
+    -90.634696,
+    34.511747
+],
+  "geometry": {"coordinates":[-90.63469600000001,34.511747],"type":"Point"}
 }

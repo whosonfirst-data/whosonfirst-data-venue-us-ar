@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102400763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.220086,34.841624,-92.220086,34.841624",
     "geom:latitude":34.841624,
     "geom:longitude":-92.220086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9409 Maryland Cove",
     "sg:city":"North Little Rock",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851723,
+        85688549,
         85633793,
         85921251,
         102082497,
-        85688549
+        85851723
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102400763,
-    "wof:lastmodified":1449068030,
+    "wof:lastmodified":1466324788,
     "wof:name":"C M Holladay",
     "wof:parent_id":85851723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.220086,34.841624,-92.220086,34.841624],
-  "geometry": {"coordinates":[-92.220086,34.841624],"type":"Point"}
+  "bbox": [
+    -92.220086,
+    34.841624,
+    -92.220086,
+    34.841624
+],
+  "geometry": {"coordinates":[-92.22008599999999,34.841624],"type":"Point"}
 }

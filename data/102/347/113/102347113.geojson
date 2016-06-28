@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102347113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.519551,36.31123,-92.519551,36.31123",
     "geom:latitude":36.31123,
     "geom:longitude":-92.519551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"815 Wildcat Shoals Rd",
     "sg:city":"Gassville",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102347113,
-    "wof:lastmodified":1449068933,
+    "wof:lastmodified":1466323944,
     "wof:name":"Watt-A-Shine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.519551,36.31123,-92.519551,36.31123],
-  "geometry": {"coordinates":[-92.519551,36.31123],"type":"Point"}
+  "bbox": [
+    -92.519551,
+    36.31123,
+    -92.519551,
+    36.31123
+],
+  "geometry": {"coordinates":[-92.51955100000001,36.31123],"type":"Point"}
 }

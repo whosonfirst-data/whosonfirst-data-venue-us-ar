@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102301747",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.598436,34.532127,-90.598436,34.532127",
     "geom:latitude":34.532127,
     "geom:longitude":-90.598436,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 S Summit",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85838649,
+        85688549,
         85633793,
         85919725,
         102082001,
-        85688549
+        85838649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102301747",
-    "wof:lastmodified":1449068406,
+    "wof:lastmodified":1466323125,
     "wof:name":"Armstrong's Bbq",
     "wof:parent_id":85838649,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.598436,34.532127,-90.598436,34.532127],
-  "geometry": {"coordinates":[-90.598436,34.532127],"type":"Point"}
+  "bbox": [
+    -90.598436,
+    34.532127,
+    -90.598436,
+    34.532127
+],
+  "geometry": {"coordinates":[-90.59843600000001,34.532127],"type":"Point"}
 }

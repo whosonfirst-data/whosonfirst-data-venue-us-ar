@@ -2,13 +2,14 @@
   "id": 219186133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.073151,33.603397,-92.073151,33.603397",
     "geom:latitude":33.603397,
     "geom:longitude":-92.073151,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"911 York St",
     "sg:city":"Warren",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219186133,
-    "wof:lastmodified":1449073165,
+    "wof:lastmodified":1466320683,
     "wof:name":"Charlie Williams",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "windshield"
     ]
 },
-  "bbox": [-92.073151,33.603397,-92.073151,33.603397],
+  "bbox": [
+    -92.073151,
+    33.603397,
+    -92.073151,
+    33.603397
+],
   "geometry": {"coordinates":[-92.073151,33.603397],"type":"Point"}
 }

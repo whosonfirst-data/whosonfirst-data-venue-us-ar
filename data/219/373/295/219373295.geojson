@@ -2,13 +2,14 @@
   "id": 219373295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.505218,35.474507,-92.505218,35.474507",
     "geom:latitude":35.474507,
     "geom:longitude":-92.505218,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6052 Highway 9 W",
     "sg:city":"Clinton",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219373295,
-    "wof:lastmodified":1449072209,
+    "wof:lastmodified":1466322613,
     "wof:name":"Star Publications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "book"
     ]
 },
-  "bbox": [-92.505218,35.474507,-92.505218,35.474507],
+  "bbox": [
+    -92.505218,
+    35.474507,
+    -92.505218,
+    35.474507
+],
   "geometry": {"coordinates":[-92.505218,35.474507],"type":"Point"}
 }

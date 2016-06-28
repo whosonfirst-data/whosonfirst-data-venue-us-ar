@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102336781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.331205,34.757517,-92.331205,34.757517",
     "geom:latitude":34.757517,
     "geom:longitude":-92.331205,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5121 F St",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85838647,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85838647
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102336781,
-    "wof:lastmodified":1449067722,
+    "wof:lastmodified":1466323874,
     "wof:name":"Galaxy Painting Co",
     "wof:parent_id":85838647,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.331205,34.757517,-92.331205,34.757517],
+  "bbox": [
+    -92.331205,
+    34.757517,
+    -92.331205,
+    34.757517
+],
   "geometry": {"coordinates":[-92.331205,34.757517],"type":"Point"}
 }

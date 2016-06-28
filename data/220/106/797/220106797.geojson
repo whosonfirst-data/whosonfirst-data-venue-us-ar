@@ -2,13 +2,14 @@
   "id": 220106797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.857879,35.056571,-93.857879,35.056571",
     "geom:latitude":35.056571,
     "geom:longitude":-93.857879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"675 Flat Rock Rd",
     "sg:city":"Booneville",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":220106797,
-    "wof:lastmodified":1449074049,
+    "wof:lastmodified":1466322338,
     "wof:name":"Soil Classifiers Arkansas Board Of Registration For Professional",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.857879,35.056571,-93.857879,35.056571],
+  "bbox": [
+    -93.857879,
+    35.056571,
+    -93.857879,
+    35.056571
+],
   "geometry": {"coordinates":[-93.857879,35.056571],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102296419",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.220346,34.834487,-92.220346,34.834487",
     "geom:latitude":34.834487,
     "geom:longitude":-92.220346,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8801 Oakhaven Dr",
     "sg:city":"North Little Rock",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851723,
+        85688549,
         85633793,
         85921251,
         102082497,
-        85688549
+        85851723
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102296419",
-    "wof:lastmodified":1449069722,
+    "wof:lastmodified":1466322972,
     "wof:name":"Don Frazier Construction",
     "wof:parent_id":85851723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.220346,34.834487,-92.220346,34.834487],
-  "geometry": {"coordinates":[-92.220346,34.834487],"type":"Point"}
+  "bbox": [
+    -92.220346,
+    34.834487,
+    -92.220346,
+    34.834487
+],
+  "geometry": {"coordinates":[-92.22034600000001,34.834487],"type":"Point"}
 }

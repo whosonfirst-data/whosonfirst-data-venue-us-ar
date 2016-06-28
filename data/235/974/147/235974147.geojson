@@ -2,13 +2,14 @@
   "id": 235974147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.615308,35.241095,-94.615308,35.241095",
     "geom:latitude":35.241095,
     "geom:longitude":-94.615308,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"617 W Broadway St",
     "sg:city":"Spiro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":235974147,
-    "wof:lastmodified":1449008560,
+    "wof:lastmodified":1466320456,
     "wof:name":"Community State Bank",
     "wof:parent_id":85809847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commercial"
     ]
 },
-  "bbox": [-94.615308,35.241095,-94.615308,35.241095],
+  "bbox": [
+    -94.615308,
+    35.241095,
+    -94.615308,
+    35.241095
+],
   "geometry": {"coordinates":[-94.615308,35.241095],"type":"Point"}
 }

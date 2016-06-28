@@ -2,13 +2,14 @@
   "id": 219455311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.785705,34.360048,-92.785705,34.360048",
     "geom:latitude":34.360048,
     "geom:longitude":-92.785705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 Schneider Dr",
     "sg:city":"Malvern",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219455311,
-    "wof:lastmodified":1449073347,
+    "wof:lastmodified":1466323429,
     "wof:name":"Hsc Medical Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.785705,34.360048,-92.785705,34.360048],
-  "geometry": {"coordinates":[-92.785705,34.360048],"type":"Point"}
+  "bbox": [
+    -92.785705,
+    34.360048,
+    -92.785705,
+    34.360048
+],
+  "geometry": {"coordinates":[-92.78570499999999,34.360048],"type":"Point"}
 }

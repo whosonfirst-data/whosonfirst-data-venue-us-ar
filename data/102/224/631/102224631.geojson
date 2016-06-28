@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102224631",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.831736,34.648596,-91.831736,34.648596",
     "geom:latitude":34.648596,
     "geom:longitude":-91.831736,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1901 Statton Rd",
     "sg:city":"Lonoke",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102224631",
-    "wof:lastmodified":1449069561,
+    "wof:lastmodified":1466321305,
     "wof:name":"Lonoke Fish Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.831736,34.648596,-91.831736,34.648596],
-  "geometry": {"coordinates":[-91.831736,34.648596],"type":"Point"}
+  "bbox": [
+    -91.831736,
+    34.648596,
+    -91.831736,
+    34.648596
+],
+  "geometry": {"coordinates":[-91.83173600000001,34.648596],"type":"Point"}
 }

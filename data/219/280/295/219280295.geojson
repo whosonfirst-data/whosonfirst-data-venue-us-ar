@@ -2,13 +2,14 @@
   "id": 219280295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.087613,34.118911,-93.087613,34.118911",
     "geom:latitude":34.118911,
     "geom:longitude":-93.087613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3004 Pine St",
     "sg:city":"Arkadelphia",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":219280295,
-    "wof:lastmodified":1449072119,
+    "wof:lastmodified":1466321570,
     "wof:name":"Jansen, Mark T",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-93.087613,34.118911,-93.087613,34.118911],
+  "bbox": [
+    -93.087613,
+    34.118911,
+    -93.087613,
+    34.118911
+],
   "geometry": {"coordinates":[-93.087613,34.118911],"type":"Point"}
 }

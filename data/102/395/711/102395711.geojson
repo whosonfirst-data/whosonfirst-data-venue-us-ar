@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102395711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.423488,35.030016,-92.423488,35.030016",
     "geom:latitude":35.030016,
     "geom:longitude":-92.423488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 Sturgis Rd",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102395711,
-    "wof:lastmodified":1449069819,
+    "wof:lastmodified":1466324863,
     "wof:name":"Anchor Medical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.423488,35.030016,-92.423488,35.030016],
-  "geometry": {"coordinates":[-92.423488,35.030016],"type":"Point"}
+  "bbox": [
+    -92.423488,
+    35.030016,
+    -92.423488,
+    35.030016
+],
+  "geometry": {"coordinates":[-92.42348800000001,35.030016],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219336207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.877331,35.060903,-91.877331,35.060903",
     "geom:latitude":35.060903,
     "geom:longitude":-91.877331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 Alabama St",
     "sg:city":"Beebe",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":219336207,
-    "wof:lastmodified":1449070312,
+    "wof:lastmodified":1466322055,
     "wof:name":"Danny Goodman Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "equipment"
     ]
 },
-  "bbox": [-91.877331,35.060903,-91.877331,35.060903],
+  "bbox": [
+    -91.877331,
+    35.060903,
+    -91.877331,
+    35.060903
+],
   "geometry": {"coordinates":[-91.877331,35.060903],"type":"Point"}
 }

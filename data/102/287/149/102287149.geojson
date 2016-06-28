@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102287149",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.710423,35.25332,-91.710423,35.25332",
     "geom:latitude":35.25332,
     "geom:longitude":-91.710423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2307 E Moore Ave",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102287149",
-    "wof:lastmodified":1449067932,
+    "wof:lastmodified":1466322714,
     "wof:name":"Storage House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.710423,35.25332,-91.710423,35.25332],
-  "geometry": {"coordinates":[-91.710423,35.25332],"type":"Point"}
+  "bbox": [
+    -91.710423,
+    35.25332,
+    -91.710423,
+    35.25332
+],
+  "geometry": {"coordinates":[-91.71042300000001,35.25332],"type":"Point"}
 }

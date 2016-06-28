@@ -2,13 +2,14 @@
   "id": 219563781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.833184,34.975533,-91.833184,34.975533",
     "geom:latitude":34.975533,
     "geom:longitude":-91.833184,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"131 Butlerville Rd",
     "sg:city":"Ward",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219563781,
-    "wof:lastmodified":1449070421,
+    "wof:lastmodified":1466324433,
     "wof:name":"Luke's Auto Modifications",
     "wof:parent_id":85811577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.833184,34.975533,-91.833184,34.975533],
+  "bbox": [
+    -91.833184,
+    34.975533,
+    -91.833184,
+    34.975533
+],
   "geometry": {"coordinates":[-91.833184,34.975533],"type":"Point"}
 }

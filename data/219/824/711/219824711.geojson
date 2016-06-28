@@ -2,13 +2,14 @@
   "id": 219824711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.157696,36.070032,-94.157696,36.070032",
     "geom:latitude":36.070032,
     "geom:longitude":-94.157696,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"509 N College Ave",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":219824711,
-    "wof:lastmodified":1449071651,
+    "wof:lastmodified":1466324995,
     "wof:name":"Ken Osborne",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "bankruptcy"
     ]
 },
-  "bbox": [-94.157696,36.070032,-94.157696,36.070032],
+  "bbox": [
+    -94.157696,
+    36.070032,
+    -94.157696,
+    36.070032
+],
   "geometry": {"coordinates":[-94.157696,36.070032],"type":"Point"}
 }

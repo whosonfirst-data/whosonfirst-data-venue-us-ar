@@ -2,13 +2,14 @@
   "id": 219283357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.048895,34.123353,-93.048895,34.123353",
     "geom:latitude":34.123353,
     "geom:longitude":-93.048895,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 Riverside Dr",
     "sg:city":"Arkadelphia",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219283357,
-    "wof:lastmodified":1449071452,
+    "wof:lastmodified":1466321595,
     "wof:name":"Clinton Street Professional Recruiters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "opportunity"
     ]
 },
-  "bbox": [-93.048895,34.123353,-93.048895,34.123353],
+  "bbox": [
+    -93.048895,
+    34.123353,
+    -93.048895,
+    34.123353
+],
   "geometry": {"coordinates":[-93.048895,34.123353],"type":"Point"}
 }

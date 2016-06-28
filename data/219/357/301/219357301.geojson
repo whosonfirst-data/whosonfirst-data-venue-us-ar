@@ -2,13 +2,14 @@
   "id": 219357301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.501878,34.623113,-92.501878,34.623113",
     "geom:latitude":34.623113,
     "geom:longitude":-92.501878,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"612 Office Park Dr",
     "sg:city":"Bryant",
     "sg:classifiers":[
@@ -67,10 +68,11 @@
         }
     ],
     "wof:id":219357301,
-    "wof:lastmodified":1449073485,
+    "wof:lastmodified":1466322344,
     "wof:name":"Baker's Fine Jewelry",
     "wof:parent_id":85817531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -82,6 +84,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-92.501878,34.623113,-92.501878,34.623113],
+  "bbox": [
+    -92.501878,
+    34.623113,
+    -92.501878,
+    34.623113
+],
   "geometry": {"coordinates":[-92.501878,34.623113],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337295517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.126989,36.184983,-94.126989,36.184983",
     "geom:latitude":36.184983,
     "geom:longitude":-94.126989,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"419 E Emma Ave",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":337295517,
-    "wof:lastmodified":1449027256,
+    "wof:lastmodified":1466322190,
     "wof:name":"Ozark Mountain Carriage",
     "wof:parent_id":85885481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "hall"
     ]
 },
-  "bbox": [-94.126989,36.184983,-94.126989,36.184983],
-  "geometry": {"coordinates":[-94.126989,36.184983],"type":"Point"}
+  "bbox": [
+    -94.126989,
+    36.184983,
+    -94.126989,
+    36.184983
+],
+  "geometry": {"coordinates":[-94.12698899999999,36.184983],"type":"Point"}
 }

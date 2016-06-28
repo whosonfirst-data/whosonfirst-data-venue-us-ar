@@ -2,13 +2,14 @@
   "id": 219951979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.153388,36.331074,-94.153388,36.331074",
     "geom:latitude":36.331074,
     "geom:longitude":-94.153388,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2708 Rife Dr",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219951979,
-    "wof:lastmodified":1449070533,
+    "wof:lastmodified":1466325105,
     "wof:name":"Wal-Mart Clinic Pharmacy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drugstore"
     ]
 },
-  "bbox": [-94.153388,36.331074,-94.153388,36.331074],
-  "geometry": {"coordinates":[-94.153388,36.331074],"type":"Point"}
+  "bbox": [
+    -94.153388,
+    36.331074,
+    -94.153388,
+    36.331074
+],
+  "geometry": {"coordinates":[-94.15338800000001,36.331074],"type":"Point"}
 }

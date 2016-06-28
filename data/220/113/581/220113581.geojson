@@ -2,13 +2,14 @@
   "id": 220113581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.295646,35.212034,-94.295646,35.212034",
     "geom:latitude":35.212034,
     "geom:longitude":-94.295646,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2404 Mount Zion Rd",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220113581,
-    "wof:lastmodified":1449074807,
+    "wof:lastmodified":1466322477,
     "wof:name":"Oei, Inc",
     "wof:parent_id":85808359,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-94.295646,35.212034,-94.295646,35.212034],
+  "bbox": [
+    -94.295646,
+    35.212034,
+    -94.295646,
+    35.212034
+],
   "geometry": {"coordinates":[-94.295646,35.212034],"type":"Point"}
 }

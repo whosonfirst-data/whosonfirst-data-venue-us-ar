@@ -2,13 +2,14 @@
   "id": 219441565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.187789,34.874507,-92.187789,34.874507",
     "geom:latitude":34.874507,
     "geom:longitude":-92.187789,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"170 Meadowick Dr",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":219441565,
-    "wof:lastmodified":1449070662,
+    "wof:lastmodified":1466323268,
     "wof:name":"Sunshine Auto Group",
     "wof:parent_id":85837729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "new"
     ]
 },
-  "bbox": [-92.187789,34.874507,-92.187789,34.874507],
+  "bbox": [
+    -92.187789,
+    34.874507,
+    -92.187789,
+    34.874507
+],
   "geometry": {"coordinates":[-92.187789,34.874507],"type":"Point"}
 }

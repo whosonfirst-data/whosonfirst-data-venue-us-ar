@@ -2,13 +2,14 @@
   "id": 219657403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.58265,36.416909,-90.58265,36.416909",
     "geom:latitude":36.416909,
     "geom:longitude":-90.58265,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"803 Magnolia St",
     "sg:city":"Corning",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219657403,
-    "wof:lastmodified":1449070783,
+    "wof:lastmodified":1466324754,
     "wof:name":"Parks Crop Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "coach"
     ]
 },
-  "bbox": [-90.58265,36.416909,-90.58265,36.416909],
+  "bbox": [
+    -90.58265,
+    36.416909,
+    -90.58265,
+    36.416909
+],
   "geometry": {"coordinates":[-90.58265,36.416909],"type":"Point"}
 }

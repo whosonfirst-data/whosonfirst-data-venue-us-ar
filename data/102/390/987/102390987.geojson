@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102390987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.465629,35.47218,-93.465629,35.47218",
     "geom:latitude":35.47218,
     "geom:longitude":-93.465629,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 N Fulton St",
     "sg:city":"Clarksville",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102390987,
-    "wof:lastmodified":1449070240,
+    "wof:lastmodified":1466324344,
     "wof:name":"B & G Appliance Rental",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.465629,35.47218,-93.465629,35.47218],
-  "geometry": {"coordinates":[-93.465629,35.47218],"type":"Point"}
+  "bbox": [
+    -93.465629,
+    35.47218,
+    -93.465629,
+    35.47218
+],
+  "geometry": {"coordinates":[-93.46562900000001,35.47218],"type":"Point"}
 }

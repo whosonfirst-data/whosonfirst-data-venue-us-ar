@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102361661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.592451,33.652969,-93.592451,33.652969",
     "geom:latitude":33.652969,
     "geom:longitude":-93.592451,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1805 Georgetown Dr",
     "sg:city":"Hope",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806015,
+        85688549,
         85633793,
         85920547,
         102083213,
-        85688549
+        85806015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102361661,
-    "wof:lastmodified":1449069557,
+    "wof:lastmodified":1466324299,
     "wof:name":"George H Wright",
     "wof:parent_id":85806015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.592451,33.652969,-93.592451,33.652969],
+  "bbox": [
+    -93.592451,
+    33.652969,
+    -93.592451,
+    33.652969
+],
   "geometry": {"coordinates":[-93.592451,33.652969],"type":"Point"}
 }

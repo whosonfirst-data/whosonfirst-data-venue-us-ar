@@ -2,13 +2,14 @@
   "id": 219908705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.297729,36.358688,-94.297729,36.358688",
     "geom:latitude":36.358688,
     "geom:longitude":-94.297729,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Dawn Dr",
     "sg:city":"Centerton",
     "sg:classifiers":[
@@ -76,10 +77,11 @@
         }
     ],
     "wof:id":219908705,
-    "wof:lastmodified":1449072384,
+    "wof:lastmodified":1466325120,
     "wof:name":"Centerton Family Eyecare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -96,6 +98,11 @@
         "visual"
     ]
 },
-  "bbox": [-94.297729,36.358688,-94.297729,36.358688],
+  "bbox": [
+    -94.297729,
+    36.358688,
+    -94.297729,
+    36.358688
+],
   "geometry": {"coordinates":[-94.297729,36.358688],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219593519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.731148,34.598515,-90.731148,34.598515",
     "geom:latitude":34.598515,
     "geom:longitude":-90.731148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8984 Highway 242 W",
     "sg:city":"Lexa",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219593519,
-    "wof:lastmodified":1449072730,
+    "wof:lastmodified":1466324573,
     "wof:name":"USPS - United States Post Office - Lexa Main Office",
     "wof:parent_id":85834075,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "shipping"
     ]
 },
-  "bbox": [-90.731148,34.598515,-90.731148,34.598515],
+  "bbox": [
+    -90.731148,
+    34.598515,
+    -90.731148,
+    34.598515
+],
   "geometry": {"coordinates":[-90.731148,34.598515],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220044491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.133202,36.1842,-94.133202,36.1842",
     "geom:latitude":36.1842,
     "geom:longitude":-94.133202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 S Blair St",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220044491,
-    "wof:lastmodified":1449074454,
+    "wof:lastmodified":1466320571,
     "wof:name":"Boozman-Hof Regional Eye Clinic PA",
     "wof:parent_id":85885481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ophthalmologist"
     ]
 },
-  "bbox": [-94.133202,36.1842,-94.133202,36.1842],
+  "bbox": [
+    -94.133202,
+    36.1842,
+    -94.133202,
+    36.1842
+],
   "geometry": {"coordinates":[-94.133202,36.1842],"type":"Point"}
 }

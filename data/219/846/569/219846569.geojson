@@ -2,13 +2,14 @@
   "id": 219846569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.142846,36.11477,-94.142846,36.11477",
     "geom:latitude":36.11477,
     "geom:longitude":-94.142846,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1130 E Millsap Rd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -71,10 +72,11 @@
         }
     ],
     "wof:id":219846569,
-    "wof:lastmodified":1449073146,
+    "wof:lastmodified":1466325026,
     "wof:name":"Balance Road Center For Counseling & Social Work",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -91,6 +93,11 @@
         "counselor"
     ]
 },
-  "bbox": [-94.142846,36.11477,-94.142846,36.11477],
-  "geometry": {"coordinates":[-94.142846,36.11477],"type":"Point"}
+  "bbox": [
+    -94.142846,
+    36.11477,
+    -94.142846,
+    36.11477
+],
+  "geometry": {"coordinates":[-94.14284600000001,36.11477],"type":"Point"}
 }

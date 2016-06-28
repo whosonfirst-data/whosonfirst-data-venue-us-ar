@@ -2,13 +2,14 @@
   "id": 219913129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.948351,36.062099,-93.948351,36.062099",
     "geom:latitude":36.062099,
     "geom:longitude":-93.948351,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21778 Richland View Rd",
     "sg:city":"Elkins",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219913129,
-    "wof:lastmodified":1449071752,
+    "wof:lastmodified":1466325114,
     "wof:name":"H & H Cleaning Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cleaners-interior"
     ]
 },
-  "bbox": [-93.948351,36.062099,-93.948351,36.062099],
+  "bbox": [
+    -93.948351,
+    36.062099,
+    -93.948351,
+    36.062099
+],
   "geometry": {"coordinates":[-93.948351,36.062099],"type":"Point"}
 }

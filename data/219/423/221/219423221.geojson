@@ -2,13 +2,14 @@
   "id": 219423221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.389137,35.206581,-92.389137,35.206581",
     "geom:latitude":35.206581,
     "geom:longitude":-92.389137,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Oak Hill Rd",
     "sg:city":"Greenbrier",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219423221,
-    "wof:lastmodified":1449070968,
+    "wof:lastmodified":1466323044,
     "wof:name":"Sugarless Place Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "sugar"
     ]
 },
-  "bbox": [-92.389137,35.206581,-92.389137,35.206581],
-  "geometry": {"coordinates":[-92.389137,35.206581],"type":"Point"}
+  "bbox": [
+    -92.389137,
+    35.206581,
+    -92.389137,
+    35.206581
+],
+  "geometry": {"coordinates":[-92.38913700000001,35.206581],"type":"Point"}
 }

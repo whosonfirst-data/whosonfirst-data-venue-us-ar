@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102335755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.319426,35.471374,-94.319426,35.471374",
     "geom:latitude":35.471374,
     "geom:longitude":-94.319426,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2365 N Rudy Rd",
     "sg:city":"Van Buren",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":102335755,
-    "wof:lastmodified":1449069367,
+    "wof:lastmodified":1466323814,
     "wof:name":"John Garner Meats Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.319426,35.471374,-94.319426,35.471374],
-  "geometry": {"coordinates":[-94.319426,35.471374],"type":"Point"}
+  "bbox": [
+    -94.319426,
+    35.471374,
+    -94.319426,
+    35.471374
+],
+  "geometry": {"coordinates":[-94.31942600000001,35.471374],"type":"Point"}
 }

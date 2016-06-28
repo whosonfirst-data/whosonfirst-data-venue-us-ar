@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102215075",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.648733,34.936429,-92.648733,34.936429",
     "geom:latitude":34.936429,
     "geom:longitude":-92.648733,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21623 Hwy 113",
     "sg:city":"Bigelow",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":"102215075",
-    "wof:lastmodified":1449069751,
+    "wof:lastmodified":1466320950,
     "wof:name":"Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.648733,34.936429,-92.648733,34.936429],
-  "geometry": {"coordinates":[-92.648733,34.936429],"type":"Point"}
+  "bbox": [
+    -92.648733,
+    34.936429,
+    -92.648733,
+    34.936429
+],
+  "geometry": {"coordinates":[-92.64873299999999,34.936429],"type":"Point"}
 }

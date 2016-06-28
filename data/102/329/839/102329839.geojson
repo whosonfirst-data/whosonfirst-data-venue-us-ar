@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102329839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.652186,35.819714,-90.652186,35.819714",
     "geom:latitude":35.819714,
     "geom:longitude":-90.652186,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4608 E Nettleton Ave",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85836541,
+        85688549,
         85633793,
         85920203,
         102082033,
-        85688549
+        85836541
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102329839,
-    "wof:lastmodified":1449068448,
+    "wof:lastmodified":1466323708,
     "wof:name":"Pawn World East",
     "wof:parent_id":85836541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.652186,35.819714,-90.652186,35.819714],
+  "bbox": [
+    -90.652186,
+    35.819714,
+    -90.652186,
+    35.819714
+],
   "geometry": {"coordinates":[-90.652186,35.819714],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219232987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.130846,33.674752,-94.130846,33.674752",
     "geom:latitude":33.674752,
     "geom:longitude":-94.130846,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"77 E Main St",
     "sg:city":"Ashdown",
     "sg:classifiers":[
@@ -71,10 +72,11 @@
         }
     ],
     "wof:id":219232987,
-    "wof:lastmodified":1449071535,
+    "wof:lastmodified":1466321197,
     "wof:name":"A Pretty Petal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -86,6 +88,11 @@
         "flowers"
     ]
 },
-  "bbox": [-94.130846,33.674752,-94.130846,33.674752],
-  "geometry": {"coordinates":[-94.130846,33.674752],"type":"Point"}
+  "bbox": [
+    -94.130846,
+    33.674752,
+    -94.130846,
+    33.674752
+],
+  "geometry": {"coordinates":[-94.13084600000001,33.674752],"type":"Point"}
 }

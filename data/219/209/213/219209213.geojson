@@ -2,13 +2,14 @@
   "id": 219209213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.235062,33.285238,-93.235062,33.285238",
     "geom:latitude":33.285238,
     "geom:longitude":-93.235062,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2044 N Jackson",
     "sg:city":"Magnolia",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219209213,
-    "wof:lastmodified":1449073542,
+    "wof:lastmodified":1466320949,
     "wof:name":"Story's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "embroidery"
     ]
 },
-  "bbox": [-93.235062,33.285238,-93.235062,33.285238],
+  "bbox": [
+    -93.235062,
+    33.285238,
+    -93.235062,
+    33.285238
+],
   "geometry": {"coordinates":[-93.235062,33.285238],"type":"Point"}
 }

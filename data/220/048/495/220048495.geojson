@@ -2,13 +2,14 @@
   "id": 220048495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.135292,36.185131,-94.135292,36.185131",
     "geom:latitude":36.185131,
     "geom:longitude":-94.135292,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"501 W Emma Ave",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220048495,
-    "wof:lastmodified":1449074298,
+    "wof:lastmodified":1466320605,
     "wof:name":"Watermark Chiropractic",
     "wof:parent_id":85885481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chiropractic"
     ]
 },
-  "bbox": [-94.135292,36.185131,-94.135292,36.185131],
-  "geometry": {"coordinates":[-94.135292,36.185131],"type":"Point"}
+  "bbox": [
+    -94.135292,
+    36.185131,
+    -94.135292,
+    36.185131
+],
+  "geometry": {"coordinates":[-94.13529200000001,36.185131],"type":"Point"}
 }

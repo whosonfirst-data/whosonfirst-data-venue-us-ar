@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102329003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.167805,36.066429,-94.167805,36.066429",
     "geom:latitude":36.066429,
     "geom:longitude":-94.167805,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"653 W Dickson St",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885451,
+        85688549,
         85633793,
         85919609,
         102082007,
-        85688549
+        85885451
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102329003,
-    "wof:lastmodified":1449068449,
+    "wof:lastmodified":1466324509,
     "wof:name":"Dickson Street Book Exchange",
     "wof:parent_id":85885451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.167805,36.066429,-94.167805,36.066429],
+  "bbox": [
+    -94.167805,
+    36.066429,
+    -94.167805,
+    36.066429
+],
   "geometry": {"coordinates":[-94.167805,36.066429],"type":"Point"}
 }

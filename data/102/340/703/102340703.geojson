@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102340703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.434283,36.33543,-93.434283,36.33543",
     "geom:latitude":36.33543,
     "geom:longitude":-93.434283,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"222 E Main St",
     "sg:city":"Green Forest",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102340703,
-    "wof:lastmodified":1449069646,
+    "wof:lastmodified":1466323888,
     "wof:name":"Billie's Place",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.434283,36.33543,-93.434283,36.33543],
-  "geometry": {"coordinates":[-93.434283,36.33543],"type":"Point"}
+  "bbox": [
+    -93.434283,
+    36.33543,
+    -93.434283,
+    36.33543
+],
+  "geometry": {"coordinates":[-93.43428299999999,36.33543],"type":"Point"}
 }

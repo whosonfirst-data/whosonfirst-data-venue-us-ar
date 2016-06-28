@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102230215",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.298803,34.7551,-92.298803,34.7551",
     "geom:latitude":34.7551,
     "geom:longitude":-92.298803,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Coolwood Dr",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85843255,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85843255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102230215",
-    "wof:lastmodified":1449069584,
+    "wof:lastmodified":1466321374,
     "wof:name":"Digital Image Communication",
     "wof:parent_id":85843255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.298803,34.7551,-92.298803,34.7551],
-  "geometry": {"coordinates":[-92.298803,34.7551],"type":"Point"}
+  "bbox": [
+    -92.298803,
+    34.7551,
+    -92.298803,
+    34.7551
+],
+  "geometry": {"coordinates":[-92.29880300000001,34.7551],"type":"Point"}
 }

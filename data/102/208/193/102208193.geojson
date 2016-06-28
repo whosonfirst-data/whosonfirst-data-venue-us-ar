@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102208193",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.129597,36.167214,-94.129597,36.167214",
     "geom:latitude":36.167214,
     "geom:longitude":-94.129597,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"742 E Robinson Ave",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885481,
+        85688549,
         85633793,
         85919623,
         102082007,
-        85688549
+        85885481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102208193",
-    "wof:lastmodified":1449068080,
+    "wof:lastmodified":1466320808,
     "wof:name":"A A A Family Motors",
     "wof:parent_id":85885481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.129597,36.167214,-94.129597,36.167214],
+  "bbox": [
+    -94.129597,
+    36.167214,
+    -94.129597,
+    36.167214
+],
   "geometry": {"coordinates":[-94.129597,36.167214],"type":"Point"}
 }

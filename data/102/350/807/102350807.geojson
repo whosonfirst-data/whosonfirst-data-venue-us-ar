@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102350807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.633183,35.816891,-90.633183,35.816891",
     "geom:latitude":35.816891,
     "geom:longitude":-90.633183,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2501 Distributor Dr",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85836541,
+        85688549,
         85633793,
         85920203,
         102082033,
-        85688549
+        85836541
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102350807,
-    "wof:lastmodified":1449068971,
+    "wof:lastmodified":1466324112,
     "wof:name":"Global AG LLC",
     "wof:parent_id":85836541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.633183,35.816891,-90.633183,35.816891],
+  "bbox": [
+    -90.633183,
+    35.816891,
+    -90.633183,
+    35.816891
+],
   "geometry": {"coordinates":[-90.633183,35.816891],"type":"Point"}
 }

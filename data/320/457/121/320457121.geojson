@@ -2,13 +2,14 @@
   "id": 320457121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.559059,36.182547,-94.559059,36.182547",
     "geom:latitude":36.182547,
     "geom:longitude":-94.559059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"460 S Holly St",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320457121,
-    "wof:lastmodified":1449013781,
+    "wof:lastmodified":1466320554,
     "wof:name":"Gregory M Walters DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-94.559059,36.182547,-94.559059,36.182547],
+  "bbox": [
+    -94.559059,
+    36.182547,
+    -94.559059,
+    36.182547
+],
   "geometry": {"coordinates":[-94.559059,36.182547],"type":"Point"}
 }

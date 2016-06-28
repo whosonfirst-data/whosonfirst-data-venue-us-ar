@@ -2,13 +2,14 @@
   "id": 219687847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.494018,36.047507,-90.494018,36.047507",
     "geom:latitude":36.047507,
     "geom:longitude":-90.494018,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"612 W Mueller",
     "sg:city":"Paragould",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219687847,
-    "wof:lastmodified":1449071395,
+    "wof:lastmodified":1466324669,
     "wof:name":"Baldwin Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "elementary"
     ]
 },
-  "bbox": [-90.494018,36.047507,-90.494018,36.047507],
+  "bbox": [
+    -90.494018,
+    36.047507,
+    -90.494018,
+    36.047507
+],
   "geometry": {"coordinates":[-90.494018,36.047507],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102325781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.586302,34.863439,-90.586302,34.863439",
     "geom:latitude":34.863439,
     "geom:longitude":-90.586302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12092 Hwy 79 N",
     "sg:city":"Brickeys",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":102325781,
-    "wof:lastmodified":1449068706,
+    "wof:lastmodified":1466323654,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.586302,34.863439,-90.586302,34.863439],
+  "bbox": [
+    -90.586302,
+    34.863439,
+    -90.586302,
+    34.863439
+],
   "geometry": {"coordinates":[-90.586302,34.863439],"type":"Point"}
 }

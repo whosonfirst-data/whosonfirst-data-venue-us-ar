@@ -2,13 +2,14 @@
   "id": 219640069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.683447,35.844207,-90.683447,35.844207",
     "geom:latitude":35.844207,
     "geom:longitude":-90.683447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 Melrose St",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":219640069,
-    "wof:lastmodified":1449071922,
+    "wof:lastmodified":1466324636,
     "wof:name":"H&R Block",
     "wof:parent_id":85836541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "bookkeeping"
     ]
 },
-  "bbox": [-90.683447,35.844207,-90.683447,35.844207],
+  "bbox": [
+    -90.683447,
+    35.844207,
+    -90.683447,
+    35.844207
+],
   "geometry": {"coordinates":[-90.683447,35.844207],"type":"Point"}
 }

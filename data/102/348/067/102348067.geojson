@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102348067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.09753,34.423021,-93.09753,34.423021",
     "geom:latitude":34.423021,
     "geom:longitude":-93.09753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5590 Central Ave",
     "sg:city":"Hot Springs",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102348067,
-    "wof:lastmodified":1449067887,
+    "wof:lastmodified":1466323943,
     "wof:name":"Terry Martin's Lounge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.09753,34.423021,-93.09753,34.423021],
-  "geometry": {"coordinates":[-93.09753,34.423021],"type":"Point"}
+  "bbox": [
+    -93.09753,
+    34.423021,
+    -93.09753,
+    34.423021
+],
+  "geometry": {"coordinates":[-93.09753000000001,34.423021],"type":"Point"}
 }

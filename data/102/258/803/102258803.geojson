@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102258803",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.364045,34.655025,-92.364045,34.655025",
     "geom:latitude":34.655025,
     "geom:longitude":-92.364045,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8013 Mabelvale Cut Off Rd",
     "sg:city":"Mabelvale",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848409,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85848409
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102258803",
-    "wof:lastmodified":1449069689,
+    "wof:lastmodified":1466322144,
     "wof:name":"Tree Frog Enterprises Inc",
     "wof:parent_id":85848409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.364045,34.655025,-92.364045,34.655025],
+  "bbox": [
+    -92.364045,
+    34.655025,
+    -92.364045,
+    34.655025
+],
   "geometry": {"coordinates":[-92.364045,34.655025],"type":"Point"}
 }

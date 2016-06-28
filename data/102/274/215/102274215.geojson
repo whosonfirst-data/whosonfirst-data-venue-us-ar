@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102274215",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.905268,36.059453,-91.905268,36.059453",
     "geom:latitude":36.059453,
     "geom:longitude":-91.905268,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 Spring St",
     "sg:city":"Melbourne",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102274215",
-    "wof:lastmodified":1449068102,
+    "wof:lastmodified":1466322418,
     "wof:name":"Blankenship Pharmacy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.905268,36.059453,-91.905268,36.059453],
-  "geometry": {"coordinates":[-91.905268,36.059453],"type":"Point"}
+  "bbox": [
+    -91.905268,
+    36.059453,
+    -91.905268,
+    36.059453
+],
+  "geometry": {"coordinates":[-91.90526800000001,36.059453],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219817207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.157919,36.06302,-94.157919,36.06302",
     "geom:latitude":36.06302,
     "geom:longitude":-94.157919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28 S College Ave Ste 1",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219817207,
-    "wof:lastmodified":1449073241,
+    "wof:lastmodified":1466324893,
     "wof:name":"5th Element Massage",
     "wof:parent_id":85885459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "therapist"
     ]
 },
-  "bbox": [-94.157919,36.06302,-94.157919,36.06302],
-  "geometry": {"coordinates":[-94.157919,36.06302],"type":"Point"}
+  "bbox": [
+    -94.157919,
+    36.06302,
+    -94.157919,
+    36.06302
+],
+  "geometry": {"coordinates":[-94.15791900000001,36.06302],"type":"Point"}
 }

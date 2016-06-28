@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102366093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.051792,34.509417,-93.051792,34.509417",
     "geom:latitude":34.509417,
     "geom:longitude":-93.051792,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"134 Convention Blvd",
     "sg:city":"Hot Springs",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102366093,
-    "wof:lastmodified":1449069558,
+    "wof:lastmodified":1466324348,
     "wof:name":"Hot Springs Advertising",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.051792,34.509417,-93.051792,34.509417],
-  "geometry": {"coordinates":[-93.051792,34.509417],"type":"Point"}
+  "bbox": [
+    -93.051792,
+    34.509417,
+    -93.051792,
+    34.509417
+],
+  "geometry": {"coordinates":[-93.05179200000001,34.509417],"type":"Point"}
 }

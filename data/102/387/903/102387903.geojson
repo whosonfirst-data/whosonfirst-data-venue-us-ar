@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102387903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.572737,33.059563,-91.572737,33.059563",
     "geom:latitude":33.059563,
     "geom:longitude":-91.572737,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 Mc Combs",
     "sg:city":"Wilmot",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102387903,
-    "wof:lastmodified":1449069844,
+    "wof:lastmodified":1466323717,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.572737,33.059563,-91.572737,33.059563],
+  "bbox": [
+    -91.572737,
+    33.059563,
+    -91.572737,
+    33.059563
+],
   "geometry": {"coordinates":[-91.572737,33.059563],"type":"Point"}
 }

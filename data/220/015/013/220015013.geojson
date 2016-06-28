@@ -2,13 +2,14 @@
   "id": 220015013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.183274,36.175298,-94.183274,36.175298",
     "geom:latitude":36.175298,
     "geom:longitude":-94.183274,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4772 W Sunset Ave",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":220015013,
-    "wof:lastmodified":1449074228,
+    "wof:lastmodified":1466324432,
     "wof:name":"Subway",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "take"
     ]
 },
-  "bbox": [-94.183274,36.175298,-94.183274,36.175298],
+  "bbox": [
+    -94.183274,
+    36.175298,
+    -94.183274,
+    36.175298
+],
   "geometry": {"coordinates":[-94.183274,36.175298],"type":"Point"}
 }

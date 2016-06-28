@@ -2,13 +2,14 @@
   "id": 219483587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.417766,34.844971,-92.417766,34.844971",
     "geom:latitude":34.844971,
     "geom:longitude":-92.417766,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Sand Trap Dr",
     "sg:city":"Maumelle",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":219483587,
-    "wof:lastmodified":1449073178,
+    "wof:lastmodified":1466323719,
     "wof:name":"Hudak Consultants Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "coach"
     ]
 },
-  "bbox": [-92.417766,34.844971,-92.417766,34.844971],
+  "bbox": [
+    -92.417766,
+    34.844971,
+    -92.417766,
+    34.844971
+],
   "geometry": {"coordinates":[-92.417766,34.844971],"type":"Point"}
 }

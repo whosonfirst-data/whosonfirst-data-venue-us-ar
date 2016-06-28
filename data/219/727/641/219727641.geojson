@@ -2,13 +2,14 @@
   "id": 219727641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.655487,35.781731,-91.655487,35.781731",
     "geom:latitude":35.781731,
     "geom:longitude":-91.655487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1685 N Hill St",
     "sg:city":"Batesville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219727641,
-    "wof:lastmodified":1449070923,
+    "wof:lastmodified":1466324972,
     "wof:name":"The Old Country Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-91.655487,35.781731,-91.655487,35.781731],
-  "geometry": {"coordinates":[-91.655487,35.781731],"type":"Point"}
+  "bbox": [
+    -91.655487,
+    35.781731,
+    -91.655487,
+    35.781731
+],
+  "geometry": {"coordinates":[-91.65548699999999,35.781731],"type":"Point"}
 }

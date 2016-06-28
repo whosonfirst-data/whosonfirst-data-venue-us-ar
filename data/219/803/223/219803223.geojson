@@ -2,13 +2,14 @@
   "id": 219803223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.510264,36.401841,-92.510264,36.401841",
     "geom:latitude":36.401841,
     "geom:longitude":-92.510264,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"276 Westview Rd",
     "sg:city":"Midway",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219803223,
-    "wof:lastmodified":1449073962,
+    "wof:lastmodified":1466324954,
     "wof:name":"Clark Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "bureau"
     ]
 },
-  "bbox": [-92.510264,36.401841,-92.510264,36.401841],
-  "geometry": {"coordinates":[-92.510264,36.401841],"type":"Point"}
+  "bbox": [
+    -92.510264,
+    36.401841,
+    -92.510264,
+    36.401841
+],
+  "geometry": {"coordinates":[-92.51026400000001,36.401841],"type":"Point"}
 }

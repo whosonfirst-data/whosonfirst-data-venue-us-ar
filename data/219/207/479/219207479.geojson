@@ -2,13 +2,14 @@
   "id": 219207479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.224064,33.320496,-93.224064,33.320496",
     "geom:latitude":33.320496,
     "geom:longitude":-93.224064,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"831 Columbia Road 13",
     "sg:city":"Magnolia",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219207479,
-    "wof:lastmodified":1449072863,
+    "wof:lastmodified":1466320935,
     "wof:name":"Tlt Car Crushing And Recycling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.224064,33.320496,-93.224064,33.320496],
+  "bbox": [
+    -93.224064,
+    33.320496,
+    -93.224064,
+    33.320496
+],
   "geometry": {"coordinates":[-93.224064,33.320496],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219178349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.190191,33.958379,-92.190191,33.958379",
     "geom:latitude":33.958379,
     "geom:longitude":-92.190191,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 S Main St",
     "sg:city":"Rison",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219178349,
-    "wof:lastmodified":1449072933,
+    "wof:lastmodified":1466320613,
     "wof:name":"City Of Rison",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "village"
     ]
 },
-  "bbox": [-92.190191,33.958379,-92.190191,33.958379],
+  "bbox": [
+    -92.190191,
+    33.958379,
+    -92.190191,
+    33.958379
+],
   "geometry": {"coordinates":[-92.190191,33.958379],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 235946675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.770536,36.588098,-94.770536,36.588098",
     "geom:latitude":36.588098,
     "geom:longitude":-94.770536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"913 S Grand St",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -69,10 +70,11 @@
         }
     ],
     "wof:id":235946675,
-    "wof:lastmodified":1449008569,
+    "wof:lastmodified":1466320430,
     "wof:name":"Goodwin Bill",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -87,6 +89,11 @@
         "oral"
     ]
 },
-  "bbox": [-94.770536,36.588098,-94.770536,36.588098],
-  "geometry": {"coordinates":[-94.770536,36.588098],"type":"Point"}
+  "bbox": [
+    -94.770536,
+    36.588098,
+    -94.770536,
+    36.588098
+],
+  "geometry": {"coordinates":[-94.77053600000001,36.588098],"type":"Point"}
 }

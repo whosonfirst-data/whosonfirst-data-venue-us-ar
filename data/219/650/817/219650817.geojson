@@ -2,13 +2,14 @@
   "id": 219650817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.726929,35.790582,-90.726929,35.790582",
     "geom:latitude":35.790582,
     "geom:longitude":-90.726929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1213 Layman Dr",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219650817,
-    "wof:lastmodified":1449072551,
+    "wof:lastmodified":1466324725,
     "wof:name":"We Care Lawn Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-90.726929,35.790582,-90.726929,35.790582],
+  "bbox": [
+    -90.726929,
+    35.790582,
+    -90.726929,
+    35.790582
+],
   "geometry": {"coordinates":[-90.726929,35.790582],"type":"Point"}
 }

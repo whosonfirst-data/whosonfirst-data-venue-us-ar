@@ -2,13 +2,14 @@
   "id": 219599841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.264822,35.192859,-90.264822,35.192859",
     "geom:latitude":35.192859,
     "geom:longitude":-90.264822,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5500 Kuhn Rd",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219599841,
-    "wof:lastmodified":1449072032,
+    "wof:lastmodified":1466324583,
     "wof:name":"Union Pacific Railroad Company Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "railroad"
     ]
 },
-  "bbox": [-90.264822,35.192859,-90.264822,35.192859],
+  "bbox": [
+    -90.264822,
+    35.192859,
+    -90.264822,
+    35.192859
+],
   "geometry": {"coordinates":[-90.264822,35.192859],"type":"Point"}
 }

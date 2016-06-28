@@ -2,13 +2,14 @@
   "id": 219360831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.464211,34.627178,-92.464211,34.627178",
     "geom:latitude":34.627178,
     "geom:longitude":-92.464211,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2501 Raymar Rd",
     "sg:city":"Bryant",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219360831,
-    "wof:lastmodified":1449073126,
+    "wof:lastmodified":1466322413,
     "wof:name":"Arkansas Frozen Freight",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "equipment"
     ]
 },
-  "bbox": [-92.464211,34.627178,-92.464211,34.627178],
-  "geometry": {"coordinates":[-92.464211,34.627178],"type":"Point"}
+  "bbox": [
+    -92.464211,
+    34.627178,
+    -92.464211,
+    34.627178
+],
+  "geometry": {"coordinates":[-92.46421100000001,34.627178],"type":"Point"}
 }

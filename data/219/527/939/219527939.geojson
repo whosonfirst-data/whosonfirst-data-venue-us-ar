@@ -2,13 +2,14 @@
   "id": 219527939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.749458,35.251051,-91.749458,35.251051",
     "geom:latitude":35.251051,
     "geom:longitude":-91.749458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1311 E Race Ave",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219527939,
-    "wof:lastmodified":1449073207,
+    "wof:lastmodified":1466324165,
     "wof:name":"State Farm Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.749458,35.251051,-91.749458,35.251051],
+  "bbox": [
+    -91.749458,
+    35.251051,
+    -91.749458,
+    35.251051
+],
   "geometry": {"coordinates":[-91.749458,35.251051],"type":"Point"}
 }

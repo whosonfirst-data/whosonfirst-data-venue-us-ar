@@ -2,13 +2,14 @@
   "id": 219736533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.340915,35.834161,-91.340915,35.834161",
     "geom:latitude":35.834161,
     "geom:longitude":-91.340915,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8895 Cord Rd",
     "sg:city":"Cord",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219736533,
-    "wof:lastmodified":1449073871,
+    "wof:lastmodified":1466324839,
     "wof:name":"White River Materials Inc Crus",
     "wof:parent_id":85808231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "lime"
     ]
 },
-  "bbox": [-91.340915,35.834161,-91.340915,35.834161],
+  "bbox": [
+    -91.340915,
+    35.834161,
+    -91.340915,
+    35.834161
+],
   "geometry": {"coordinates":[-91.340915,35.834161],"type":"Point"}
 }

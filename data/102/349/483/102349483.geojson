@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102349483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.548493,36.057296,-90.548493,36.057296",
     "geom:latitude":36.057296,
     "geom:longitude":-90.548493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4819 Maxwell Dr",
     "sg:city":"Paragould",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102349483,
-    "wof:lastmodified":1449068695,
+    "wof:lastmodified":1466324034,
     "wof:name":"David Goins Excavating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.548493,36.057296,-90.548493,36.057296],
-  "geometry": {"coordinates":[-90.548493,36.057296],"type":"Point"}
+  "bbox": [
+    -90.548493,
+    36.057296,
+    -90.548493,
+    36.057296
+],
+  "geometry": {"coordinates":[-90.54849299999999,36.057296],"type":"Point"}
 }

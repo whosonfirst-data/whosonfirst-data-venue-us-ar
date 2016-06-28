@@ -2,13 +2,14 @@
   "id": 235944007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.65543,36.249454,-94.65543,36.249454",
     "geom:latitude":36.249454,
     "geom:longitude":-94.65543,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19851 E 530 Rd",
     "sg:city":"Colcord",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":235944007,
-    "wof:lastmodified":1449008420,
+    "wof:lastmodified":1466324409,
     "wof:name":"Colcord First Assembly Of God",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "denomination"
     ]
 },
-  "bbox": [-94.65543,36.249454,-94.65543,36.249454],
+  "bbox": [
+    -94.65543,
+    36.249454,
+    -94.65543,
+    36.249454
+],
   "geometry": {"coordinates":[-94.65543,36.249454],"type":"Point"}
 }

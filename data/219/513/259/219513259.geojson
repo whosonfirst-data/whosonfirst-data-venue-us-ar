@@ -2,13 +2,14 @@
   "id": 219513259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.765832,35.251331,-91.765832,35.251331",
     "geom:latitude":35.251331,
     "geom:longitude":-91.765832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"58 Hartwell Cir",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219513259,
-    "wof:lastmodified":1449072722,
+    "wof:lastmodified":1466324055,
     "wof:name":"W P Creation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "consultant"
     ]
 },
-  "bbox": [-91.765832,35.251331,-91.765832,35.251331],
+  "bbox": [
+    -91.765832,
+    35.251331,
+    -91.765832,
+    35.251331
+],
   "geometry": {"coordinates":[-91.765832,35.251331],"type":"Point"}
 }

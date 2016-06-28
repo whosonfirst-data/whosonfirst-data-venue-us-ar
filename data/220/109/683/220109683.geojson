@@ -2,13 +2,14 @@
   "id": 220109683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.057869,35.29585,-94.057869,35.29585",
     "geom:latitude":35.29585,
     "geom:longitude":-94.057869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1307 W Main St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":220109683,
-    "wof:lastmodified":1449074295,
+    "wof:lastmodified":1466322371,
     "wof:name":"Forest Medlock Products Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "lumber-used"
     ]
 },
-  "bbox": [-94.057869,35.29585,-94.057869,35.29585],
+  "bbox": [
+    -94.057869,
+    35.29585,
+    -94.057869,
+    35.29585
+],
   "geometry": {"coordinates":[-94.057869,35.29585],"type":"Point"}
 }

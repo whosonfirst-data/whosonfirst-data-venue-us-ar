@@ -2,13 +2,14 @@
   "id": 219593747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.77685,34.578935,-90.77685,34.578935",
     "geom:latitude":34.578935,
     "geom:longitude":-90.77685,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1135 Phillips Road 256",
     "sg:city":"Lexa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219593747,
-    "wof:lastmodified":1449072723,
+    "wof:lastmodified":1466324574,
     "wof:name":"Von Kanel, Jimmy Farm",
     "wof:parent_id":85834075,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.77685,34.578935,-90.77685,34.578935],
+  "bbox": [
+    -90.77685,
+    34.578935,
+    -90.77685,
+    34.578935
+],
   "geometry": {"coordinates":[-90.77685,34.578935],"type":"Point"}
 }

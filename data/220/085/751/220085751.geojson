@@ -2,13 +2,14 @@
   "id": 220085751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.161075,35.443896,-93.161075,35.443896",
     "geom:latitude":35.443896,
     "geom:longitude":-93.161075,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"379 Johnson Rd",
     "sg:city":"Dover",
     "sg:classifiers":[
@@ -80,10 +81,11 @@
         }
     ],
     "wof:id":220085751,
-    "wof:lastmodified":1449074231,
+    "wof:lastmodified":1466321760,
     "wof:name":"Bewley Robert Well Drilling Service",
     "wof:parent_id":85834239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -99,6 +101,11 @@
         "purification"
     ]
 },
-  "bbox": [-93.161075,35.443896,-93.161075,35.443896],
+  "bbox": [
+    -93.161075,
+    35.443896,
+    -93.161075,
+    35.443896
+],
   "geometry": {"coordinates":[-93.161075,35.443896],"type":"Point"}
 }

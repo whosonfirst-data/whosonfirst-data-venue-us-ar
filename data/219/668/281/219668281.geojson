@@ -2,13 +2,14 @@
   "id": 219668281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.21602,36.178321,-91.21602,36.178321",
     "geom:latitude":36.178321,
     "geom:longitude":-91.21602,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3239 Highway 115",
     "sg:city":"Imboden",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219668281,
-    "wof:lastmodified":1449072854,
+    "wof:lastmodified":1466324799,
     "wof:name":"Oury Grip Usa Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "supply"
     ]
 },
-  "bbox": [-91.21602,36.178321,-91.21602,36.178321],
+  "bbox": [
+    -91.21602,
+    36.178321,
+    -91.21602,
+    36.178321
+],
   "geometry": {"coordinates":[-91.21602,36.178321],"type":"Point"}
 }

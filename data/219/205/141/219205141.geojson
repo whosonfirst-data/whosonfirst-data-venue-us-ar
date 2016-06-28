@@ -2,13 +2,14 @@
   "id": 219205141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.187416,33.284136,-93.187416,33.284136",
     "geom:latitude":33.284136,
     "geom:longitude":-93.187416,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 Columbia Rd. 61",
     "sg:city":"Magnolia",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219205141,
-    "wof:lastmodified":1449072525,
+    "wof:lastmodified":1466320914,
     "wof:name":"Pittman Nursery Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "nurseries-plants"
     ]
 },
-  "bbox": [-93.187416,33.284136,-93.187416,33.284136],
+  "bbox": [
+    -93.187416,
+    33.284136,
+    -93.187416,
+    33.284136
+],
   "geometry": {"coordinates":[-93.187416,33.284136],"type":"Point"}
 }

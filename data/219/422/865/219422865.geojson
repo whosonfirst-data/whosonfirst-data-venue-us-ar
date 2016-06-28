@@ -2,13 +2,14 @@
   "id": 219422865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.425338,35.288166,-92.425338,35.288166",
     "geom:latitude":35.288166,
     "geom:longitude":-92.425338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Acres Cir",
     "sg:city":"Greenbrier",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219422865,
-    "wof:lastmodified":1449070634,
+    "wof:lastmodified":1466323042,
     "wof:name":"Acre Farm Equipment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.425338,35.288166,-92.425338,35.288166],
+  "bbox": [
+    -92.425338,
+    35.288166,
+    -92.425338,
+    35.288166
+],
   "geometry": {"coordinates":[-92.425338,35.288166],"type":"Point"}
 }

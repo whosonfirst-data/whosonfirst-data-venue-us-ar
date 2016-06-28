@@ -2,13 +2,14 @@
   "id": 219435727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.12693,34.867748,-92.12693,34.867748",
     "geom:latitude":34.867748,
     "geom:longitude":-92.12693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 T P White Dr",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":219435727,
-    "wof:lastmodified":1449073594,
+    "wof:lastmodified":1466323161,
     "wof:name":"Charlie's Wheel & Tire",
     "wof:parent_id":85852337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-92.12693,34.867748,-92.12693,34.867748],
+  "bbox": [
+    -92.12693,
+    34.867748,
+    -92.12693,
+    34.867748
+],
   "geometry": {"coordinates":[-92.12693,34.867748],"type":"Point"}
 }

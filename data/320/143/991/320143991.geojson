@@ -2,13 +2,14 @@
   "id": 320143991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.200814,34.604734,-94.200814,34.604734",
     "geom:latitude":34.604734,
     "geom:longitude":-94.200814,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"142 Hill Crest Ln",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":320143991,
-    "wof:lastmodified":1449014342,
+    "wof:lastmodified":1466320454,
     "wof:name":"Transcour Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "trucking"
     ]
 },
-  "bbox": [-94.200814,34.604734,-94.200814,34.604734],
-  "geometry": {"coordinates":[-94.200814,34.604734],"type":"Point"}
+  "bbox": [
+    -94.200814,
+    34.604734,
+    -94.200814,
+    34.604734
+],
+  "geometry": {"coordinates":[-94.20081399999999,34.604734],"type":"Point"}
 }

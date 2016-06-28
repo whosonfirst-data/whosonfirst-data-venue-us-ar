@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102310225",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.510674,33.230734,-91.510674,33.230734",
     "geom:latitude":33.230734,
     "geom:longitude":-91.510674,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"224 US Hwy 165 S",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102310225",
-    "wof:lastmodified":1449069241,
+    "wof:lastmodified":1466323188,
     "wof:name":"Scott Tractor Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.510674,33.230734,-91.510674,33.230734],
-  "geometry": {"coordinates":[-91.510674,33.230734],"type":"Point"}
+  "bbox": [
+    -91.510674,
+    33.230734,
+    -91.510674,
+    33.230734
+],
+  "geometry": {"coordinates":[-91.51067399999999,33.230734],"type":"Point"}
 }

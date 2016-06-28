@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102417043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.495776,35.978174,-90.495776,35.978174",
     "geom:latitude":35.978174,
     "geom:longitude":-90.495776,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1850 Greene Rd 912",
     "sg:city":"Paragould",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102417043,
-    "wof:lastmodified":1449068759,
+    "wof:lastmodified":1466325492,
     "wof:name":"Debrosse Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.495776,35.978174,-90.495776,35.978174],
-  "geometry": {"coordinates":[-90.495776,35.978174],"type":"Point"}
+  "bbox": [
+    -90.495776,
+    35.978174,
+    -90.495776,
+    35.978174
+],
+  "geometry": {"coordinates":[-90.49577600000001,35.978174],"type":"Point"}
 }

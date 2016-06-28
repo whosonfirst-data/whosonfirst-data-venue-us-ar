@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102273967",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.278155,34.786639,-92.278155,34.786639",
     "geom:latitude":34.786639,
     "geom:longitude":-92.278155,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3301 Pike Ave",
     "sg:city":"N Little Rock",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837877,
+        85688549,
         85633793,
         85921255,
         102082497,
-        85688549
+        85837877
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102273967",
-    "wof:lastmodified":1449068998,
+    "wof:lastmodified":1466322545,
     "wof:name":"Shawn's One-Stop",
     "wof:parent_id":85837877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.278155,34.786639,-92.278155,34.786639],
+  "bbox": [
+    -92.278155,
+    34.786639,
+    -92.278155,
+    34.786639
+],
   "geometry": {"coordinates":[-92.278155,34.786639],"type":"Point"}
 }

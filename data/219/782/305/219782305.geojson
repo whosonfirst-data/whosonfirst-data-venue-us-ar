@@ -2,13 +2,14 @@
   "id": 219782305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.157158,36.234363,-93.157158,36.234363",
     "geom:latitude":36.234363,
     "geom:longitude":-93.157158,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4981 Highway 392 W",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219782305,
-    "wof:lastmodified":1449070363,
+    "wof:lastmodified":1466324937,
     "wof:name":"Cuts Above",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.157158,36.234363,-93.157158,36.234363],
+  "bbox": [
+    -93.157158,
+    36.234363,
+    -93.157158,
+    36.234363
+],
   "geometry": {"coordinates":[-93.157158,36.234363],"type":"Point"}
 }

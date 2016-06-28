@@ -2,13 +2,14 @@
   "id": 219430681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.368759,34.532516,-92.368759,34.532516",
     "geom:latitude":34.532516,
     "geom:longitude":-92.368759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8201 Oakview Dr",
     "sg:city":"Hensley",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219430681,
-    "wof:lastmodified":1449072633,
+    "wof:lastmodified":1466323104,
     "wof:name":"Tolson Lawn Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-92.368759,34.532516,-92.368759,34.532516],
+  "bbox": [
+    -92.368759,
+    34.532516,
+    -92.368759,
+    34.532516
+],
   "geometry": {"coordinates":[-92.368759,34.532516],"type":"Point"}
 }

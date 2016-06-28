@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102287153",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.366032,34.749671,-92.366032,34.749671",
     "geom:latitude":34.749671,
     "geom:longitude":-92.366032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"411 Sunnymeade Dr",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -33,11 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85808177,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85808177
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":"102287153",
-    "wof:lastmodified":1449067934,
+    "wof:lastmodified":1466322714,
     "wof:name":"J W Enterprises",
     "wof:parent_id":85808177,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.366032,34.749671,-92.366032,34.749671],
+  "bbox": [
+    -92.366032,
+    34.749671,
+    -92.366032,
+    34.749671
+],
   "geometry": {"coordinates":[-92.366032,34.749671],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219916537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.243774,36.041917,-94.243774,36.041917",
     "geom:latitude":36.041917,
     "geom:longitude":-94.243774,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"56 W Main St",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219916537,
-    "wof:lastmodified":1449072306,
+    "wof:lastmodified":1466325127,
     "wof:name":"Commercial Copying",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "copying"
     ]
 },
-  "bbox": [-94.243774,36.041917,-94.243774,36.041917],
+  "bbox": [
+    -94.243774,
+    36.041917,
+    -94.243774,
+    36.041917
+],
   "geometry": {"coordinates":[-94.243774,36.041917],"type":"Point"}
 }

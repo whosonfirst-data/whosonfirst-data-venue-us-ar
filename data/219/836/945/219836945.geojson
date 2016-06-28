@@ -2,13 +2,14 @@
   "id": 219836945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.122839,36.088405,-94.122839,36.088405",
     "geom:latitude":36.088405,
     "geom:longitude":-94.122839,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2668 E Citizens Dr # 1",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":219836945,
-    "wof:lastmodified":1449072716,
+    "wof:lastmodified":1466324932,
     "wof:name":"Burnett's Fitness Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "fitness"
     ]
 },
-  "bbox": [-94.122839,36.088405,-94.122839,36.088405],
+  "bbox": [
+    -94.122839,
+    36.088405,
+    -94.122839,
+    36.088405
+],
   "geometry": {"coordinates":[-94.122839,36.088405],"type":"Point"}
 }

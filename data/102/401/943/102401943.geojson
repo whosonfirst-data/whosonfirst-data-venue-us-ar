@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102401943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.331223,34.294054,-91.331223,34.294054",
     "geom:latitude":34.294054,
     "geom:longitude":-91.331223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"217 S Cedar St",
     "sg:city":"De Witt",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102401943,
-    "wof:lastmodified":1449069808,
+    "wof:lastmodified":1466324876,
     "wof:name":"Union Friends Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.331223,34.294054,-91.331223,34.294054],
-  "geometry": {"coordinates":[-91.331223,34.294054],"type":"Point"}
+  "bbox": [
+    -91.331223,
+    34.294054,
+    -91.331223,
+    34.294054
+],
+  "geometry": {"coordinates":[-91.33122299999999,34.294054],"type":"Point"}
 }

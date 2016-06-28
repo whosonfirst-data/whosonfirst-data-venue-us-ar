@@ -2,13 +2,14 @@
   "id": 219489437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.244057,34.88887,-92.244057,34.88887",
     "geom:latitude":34.88887,
     "geom:longitude":-92.244057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Forest Oaks St",
     "sg:city":"Sherwood",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219489437,
-    "wof:lastmodified":1449072304,
+    "wof:lastmodified":1466323835,
     "wof:name":"Karen Peeler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "services-household"
     ]
 },
-  "bbox": [-92.244057,34.88887,-92.244057,34.88887],
+  "bbox": [
+    -92.244057,
+    34.88887,
+    -92.244057,
+    34.88887
+],
   "geometry": {"coordinates":[-92.244057,34.88887],"type":"Point"}
 }

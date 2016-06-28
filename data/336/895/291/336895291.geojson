@@ -2,13 +2,14 @@
   "id": 336895291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.774594,36.593444,-94.774594,36.593444",
     "geom:latitude":36.593444,
     "geom:longitude":-94.774594,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 S Center St",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":336895291,
-    "wof:lastmodified":1448997401,
+    "wof:lastmodified":1466320462,
     "wof:name":"Action Alternator & Starter",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "vehicle"
     ]
 },
-  "bbox": [-94.774594,36.593444,-94.774594,36.593444],
-  "geometry": {"coordinates":[-94.774594,36.593444],"type":"Point"}
+  "bbox": [
+    -94.774594,
+    36.593444,
+    -94.774594,
+    36.593444
+],
+  "geometry": {"coordinates":[-94.77459399999999,36.593444],"type":"Point"}
 }

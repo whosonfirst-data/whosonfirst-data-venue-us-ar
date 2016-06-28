@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102213115",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.350724,34.762637,-92.350724,34.762637",
     "geom:latitude":34.762637,
     "geom:longitude":-92.350724,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6905 Evergreen Dr",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878753,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85878753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102213115",
-    "wof:lastmodified":1449067781,
+    "wof:lastmodified":1466320917,
     "wof:name":"Mary Ann Phillips Realty",
     "wof:parent_id":85878753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.350724,34.762637,-92.350724,34.762637],
+  "bbox": [
+    -92.350724,
+    34.762637,
+    -92.350724,
+    34.762637
+],
   "geometry": {"coordinates":[-92.350724,34.762637],"type":"Point"}
 }

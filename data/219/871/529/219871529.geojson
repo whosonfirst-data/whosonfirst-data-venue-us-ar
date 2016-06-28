@@ -2,13 +2,14 @@
   "id": 219871529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.256689,36.341338,-94.256689,36.341338",
     "geom:latitude":36.341338,
     "geom:longitude":-94.256689,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1630 Whippoorwill Ln",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219871529,
-    "wof:lastmodified":1449071555,
+    "wof:lastmodified":1466324986,
     "wof:name":"Adr Homes By Roth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "contractor"
     ]
 },
-  "bbox": [-94.256689,36.341338,-94.256689,36.341338],
-  "geometry": {"coordinates":[-94.256689,36.341338],"type":"Point"}
+  "bbox": [
+    -94.256689,
+    36.341338,
+    -94.256689,
+    36.341338
+],
+  "geometry": {"coordinates":[-94.25668899999999,36.341338],"type":"Point"}
 }

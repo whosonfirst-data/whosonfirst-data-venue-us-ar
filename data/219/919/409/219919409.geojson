@@ -2,13 +2,14 @@
   "id": 219919409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.956018,36.430384,-93.956018,36.430384",
     "geom:latitude":36.430384,
     "geom:longitude":-93.956018,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19149 N Highway 127",
     "sg:city":"Garfield",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219919409,
-    "wof:lastmodified":1449073068,
+    "wof:lastmodified":1466325042,
     "wof:name":"Across The Creek Restaurant",
     "wof:parent_id":85895837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "buffet"
     ]
 },
-  "bbox": [-93.956018,36.430384,-93.956018,36.430384],
+  "bbox": [
+    -93.956018,
+    36.430384,
+    -93.956018,
+    36.430384
+],
   "geometry": {"coordinates":[-93.956018,36.430384],"type":"Point"}
 }

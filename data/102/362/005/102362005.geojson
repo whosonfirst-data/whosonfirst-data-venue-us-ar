@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102362005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.971544,35.452105,-91.971544,35.452105",
     "geom:latitude":35.452105,
     "geom:longitude":-91.971544,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"740 River Bluff Rd",
     "sg:city":"Heber Springs",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":102362005,
-    "wof:lastmodified":1449069329,
+    "wof:lastmodified":1466324171,
     "wof:name":"Sam's Service Central",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.971544,35.452105,-91.971544,35.452105],
-  "geometry": {"coordinates":[-91.971544,35.452105],"type":"Point"}
+  "bbox": [
+    -91.971544,
+    35.452105,
+    -91.971544,
+    35.452105
+],
+  "geometry": {"coordinates":[-91.97154399999999,35.452105],"type":"Point"}
 }

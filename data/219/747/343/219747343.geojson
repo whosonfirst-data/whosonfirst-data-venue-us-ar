@@ -2,13 +2,14 @@
   "id": 219747343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.458367,35.702942,-91.458367,35.702942",
     "geom:latitude":35.702942,
     "geom:longitude":-91.458367,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9470 Harrison St",
     "sg:city":"Newark",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":219747343,
-    "wof:lastmodified":1449071036,
+    "wof:lastmodified":1466324911,
     "wof:name":"Ozark Premium Sand",
     "wof:parent_id":85808231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "store"
     ]
 },
-  "bbox": [-91.458367,35.702942,-91.458367,35.702942],
+  "bbox": [
+    -91.458367,
+    35.702942,
+    -91.458367,
+    35.702942
+],
   "geometry": {"coordinates":[-91.458367,35.702942],"type":"Point"}
 }

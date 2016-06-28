@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102250711",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.022449,33.699165,-93.022449,33.699165",
     "geom:latitude":33.699165,
     "geom:longitude":-93.022449,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"321 W Bradley",
     "sg:city":"Chidester",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102250711",
-    "wof:lastmodified":1449069120,
+    "wof:lastmodified":1466321954,
     "wof:name":"Bethel AME Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.022449,33.699165,-93.022449,33.699165],
-  "geometry": {"coordinates":[-93.022449,33.699165],"type":"Point"}
+  "bbox": [
+    -93.022449,
+    33.699165,
+    -93.022449,
+    33.699165
+],
+  "geometry": {"coordinates":[-93.02244899999999,33.699165],"type":"Point"}
 }

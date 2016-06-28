@@ -2,13 +2,14 @@
   "id": 219283775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.089819,34.120526,-93.089819,34.120526",
     "geom:latitude":34.120526,
     "geom:longitude":-93.089819,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 Professional Park Dr",
     "sg:city":"Arkadelphia",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219283775,
-    "wof:lastmodified":1449071450,
+    "wof:lastmodified":1466321600,
     "wof:name":"Taylor Rodgers Turner P",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "public"
     ]
 },
-  "bbox": [-93.089819,34.120526,-93.089819,34.120526],
-  "geometry": {"coordinates":[-93.089819,34.120526],"type":"Point"}
+  "bbox": [
+    -93.089819,
+    34.120526,
+    -93.089819,
+    34.120526
+],
+  "geometry": {"coordinates":[-93.08981900000001,34.120526],"type":"Point"}
 }

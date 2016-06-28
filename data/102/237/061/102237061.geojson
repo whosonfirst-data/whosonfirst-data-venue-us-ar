@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102237061",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.29918,36.177057,-94.29918,36.177057",
     "geom:latitude":36.177057,
     "geom:longitude":-94.29918,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 Musteen Rd",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102237061",
-    "wof:lastmodified":1449067827,
+    "wof:lastmodified":1466321485,
     "wof:name":"Musteen Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.29918,36.177057,-94.29918,36.177057],
-  "geometry": {"coordinates":[-94.29918,36.177057],"type":"Point"}
+  "bbox": [
+    -94.29918,
+    36.177057,
+    -94.29918,
+    36.177057
+],
+  "geometry": {"coordinates":[-94.29918000000001,36.177057],"type":"Point"}
 }

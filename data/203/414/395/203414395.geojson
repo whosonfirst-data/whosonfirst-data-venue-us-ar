@@ -2,13 +2,14 @@
   "id": 203414395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.492362,33.894618,-91.492362,33.894618",
     "geom:latitude":33.894618,
     "geom:longitude":-91.492362,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"141 Clayton Dr",
     "sg:city":"Dumas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203414395,
-    "wof:lastmodified":1449025806,
+    "wof:lastmodified":1466320551,
     "wof:name":"Northview Apartments Dumas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "bureau"
     ]
 },
-  "bbox": [-91.492362,33.894618,-91.492362,33.894618],
+  "bbox": [
+    -91.492362,
+    33.894618,
+    -91.492362,
+    33.894618
+],
   "geometry": {"coordinates":[-91.492362,33.894618],"type":"Point"}
 }

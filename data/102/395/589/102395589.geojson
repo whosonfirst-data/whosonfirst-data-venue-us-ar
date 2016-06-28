@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102395589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.088243,36.36453,-94.088243,36.36453",
     "geom:latitude":36.36453,
     "geom:longitude":-94.088243,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10009 Gramling Rd",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":102395589,
-    "wof:lastmodified":1449069819,
+    "wof:lastmodified":1466324857,
     "wof:name":"William L Jennings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.088243,36.36453,-94.088243,36.36453],
-  "geometry": {"coordinates":[-94.088243,36.36453],"type":"Point"}
+  "bbox": [
+    -94.088243,
+    36.36453,
+    -94.088243,
+    36.36453
+],
+  "geometry": {"coordinates":[-94.08824300000001,36.36453],"type":"Point"}
 }

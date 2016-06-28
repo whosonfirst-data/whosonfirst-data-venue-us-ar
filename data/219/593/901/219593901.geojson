@@ -2,13 +2,14 @@
   "id": 219593901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.698036,34.564159,-90.698036,34.564159",
     "geom:latitude":34.564159,
     "geom:longitude":-90.698036,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Phillips Road 226",
     "sg:city":"Lexa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219593901,
-    "wof:lastmodified":1449072725,
+    "wof:lastmodified":1466324575,
     "wof:name":"Daddy Ray's BBQ",
     "wof:parent_id":85834075,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "barbecue"
     ]
 },
-  "bbox": [-90.698036,34.564159,-90.698036,34.564159],
+  "bbox": [
+    -90.698036,
+    34.564159,
+    -90.698036,
+    34.564159
+],
   "geometry": {"coordinates":[-90.698036,34.564159],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220081677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.430292,35.50722,-93.430292,35.50722",
     "geom:latitude":35.50722,
     "geom:longitude":-93.430292,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2662 Highway 21",
     "sg:city":"Clarksville",
     "sg:classifiers":[
@@ -75,10 +76,11 @@
         }
     ],
     "wof:id":220081677,
-    "wof:lastmodified":1449074269,
+    "wof:lastmodified":1466321626,
     "wof:name":"Blossomberry Nursery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -93,6 +95,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-93.430292,35.50722,-93.430292,35.50722],
-  "geometry": {"coordinates":[-93.430292,35.50722],"type":"Point"}
+  "bbox": [
+    -93.430292,
+    35.50722,
+    -93.430292,
+    35.50722
+],
+  "geometry": {"coordinates":[-93.43029199999999,35.50722],"type":"Point"}
 }

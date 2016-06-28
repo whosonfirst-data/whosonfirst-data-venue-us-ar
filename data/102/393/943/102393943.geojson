@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102393943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.621186,35.806313,-90.621186,35.806313",
     "geom:latitude":35.806313,
     "geom:longitude":-90.621186,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6105 C W Post Rd",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102393943,
-    "wof:lastmodified":1449068538,
+    "wof:lastmodified":1466324705,
     "wof:name":"Douglas Northeast Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.621186,35.806313,-90.621186,35.806313],
-  "geometry": {"coordinates":[-90.621186,35.806313],"type":"Point"}
+  "bbox": [
+    -90.621186,
+    35.806313,
+    -90.621186,
+    35.806313
+],
+  "geometry": {"coordinates":[-90.62118599999999,35.806313],"type":"Point"}
 }

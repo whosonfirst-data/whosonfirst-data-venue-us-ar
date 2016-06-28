@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102408715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.661881,35.679829,-91.661881,35.679829",
     "geom:latitude":35.679829,
     "geom:longitude":-91.661881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"289 Baker School Rd",
     "sg:city":"Batesville",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":102408715,
-    "wof:lastmodified":1449068107,
+    "wof:lastmodified":1466325215,
     "wof:name":"John L Fulcher Jr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.661881,35.679829,-91.661881,35.679829],
-  "geometry": {"coordinates":[-91.661881,35.679829],"type":"Point"}
+  "bbox": [
+    -91.661881,
+    35.679829,
+    -91.661881,
+    35.679829
+],
+  "geometry": {"coordinates":[-91.66188099999999,35.679829],"type":"Point"}
 }

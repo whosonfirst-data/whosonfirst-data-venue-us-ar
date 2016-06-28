@@ -2,13 +2,14 @@
   "id": 203401859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.197449,33.641682,-92.197449,33.641682",
     "geom:latitude":33.641682,
     "geom:longitude":-92.197449,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1263 Bradley Road 16",
     "sg:city":"Banks",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203401859,
-    "wof:lastmodified":1449026567,
+    "wof:lastmodified":1466320508,
     "wof:name":"Adams Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "contractors-commercial"
     ]
 },
-  "bbox": [-92.197449,33.641682,-92.197449,33.641682],
-  "geometry": {"coordinates":[-92.197449,33.641682],"type":"Point"}
+  "bbox": [
+    -92.197449,
+    33.641682,
+    -92.197449,
+    33.641682
+],
+  "geometry": {"coordinates":[-92.19744900000001,33.641682],"type":"Point"}
 }

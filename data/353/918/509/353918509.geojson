@@ -2,13 +2,14 @@
   "id": 353918509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.10247,34.536769,-94.10247,34.536769",
     "geom:latitude":34.536769,
     "geom:longitude":-94.10247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4023 State Hwy 8",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":353918509,
-    "wof:lastmodified":1449019971,
+    "wof:lastmodified":1466320547,
     "wof:name":"Mena Roofing Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-94.10247,34.536769,-94.10247,34.536769],
+  "bbox": [
+    -94.10247,
+    34.536769,
+    -94.10247,
+    34.536769
+],
   "geometry": {"coordinates":[-94.10247,34.536769],"type":"Point"}
 }

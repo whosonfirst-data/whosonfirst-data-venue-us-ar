@@ -2,13 +2,14 @@
   "id": 219199783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.412169,33.812987,-92.412169,33.812987",
     "geom:latitude":33.812987,
     "geom:longitude":-92.412169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 E 3rd St",
     "sg:city":"Fordyce",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219199783,
-    "wof:lastmodified":1449070752,
+    "wof:lastmodified":1466320865,
     "wof:name":"O'mary & O'mary Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "accountants-certified"
     ]
 },
-  "bbox": [-92.412169,33.812987,-92.412169,33.812987],
-  "geometry": {"coordinates":[-92.412169,33.812987],"type":"Point"}
+  "bbox": [
+    -92.412169,
+    33.812987,
+    -92.412169,
+    33.812987
+],
+  "geometry": {"coordinates":[-92.41216900000001,33.812987],"type":"Point"}
 }

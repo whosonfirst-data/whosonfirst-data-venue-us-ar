@@ -2,13 +2,14 @@
   "id": 235947217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.767856,36.593456,-94.767856,36.593456",
     "geom:latitude":36.593456,
     "geom:longitude":-94.767856,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"149 E 3rd St",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":235947217,
-    "wof:lastmodified":1449008502,
+    "wof:lastmodified":1466320422,
     "wof:name":"Westside Tire",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-94.767856,36.593456,-94.767856,36.593456],
-  "geometry": {"coordinates":[-94.767856,36.593456],"type":"Point"}
+  "bbox": [
+    -94.767856,
+    36.593456,
+    -94.767856,
+    36.593456
+],
+  "geometry": {"coordinates":[-94.76785599999999,36.593456],"type":"Point"}
 }

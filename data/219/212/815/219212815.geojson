@@ -2,13 +2,14 @@
   "id": 219212815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.236178,33.257145,-93.236178,33.257145",
     "geom:latitude":33.257145,
     "geom:longitude":-93.236178,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1321 S Jackson",
     "sg:city":"Magnolia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219212815,
-    "wof:lastmodified":1449072671,
+    "wof:lastmodified":1466320984,
     "wof:name":"Eastex Tower, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "erectors"
     ]
 },
-  "bbox": [-93.236178,33.257145,-93.236178,33.257145],
+  "bbox": [
+    -93.236178,
+    33.257145,
+    -93.236178,
+    33.257145
+],
   "geometry": {"coordinates":[-93.236178,33.257145],"type":"Point"}
 }

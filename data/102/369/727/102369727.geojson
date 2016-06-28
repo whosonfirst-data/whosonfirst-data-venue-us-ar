@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102369727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.005237,34.229535,-92.005237,34.229535",
     "geom:latitude":34.229535,
     "geom:longitude":-92.005237,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"217 W Barraque St",
     "sg:city":"Pine Bluff",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102369727,
-    "wof:lastmodified":1449070078,
+    "wof:lastmodified":1466324481,
     "wof:name":"Arkansas Massage Connection",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.005237,34.229535,-92.005237,34.229535],
-  "geometry": {"coordinates":[-92.005237,34.229535],"type":"Point"}
+  "bbox": [
+    -92.005237,
+    34.229535,
+    -92.005237,
+    34.229535
+],
+  "geometry": {"coordinates":[-92.00523699999999,34.229535],"type":"Point"}
 }

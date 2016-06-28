@@ -2,13 +2,14 @@
   "id": 219799597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.533182,36.376252,-92.533182,36.376252",
     "geom:latitude":36.376252,
     "geom:longitude":-92.533182,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"71 Trimble Flats Rd",
     "sg:city":"Lakeview",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219799597,
-    "wof:lastmodified":1449073940,
+    "wof:lastmodified":1466324951,
     "wof:name":"Partree Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "contractor"
     ]
 },
-  "bbox": [-92.533182,36.376252,-92.533182,36.376252],
+  "bbox": [
+    -92.533182,
+    36.376252,
+    -92.533182,
+    36.376252
+],
   "geometry": {"coordinates":[-92.533182,36.376252],"type":"Point"}
 }

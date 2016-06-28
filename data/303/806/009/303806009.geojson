@@ -2,13 +2,14 @@
   "id": 303806009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.221079,34.583077,-94.221079,34.583077",
     "geom:latitude":34.583077,
     "geom:longitude":-94.221079,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 Geyer Dr",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303806009,
-    "wof:lastmodified":1448998108,
+    "wof:lastmodified":1466320602,
     "wof:name":"Holly Harshman Elementary Schl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "elementary"
     ]
 },
-  "bbox": [-94.221079,34.583077,-94.221079,34.583077],
+  "bbox": [
+    -94.221079,
+    34.583077,
+    -94.221079,
+    34.583077
+],
   "geometry": {"coordinates":[-94.221079,34.583077],"type":"Point"}
 }

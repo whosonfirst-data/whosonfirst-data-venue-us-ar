@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102340239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.045808,36.237891,-94.045808,36.237891",
     "geom:latitude":36.237891,
     "geom:longitude":-94.045808,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15647 State Hwy 264",
     "sg:city":"Lowell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102340239,
-    "wof:lastmodified":1449069645,
+    "wof:lastmodified":1466323791,
     "wof:name":"Hickory Creek Vlntr Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.045808,36.237891,-94.045808,36.237891],
-  "geometry": {"coordinates":[-94.045808,36.237891],"type":"Point"}
+  "bbox": [
+    -94.045808,
+    36.237891,
+    -94.045808,
+    36.237891
+],
+  "geometry": {"coordinates":[-94.04580799999999,36.237891],"type":"Point"}
 }

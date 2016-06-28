@@ -2,13 +2,14 @@
   "id": 303403465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.237536,34.585859,-94.237536,34.585859",
     "geom:latitude":34.585859,
     "geom:longitude":-94.237536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"510 Mena St",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303403465,
-    "wof:lastmodified":1449000219,
+    "wof:lastmodified":1466320465,
     "wof:name":"Mountain Valley Real Estate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.237536,34.585859,-94.237536,34.585859],
-  "geometry": {"coordinates":[-94.237536,34.585859],"type":"Point"}
+  "bbox": [
+    -94.237536,
+    34.585859,
+    -94.237536,
+    34.585859
+],
+  "geometry": {"coordinates":[-94.23753600000001,34.585859],"type":"Point"}
 }

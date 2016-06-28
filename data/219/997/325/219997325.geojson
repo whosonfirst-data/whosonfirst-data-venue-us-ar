@@ -2,13 +2,14 @@
   "id": 219997325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.171061,36.315247,-94.171061,36.315247",
     "geom:latitude":36.315247,
     "geom:longitude":-94.171061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3716 W Cherokee Rd",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219997325,
-    "wof:lastmodified":1449073291,
+    "wof:lastmodified":1466325250,
     "wof:name":"Stockdale Enterprises Funeral",
     "wof:parent_id":85895851,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "embalmer"
     ]
 },
-  "bbox": [-94.171061,36.315247,-94.171061,36.315247],
-  "geometry": {"coordinates":[-94.171061,36.315247],"type":"Point"}
+  "bbox": [
+    -94.171061,
+    36.315247,
+    -94.171061,
+    36.315247
+],
+  "geometry": {"coordinates":[-94.17106099999999,36.315247],"type":"Point"}
 }

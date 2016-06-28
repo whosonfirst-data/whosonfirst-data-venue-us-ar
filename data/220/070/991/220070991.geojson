@@ -2,13 +2,14 @@
   "id": 220070991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.19151,35.334063,-93.19151,35.334063",
     "geom:latitude":35.334063,
     "geom:longitude":-93.19151,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1760 Pleasant View Rd",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220070991,
-    "wof:lastmodified":1449074412,
+    "wof:lastmodified":1466321377,
     "wof:name":"Rook Enterprises Inc",
     "wof:parent_id":85834239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-93.19151,35.334063,-93.19151,35.334063],
-  "geometry": {"coordinates":[-93.19151,35.334063],"type":"Point"}
+  "bbox": [
+    -93.19151,
+    35.334063,
+    -93.19151,
+    35.334063
+],
+  "geometry": {"coordinates":[-93.19150999999999,35.334063],"type":"Point"}
 }

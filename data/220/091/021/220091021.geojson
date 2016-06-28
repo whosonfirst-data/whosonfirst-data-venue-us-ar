@@ -2,13 +2,14 @@
   "id": 220091021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.723572,35.292023,-93.723572,35.292023",
     "geom:latitude":35.292023,
     "geom:longitude":-93.723572,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"707 E Walnut St",
     "sg:city":"Paris",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":220091021,
-    "wof:lastmodified":1449074110,
+    "wof:lastmodified":1466324475,
     "wof:name":"Stephen W Brown",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.723572,35.292023,-93.723572,35.292023],
+  "bbox": [
+    -93.723572,
+    35.292023,
+    -93.723572,
+    35.292023
+],
   "geometry": {"coordinates":[-93.723572,35.292023],"type":"Point"}
 }

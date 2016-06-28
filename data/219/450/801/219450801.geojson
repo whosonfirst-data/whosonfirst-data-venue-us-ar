@@ -2,13 +2,14 @@
   "id": 219450801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.3678,34.606231,-92.3678,34.606231",
     "geom:latitude":34.606231,
     "geom:longitude":-92.3678,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8000 Homestead Dr",
     "sg:city":"Mabelvale",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219450801,
-    "wof:lastmodified":1449073368,
+    "wof:lastmodified":1466323385,
     "wof:name":"Henry B Burton Dr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-92.3678,34.606231,-92.3678,34.606231],
+  "bbox": [
+    -92.3678,
+    34.606231,
+    -92.3678,
+    34.606231
+],
   "geometry": {"coordinates":[-92.3678,34.606231],"type":"Point"}
 }

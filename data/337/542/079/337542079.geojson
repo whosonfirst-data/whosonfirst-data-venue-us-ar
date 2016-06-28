@@ -2,13 +2,14 @@
   "id": 337542079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.480207,36.172056,-94.480207,36.172056",
     "geom:latitude":36.172056,
     "geom:longitude":-94.480207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16855 Digby Dr",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":337542079,
-    "wof:lastmodified":1449027568,
+    "wof:lastmodified":1466324504,
     "wof:name":"Faithful Partners LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.480207,36.172056,-94.480207,36.172056],
-  "geometry": {"coordinates":[-94.480207,36.172056],"type":"Point"}
+  "bbox": [
+    -94.480207,
+    36.172056,
+    -94.480207,
+    36.172056
+],
+  "geometry": {"coordinates":[-94.48020699999999,36.172056],"type":"Point"}
 }

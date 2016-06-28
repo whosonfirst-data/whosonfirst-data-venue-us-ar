@@ -2,13 +2,14 @@
   "id": 219649889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.669561,35.798446,-90.669561,35.798446",
     "geom:latitude":35.798446,
     "geom:longitude":-90.669561,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3620 Stadium Blvd",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -78,10 +79,11 @@
         }
     ],
     "wof:id":219649889,
-    "wof:lastmodified":1449072790,
+    "wof:lastmodified":1466324724,
     "wof:name":"Overhead Door Company Of Northeast Arkansas",
     "wof:parent_id":85836541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -99,6 +101,11 @@
         "doors-operating"
     ]
 },
-  "bbox": [-90.669561,35.798446,-90.669561,35.798446],
+  "bbox": [
+    -90.669561,
+    35.798446,
+    -90.669561,
+    35.798446
+],
   "geometry": {"coordinates":[-90.669561,35.798446],"type":"Point"}
 }

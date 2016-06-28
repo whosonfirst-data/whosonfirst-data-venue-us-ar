@@ -2,13 +2,14 @@
   "id": 235946029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.755536,36.597939,-94.755536,36.597939",
     "geom:latitude":36.597939,
     "geom:longitude":-94.755536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1105 N 3rd St",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":235946029,
-    "wof:lastmodified":1449008569,
+    "wof:lastmodified":1466324412,
     "wof:name":"First Class Collision Center Inc",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "repairing"
     ]
 },
-  "bbox": [-94.755536,36.597939,-94.755536,36.597939],
-  "geometry": {"coordinates":[-94.755536,36.597939],"type":"Point"}
+  "bbox": [
+    -94.755536,
+    36.597939,
+    -94.755536,
+    36.597939
+],
+  "geometry": {"coordinates":[-94.75553600000001,36.597939],"type":"Point"}
 }

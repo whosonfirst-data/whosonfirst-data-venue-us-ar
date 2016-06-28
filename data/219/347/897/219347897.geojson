@@ -2,13 +2,14 @@
   "id": 219347897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.781357,34.665329,-92.781357,34.665329",
     "geom:latitude":34.665329,
     "geom:longitude":-92.781357,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11982 Highway 9",
     "sg:city":"Benton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219347897,
-    "wof:lastmodified":1449072101,
+    "wof:lastmodified":1466322227,
     "wof:name":"Canopies of Arkansas",
     "wof:parent_id":85817531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "canopy"
     ]
 },
-  "bbox": [-92.781357,34.665329,-92.781357,34.665329],
+  "bbox": [
+    -92.781357,
+    34.665329,
+    -92.781357,
+    34.665329
+],
   "geometry": {"coordinates":[-92.781357,34.665329],"type":"Point"}
 }

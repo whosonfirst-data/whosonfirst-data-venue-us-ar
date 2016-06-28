@@ -2,13 +2,14 @@
   "id": 219162919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.794834,33.579449,-91.794834,33.579449",
     "geom:latitude":33.579449,
     "geom:longitude":-91.794834,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"161 Wilson Mill Rd",
     "sg:city":"Monticello",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219162919,
-    "wof:lastmodified":1449073400,
+    "wof:lastmodified":1466320492,
     "wof:name":"Meek Forestry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "consulting"
     ]
 },
-  "bbox": [-91.794834,33.579449,-91.794834,33.579449],
-  "geometry": {"coordinates":[-91.794834,33.579449],"type":"Point"}
+  "bbox": [
+    -91.794834,
+    33.579449,
+    -91.794834,
+    33.579449
+],
+  "geometry": {"coordinates":[-91.79483399999999,33.579449],"type":"Point"}
 }

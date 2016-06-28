@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102366223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.990114,34.546893,-91.990114,34.546893",
     "geom:latitude":34.546893,
     "geom:longitude":-91.990114,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1005 Clear Lake Rd",
     "sg:city":"England",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102366223,
-    "wof:lastmodified":1449069558,
+    "wof:lastmodified":1466324374,
     "wof:name":"KVDW",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.990114,34.546893,-91.990114,34.546893],
-  "geometry": {"coordinates":[-91.990114,34.546893],"type":"Point"}
+  "bbox": [
+    -91.990114,
+    34.546893,
+    -91.990114,
+    34.546893
+],
+  "geometry": {"coordinates":[-91.99011400000001,34.546893],"type":"Point"}
 }

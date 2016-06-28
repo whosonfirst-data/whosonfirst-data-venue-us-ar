@@ -2,13 +2,14 @@
   "id": 220014219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.183637,36.170865,-94.183637,36.170865",
     "geom:latitude":36.170865,
     "geom:longitude":-94.183637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1636 S 48th St",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":220014219,
-    "wof:lastmodified":1449074426,
+    "wof:lastmodified":1466320478,
     "wof:name":"Marketplace Grill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "steak"
     ]
 },
-  "bbox": [-94.183637,36.170865,-94.183637,36.170865],
+  "bbox": [
+    -94.183637,
+    36.170865,
+    -94.183637,
+    36.170865
+],
   "geometry": {"coordinates":[-94.183637,36.170865],"type":"Point"}
 }

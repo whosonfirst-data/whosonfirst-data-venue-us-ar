@@ -2,13 +2,14 @@
   "id": 219163703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.791119,33.625886,-91.791119,33.625886",
     "geom:latitude":33.625886,
     "geom:longitude":-91.791119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 E Jackson Ave",
     "sg:city":"Monticello",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219163703,
-    "wof:lastmodified":1449073833,
+    "wof:lastmodified":1466320498,
     "wof:name":"Southeast Arkansas Regional Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.791119,33.625886,-91.791119,33.625886],
-  "geometry": {"coordinates":[-91.791119,33.625886],"type":"Point"}
+  "bbox": [
+    -91.791119,
+    33.625886,
+    -91.791119,
+    33.625886
+],
+  "geometry": {"coordinates":[-91.79111899999999,33.625886],"type":"Point"}
 }

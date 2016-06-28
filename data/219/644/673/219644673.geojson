@@ -2,13 +2,14 @@
   "id": 219644673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.738943,35.788086,-90.738943,35.788086",
     "geom:latitude":35.788086,
     "geom:longitude":-90.738943,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4604 Summit Ridge Dr",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219644673,
-    "wof:lastmodified":1449072395,
+    "wof:lastmodified":1466324549,
     "wof:name":"Joe Roach",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "law"
     ]
 },
-  "bbox": [-90.738943,35.788086,-90.738943,35.788086],
-  "geometry": {"coordinates":[-90.738943,35.788086],"type":"Point"}
+  "bbox": [
+    -90.738943,
+    35.788086,
+    -90.738943,
+    35.788086
+],
+  "geometry": {"coordinates":[-90.73894300000001,35.788086],"type":"Point"}
 }

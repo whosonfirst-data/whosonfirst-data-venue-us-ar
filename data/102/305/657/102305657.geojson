@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102305657",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.098846,35.28396,-93.098846,35.28396",
     "geom:latitude":35.28396,
     "geom:longitude":-93.098846,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3001 E H St",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102305657",
-    "wof:lastmodified":1449068169,
+    "wof:lastmodified":1466323210,
     "wof:name":"Journey Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.098846,35.28396,-93.098846,35.28396],
-  "geometry": {"coordinates":[-93.098846,35.28396],"type":"Point"}
+  "bbox": [
+    -93.098846,
+    35.28396,
+    -93.098846,
+    35.28396
+],
+  "geometry": {"coordinates":[-93.09884599999999,35.28396],"type":"Point"}
 }

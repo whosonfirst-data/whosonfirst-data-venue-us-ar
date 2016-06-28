@@ -2,13 +2,14 @@
   "id": 219158787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.811481,33.657783,-91.811481,33.657783",
     "geom:latitude":33.657783,
     "geom:longitude":-91.811481,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Pinewood Dr",
     "sg:city":"Monticello",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219158787,
-    "wof:lastmodified":1449072741,
+    "wof:lastmodified":1466320459,
     "wof:name":"Shama Respiratory Service Hme",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "bureau"
     ]
 },
-  "bbox": [-91.811481,33.657783,-91.811481,33.657783],
+  "bbox": [
+    -91.811481,
+    33.657783,
+    -91.811481,
+    33.657783
+],
   "geometry": {"coordinates":[-91.811481,33.657783],"type":"Point"}
 }

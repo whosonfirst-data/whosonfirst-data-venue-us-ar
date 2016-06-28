@@ -2,13 +2,14 @@
   "id": 353995895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.45149,35.284365,-94.45149,35.284365",
     "geom:latitude":35.284365,
     "geom:longitude":-94.45149,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"406 Butler",
     "sg:city":"Pocola",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353995895,
-    "wof:lastmodified":1449020520,
+    "wof:lastmodified":1466320570,
     "wof:name":"Whitmores Barbeque Diner",
     "wof:parent_id":85809847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-94.45149,35.284365,-94.45149,35.284365],
-  "geometry": {"coordinates":[-94.45149,35.284365],"type":"Point"}
+  "bbox": [
+    -94.45149,
+    35.284365,
+    -94.45149,
+    35.284365
+],
+  "geometry": {"coordinates":[-94.45149000000001,35.284365],"type":"Point"}
 }

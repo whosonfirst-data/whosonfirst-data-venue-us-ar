@@ -2,13 +2,14 @@
   "id": 220085665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.110397,35.402599,-93.110397,35.402599",
     "geom:latitude":35.402599,
     "geom:longitude":-93.110397,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"356 E Camp St",
     "sg:city":"Dover",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220085665,
-    "wof:lastmodified":1449074234,
+    "wof:lastmodified":1466321758,
     "wof:name":"Dover 1st Freewill Baptist",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.110397,35.402599,-93.110397,35.402599],
-  "geometry": {"coordinates":[-93.110397,35.402599],"type":"Point"}
+  "bbox": [
+    -93.110397,
+    35.402599,
+    -93.110397,
+    35.402599
+],
+  "geometry": {"coordinates":[-93.11039700000001,35.402599],"type":"Point"}
 }

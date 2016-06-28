@@ -2,13 +2,14 @@
   "id": 219331497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.940927,34.973911,-91.940927,34.973911",
     "geom:latitude":34.973911,
     "geom:longitude":-91.940927,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1661 Ray Sowell Rd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":219331497,
-    "wof:lastmodified":1449072544,
+    "wof:lastmodified":1466322008,
     "wof:name":"Ballard's Fireplace Installation",
     "wof:parent_id":85839277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "coal"
     ]
 },
-  "bbox": [-91.940927,34.973911,-91.940927,34.973911],
+  "bbox": [
+    -91.940927,
+    34.973911,
+    -91.940927,
+    34.973911
+],
   "geometry": {"coordinates":[-91.940927,34.973911],"type":"Point"}
 }

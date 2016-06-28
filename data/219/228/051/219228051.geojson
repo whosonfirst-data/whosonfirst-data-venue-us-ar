@@ -2,13 +2,14 @@
   "id": 219228051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.587051,33.649078,-93.587051,33.649078",
     "geom:latitude":33.649078,
     "geom:longitude":-93.587051,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2001 S Main St",
     "sg:city":"Hope",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":219228051,
-    "wof:lastmodified":1449071497,
+    "wof:lastmodified":1466321156,
     "wof:name":"Jaroslaw Opiela",
     "wof:parent_id":85806015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "surgeons"
     ]
 },
-  "bbox": [-93.587051,33.649078,-93.587051,33.649078],
+  "bbox": [
+    -93.587051,
+    33.649078,
+    -93.587051,
+    33.649078
+],
   "geometry": {"coordinates":[-93.587051,33.649078],"type":"Point"}
 }

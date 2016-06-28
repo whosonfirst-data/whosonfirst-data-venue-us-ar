@@ -2,13 +2,14 @@
   "id": 219383053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.437536,35.092875,-92.437536,35.092875",
     "geom:latitude":35.092875,
     "geom:longitude":-92.437536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1065 Clayton St",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219383053,
-    "wof:lastmodified":1449071876,
+    "wof:lastmodified":1466322700,
     "wof:name":"Conway Coin Laundry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cleaner"
     ]
 },
-  "bbox": [-92.437536,35.092875,-92.437536,35.092875],
-  "geometry": {"coordinates":[-92.437536,35.092875],"type":"Point"}
+  "bbox": [
+    -92.437536,
+    35.092875,
+    -92.437536,
+    35.092875
+],
+  "geometry": {"coordinates":[-92.43753599999999,35.092875],"type":"Point"}
 }

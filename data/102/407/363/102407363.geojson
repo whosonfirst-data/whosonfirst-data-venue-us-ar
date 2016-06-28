@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102407363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.887656,34.502048,-93.887656,34.502048",
     "geom:latitude":34.502048,
     "geom:longitude":-93.887656,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"939 Sulphur Springs Rd",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102407363,
-    "wof:lastmodified":1449069074,
+    "wof:lastmodified":1466324968,
     "wof:name":"Dale Brewer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.887656,34.502048,-93.887656,34.502048],
-  "geometry": {"coordinates":[-93.887656,34.502048],"type":"Point"}
+  "bbox": [
+    -93.887656,
+    34.502048,
+    -93.887656,
+    34.502048
+],
+  "geometry": {"coordinates":[-93.88765600000001,34.502048],"type":"Point"}
 }

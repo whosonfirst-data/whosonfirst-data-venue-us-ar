@@ -2,13 +2,14 @@
   "id": 219624765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.704914,35.840073,-90.704914,35.840073",
     "geom:latitude":35.840073,
     "geom:longitude":-90.704914,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 S Main St",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":219624765,
-    "wof:lastmodified":1449072810,
+    "wof:lastmodified":1466324835,
     "wof:name":"Piero's Restaurant & Club",
     "wof:parent_id":85836541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "pan"
     ]
 },
-  "bbox": [-90.704914,35.840073,-90.704914,35.840073],
+  "bbox": [
+    -90.704914,
+    35.840073,
+    -90.704914,
+    35.840073
+],
   "geometry": {"coordinates":[-90.704914,35.840073],"type":"Point"}
 }

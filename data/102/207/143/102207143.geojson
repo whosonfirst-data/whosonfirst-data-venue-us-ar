@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102207143",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.491228,33.88489,-91.491228,33.88489",
     "geom:latitude":33.88489,
     "geom:longitude":-91.491228,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 S Main St",
     "sg:city":"Dumas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102207143",
-    "wof:lastmodified":1449069485,
+    "wof:lastmodified":1466320788,
     "wof:name":"Hill Seed & Elevator Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.491228,33.88489,-91.491228,33.88489],
-  "geometry": {"coordinates":[-91.491228,33.88489],"type":"Point"}
+  "bbox": [
+    -91.491228,
+    33.88489,
+    -91.491228,
+    33.88489
+],
+  "geometry": {"coordinates":[-91.49122800000001,33.88489],"type":"Point"}
 }

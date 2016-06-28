@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102233723",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.21877,33.276542,-93.21877,33.276542",
     "geom:latitude":33.276542,
     "geom:longitude":-93.21877,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1709 E North St",
     "sg:city":"Magnolia",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102233723",
-    "wof:lastmodified":1449070257,
+    "wof:lastmodified":1466321543,
     "wof:name":"Robert B Taylor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.21877,33.276542,-93.21877,33.276542],
-  "geometry": {"coordinates":[-93.21877,33.276542],"type":"Point"}
+  "bbox": [
+    -93.21877,
+    33.276542,
+    -93.21877,
+    33.276542
+],
+  "geometry": {"coordinates":[-93.21877000000001,33.276542],"type":"Point"}
 }

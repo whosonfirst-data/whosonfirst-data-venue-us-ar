@@ -2,13 +2,14 @@
   "id": 219552347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.552683,34.496279,-91.552683,34.496279",
     "geom:latitude":34.496279,
     "geom:longitude":-91.552683,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"713 S Main St",
     "sg:city":"Stuttgart",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219552347,
-    "wof:lastmodified":1449071863,
+    "wof:lastmodified":1466324352,
     "wof:name":"Stefan A Calloway",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contact"
     ]
 },
-  "bbox": [-91.552683,34.496279,-91.552683,34.496279],
+  "bbox": [
+    -91.552683,
+    34.496279,
+    -91.552683,
+    34.496279
+],
   "geometry": {"coordinates":[-91.552683,34.496279],"type":"Point"}
 }

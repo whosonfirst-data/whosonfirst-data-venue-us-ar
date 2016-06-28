@@ -2,13 +2,14 @@
   "id": 219409951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.502109,35.094449,-92.502109,35.094449",
     "geom:latitude":35.094449,
     "geom:longitude":-92.502109,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4425 Oregon Trl",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219409951,
-    "wof:lastmodified":1449071835,
+    "wof:lastmodified":1466322933,
     "wof:name":"King Septic Tank Cleaning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "septic"
     ]
 },
-  "bbox": [-92.502109,35.094449,-92.502109,35.094449],
+  "bbox": [
+    -92.502109,
+    35.094449,
+    -92.502109,
+    35.094449
+],
   "geometry": {"coordinates":[-92.502109,35.094449],"type":"Point"}
 }

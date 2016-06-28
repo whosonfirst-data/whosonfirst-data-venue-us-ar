@@ -2,13 +2,14 @@
   "id": 219227145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.537787,33.62544,-93.537787,33.62544",
     "geom:latitude":33.62544,
     "geom:longitude":-93.537787,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"522 Highway 32 E",
     "sg:city":"Hope",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219227145,
-    "wof:lastmodified":1449071176,
+    "wof:lastmodified":1466321139,
     "wof:name":"Jerry Watson",
     "wof:parent_id":85820749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-93.537787,33.62544,-93.537787,33.62544],
-  "geometry": {"coordinates":[-93.537787,33.62544],"type":"Point"}
+  "bbox": [
+    -93.537787,
+    33.62544,
+    -93.537787,
+    33.62544
+],
+  "geometry": {"coordinates":[-93.53778699999999,33.62544],"type":"Point"}
 }

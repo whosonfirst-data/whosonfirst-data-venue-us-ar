@@ -2,13 +2,14 @@
   "id": 219769719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.021524,36.310212,-93.021524,36.310212",
     "geom:latitude":36.310212,
     "geom:longitude":-93.021524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7584 Southwest St",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219769719,
-    "wof:lastmodified":1449071566,
+    "wof:lastmodified":1466324925,
     "wof:name":"Hudson's Delivery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delivery"
     ]
 },
-  "bbox": [-93.021524,36.310212,-93.021524,36.310212],
+  "bbox": [
+    -93.021524,
+    36.310212,
+    -93.021524,
+    36.310212
+],
   "geometry": {"coordinates":[-93.021524,36.310212],"type":"Point"}
 }

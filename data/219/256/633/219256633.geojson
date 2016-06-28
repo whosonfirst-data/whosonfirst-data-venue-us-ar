@@ -2,13 +2,14 @@
   "id": 219256633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.030298,33.410846,-94.030298,33.410846",
     "geom:latitude":33.410846,
     "geom:longitude":-94.030298,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1107 East St",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219256633,
-    "wof:lastmodified":1449073089,
+    "wof:lastmodified":1466321381,
     "wof:name":"Silver Dollar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "night"
     ]
 },
-  "bbox": [-94.030298,33.410846,-94.030298,33.410846],
+  "bbox": [
+    -94.030298,
+    33.410846,
+    -94.030298,
+    33.410846
+],
   "geometry": {"coordinates":[-94.030298,33.410846],"type":"Point"}
 }

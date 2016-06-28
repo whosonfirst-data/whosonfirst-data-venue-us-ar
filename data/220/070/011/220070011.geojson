@@ -2,13 +2,14 @@
   "id": 220070011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.076848,35.272971,-93.076848,35.272971",
     "geom:latitude":35.272971,
     "geom:longitude":-93.076848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3848 E Main St",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":220070011,
-    "wof:lastmodified":1449074413,
+    "wof:lastmodified":1466324468,
     "wof:name":"Nabholz Cranes & Rigging",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "rigger"
     ]
 },
-  "bbox": [-93.076848,35.272971,-93.076848,35.272971],
+  "bbox": [
+    -93.076848,
+    35.272971,
+    -93.076848,
+    35.272971
+],
   "geometry": {"coordinates":[-93.076848,35.272971],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219959197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.0391,36.359301,-94.0391,36.359301",
     "geom:latitude":36.359301,
     "geom:longitude":-94.0391,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9919 E High Meadows Dr",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219959197,
-    "wof:lastmodified":1449073566,
+    "wof:lastmodified":1466325207,
     "wof:name":"Medi-Vend Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "supply"
     ]
 },
-  "bbox": [-94.0391,36.359301,-94.0391,36.359301],
+  "bbox": [
+    -94.0391,
+    36.359301,
+    -94.0391,
+    36.359301
+],
   "geometry": {"coordinates":[-94.0391,36.359301],"type":"Point"}
 }

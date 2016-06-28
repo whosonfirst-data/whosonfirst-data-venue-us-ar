@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102231093",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.7613,36.202736,-93.7613,36.202736",
     "geom:latitude":36.202736,
     "geom:longitude":-93.7613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2830 Madison 8350",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":"102231093",
-    "wof:lastmodified":1449068978,
+    "wof:lastmodified":1466321353,
     "wof:name":"David W Chaple",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.7613,36.202736,-93.7613,36.202736],
-  "geometry": {"coordinates":[-93.7613,36.202736],"type":"Point"}
+  "bbox": [
+    -93.7613,
+    36.202736,
+    -93.7613,
+    36.202736
+],
+  "geometry": {"coordinates":[-93.76130000000001,36.202736],"type":"Point"}
 }

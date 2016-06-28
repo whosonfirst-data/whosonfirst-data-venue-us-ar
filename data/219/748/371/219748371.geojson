@@ -2,13 +2,14 @@
   "id": 219748371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.823137,36.367834,-91.823137,36.367834",
     "geom:latitude":36.367834,
     "geom:longitude":-91.823137,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"172 Highway 62 W Ste 1",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219748371,
-    "wof:lastmodified":1449073048,
+    "wof:lastmodified":1466324984,
     "wof:name":"Salem First Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-91.823137,36.367834,-91.823137,36.367834],
+  "bbox": [
+    -91.823137,
+    36.367834,
+    -91.823137,
+    36.367834
+],
   "geometry": {"coordinates":[-91.823137,36.367834],"type":"Point"}
 }

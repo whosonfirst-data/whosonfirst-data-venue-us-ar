@@ -2,13 +2,14 @@
   "id": 219472667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.735155,35.167995,-92.735155,35.167995",
     "geom:latitude":35.167995,
     "geom:longitude":-92.735155,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"703 Brookridge Ln",
     "sg:city":"Morrilton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219472667,
-    "wof:lastmodified":1449070664,
+    "wof:lastmodified":1466323612,
     "wof:name":"Maness Landscaping Co.",
     "wof:parent_id":85850611,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lawn"
     ]
 },
-  "bbox": [-92.735155,35.167995,-92.735155,35.167995],
-  "geometry": {"coordinates":[-92.735155,35.167995],"type":"Point"}
+  "bbox": [
+    -92.735155,
+    35.167995,
+    -92.735155,
+    35.167995
+],
+  "geometry": {"coordinates":[-92.73515500000001,35.167995],"type":"Point"}
 }

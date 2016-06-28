@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102238367",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.176688,35.262816,-93.176688,35.262816",
     "geom:latitude":35.262816,
     "geom:longitude":-93.176688,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1506 Lands End S Pt",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837141,
+        85688549,
         85633793,
         85919515,
         102082511,
-        85688549
+        85837141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102238367",
-    "wof:lastmodified":1449068680,
+    "wof:lastmodified":1466321595,
     "wof:name":"D Wallace Enterprises",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.176688,35.262816,-93.176688,35.262816],
+  "bbox": [
+    -93.176688,
+    35.262816,
+    -93.176688,
+    35.262816
+],
   "geometry": {"coordinates":[-93.176688,35.262816],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102351745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.42819,34.752426,-92.42819,34.752426",
     "geom:latitude":34.752426,
     "geom:longitude":-92.42819,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 Kirby Rd",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102082497,
-        85633793,
         85688549,
-        85840773
+        85633793,
+        85840773,
+        102082497
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102351745,
-    "wof:lastmodified":1449069810,
+    "wof:lastmodified":1466324109,
     "wof:name":"Parkway Place Presbyterian",
     "wof:parent_id":85840773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.42819,34.752426,-92.42819,34.752426],
+  "bbox": [
+    -92.42819,
+    34.752426,
+    -92.42819,
+    34.752426
+],
   "geometry": {"coordinates":[-92.42819,34.752426],"type":"Point"}
 }

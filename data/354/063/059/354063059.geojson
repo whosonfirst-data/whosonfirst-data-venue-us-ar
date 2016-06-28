@@ -2,13 +2,14 @@
   "id": 354063059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.800162,36.582774,-94.800162,36.582774",
     "geom:latitude":36.582774,
     "geom:longitude":-94.800162,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2620 W 13th St",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354063059,
-    "wof:lastmodified":1449066076,
+    "wof:lastmodified":1466324498,
     "wof:name":"Honeycreek Retirement Village",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-94.800162,36.582774,-94.800162,36.582774],
+  "bbox": [
+    -94.800162,
+    36.582774,
+    -94.800162,
+    36.582774
+],
   "geometry": {"coordinates":[-94.800162,36.582774],"type":"Point"}
 }

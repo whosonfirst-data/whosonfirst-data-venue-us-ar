@@ -2,13 +2,14 @@
   "id": 219445301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.642632,35.28255,-91.642632,35.28255",
     "geom:latitude":35.28255,
     "geom:longitude":-91.642632,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 Highway 367 N",
     "sg:city":"Judsonia",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219445301,
-    "wof:lastmodified":1449070867,
+    "wof:lastmodified":1466323310,
     "wof:name":"The Pruitt Agency Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "analyst"
     ]
 },
-  "bbox": [-91.642632,35.28255,-91.642632,35.28255],
-  "geometry": {"coordinates":[-91.642632,35.28255],"type":"Point"}
+  "bbox": [
+    -91.642632,
+    35.28255,
+    -91.642632,
+    35.28255
+],
+  "geometry": {"coordinates":[-91.64263200000001,35.28255],"type":"Point"}
 }

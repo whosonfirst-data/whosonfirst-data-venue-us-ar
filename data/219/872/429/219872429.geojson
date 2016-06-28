@@ -2,13 +2,14 @@
   "id": 219872429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.217474,36.335503,-94.217474,36.335503",
     "geom:latitude":36.335503,
     "geom:longitude":-94.217474,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"689 SW Regional Airport Blvd",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219872429,
-    "wof:lastmodified":1449070706,
+    "wof:lastmodified":1466325146,
     "wof:name":"Whiteoak Station No 36",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.217474,36.335503,-94.217474,36.335503],
+  "bbox": [
+    -94.217474,
+    36.335503,
+    -94.217474,
+    36.335503
+],
   "geometry": {"coordinates":[-94.217474,36.335503],"type":"Point"}
 }

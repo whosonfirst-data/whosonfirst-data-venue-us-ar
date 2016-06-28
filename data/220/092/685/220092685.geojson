@@ -2,13 +2,14 @@
   "id": 220092685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.663905,35.26904,-93.663905,35.26904",
     "geom:latitude":35.26904,
     "geom:longitude":-93.663905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1324 Greasy Valley Rd",
     "sg:city":"Paris",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":220092685,
-    "wof:lastmodified":1449074700,
+    "wof:lastmodified":1466321976,
     "wof:name":"Harmony Assembly of God Parsonage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "churches-assemblies"
     ]
 },
-  "bbox": [-93.663905,35.26904,-93.663905,35.26904],
+  "bbox": [
+    -93.663905,
+    35.26904,
+    -93.663905,
+    35.26904
+],
   "geometry": {"coordinates":[-93.663905,35.26904],"type":"Point"}
 }

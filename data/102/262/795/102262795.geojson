@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102262795",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.198019,34.826785,-92.198019,34.826785",
     "geom:latitude":34.826785,
     "geom:longitude":-92.198019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 Pineview Ave",
     "sg:city":"Sherwood",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837729,
+        85688549,
         85633793,
         85921251,
         102082497,
-        85688549
+        85837729
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102262795",
-    "wof:lastmodified":1449069252,
+    "wof:lastmodified":1466322255,
     "wof:name":"Mission Of Hope Christian Ctr",
     "wof:parent_id":85837729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.198019,34.826785,-92.198019,34.826785],
+  "bbox": [
+    -92.198019,
+    34.826785,
+    -92.198019,
+    34.826785
+],
   "geometry": {"coordinates":[-92.198019,34.826785],"type":"Point"}
 }

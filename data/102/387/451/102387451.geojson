@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102387451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.381656,33.803004,-93.381656,33.803004",
     "geom:latitude":33.803004,
     "geom:longitude":-93.381656,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 W Main St",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102387451,
-    "wof:lastmodified":1449069846,
+    "wof:lastmodified":1466323625,
     "wof:name":"Nevada County Branch Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.381656,33.803004,-93.381656,33.803004],
-  "geometry": {"coordinates":[-93.381656,33.803004],"type":"Point"}
+  "bbox": [
+    -93.381656,
+    33.803004,
+    -93.381656,
+    33.803004
+],
+  "geometry": {"coordinates":[-93.38165600000001,33.803004],"type":"Point"}
 }

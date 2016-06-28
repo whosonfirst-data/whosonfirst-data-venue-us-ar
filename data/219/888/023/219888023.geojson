@@ -2,13 +2,14 @@
   "id": 219888023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.221207,36.382955,-94.221207,36.382955",
     "geom:latitude":36.382955,
     "geom:longitude":-94.221207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1019 N Walton Blvd",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":219888023,
-    "wof:lastmodified":1449072600,
+    "wof:lastmodified":1466325169,
     "wof:name":"Bob Morey's Auto Body",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "repairing"
     ]
 },
-  "bbox": [-94.221207,36.382955,-94.221207,36.382955],
-  "geometry": {"coordinates":[-94.221207,36.382955],"type":"Point"}
+  "bbox": [
+    -94.221207,
+    36.382955,
+    -94.221207,
+    36.382955
+],
+  "geometry": {"coordinates":[-94.22120700000001,36.382955],"type":"Point"}
 }

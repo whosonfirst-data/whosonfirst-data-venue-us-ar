@@ -2,13 +2,14 @@
   "id": 320179709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.539128,36.172493,-94.539128,36.172493",
     "geom:latitude":36.172493,
     "geom:longitude":-94.539128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"351 Hwy 412 E",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320179709,
-    "wof:lastmodified":1449014579,
+    "wof:lastmodified":1466320468,
     "wof:name":"Car-Mart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-94.539128,36.172493,-94.539128,36.172493],
-  "geometry": {"coordinates":[-94.539128,36.172493],"type":"Point"}
+  "bbox": [
+    -94.539128,
+    36.172493,
+    -94.539128,
+    36.172493
+],
+  "geometry": {"coordinates":[-94.53912800000001,36.172493],"type":"Point"}
 }

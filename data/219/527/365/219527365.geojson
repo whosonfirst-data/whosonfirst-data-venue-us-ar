@@ -2,13 +2,14 @@
   "id": 219527365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.728078,35.224154,-91.728078,35.224154",
     "geom:latitude":35.224154,
     "geom:longitude":-91.728078,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Blackgum Ln",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219527365,
-    "wof:lastmodified":1449073201,
+    "wof:lastmodified":1466324161,
     "wof:name":"T R S Recovery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.728078,35.224154,-91.728078,35.224154],
+  "bbox": [
+    -91.728078,
+    35.224154,
+    -91.728078,
+    35.224154
+],
   "geometry": {"coordinates":[-91.728078,35.224154],"type":"Point"}
 }

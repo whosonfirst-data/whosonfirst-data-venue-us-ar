@@ -2,13 +2,14 @@
   "id": 219925111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.356404,36.35225,-94.356404,36.35225",
     "geom:latitude":36.35225,
     "geom:longitude":-94.356404,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14498 Bethlehem Rd",
     "sg:city":"Gravette",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219925111,
-    "wof:lastmodified":1449070403,
+    "wof:lastmodified":1466325057,
     "wof:name":"Nelson Heating Air",
     "wof:parent_id":85853527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-94.356404,36.35225,-94.356404,36.35225],
+  "bbox": [
+    -94.356404,
+    36.35225,
+    -94.356404,
+    36.35225
+],
   "geometry": {"coordinates":[-94.356404,36.35225],"type":"Point"}
 }

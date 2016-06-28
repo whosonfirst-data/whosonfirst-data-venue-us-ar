@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102430277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.426786,35.836083,-94.426786,35.836083",
     "geom:latitude":35.836083,
     "geom:longitude":-94.426786,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19001 Hale Mountain Rd",
     "sg:city":"Canehill",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102430277,
-    "wof:lastmodified":1449069301,
+    "wof:lastmodified":1466325549,
     "wof:name":"Nelson Research Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.426786,35.836083,-94.426786,35.836083],
-  "geometry": {"coordinates":[-94.426786,35.836083],"type":"Point"}
+  "bbox": [
+    -94.426786,
+    35.836083,
+    -94.426786,
+    35.836083
+],
+  "geometry": {"coordinates":[-94.42678600000001,35.836083],"type":"Point"}
 }

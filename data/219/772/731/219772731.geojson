@@ -2,13 +2,14 @@
   "id": 219772731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.117194,36.233917,-93.117194,36.233917",
     "geom:latitude":36.233917,
     "geom:longitude":-93.117194,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"411 N Oak St",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219772731,
-    "wof:lastmodified":1449071982,
+    "wof:lastmodified":1466325009,
     "wof:name":"Tat Cash Flow",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "check"
     ]
 },
-  "bbox": [-93.117194,36.233917,-93.117194,36.233917],
+  "bbox": [
+    -93.117194,
+    36.233917,
+    -93.117194,
+    36.233917
+],
   "geometry": {"coordinates":[-93.117194,36.233917],"type":"Point"}
 }

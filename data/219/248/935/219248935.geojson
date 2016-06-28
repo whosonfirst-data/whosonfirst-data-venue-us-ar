@@ -2,13 +2,14 @@
   "id": 219248935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.846943,33.950582,-93.846943,33.950582",
     "geom:latitude":33.950582,
     "geom:longitude":-93.846943,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"620 N Main St",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219248935,
-    "wof:lastmodified":1449072316,
+    "wof:lastmodified":1466321324,
     "wof:name":"Stephanie & Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.846943,33.950582,-93.846943,33.950582],
+  "bbox": [
+    -93.846943,
+    33.950582,
+    -93.846943,
+    33.950582
+],
   "geometry": {"coordinates":[-93.846943,33.950582],"type":"Point"}
 }

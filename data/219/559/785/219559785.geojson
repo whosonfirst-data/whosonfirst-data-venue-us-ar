@@ -2,13 +2,14 @@
   "id": 219559785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.250871,35.092303,-92.250871,35.092303",
     "geom:latitude":35.092303,
     "geom:longitude":-92.250871,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Ridgewood Loop",
     "sg:city":"Vilonia",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219559785,
-    "wof:lastmodified":1449073160,
+    "wof:lastmodified":1466324402,
     "wof:name":"Fosters Photography",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "wedding"
     ]
 },
-  "bbox": [-92.250871,35.092303,-92.250871,35.092303],
+  "bbox": [
+    -92.250871,
+    35.092303,
+    -92.250871,
+    35.092303
+],
   "geometry": {"coordinates":[-92.250871,35.092303],"type":"Point"}
 }

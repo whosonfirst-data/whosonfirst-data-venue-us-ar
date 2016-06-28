@@ -2,13 +2,14 @@
   "id": 219823607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.986961,35.86842,-93.986961,35.86842",
     "geom:latitude":35.86842,
     "geom:longitude":-93.986961,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16100 Hazel Valley Rd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219823607,
-    "wof:lastmodified":1449073876,
+    "wof:lastmodified":1466324992,
     "wof:name":"H & H Ventures, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "entertainment"
     ]
 },
-  "bbox": [-93.986961,35.86842,-93.986961,35.86842],
-  "geometry": {"coordinates":[-93.986961,35.86842],"type":"Point"}
+  "bbox": [
+    -93.986961,
+    35.86842,
+    -93.986961,
+    35.86842
+],
+  "geometry": {"coordinates":[-93.98696099999999,35.86842],"type":"Point"}
 }

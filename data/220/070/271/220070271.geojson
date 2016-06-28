@@ -2,13 +2,14 @@
   "id": 220070271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.1229,35.318439,-93.1229,35.318439",
     "geom:latitude":35.318439,
     "geom:longitude":-93.1229,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"303 Dodson Ln",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220070271,
-    "wof:lastmodified":1449074411,
+    "wof:lastmodified":1466321363,
     "wof:name":"Mega Coffee Service",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-93.1229,35.318439,-93.1229,35.318439],
+  "bbox": [
+    -93.1229,
+    35.318439,
+    -93.1229,
+    35.318439
+],
   "geometry": {"coordinates":[-93.1229,35.318439],"type":"Point"}
 }

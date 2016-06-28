@@ -2,13 +2,14 @@
   "id": 220025405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.225749,36.208838,-94.225749,36.208838",
     "geom:latitude":36.208838,
     "geom:longitude":-94.225749,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"605 Elm Springs Rd",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220025405,
-    "wof:lastmodified":1449074732,
+    "wof:lastmodified":1466320501,
     "wof:name":"Ncg Repair",
     "wof:parent_id":85885477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "handyman"
     ]
 },
-  "bbox": [-94.225749,36.208838,-94.225749,36.208838],
-  "geometry": {"coordinates":[-94.225749,36.208838],"type":"Point"}
+  "bbox": [
+    -94.225749,
+    36.208838,
+    -94.225749,
+    36.208838
+],
+  "geometry": {"coordinates":[-94.22574899999999,36.208838],"type":"Point"}
 }

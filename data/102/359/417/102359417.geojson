@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102359417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.736485,36.405245,-93.736485,36.405245",
     "geom:latitude":36.405245,
     "geom:longitude":-93.736485,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Inman St",
     "sg:city":"Eureka Springs",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102359417,
-    "wof:lastmodified":1449067740,
+    "wof:lastmodified":1466324227,
     "wof:name":"Eureka Taxi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.736485,36.405245,-93.736485,36.405245],
+  "bbox": [
+    -93.736485,
+    36.405245,
+    -93.736485,
+    36.405245
+],
   "geometry": {"coordinates":[-93.736485,36.405245],"type":"Point"}
 }

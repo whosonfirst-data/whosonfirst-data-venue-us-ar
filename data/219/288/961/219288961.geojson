@@ -2,13 +2,14 @@
   "id": 219288961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.168228,34.310202,-93.168228,34.310202",
     "geom:latitude":34.310202,
     "geom:longitude":-93.168228,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6682 Highway 7",
     "sg:city":"Bismarck",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219288961,
-    "wof:lastmodified":1449070764,
+    "wof:lastmodified":1466321642,
     "wof:name":"Bismarck Lions Den",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.168228,34.310202,-93.168228,34.310202],
+  "bbox": [
+    -93.168228,
+    34.310202,
+    -93.168228,
+    34.310202
+],
   "geometry": {"coordinates":[-93.168228,34.310202],"type":"Point"}
 }

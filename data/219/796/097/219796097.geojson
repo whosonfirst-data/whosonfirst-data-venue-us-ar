@@ -2,13 +2,14 @@
   "id": 219796097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.46983,36.289718,-92.46983,36.289718",
     "geom:latitude":36.289718,
     "geom:longitude":-92.46983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"542 Crest Loop",
     "sg:city":"Gassville",
     "sg:classifiers":[
@@ -68,10 +69,11 @@
         }
     ],
     "wof:id":219796097,
-    "wof:lastmodified":1449072060,
+    "wof:lastmodified":1466324949,
     "wof:name":"Charles Castle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -86,6 +88,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-92.46983,36.289718,-92.46983,36.289718],
+  "bbox": [
+    -92.46983,
+    36.289718,
+    -92.46983,
+    36.289718
+],
   "geometry": {"coordinates":[-92.46983,36.289718],"type":"Point"}
 }

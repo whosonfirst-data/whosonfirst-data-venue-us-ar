@@ -2,13 +2,14 @@
   "id": 219746009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.914986,36.066046,-91.914986,36.066046",
     "geom:latitude":36.066046,
     "geom:longitude":-91.914986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1058 West St",
     "sg:city":"Melbourne",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219746009,
-    "wof:lastmodified":1449070352,
+    "wof:lastmodified":1466324903,
     "wof:name":"Counce Auto Salvage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "part"
     ]
 },
-  "bbox": [-91.914986,36.066046,-91.914986,36.066046],
+  "bbox": [
+    -91.914986,
+    36.066046,
+    -91.914986,
+    36.066046
+],
   "geometry": {"coordinates":[-91.914986,36.066046],"type":"Point"}
 }

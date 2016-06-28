@@ -2,13 +2,14 @@
   "id": 337291269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.836853,34.349522,-92.836853,34.349522",
     "geom:latitude":34.349522,
     "geom:longitude":-92.836853,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Walco Ln",
     "sg:city":"Malvern",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337291269,
-    "wof:lastmodified":1449027193,
+    "wof:lastmodified":1466322083,
     "wof:name":"Arkansas Department Of Correction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "government-state"
     ]
 },
-  "bbox": [-92.836853,34.349522,-92.836853,34.349522],
+  "bbox": [
+    -92.836853,
+    34.349522,
+    -92.836853,
+    34.349522
+],
   "geometry": {"coordinates":[-92.836853,34.349522],"type":"Point"}
 }

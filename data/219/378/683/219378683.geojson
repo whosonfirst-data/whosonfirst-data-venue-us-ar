@@ -2,13 +2,14 @@
   "id": 219378683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.311859,35.138265,-92.311859,35.138265",
     "geom:latitude":35.138265,
     "geom:longitude":-92.311859,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Happy Hills Rd",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219378683,
-    "wof:lastmodified":1449072769,
+    "wof:lastmodified":1466322662,
     "wof:name":"Taco Place",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.311859,35.138265,-92.311859,35.138265],
+  "bbox": [
+    -92.311859,
+    35.138265,
+    -92.311859,
+    35.138265
+],
   "geometry": {"coordinates":[-92.311859,35.138265],"type":"Point"}
 }

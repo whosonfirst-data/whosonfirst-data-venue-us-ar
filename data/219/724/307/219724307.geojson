@@ -2,13 +2,14 @@
   "id": 219724307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.072691,35.727828,-91.072691,35.727828",
     "geom:latitude":35.727828,
     "geom:longitude":-91.072691,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1011 Jackson Road 74",
     "sg:city":"Tuckerman",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219724307,
-    "wof:lastmodified":1449073840,
+    "wof:lastmodified":1466324883,
     "wof:name":"Boyce Victory",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rice"
     ]
 },
-  "bbox": [-91.072691,35.727828,-91.072691,35.727828],
-  "geometry": {"coordinates":[-91.072691,35.727828],"type":"Point"}
+  "bbox": [
+    -91.072691,
+    35.727828,
+    -91.072691,
+    35.727828
+],
+  "geometry": {"coordinates":[-91.07269100000001,35.727828],"type":"Point"}
 }

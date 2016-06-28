@@ -2,13 +2,14 @@
   "id": 219864937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.210006,36.085931,-94.210006,36.085931",
     "geom:latitude":36.085931,
     "geom:longitude":-94.210006,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3518 W Buckeye St",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219864937,
-    "wof:lastmodified":1449073967,
+    "wof:lastmodified":1466325048,
     "wof:name":"Lostetter Holdings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "holding"
     ]
 },
-  "bbox": [-94.210006,36.085931,-94.210006,36.085931],
-  "geometry": {"coordinates":[-94.210006,36.085931],"type":"Point"}
+  "bbox": [
+    -94.210006,
+    36.085931,
+    -94.210006,
+    36.085931
+],
+  "geometry": {"coordinates":[-94.21000600000001,36.085931],"type":"Point"}
 }

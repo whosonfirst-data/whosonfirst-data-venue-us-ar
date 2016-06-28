@@ -2,13 +2,14 @@
   "id": 219716399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.252686,36.236383,-91.252686,36.236383",
     "geom:latitude":36.236383,
     "geom:longitude":-91.252686,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"56 Dickson St",
     "sg:city":"Ravenden",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219716399,
-    "wof:lastmodified":1449070895,
+    "wof:lastmodified":1466324823,
     "wof:name":"Plumb Crazy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractors-commercial"
     ]
 },
-  "bbox": [-91.252686,36.236383,-91.252686,36.236383],
+  "bbox": [
+    -91.252686,
+    36.236383,
+    -91.252686,
+    36.236383
+],
   "geometry": {"coordinates":[-91.252686,36.236383],"type":"Point"}
 }

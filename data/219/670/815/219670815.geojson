@@ -2,13 +2,14 @@
   "id": 219670815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.238214,36.022147,-91.238214,36.022147",
     "geom:latitude":36.022147,
     "geom:longitude":-91.238214,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 S Highway 25",
     "sg:city":"Lynn",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219670815,
-    "wof:lastmodified":1449070916,
+    "wof:lastmodified":1466324594,
     "wof:name":"Ameri Wave Internet Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "bureau"
     ]
 },
-  "bbox": [-91.238214,36.022147,-91.238214,36.022147],
+  "bbox": [
+    -91.238214,
+    36.022147,
+    -91.238214,
+    36.022147
+],
   "geometry": {"coordinates":[-91.238214,36.022147],"type":"Point"}
 }

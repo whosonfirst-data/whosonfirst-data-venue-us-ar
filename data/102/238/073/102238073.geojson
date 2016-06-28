@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102238073",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.46109,35.269199,-90.46109,35.269199",
     "geom:latitude":35.269199,
     "geom:longitude":-90.46109,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 State Hwy 149",
     "sg:city":"Earle",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102238073",
-    "wof:lastmodified":1449068677,
+    "wof:lastmodified":1466321535,
     "wof:name":"Truckstops Of America",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.46109,35.269199,-90.46109,35.269199],
+  "bbox": [
+    -90.46109,
+    35.269199,
+    -90.46109,
+    35.269199
+],
   "geometry": {"coordinates":[-90.46109,35.269199],"type":"Point"}
 }

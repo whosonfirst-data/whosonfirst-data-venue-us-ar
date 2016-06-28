@@ -2,13 +2,14 @@
   "id": 219176121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.018229,33.885885,-92.018229,33.885885",
     "geom:latitude":33.885885,
     "geom:longitude":-92.018229,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12900 Highway 63",
     "sg:city":"Rison",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219176121,
-    "wof:lastmodified":1449072686,
+    "wof:lastmodified":1466320598,
     "wof:name":"A&R Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "broker"
     ]
 },
-  "bbox": [-92.018229,33.885885,-92.018229,33.885885],
-  "geometry": {"coordinates":[-92.018229,33.885885],"type":"Point"}
+  "bbox": [
+    -92.018229,
+    33.885885,
+    -92.018229,
+    33.885885
+],
+  "geometry": {"coordinates":[-92.01822900000001,33.885885],"type":"Point"}
 }

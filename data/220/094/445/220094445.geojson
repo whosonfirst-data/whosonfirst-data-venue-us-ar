@@ -2,13 +2,14 @@
   "id": 220094445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.058802,35.200426,-93.058802,35.200426",
     "geom:latitude":35.200426,
     "geom:longitude":-93.058802,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 Race Rd",
     "sg:city":"Pottsville",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":220094445,
-    "wof:lastmodified":1449074544,
+    "wof:lastmodified":1466322046,
     "wof:name":"Scott Luningham",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-93.058802,35.200426,-93.058802,35.200426],
+  "bbox": [
+    -93.058802,
+    35.200426,
+    -93.058802,
+    35.200426
+],
   "geometry": {"coordinates":[-93.058802,35.200426],"type":"Point"}
 }

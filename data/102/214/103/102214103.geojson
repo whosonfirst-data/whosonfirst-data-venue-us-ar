@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102214103",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.310267,34.76482,-92.310267,34.76482",
     "geom:latitude":34.76482,
     "geom:longitude":-92.310267,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3426 Old Cantrell Rd",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.combsco.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837877,
+        85688549,
         85633793,
         85921255,
         102082497,
-        85688549
+        85837877
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102214103",
-    "wof:lastmodified":1449070139,
+    "wof:lastmodified":1466320941,
     "wof:name":"Combs & Co",
     "wof:parent_id":85837877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.310267,34.76482,-92.310267,34.76482],
+  "bbox": [
+    -92.310267,
+    34.76482,
+    -92.310267,
+    34.76482
+],
   "geometry": {"coordinates":[-92.310267,34.76482],"type":"Point"}
 }

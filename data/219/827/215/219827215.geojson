@@ -2,13 +2,14 @@
   "id": 219827215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.157062,36.076214,-94.157062,36.076214",
     "geom:latitude":36.076214,
     "geom:longitude":-94.157062,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1015 N College Ave",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":219827215,
-    "wof:lastmodified":1449071656,
+    "wof:lastmodified":1466324991,
     "wof:name":"Jack & Holly Martin & Associates Attorneys at Law, P.A.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "bankruptcy"
     ]
 },
-  "bbox": [-94.157062,36.076214,-94.157062,36.076214],
+  "bbox": [
+    -94.157062,
+    36.076214,
+    -94.157062,
+    36.076214
+],
   "geometry": {"coordinates":[-94.157062,36.076214],"type":"Point"}
 }

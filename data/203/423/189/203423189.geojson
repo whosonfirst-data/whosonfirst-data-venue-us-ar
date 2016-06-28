@@ -2,13 +2,14 @@
   "id": 203423189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.712074,34.151952,-91.712074,34.151952",
     "geom:latitude":34.151952,
     "geom:longitude":-91.712074,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1816 Dayton Rd",
     "sg:city":"Grady",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":203423189,
-    "wof:lastmodified":1449025257,
+    "wof:lastmodified":1466320676,
     "wof:name":"M H Bitely Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.712074,34.151952,-91.712074,34.151952],
+  "bbox": [
+    -91.712074,
+    34.151952,
+    -91.712074,
+    34.151952
+],
   "geometry": {"coordinates":[-91.712074,34.151952],"type":"Point"}
 }

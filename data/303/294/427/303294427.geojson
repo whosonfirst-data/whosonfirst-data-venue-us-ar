@@ -2,13 +2,14 @@
   "id": 303294427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.253917,34.587671,-94.253917,34.587671",
     "geom:latitude":34.587671,
     "geom:longitude":-94.253917,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2111 Sutherland Ave",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303294427,
-    "wof:lastmodified":1448999858,
+    "wof:lastmodified":1466320426,
     "wof:name":"Mena First Assembly God Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.253917,34.587671,-94.253917,34.587671],
+  "bbox": [
+    -94.253917,
+    34.587671,
+    -94.253917,
+    34.587671
+],
   "geometry": {"coordinates":[-94.253917,34.587671],"type":"Point"}
 }

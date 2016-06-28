@@ -2,13 +2,14 @@
   "id": 219807839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.293304,35.864206,-92.293304,35.864206",
     "geom:latitude":35.864206,
     "geom:longitude":-92.293304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"937 Pin Oak Ln",
     "sg:city":"Timbo",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219807839,
-    "wof:lastmodified":1449071304,
+    "wof:lastmodified":1466324960,
     "wof:name":"The Hideout",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.293304,35.864206,-92.293304,35.864206],
-  "geometry": {"coordinates":[-92.293304,35.864206],"type":"Point"}
+  "bbox": [
+    -92.293304,
+    35.864206,
+    -92.293304,
+    35.864206
+],
+  "geometry": {"coordinates":[-92.29330400000001,35.864206],"type":"Point"}
 }

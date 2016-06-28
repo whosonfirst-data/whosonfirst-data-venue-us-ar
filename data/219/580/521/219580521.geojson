@@ -2,13 +2,14 @@
   "id": 219580521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.882912,35.928902,-89.882912,35.928902",
     "geom:latitude":35.928902,
     "geom:longitude":-89.882912,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 N Lockard St",
     "sg:city":"Blytheville",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":219580521,
-    "wof:lastmodified":1449072769,
+    "wof:lastmodified":1466324502,
     "wof:name":"Ad Turner's Muffler & Tire",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "muffler"
     ]
 },
-  "bbox": [-89.882912,35.928902,-89.882912,35.928902],
+  "bbox": [
+    -89.882912,
+    35.928902,
+    -89.882912,
+    35.928902
+],
   "geometry": {"coordinates":[-89.882912,35.928902],"type":"Point"}
 }

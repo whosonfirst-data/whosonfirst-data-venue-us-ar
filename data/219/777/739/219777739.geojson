@@ -2,13 +2,14 @@
   "id": 219777739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.025955,36.377323,-93.025955,36.377323",
     "geom:latitude":36.377323,
     "geom:longitude":-93.025955,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13035 Highway 281 N",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219777739,
-    "wof:lastmodified":1449072238,
+    "wof:lastmodified":1466325009,
     "wof:name":"Jackson & Son Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.025955,36.377323,-93.025955,36.377323],
+  "bbox": [
+    -93.025955,
+    36.377323,
+    -93.025955,
+    36.377323
+],
   "geometry": {"coordinates":[-93.025955,36.377323],"type":"Point"}
 }

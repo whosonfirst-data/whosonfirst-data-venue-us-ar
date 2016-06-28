@@ -2,13 +2,14 @@
   "id": 220128231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.783174,35.557371,-93.783174,35.557371",
     "geom:latitude":35.557371,
     "geom:longitude":-93.783174,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11945 New Hope Rd",
     "sg:city":"Ozark",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":220128231,
-    "wof:lastmodified":1449074344,
+    "wof:lastmodified":1466322759,
     "wof:name":"Ozark Computer Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "bureau"
     ]
 },
-  "bbox": [-93.783174,35.557371,-93.783174,35.557371],
+  "bbox": [
+    -93.783174,
+    35.557371,
+    -93.783174,
+    35.557371
+],
   "geometry": {"coordinates":[-93.783174,35.557371],"type":"Point"}
 }

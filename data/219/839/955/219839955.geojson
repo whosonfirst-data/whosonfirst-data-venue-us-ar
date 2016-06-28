@@ -2,13 +2,14 @@
   "id": 219839955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.13774,36.120142,-94.13774,36.120142",
     "geom:latitude":36.120142,
     "geom:longitude":-94.13774,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1670 E Joyce Blvd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -80,10 +81,11 @@
         }
     ],
     "wof:id":219839955,
-    "wof:lastmodified":1449072511,
+    "wof:lastmodified":1466325017,
     "wof:name":"Arkansas Laser Solutions",
     "wof:parent_id":85885433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -98,6 +100,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-94.13774,36.120142,-94.13774,36.120142],
-  "geometry": {"coordinates":[-94.13774,36.120142],"type":"Point"}
+  "bbox": [
+    -94.13774,
+    36.120142,
+    -94.13774,
+    36.120142
+],
+  "geometry": {"coordinates":[-94.13773999999999,36.120142],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102206965",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.846032,35.489681,-93.846032,35.489681",
     "geom:latitude":35.489681,
     "geom:longitude":-93.846032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1906 W Commercial St",
     "sg:city":"Ozark",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102206965",
-    "wof:lastmodified":1449069431,
+    "wof:lastmodified":1466320914,
     "wof:name":"Dollar General",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.846032,35.489681,-93.846032,35.489681],
-  "geometry": {"coordinates":[-93.846032,35.489681],"type":"Point"}
+  "bbox": [
+    -93.846032,
+    35.489681,
+    -93.846032,
+    35.489681
+],
+  "geometry": {"coordinates":[-93.84603199999999,35.489681],"type":"Point"}
 }

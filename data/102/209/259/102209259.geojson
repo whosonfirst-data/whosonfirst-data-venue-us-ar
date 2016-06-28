@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102209259",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.951496,34.273809,-91.951496,34.273809",
     "geom:latitude":34.273809,
     "geom:longitude":-91.951496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3235 Holiday Dr",
     "sg:city":"White Hall",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":"102209259",
-    "wof:lastmodified":1449069934,
+    "wof:lastmodified":1466320843,
     "wof:name":"Wendy Emerson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.951496,34.273809,-91.951496,34.273809],
-  "geometry": {"coordinates":[-91.951496,34.273809],"type":"Point"}
+  "bbox": [
+    -91.951496,
+    34.273809,
+    -91.951496,
+    34.273809
+],
+  "geometry": {"coordinates":[-91.95149600000001,34.273809],"type":"Point"}
 }

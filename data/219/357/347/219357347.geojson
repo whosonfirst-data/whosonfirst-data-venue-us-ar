@@ -2,13 +2,14 @@
   "id": 219357347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.498759,34.623543,-92.498759,34.623543",
     "geom:latitude":34.623543,
     "geom:longitude":-92.498759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 Broadway",
     "sg:city":"Bryant",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219357347,
-    "wof:lastmodified":1449073487,
+    "wof:lastmodified":1466322345,
     "wof:name":"Saline County Farm Bureau",
     "wof:parent_id":85817531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "farm"
     ]
 },
-  "bbox": [-92.498759,34.623543,-92.498759,34.623543],
-  "geometry": {"coordinates":[-92.498759,34.623543],"type":"Point"}
+  "bbox": [
+    -92.498759,
+    34.623543,
+    -92.498759,
+    34.623543
+],
+  "geometry": {"coordinates":[-92.49875900000001,34.623543],"type":"Point"}
 }

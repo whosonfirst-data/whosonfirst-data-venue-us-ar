@@ -2,13 +2,14 @@
   "id": 219941827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.054138,36.27734,-94.054138,36.27734",
     "geom:latitude":36.27734,
     "geom:longitude":-94.054138,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10581 Ervin Mcgarrah Rd",
     "sg:city":"Lowell",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219941827,
-    "wof:lastmodified":1449072494,
+    "wof:lastmodified":1466325176,
     "wof:name":"Go To Guy Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-94.054138,36.27734,-94.054138,36.27734],
-  "geometry": {"coordinates":[-94.054138,36.27734],"type":"Point"}
+  "bbox": [
+    -94.054138,
+    36.27734,
+    -94.054138,
+    36.27734
+],
+  "geometry": {"coordinates":[-94.05413799999999,36.27734],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102323427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.076169,34.496051,-93.076169,34.496051",
     "geom:latitude":34.496051,
     "geom:longitude":-93.076169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"606 Albert Pike Rd",
     "sg:city":"Hot Springs",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102323427,
-    "wof:lastmodified":1449068007,
+    "wof:lastmodified":1466323516,
     "wof:name":"Bedding Gallery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.076169,34.496051,-93.076169,34.496051],
-  "geometry": {"coordinates":[-93.076169,34.496051],"type":"Point"}
+  "bbox": [
+    -93.076169,
+    34.496051,
+    -93.076169,
+    34.496051
+],
+  "geometry": {"coordinates":[-93.07616899999999,34.496051],"type":"Point"}
 }

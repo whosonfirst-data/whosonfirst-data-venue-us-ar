@@ -2,13 +2,14 @@
   "id": 219208427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.303976,33.264201,-93.303976,33.264201",
     "geom:latitude":33.264201,
     "geom:longitude":-93.303976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"510 Highway 371 S",
     "sg:city":"Magnolia",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219208427,
-    "wof:lastmodified":1449070802,
+    "wof:lastmodified":1466320943,
     "wof:name":"Dodson -Tye Mach. Works Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "automobile"
     ]
 },
-  "bbox": [-93.303976,33.264201,-93.303976,33.264201],
-  "geometry": {"coordinates":[-93.303976,33.264201],"type":"Point"}
+  "bbox": [
+    -93.303976,
+    33.264201,
+    -93.303976,
+    33.264201
+],
+  "geometry": {"coordinates":[-93.30397600000001,33.264201],"type":"Point"}
 }

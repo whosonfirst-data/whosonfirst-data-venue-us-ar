@@ -2,13 +2,14 @@
   "id": 219585633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.223735,35.284009,-90.223735,35.284009",
     "geom:latitude":35.284009,
     "geom:longitude":-90.223735,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"263 Welch Rd",
     "sg:city":"Crawfordsville",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":219585633,
-    "wof:lastmodified":1449072737,
+    "wof:lastmodified":1466324761,
     "wof:name":"Welch's A-1 Septic Tank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "tanks-treatment"
     ]
 },
-  "bbox": [-90.223735,35.284009,-90.223735,35.284009],
+  "bbox": [
+    -90.223735,
+    35.284009,
+    -90.223735,
+    35.284009
+],
   "geometry": {"coordinates":[-90.223735,35.284009],"type":"Point"}
 }

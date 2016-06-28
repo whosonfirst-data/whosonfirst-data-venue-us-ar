@@ -2,13 +2,14 @@
   "id": 219363539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.000077,34.988297,-92.000077,34.988297",
     "geom:latitude":34.988297,
     "geom:longitude":-92.000077,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2111 N 2nd St",
     "sg:city":"Cabot",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":219363539,
-    "wof:lastmodified":1449073494,
+    "wof:lastmodified":1466322463,
     "wof:name":"Stedfast Heat & Air",
     "wof:parent_id":85839277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-92.000077,34.988297,-92.000077,34.988297],
+  "bbox": [
+    -92.000077,
+    34.988297,
+    -92.000077,
+    34.988297
+],
   "geometry": {"coordinates":[-92.000077,34.988297],"type":"Point"}
 }

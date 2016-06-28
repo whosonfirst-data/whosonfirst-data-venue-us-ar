@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102344055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.582659,33.631099,-93.582659,33.631099",
     "geom:latitude":33.631099,
     "geom:longitude":-93.582659,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Town Dr",
     "sg:city":"Hope",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102344055,
-    "wof:lastmodified":1449067898,
+    "wof:lastmodified":1466323850,
     "wof:name":"Old Liberty Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.582659,33.631099,-93.582659,33.631099],
-  "geometry": {"coordinates":[-93.582659,33.631099],"type":"Point"}
+  "bbox": [
+    -93.582659,
+    33.631099,
+    -93.582659,
+    33.631099
+],
+  "geometry": {"coordinates":[-93.58265900000001,33.631099],"type":"Point"}
 }

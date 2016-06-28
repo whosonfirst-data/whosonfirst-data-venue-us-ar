@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102373773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.736736,36.084195,-93.736736,36.084195",
     "geom:latitude":36.084195,
     "geom:longitude":-93.736736,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"510 Madison St",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102373773,
-    "wof:lastmodified":1449068988,
+    "wof:lastmodified":1466320789,
     "wof:name":"Missionaries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.736736,36.084195,-93.736736,36.084195],
-  "geometry": {"coordinates":[-93.736736,36.084195],"type":"Point"}
+  "bbox": [
+    -93.736736,
+    36.084195,
+    -93.736736,
+    36.084195
+],
+  "geometry": {"coordinates":[-93.73673599999999,36.084195],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219427733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.578797,34.777652,-91.578797,34.777652",
     "geom:latitude":34.777652,
     "geom:longitude":-91.578797,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"306 S Prairie St",
     "sg:city":"Hazen",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219427733,
-    "wof:lastmodified":1449071461,
+    "wof:lastmodified":1466323080,
     "wof:name":"Gails Beauty Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.578797,34.777652,-91.578797,34.777652],
-  "geometry": {"coordinates":[-91.578797,34.777652],"type":"Point"}
+  "bbox": [
+    -91.578797,
+    34.777652,
+    -91.578797,
+    34.777652
+],
+  "geometry": {"coordinates":[-91.57879699999999,34.777652],"type":"Point"}
 }

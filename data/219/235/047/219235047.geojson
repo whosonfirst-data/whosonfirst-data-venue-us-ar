@@ -2,13 +2,14 @@
   "id": 219235047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.973079,34.097746,-93.973079,34.097746",
     "geom:latitude":34.097746,
     "geom:longitude":-93.973079,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"147 Kirby Farms Rd",
     "sg:city":"Dierks",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219235047,
-    "wof:lastmodified":1449071003,
+    "wof:lastmodified":1466321218,
     "wof:name":"Kirby Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.973079,34.097746,-93.973079,34.097746],
+  "bbox": [
+    -93.973079,
+    34.097746,
+    -93.973079,
+    34.097746
+],
   "geometry": {"coordinates":[-93.973079,34.097746],"type":"Point"}
 }

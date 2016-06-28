@@ -2,13 +2,14 @@
   "id": 235961681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.442744,35.245822,-94.442744,35.245822",
     "geom:latitude":35.245822,
     "geom:longitude":-94.442744,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1703 S Gray St",
     "sg:city":"Pocola",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":235961681,
-    "wof:lastmodified":1449008598,
+    "wof:lastmodified":1466320458,
     "wof:name":"Clara Treat",
     "wof:parent_id":85809847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.442744,35.245822,-94.442744,35.245822],
+  "bbox": [
+    -94.442744,
+    35.245822,
+    -94.442744,
+    35.245822
+],
   "geometry": {"coordinates":[-94.442744,35.245822],"type":"Point"}
 }

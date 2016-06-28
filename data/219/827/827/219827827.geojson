@@ -2,13 +2,14 @@
   "id": 219827827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.157533,36.069937,-94.157533,36.069937",
     "geom:latitude":36.069937,
     "geom:longitude":-94.157533,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 E Maple St",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219827827,
-    "wof:lastmodified":1449071656,
+    "wof:lastmodified":1466325060,
     "wof:name":"Ruby Room Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.157533,36.069937,-94.157533,36.069937],
+  "bbox": [
+    -94.157533,
+    36.069937,
+    -94.157533,
+    36.069937
+],
   "geometry": {"coordinates":[-94.157533,36.069937],"type":"Point"}
 }

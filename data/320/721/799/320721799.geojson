@@ -2,13 +2,14 @@
   "id": 320721799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.222578,34.585676,-94.222578,34.585676",
     "geom:latitude":34.585676,
     "geom:longitude":-94.222578,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Morrow St S",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320721799,
-    "wof:lastmodified":1449014958,
+    "wof:lastmodified":1466320630,
     "wof:name":"PCDC Resale Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "thrift"
     ]
 },
-  "bbox": [-94.222578,34.585676,-94.222578,34.585676],
+  "bbox": [
+    -94.222578,
+    34.585676,
+    -94.222578,
+    34.585676
+],
   "geometry": {"coordinates":[-94.222578,34.585676],"type":"Point"}
 }

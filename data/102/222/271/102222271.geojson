@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102222271",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.432753,36.123275,-90.432753,36.123275",
     "geom:latitude":36.123275,
     "geom:longitude":-90.432753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6115 US Hwy 49 N",
     "sg:city":"Marmaduke",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":"102222271",
-    "wof:lastmodified":1449069398,
+    "wof:lastmodified":1466321182,
     "wof:name":"Halliday Bar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.432753,36.123275,-90.432753,36.123275],
-  "geometry": {"coordinates":[-90.432753,36.123275],"type":"Point"}
+  "bbox": [
+    -90.432753,
+    36.123275,
+    -90.432753,
+    36.123275
+],
+  "geometry": {"coordinates":[-90.43275300000001,36.123275],"type":"Point"}
 }

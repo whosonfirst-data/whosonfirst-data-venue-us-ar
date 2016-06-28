@@ -2,13 +2,14 @@
   "id": 220116827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.810607,35.149868,-93.810607,35.149868",
     "geom:latitude":35.149868,
     "geom:longitude":-93.810607,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"190 E Priddy St",
     "sg:city":"Magazine",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":220116827,
-    "wof:lastmodified":1449074147,
+    "wof:lastmodified":1466322516,
     "wof:name":"Wayne's Auto World",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "cars-wholesale"
     ]
 },
-  "bbox": [-93.810607,35.149868,-93.810607,35.149868],
+  "bbox": [
+    -93.810607,
+    35.149868,
+    -93.810607,
+    35.149868
+],
   "geometry": {"coordinates":[-93.810607,35.149868],"type":"Point"}
 }

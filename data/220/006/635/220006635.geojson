@@ -2,13 +2,14 @@
   "id": 220006635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.194628,36.27343,-94.194628,36.27343",
     "geom:latitude":36.27343,
     "geom:longitude":-94.194628,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4614 Garrett Rd",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":220006635,
-    "wof:lastmodified":1449074683,
+    "wof:lastmodified":1466320466,
     "wof:name":"Ron May Plumbing Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.194628,36.27343,-94.194628,36.27343],
-  "geometry": {"coordinates":[-94.194628,36.27343],"type":"Point"}
+  "bbox": [
+    -94.194628,
+    36.27343,
+    -94.194628,
+    36.27343
+],
+  "geometry": {"coordinates":[-94.19462799999999,36.27343],"type":"Point"}
 }

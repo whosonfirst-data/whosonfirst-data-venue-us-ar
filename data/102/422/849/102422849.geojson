@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102422849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.555163,35.923458,-91.555163,35.923458",
     "geom:latitude":35.923458,
     "geom:longitude":-91.555163,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"149 Wire Ln",
     "sg:city":"Cave City",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102422849,
-    "wof:lastmodified":1449067956,
+    "wof:lastmodified":1466325538,
     "wof:name":"Raymond D Staggs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.555163,35.923458,-91.555163,35.923458],
-  "geometry": {"coordinates":[-91.555163,35.923458],"type":"Point"}
+  "bbox": [
+    -91.555163,
+    35.923458,
+    -91.555163,
+    35.923458
+],
+  "geometry": {"coordinates":[-91.55516299999999,35.923458],"type":"Point"}
 }

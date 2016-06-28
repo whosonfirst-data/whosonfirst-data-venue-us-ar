@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102366737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.583819,36.404666,-90.583819,36.404666",
     "geom:latitude":36.404666,
     "geom:longitude":-90.583819,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"502 Market St",
     "sg:city":"Corning",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102366737,
-    "wof:lastmodified":1449069558,
+    "wof:lastmodified":1466324540,
     "wof:name":"Jays Photography",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.583819,36.404666,-90.583819,36.404666],
-  "geometry": {"coordinates":[-90.583819,36.404666],"type":"Point"}
+  "bbox": [
+    -90.583819,
+    36.404666,
+    -90.583819,
+    36.404666
+],
+  "geometry": {"coordinates":[-90.58381900000001,36.404666],"type":"Point"}
 }

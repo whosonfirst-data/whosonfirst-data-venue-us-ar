@@ -2,13 +2,14 @@
   "id": 220083623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.162598,35.235495,-93.162598,35.235495",
     "geom:latitude":35.235495,
     "geom:longitude":-93.162598,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 Dardanelle Dam Rd",
     "sg:city":"Dardanelle",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220083623,
-    "wof:lastmodified":1449074403,
+    "wof:lastmodified":1466321656,
     "wof:name":"Millard Plumbing & Mechanical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractors-commercial"
     ]
 },
-  "bbox": [-93.162598,35.235495,-93.162598,35.235495],
+  "bbox": [
+    -93.162598,
+    35.235495,
+    -93.162598,
+    35.235495
+],
   "geometry": {"coordinates":[-93.162598,35.235495],"type":"Point"}
 }

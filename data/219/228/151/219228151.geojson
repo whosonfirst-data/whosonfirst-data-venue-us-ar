@@ -2,13 +2,14 @@
   "id": 219228151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.589495,33.660956,-93.589495,33.660956",
     "geom:latitude":33.660956,
     "geom:longitude":-93.589495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"910 S Main St",
     "sg:city":"Hope",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219228151,
-    "wof:lastmodified":1449071495,
+    "wof:lastmodified":1466321158,
     "wof:name":"Anderson Frazier Insurance Agency Of Hope",
     "wof:parent_id":85806015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.589495,33.660956,-93.589495,33.660956],
+  "bbox": [
+    -93.589495,
+    33.660956,
+    -93.589495,
+    33.660956
+],
   "geometry": {"coordinates":[-93.589495,33.660956],"type":"Point"}
 }

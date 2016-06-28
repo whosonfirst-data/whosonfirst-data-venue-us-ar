@@ -2,13 +2,14 @@
   "id": 219232353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.090779,33.632587,-94.090779,33.632587",
     "geom:latitude":33.632587,
     "geom:longitude":-94.090779,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"530 Highway 71 S",
     "sg:city":"Ashdown",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219232353,
-    "wof:lastmodified":1449071534,
+    "wof:lastmodified":1466321193,
     "wof:name":"Affordable Auto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "used"
     ]
 },
-  "bbox": [-94.090779,33.632587,-94.090779,33.632587],
+  "bbox": [
+    -94.090779,
+    33.632587,
+    -94.090779,
+    33.632587
+],
   "geometry": {"coordinates":[-94.090779,33.632587],"type":"Point"}
 }

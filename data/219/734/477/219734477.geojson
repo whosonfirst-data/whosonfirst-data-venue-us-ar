@@ -2,13 +2,14 @@
   "id": 219734477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.641169,35.754687,-91.641169,35.754687",
     "geom:latitude":35.754687,
     "geom:longitude":-91.641169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1037 Batesville Blvd",
     "sg:city":"Batesville",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219734477,
-    "wof:lastmodified":1449073468,
+    "wof:lastmodified":1466324898,
     "wof:name":"Auto Value",
     "wof:parent_id":85808231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-91.641169,35.754687,-91.641169,35.754687],
+  "bbox": [
+    -91.641169,
+    35.754687,
+    -91.641169,
+    35.754687
+],
   "geometry": {"coordinates":[-91.641169,35.754687],"type":"Point"}
 }

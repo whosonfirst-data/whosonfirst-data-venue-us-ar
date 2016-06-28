@@ -2,13 +2,14 @@
   "id": 235947819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.771911,36.595353,-94.771911,36.595353",
     "geom:latitude":36.595353,
     "geom:longitude":-94.771911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 S Broadway St",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":235947819,
-    "wof:lastmodified":1449008501,
+    "wof:lastmodified":1466320436,
     "wof:name":"Ellis-Nichols Funeral Home",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "supply"
     ]
 },
-  "bbox": [-94.771911,36.595353,-94.771911,36.595353],
+  "bbox": [
+    -94.771911,
+    36.595353,
+    -94.771911,
+    36.595353
+],
   "geometry": {"coordinates":[-94.771911,36.595353],"type":"Point"}
 }

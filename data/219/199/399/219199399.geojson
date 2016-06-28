@@ -2,13 +2,14 @@
   "id": 219199399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.412055,33.88227,-92.412055,33.88227",
     "geom:latitude":33.88227,
     "geom:longitude":-92.412055,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3355 Hwy 167 N.",
     "sg:city":"Fordyce",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219199399,
-    "wof:lastmodified":1449070751,
+    "wof:lastmodified":1466320858,
     "wof:name":"S & S Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "power"
     ]
 },
-  "bbox": [-92.412055,33.88227,-92.412055,33.88227],
+  "bbox": [
+    -92.412055,
+    33.88227,
+    -92.412055,
+    33.88227
+],
   "geometry": {"coordinates":[-92.412055,33.88227],"type":"Point"}
 }

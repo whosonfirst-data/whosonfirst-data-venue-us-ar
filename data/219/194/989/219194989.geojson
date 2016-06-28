@@ -2,13 +2,14 @@
   "id": 219194989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.207993,33.122879,-93.207993,33.122879",
     "geom:latitude":33.122879,
     "geom:longitude":-93.207993,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"330 S Columbia Road 9",
     "sg:city":"Emerson",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219194989,
-    "wof:lastmodified":1449073405,
+    "wof:lastmodified":1466320823,
     "wof:name":"G Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.207993,33.122879,-93.207993,33.122879],
+  "bbox": [
+    -93.207993,
+    33.122879,
+    -93.207993,
+    33.122879
+],
   "geometry": {"coordinates":[-93.207993,33.122879],"type":"Point"}
 }

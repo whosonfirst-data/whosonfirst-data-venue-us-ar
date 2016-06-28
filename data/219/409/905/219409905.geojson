@@ -2,13 +2,14 @@
   "id": 219409905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.441803,35.001202,-92.441803,35.001202",
     "geom:latitude":35.001202,
     "geom:longitude":-92.441803,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 North Dr",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219409905,
-    "wof:lastmodified":1449071841,
+    "wof:lastmodified":1466322932,
     "wof:name":"Kellum Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "buildings-pre-cut"
     ]
 },
-  "bbox": [-92.441803,35.001202,-92.441803,35.001202],
-  "geometry": {"coordinates":[-92.441803,35.001202],"type":"Point"}
+  "bbox": [
+    -92.441803,
+    35.001202,
+    -92.441803,
+    35.001202
+],
+  "geometry": {"coordinates":[-92.44180299999999,35.001202],"type":"Point"}
 }

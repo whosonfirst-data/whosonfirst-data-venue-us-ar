@@ -2,13 +2,14 @@
   "id": 219363233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.033714,34.973686,-92.033714,34.973686",
     "geom:latitude":34.973686,
     "geom:longitude":-92.033714,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Canyon Ct",
     "sg:city":"Cabot",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219363233,
-    "wof:lastmodified":1449073493,
+    "wof:lastmodified":1466322456,
     "wof:name":"Cook Enterprises",
     "wof:parent_id":85839277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lithographer"
     ]
 },
-  "bbox": [-92.033714,34.973686,-92.033714,34.973686],
+  "bbox": [
+    -92.033714,
+    34.973686,
+    -92.033714,
+    34.973686
+],
   "geometry": {"coordinates":[-92.033714,34.973686],"type":"Point"}
 }

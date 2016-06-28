@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102378505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.713665,33.763347,-93.713665,33.763347",
     "geom:latitude":33.763347,
     "geom:longitude":-93.713665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 Co Rd 14",
     "sg:city":"Fulton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102378505,
-    "wof:lastmodified":1449069421,
+    "wof:lastmodified":1466321783,
     "wof:name":"John Hearnsberger MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.713665,33.763347,-93.713665,33.763347],
-  "geometry": {"coordinates":[-93.713665,33.763347],"type":"Point"}
+  "bbox": [
+    -93.713665,
+    33.763347,
+    -93.713665,
+    33.763347
+],
+  "geometry": {"coordinates":[-93.71366500000001,33.763347],"type":"Point"}
 }

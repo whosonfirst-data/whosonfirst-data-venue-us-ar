@@ -2,13 +2,14 @@
   "id": 303132403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.967231,36.544408,-94.967231,36.544408",
     "geom:latitude":36.544408,
     "geom:longitude":-94.967231,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"451040 Bill Hardesty Ln",
     "sg:city":"Afton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303132403,
-    "wof:lastmodified":1448999315,
+    "wof:lastmodified":1466323717,
     "wof:name":"Cortrol Process Systems Inc",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pipe"
     ]
 },
-  "bbox": [-94.967231,36.544408,-94.967231,36.544408],
+  "bbox": [
+    -94.967231,
+    36.544408,
+    -94.967231,
+    36.544408
+],
   "geometry": {"coordinates":[-94.967231,36.544408],"type":"Point"}
 }

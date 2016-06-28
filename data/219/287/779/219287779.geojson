@@ -2,13 +2,14 @@
   "id": 219287779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.054805,34.118799,-93.054805,34.118799",
     "geom:latitude":34.118799,
     "geom:longitude":-93.054805,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 S 7th St",
     "sg:city":"Arkadelphia",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":219287779,
-    "wof:lastmodified":1449070595,
+    "wof:lastmodified":1466321633,
     "wof:name":"Jonsered Chain Saws & Power Equipment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "saw"
     ]
 },
-  "bbox": [-93.054805,34.118799,-93.054805,34.118799],
+  "bbox": [
+    -93.054805,
+    34.118799,
+    -93.054805,
+    34.118799
+],
   "geometry": {"coordinates":[-93.054805,34.118799],"type":"Point"}
 }

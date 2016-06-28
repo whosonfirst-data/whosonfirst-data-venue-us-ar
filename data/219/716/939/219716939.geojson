@@ -2,13 +2,14 @@
   "id": 219716939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.292765,36.258786,-90.292765,36.258786",
     "geom:latitude":36.258786,
     "geom:longitude":-90.292765,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 N Main St",
     "sg:city":"Rector",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219716939,
-    "wof:lastmodified":1449070895,
+    "wof:lastmodified":1466324878,
     "wof:name":"Underwood Furniture Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-90.292765,36.258786,-90.292765,36.258786],
+  "bbox": [
+    -90.292765,
+    36.258786,
+    -90.292765,
+    36.258786
+],
   "geometry": {"coordinates":[-90.292765,36.258786],"type":"Point"}
 }

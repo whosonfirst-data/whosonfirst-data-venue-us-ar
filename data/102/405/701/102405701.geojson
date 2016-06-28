@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102405701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.005387,33.431058,-94.005387,33.431058",
     "geom:latitude":33.431058,
     "geom:longitude":-94.005387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1810 L E Gilliland Dr",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102405701,
-    "wof:lastmodified":1449069997,
+    "wof:lastmodified":1466324995,
     "wof:name":"First Tape & Label",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.005387,33.431058,-94.005387,33.431058],
+  "bbox": [
+    -94.005387,
+    33.431058,
+    -94.005387,
+    33.431058
+],
   "geometry": {"coordinates":[-94.005387,33.431058],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102322381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.954135,36.074988,-90.954135,36.074988",
     "geom:latitude":36.074988,
     "geom:longitude":-90.954135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"712 US Hwy 67 N",
     "sg:city":"Walnut Ridge",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":102322381,
-    "wof:lastmodified":1449067741,
+    "wof:lastmodified":1466323464,
     "wof:name":"Ma & Pa's Flea Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.954135,36.074988,-90.954135,36.074988],
-  "geometry": {"coordinates":[-90.954135,36.074988],"type":"Point"}
+  "bbox": [
+    -90.954135,
+    36.074988,
+    -90.954135,
+    36.074988
+],
+  "geometry": {"coordinates":[-90.95413499999999,36.074988],"type":"Point"}
 }

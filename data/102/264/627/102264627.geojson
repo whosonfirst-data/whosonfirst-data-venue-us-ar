@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102264627",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.790967,35.206687,-93.790967,35.206687",
     "geom:latitude":35.206687,
     "geom:longitude":-93.790967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5740 State Hwy 109",
     "sg:city":"Magazine",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":"102264627",
-    "wof:lastmodified":1449069340,
+    "wof:lastmodified":1466322258,
     "wof:name":"Arkotas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.790967,35.206687,-93.790967,35.206687],
-  "geometry": {"coordinates":[-93.790967,35.206687],"type":"Point"}
+  "bbox": [
+    -93.790967,
+    35.206687,
+    -93.790967,
+    35.206687
+],
+  "geometry": {"coordinates":[-93.79096699999999,35.206687],"type":"Point"}
 }

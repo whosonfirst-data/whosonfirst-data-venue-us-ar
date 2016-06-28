@@ -2,13 +2,14 @@
   "id": 219449147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.956841,34.850371,-91.956841,34.850371",
     "geom:latitude":34.850371,
     "geom:longitude":-91.956841,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"989 Johnson Rd",
     "sg:city":"Lonoke",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":219449147,
-    "wof:lastmodified":1449073652,
+    "wof:lastmodified":1466323365,
     "wof:name":"Hopper-Stephens Hatcheries Inc",
     "wof:parent_id":85811577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "aquaculture"
     ]
 },
-  "bbox": [-91.956841,34.850371,-91.956841,34.850371],
+  "bbox": [
+    -91.956841,
+    34.850371,
+    -91.956841,
+    34.850371
+],
   "geometry": {"coordinates":[-91.956841,34.850371],"type":"Point"}
 }

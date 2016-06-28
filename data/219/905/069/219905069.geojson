@@ -2,13 +2,14 @@
   "id": 219905069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.191902,36.342499,-94.191902,36.342499",
     "geom:latitude":36.342499,
     "geom:longitude":-94.191902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1502 SE 28th St",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219905069,
-    "wof:lastmodified":1449071769,
+    "wof:lastmodified":1466325193,
     "wof:name":"Kendall Mark MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cosmetic"
     ]
 },
-  "bbox": [-94.191902,36.342499,-94.191902,36.342499],
+  "bbox": [
+    -94.191902,
+    36.342499,
+    -94.191902,
+    36.342499
+],
   "geometry": {"coordinates":[-94.191902,36.342499],"type":"Point"}
 }

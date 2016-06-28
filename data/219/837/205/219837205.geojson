@@ -2,13 +2,14 @@
   "id": 219837205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.11599,36.105259,-94.11599,36.105259",
     "geom:latitude":36.105259,
     "geom:longitude":-94.11599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3168 E Skillern Rd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219837205,
-    "wof:lastmodified":1449070938,
+    "wof:lastmodified":1466324935,
     "wof:name":"Eggart Investment Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "advisory"
     ]
 },
-  "bbox": [-94.11599,36.105259,-94.11599,36.105259],
+  "bbox": [
+    -94.11599,
+    36.105259,
+    -94.11599,
+    36.105259
+],
   "geometry": {"coordinates":[-94.11599,36.105259],"type":"Point"}
 }

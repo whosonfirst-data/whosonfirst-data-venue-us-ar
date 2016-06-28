@@ -2,13 +2,14 @@
   "id": 220033901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.99475,36.186838,-93.99475,36.186838",
     "geom:latitude":36.186838,
     "geom:longitude":-93.99475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21456 War Eagle Blacktop Rd",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":220033901,
-    "wof:lastmodified":1449074209,
+    "wof:lastmodified":1466320527,
     "wof:name":"Farmsn Homes Of The Ozarks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-93.99475,36.186838,-93.99475,36.186838],
+  "bbox": [
+    -93.99475,
+    36.186838,
+    -93.99475,
+    36.186838
+],
   "geometry": {"coordinates":[-93.99475,36.186838],"type":"Point"}
 }

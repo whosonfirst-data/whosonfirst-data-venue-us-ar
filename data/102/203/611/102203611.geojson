@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102203611",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.165151,36.087118,-94.165151,36.087118",
     "geom:latitude":36.087118,
     "geom:longitude":-94.165151,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1790 N Birch Ave",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885445,
+        85688549,
         85633793,
         85919609,
         102082007,
-        85688549
+        85885445
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102203611",
-    "wof:lastmodified":1449068841,
+    "wof:lastmodified":1466320801,
     "wof:name":"Fayetteville Self-Service Stor",
     "wof:parent_id":85885445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.165151,36.087118,-94.165151,36.087118],
-  "geometry": {"coordinates":[-94.165151,36.087118],"type":"Point"}
+  "bbox": [
+    -94.165151,
+    36.087118,
+    -94.165151,
+    36.087118
+],
+  "geometry": {"coordinates":[-94.16515099999999,36.087118],"type":"Point"}
 }

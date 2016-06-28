@@ -2,13 +2,14 @@
   "id": 219181145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.064304,33.612671,-92.064304,33.612671",
     "geom:latitude":33.612671,
     "geom:longitude":-92.064304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 N Main St",
     "sg:city":"Warren",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219181145,
-    "wof:lastmodified":1449072561,
+    "wof:lastmodified":1466320640,
     "wof:name":"A Formal Affair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-92.064304,33.612671,-92.064304,33.612671],
-  "geometry": {"coordinates":[-92.064304,33.612671],"type":"Point"}
+  "bbox": [
+    -92.064304,
+    33.612671,
+    -92.064304,
+    33.612671
+],
+  "geometry": {"coordinates":[-92.06430400000001,33.612671],"type":"Point"}
 }

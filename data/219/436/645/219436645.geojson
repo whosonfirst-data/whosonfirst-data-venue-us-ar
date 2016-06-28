@@ -2,13 +2,14 @@
   "id": 219436645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.030006,34.845571,-92.030006,34.845571",
     "geom:latitude":34.845571,
     "geom:longitude":-92.030006,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2966 Arkansas Highway 294",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":219436645,
-    "wof:lastmodified":1449073576,
+    "wof:lastmodified":1466323179,
     "wof:name":"Jacksonville Auto Salvage",
     "wof:parent_id":85811577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "engines-supplies"
     ]
 },
-  "bbox": [-92.030006,34.845571,-92.030006,34.845571],
+  "bbox": [
+    -92.030006,
+    34.845571,
+    -92.030006,
+    34.845571
+],
   "geometry": {"coordinates":[-92.030006,34.845571],"type":"Point"}
 }

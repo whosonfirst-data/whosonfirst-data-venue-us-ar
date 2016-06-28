@@ -2,13 +2,14 @@
   "id": 303575479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.479565,35.255581,-94.479565,35.255581",
     "geom:latitude":35.255581,
     "geom:longitude":-94.479565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Victor",
     "sg:city":"Vian",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303575479,
-    "wof:lastmodified":1448998823,
+    "wof:lastmodified":1466320523,
     "wof:name":"Indian Education Dept",
     "wof:parent_id":85809847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "counseling"
     ]
 },
-  "bbox": [-94.479565,35.255581,-94.479565,35.255581],
-  "geometry": {"coordinates":[-94.479565,35.255581],"type":"Point"}
+  "bbox": [
+    -94.479565,
+    35.255581,
+    -94.479565,
+    35.255581
+],
+  "geometry": {"coordinates":[-94.47956499999999,35.255581],"type":"Point"}
 }

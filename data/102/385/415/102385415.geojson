@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102385415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.805597,33.540064,-91.805597,33.540064",
     "geom:latitude":33.540064,
     "geom:longitude":-91.805597,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2289 Hwy 425 S",
     "sg:city":"Monticello",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102385415,
-    "wof:lastmodified":1449069175,
+    "wof:lastmodified":1466323208,
     "wof:name":"Orrell Management Service Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.805597,33.540064,-91.805597,33.540064],
-  "geometry": {"coordinates":[-91.805597,33.540064],"type":"Point"}
+  "bbox": [
+    -91.805597,
+    33.540064,
+    -91.805597,
+    33.540064
+],
+  "geometry": {"coordinates":[-91.80559700000001,33.540064],"type":"Point"}
 }

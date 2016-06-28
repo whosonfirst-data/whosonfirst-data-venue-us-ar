@@ -2,13 +2,14 @@
   "id": 219606265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.928116,34.555432,-90.928116,34.555432",
     "geom:latitude":34.555432,
     "geom:longitude":-90.928116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"941 Highway 1 S",
     "sg:city":"Marvell",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219606265,
-    "wof:lastmodified":1449070935,
+    "wof:lastmodified":1466324825,
     "wof:name":"Frank Griffith",
     "wof:parent_id":85834075,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [-90.928116,34.555432,-90.928116,34.555432],
+  "bbox": [
+    -90.928116,
+    34.555432,
+    -90.928116,
+    34.555432
+],
   "geometry": {"coordinates":[-90.928116,34.555432],"type":"Point"}
 }

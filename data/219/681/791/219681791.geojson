@@ -2,13 +2,14 @@
   "id": 219681791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.523487,36.026248,-90.523487,36.026248",
     "geom:latitude":36.026248,
     "geom:longitude":-90.523487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2908 Linwood Dr",
     "sg:city":"Paragould",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219681791,
-    "wof:lastmodified":1449072553,
+    "wof:lastmodified":1466324629,
     "wof:name":"Roys First & Last Chance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tavern"
     ]
 },
-  "bbox": [-90.523487,36.026248,-90.523487,36.026248],
+  "bbox": [
+    -90.523487,
+    36.026248,
+    -90.523487,
+    36.026248
+],
   "geometry": {"coordinates":[-90.523487,36.026248],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102313155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.132567,33.913579,-93.132567,33.913579",
     "geom:latitude":33.913579,
     "geom:longitude":-93.132567,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1506 Red Spring Rd",
     "sg:city":"Gurdon",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":102313155,
-    "wof:lastmodified":1449067845,
+    "wof:lastmodified":1466323253,
     "wof:name":"James C Davidson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.132567,33.913579,-93.132567,33.913579],
-  "geometry": {"coordinates":[-93.132567,33.913579],"type":"Point"}
+  "bbox": [
+    -93.132567,
+    33.913579,
+    -93.132567,
+    33.913579
+],
+  "geometry": {"coordinates":[-93.13256699999999,33.913579],"type":"Point"}
 }

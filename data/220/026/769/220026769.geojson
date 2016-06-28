@@ -2,13 +2,14 @@
   "id": 220026769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.187027,36.176488,-94.187027,36.176488",
     "geom:latitude":36.176488,
     "geom:longitude":-94.187027,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1112 S 48th St, Suite F-1",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220026769,
-    "wof:lastmodified":1449074516,
+    "wof:lastmodified":1466320506,
     "wof:name":"Driving Academy of NWA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "instruction"
     ]
 },
-  "bbox": [-94.187027,36.176488,-94.187027,36.176488],
+  "bbox": [
+    -94.187027,
+    36.176488,
+    -94.187027,
+    36.176488
+],
   "geometry": {"coordinates":[-94.187027,36.176488],"type":"Point"}
 }

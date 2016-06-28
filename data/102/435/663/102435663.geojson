@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102435663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.473025,34.245737,-93.473025,34.245737",
     "geom:latitude":34.245737,
     "geom:longitude":-93.473025,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1038 Mountain Rd",
     "sg:city":"Amity",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102435663,
-    "wof:lastmodified":1449069970,
+    "wof:lastmodified":1466325681,
     "wof:name":"Ronnie Lyons Logging",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.473025,34.245737,-93.473025,34.245737],
-  "geometry": {"coordinates":[-93.473025,34.245737],"type":"Point"}
+  "bbox": [
+    -93.473025,
+    34.245737,
+    -93.473025,
+    34.245737
+],
+  "geometry": {"coordinates":[-93.47302500000001,34.245737],"type":"Point"}
 }

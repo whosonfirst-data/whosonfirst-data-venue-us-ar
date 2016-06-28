@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102305659",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.147529,36.178059,-94.147529,36.178059",
     "geom:latitude":36.178059,
     "geom:longitude":-94.147529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"802 S West End St",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885485,
+        85688549,
         85633793,
         85919623,
         102082007,
-        85688549
+        85885485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102305659",
-    "wof:lastmodified":1449068169,
+    "wof:lastmodified":1466323210,
     "wof:name":"Rehabcare Group",
     "wof:parent_id":85885485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.147529,36.178059,-94.147529,36.178059],
-  "geometry": {"coordinates":[-94.147529,36.178059],"type":"Point"}
+  "bbox": [
+    -94.147529,
+    36.178059,
+    -94.147529,
+    36.178059
+],
+  "geometry": {"coordinates":[-94.14752900000001,36.178059],"type":"Point"}
 }

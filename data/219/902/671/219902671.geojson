@@ -2,13 +2,14 @@
   "id": 219902671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.203086,36.342665,-94.203086,36.342665",
     "geom:latitude":36.342665,
     "geom:longitude":-94.203086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"911 SE 28 St Ste 7",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219902671,
-    "wof:lastmodified":1449073017,
+    "wof:lastmodified":1466325108,
     "wof:name":"Celtic Grill",
     "wof:parent_id":85895815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "irish"
     ]
 },
-  "bbox": [-94.203086,36.342665,-94.203086,36.342665],
+  "bbox": [
+    -94.203086,
+    36.342665,
+    -94.203086,
+    36.342665
+],
   "geometry": {"coordinates":[-94.203086,36.342665],"type":"Point"}
 }

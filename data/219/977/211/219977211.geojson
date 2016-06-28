@@ -2,13 +2,14 @@
   "id": 219977211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.061234,36.341174,-94.061234,36.341174",
     "geom:latitude":36.341174,
     "geom:longitude":-94.061234,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14460 Redbird Rd",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":219977211,
-    "wof:lastmodified":1449074013,
+    "wof:lastmodified":1466325294,
     "wof:name":"Northwest Arkansas Home Inspectors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-94.061234,36.341174,-94.061234,36.341174],
+  "bbox": [
+    -94.061234,
+    36.341174,
+    -94.061234,
+    36.341174
+],
   "geometry": {"coordinates":[-94.061234,36.341174],"type":"Point"}
 }

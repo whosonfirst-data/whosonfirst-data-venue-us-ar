@@ -2,13 +2,14 @@
   "id": 219588401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.821023,34.392147,-90.821023,34.392147",
     "geom:latitude":34.392147,
     "geom:longitude":-90.821023,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16796 Highway 44",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":219588401,
-    "wof:lastmodified":1449073238,
+    "wof:lastmodified":1466324569,
     "wof:name":"Ginger's Old Town Grocery",
     "wof:parent_id":85834075,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocers-specialty"
     ]
 },
-  "bbox": [-90.821023,34.392147,-90.821023,34.392147],
+  "bbox": [
+    -90.821023,
+    34.392147,
+    -90.821023,
+    34.392147
+],
   "geometry": {"coordinates":[-90.821023,34.392147],"type":"Point"}
 }

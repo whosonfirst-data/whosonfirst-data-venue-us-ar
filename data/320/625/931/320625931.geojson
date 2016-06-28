@@ -2,13 +2,14 @@
   "id": 320625931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.005595,36.559025,-95.005595,36.559025",
     "geom:latitude":36.559025,
     "geom:longitude":-95.005595,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31648 S 4490 Rd",
     "sg:city":"Afton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320625931,
-    "wof:lastmodified":1449015025,
+    "wof:lastmodified":1466320604,
     "wof:name":"Newcomb Construction",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.005595,36.559025,-95.005595,36.559025],
+  "bbox": [
+    -95.005595,
+    36.559025,
+    -95.005595,
+    36.559025
+],
   "geometry": {"coordinates":[-95.005595,36.559025],"type":"Point"}
 }

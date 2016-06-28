@@ -2,13 +2,14 @@
   "id": 219969415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.129786,36.354586,-94.129786,36.354586",
     "geom:latitude":36.354586,
     "geom:longitude":-94.129786,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2204 N 12th St",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219969415,
-    "wof:lastmodified":1449071242,
+    "wof:lastmodified":1466325223,
     "wof:name":"Carousel Castle Infant Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "day"
     ]
 },
-  "bbox": [-94.129786,36.354586,-94.129786,36.354586],
+  "bbox": [
+    -94.129786,
+    36.354586,
+    -94.129786,
+    36.354586
+],
   "geometry": {"coordinates":[-94.129786,36.354586],"type":"Point"}
 }

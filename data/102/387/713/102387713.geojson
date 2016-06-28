@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102387713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.48736,34.803077,-92.48736,34.803077",
     "geom:latitude":34.803077,
     "geom:longitude":-92.48736,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Arles Dr",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85847659,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85847659
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102387713,
-    "wof:lastmodified":1449069852,
+    "wof:lastmodified":1466323679,
     "wof:name":"Allen Enterprises Inc",
     "wof:parent_id":85847659,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.48736,34.803077,-92.48736,34.803077],
+  "bbox": [
+    -92.48736,
+    34.803077,
+    -92.48736,
+    34.803077
+],
   "geometry": {"coordinates":[-92.48736,34.803077],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219531585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.705658,35.238625,-91.705658,35.238625",
     "geom:latitude":35.238625,
     "geom:longitude":-91.705658,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2616 W. Beebe Capps Expy",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219531585,
-    "wof:lastmodified":1449071226,
+    "wof:lastmodified":1466324191,
     "wof:name":"Showalter Blake DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.705658,35.238625,-91.705658,35.238625],
+  "bbox": [
+    -91.705658,
+    35.238625,
+    -91.705658,
+    35.238625
+],
   "geometry": {"coordinates":[-91.705658,35.238625],"type":"Point"}
 }

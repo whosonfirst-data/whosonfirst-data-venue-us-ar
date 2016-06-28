@@ -2,13 +2,14 @@
   "id": 219677651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.504858,36.102435,-90.504858,36.102435",
     "geom:latitude":36.102435,
     "geom:longitude":-90.504858,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4169 Highway 135 S",
     "sg:city":"Paragould",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219677651,
-    "wof:lastmodified":1449071660,
+    "wof:lastmodified":1466324611,
     "wof:name":"Ryan Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.504858,36.102435,-90.504858,36.102435],
+  "bbox": [
+    -90.504858,
+    36.102435,
+    -90.504858,
+    36.102435
+],
   "geometry": {"coordinates":[-90.504858,36.102435],"type":"Point"}
 }

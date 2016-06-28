@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102372877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.117985,36.131521,-94.117985,36.131521",
     "geom:latitude":36.131521,
     "geom:longitude":-94.117985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4377 N Crossover Rd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885493,
+        85688549,
         85633793,
         85919609,
         102082007,
-        85688549
+        85885493
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102372877,
-    "wof:lastmodified":1449069204,
+    "wof:lastmodified":1466320595,
     "wof:name":"Achieve Comprehensive Weight",
     "wof:parent_id":85885493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.117985,36.131521,-94.117985,36.131521],
+  "bbox": [
+    -94.117985,
+    36.131521,
+    -94.117985,
+    36.131521
+],
   "geometry": {"coordinates":[-94.117985,36.131521],"type":"Point"}
 }

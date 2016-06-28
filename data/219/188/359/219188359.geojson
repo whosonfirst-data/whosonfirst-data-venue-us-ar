@@ -2,13 +2,14 @@
   "id": 219188359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.851706,33.567547,-92.851706,33.567547",
     "geom:latitude":33.567547,
     "geom:longitude":-92.851706,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1254 Cash Rd SW",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":219188359,
-    "wof:lastmodified":1449072128,
+    "wof:lastmodified":1466320707,
     "wof:name":"Stone Lee Collision Center",
     "wof:parent_id":85813169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "repairing"
     ]
 },
-  "bbox": [-92.851706,33.567547,-92.851706,33.567547],
-  "geometry": {"coordinates":[-92.851706,33.567547],"type":"Point"}
+  "bbox": [
+    -92.851706,
+    33.567547,
+    -92.851706,
+    33.567547
+],
+  "geometry": {"coordinates":[-92.85170599999999,33.567547],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102368459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.799545,35.189291,-90.799545,35.189291",
     "geom:latitude":35.189291,
     "geom:longitude":-90.799545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"68 Co Rd 673",
     "sg:city":"Wynne",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":102368459,
-    "wof:lastmodified":1449068347,
+    "wof:lastmodified":1466324530,
     "wof:name":"Richard Walker",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.799545,35.189291,-90.799545,35.189291],
-  "geometry": {"coordinates":[-90.799545,35.189291],"type":"Point"}
+  "bbox": [
+    -90.799545,
+    35.189291,
+    -90.799545,
+    35.189291
+],
+  "geometry": {"coordinates":[-90.79954499999999,35.189291],"type":"Point"}
 }

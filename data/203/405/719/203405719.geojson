@@ -2,13 +2,14 @@
   "id": 203405719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.95965,33.119879,-91.95965,33.119879",
     "geom:latitude":33.119879,
     "geom:longitude":-91.95965,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1202 Pine St",
     "sg:city":"Crossett",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203405719,
-    "wof:lastmodified":1449026697,
+    "wof:lastmodified":1466320524,
     "wof:name":"Boys & Girls Club Ashley Cnty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.95965,33.119879,-91.95965,33.119879],
+  "bbox": [
+    -91.95965,
+    33.119879,
+    -91.95965,
+    33.119879
+],
   "geometry": {"coordinates":[-91.95965,33.119879],"type":"Point"}
 }

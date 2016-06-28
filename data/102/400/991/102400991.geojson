@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102400991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.370182,36.349746,-92.370182,36.349746",
     "geom:latitude":36.349746,
     "geom:longitude":-92.370182,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1030 Hwy 62 E",
     "sg:city":"Mountain Home",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102400991,
-    "wof:lastmodified":1449068027,
+    "wof:lastmodified":1466324823,
     "wof:name":"Computer Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.370182,36.349746,-92.370182,36.349746],
+  "bbox": [
+    -92.370182,
+    36.349746,
+    -92.370182,
+    36.349746
+],
   "geometry": {"coordinates":[-92.370182,36.349746],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219503467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.256937,34.470754,-92.256937,34.470754",
     "geom:latitude":34.470754,
     "geom:longitude":-92.256937,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6039 Grant 58",
     "sg:city":"Redfield",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219503467,
-    "wof:lastmodified":1449073930,
+    "wof:lastmodified":1466323971,
     "wof:name":"Spann's Paint & Body Shop & Marine Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "repairing"
     ]
 },
-  "bbox": [-92.256937,34.470754,-92.256937,34.470754],
-  "geometry": {"coordinates":[-92.256937,34.470754],"type":"Point"}
+  "bbox": [
+    -92.256937,
+    34.470754,
+    -92.256937,
+    34.470754
+],
+  "geometry": {"coordinates":[-92.25693699999999,34.470754],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102221609",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.80366,33.225814,-91.80366,33.225814",
     "geom:latitude":33.225814,
     "geom:longitude":-91.80366,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"603 W Lincoln St",
     "sg:city":"Hamburg",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102221609",
-    "wof:lastmodified":1449068822,
+    "wof:lastmodified":1466321231,
     "wof:name":"S Team Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.80366,33.225814,-91.80366,33.225814],
-  "geometry": {"coordinates":[-91.80366,33.225814],"type":"Point"}
+  "bbox": [
+    -91.80366,
+    33.225814,
+    -91.80366,
+    33.225814
+],
+  "geometry": {"coordinates":[-91.80365999999999,33.225814],"type":"Point"}
 }

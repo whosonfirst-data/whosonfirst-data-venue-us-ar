@@ -2,13 +2,14 @@
   "id": 219954993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.075501,36.33627,-94.075501,36.33627",
     "geom:latitude":36.33627,
     "geom:longitude":-94.075501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8607 Apple Glenn",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219954993,
-    "wof:lastmodified":1449073459,
+    "wof:lastmodified":1466325199,
     "wof:name":"BNSP Logistics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "logistics"
     ]
 },
-  "bbox": [-94.075501,36.33627,-94.075501,36.33627],
+  "bbox": [
+    -94.075501,
+    36.33627,
+    -94.075501,
+    36.33627
+],
   "geometry": {"coordinates":[-94.075501,36.33627],"type":"Point"}
 }

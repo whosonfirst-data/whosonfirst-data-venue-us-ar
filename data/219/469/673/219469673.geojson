@@ -2,13 +2,14 @@
   "id": 219469673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.735623,35.172359,-92.735623,35.172359",
     "geom:latitude":35.172359,
     "geom:longitude":-92.735623,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1907 Poor Farm Rd",
     "sg:city":"Morrilton",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":219469673,
-    "wof:lastmodified":1449074023,
+    "wof:lastmodified":1466323551,
     "wof:name":"Morrilton Middle School",
     "wof:parent_id":85850611,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "middle"
     ]
 },
-  "bbox": [-92.735623,35.172359,-92.735623,35.172359],
+  "bbox": [
+    -92.735623,
+    35.172359,
+    -92.735623,
+    35.172359
+],
   "geometry": {"coordinates":[-92.735623,35.172359],"type":"Point"}
 }

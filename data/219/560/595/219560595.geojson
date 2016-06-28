@@ -2,13 +2,14 @@
   "id": 219560595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.224442,35.157529,-92.224442,35.157529",
     "geom:latitude":35.157529,
     "geom:longitude":-92.224442,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"689 Highway 36",
     "sg:city":"Vilonia",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":219560595,
-    "wof:lastmodified":1449073097,
+    "wof:lastmodified":1466324407,
     "wof:name":"Casey's Y Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "espresso"
     ]
 },
-  "bbox": [-92.224442,35.157529,-92.224442,35.157529],
+  "bbox": [
+    -92.224442,
+    35.157529,
+    -92.224442,
+    35.157529
+],
   "geometry": {"coordinates":[-92.224442,35.157529],"type":"Point"}
 }

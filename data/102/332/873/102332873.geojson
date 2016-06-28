@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102332873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.000601,34.222106,-92.000601,34.222106",
     "geom:latitude":34.222106,
     "geom:longitude":-92.000601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"624 S Georgia St",
     "sg:city":"Pine Bluff",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102332873,
-    "wof:lastmodified":1449069074,
+    "wof:lastmodified":1466323767,
     "wof:name":"Georgia Street Self Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.000601,34.222106,-92.000601,34.222106],
+  "bbox": [
+    -92.000601,
+    34.222106,
+    -92.000601,
+    34.222106
+],
   "geometry": {"coordinates":[-92.000601,34.222106],"type":"Point"}
 }

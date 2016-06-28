@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102305701",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.153691,36.341423,-94.153691,36.341423",
     "geom:latitude":36.341423,
     "geom:longitude":-94.153691,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2502 W Olive St",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102305701",
-    "wof:lastmodified":1449068172,
+    "wof:lastmodified":1466323219,
     "wof:name":"Legacy House Photography Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.153691,36.341423,-94.153691,36.341423],
-  "geometry": {"coordinates":[-94.153691,36.341423],"type":"Point"}
+  "bbox": [
+    -94.153691,
+    36.341423,
+    -94.153691,
+    36.341423
+],
+  "geometry": {"coordinates":[-94.15369099999999,36.341423],"type":"Point"}
 }

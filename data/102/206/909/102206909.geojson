@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102206909",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.174563,36.202573,-91.174563,36.202573",
     "geom:latitude":36.202573,
     "geom:longitude":-91.174563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 W 3rd St",
     "sg:city":"Imboden",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102206909",
-    "wof:lastmodified":1449069430,
+    "wof:lastmodified":1466320902,
     "wof:name":"Landmark",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.174563,36.202573,-91.174563,36.202573],
-  "geometry": {"coordinates":[-91.174563,36.202573],"type":"Point"}
+  "bbox": [
+    -91.174563,
+    36.202573,
+    -91.174563,
+    36.202573
+],
+  "geometry": {"coordinates":[-91.17456300000001,36.202573],"type":"Point"}
 }

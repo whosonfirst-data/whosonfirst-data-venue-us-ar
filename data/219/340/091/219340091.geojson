@@ -2,13 +2,14 @@
   "id": 219340091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.92731,35.152161,-91.92731,35.152161",
     "geom:latitude":35.152161,
     "geom:longitude":-91.92731,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1802 Highway 31 N",
     "sg:city":"Beebe",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219340091,
-    "wof:lastmodified":1449073127,
+    "wof:lastmodified":1466322091,
     "wof:name":"Ken's Paint & Body Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "automobile"
     ]
 },
-  "bbox": [-91.92731,35.152161,-91.92731,35.152161],
-  "geometry": {"coordinates":[-91.92731,35.152161],"type":"Point"}
+  "bbox": [
+    -91.92731,
+    35.152161,
+    -91.92731,
+    35.152161
+],
+  "geometry": {"coordinates":[-91.92731000000001,35.152161],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219535859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.751921,35.251062,-91.751921,35.251062",
     "geom:latitude":35.251062,
     "geom:longitude":-91.751921,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1518 E Race Ave",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219535859,
-    "wof:lastmodified":1449071034,
+    "wof:lastmodified":1466324226,
     "wof:name":"Higginbotham Insurance Agency",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.751921,35.251062,-91.751921,35.251062],
+  "bbox": [
+    -91.751921,
+    35.251062,
+    -91.751921,
+    35.251062
+],
   "geometry": {"coordinates":[-91.751921,35.251062],"type":"Point"}
 }

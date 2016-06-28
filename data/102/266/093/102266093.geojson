@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102266093",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.176935,36.289992,-94.176935,36.289992",
     "geom:latitude":36.289992,
     "geom:longitude":-94.176935,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5101 S 44th St",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.vmphomes.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895851,
+        85688549,
         85633793,
         85921535,
         102083255,
-        85688549
+        85895851
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102266093",
-    "wof:lastmodified":1449067845,
+    "wof:lastmodified":1466322199,
     "wof:name":"Vance M Puttkammer Homes Inc",
     "wof:parent_id":85895851,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.176935,36.289992,-94.176935,36.289992],
+  "bbox": [
+    -94.176935,
+    36.289992,
+    -94.176935,
+    36.289992
+],
   "geometry": {"coordinates":[-94.176935,36.289992],"type":"Point"}
 }

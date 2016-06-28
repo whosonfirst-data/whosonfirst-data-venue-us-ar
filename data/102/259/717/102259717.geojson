@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102259717",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.417097,34.772308,-92.417097,34.772308",
     "geom:latitude":34.772308,
     "geom:longitude":-92.417097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2014 Martha Dr",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852843,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85852843
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102259717",
-    "wof:lastmodified":1449068339,
+    "wof:lastmodified":1466322170,
     "wof:name":"Shortfellas Clothing LLC",
     "wof:parent_id":85852843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.417097,34.772308,-92.417097,34.772308],
+  "bbox": [
+    -92.417097,
+    34.772308,
+    -92.417097,
+    34.772308
+],
   "geometry": {"coordinates":[-92.417097,34.772308],"type":"Point"}
 }

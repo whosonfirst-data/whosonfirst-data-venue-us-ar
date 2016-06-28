@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102201999",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.184806,35.159088,-90.184806,35.159088",
     "geom:latitude":35.159088,
     "geom:longitude":-90.184806,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1230 N Missouri St",
     "sg:city":"West Memphis",
     "sg:classifiers":[
@@ -25,10 +26,10 @@
     "sg:website":"www.flashmarketinc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102082505,
-        85633793,
         85688549,
-        85843083
+        85633793,
+        85843083,
+        102082505
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":"102201999",
-    "wof:lastmodified":1449069855,
+    "wof:lastmodified":1466320804,
     "wof:name":"Flash Market 13",
     "wof:parent_id":85843083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.184806,35.159088,-90.184806,35.159088],
-  "geometry": {"coordinates":[-90.184806,35.159088],"type":"Point"}
+  "bbox": [
+    -90.184806,
+    35.159088,
+    -90.184806,
+    35.159088
+],
+  "geometry": {"coordinates":[-90.18480599999999,35.159088],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219543041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.243996,34.310991,-92.243996,34.310991",
     "geom:latitude":34.310991,
     "geom:longitude":-92.243996,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9561 Highway 270 E",
     "sg:city":"Sheridan",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219543041,
-    "wof:lastmodified":1449071084,
+    "wof:lastmodified":1466324277,
     "wof:name":"Ptl Transport Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "bureau"
     ]
 },
-  "bbox": [-92.243996,34.310991,-92.243996,34.310991],
+  "bbox": [
+    -92.243996,
+    34.310991,
+    -92.243996,
+    34.310991
+],
   "geometry": {"coordinates":[-92.243996,34.310991],"type":"Point"}
 }

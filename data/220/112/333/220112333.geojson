@@ -2,13 +2,14 @@
   "id": 220112333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.21691,35.201463,-94.21691,35.201463",
     "geom:latitude":35.201463,
     "geom:longitude":-94.21691,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"721 Skyview Dr",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220112333,
-    "wof:lastmodified":1449074389,
+    "wof:lastmodified":1466322451,
     "wof:name":"The Dog Pound Ice Cream Parlor",
     "wof:parent_id":85832863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.21691,35.201463,-94.21691,35.201463],
+  "bbox": [
+    -94.21691,
+    35.201463,
+    -94.21691,
+    35.201463
+],
   "geometry": {"coordinates":[-94.21691,35.201463],"type":"Point"}
 }

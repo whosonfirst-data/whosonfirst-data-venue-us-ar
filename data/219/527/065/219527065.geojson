@@ -2,13 +2,14 @@
   "id": 219527065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.722734,35.223967,-91.722734,35.223967",
     "geom:latitude":35.223967,
     "geom:longitude":-91.722734,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 E Booth Rd",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219527065,
-    "wof:lastmodified":1449073208,
+    "wof:lastmodified":1466324158,
     "wof:name":"Village Square Apts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-91.722734,35.223967,-91.722734,35.223967],
+  "bbox": [
+    -91.722734,
+    35.223967,
+    -91.722734,
+    35.223967
+],
   "geometry": {"coordinates":[-91.722734,35.223967],"type":"Point"}
 }

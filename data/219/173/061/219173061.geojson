@@ -2,13 +2,14 @@
   "id": 219173061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.801128,33.642037,-91.801128,33.642037",
     "geom:latitude":33.642037,
     "geom:longitude":-91.801128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"509 Highway 425 N",
     "sg:city":"Monticello",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219173061,
-    "wof:lastmodified":1449071075,
+    "wof:lastmodified":1466320576,
     "wof:name":"Mazzios Italian Eatery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "italian"
     ]
 },
-  "bbox": [-91.801128,33.642037,-91.801128,33.642037],
-  "geometry": {"coordinates":[-91.801128,33.642037],"type":"Point"}
+  "bbox": [
+    -91.801128,
+    33.642037,
+    -91.801128,
+    33.642037
+],
+  "geometry": {"coordinates":[-91.80112800000001,33.642037],"type":"Point"}
 }

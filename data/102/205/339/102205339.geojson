@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102205339",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.192034,36.385055,-90.192034,36.385055",
     "geom:latitude":36.385055,
     "geom:longitude":-90.192034,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"363 W Jackson St",
     "sg:city":"Piggott",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102205339",
-    "wof:lastmodified":1449069195,
+    "wof:lastmodified":1466320764,
     "wof:name":"Piggott Fire Department",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.192034,36.385055,-90.192034,36.385055],
-  "geometry": {"coordinates":[-90.192034,36.385055],"type":"Point"}
+  "bbox": [
+    -90.192034,
+    36.385055,
+    -90.192034,
+    36.385055
+],
+  "geometry": {"coordinates":[-90.19203400000001,36.385055],"type":"Point"}
 }

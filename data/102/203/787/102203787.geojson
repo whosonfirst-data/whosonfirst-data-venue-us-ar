@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102203787",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.492229,33.888349,-91.492229,33.888349",
     "geom:latitude":33.888349,
     "geom:longitude":-91.492229,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 N Main St",
     "sg:city":"Dumas",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102203787",
-    "wof:lastmodified":1449068842,
+    "wof:lastmodified":1466320837,
     "wof:name":"Free Communications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.492229,33.888349,-91.492229,33.888349],
-  "geometry": {"coordinates":[-91.492229,33.888349],"type":"Point"}
+  "bbox": [
+    -91.492229,
+    33.888349,
+    -91.492229,
+    33.888349
+],
+  "geometry": {"coordinates":[-91.49222899999999,33.888349],"type":"Point"}
 }

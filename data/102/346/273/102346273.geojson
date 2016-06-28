@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102346273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.282091,33.311802,-91.282091,33.311802",
     "geom:latitude":33.311802,
     "geom:longitude":-91.282091,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2322 S Lakeshore Dr",
     "sg:city":"Lake Village",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102346273,
-    "wof:lastmodified":1449067756,
+    "wof:lastmodified":1466323975,
     "wof:name":"Turnage Real Estate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.282091,33.311802,-91.282091,33.311802],
-  "geometry": {"coordinates":[-91.282091,33.311802],"type":"Point"}
+  "bbox": [
+    -91.282091,
+    33.311802,
+    -91.282091,
+    33.311802
+],
+  "geometry": {"coordinates":[-91.28209099999999,33.311802],"type":"Point"}
 }

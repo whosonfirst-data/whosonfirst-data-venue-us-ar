@@ -2,13 +2,14 @@
   "id": 219406079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.471663,35.085311,-92.471663,35.085311",
     "geom:latitude":35.085311,
     "geom:longitude":-92.471663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"620 Salem Rd",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219406079,
-    "wof:lastmodified":1449072272,
+    "wof:lastmodified":1466322899,
     "wof:name":"Solar Nails & Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.471663,35.085311,-92.471663,35.085311],
-  "geometry": {"coordinates":[-92.471663,35.085311],"type":"Point"}
+  "bbox": [
+    -92.471663,
+    35.085311,
+    -92.471663,
+    35.085311
+],
+  "geometry": {"coordinates":[-92.47166300000001,35.085311],"type":"Point"}
 }

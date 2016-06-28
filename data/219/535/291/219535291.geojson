@@ -2,13 +2,14 @@
   "id": 219535291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.707322,35.23904,-91.707322,35.23904",
     "geom:latitude":35.23904,
     "geom:longitude":-91.707322,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2210 E Beebe Capps Expy",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219535291,
-    "wof:lastmodified":1449071032,
+    "wof:lastmodified":1466324222,
     "wof:name":"Karen Chandler CPA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "public"
     ]
 },
-  "bbox": [-91.707322,35.23904,-91.707322,35.23904],
+  "bbox": [
+    -91.707322,
+    35.23904,
+    -91.707322,
+    35.23904
+],
   "geometry": {"coordinates":[-91.707322,35.23904],"type":"Point"}
 }

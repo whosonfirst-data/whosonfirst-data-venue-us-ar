@@ -2,13 +2,14 @@
   "id": 219929731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.943458,33.415954,-93.943458,33.415954",
     "geom:latitude":33.415954,
     "geom:longitude":-93.943458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"257 Miller County 50",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219929731,
-    "wof:lastmodified":1449071743,
+    "wof:lastmodified":1466325156,
     "wof:name":"Thermax Clean Care Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-93.943458,33.415954,-93.943458,33.415954],
-  "geometry": {"coordinates":[-93.943458,33.415954],"type":"Point"}
+  "bbox": [
+    -93.943458,
+    33.415954,
+    -93.943458,
+    33.415954
+],
+  "geometry": {"coordinates":[-93.94345800000001,33.415954],"type":"Point"}
 }

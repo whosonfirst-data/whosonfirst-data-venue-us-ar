@@ -2,13 +2,14 @@
   "id": 220102045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.307648,35.33052,-94.307648,35.33052",
     "geom:latitude":35.33052,
     "geom:longitude":-94.307648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1090 Fort St",
     "sg:city":"Barling",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220102045,
-    "wof:lastmodified":1449074828,
+    "wof:lastmodified":1466322258,
     "wof:name":"Moore, David L",
     "wof:parent_id":85832863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practice"
     ]
 },
-  "bbox": [-94.307648,35.33052,-94.307648,35.33052],
+  "bbox": [
+    -94.307648,
+    35.33052,
+    -94.307648,
+    35.33052
+],
   "geometry": {"coordinates":[-94.307648,35.33052],"type":"Point"}
 }

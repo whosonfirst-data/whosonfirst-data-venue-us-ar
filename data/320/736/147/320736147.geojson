@@ -2,13 +2,14 @@
   "id": 320736147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.251492,34.586439,-94.251492,34.586439",
     "geom:latitude":34.586439,
     "geom:longitude":-94.251492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"219 Polk St S",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320736147,
-    "wof:lastmodified":1449014927,
+    "wof:lastmodified":1466320635,
     "wof:name":"Tommy Woods Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-94.251492,34.586439,-94.251492,34.586439],
+  "bbox": [
+    -94.251492,
+    34.586439,
+    -94.251492,
+    34.586439
+],
   "geometry": {"coordinates":[-94.251492,34.586439],"type":"Point"}
 }

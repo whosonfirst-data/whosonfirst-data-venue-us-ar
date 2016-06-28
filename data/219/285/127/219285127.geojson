@@ -2,13 +2,14 @@
   "id": 219285127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.059898,34.119671,-93.059898,34.119671",
     "geom:latitude":34.119671,
     "geom:longitude":-93.059898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 Main St",
     "sg:city":"Arkadelphia",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219285127,
-    "wof:lastmodified":1449070468,
+    "wof:lastmodified":1466321610,
     "wof:name":"Peggy Elite",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "stylist"
     ]
 },
-  "bbox": [-93.059898,34.119671,-93.059898,34.119671],
+  "bbox": [
+    -93.059898,
+    34.119671,
+    -93.059898,
+    34.119671
+],
   "geometry": {"coordinates":[-93.059898,34.119671],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219664527,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.682189,35.512041,-90.682189,35.512041",
     "geom:latitude":35.512041,
     "geom:longitude":-90.682189,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4318 Possum Hollow Rd",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219664527,
-    "wof:lastmodified":1449071692,
+    "wof:lastmodified":1466324791,
     "wof:name":"Whittingham, Tony & Bridget Farms A Part",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [-90.682189,35.512041,-90.682189,35.512041],
-  "geometry": {"coordinates":[-90.682189,35.512041],"type":"Point"}
+  "bbox": [
+    -90.682189,
+    35.512041,
+    -90.682189,
+    35.512041
+],
+  "geometry": {"coordinates":[-90.68218899999999,35.512041],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102206903",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.182031,36.064637,-94.182031,36.064637",
     "geom:latitude":36.064637,
     "geom:longitude":-94.182031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 W Walton St",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885439,
+        85688549,
         85633793,
         85919609,
         102082007,
-        85688549
+        85885439
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102206903",
-    "wof:lastmodified":1449069430,
+    "wof:lastmodified":1466320901,
     "wof:name":"BNP Media",
     "wof:parent_id":85885439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.182031,36.064637,-94.182031,36.064637],
-  "geometry": {"coordinates":[-94.182031,36.064637],"type":"Point"}
+  "bbox": [
+    -94.182031,
+    36.064637,
+    -94.182031,
+    36.064637
+],
+  "geometry": {"coordinates":[-94.18203099999999,36.064637],"type":"Point"}
 }

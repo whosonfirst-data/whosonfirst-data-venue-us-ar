@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102269181",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.253408,34.753826,-92.253408,34.753826",
     "geom:latitude":34.753826,
     "geom:longitude":-92.253408,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 E Washington Ave",
     "sg:city":"N Little Rock",
     "sg:classifiers":[
@@ -34,10 +35,10 @@
     "sg:website":"www.specbmc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102082497,
-        85633793,
         85688549,
-        85878757
+        85633793,
+        85878757,
+        102082497
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":"102269181",
-    "wof:lastmodified":1449069272,
+    "wof:lastmodified":1466322298,
     "wof:name":"Spec Building Materials Corp",
     "wof:parent_id":85878757,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.253408,34.753826,-92.253408,34.753826],
-  "geometry": {"coordinates":[-92.253408,34.753826],"type":"Point"}
+  "bbox": [
+    -92.253408,
+    34.753826,
+    -92.253408,
+    34.753826
+],
+  "geometry": {"coordinates":[-92.25340799999999,34.753826],"type":"Point"}
 }

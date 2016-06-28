@@ -2,13 +2,14 @@
   "id": 219490459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.256159,34.939906,-92.256159,34.939906",
     "geom:latitude":34.939906,
     "geom:longitude":-92.256159,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 Cato Rd",
     "sg:city":"Sherwood",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219490459,
-    "wof:lastmodified":1449073562,
+    "wof:lastmodified":1466323852,
     "wof:name":"J Copeland Auto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cars-wholesale"
     ]
 },
-  "bbox": [-92.256159,34.939906,-92.256159,34.939906],
+  "bbox": [
+    -92.256159,
+    34.939906,
+    -92.256159,
+    34.939906
+],
   "geometry": {"coordinates":[-92.256159,34.939906],"type":"Point"}
 }

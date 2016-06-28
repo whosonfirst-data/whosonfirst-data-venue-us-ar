@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102377329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.577577,34.777085,-91.577577,34.777085",
     "geom:latitude":34.777085,
     "geom:longitude":-91.577577,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 S Grove",
     "sg:city":"Hazen",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102377329,
-    "wof:lastmodified":1449068681,
+    "wof:lastmodified":1466321542,
     "wof:name":"Cedar Branch Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.577577,34.777085,-91.577577,34.777085],
-  "geometry": {"coordinates":[-91.577577,34.777085],"type":"Point"}
+  "bbox": [
+    -91.577577,
+    34.777085,
+    -91.577577,
+    34.777085
+],
+  "geometry": {"coordinates":[-91.57757700000001,34.777085],"type":"Point"}
 }

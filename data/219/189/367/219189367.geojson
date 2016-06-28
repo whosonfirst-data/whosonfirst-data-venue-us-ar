@@ -2,13 +2,14 @@
   "id": 219189367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.829521,33.586129,-92.829521,33.586129",
     "geom:latitude":33.586129,
     "geom:longitude":-92.829521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 E Washington St",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219189367,
-    "wof:lastmodified":1449072893,
+    "wof:lastmodified":1466320727,
     "wof:name":"Southwest Arkansas Development Council-In Home Services",
     "wof:parent_id":85813169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sitting"
     ]
 },
-  "bbox": [-92.829521,33.586129,-92.829521,33.586129],
+  "bbox": [
+    -92.829521,
+    33.586129,
+    -92.829521,
+    33.586129
+],
   "geometry": {"coordinates":[-92.829521,33.586129],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219484749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.403427,34.840575,-92.403427,34.840575",
     "geom:latitude":34.840575,
     "geom:longitude":-92.403427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Country Club Pkwy A",
     "sg:city":"Maumelle",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":219484749,
-    "wof:lastmodified":1449073703,
+    "wof:lastmodified":1466323742,
     "wof:name":"Independent Financial Advisors Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "planner"
     ]
 },
-  "bbox": [-92.403427,34.840575,-92.403427,34.840575],
-  "geometry": {"coordinates":[-92.403427,34.840575],"type":"Point"}
+  "bbox": [
+    -92.403427,
+    34.840575,
+    -92.403427,
+    34.840575
+],
+  "geometry": {"coordinates":[-92.40342699999999,34.840575],"type":"Point"}
 }

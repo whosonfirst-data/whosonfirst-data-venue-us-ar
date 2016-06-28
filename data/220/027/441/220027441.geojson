@@ -2,13 +2,14 @@
   "id": 220027441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.180771,36.205183,-94.180771,36.205183",
     "geom:latitude":36.205183,
     "geom:longitude":-94.180771,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2198 Longwood St",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220027441,
-    "wof:lastmodified":1449074187,
+    "wof:lastmodified":1466320507,
     "wof:name":"Ozark Software Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment"
     ]
 },
-  "bbox": [-94.180771,36.205183,-94.180771,36.205183],
-  "geometry": {"coordinates":[-94.180771,36.205183],"type":"Point"}
+  "bbox": [
+    -94.180771,
+    36.205183,
+    -94.180771,
+    36.205183
+],
+  "geometry": {"coordinates":[-94.18077099999999,36.205183],"type":"Point"}
 }

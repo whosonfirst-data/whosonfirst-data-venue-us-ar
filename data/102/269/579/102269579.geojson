@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102269579",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.67825,33.643021,-93.67825,33.643021",
     "geom:latitude":33.643021,
     "geom:longitude":-93.67825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 State Hwy 353",
     "sg:city":"Hope",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":"102269579",
-    "wof:lastmodified":1449069272,
+    "wof:lastmodified":1466322381,
     "wof:name":"Whites Mobile Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.67825,33.643021,-93.67825,33.643021],
-  "geometry": {"coordinates":[-93.67825,33.643021],"type":"Point"}
+  "bbox": [
+    -93.67825,
+    33.643021,
+    -93.67825,
+    33.643021
+],
+  "geometry": {"coordinates":[-93.67825000000001,33.643021],"type":"Point"}
 }

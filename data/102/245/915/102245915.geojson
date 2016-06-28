@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102245915",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.93255,35.029881,-91.93255,35.029881",
     "geom:latitude":35.029881,
     "geom:longitude":-91.93255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Oddie Ln",
     "sg:city":"Ward",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":"102245915",
-    "wof:lastmodified":1449070138,
+    "wof:lastmodified":1466321855,
     "wof:name":"Sun Factory",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.93255,35.029881,-91.93255,35.029881],
-  "geometry": {"coordinates":[-91.93255,35.029881],"type":"Point"}
+  "bbox": [
+    -91.93255,
+    35.029881,
+    -91.93255,
+    35.029881
+],
+  "geometry": {"coordinates":[-91.93255000000001,35.029881],"type":"Point"}
 }

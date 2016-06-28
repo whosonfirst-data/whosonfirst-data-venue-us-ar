@@ -2,13 +2,14 @@
   "id": 219418351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.390785,35.197587,-92.390785,35.197587",
     "geom:latitude":35.197587,
     "geom:longitude":-92.390785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"245 S Broadview St",
     "sg:city":"Greenbrier",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219418351,
-    "wof:lastmodified":1449073170,
+    "wof:lastmodified":1466323008,
     "wof:name":"Kodiak Gas Services Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "bureau"
     ]
 },
-  "bbox": [-92.390785,35.197587,-92.390785,35.197587],
-  "geometry": {"coordinates":[-92.390785,35.197587],"type":"Point"}
+  "bbox": [
+    -92.390785,
+    35.197587,
+    -92.390785,
+    35.197587
+],
+  "geometry": {"coordinates":[-92.39078499999999,35.197587],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102372717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.955002,35.954786,-89.955002,35.954786",
     "geom:latitude":35.954786,
     "geom:longitude":-89.955002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2809 Atlanta St",
     "sg:city":"Blytheville",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102372717,
-    "wof:lastmodified":1449069202,
+    "wof:lastmodified":1466320560,
     "wof:name":"US Air Force Base",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.955002,35.954786,-89.955002,35.954786],
-  "geometry": {"coordinates":[-89.955002,35.954786],"type":"Point"}
+  "bbox": [
+    -89.955002,
+    35.954786,
+    -89.955002,
+    35.954786
+],
+  "geometry": {"coordinates":[-89.95500199999999,35.954786],"type":"Point"}
 }

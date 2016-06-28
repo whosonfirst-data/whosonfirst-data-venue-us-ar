@@ -2,13 +2,14 @@
   "id": 219507011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.068795,34.761428,-92.068795,34.761428",
     "geom:latitude":34.761428,
     "geom:longitude":-92.068795,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"198 Martin Loop",
     "sg:city":"Scott",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219507011,
-    "wof:lastmodified":1449072199,
+    "wof:lastmodified":1466324003,
     "wof:name":"Bmj Structural Concrete",
     "wof:parent_id":85811577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "contractor"
     ]
 },
-  "bbox": [-92.068795,34.761428,-92.068795,34.761428],
-  "geometry": {"coordinates":[-92.068795,34.761428],"type":"Point"}
+  "bbox": [
+    -92.068795,
+    34.761428,
+    -92.068795,
+    34.761428
+],
+  "geometry": {"coordinates":[-92.06879499999999,34.761428],"type":"Point"}
 }

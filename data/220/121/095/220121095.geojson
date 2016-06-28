@@ -2,13 +2,14 @@
   "id": 220121095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.049467,35.502488,-94.049467,35.502488",
     "geom:latitude":35.502488,
     "geom:longitude":-94.049467,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"222 Mulberry Highway 64 E",
     "sg:city":"Mulberry",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":220121095,
-    "wof:lastmodified":1449074659,
+    "wof:lastmodified":1466322612,
     "wof:name":"River Valley Family Steakhouse & Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.049467,35.502488,-94.049467,35.502488],
-  "geometry": {"coordinates":[-94.049467,35.502488],"type":"Point"}
+  "bbox": [
+    -94.049467,
+    35.502488,
+    -94.049467,
+    35.502488
+],
+  "geometry": {"coordinates":[-94.04946700000001,35.502488],"type":"Point"}
 }

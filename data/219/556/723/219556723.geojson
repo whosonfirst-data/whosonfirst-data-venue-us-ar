@@ -2,13 +2,14 @@
   "id": 219556723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.551191,34.504959,-91.551191,34.504959",
     "geom:latitude":34.504959,
     "geom:longitude":-91.551191,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"409 N College St",
     "sg:city":"Stuttgart",
     "sg:classifiers":[
@@ -68,10 +69,11 @@
         }
     ],
     "wof:id":219556723,
-    "wof:lastmodified":1449071275,
+    "wof:lastmodified":1466324587,
     "wof:name":"Herndon's Repair Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -85,6 +87,11 @@
         "saw"
     ]
 },
-  "bbox": [-91.551191,34.504959,-91.551191,34.504959],
+  "bbox": [
+    -91.551191,
+    34.504959,
+    -91.551191,
+    34.504959
+],
   "geometry": {"coordinates":[-91.551191,34.504959],"type":"Point"}
 }

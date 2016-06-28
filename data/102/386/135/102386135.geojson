@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102386135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.413187,35.354797,-94.413187,35.354797",
     "geom:latitude":35.354797,
     "geom:longitude":-94.413187,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3000 Jenny Lind Rd",
     "sg:city":"Fort Smith",
     "sg:classifiers":[
@@ -34,11 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834235,
+        85688549,
         85633793,
         85921431,
         102082025,
-        85688549
+        85834235
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":102386135,
-    "wof:lastmodified":1449069016,
+    "wof:lastmodified":1466323357,
     "wof:name":"J & D Hardwood Floors Inc",
     "wof:parent_id":85834235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.413187,35.354797,-94.413187,35.354797],
-  "geometry": {"coordinates":[-94.413187,35.354797],"type":"Point"}
+  "bbox": [
+    -94.413187,
+    35.354797,
+    -94.413187,
+    35.354797
+],
+  "geometry": {"coordinates":[-94.41318699999999,35.354797],"type":"Point"}
 }

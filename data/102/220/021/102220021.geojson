@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102220021",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.388345,35.351444,-94.388345,35.351444",
     "geom:latitude":35.351444,
     "geom:longitude":-94.388345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3323 S 41 St",
     "sg:city":"Fort Smith",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85849681,
+        85688549,
         85633793,
         85921431,
         102082025,
-        85688549
+        85849681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102220021",
-    "wof:lastmodified":1449070129,
+    "wof:lastmodified":1466321077,
     "wof:name":"Williams Agency",
     "wof:parent_id":85849681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.388345,35.351444,-94.388345,35.351444],
+  "bbox": [
+    -94.388345,
+    35.351444,
+    -94.388345,
+    35.351444
+],
   "geometry": {"coordinates":[-94.388345,35.351444],"type":"Point"}
 }

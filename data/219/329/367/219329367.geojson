@@ -2,13 +2,14 @@
   "id": 219329367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.885866,34.330794,-91.885866,34.330794",
     "geom:latitude":34.330794,
     "geom:longitude":-91.885866,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 Blackwell Rd",
     "sg:city":"Altheimer",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219329367,
-    "wof:lastmodified":1449071384,
+    "wof:lastmodified":1466321983,
     "wof:name":"Eyseppi Bros Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.885866,34.330794,-91.885866,34.330794],
-  "geometry": {"coordinates":[-91.885866,34.330794],"type":"Point"}
+  "bbox": [
+    -91.885866,
+    34.330794,
+    -91.885866,
+    34.330794
+],
+  "geometry": {"coordinates":[-91.88586599999999,34.330794],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219218349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.238355,33.26596,-93.238355,33.26596",
     "geom:latitude":33.26596,
     "geom:longitude":-93.238355,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"218 S Pine",
     "sg:city":"Magnolia",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219218349,
-    "wof:lastmodified":1449072620,
+    "wof:lastmodified":1466321031,
     "wof:name":"Add A Phone Answering Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "telephone"
     ]
 },
-  "bbox": [-93.238355,33.26596,-93.238355,33.26596],
+  "bbox": [
+    -93.238355,
+    33.26596,
+    -93.238355,
+    33.26596
+],
   "geometry": {"coordinates":[-93.238355,33.26596],"type":"Point"}
 }

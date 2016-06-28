@@ -2,13 +2,14 @@
   "id": 219488703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.231471,34.857608,-92.231471,34.857608",
     "geom:latitude":34.857608,
     "geom:longitude":-92.231471,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Wayside Dr",
     "sg:city":"Sherwood",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219488703,
-    "wof:lastmodified":1449073821,
+    "wof:lastmodified":1466323819,
     "wof:name":"Hiatus Entertainment",
     "wof:parent_id":85851723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-92.231471,34.857608,-92.231471,34.857608],
+  "bbox": [
+    -92.231471,
+    34.857608,
+    -92.231471,
+    34.857608
+],
   "geometry": {"coordinates":[-92.231471,34.857608],"type":"Point"}
 }

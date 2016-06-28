@@ -2,13 +2,14 @@
   "id": 219461623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.813578,34.363823,-92.813578,34.363823",
     "geom:latitude":34.363823,
     "geom:longitude":-92.813578,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"223 S Main St",
     "sg:city":"Malvern",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219461623,
-    "wof:lastmodified":1449071719,
+    "wof:lastmodified":1466323481,
     "wof:name":"Sawyer Ad",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "designer"
     ]
 },
-  "bbox": [-92.813578,34.363823,-92.813578,34.363823],
-  "geometry": {"coordinates":[-92.813578,34.363823],"type":"Point"}
+  "bbox": [
+    -92.813578,
+    34.363823,
+    -92.813578,
+    34.363823
+],
+  "geometry": {"coordinates":[-92.81357800000001,34.363823],"type":"Point"}
 }

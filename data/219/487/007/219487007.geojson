@@ -2,13 +2,14 @@
   "id": 219487007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.231275,34.828746,-92.231275,34.828746",
     "geom:latitude":34.828746,
     "geom:longitude":-92.231275,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8122 Highway 107 Ste C",
     "sg:city":"Sherwood",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219487007,
-    "wof:lastmodified":1449071552,
+    "wof:lastmodified":1466323788,
     "wof:name":"IMAGINE! Hobbies & Games",
     "wof:parent_id":85851723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "model"
     ]
 },
-  "bbox": [-92.231275,34.828746,-92.231275,34.828746],
+  "bbox": [
+    -92.231275,
+    34.828746,
+    -92.231275,
+    34.828746
+],
   "geometry": {"coordinates":[-92.231275,34.828746],"type":"Point"}
 }

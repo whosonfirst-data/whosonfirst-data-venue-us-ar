@@ -2,13 +2,14 @@
   "id": 219201553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.127604,33.830993,-93.127604,33.830993",
     "geom:latitude":33.830993,
     "geom:longitude":-93.127604,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 E Main St",
     "sg:city":"Gurdon",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219201553,
-    "wof:lastmodified":1449073437,
+    "wof:lastmodified":1466320881,
     "wof:name":"Kuhn Hardware, Furniture, Appliances & Electronics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "system"
     ]
 },
-  "bbox": [-93.127604,33.830993,-93.127604,33.830993],
-  "geometry": {"coordinates":[-93.127604,33.830993],"type":"Point"}
+  "bbox": [
+    -93.127604,
+    33.830993,
+    -93.127604,
+    33.830993
+],
+  "geometry": {"coordinates":[-93.12760400000001,33.830993],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102393551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.737457,35.248626,-91.737457,35.248626",
     "geom:latitude":35.248626,
     "geom:longitude":-91.737457,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 E Center Ave",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102393551,
-    "wof:lastmodified":1449068537,
+    "wof:lastmodified":1466324629,
     "wof:name":"Carla Fuller",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.737457,35.248626,-91.737457,35.248626],
-  "geometry": {"coordinates":[-91.737457,35.248626],"type":"Point"}
+  "bbox": [
+    -91.737457,
+    35.248626,
+    -91.737457,
+    35.248626
+],
+  "geometry": {"coordinates":[-91.73745700000001,35.248626],"type":"Point"}
 }

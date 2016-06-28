@@ -2,13 +2,14 @@
   "id": 354220645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.372059,36.314398,-94.372059,36.314398",
     "geom:latitude":36.314398,
     "geom:longitude":-94.372059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8891 S Pleasant Valley Rd",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354220645,
-    "wof:lastmodified":1449067611,
+    "wof:lastmodified":1466324340,
     "wof:name":"Dm Snack Time",
     "wof:parent_id":85853527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-94.372059,36.314398,-94.372059,36.314398],
-  "geometry": {"coordinates":[-94.372059,36.314398],"type":"Point"}
+  "bbox": [
+    -94.372059,
+    36.314398,
+    -94.372059,
+    36.314398
+],
+  "geometry": {"coordinates":[-94.37205899999999,36.314398],"type":"Point"}
 }

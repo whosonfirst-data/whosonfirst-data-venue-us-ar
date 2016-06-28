@@ -2,13 +2,14 @@
   "id": 219911483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.460406,36.335772,-94.460406,36.335772",
     "geom:latitude":36.335772,
     "geom:longitude":-94.460406,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 E Roller Ave",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219911483,
-    "wof:lastmodified":1449073339,
+    "wof:lastmodified":1466325117,
     "wof:name":"Grand Insurance & Financial Services Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "business"
     ]
 },
-  "bbox": [-94.460406,36.335772,-94.460406,36.335772],
-  "geometry": {"coordinates":[-94.460406,36.335772],"type":"Point"}
+  "bbox": [
+    -94.460406,
+    36.335772,
+    -94.460406,
+    36.335772
+],
+  "geometry": {"coordinates":[-94.46040600000001,36.335772],"type":"Point"}
 }

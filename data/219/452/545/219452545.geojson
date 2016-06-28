@@ -2,13 +2,14 @@
   "id": 219452545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.369652,34.554642,-92.369652,34.554642",
     "geom:latitude":34.554642,
     "geom:longitude":-92.369652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21400 Chicot Rd",
     "sg:city":"Mabelvale",
     "sg:classifiers":[
@@ -73,10 +74,11 @@
         }
     ],
     "wof:id":219452545,
-    "wof:lastmodified":1449071221,
+    "wof:lastmodified":1466323404,
     "wof:name":"Affordable Garage Door Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -90,6 +92,11 @@
         "garages-building"
     ]
 },
-  "bbox": [-92.369652,34.554642,-92.369652,34.554642],
+  "bbox": [
+    -92.369652,
+    34.554642,
+    -92.369652,
+    34.554642
+],
   "geometry": {"coordinates":[-92.369652,34.554642],"type":"Point"}
 }

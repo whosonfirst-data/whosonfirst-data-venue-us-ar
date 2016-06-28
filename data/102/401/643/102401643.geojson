@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102401643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.522382,36.028914,-90.522382,36.028914",
     "geom:latitude":36.028914,
     "geom:longitude":-90.522382,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2700 Linwood Dr",
     "sg:city":"Paragould",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102401643,
-    "wof:lastmodified":1449069811,
+    "wof:lastmodified":1466324770,
     "wof:name":"Leach Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.522382,36.028914,-90.522382,36.028914],
-  "geometry": {"coordinates":[-90.522382,36.028914],"type":"Point"}
+  "bbox": [
+    -90.522382,
+    36.028914,
+    -90.522382,
+    36.028914
+],
+  "geometry": {"coordinates":[-90.52238199999999,36.028914],"type":"Point"}
 }

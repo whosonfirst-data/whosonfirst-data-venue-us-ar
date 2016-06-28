@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102432911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.357826,34.667208,-92.357826,34.667208",
     "geom:latitude":34.667208,
     "geom:longitude":-92.357826,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9210 Oak Grove Ln",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102432911,
-    "wof:lastmodified":1449067730,
+    "wof:lastmodified":1466325625,
     "wof:name":"Stripe A Lot",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.357826,34.667208,-92.357826,34.667208],
+  "bbox": [
+    -92.357826,
+    34.667208,
+    -92.357826,
+    34.667208
+],
   "geometry": {"coordinates":[-92.357826,34.667208],"type":"Point"}
 }

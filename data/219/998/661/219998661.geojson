@@ -2,13 +2,14 @@
   "id": 219998661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.16827,36.288451,-94.16827,36.288451",
     "geom:latitude":36.288451,
     "geom:longitude":-94.16827,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2102 W Pleasant Grove Rd Ste 2",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219998661,
-    "wof:lastmodified":1449071565,
+    "wof:lastmodified":1466325451,
     "wof:name":"Bland Philip DC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.16827,36.288451,-94.16827,36.288451],
-  "geometry": {"coordinates":[-94.16827,36.288451],"type":"Point"}
+  "bbox": [
+    -94.16827,
+    36.288451,
+    -94.16827,
+    36.288451
+],
+  "geometry": {"coordinates":[-94.16827000000001,36.288451],"type":"Point"}
 }

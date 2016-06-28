@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102238433",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.055287,33.673082,-92.055287,33.673082",
     "geom:latitude":33.673082,
     "geom:longitude":-92.055287,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"446 US Hwy 63",
     "sg:city":"Warren",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":"102238433",
-    "wof:lastmodified":1449068677,
+    "wof:lastmodified":1466321608,
     "wof:name":"Jozac Signs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.055287,33.673082,-92.055287,33.673082],
-  "geometry": {"coordinates":[-92.055287,33.673082],"type":"Point"}
+  "bbox": [
+    -92.055287,
+    33.673082,
+    -92.055287,
+    33.673082
+],
+  "geometry": {"coordinates":[-92.05528700000001,33.673082],"type":"Point"}
 }

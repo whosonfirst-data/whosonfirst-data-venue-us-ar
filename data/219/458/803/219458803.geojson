@@ -2,13 +2,14 @@
   "id": 219458803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.110013,34.326675,-93.110013,34.326675",
     "geom:latitude":34.326675,
     "geom:longitude":-93.110013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31604 Highway 84",
     "sg:city":"Malvern",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219458803,
-    "wof:lastmodified":1449072912,
+    "wof:lastmodified":1466323458,
     "wof:name":"M & J Custom Paint",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "repairing"
     ]
 },
-  "bbox": [-93.110013,34.326675,-93.110013,34.326675],
+  "bbox": [
+    -93.110013,
+    34.326675,
+    -93.110013,
+    34.326675
+],
   "geometry": {"coordinates":[-93.110013,34.326675],"type":"Point"}
 }

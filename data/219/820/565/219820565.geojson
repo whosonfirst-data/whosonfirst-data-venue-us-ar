@@ -2,13 +2,14 @@
   "id": 219820565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.167731,36.02016,-94.167731,36.02016",
     "geom:latitude":36.02016,
     "geom:longitude":-94.167731,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"490 W Willoughby Rd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219820565,
-    "wof:lastmodified":1449072206,
+    "wof:lastmodified":1466324985,
     "wof:name":"Jnc Quality Mobile Detailing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "tune"
     ]
 },
-  "bbox": [-94.167731,36.02016,-94.167731,36.02016],
+  "bbox": [
+    -94.167731,
+    36.02016,
+    -94.167731,
+    36.02016
+],
   "geometry": {"coordinates":[-94.167731,36.02016],"type":"Point"}
 }

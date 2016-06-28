@@ -2,13 +2,14 @@
   "id": 220086239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.213586,35.420401,-93.213586,35.420401",
     "geom:latitude":35.420401,
     "geom:longitude":-93.213586,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"683 Padgett Pl",
     "sg:city":"Dover",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":220086239,
-    "wof:lastmodified":1449074592,
+    "wof:lastmodified":1466321801,
     "wof:name":"Reddell Trucking",
     "wof:parent_id":85834239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "trucking"
     ]
 },
-  "bbox": [-93.213586,35.420401,-93.213586,35.420401],
-  "geometry": {"coordinates":[-93.213586,35.420401],"type":"Point"}
+  "bbox": [
+    -93.213586,
+    35.420401,
+    -93.213586,
+    35.420401
+],
+  "geometry": {"coordinates":[-93.21358600000001,35.420401],"type":"Point"}
 }

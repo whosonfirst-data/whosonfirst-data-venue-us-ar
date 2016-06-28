@@ -2,13 +2,14 @@
   "id": 219921787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.48097,36.247388,-94.48097,36.247388",
     "geom:latitude":36.247388,
     "geom:longitude":-94.48097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20083 Dawn Hill East Rd",
     "sg:city":"Gentry",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219921787,
-    "wof:lastmodified":1449072652,
+    "wof:lastmodified":1466325139,
     "wof:name":"Bill Haak",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "livestock"
     ]
 },
-  "bbox": [-94.48097,36.247388,-94.48097,36.247388],
+  "bbox": [
+    -94.48097,
+    36.247388,
+    -94.48097,
+    36.247388
+],
   "geometry": {"coordinates":[-94.48097,36.247388],"type":"Point"}
 }

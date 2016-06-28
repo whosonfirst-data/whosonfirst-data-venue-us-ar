@@ -2,13 +2,14 @@
   "id": 303432053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.541423,36.18061,-94.541423,36.18061",
     "geom:latitude":36.18061,
     "geom:longitude":-94.541423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"620 S Mount Olive St",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303432053,
-    "wof:lastmodified":1448998072,
+    "wof:lastmodified":1466320473,
     "wof:name":"US Housing Authority",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "housing"
     ]
 },
-  "bbox": [-94.541423,36.18061,-94.541423,36.18061],
-  "geometry": {"coordinates":[-94.541423,36.18061],"type":"Point"}
+  "bbox": [
+    -94.541423,
+    36.18061,
+    -94.541423,
+    36.18061
+],
+  "geometry": {"coordinates":[-94.54142299999999,36.18061],"type":"Point"}
 }

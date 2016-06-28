@@ -2,13 +2,14 @@
   "id": 303328985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.367136,35.280513,-94.367136,35.280513",
     "geom:latitude":35.280513,
     "geom:longitude":-94.367136,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6200 Rye Hill Rd E",
     "sg:city":"Fort Smith",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303328985,
-    "wof:lastmodified":1448999562,
+    "wof:lastmodified":1466320444,
     "wof:name":"Imperial Homes Inc",
     "wof:parent_id":85808359,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "operative"
     ]
 },
-  "bbox": [-94.367136,35.280513,-94.367136,35.280513],
+  "bbox": [
+    -94.367136,
+    35.280513,
+    -94.367136,
+    35.280513
+],
   "geometry": {"coordinates":[-94.367136,35.280513],"type":"Point"}
 }

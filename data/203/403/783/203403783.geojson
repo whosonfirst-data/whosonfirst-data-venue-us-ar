@@ -2,13 +2,14 @@
   "id": 203403783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.106458,33.150699,-92.106458,33.150699",
     "geom:latitude":33.150699,
     "geom:longitude":-92.106458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5354 Highway 82 W",
     "sg:city":"Crossett",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203403783,
-    "wof:lastmodified":1449026596,
+    "wof:lastmodified":1466320519,
     "wof:name":"Gates Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "contractors-commercial"
     ]
 },
-  "bbox": [-92.106458,33.150699,-92.106458,33.150699],
+  "bbox": [
+    -92.106458,
+    33.150699,
+    -92.106458,
+    33.150699
+],
   "geometry": {"coordinates":[-92.106458,33.150699],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219456541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.784206,34.363334,-92.784206,34.363334",
     "geom:latitude":34.363334,
     "geom:longitude":-92.784206,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2667 Pine Bluff St",
     "sg:city":"Malvern",
     "sg:classifiers":[
@@ -71,10 +72,11 @@
         }
     ],
     "wof:id":219456541,
-    "wof:lastmodified":1449071451,
+    "wof:lastmodified":1466323440,
     "wof:name":"Aces Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -90,6 +92,11 @@
         "engineer"
     ]
 },
-  "bbox": [-92.784206,34.363334,-92.784206,34.363334],
+  "bbox": [
+    -92.784206,
+    34.363334,
+    -92.784206,
+    34.363334
+],
   "geometry": {"coordinates":[-92.784206,34.363334],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403801339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.007869,33.464023,-94.007869,33.464023",
     "geom:latitude":33.464023,
     "geom:longitude":-94.007869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4304 Loop 245",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403801339,
-    "wof:lastmodified":1449055739,
+    "wof:lastmodified":1466320408,
     "wof:name":"I 49 Auto Auction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "auctioneer"
     ]
 },
-  "bbox": [-94.007869,33.464023,-94.007869,33.464023],
+  "bbox": [
+    -94.007869,
+    33.464023,
+    -94.007869,
+    33.464023
+],
   "geometry": {"coordinates":[-94.007869,33.464023],"type":"Point"}
 }

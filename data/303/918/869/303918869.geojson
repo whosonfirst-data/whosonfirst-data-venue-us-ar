@@ -2,13 +2,14 @@
   "id": 303918869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.209249,34.545447,-94.209249,34.545447",
     "geom:latitude":34.545447,
     "geom:longitude":-94.209249,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"303 Polk Road 52",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303918869,
-    "wof:lastmodified":1448999782,
+    "wof:lastmodified":1466320634,
     "wof:name":"Ouachita Aviation Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "charter"
     ]
 },
-  "bbox": [-94.209249,34.545447,-94.209249,34.545447],
+  "bbox": [
+    -94.209249,
+    34.545447,
+    -94.209249,
+    34.545447
+],
   "geometry": {"coordinates":[-94.209249,34.545447],"type":"Point"}
 }

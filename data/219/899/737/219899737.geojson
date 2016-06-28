@@ -2,13 +2,14 @@
   "id": 219899737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.217228,36.382913,-94.217228,36.382913",
     "geom:latitude":36.382913,
     "geom:longitude":-94.217228,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"704 NW 10th St",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219899737,
-    "wof:lastmodified":1449073733,
+    "wof:lastmodified":1466325101,
     "wof:name":"Abc Decorating Spec Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "decorator"
     ]
 },
-  "bbox": [-94.217228,36.382913,-94.217228,36.382913],
-  "geometry": {"coordinates":[-94.217228,36.382913],"type":"Point"}
+  "bbox": [
+    -94.217228,
+    36.382913,
+    -94.217228,
+    36.382913
+],
+  "geometry": {"coordinates":[-94.21722800000001,36.382913],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219801639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.636125,35.914984,-92.636125,35.914984",
     "geom:latitude":35.914984,
     "geom:longitude":-92.636125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Battle St",
     "sg:city":"Marshall",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219801639,
-    "wof:lastmodified":1449073307,
+    "wof:lastmodified":1466325025,
     "wof:name":"Fountain Motors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "car"
     ]
 },
-  "bbox": [-92.636125,35.914984,-92.636125,35.914984],
-  "geometry": {"coordinates":[-92.636125,35.914984],"type":"Point"}
+  "bbox": [
+    -92.636125,
+    35.914984,
+    -92.636125,
+    35.914984
+],
+  "geometry": {"coordinates":[-92.63612500000001,35.914984],"type":"Point"}
 }

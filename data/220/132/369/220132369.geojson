@@ -2,13 +2,14 @@
   "id": 220132369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.098666,34.898686,-94.098666,34.898686",
     "geom:latitude":34.898686,
     "geom:longitude":-94.098666,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"264 Elm St",
     "sg:city":"Waldron",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220132369,
-    "wof:lastmodified":1449074418,
+    "wof:lastmodified":1466322861,
     "wof:name":"Ouachita Regional Clinic Of Natural Health",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "alternative"
     ]
 },
-  "bbox": [-94.098666,34.898686,-94.098666,34.898686],
-  "geometry": {"coordinates":[-94.098666,34.898686],"type":"Point"}
+  "bbox": [
+    -94.098666,
+    34.898686,
+    -94.098666,
+    34.898686
+],
+  "geometry": {"coordinates":[-94.09866599999999,34.898686],"type":"Point"}
 }

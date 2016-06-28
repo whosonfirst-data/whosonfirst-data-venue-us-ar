@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102366849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.921568,33.875285,-93.921568,33.875285",
     "geom:latitude":33.875285,
     "geom:longitude":-93.921568,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 S Hall St",
     "sg:city":"Mineral Springs",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102366849,
-    "wof:lastmodified":1449069558,
+    "wof:lastmodified":1466324480,
     "wof:name":"First Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.921568,33.875285,-93.921568,33.875285],
-  "geometry": {"coordinates":[-93.921568,33.875285],"type":"Point"}
+  "bbox": [
+    -93.921568,
+    33.875285,
+    -93.921568,
+    33.875285
+],
+  "geometry": {"coordinates":[-93.92156799999999,33.875285],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219426995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.397581,35.165871,-92.397581,35.165871",
     "geom:latitude":35.165871,
     "geom:longitude":-92.397581,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"620 Highway 65 N",
     "sg:city":"Greenbrier",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219426995,
-    "wof:lastmodified":1449071149,
+    "wof:lastmodified":1466323075,
     "wof:name":"Gemo Graphics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "artist"
     ]
 },
-  "bbox": [-92.397581,35.165871,-92.397581,35.165871],
+  "bbox": [
+    -92.397581,
+    35.165871,
+    -92.397581,
+    35.165871
+],
   "geometry": {"coordinates":[-92.397581,35.165871],"type":"Point"}
 }

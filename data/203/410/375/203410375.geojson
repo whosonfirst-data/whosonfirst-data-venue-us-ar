@@ -2,13 +2,14 @@
   "id": 203410375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.95977,33.11779,-91.95977,33.11779",
     "geom:latitude":33.11779,
     "geom:longitude":-91.95977,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1601 Main St",
     "sg:city":"Crossett",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":203410375,
-    "wof:lastmodified":1449024968,
+    "wof:lastmodified":1466320536,
     "wof:name":"Crossett Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "listing"
     ]
 },
-  "bbox": [-91.95977,33.11779,-91.95977,33.11779],
-  "geometry": {"coordinates":[-91.95977,33.11779],"type":"Point"}
+  "bbox": [
+    -91.95977,
+    33.11779,
+    -91.95977,
+    33.11779
+],
+  "geometry": {"coordinates":[-91.95977000000001,33.11779],"type":"Point"}
 }

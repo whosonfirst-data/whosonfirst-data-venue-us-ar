@@ -2,13 +2,14 @@
   "id": 220063629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.131973,35.280319,-93.131973,35.280319",
     "geom:latitude":35.280319,
     "geom:longitude":-93.131973,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 N Boston Ave",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":220063629,
-    "wof:lastmodified":1449074096,
+    "wof:lastmodified":1466321114,
     "wof:name":"Local Landscape Experts",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "landscape"
     ]
 },
-  "bbox": [-93.131973,35.280319,-93.131973,35.280319],
+  "bbox": [
+    -93.131973,
+    35.280319,
+    -93.131973,
+    35.280319
+],
   "geometry": {"coordinates":[-93.131973,35.280319],"type":"Point"}
 }

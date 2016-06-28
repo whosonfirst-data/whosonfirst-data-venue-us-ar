@@ -2,13 +2,14 @@
   "id": 219842499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.150623,36.099593,-94.150623,36.099593",
     "geom:latitude":36.099593,
     "geom:longitude":-94.150623,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2715 N Drake St",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":219842499,
-    "wof:lastmodified":1449070646,
+    "wof:lastmodified":1466325090,
     "wof:name":"AAA Business Systems, Inc",
     "wof:parent_id":85885431,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "equipment-repairing"
     ]
 },
-  "bbox": [-94.150623,36.099593,-94.150623,36.099593],
+  "bbox": [
+    -94.150623,
+    36.099593,
+    -94.150623,
+    36.099593
+],
   "geometry": {"coordinates":[-94.150623,36.099593],"type":"Point"}
 }

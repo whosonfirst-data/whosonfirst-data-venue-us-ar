@@ -2,13 +2,14 @@
   "id": 219752151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.874327,36.459663,-91.874327,36.459663",
     "geom:latitude":36.459663,
     "geom:longitude":-91.874327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Bay Creek Rd",
     "sg:city":"Sturkie",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219752151,
-    "wof:lastmodified":1449070976,
+    "wof:lastmodified":1466324984,
     "wof:name":"Southfork Antique Gallery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.874327,36.459663,-91.874327,36.459663],
-  "geometry": {"coordinates":[-91.874327,36.459663],"type":"Point"}
+  "bbox": [
+    -91.874327,
+    36.459663,
+    -91.874327,
+    36.459663
+],
+  "geometry": {"coordinates":[-91.87432699999999,36.459663],"type":"Point"}
 }

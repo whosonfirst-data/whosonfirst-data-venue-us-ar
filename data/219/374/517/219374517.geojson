@@ -2,13 +2,14 @@
   "id": 219374517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.452829,35.587674,-92.452829,35.587674",
     "geom:latitude":35.587674,
     "geom:longitude":-92.452829,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"230 Highway 65 N",
     "sg:city":"Clinton",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219374517,
-    "wof:lastmodified":1449071924,
+    "wof:lastmodified":1466322624,
     "wof:name":"Triplet Hearing Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "hearing"
     ]
 },
-  "bbox": [-92.452829,35.587674,-92.452829,35.587674],
-  "geometry": {"coordinates":[-92.452829,35.587674],"type":"Point"}
+  "bbox": [
+    -92.452829,
+    35.587674,
+    -92.452829,
+    35.587674
+],
+  "geometry": {"coordinates":[-92.45282899999999,35.587674],"type":"Point"}
 }

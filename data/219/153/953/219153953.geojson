@@ -2,13 +2,14 @@
   "id": 219153953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.797173,33.235199,-91.797173,33.235199",
     "geom:latitude":33.235199,
     "geom:longitude":-91.797173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 N Main St",
     "sg:city":"Hamburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219153953,
-    "wof:lastmodified":1449072817,
+    "wof:lastmodified":1466320420,
     "wof:name":"Pippen Meadows",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-91.797173,33.235199,-91.797173,33.235199],
+  "bbox": [
+    -91.797173,
+    33.235199,
+    -91.797173,
+    33.235199
+],
   "geometry": {"coordinates":[-91.797173,33.235199],"type":"Point"}
 }

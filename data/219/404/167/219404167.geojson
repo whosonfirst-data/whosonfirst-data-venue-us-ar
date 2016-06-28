@@ -2,13 +2,14 @@
   "id": 219404167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.471764,35.082581,-92.471764,35.082581",
     "geom:latitude":35.082581,
     "geom:longitude":-92.471764,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"306 Salem Rd",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":219404167,
-    "wof:lastmodified":1449072731,
+    "wof:lastmodified":1466322884,
     "wof:name":"Pennington Companies Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "rental"
     ]
 },
-  "bbox": [-92.471764,35.082581,-92.471764,35.082581],
-  "geometry": {"coordinates":[-92.471764,35.082581],"type":"Point"}
+  "bbox": [
+    -92.471764,
+    35.082581,
+    -92.471764,
+    35.082581
+],
+  "geometry": {"coordinates":[-92.47176399999999,35.082581],"type":"Point"}
 }

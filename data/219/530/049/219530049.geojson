@@ -2,13 +2,14 @@
   "id": 219530049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.740734,35.250079,-91.740734,35.250079",
     "geom:latitude":35.250079,
     "geom:longitude":-91.740734,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"506 W Arch Ave",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":219530049,
-    "wof:lastmodified":1449072259,
+    "wof:lastmodified":1466324180,
     "wof:name":"Mc Call Larry E Od",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "optometrists'"
     ]
 },
-  "bbox": [-91.740734,35.250079,-91.740734,35.250079],
+  "bbox": [
+    -91.740734,
+    35.250079,
+    -91.740734,
+    35.250079
+],
   "geometry": {"coordinates":[-91.740734,35.250079],"type":"Point"}
 }

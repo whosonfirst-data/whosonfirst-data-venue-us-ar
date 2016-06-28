@@ -2,13 +2,14 @@
   "id": 219705505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.201468,36.385018,-90.201468,36.385018",
     "geom:latitude":36.385018,
     "geom:longitude":-90.201468,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1185 W Cherry St",
     "sg:city":"Piggott",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219705505,
-    "wof:lastmodified":1449073943,
+    "wof:lastmodified":1466324937,
     "wof:name":"Trt Enterprise",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-90.201468,36.385018,-90.201468,36.385018],
-  "geometry": {"coordinates":[-90.201468,36.385018],"type":"Point"}
+  "bbox": [
+    -90.201468,
+    36.385018,
+    -90.201468,
+    36.385018
+],
+  "geometry": {"coordinates":[-90.20146800000001,36.385018],"type":"Point"}
 }

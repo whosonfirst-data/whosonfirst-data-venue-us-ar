@@ -2,13 +2,14 @@
   "id": 219801433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.623399,35.909654,-92.623399,35.909654",
     "geom:latitude":35.909654,
     "geom:longitude":-92.623399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 Holder St",
     "sg:city":"Marshall",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219801433,
-    "wof:lastmodified":1449073300,
+    "wof:lastmodified":1466324951,
     "wof:name":"Brian Ragland Drywall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-92.623399,35.909654,-92.623399,35.909654],
-  "geometry": {"coordinates":[-92.623399,35.909654],"type":"Point"}
+  "bbox": [
+    -92.623399,
+    35.909654,
+    -92.623399,
+    35.909654
+],
+  "geometry": {"coordinates":[-92.62339900000001,35.909654],"type":"Point"}
 }

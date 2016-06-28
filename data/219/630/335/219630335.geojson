@@ -2,13 +2,14 @@
   "id": 219630335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.704408,35.826539,-90.704408,35.826539",
     "geom:latitude":35.826539,
     "geom:longitude":-90.704408,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1530 N Church St",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219630335,
-    "wof:lastmodified":1449071652,
+    "wof:lastmodified":1466324627,
     "wof:name":"Jonesboro Family Health Center",
     "wof:parent_id":85836541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-90.704408,35.826539,-90.704408,35.826539],
+  "bbox": [
+    -90.704408,
+    35.826539,
+    -90.704408,
+    35.826539
+],
   "geometry": {"coordinates":[-90.704408,35.826539],"type":"Point"}
 }

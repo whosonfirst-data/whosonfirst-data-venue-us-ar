@@ -2,13 +2,14 @@
   "id": 219920871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.495132,36.22947,-94.495132,36.22947",
     "geom:latitude":36.22947,
     "geom:longitude":-94.495132,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12740 S Highway 59",
     "sg:city":"Gentry",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219920871,
-    "wof:lastmodified":1449073131,
+    "wof:lastmodified":1466325141,
     "wof:name":"Marcy's Dog Grooming",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "cat"
     ]
 },
-  "bbox": [-94.495132,36.22947,-94.495132,36.22947],
+  "bbox": [
+    -94.495132,
+    36.22947,
+    -94.495132,
+    36.22947
+],
   "geometry": {"coordinates":[-94.495132,36.22947],"type":"Point"}
 }

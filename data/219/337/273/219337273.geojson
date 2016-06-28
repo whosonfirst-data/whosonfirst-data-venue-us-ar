@@ -2,13 +2,14 @@
   "id": 219337273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.902249,35.060173,-91.902249,35.060173",
     "geom:latitude":35.060173,
     "geom:longitude":-91.902249,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1809 Orangewood Cv",
     "sg:city":"Beebe",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219337273,
-    "wof:lastmodified":1449072044,
+    "wof:lastmodified":1466322063,
     "wof:name":"Griil, The",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.902249,35.060173,-91.902249,35.060173],
+  "bbox": [
+    -91.902249,
+    35.060173,
+    -91.902249,
+    35.060173
+],
   "geometry": {"coordinates":[-91.902249,35.060173],"type":"Point"}
 }

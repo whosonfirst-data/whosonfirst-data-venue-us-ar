@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102259823",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.432027,35.091792,-92.432027,35.091792",
     "geom:latitude":35.091792,
     "geom:longitude":-92.432027,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"414 Oak St",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":"102259823",
-    "wof:lastmodified":1449068345,
+    "wof:lastmodified":1466322191,
     "wof:name":"Metropolitan National Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.432027,35.091792,-92.432027,35.091792],
-  "geometry": {"coordinates":[-92.432027,35.091792],"type":"Point"}
+  "bbox": [
+    -92.432027,
+    35.091792,
+    -92.432027,
+    35.091792
+],
+  "geometry": {"coordinates":[-92.43202700000001,35.091792],"type":"Point"}
 }

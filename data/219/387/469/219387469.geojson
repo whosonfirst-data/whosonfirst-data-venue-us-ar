@@ -2,13 +2,14 @@
   "id": 219387469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.419755,35.113572,-92.419755,35.113572",
     "geom:latitude":35.113572,
     "geom:longitude":-92.419755,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"272 Highway 65 N",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":219387469,
-    "wof:lastmodified":1449073436,
+    "wof:lastmodified":1466322738,
     "wof:name":"Pumpcon International",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "treatment"
     ]
 },
-  "bbox": [-92.419755,35.113572,-92.419755,35.113572],
-  "geometry": {"coordinates":[-92.419755,35.113572],"type":"Point"}
+  "bbox": [
+    -92.419755,
+    35.113572,
+    -92.419755,
+    35.113572
+],
+  "geometry": {"coordinates":[-92.41975499999999,35.113572],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220022549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.174843,36.168914,-94.174843,36.168914",
     "geom:latitude":36.168914,
     "geom:longitude":-94.174843,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1703 S 40th St",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220022549,
-    "wof:lastmodified":1449074286,
+    "wof:lastmodified":1466320500,
     "wof:name":"Pleasant Valley Self Storage",
     "wof:parent_id":85885473,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commercial"
     ]
 },
-  "bbox": [-94.174843,36.168914,-94.174843,36.168914],
+  "bbox": [
+    -94.174843,
+    36.168914,
+    -94.174843,
+    36.168914
+],
   "geometry": {"coordinates":[-94.174843,36.168914],"type":"Point"}
 }

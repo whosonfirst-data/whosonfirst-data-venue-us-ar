@@ -2,13 +2,14 @@
   "id": 219584713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.328038,35.225396,-90.328038,35.225396",
     "geom:latitude":35.225396,
     "geom:longitude":-90.328038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 Young St",
     "sg:city":"Crawfordsville",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":219584713,
-    "wof:lastmodified":1449070775,
+    "wof:lastmodified":1466324560,
     "wof:name":"Danmar Propane Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "gas-liquefied"
     ]
 },
-  "bbox": [-90.328038,35.225396,-90.328038,35.225396],
-  "geometry": {"coordinates":[-90.328038,35.225396],"type":"Point"}
+  "bbox": [
+    -90.328038,
+    35.225396,
+    -90.328038,
+    35.225396
+],
+  "geometry": {"coordinates":[-90.32803800000001,35.225396],"type":"Point"}
 }

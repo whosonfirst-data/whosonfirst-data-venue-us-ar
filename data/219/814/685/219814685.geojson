@@ -2,13 +2,14 @@
   "id": 219814685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.176113,36.056815,-94.176113,36.056815",
     "geom:latitude":36.056815,
     "geom:longitude":-94.176113,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1137 W Martin Luther King Blvd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219814685,
-    "wof:lastmodified":1449071044,
+    "wof:lastmodified":1466324884,
     "wof:name":"Inta Juice",
     "wof:parent_id":85885439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.176113,36.056815,-94.176113,36.056815],
+  "bbox": [
+    -94.176113,
+    36.056815,
+    -94.176113,
+    36.056815
+],
   "geometry": {"coordinates":[-94.176113,36.056815],"type":"Point"}
 }

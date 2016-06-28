@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102335321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.465725,35.470958,-93.465725,35.470958",
     "geom:latitude":35.470958,
     "geom:longitude":-93.465725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 S Fulton St",
     "sg:city":"Clarksville",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102335321,
-    "wof:lastmodified":1449069366,
+    "wof:lastmodified":1466323724,
     "wof:name":"Johnson County Title Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.465725,35.470958,-93.465725,35.470958],
-  "geometry": {"coordinates":[-93.465725,35.470958],"type":"Point"}
+  "bbox": [
+    -93.465725,
+    35.470958,
+    -93.465725,
+    35.470958
+],
+  "geometry": {"coordinates":[-93.46572500000001,35.470958],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219175671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.217069,34.055565,-92.217069,34.055565",
     "geom:latitude":34.055565,
     "geom:longitude":-92.217069,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"620 Cummings Ln",
     "sg:city":"Rison",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219175671,
-    "wof:lastmodified":1449072834,
+    "wof:lastmodified":1466320595,
     "wof:name":"James K Cummings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-92.217069,34.055565,-92.217069,34.055565],
+  "bbox": [
+    -92.217069,
+    34.055565,
+    -92.217069,
+    34.055565
+],
   "geometry": {"coordinates":[-92.217069,34.055565],"type":"Point"}
 }

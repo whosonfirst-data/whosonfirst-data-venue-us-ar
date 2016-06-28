@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102314629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.603719,33.66153,-93.603719,33.66153",
     "geom:latitude":33.66153,
     "geom:longitude":-93.603719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1202 W 7th St",
     "sg:city":"Hope",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806015,
+        85688549,
         85633793,
         85920547,
         102083213,
-        85688549
+        85806015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102314629,
-    "wof:lastmodified":1449070108,
+    "wof:lastmodified":1466323377,
     "wof:name":"Jacksons Lawn Care",
     "wof:parent_id":85806015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.603719,33.66153,-93.603719,33.66153],
+  "bbox": [
+    -93.603719,
+    33.66153,
+    -93.603719,
+    33.66153
+],
   "geometry": {"coordinates":[-93.603719,33.66153],"type":"Point"}
 }

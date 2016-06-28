@@ -2,13 +2,14 @@
   "id": 219890765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.214524,36.35927,-94.214524,36.35927",
     "geom:latitude":36.35927,
     "geom:longitude":-94.214524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"506 SW 12th St",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":219890765,
-    "wof:lastmodified":1449071174,
+    "wof:lastmodified":1466325081,
     "wof:name":"Crown Video Centers",
     "wof:parent_id":85895807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "exchange"
     ]
 },
-  "bbox": [-94.214524,36.35927,-94.214524,36.35927],
+  "bbox": [
+    -94.214524,
+    36.35927,
+    -94.214524,
+    36.35927
+],
   "geometry": {"coordinates":[-94.214524,36.35927],"type":"Point"}
 }

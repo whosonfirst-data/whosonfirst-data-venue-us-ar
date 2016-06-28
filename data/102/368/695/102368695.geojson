@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102368695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.501764,34.840405,-92.501764,34.840405",
     "geom:latitude":34.840405,
     "geom:longitude":-92.501764,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11509 Barrett Rd",
     "sg:city":"Roland",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":102368695,
-    "wof:lastmodified":1449068346,
+    "wof:lastmodified":1466324539,
     "wof:name":"Richland Services Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.501764,34.840405,-92.501764,34.840405],
-  "geometry": {"coordinates":[-92.501764,34.840405],"type":"Point"}
+  "bbox": [
+    -92.501764,
+    34.840405,
+    -92.501764,
+    34.840405
+],
+  "geometry": {"coordinates":[-92.50176399999999,34.840405],"type":"Point"}
 }

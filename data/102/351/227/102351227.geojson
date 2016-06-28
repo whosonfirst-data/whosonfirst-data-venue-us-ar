@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102351227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.110982,34.91016,-94.110982,34.91016",
     "geom:latitude":34.91016,
     "geom:longitude":-94.110982,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1035 Sweet Gum Ln",
     "sg:city":"Waldron",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102351227,
-    "wof:lastmodified":1449069806,
+    "wof:lastmodified":1466324002,
     "wof:name":"Sweet Gum Lanes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.110982,34.91016,-94.110982,34.91016],
-  "geometry": {"coordinates":[-94.110982,34.91016],"type":"Point"}
+  "bbox": [
+    -94.110982,
+    34.91016,
+    -94.110982,
+    34.91016
+],
+  "geometry": {"coordinates":[-94.11098200000001,34.91016],"type":"Point"}
 }

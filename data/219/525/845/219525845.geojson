@@ -2,13 +2,14 @@
   "id": 219525845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.768506,35.240842,-91.768506,35.240842",
     "geom:latitude":35.240842,
     "geom:longitude":-91.768506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2414 Brittany Ln",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219525845,
-    "wof:lastmodified":1449073196,
+    "wof:lastmodified":1466324149,
     "wof:name":"A & L Holdings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "holding"
     ]
 },
-  "bbox": [-91.768506,35.240842,-91.768506,35.240842],
+  "bbox": [
+    -91.768506,
+    35.240842,
+    -91.768506,
+    35.240842
+],
   "geometry": {"coordinates":[-91.768506,35.240842],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219269811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.043083,33.433874,-94.043083,33.433874",
     "geom:latitude":33.433874,
     "geom:longitude":-94.043083,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1122 N State Line Ave",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219269811,
-    "wof:lastmodified":1449072607,
+    "wof:lastmodified":1466321482,
     "wof:name":"Seven Eleven Liquor Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-94.043083,33.433874,-94.043083,33.433874],
+  "bbox": [
+    -94.043083,
+    33.433874,
+    -94.043083,
+    33.433874
+],
   "geometry": {"coordinates":[-94.043083,33.433874],"type":"Point"}
 }

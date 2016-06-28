@@ -2,13 +2,14 @@
   "id": 219286223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.079904,34.063385,-93.079904,34.063385",
     "geom:latitude":34.063385,
     "geom:longitude":-93.079904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 E Reynolds Rd",
     "sg:city":"Arkadelphia",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219286223,
-    "wof:lastmodified":1449071322,
+    "wof:lastmodified":1466321620,
     "wof:name":"Alcoa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "aluminum"
     ]
 },
-  "bbox": [-93.079904,34.063385,-93.079904,34.063385],
+  "bbox": [
+    -93.079904,
+    34.063385,
+    -93.079904,
+    34.063385
+],
   "geometry": {"coordinates":[-93.079904,34.063385],"type":"Point"}
 }

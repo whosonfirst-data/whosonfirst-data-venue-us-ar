@@ -2,13 +2,14 @@
   "id": 219439585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.064057,34.854287,-92.064057,34.854287",
     "geom:latitude":34.854287,
     "geom:longitude":-92.064057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"555 Richfield Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219439585,
-    "wof:lastmodified":1449071377,
+    "wof:lastmodified":1466323235,
     "wof:name":"Ddm Painting & Construction Inc",
     "wof:parent_id":85811577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-92.064057,34.854287,-92.064057,34.854287],
-  "geometry": {"coordinates":[-92.064057,34.854287],"type":"Point"}
+  "bbox": [
+    -92.064057,
+    34.854287,
+    -92.064057,
+    34.854287
+],
+  "geometry": {"coordinates":[-92.06405700000001,34.854287],"type":"Point"}
 }

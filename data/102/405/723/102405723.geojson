@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102405723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.827239,35.4869,-93.827239,35.4869",
     "geom:latitude":35.4869,
     "geom:longitude":-93.827239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 W Commercial St",
     "sg:city":"Ozark",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102405723,
-    "wof:lastmodified":1449069994,
+    "wof:lastmodified":1466325062,
     "wof:name":"Ozark Realty Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.827239,35.4869,-93.827239,35.4869],
-  "geometry": {"coordinates":[-93.827239,35.4869],"type":"Point"}
+  "bbox": [
+    -93.827239,
+    35.4869,
+    -93.827239,
+    35.4869
+],
+  "geometry": {"coordinates":[-93.82723900000001,35.4869],"type":"Point"}
 }

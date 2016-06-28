@@ -2,13 +2,14 @@
   "id": 287224797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.797452,36.422028,-94.797452,36.422028",
     "geom:latitude":36.422028,
     "geom:longitude":-94.797452,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"241 S 5th St",
     "sg:city":"Jay",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":287224797,
-    "wof:lastmodified":1449001329,
+    "wof:lastmodified":1466324428,
     "wof:name":"Planet Video",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "tape"
     ]
 },
-  "bbox": [-94.797452,36.422028,-94.797452,36.422028],
-  "geometry": {"coordinates":[-94.797452,36.422028],"type":"Point"}
+  "bbox": [
+    -94.797452,
+    36.422028,
+    -94.797452,
+    36.422028
+],
+  "geometry": {"coordinates":[-94.79745200000001,36.422028],"type":"Point"}
 }

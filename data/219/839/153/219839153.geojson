@@ -2,13 +2,14 @@
   "id": 219839153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.149079,36.104291,-94.149079,36.104291",
     "geom:latitude":36.104291,
     "geom:longitude":-94.149079,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2893 N Mckee Cir",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219839153,
-    "wof:lastmodified":1449072512,
+    "wof:lastmodified":1466325014,
     "wof:name":"Camden E Greene Foundation Inc",
     "wof:parent_id":85885431,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "research"
     ]
 },
-  "bbox": [-94.149079,36.104291,-94.149079,36.104291],
+  "bbox": [
+    -94.149079,
+    36.104291,
+    -94.149079,
+    36.104291
+],
   "geometry": {"coordinates":[-94.149079,36.104291],"type":"Point"}
 }

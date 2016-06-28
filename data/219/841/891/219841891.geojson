@@ -2,13 +2,14 @@
   "id": 219841891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.161819,36.098911,-94.161819,36.098911",
     "geom:latitude":36.098911,
     "geom:longitude":-94.161819,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2592 N Gregg Ave Ste 16",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -68,10 +69,11 @@
         }
     ],
     "wof:id":219841891,
-    "wof:lastmodified":1449071134,
+    "wof:lastmodified":1466325024,
     "wof:name":"Methodist Children & Fmly Svcs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -86,6 +88,11 @@
         "counselor"
     ]
 },
-  "bbox": [-94.161819,36.098911,-94.161819,36.098911],
-  "geometry": {"coordinates":[-94.161819,36.098911],"type":"Point"}
+  "bbox": [
+    -94.161819,
+    36.098911,
+    -94.161819,
+    36.098911
+],
+  "geometry": {"coordinates":[-94.16181899999999,36.098911],"type":"Point"}
 }

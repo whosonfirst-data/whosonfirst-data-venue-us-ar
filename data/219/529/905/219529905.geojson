@@ -2,13 +2,14 @@
   "id": 219529905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.73778,35.250129,-91.73778,35.250129",
     "geom:latitude":35.250129,
     "geom:longitude":-91.73778,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"213 W Arch Ave",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219529905,
-    "wof:lastmodified":1449071934,
+    "wof:lastmodified":1466324179,
     "wof:name":"A Second Helping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "restaurant"
     ]
 },
-  "bbox": [-91.73778,35.250129,-91.73778,35.250129],
+  "bbox": [
+    -91.73778,
+    35.250129,
+    -91.73778,
+    35.250129
+],
   "geometry": {"coordinates":[-91.73778,35.250129],"type":"Point"}
 }

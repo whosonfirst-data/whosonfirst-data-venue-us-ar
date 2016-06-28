@@ -2,13 +2,14 @@
   "id": 219922159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.478592,36.26749,-94.478592,36.26749",
     "geom:latitude":36.26749,
     "geom:longitude":-94.478592,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 S Gentry Blvd",
     "sg:city":"Gentry",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219922159,
-    "wof:lastmodified":1449070708,
+    "wof:lastmodified":1466325141,
     "wof:name":"Gentry Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "commercial"
     ]
 },
-  "bbox": [-94.478592,36.26749,-94.478592,36.26749],
-  "geometry": {"coordinates":[-94.478592,36.26749],"type":"Point"}
+  "bbox": [
+    -94.478592,
+    36.26749,
+    -94.478592,
+    36.26749
+],
+  "geometry": {"coordinates":[-94.47859200000001,36.26749],"type":"Point"}
 }

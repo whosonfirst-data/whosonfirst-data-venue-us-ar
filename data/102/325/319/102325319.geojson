@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102325319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.853781,33.353965,-91.853781,33.353965",
     "geom:latitude":33.353965,
     "geom:longitude":-91.853781,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 S Cypress St",
     "sg:city":"Fountain Hill",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102325319,
-    "wof:lastmodified":1449068705,
+    "wof:lastmodified":1466323558,
     "wof:name":"Bethel AME Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.853781,33.353965,-91.853781,33.353965],
+  "bbox": [
+    -91.853781,
+    33.353965,
+    -91.853781,
+    33.353965
+],
   "geometry": {"coordinates":[-91.853781,33.353965],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219886801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.218861,36.363237,-94.218861,36.363237",
     "geom:latitude":36.363237,
     "geom:longitude":-94.218861,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"902B S Walton Blvd Ste 26",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":219886801,
-    "wof:lastmodified":1449072327,
+    "wof:lastmodified":1466325007,
     "wof:name":"Premier Retail Networks, Inc.",
     "wof:parent_id":85895819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "advertising"
     ]
 },
-  "bbox": [-94.218861,36.363237,-94.218861,36.363237],
+  "bbox": [
+    -94.218861,
+    36.363237,
+    -94.218861,
+    36.363237
+],
   "geometry": {"coordinates":[-94.218861,36.363237],"type":"Point"}
 }

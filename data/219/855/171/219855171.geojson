@@ -2,13 +2,14 @@
   "id": 219855171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.134839,36.097875,-94.134839,36.097875",
     "geom:latitude":36.097875,
     "geom:longitude":-94.134839,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2625 N Old Wire Rd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219855171,
-    "wof:lastmodified":1449073007,
+    "wof:lastmodified":1466325035,
     "wof:name":"Bill Graue Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "trucking"
     ]
 },
-  "bbox": [-94.134839,36.097875,-94.134839,36.097875],
+  "bbox": [
+    -94.134839,
+    36.097875,
+    -94.134839,
+    36.097875
+],
   "geometry": {"coordinates":[-94.134839,36.097875],"type":"Point"}
 }

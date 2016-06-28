@@ -2,13 +2,14 @@
   "id": 219894695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.218861,36.363237,-94.218861,36.363237",
     "geom:latitude":36.363237,
     "geom:longitude":-94.218861,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"902A S Walton Blvd Ste 1",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":219894695,
-    "wof:lastmodified":1449071842,
+    "wof:lastmodified":1466325184,
     "wof:name":"Ups Stores, The",
     "wof:parent_id":85895819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-94.218861,36.363237,-94.218861,36.363237],
+  "bbox": [
+    -94.218861,
+    36.363237,
+    -94.218861,
+    36.363237
+],
   "geometry": {"coordinates":[-94.218861,36.363237],"type":"Point"}
 }

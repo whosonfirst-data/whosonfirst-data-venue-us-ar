@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102388553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.804387,35.259491,-91.804387,35.259491",
     "geom:latitude":35.259491,
     "geom:longitude":-91.804387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"178 E Eden Park Rd",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102388553,
-    "wof:lastmodified":1449067867,
+    "wof:lastmodified":1466323852,
     "wof:name":"Stokes Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.804387,35.259491,-91.804387,35.259491],
-  "geometry": {"coordinates":[-91.804387,35.259491],"type":"Point"}
+  "bbox": [
+    -91.804387,
+    35.259491,
+    -91.804387,
+    35.259491
+],
+  "geometry": {"coordinates":[-91.80438700000001,35.259491],"type":"Point"}
 }

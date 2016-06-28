@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102207709",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.247666,34.800107,-92.247666,34.800107",
     "geom:latitude":34.800107,
     "geom:longitude":-92.247666,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1700 Grove Hill Rd",
     "sg:city":"N Little Rock",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851793,
+        85688549,
         85633793,
         85921255,
         102082497,
-        85688549
+        85851793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":"102207709",
-    "wof:lastmodified":1449069483,
+    "wof:lastmodified":1466320912,
     "wof:name":"Hess Agency",
     "wof:parent_id":85851793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.247666,34.800107,-92.247666,34.800107],
+  "bbox": [
+    -92.247666,
+    34.800107,
+    -92.247666,
+    34.800107
+],
   "geometry": {"coordinates":[-92.247666,34.800107],"type":"Point"}
 }

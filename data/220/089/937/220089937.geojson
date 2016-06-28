@@ -2,13 +2,14 @@
   "id": 220089937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.735534,35.292115,-93.735534,35.292115",
     "geom:latitude":35.292115,
     "geom:longitude":-93.735534,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"514 W Walnut St",
     "sg:city":"Paris",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":220089937,
-    "wof:lastmodified":1449074202,
+    "wof:lastmodified":1466321880,
     "wof:name":"Paris Ford Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "new"
     ]
 },
-  "bbox": [-93.735534,35.292115,-93.735534,35.292115],
+  "bbox": [
+    -93.735534,
+    35.292115,
+    -93.735534,
+    35.292115
+],
   "geometry": {"coordinates":[-93.735534,35.292115],"type":"Point"}
 }

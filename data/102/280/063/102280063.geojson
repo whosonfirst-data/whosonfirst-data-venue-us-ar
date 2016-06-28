@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102280063",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.336025,34.524441,-93.336025,34.524441",
     "geom:latitude":34.524441,
     "geom:longitude":-93.336025,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"260 N Crystal Springs Rd",
     "sg:city":"Royal",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102280063",
-    "wof:lastmodified":1449068938,
+    "wof:lastmodified":1466322533,
     "wof:name":"Crystal Springs Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.336025,34.524441,-93.336025,34.524441],
-  "geometry": {"coordinates":[-93.336025,34.524441],"type":"Point"}
+  "bbox": [
+    -93.336025,
+    34.524441,
+    -93.336025,
+    34.524441
+],
+  "geometry": {"coordinates":[-93.33602500000001,34.524441],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102433175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.603771,33.28955,-92.603771,33.28955",
     "geom:latitude":33.28955,
     "geom:longitude":-92.603771,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5678 Calion Hwy",
     "sg:city":"El Dorado",
     "sg:classifiers":[
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":102433175,
-    "wof:lastmodified":1449068079,
+    "wof:lastmodified":1466325584,
     "wof:name":"Cottrell Communications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.603771,33.28955,-92.603771,33.28955],
-  "geometry": {"coordinates":[-92.603771,33.28955],"type":"Point"}
+  "bbox": [
+    -92.603771,
+    33.28955,
+    -92.603771,
+    33.28955
+],
+  "geometry": {"coordinates":[-92.60377099999999,33.28955],"type":"Point"}
 }

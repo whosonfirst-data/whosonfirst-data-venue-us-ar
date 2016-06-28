@@ -2,13 +2,14 @@
   "id": 219273901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.379582,33.799771,-93.379582,33.799771",
     "geom:latitude":33.799771,
     "geom:longitude":-93.379582,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"325 E Elm St",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":219273901,
-    "wof:lastmodified":1449072214,
+    "wof:lastmodified":1466321515,
     "wof:name":"Mac's Tire",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-93.379582,33.799771,-93.379582,33.799771],
+  "bbox": [
+    -93.379582,
+    33.799771,
+    -93.379582,
+    33.799771
+],
   "geometry": {"coordinates":[-93.379582,33.799771],"type":"Point"}
 }

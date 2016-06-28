@@ -2,13 +2,14 @@
   "id": 219881431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.222957,36.386172,-94.222957,36.386172",
     "geom:latitude":36.386172,
     "geom:longitude":-94.222957,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"927 NW 12th St",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219881431,
-    "wof:lastmodified":1449072426,
+    "wof:lastmodified":1466325068,
     "wof:name":"Tangels & Toes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.222957,36.386172,-94.222957,36.386172],
-  "geometry": {"coordinates":[-94.222957,36.386172],"type":"Point"}
+  "bbox": [
+    -94.222957,
+    36.386172,
+    -94.222957,
+    36.386172
+],
+  "geometry": {"coordinates":[-94.22295699999999,36.386172],"type":"Point"}
 }

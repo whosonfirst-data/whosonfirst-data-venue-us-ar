@@ -2,13 +2,14 @@
   "id": 219299125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.376437,34.475482,-94.376437,34.475482",
     "geom:latitude":34.475482,
     "geom:longitude":-94.376437,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"164 Polk Road 282",
     "sg:city":"Hatfield",
     "sg:classifiers":[
@@ -67,10 +68,11 @@
         }
     ],
     "wof:id":219299125,
-    "wof:lastmodified":1449071294,
+    "wof:lastmodified":1466321723,
     "wof:name":"Industrial Age Contractors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -87,6 +89,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-94.376437,34.475482,-94.376437,34.475482],
+  "bbox": [
+    -94.376437,
+    34.475482,
+    -94.376437,
+    34.475482
+],
   "geometry": {"coordinates":[-94.376437,34.475482],"type":"Point"}
 }

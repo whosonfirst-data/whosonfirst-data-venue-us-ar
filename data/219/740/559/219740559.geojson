@@ -2,13 +2,14 @@
   "id": 219740559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.491556,36.314765,-91.491556,36.314765",
     "geom:latitude":36.314765,
     "geom:longitude":-91.491556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1438 Highway 62 412",
     "sg:city":"Highland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219740559,
-    "wof:lastmodified":1449072000,
+    "wof:lastmodified":1466324900,
     "wof:name":"Datacom Solutions, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "internet"
     ]
 },
-  "bbox": [-91.491556,36.314765,-91.491556,36.314765],
+  "bbox": [
+    -91.491556,
+    36.314765,
+    -91.491556,
+    36.314765
+],
   "geometry": {"coordinates":[-91.491556,36.314765],"type":"Point"}
 }

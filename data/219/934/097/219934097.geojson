@@ -2,13 +2,14 @@
   "id": 219934097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.732971,36.08506,-93.732971,36.08506",
     "geom:latitude":36.08506,
     "geom:longitude":-93.732971,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 Amber St Apt 25",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":219934097,
-    "wof:lastmodified":1449070553,
+    "wof:lastmodified":1466325158,
     "wof:name":"Town Branch Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "listing"
     ]
 },
-  "bbox": [-93.732971,36.08506,-93.732971,36.08506],
-  "geometry": {"coordinates":[-93.732971,36.08506],"type":"Point"}
+  "bbox": [
+    -93.732971,
+    36.08506,
+    -93.732971,
+    36.08506
+],
+  "geometry": {"coordinates":[-93.73297100000001,36.08506],"type":"Point"}
 }

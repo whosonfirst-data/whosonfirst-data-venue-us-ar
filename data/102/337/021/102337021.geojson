@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102337021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.056205,36.156133,-91.056205,36.156133",
     "geom:latitude":36.156133,
     "geom:longitude":-91.056205,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7953 Hwy 166 S",
     "sg:city":"Pocahontas",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102337021,
-    "wof:lastmodified":1449068902,
+    "wof:lastmodified":1466323721,
     "wof:name":"Old Davidsonville State Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.056205,36.156133,-91.056205,36.156133],
-  "geometry": {"coordinates":[-91.056205,36.156133],"type":"Point"}
+  "bbox": [
+    -91.056205,
+    36.156133,
+    -91.056205,
+    36.156133
+],
+  "geometry": {"coordinates":[-91.05620500000001,36.156133],"type":"Point"}
 }

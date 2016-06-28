@@ -2,13 +2,14 @@
   "id": 220066117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.111588,35.289935,-93.111588,35.289935",
     "geom:latitude":35.289935,
     "geom:longitude":-93.111588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1205 N Sidney Ave",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":220066117,
-    "wof:lastmodified":1449074249,
+    "wof:lastmodified":1466321218,
     "wof:name":"Moye Bail Bond Co",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "bond"
     ]
 },
-  "bbox": [-93.111588,35.289935,-93.111588,35.289935],
+  "bbox": [
+    -93.111588,
+    35.289935,
+    -93.111588,
+    35.289935
+],
   "geometry": {"coordinates":[-93.111588,35.289935],"type":"Point"}
 }

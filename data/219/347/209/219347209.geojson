@@ -2,13 +2,14 @@
   "id": 219347209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.694179,34.883347,-92.694179,34.883347",
     "geom:latitude":34.883347,
     "geom:longitude":-92.694179,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"41025 Highway 10",
     "sg:city":"Bigelow",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219347209,
-    "wof:lastmodified":1449072100,
+    "wof:lastmodified":1466322216,
     "wof:name":"Foglers Construction & Rmdlg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "contractor"
     ]
 },
-  "bbox": [-92.694179,34.883347,-92.694179,34.883347],
-  "geometry": {"coordinates":[-92.694179,34.883347],"type":"Point"}
+  "bbox": [
+    -92.694179,
+    34.883347,
+    -92.694179,
+    34.883347
+],
+  "geometry": {"coordinates":[-92.69417900000001,34.883347],"type":"Point"}
 }

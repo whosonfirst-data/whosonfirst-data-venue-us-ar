@@ -2,13 +2,14 @@
   "id": 219177439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.276497,34.032668,-92.276497,34.032668",
     "geom:latitude":34.032668,
     "geom:longitude":-92.276497,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8530 Highway 35 N",
     "sg:city":"Rison",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219177439,
-    "wof:lastmodified":1449073913,
+    "wof:lastmodified":1466320606,
     "wof:name":"Arkansas Forestry Management Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "timber"
     ]
 },
-  "bbox": [-92.276497,34.032668,-92.276497,34.032668],
-  "geometry": {"coordinates":[-92.276497,34.032668],"type":"Point"}
+  "bbox": [
+    -92.276497,
+    34.032668,
+    -92.276497,
+    34.032668
+],
+  "geometry": {"coordinates":[-92.27649700000001,34.032668],"type":"Point"}
 }

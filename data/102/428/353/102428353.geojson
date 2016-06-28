@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102428353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.522489,35.517073,-93.522489,35.517073",
     "geom:latitude":35.517073,
     "geom:longitude":-93.522489,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"338 Co Rd 3350",
     "sg:city":"Clarksville",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102428353,
-    "wof:lastmodified":1449070023,
+    "wof:lastmodified":1466325463,
     "wof:name":"Johnson County RFD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.522489,35.517073,-93.522489,35.517073],
-  "geometry": {"coordinates":[-93.522489,35.517073],"type":"Point"}
+  "bbox": [
+    -93.522489,
+    35.517073,
+    -93.522489,
+    35.517073
+],
+  "geometry": {"coordinates":[-93.52248899999999,35.517073],"type":"Point"}
 }

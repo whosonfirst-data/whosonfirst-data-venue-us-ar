@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102424939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.351705,34.738198,-92.351705,34.738198",
     "geom:latitude":34.738198,
     "geom:longitude":-92.351705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1300 Westpark Dr",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     "sg:website":"www.standardbusiness.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85808177,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85808177
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":102424939,
-    "wof:lastmodified":1449070039,
+    "wof:lastmodified":1466325543,
     "wof:name":"Standard Business Systems",
     "wof:parent_id":85808177,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.351705,34.738198,-92.351705,34.738198],
+  "bbox": [
+    -92.351705,
+    34.738198,
+    -92.351705,
+    34.738198
+],
   "geometry": {"coordinates":[-92.351705,34.738198],"type":"Point"}
 }

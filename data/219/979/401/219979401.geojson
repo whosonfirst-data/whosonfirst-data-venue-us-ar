@@ -2,13 +2,14 @@
   "id": 219979401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.043838,36.338524,-94.043838,36.338524",
     "geom:latitude":36.338524,
     "geom:longitude":-94.043838,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8853 Pageant Dr",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219979401,
-    "wof:lastmodified":1449072884,
+    "wof:lastmodified":1466325233,
     "wof:name":"Brown Remodeling & Restoration",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-94.043838,36.338524,-94.043838,36.338524],
-  "geometry": {"coordinates":[-94.043838,36.338524],"type":"Point"}
+  "bbox": [
+    -94.043838,
+    36.338524,
+    -94.043838,
+    36.338524
+],
+  "geometry": {"coordinates":[-94.04383799999999,36.338524],"type":"Point"}
 }

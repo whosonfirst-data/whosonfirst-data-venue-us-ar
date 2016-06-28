@@ -2,13 +2,14 @@
   "id": 219644941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.710014,35.796465,-90.710014,35.796465",
     "geom:latitude":35.796465,
     "geom:longitude":-90.710014,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4009 Lafayette Ln",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":219644941,
-    "wof:lastmodified":1449072396,
+    "wof:lastmodified":1466324692,
     "wof:name":"Marion United Methodist Churc",
     "wof:parent_id":85836541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "churches-methodist"
     ]
 },
-  "bbox": [-90.710014,35.796465,-90.710014,35.796465],
+  "bbox": [
+    -90.710014,
+    35.796465,
+    -90.710014,
+    35.796465
+],
   "geometry": {"coordinates":[-90.710014,35.796465],"type":"Point"}
 }

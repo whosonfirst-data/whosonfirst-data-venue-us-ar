@@ -2,13 +2,14 @@
   "id": 320160363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.284107,34.591907,-94.284107,34.591907",
     "geom:latitude":34.591907,
     "geom:longitude":-94.284107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3613 State Hwy 8",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":320160363,
-    "wof:lastmodified":1449014382,
+    "wof:lastmodified":1466320460,
     "wof:name":"B & W Wholesale",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.284107,34.591907,-94.284107,34.591907],
-  "geometry": {"coordinates":[-94.284107,34.591907],"type":"Point"}
+  "bbox": [
+    -94.284107,
+    34.591907,
+    -94.284107,
+    34.591907
+],
+  "geometry": {"coordinates":[-94.28410700000001,34.591907],"type":"Point"}
 }

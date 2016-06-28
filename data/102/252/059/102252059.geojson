@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102252059",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.953386,33.128831,-91.953386,33.128831",
     "geom:latitude":33.128831,
     "geom:longitude":-91.953386,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 Hickory St",
     "sg:city":"Crossett",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102252059",
-    "wof:lastmodified":1449068117,
+    "wof:lastmodified":1466321847,
     "wof:name":"Brooks Hauling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.953386,33.128831,-91.953386,33.128831],
-  "geometry": {"coordinates":[-91.953386,33.128831],"type":"Point"}
+  "bbox": [
+    -91.953386,
+    33.128831,
+    -91.953386,
+    33.128831
+],
+  "geometry": {"coordinates":[-91.95338599999999,33.128831],"type":"Point"}
 }

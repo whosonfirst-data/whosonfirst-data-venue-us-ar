@@ -2,13 +2,14 @@
   "id": 219892823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.1908,36.3452,-94.1908,36.3452",
     "geom:latitude":36.3452,
     "geom:longitude":-94.1908,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2703 Otis Corley Dr",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219892823,
-    "wof:lastmodified":1449070908,
+    "wof:lastmodified":1466325016,
     "wof:name":"American Greeting Corp",
     "wof:parent_id":85895815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "card"
     ]
 },
-  "bbox": [-94.1908,36.3452,-94.1908,36.3452],
+  "bbox": [
+    -94.1908,
+    36.3452,
+    -94.1908,
+    36.3452
+],
   "geometry": {"coordinates":[-94.1908,36.3452],"type":"Point"}
 }

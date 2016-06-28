@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102209171",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.2387,33.255203,-93.2387,33.255203",
     "geom:latitude":33.255203,
     "geom:longitude":-93.2387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 Whitehead Dr",
     "sg:city":"Magnolia",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102209171",
-    "wof:lastmodified":1449069938,
+    "wof:lastmodified":1466320824,
     "wof:name":"M & M Muffler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.2387,33.255203,-93.2387,33.255203],
-  "geometry": {"coordinates":[-93.2387,33.255203],"type":"Point"}
+  "bbox": [
+    -93.2387,
+    33.255203,
+    -93.2387,
+    33.255203
+],
+  "geometry": {"coordinates":[-93.23869999999999,33.255203],"type":"Point"}
 }

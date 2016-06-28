@@ -2,13 +2,14 @@
   "id": 219806303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.167374,36.44743,-93.167374,36.44743",
     "geom:latitude":36.44743,
     "geom:longitude":-93.167374,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12395 Cobb Rd",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219806303,
-    "wof:lastmodified":1449070366,
+    "wof:lastmodified":1466324959,
     "wof:name":"John H Sinclair Dds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.167374,36.44743,-93.167374,36.44743],
+  "bbox": [
+    -93.167374,
+    36.44743,
+    -93.167374,
+    36.44743
+],
   "geometry": {"coordinates":[-93.167374,36.44743],"type":"Point"}
 }

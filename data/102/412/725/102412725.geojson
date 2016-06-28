@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102412725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.821665,34.376515,-92.821665,34.376515",
     "geom:latitude":34.376515,
     "geom:longitude":-92.821665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1023 W Moline St",
     "sg:city":"Malvern",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102412725,
-    "wof:lastmodified":1449068290,
+    "wof:lastmodified":1466325159,
     "wof:name":"Lots O Tots",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.821665,34.376515,-92.821665,34.376515],
+  "bbox": [
+    -92.821665,
+    34.376515,
+    -92.821665,
+    34.376515
+],
   "geometry": {"coordinates":[-92.821665,34.376515],"type":"Point"}
 }

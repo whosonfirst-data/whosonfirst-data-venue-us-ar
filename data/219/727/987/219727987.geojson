@@ -2,13 +2,14 @@
   "id": 219727987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.654204,35.696716,-91.654204,35.696716",
     "geom:latitude":35.696716,
     "geom:longitude":-91.654204,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"596 Mchue Rd",
     "sg:city":"Batesville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219727987,
-    "wof:lastmodified":1449070923,
+    "wof:lastmodified":1466324974,
     "wof:name":"Bill Clem Auto Sales",
     "wof:parent_id":85808231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "car"
     ]
 },
-  "bbox": [-91.654204,35.696716,-91.654204,35.696716],
-  "geometry": {"coordinates":[-91.654204,35.696716],"type":"Point"}
+  "bbox": [
+    -91.654204,
+    35.696716,
+    -91.654204,
+    35.696716
+],
+  "geometry": {"coordinates":[-91.65420399999999,35.696716],"type":"Point"}
 }

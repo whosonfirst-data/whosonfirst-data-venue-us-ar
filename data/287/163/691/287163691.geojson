@@ -2,13 +2,14 @@
   "id": 287163691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.217611,34.644725,-94.217611,34.644725",
     "geom:latitude":34.644725,
     "geom:longitude":-94.217611,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"184 US Hwy 270",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":287163691,
-    "wof:lastmodified":1449001576,
+    "wof:lastmodified":1466320411,
     "wof:name":"Ouachita Tax & Accounting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "filing"
     ]
 },
-  "bbox": [-94.217611,34.644725,-94.217611,34.644725],
-  "geometry": {"coordinates":[-94.217611,34.644725],"type":"Point"}
+  "bbox": [
+    -94.217611,
+    34.644725,
+    -94.217611,
+    34.644725
+],
+  "geometry": {"coordinates":[-94.21761100000001,34.644725],"type":"Point"}
 }

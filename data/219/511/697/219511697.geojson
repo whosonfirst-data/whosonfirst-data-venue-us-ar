@@ -2,13 +2,14 @@
   "id": 219511697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.726933,35.253138,-91.726933,35.253138",
     "geom:latitude":35.253138,
     "geom:longitude":-91.726933,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1004 E Moore Ave",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219511697,
-    "wof:lastmodified":1449072025,
+    "wof:lastmodified":1466324042,
     "wof:name":"Tender Loving Care Early Learn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "day"
     ]
 },
-  "bbox": [-91.726933,35.253138,-91.726933,35.253138],
+  "bbox": [
+    -91.726933,
+    35.253138,
+    -91.726933,
+    35.253138
+],
   "geometry": {"coordinates":[-91.726933,35.253138],"type":"Point"}
 }

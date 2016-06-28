@@ -2,13 +2,14 @@
   "id": 219300779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.663651,34.251523,-93.663651,34.251523",
     "geom:latitude":34.251523,
     "geom:longitude":-93.663651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Mike Bailey Rd",
     "sg:city":"Kirby",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219300779,
-    "wof:lastmodified":1449072362,
+    "wof:lastmodified":1466321737,
     "wof:name":"Bailey Logging",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "logging"
     ]
 },
-  "bbox": [-93.663651,34.251523,-93.663651,34.251523],
+  "bbox": [
+    -93.663651,
+    34.251523,
+    -93.663651,
+    34.251523
+],
   "geometry": {"coordinates":[-93.663651,34.251523],"type":"Point"}
 }

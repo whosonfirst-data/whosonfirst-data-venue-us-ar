@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102263665",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.133169,35.278067,-93.133169,35.278067",
     "geom:latitude":35.278067,
     "geom:longitude":-93.133169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"128 E Main St",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837141,
+        85688549,
         85633793,
         85919515,
         102082511,
-        85688549
+        85837141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102263665",
-    "wof:lastmodified":1449070144,
+    "wof:lastmodified":1466322241,
     "wof:name":"Mobley Law Firm PA",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.133169,35.278067,-93.133169,35.278067],
+  "bbox": [
+    -93.133169,
+    35.278067,
+    -93.133169,
+    35.278067
+],
   "geometry": {"coordinates":[-93.133169,35.278067],"type":"Point"}
 }

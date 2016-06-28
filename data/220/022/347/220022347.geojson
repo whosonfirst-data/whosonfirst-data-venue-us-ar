@@ -2,13 +2,14 @@
   "id": 220022347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.225586,36.189095,-94.225586,36.189095",
     "geom:latitude":36.189095,
     "geom:longitude":-94.225586,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4823 Har Ber Ave",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220022347,
-    "wof:lastmodified":1449074286,
+    "wof:lastmodified":1466320498,
     "wof:name":"Arkansas Inner Locked",
     "wof:parent_id":85885477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "hosting"
     ]
 },
-  "bbox": [-94.225586,36.189095,-94.225586,36.189095],
-  "geometry": {"coordinates":[-94.225586,36.189095],"type":"Point"}
+  "bbox": [
+    -94.225586,
+    36.189095,
+    -94.225586,
+    36.189095
+],
+  "geometry": {"coordinates":[-94.22558600000001,36.189095],"type":"Point"}
 }

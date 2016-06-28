@@ -2,13 +2,14 @@
   "id": 287229549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.224933,34.586319,-94.224933,34.586319",
     "geom:latitude":34.586319,
     "geom:longitude":-94.224933,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"709 US Hwy 71",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":287229549,
-    "wof:lastmodified":1449001371,
+    "wof:lastmodified":1466324430,
     "wof:name":"Mc Donald's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.224933,34.586319,-94.224933,34.586319],
-  "geometry": {"coordinates":[-94.224933,34.586319],"type":"Point"}
+  "bbox": [
+    -94.224933,
+    34.586319,
+    -94.224933,
+    34.586319
+],
+  "geometry": {"coordinates":[-94.22493299999999,34.586319],"type":"Point"}
 }

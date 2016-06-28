@@ -2,13 +2,14 @@
   "id": 220010201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.135749,36.300602,-94.135749,36.300602",
     "geom:latitude":36.300602,
     "geom:longitude":-94.135749,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1308 W Callahan Dr",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220010201,
-    "wof:lastmodified":1449074540,
+    "wof:lastmodified":1466320472,
     "wof:name":"Palmer Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrician"
     ]
 },
-  "bbox": [-94.135749,36.300602,-94.135749,36.300602],
+  "bbox": [
+    -94.135749,
+    36.300602,
+    -94.135749,
+    36.300602
+],
   "geometry": {"coordinates":[-94.135749,36.300602],"type":"Point"}
 }

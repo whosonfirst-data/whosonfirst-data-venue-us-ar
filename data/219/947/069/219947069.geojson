@@ -2,13 +2,14 @@
   "id": 219947069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.167746,36.284117,-94.167746,36.284117",
     "geom:latitude":36.284117,
     "geom:longitude":-94.167746,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1502 W Pleasant Grove Rd",
     "sg:city":"Lowell",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219947069,
-    "wof:lastmodified":1449072954,
+    "wof:lastmodified":1466325184,
     "wof:name":"Gracious Living Interiors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "design"
     ]
 },
-  "bbox": [-94.167746,36.284117,-94.167746,36.284117],
-  "geometry": {"coordinates":[-94.167746,36.284117],"type":"Point"}
+  "bbox": [
+    -94.167746,
+    36.284117,
+    -94.167746,
+    36.284117
+],
+  "geometry": {"coordinates":[-94.16774599999999,36.284117],"type":"Point"}
 }

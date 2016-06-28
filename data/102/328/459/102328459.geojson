@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102328459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.080919,35.295141,-94.080919,35.295141",
     "geom:latitude":35.295141,
     "geom:longitude":-94.080919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33607 State Hwy 22",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102328459,
-    "wof:lastmodified":1449069160,
+    "wof:lastmodified":1466323617,
     "wof:name":"Professional Mortuary Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.080919,35.295141,-94.080919,35.295141],
-  "geometry": {"coordinates":[-94.080919,35.295141],"type":"Point"}
+  "bbox": [
+    -94.080919,
+    35.295141,
+    -94.080919,
+    35.295141
+],
+  "geometry": {"coordinates":[-94.08091899999999,35.295141],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102354991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.652045,35.789372,-91.652045,35.789372",
     "geom:latitude":35.789372,
     "geom:longitude":-91.652045,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 White Dr",
     "sg:city":"Batesville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851415,
+        85688549,
         85633793,
         85920683,
         102083875,
-        85688549
+        85851415
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102354991,
-    "wof:lastmodified":1449069919,
+    "wof:lastmodified":1466324250,
     "wof:name":"Life Plus",
     "wof:parent_id":85851415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.652045,35.789372,-91.652045,35.789372],
+  "bbox": [
+    -91.652045,
+    35.789372,
+    -91.652045,
+    35.789372
+],
   "geometry": {"coordinates":[-91.652045,35.789372],"type":"Point"}
 }

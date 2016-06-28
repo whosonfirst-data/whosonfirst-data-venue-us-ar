@@ -2,13 +2,14 @@
   "id": 219710315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.961547,36.238826,-90.961547,36.238826",
     "geom:latitude":36.238826,
     "geom:longitude":-90.961547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"911 Townsend Dr",
     "sg:city":"Pocahontas",
     "sg:classifiers":[
@@ -72,10 +73,11 @@
         }
     ],
     "wof:id":219710315,
-    "wof:lastmodified":1449070604,
+    "wof:lastmodified":1466324807,
     "wof:name":"Farm Service True Value",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -88,6 +90,11 @@
         "store"
     ]
 },
-  "bbox": [-90.961547,36.238826,-90.961547,36.238826],
+  "bbox": [
+    -90.961547,
+    36.238826,
+    -90.961547,
+    36.238826
+],
   "geometry": {"coordinates":[-90.961547,36.238826],"type":"Point"}
 }

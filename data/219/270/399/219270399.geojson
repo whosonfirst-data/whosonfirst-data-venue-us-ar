@@ -2,13 +2,14 @@
   "id": 219270399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.98906,33.443611,-93.98906,33.443611",
     "geom:latitude":33.443611,
     "geom:longitude":-93.98906,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4397 Old Post Rd",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219270399,
-    "wof:lastmodified":1449071017,
+    "wof:lastmodified":1466321488,
     "wof:name":"Roo's Bistro Italiano",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.98906,33.443611,-93.98906,33.443611],
-  "geometry": {"coordinates":[-93.98906,33.443611],"type":"Point"}
+  "bbox": [
+    -93.98906,
+    33.443611,
+    -93.98906,
+    33.443611
+],
+  "geometry": {"coordinates":[-93.98905999999999,33.443611],"type":"Point"}
 }

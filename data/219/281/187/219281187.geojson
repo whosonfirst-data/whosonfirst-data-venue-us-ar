@@ -2,13 +2,14 @@
   "id": 219281187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.070282,34.123112,-93.070282,34.123112",
     "geom:latitude":34.123112,
     "geom:longitude":-93.070282,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1701 Pine St",
     "sg:city":"Arkadelphia",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219281187,
-    "wof:lastmodified":1449073370,
+    "wof:lastmodified":1466321578,
     "wof:name":"Christ Temple Holiness",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "churches-christian"
     ]
 },
-  "bbox": [-93.070282,34.123112,-93.070282,34.123112],
-  "geometry": {"coordinates":[-93.070282,34.123112],"type":"Point"}
+  "bbox": [
+    -93.070282,
+    34.123112,
+    -93.070282,
+    34.123112
+],
+  "geometry": {"coordinates":[-93.07028200000001,34.123112],"type":"Point"}
 }

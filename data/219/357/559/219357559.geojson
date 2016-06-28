@@ -2,13 +2,14 @@
   "id": 219357559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.488579,34.615921,-92.488579,34.615921",
     "geom:latitude":34.615921,
     "geom:longitude":-92.488579,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2400 Carywood Dr",
     "sg:city":"Bryant",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219357559,
-    "wof:lastmodified":1449073487,
+    "wof:lastmodified":1466322351,
     "wof:name":"Ray Wayne Consulting",
     "wof:parent_id":85817531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "coach"
     ]
 },
-  "bbox": [-92.488579,34.615921,-92.488579,34.615921],
+  "bbox": [
+    -92.488579,
+    34.615921,
+    -92.488579,
+    34.615921
+],
   "geometry": {"coordinates":[-92.488579,34.615921],"type":"Point"}
 }

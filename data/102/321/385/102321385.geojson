@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102321385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.251449,34.589059,-94.251449,34.589059",
     "geom:latitude":34.589059,
     "geom:longitude":-94.251449,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"192 Polk St N",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102321385,
-    "wof:lastmodified":1449067824,
+    "wof:lastmodified":1466323427,
     "wof:name":"Charles Starr Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.251449,34.589059,-94.251449,34.589059],
-  "geometry": {"coordinates":[-94.251449,34.589059],"type":"Point"}
+  "bbox": [
+    -94.251449,
+    34.589059,
+    -94.251449,
+    34.589059
+],
+  "geometry": {"coordinates":[-94.25144899999999,34.589059],"type":"Point"}
 }

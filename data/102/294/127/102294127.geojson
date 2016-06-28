@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102294127",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.434483,34.759723,-92.434483,34.759723",
     "geom:latitude":34.759723,
     "geom:longitude":-92.434483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7 Bernay Dr",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85846723,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85846723
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102294127",
-    "wof:lastmodified":1449069526,
+    "wof:lastmodified":1466322861,
     "wof:name":"Bryant Consulting",
     "wof:parent_id":85846723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.434483,34.759723,-92.434483,34.759723],
+  "bbox": [
+    -92.434483,
+    34.759723,
+    -92.434483,
+    34.759723
+],
   "geometry": {"coordinates":[-92.434483,34.759723],"type":"Point"}
 }

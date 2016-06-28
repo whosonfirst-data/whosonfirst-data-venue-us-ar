@@ -2,13 +2,14 @@
   "id": 219643113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.697155,35.84367,-90.697155,35.84367",
     "geom:latitude":35.84367,
     "geom:longitude":-90.697155,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 N Fisher St",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":219643113,
-    "wof:lastmodified":1449073446,
+    "wof:lastmodified":1466324661,
     "wof:name":"Church of God In Christ Intl.",
     "wof:parent_id":85836541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "churches-pentecostal"
     ]
 },
-  "bbox": [-90.697155,35.84367,-90.697155,35.84367],
+  "bbox": [
+    -90.697155,
+    35.84367,
+    -90.697155,
+    35.84367
+],
   "geometry": {"coordinates":[-90.697155,35.84367],"type":"Point"}
 }

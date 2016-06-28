@@ -2,13 +2,14 @@
   "id": 219518677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.751946,35.251062,-91.751946,35.251062",
     "geom:latitude":35.251062,
     "geom:longitude":-91.751946,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1520 E Race Ave",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219518677,
-    "wof:lastmodified":1449072370,
+    "wof:lastmodified":1466324095,
     "wof:name":"Bridges Graphics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "designer"
     ]
 },
-  "bbox": [-91.751946,35.251062,-91.751946,35.251062],
+  "bbox": [
+    -91.751946,
+    35.251062,
+    -91.751946,
+    35.251062
+],
   "geometry": {"coordinates":[-91.751946,35.251062],"type":"Point"}
 }

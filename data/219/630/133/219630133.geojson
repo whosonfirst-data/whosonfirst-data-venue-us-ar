@@ -2,13 +2,14 @@
   "id": 219630133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.668694,35.827824,-90.668694,35.827824",
     "geom:latitude":35.827824,
     "geom:longitude":-90.668694,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1319 Stadium Blvd",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219630133,
-    "wof:lastmodified":1449071654,
+    "wof:lastmodified":1466324626,
     "wof:name":"Seattle Grind Cafe",
     "wof:parent_id":85836541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.668694,35.827824,-90.668694,35.827824],
+  "bbox": [
+    -90.668694,
+    35.827824,
+    -90.668694,
+    35.827824
+],
   "geometry": {"coordinates":[-90.668694,35.827824],"type":"Point"}
 }

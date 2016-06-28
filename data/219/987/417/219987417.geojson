@@ -2,13 +2,14 @@
   "id": 219987417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.178054,36.287303,-94.178054,36.287303",
     "geom:latitude":36.287303,
     "geom:longitude":-94.178054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6401 S 44th St",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219987417,
-    "wof:lastmodified":1449072352,
+    "wof:lastmodified":1466325241,
     "wof:name":"Merritt James M MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "internal"
     ]
 },
-  "bbox": [-94.178054,36.287303,-94.178054,36.287303],
+  "bbox": [
+    -94.178054,
+    36.287303,
+    -94.178054,
+    36.287303
+],
   "geometry": {"coordinates":[-94.178054,36.287303],"type":"Point"}
 }

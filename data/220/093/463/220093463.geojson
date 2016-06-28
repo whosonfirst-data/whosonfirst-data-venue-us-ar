@@ -2,13 +2,14 @@
   "id": 220093463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.787222,35.297275,-93.787222,35.297275",
     "geom:latitude":35.297275,
     "geom:longitude":-93.787222,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4583 W State Highway 22",
     "sg:city":"Paris",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":220093463,
-    "wof:lastmodified":1449074058,
+    "wof:lastmodified":1466322020,
     "wof:name":"Wilkerson Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "repairing"
     ]
 },
-  "bbox": [-93.787222,35.297275,-93.787222,35.297275],
+  "bbox": [
+    -93.787222,
+    35.297275,
+    -93.787222,
+    35.297275
+],
   "geometry": {"coordinates":[-93.787222,35.297275],"type":"Point"}
 }

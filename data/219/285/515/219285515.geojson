@@ -2,13 +2,14 @@
   "id": 219285515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.089389,34.121053,-93.089389,34.121053",
     "geom:latitude":34.121053,
     "geom:longitude":-93.089389,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"312 Professional Park Dr Suite D",
     "sg:city":"Arkadelphia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219285515,
-    "wof:lastmodified":1449070466,
+    "wof:lastmodified":1466321613,
     "wof:name":"Miranda Childs DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "clinic"
     ]
 },
-  "bbox": [-93.089389,34.121053,-93.089389,34.121053],
+  "bbox": [
+    -93.089389,
+    34.121053,
+    -93.089389,
+    34.121053
+],
   "geometry": {"coordinates":[-93.089389,34.121053],"type":"Point"}
 }

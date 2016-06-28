@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102308963",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.049411,34.203656,-92.049411,34.203656",
     "geom:latitude":34.203656,
     "geom:longitude":-92.049411,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2600 S Persimmon St",
     "sg:city":"Pine Bluff",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102308963",
-    "wof:lastmodified":1449070270,
+    "wof:lastmodified":1466323319,
     "wof:name":"Pine Bluff Crating & Pallet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.049411,34.203656,-92.049411,34.203656],
-  "geometry": {"coordinates":[-92.049411,34.203656],"type":"Point"}
+  "bbox": [
+    -92.049411,
+    34.203656,
+    -92.049411,
+    34.203656
+],
+  "geometry": {"coordinates":[-92.04941100000001,34.203656],"type":"Point"}
 }

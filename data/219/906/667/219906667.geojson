@@ -2,13 +2,14 @@
   "id": 219906667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.183523,36.356815,-94.183523,36.356815",
     "geom:latitude":36.356815,
     "geom:longitude":-94.183523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1206 Moberly Ln",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219906667,
-    "wof:lastmodified":1449071731,
+    "wof:lastmodified":1466325107,
     "wof:name":"R & B Management Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "services-household"
     ]
 },
-  "bbox": [-94.183523,36.356815,-94.183523,36.356815],
-  "geometry": {"coordinates":[-94.183523,36.356815],"type":"Point"}
+  "bbox": [
+    -94.183523,
+    36.356815,
+    -94.183523,
+    36.356815
+],
+  "geometry": {"coordinates":[-94.18352299999999,36.356815],"type":"Point"}
 }

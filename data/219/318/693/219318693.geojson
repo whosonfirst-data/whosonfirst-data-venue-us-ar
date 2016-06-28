@@ -2,13 +2,14 @@
   "id": 219318693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.21222,34.456777,-93.21222,34.456777",
     "geom:latitude":34.456777,
     "geom:longitude":-93.21222,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5630 Sunshine Rd",
     "sg:city":"Pearcy",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219318693,
-    "wof:lastmodified":1449071177,
+    "wof:lastmodified":1466321884,
     "wof:name":"Bryan Reis Atty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "practice"
     ]
 },
-  "bbox": [-93.21222,34.456777,-93.21222,34.456777],
+  "bbox": [
+    -93.21222,
+    34.456777,
+    -93.21222,
+    34.456777
+],
   "geometry": {"coordinates":[-93.21222,34.456777],"type":"Point"}
 }

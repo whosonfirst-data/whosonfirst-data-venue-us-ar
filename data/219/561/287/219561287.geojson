@@ -2,13 +2,14 @@
   "id": 219561287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.250825,35.087372,-92.250825,35.087372",
     "geom:latitude":35.087372,
     "geom:longitude":-92.250825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Brentwood Dr",
     "sg:city":"Vilonia",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219561287,
-    "wof:lastmodified":1449072901,
+    "wof:lastmodified":1466324411,
     "wof:name":"Glazy's Transportation Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transportation"
     ]
 },
-  "bbox": [-92.250825,35.087372,-92.250825,35.087372],
-  "geometry": {"coordinates":[-92.250825,35.087372],"type":"Point"}
+  "bbox": [
+    -92.250825,
+    35.087372,
+    -92.250825,
+    35.087372
+],
+  "geometry": {"coordinates":[-92.25082500000001,35.087372],"type":"Point"}
 }

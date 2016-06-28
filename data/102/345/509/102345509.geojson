@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102345509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.857496,33.584236,-92.857496,33.584236",
     "geom:latitude":33.584236,
     "geom:longitude":-92.857496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1513 Copeland St",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102345509,
-    "wof:lastmodified":1449069996,
+    "wof:lastmodified":1466323970,
     "wof:name":"Stafford Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.857496,33.584236,-92.857496,33.584236],
+  "bbox": [
+    -92.857496,
+    33.584236,
+    -92.857496,
+    33.584236
+],
   "geometry": {"coordinates":[-92.857496,33.584236],"type":"Point"}
 }

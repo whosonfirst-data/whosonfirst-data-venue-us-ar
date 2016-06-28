@@ -2,13 +2,14 @@
   "id": 220074951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.541086,35.476627,-93.541086,35.476627",
     "geom:latitude":35.476627,
     "geom:longitude":-93.541086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2805 Wire Rd",
     "sg:city":"Clarksville",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":220074951,
-    "wof:lastmodified":1449074482,
+    "wof:lastmodified":1466321440,
     "wof:name":"Clarksville Golf & Games",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "supply"
     ]
 },
-  "bbox": [-93.541086,35.476627,-93.541086,35.476627],
-  "geometry": {"coordinates":[-93.541086,35.476627],"type":"Point"}
+  "bbox": [
+    -93.541086,
+    35.476627,
+    -93.541086,
+    35.476627
+],
+  "geometry": {"coordinates":[-93.54108600000001,35.476627],"type":"Point"}
 }

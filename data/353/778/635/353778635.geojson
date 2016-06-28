@@ -2,13 +2,14 @@
   "id": 353778635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.546942,36.173804,-94.546942,36.173804",
     "geom:latitude":36.173804,
     "geom:longitude":-94.546942,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 Hwy 412 W",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353778635,
-    "wof:lastmodified":1449018298,
+    "wof:lastmodified":1466320508,
     "wof:name":"Benton County Title & Abstract",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "title"
     ]
 },
-  "bbox": [-94.546942,36.173804,-94.546942,36.173804],
+  "bbox": [
+    -94.546942,
+    36.173804,
+    -94.546942,
+    36.173804
+],
   "geometry": {"coordinates":[-94.546942,36.173804],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219917117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.273827,36.014451,-94.273827,36.014451",
     "geom:latitude":36.014451,
     "geom:longitude":-94.273827,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11630 Cactus Jack Rd",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219917117,
-    "wof:lastmodified":1449073447,
+    "wof:lastmodified":1466325125,
     "wof:name":"Foshe & Sons Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "contractor"
     ]
 },
-  "bbox": [-94.273827,36.014451,-94.273827,36.014451],
+  "bbox": [
+    -94.273827,
+    36.014451,
+    -94.273827,
+    36.014451
+],
   "geometry": {"coordinates":[-94.273827,36.014451],"type":"Point"}
 }

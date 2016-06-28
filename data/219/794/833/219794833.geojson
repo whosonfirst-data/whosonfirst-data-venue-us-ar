@@ -2,13 +2,14 @@
   "id": 219794833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.596713,36.277769,-92.596713,36.277769",
     "geom:latitude":36.277769,
     "geom:longitude":-92.596713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"317 E Main St",
     "sg:city":"Flippin",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219794833,
-    "wof:lastmodified":1449072085,
+    "wof:lastmodified":1466324947,
     "wof:name":"Us Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "commercial"
     ]
 },
-  "bbox": [-92.596713,36.277769,-92.596713,36.277769],
-  "geometry": {"coordinates":[-92.596713,36.277769],"type":"Point"}
+  "bbox": [
+    -92.596713,
+    36.277769,
+    -92.596713,
+    36.277769
+],
+  "geometry": {"coordinates":[-92.59671299999999,36.277769],"type":"Point"}
 }

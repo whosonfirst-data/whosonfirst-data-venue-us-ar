@@ -2,13 +2,14 @@
   "id": 220096907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.22621,35.48472,-94.22621,35.48472",
     "geom:latitude":35.48472,
     "geom:longitude":-94.22621,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Highway 71 N Ste 111",
     "sg:city":"Alma",
     "sg:classifiers":[
@@ -73,10 +74,11 @@
         }
     ],
     "wof:id":220096907,
-    "wof:lastmodified":1449074278,
+    "wof:lastmodified":1466322102,
     "wof:name":"Edward Jones - CAROL J NEWTON",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -95,6 +97,11 @@
         "stock"
     ]
 },
-  "bbox": [-94.22621,35.48472,-94.22621,35.48472],
-  "geometry": {"coordinates":[-94.22621,35.48472],"type":"Point"}
+  "bbox": [
+    -94.22621,
+    35.48472,
+    -94.22621,
+    35.48472
+],
+  "geometry": {"coordinates":[-94.22620999999999,35.48472],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219537791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.394605,34.336242,-92.394605,34.336242",
     "geom:latitude":34.336242,
     "geom:longitude":-92.394605,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2997 Highway 167 N",
     "sg:city":"Sheridan",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219537791,
-    "wof:lastmodified":1449071263,
+    "wof:lastmodified":1466324240,
     "wof:name":"Mccool Marine & Auto Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "repairing"
     ]
 },
-  "bbox": [-92.394605,34.336242,-92.394605,34.336242],
+  "bbox": [
+    -92.394605,
+    34.336242,
+    -92.394605,
+    34.336242
+],
   "geometry": {"coordinates":[-92.394605,34.336242],"type":"Point"}
 }

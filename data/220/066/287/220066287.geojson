@@ -2,13 +2,14 @@
   "id": 220066287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.133846,35.272858,-93.133846,35.272858",
     "geom:latitude":35.272858,
     "geom:longitude":-93.133846,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"620 S Arkansas Ave",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":220066287,
-    "wof:lastmodified":1449074248,
+    "wof:lastmodified":1466321221,
     "wof:name":"Sound Investments Incorporated",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "accessory"
     ]
 },
-  "bbox": [-93.133846,35.272858,-93.133846,35.272858],
-  "geometry": {"coordinates":[-93.133846,35.272858],"type":"Point"}
+  "bbox": [
+    -93.133846,
+    35.272858,
+    -93.133846,
+    35.272858
+],
+  "geometry": {"coordinates":[-93.13384600000001,35.272858],"type":"Point"}
 }

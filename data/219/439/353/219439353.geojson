@@ -2,13 +2,14 @@
   "id": 219439353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.122555,34.852648,-92.122555,34.852648",
     "geom:latitude":34.852648,
     "geom:longitude":-92.122555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"425 E Trickey Ln Ofc",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":219439353,
-    "wof:lastmodified":1449071375,
+    "wof:lastmodified":1466323229,
     "wof:name":"Johnson Apartments",
     "wof:parent_id":85852337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "listing"
     ]
 },
-  "bbox": [-92.122555,34.852648,-92.122555,34.852648],
-  "geometry": {"coordinates":[-92.122555,34.852648],"type":"Point"}
+  "bbox": [
+    -92.122555,
+    34.852648,
+    -92.122555,
+    34.852648
+],
+  "geometry": {"coordinates":[-92.12255500000001,34.852648],"type":"Point"}
 }

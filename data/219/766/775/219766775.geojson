@@ -2,13 +2,14 @@
   "id": 219766775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.114476,36.247036,-93.114476,36.247036",
     "geom:latitude":36.247036,
     "geom:longitude":-93.114476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1428 Highway 62 65 N 65 N Ste H-Z",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219766775,
-    "wof:lastmodified":1449070335,
+    "wof:lastmodified":1466324857,
     "wof:name":"Cityscapes Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "broker"
     ]
 },
-  "bbox": [-93.114476,36.247036,-93.114476,36.247036],
+  "bbox": [
+    -93.114476,
+    36.247036,
+    -93.114476,
+    36.247036
+],
   "geometry": {"coordinates":[-93.114476,36.247036],"type":"Point"}
 }

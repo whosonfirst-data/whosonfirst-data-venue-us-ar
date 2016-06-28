@@ -2,13 +2,14 @@
   "id": 219189713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.851334,33.577679,-92.851334,33.577679",
     "geom:latitude":33.577679,
     "geom:longitude":-92.851334,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 Cash Rd SW",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":219189713,
-    "wof:lastmodified":1449072895,
+    "wof:lastmodified":1466320733,
     "wof:name":"Cox & Associates Insurance",
     "wof:parent_id":85813169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "referral"
     ]
 },
-  "bbox": [-92.851334,33.577679,-92.851334,33.577679],
-  "geometry": {"coordinates":[-92.851334,33.577679],"type":"Point"}
+  "bbox": [
+    -92.851334,
+    33.577679,
+    -92.851334,
+    33.577679
+],
+  "geometry": {"coordinates":[-92.85133399999999,33.577679],"type":"Point"}
 }

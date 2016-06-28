@@ -2,13 +2,14 @@
   "id": 235949777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.733538,36.597942,-94.733538,36.597942",
     "geom:latitude":36.597942,
     "geom:longitude":-94.733538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1911 E Highway 10",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":235949777,
-    "wof:lastmodified":1449008463,
+    "wof:lastmodified":1466320445,
     "wof:name":"Affordable Family Health Care",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-94.733538,36.597942,-94.733538,36.597942],
+  "bbox": [
+    -94.733538,
+    36.597942,
+    -94.733538,
+    36.597942
+],
   "geometry": {"coordinates":[-94.733538,36.597942],"type":"Point"}
 }

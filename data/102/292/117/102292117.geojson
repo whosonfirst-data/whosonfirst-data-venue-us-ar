@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102292117",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.516744,35.462375,-93.516744,35.462375",
     "geom:latitude":35.462375,
     "geom:longitude":-93.516744,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 Massengale Rd",
     "sg:city":"Clarksville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85847897,
+        85688549,
         85633793,
         85921043,
         102083251,
-        85688549
+        85847897
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102292117",
-    "wof:lastmodified":1449068004,
+    "wof:lastmodified":1466322801,
     "wof:name":"Schuh's Garage",
     "wof:parent_id":85847897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.516744,35.462375,-93.516744,35.462375],
+  "bbox": [
+    -93.516744,
+    35.462375,
+    -93.516744,
+    35.462375
+],
   "geometry": {"coordinates":[-93.516744,35.462375],"type":"Point"}
 }

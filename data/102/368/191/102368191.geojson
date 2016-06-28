@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102368191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.55292,34.48841,-91.55292,34.48841",
     "geom:latitude":34.48841,
     "geom:longitude":-91.55292,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 S Main St",
     "sg:city":"Stuttgart",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102368191,
-    "wof:lastmodified":1449068346,
+    "wof:lastmodified":1466324380,
     "wof:name":"Stuttgart Housing Authority",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.55292,34.48841,-91.55292,34.48841],
+  "bbox": [
+    -91.55292,
+    34.48841,
+    -91.55292,
+    34.48841
+],
   "geometry": {"coordinates":[-91.55292,34.48841],"type":"Point"}
 }

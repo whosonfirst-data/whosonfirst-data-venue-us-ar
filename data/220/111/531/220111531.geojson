@@ -2,13 +2,14 @@
   "id": 220111531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.251366,35.229125,-94.251366,35.229125",
     "geom:latitude":35.229125,
     "geom:longitude":-94.251366,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1122 N Camelia St",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220111531,
-    "wof:lastmodified":1449074897,
+    "wof:lastmodified":1466322424,
     "wof:name":"F C I A Services Inc",
     "wof:parent_id":85832863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-94.251366,35.229125,-94.251366,35.229125],
+  "bbox": [
+    -94.251366,
+    35.229125,
+    -94.251366,
+    35.229125
+],
   "geometry": {"coordinates":[-94.251366,35.229125],"type":"Point"}
 }

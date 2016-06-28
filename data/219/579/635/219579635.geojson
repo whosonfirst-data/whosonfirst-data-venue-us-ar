@@ -2,13 +2,14 @@
   "id": 219579635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.902583,35.938383,-89.902583,35.938383",
     "geom:latitude":35.938383,
     "geom:longitude":-89.902583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 W Hardin St",
     "sg:city":"Blytheville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219579635,
-    "wof:lastmodified":1449071521,
+    "wof:lastmodified":1466324742,
     "wof:name":"Steves Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-89.902583,35.938383,-89.902583,35.938383],
-  "geometry": {"coordinates":[-89.902583,35.938383],"type":"Point"}
+  "bbox": [
+    -89.902583,
+    35.938383,
+    -89.902583,
+    35.938383
+],
+  "geometry": {"coordinates":[-89.90258300000001,35.938383],"type":"Point"}
 }

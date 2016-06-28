@@ -2,13 +2,14 @@
   "id": 219338017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.903912,35.072145,-91.903912,35.072145",
     "geom:latitude":35.072145,
     "geom:longitude":-91.903912,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1712 W Dewitt Henry Dr",
     "sg:city":"Beebe",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219338017,
-    "wof:lastmodified":1449071624,
+    "wof:lastmodified":1466322066,
     "wof:name":"Allen's Furniture TV & Appliance Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "store"
     ]
 },
-  "bbox": [-91.903912,35.072145,-91.903912,35.072145],
-  "geometry": {"coordinates":[-91.903912,35.072145],"type":"Point"}
+  "bbox": [
+    -91.903912,
+    35.072145,
+    -91.903912,
+    35.072145
+],
+  "geometry": {"coordinates":[-91.90391200000001,35.072145],"type":"Point"}
 }

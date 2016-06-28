@@ -2,13 +2,14 @@
   "id": 220000519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.178941,36.289822,-94.178941,36.289822",
     "geom:latitude":36.289822,
     "geom:longitude":-94.178941,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4440 Pleasant Dr",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220000519,
-    "wof:lastmodified":1449074167,
+    "wof:lastmodified":1466320444,
     "wof:name":"Daniels Catering Food",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [-94.178941,36.289822,-94.178941,36.289822],
-  "geometry": {"coordinates":[-94.178941,36.289822],"type":"Point"}
+  "bbox": [
+    -94.178941,
+    36.289822,
+    -94.178941,
+    36.289822
+],
+  "geometry": {"coordinates":[-94.17894099999999,36.289822],"type":"Point"}
 }

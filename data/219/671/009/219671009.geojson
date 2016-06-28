@@ -2,13 +2,14 @@
   "id": 219671009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.166168,35.886117,-90.166168,35.886117",
     "geom:latitude":35.886117,
     "geom:longitude":-90.166168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"720 Baltimore",
     "sg:city":"Manila",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219671009,
-    "wof:lastmodified":1449071208,
+    "wof:lastmodified":1466324878,
     "wof:name":"Farmers Market",
     "wof:parent_id":85814753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "fruit"
     ]
 },
-  "bbox": [-90.166168,35.886117,-90.166168,35.886117],
+  "bbox": [
+    -90.166168,
+    35.886117,
+    -90.166168,
+    35.886117
+],
   "geometry": {"coordinates":[-90.166168,35.886117],"type":"Point"}
 }

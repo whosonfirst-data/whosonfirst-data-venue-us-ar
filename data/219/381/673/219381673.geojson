@@ -2,13 +2,14 @@
   "id": 219381673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.385385,35.09064,-92.385385,35.09064",
     "geom:latitude":35.09064,
     "geom:longitude":-92.385385,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"213 Highway 64 E",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219381673,
-    "wof:lastmodified":1449070677,
+    "wof:lastmodified":1466322688,
     "wof:name":"Riley's Beacon Tire & Muffler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "muffler"
     ]
 },
-  "bbox": [-92.385385,35.09064,-92.385385,35.09064],
+  "bbox": [
+    -92.385385,
+    35.09064,
+    -92.385385,
+    35.09064
+],
   "geometry": {"coordinates":[-92.385385,35.09064],"type":"Point"}
 }

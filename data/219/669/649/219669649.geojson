@@ -2,13 +2,14 @@
   "id": 219669649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.256046,35.922135,-90.256046,35.922135",
     "geom:latitude":35.922135,
     "geom:longitude":-90.256046,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 Lacy St",
     "sg:city":"Leachville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219669649,
-    "wof:lastmodified":1449070794,
+    "wof:lastmodified":1466324582,
     "wof:name":"Tom S Auto Detail",
     "wof:parent_id":85814753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.256046,35.922135,-90.256046,35.922135],
+  "bbox": [
+    -90.256046,
+    35.922135,
+    -90.256046,
+    35.922135
+],
   "geometry": {"coordinates":[-90.256046,35.922135],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219808067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.682899,36.225929,-92.682899,36.225929",
     "geom:latitude":36.225929,
     "geom:longitude":-92.682899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 N Wickersham St",
     "sg:city":"Yellville",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":219808067,
-    "wof:lastmodified":1449070542,
+    "wof:lastmodified":1466325027,
     "wof:name":"Harp's Bakery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "espresso"
     ]
 },
-  "bbox": [-92.682899,36.225929,-92.682899,36.225929],
-  "geometry": {"coordinates":[-92.682899,36.225929],"type":"Point"}
+  "bbox": [
+    -92.682899,
+    36.225929,
+    -92.682899,
+    36.225929
+],
+  "geometry": {"coordinates":[-92.68289900000001,36.225929],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219942365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.13671,36.257868,-94.13671,36.257868",
     "geom:latitude":36.257868,
     "geom:longitude":-94.13671,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"319 N Bloomington St",
     "sg:city":"Lowell",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":219942365,
-    "wof:lastmodified":1449072005,
+    "wof:lastmodified":1466325176,
     "wof:name":"Alert Alarm System Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "telecasting"
     ]
 },
-  "bbox": [-94.13671,36.257868,-94.13671,36.257868],
-  "geometry": {"coordinates":[-94.13671,36.257868],"type":"Point"}
+  "bbox": [
+    -94.13671,
+    36.257868,
+    -94.13671,
+    36.257868
+],
+  "geometry": {"coordinates":[-94.13670999999999,36.257868],"type":"Point"}
 }

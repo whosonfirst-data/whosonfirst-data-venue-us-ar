@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102378707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.951664,35.305486,-93.951664,35.305486",
     "geom:latitude":35.305486,
     "geom:longitude":-93.951664,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"304 State Hwy 22 E",
     "sg:city":"Branch",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102378707,
-    "wof:lastmodified":1449069420,
+    "wof:lastmodified":1466321824,
     "wof:name":"Branch Quick Stop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.951664,35.305486,-93.951664,35.305486],
-  "geometry": {"coordinates":[-93.951664,35.305486],"type":"Point"}
+  "bbox": [
+    -93.951664,
+    35.305486,
+    -93.951664,
+    35.305486
+],
+  "geometry": {"coordinates":[-93.95166399999999,35.305486],"type":"Point"}
 }

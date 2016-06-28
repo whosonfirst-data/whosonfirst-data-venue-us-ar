@@ -2,13 +2,14 @@
   "id": 219503085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.191105,34.441509,-92.191105,34.441509",
     "geom:latitude":34.441509,
     "geom:longitude":-92.191105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"919 Olive St",
     "sg:city":"Redfield",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219503085,
-    "wof:lastmodified":1449073925,
+    "wof:lastmodified":1466323968,
     "wof:name":"T & S Floor Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "cleaners-interior"
     ]
 },
-  "bbox": [-92.191105,34.441509,-92.191105,34.441509],
-  "geometry": {"coordinates":[-92.191105,34.441509],"type":"Point"}
+  "bbox": [
+    -92.191105,
+    34.441509,
+    -92.191105,
+    34.441509
+],
+  "geometry": {"coordinates":[-92.19110499999999,34.441509],"type":"Point"}
 }

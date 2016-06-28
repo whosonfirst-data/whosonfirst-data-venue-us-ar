@@ -2,13 +2,14 @@
   "id": 219439673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.178634,34.912682,-92.178634,34.912682",
     "geom:latitude":34.912682,
     "geom:longitude":-92.178634,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6337 Kenwood Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219439673,
-    "wof:lastmodified":1449071376,
+    "wof:lastmodified":1466323236,
     "wof:name":"Arkansas Time Recorder",
     "wof:parent_id":85837729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "system"
     ]
 },
-  "bbox": [-92.178634,34.912682,-92.178634,34.912682],
+  "bbox": [
+    -92.178634,
+    34.912682,
+    -92.178634,
+    34.912682
+],
   "geometry": {"coordinates":[-92.178634,34.912682],"type":"Point"}
 }

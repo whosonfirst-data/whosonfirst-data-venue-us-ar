@@ -2,13 +2,14 @@
   "id": 220022589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.18401,36.193501,-94.18401,36.193501",
     "geom:latitude":36.193501,
     "geom:longitude":-94.18401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4836 Elm Springs Rd",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220022589,
-    "wof:lastmodified":1449074287,
+    "wof:lastmodified":1466320501,
     "wof:name":"Walker Builders Incorporated",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-94.18401,36.193501,-94.18401,36.193501],
+  "bbox": [
+    -94.18401,
+    36.193501,
+    -94.18401,
+    36.193501
+],
   "geometry": {"coordinates":[-94.18401,36.193501],"type":"Point"}
 }

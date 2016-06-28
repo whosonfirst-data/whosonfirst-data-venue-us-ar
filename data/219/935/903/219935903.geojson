@@ -2,13 +2,14 @@
   "id": 219935903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.495277,35.84645,-94.495277,35.84645",
     "geom:latitude":35.84645,
     "geom:longitude":-94.495277,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17859 S Highway 59",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219935903,
-    "wof:lastmodified":1449073288,
+    "wof:lastmodified":1466325166,
     "wof:name":"Arkansas Baptist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "churches-baptist"
     ]
 },
-  "bbox": [-94.495277,35.84645,-94.495277,35.84645],
+  "bbox": [
+    -94.495277,
+    35.84645,
+    -94.495277,
+    35.84645
+],
   "geometry": {"coordinates":[-94.495277,35.84645],"type":"Point"}
 }

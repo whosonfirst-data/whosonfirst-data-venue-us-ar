@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102335509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.343066,34.689707,-94.343066,34.689707",
     "geom:latitude":34.689707,
     "geom:longitude":-94.343066,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"139 Hellams Ln",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102335509,
-    "wof:lastmodified":1449069366,
+    "wof:lastmodified":1466323763,
     "wof:name":"A Mews Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.343066,34.689707,-94.343066,34.689707],
-  "geometry": {"coordinates":[-94.343066,34.689707],"type":"Point"}
+  "bbox": [
+    -94.343066,
+    34.689707,
+    -94.343066,
+    34.689707
+],
+  "geometry": {"coordinates":[-94.34306599999999,34.689707],"type":"Point"}
 }

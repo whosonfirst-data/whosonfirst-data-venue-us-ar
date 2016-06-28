@@ -2,13 +2,14 @@
   "id": 219192491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.853892,33.562418,-92.853892,33.562418",
     "geom:latitude":33.562418,
     "geom:longitude":-92.853892,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1550 Cash Rd SW",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -69,10 +70,11 @@
         }
     ],
     "wof:id":219192491,
-    "wof:lastmodified":1449072895,
+    "wof:lastmodified":1466320785,
     "wof:name":"Arkansas Saw and Lawn, Inc",
     "wof:parent_id":85813169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -86,6 +88,11 @@
         "saw"
     ]
 },
-  "bbox": [-92.853892,33.562418,-92.853892,33.562418],
+  "bbox": [
+    -92.853892,
+    33.562418,
+    -92.853892,
+    33.562418
+],
   "geometry": {"coordinates":[-92.853892,33.562418],"type":"Point"}
 }

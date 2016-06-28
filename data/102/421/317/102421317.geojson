@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102421317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.229728,35.61848,-92.229728,35.61848",
     "geom:latitude":35.61848,
     "geom:longitude":-92.229728,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11290 Edgemont Rd",
     "sg:city":"Shirley",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102421317,
-    "wof:lastmodified":1449069293,
+    "wof:lastmodified":1466325387,
     "wof:name":"Jason Gentry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.229728,35.61848,-92.229728,35.61848],
-  "geometry": {"coordinates":[-92.229728,35.61848],"type":"Point"}
+  "bbox": [
+    -92.229728,
+    35.61848,
+    -92.229728,
+    35.61848
+],
+  "geometry": {"coordinates":[-92.22972799999999,35.61848],"type":"Point"}
 }

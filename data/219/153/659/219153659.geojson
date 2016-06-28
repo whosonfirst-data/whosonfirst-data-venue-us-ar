@@ -2,13 +2,14 @@
   "id": 219153659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.805291,33.231789,-91.805291,33.231789",
     "geom:latitude":33.231789,
     "geom:longitude":-91.805291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"509 W Long St",
     "sg:city":"Hamburg",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219153659,
-    "wof:lastmodified":1449072818,
+    "wof:lastmodified":1466320418,
     "wof:name":"Epistles of God Church of Deliverance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "churches-non-denominational"
     ]
 },
-  "bbox": [-91.805291,33.231789,-91.805291,33.231789],
+  "bbox": [
+    -91.805291,
+    33.231789,
+    -91.805291,
+    33.231789
+],
   "geometry": {"coordinates":[-91.805291,33.231789],"type":"Point"}
 }

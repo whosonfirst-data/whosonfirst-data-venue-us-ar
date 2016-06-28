@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102325225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.34265,34.356625,-91.34265,34.356625",
     "geom:latitude":34.356625,
     "geom:longitude":-91.34265,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"175 Elm Branch Rd",
     "sg:city":"De Witt",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102325225,
-    "wof:lastmodified":1449068704,
+    "wof:lastmodified":1466323539,
     "wof:name":"Elvin's Svc Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.34265,34.356625,-91.34265,34.356625],
-  "geometry": {"coordinates":[-91.34265,34.356625],"type":"Point"}
+  "bbox": [
+    -91.34265,
+    34.356625,
+    -91.34265,
+    34.356625
+],
+  "geometry": {"coordinates":[-91.34265000000001,34.356625],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102348973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.233135,34.807668,-92.233135,34.807668",
     "geom:latitude":34.807668,
     "geom:longitude":-92.233135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5708 Cadron Creek Rd",
     "sg:city":"North Little Rock",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852263,
+        85688549,
         85633793,
         85921255,
         102082497,
-        85688549
+        85852263
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102348973,
-    "wof:lastmodified":1449067890,
+    "wof:lastmodified":1466324130,
     "wof:name":"Coriba LLC",
     "wof:parent_id":85852263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.233135,34.807668,-92.233135,34.807668],
+  "bbox": [
+    -92.233135,
+    34.807668,
+    -92.233135,
+    34.807668
+],
   "geometry": {"coordinates":[-92.233135,34.807668],"type":"Point"}
 }

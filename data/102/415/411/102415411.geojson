@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102415411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.525314,35.680218,-90.525314,35.680218",
     "geom:latitude":35.680218,
     "geom:longitude":-90.525314,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"605 State Hwy 463",
     "sg:city":"Trumann",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102415411,
-    "wof:lastmodified":1449069536,
+    "wof:lastmodified":1466325311,
     "wof:name":"C & C Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.525314,35.680218,-90.525314,35.680218],
-  "geometry": {"coordinates":[-90.525314,35.680218],"type":"Point"}
+  "bbox": [
+    -90.525314,
+    35.680218,
+    -90.525314,
+    35.680218
+],
+  "geometry": {"coordinates":[-90.52531399999999,35.680218],"type":"Point"}
 }

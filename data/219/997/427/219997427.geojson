@@ -2,13 +2,14 @@
   "id": 219997427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.06594,36.286901,-94.06594,36.286901",
     "geom:latitude":36.286901,
     "geom:longitude":-94.06594,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10184 Oklahoma Dr",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219997427,
-    "wof:lastmodified":1449073293,
+    "wof:lastmodified":1466325251,
     "wof:name":"New Beginnings Service",
     "wof:parent_id":85834957,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "bureau"
     ]
 },
-  "bbox": [-94.06594,36.286901,-94.06594,36.286901],
+  "bbox": [
+    -94.06594,
+    36.286901,
+    -94.06594,
+    36.286901
+],
   "geometry": {"coordinates":[-94.06594,36.286901],"type":"Point"}
 }

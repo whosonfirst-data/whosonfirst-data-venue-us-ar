@@ -2,13 +2,14 @@
   "id": 219993311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.1397,36.2934,-94.1397,36.2934",
     "geom:latitude":36.2934,
     "geom:longitude":-94.1397,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1623 W Laurel Ave",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219993311,
-    "wof:lastmodified":1449071954,
+    "wof:lastmodified":1466325247,
     "wof:name":"Myers Don & Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-94.1397,36.2934,-94.1397,36.2934],
+  "bbox": [
+    -94.1397,
+    36.2934,
+    -94.1397,
+    36.2934
+],
   "geometry": {"coordinates":[-94.1397,36.2934],"type":"Point"}
 }

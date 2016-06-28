@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102207139",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.342633,34.73919,-92.342633,34.73919",
     "geom:latitude":34.73919,
     "geom:longitude":-92.342633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1401 Garfield Dr",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85838647,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85838647
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102207139",
-    "wof:lastmodified":1449069476,
+    "wof:lastmodified":1466320788,
     "wof:name":"City of Faith Prison",
     "wof:parent_id":85838647,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.342633,34.73919,-92.342633,34.73919],
-  "geometry": {"coordinates":[-92.342633,34.73919],"type":"Point"}
+  "bbox": [
+    -92.342633,
+    34.73919,
+    -92.342633,
+    34.73919
+],
+  "geometry": {"coordinates":[-92.34263300000001,34.73919],"type":"Point"}
 }

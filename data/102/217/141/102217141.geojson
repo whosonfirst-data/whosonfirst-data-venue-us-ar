@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102217141",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.148595,36.065815,-94.148595,36.065815",
     "geom:latitude":36.065815,
     "geom:longitude":-94.148595,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"135 N Oklahoma Way",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885459,
+        85688549,
         85633793,
         85919609,
         102082007,
-        85688549
+        85885459
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102217141",
-    "wof:lastmodified":1449070047,
+    "wof:lastmodified":1466321028,
     "wof:name":"Tommy L London CPA",
     "wof:parent_id":85885459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.148595,36.065815,-94.148595,36.065815],
+  "bbox": [
+    -94.148595,
+    36.065815,
+    -94.148595,
+    36.065815
+],
   "geometry": {"coordinates":[-94.148595,36.065815],"type":"Point"}
 }

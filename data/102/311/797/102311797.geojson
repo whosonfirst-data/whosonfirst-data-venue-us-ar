@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102311797",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.056526,33.285071,-93.056526,33.285071",
     "geom:latitude":33.285071,
     "geom:longitude":-93.056526,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11630 State Hwy 98",
     "sg:city":"Stephens",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102311797",
-    "wof:lastmodified":1449068364,
+    "wof:lastmodified":1466323344,
     "wof:name":"Vest Speech Pathology",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.056526,33.285071,-93.056526,33.285071],
-  "geometry": {"coordinates":[-93.056526,33.285071],"type":"Point"}
+  "bbox": [
+    -93.056526,
+    33.285071,
+    -93.056526,
+    33.285071
+],
+  "geometry": {"coordinates":[-93.05652600000001,33.285071],"type":"Point"}
 }

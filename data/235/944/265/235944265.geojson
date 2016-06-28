@@ -2,13 +2,14 @@
   "id": 235944265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.595061,36.17635,-94.595061,36.17635",
     "geom:latitude":36.17635,
     "geom:longitude":-94.595061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4880 Cedar Dr",
     "sg:city":"Colcord",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":235944265,
-    "wof:lastmodified":1449008417,
+    "wof:lastmodified":1466320414,
     "wof:name":"Town Of West Siloam Springs",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "village"
     ]
 },
-  "bbox": [-94.595061,36.17635,-94.595061,36.17635],
+  "bbox": [
+    -94.595061,
+    36.17635,
+    -94.595061,
+    36.17635
+],
   "geometry": {"coordinates":[-94.595061,36.17635],"type":"Point"}
 }

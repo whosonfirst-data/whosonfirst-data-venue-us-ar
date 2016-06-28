@@ -2,13 +2,14 @@
   "id": 219424655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.388489,35.2117,-92.388489,35.2117",
     "geom:latitude":35.2117,
     "geom:longitude":-92.388489,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Tyler St",
     "sg:city":"Greenbrier",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":219424655,
-    "wof:lastmodified":1449073690,
+    "wof:lastmodified":1466323055,
     "wof:name":"Greenbrier First United Methodist Church Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "churches-methodist"
     ]
 },
-  "bbox": [-92.388489,35.2117,-92.388489,35.2117],
-  "geometry": {"coordinates":[-92.388489,35.2117],"type":"Point"}
+  "bbox": [
+    -92.388489,
+    35.2117,
+    -92.388489,
+    35.2117
+],
+  "geometry": {"coordinates":[-92.38848900000001,35.2117],"type":"Point"}
 }

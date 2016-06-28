@@ -2,13 +2,14 @@
   "id": 220019569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.205498,36.178349,-94.205498,36.178349",
     "geom:latitude":36.178349,
     "geom:longitude":-94.205498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6800 Isaacs Orchard Rd",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":220019569,
-    "wof:lastmodified":1449074515,
+    "wof:lastmodified":1466320492,
     "wof:name":"Benefit Bank",
     "wof:parent_id":85885477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "saving"
     ]
 },
-  "bbox": [-94.205498,36.178349,-94.205498,36.178349],
-  "geometry": {"coordinates":[-94.205498,36.178349],"type":"Point"}
+  "bbox": [
+    -94.205498,
+    36.178349,
+    -94.205498,
+    36.178349
+],
+  "geometry": {"coordinates":[-94.20549800000001,36.178349],"type":"Point"}
 }

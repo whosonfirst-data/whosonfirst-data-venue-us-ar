@@ -2,13 +2,14 @@
   "id": 219967359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.131699,36.333801,-94.131699,36.333801",
     "geom:latitude":36.333801,
     "geom:longitude":-94.131699,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1140 W Walnut St",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219967359,
-    "wof:lastmodified":1449073644,
+    "wof:lastmodified":1466325273,
     "wof:name":"Henderson O L MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "gynecologist"
     ]
 },
-  "bbox": [-94.131699,36.333801,-94.131699,36.333801],
+  "bbox": [
+    -94.131699,
+    36.333801,
+    -94.131699,
+    36.333801
+],
   "geometry": {"coordinates":[-94.131699,36.333801],"type":"Point"}
 }

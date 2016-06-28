@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102380097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.060589,34.262955,-92.060589,34.262955",
     "geom:latitude":34.262955,
     "geom:longitude":-92.060589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5000 Jefferson Pkwy",
     "sg:city":"White Hall",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102380097,
-    "wof:lastmodified":1449068882,
+    "wof:lastmodified":1466322108,
     "wof:name":"Cook Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.060589,34.262955,-92.060589,34.262955],
-  "geometry": {"coordinates":[-92.060589,34.262955],"type":"Point"}
+  "bbox": [
+    -92.060589,
+    34.262955,
+    -92.060589,
+    34.262955
+],
+  "geometry": {"coordinates":[-92.06058899999999,34.262955],"type":"Point"}
 }

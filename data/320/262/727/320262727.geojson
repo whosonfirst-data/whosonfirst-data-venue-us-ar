@@ -2,13 +2,14 @@
   "id": 320262727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.174116,34.585002,-94.174116,34.585002",
     "geom:latitude":34.585002,
     "geom:longitude":-94.174116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2915 State Hwy 88",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":320262727,
-    "wof:lastmodified":1449013565,
+    "wof:lastmodified":1466320493,
     "wof:name":"Crider's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "dealer"
     ]
 },
-  "bbox": [-94.174116,34.585002,-94.174116,34.585002],
+  "bbox": [
+    -94.174116,
+    34.585002,
+    -94.174116,
+    34.585002
+],
   "geometry": {"coordinates":[-94.174116,34.585002],"type":"Point"}
 }

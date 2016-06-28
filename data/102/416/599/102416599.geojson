@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102416599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.241085,34.801517,-92.241085,34.801517",
     "geom:latitude":34.801517,
     "geom:longitude":-92.241085,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5105 Stratford Rd",
     "sg:city":"N Little Rock",
     "sg:classifiers":[
@@ -35,11 +36,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852263,
+        85688549,
         85633793,
         85921255,
         102082497,
-        85688549
+        85852263
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":102416599,
-    "wof:lastmodified":1449068853,
+    "wof:lastmodified":1466325329,
     "wof:name":"Amy Mc Neil Interiors",
     "wof:parent_id":85852263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.241085,34.801517,-92.241085,34.801517],
+  "bbox": [
+    -92.241085,
+    34.801517,
+    -92.241085,
+    34.801517
+],
   "geometry": {"coordinates":[-92.241085,34.801517],"type":"Point"}
 }

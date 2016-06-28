@@ -2,13 +2,14 @@
   "id": 219982895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.126209,36.314636,-94.126209,36.314636",
     "geom:latitude":36.314636,
     "geom:longitude":-94.126209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1814 S 8th St",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":219982895,
-    "wof:lastmodified":1449070993,
+    "wof:lastmodified":1466325307,
     "wof:name":"American International Insurance",
     "wof:parent_id":85895849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "business"
     ]
 },
-  "bbox": [-94.126209,36.314636,-94.126209,36.314636],
+  "bbox": [
+    -94.126209,
+    36.314636,
+    -94.126209,
+    36.314636
+],
   "geometry": {"coordinates":[-94.126209,36.314636],"type":"Point"}
 }

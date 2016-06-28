@@ -2,13 +2,14 @@
   "id": 220134623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.049388,34.924277,-94.049388,34.924277",
     "geom:latitude":34.924277,
     "geom:longitude":-94.049388,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4128 Taff Ln",
     "sg:city":"Waldron",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":220134623,
-    "wof:lastmodified":1449074842,
+    "wof:lastmodified":1466322882,
     "wof:name":"Bail Bond Financing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "bond"
     ]
 },
-  "bbox": [-94.049388,34.924277,-94.049388,34.924277],
-  "geometry": {"coordinates":[-94.049388,34.924277],"type":"Point"}
+  "bbox": [
+    -94.049388,
+    34.924277,
+    -94.049388,
+    34.924277
+],
+  "geometry": {"coordinates":[-94.04938799999999,34.924277],"type":"Point"}
 }

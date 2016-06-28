@@ -2,13 +2,14 @@
   "id": 219210727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.237972,33.275477,-93.237972,33.275477",
     "geom:latitude":33.275477,
     "geom:longitude":-93.237972,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"251 E Columbia",
     "sg:city":"Magnolia",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219210727,
-    "wof:lastmodified":1449071596,
+    "wof:lastmodified":1466320963,
     "wof:name":"Hannah Medical Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.237972,33.275477,-93.237972,33.275477],
+  "bbox": [
+    -93.237972,
+    33.275477,
+    -93.237972,
+    33.275477
+],
   "geometry": {"coordinates":[-93.237972,33.275477],"type":"Point"}
 }

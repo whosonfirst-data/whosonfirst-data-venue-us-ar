@@ -2,13 +2,14 @@
   "id": 220006687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.186764,36.312065,-94.186764,36.312065",
     "geom:latitude":36.312065,
     "geom:longitude":-94.186764,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5411 Pinnacle Point Dr",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":220006687,
-    "wof:lastmodified":1449074683,
+    "wof:lastmodified":1466320466,
     "wof:name":"Verge Hair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.186764,36.312065,-94.186764,36.312065],
+  "bbox": [
+    -94.186764,
+    36.312065,
+    -94.186764,
+    36.312065
+],
   "geometry": {"coordinates":[-94.186764,36.312065],"type":"Point"}
 }

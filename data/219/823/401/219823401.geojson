@@ -2,13 +2,14 @@
   "id": 219823401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.117591,36.033103,-94.117591,36.033103",
     "geom:latitude":36.033103,
     "geom:longitude":-94.117591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2640 S Dead Horse Mountain Rd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":219823401,
-    "wof:lastmodified":1449073881,
+    "wof:lastmodified":1466325059,
     "wof:name":"Life In The Balance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.117591,36.033103,-94.117591,36.033103],
+  "bbox": [
+    -94.117591,
+    36.033103,
+    -94.117591,
+    36.033103
+],
   "geometry": {"coordinates":[-94.117591,36.033103],"type":"Point"}
 }

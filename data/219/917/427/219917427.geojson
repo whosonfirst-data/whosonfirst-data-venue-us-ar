@@ -2,13 +2,14 @@
   "id": 219917427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.274454,36.016437,-94.274454,36.016437",
     "geom:latitude":36.016437,
     "geom:longitude":-94.274454,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12655 W Highway 62",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -73,10 +74,11 @@
         }
     ],
     "wof:id":219917427,
-    "wof:lastmodified":1449073445,
+    "wof:lastmodified":1466325126,
     "wof:name":"Clayton Tile Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -91,6 +93,11 @@
         "tile-cleaning"
     ]
 },
-  "bbox": [-94.274454,36.016437,-94.274454,36.016437],
-  "geometry": {"coordinates":[-94.274454,36.016437],"type":"Point"}
+  "bbox": [
+    -94.274454,
+    36.016437,
+    -94.274454,
+    36.016437
+],
+  "geometry": {"coordinates":[-94.27445400000001,36.016437],"type":"Point"}
 }

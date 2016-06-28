@@ -2,13 +2,14 @@
   "id": 220065905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.138528,35.28125,-93.138528,35.28125",
     "geom:latitude":35.28125,
     "geom:longitude":-93.138528,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"704 W C St",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220065905,
-    "wof:lastmodified":1449074871,
+    "wof:lastmodified":1466321171,
     "wof:name":"Arkansas Valley Farmers Assn",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fertilizer"
     ]
 },
-  "bbox": [-93.138528,35.28125,-93.138528,35.28125],
-  "geometry": {"coordinates":[-93.138528,35.28125],"type":"Point"}
+  "bbox": [
+    -93.138528,
+    35.28125,
+    -93.138528,
+    35.28125
+],
+  "geometry": {"coordinates":[-93.13852799999999,35.28125],"type":"Point"}
 }

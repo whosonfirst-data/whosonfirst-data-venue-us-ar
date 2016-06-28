@@ -2,13 +2,14 @@
   "id": 303327021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.767957,36.593385,-94.767957,36.593385",
     "geom:latitude":36.593385,
     "geom:longitude":-94.767957,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 E 3rd St",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303327021,
-    "wof:lastmodified":1448998305,
+    "wof:lastmodified":1466320442,
     "wof:name":"Grove Cinema 4 Of Grove",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.767957,36.593385,-94.767957,36.593385],
+  "bbox": [
+    -94.767957,
+    36.593385,
+    -94.767957,
+    36.593385
+],
   "geometry": {"coordinates":[-94.767957,36.593385],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102369027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.260213,34.789878,-92.260213,34.789878",
     "geom:latitude":34.789878,
     "geom:longitude":-92.260213,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3716 John F Kennedy Blvd",
     "sg:city":"Sherwood",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840541,
+        85688549,
         85633793,
         85921255,
         102082497,
-        85688549
+        85840541
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102369027,
-    "wof:lastmodified":1449070079,
+    "wof:lastmodified":1466324355,
     "wof:name":"Foster Animal Hospital",
     "wof:parent_id":85840541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.260213,34.789878,-92.260213,34.789878],
-  "geometry": {"coordinates":[-92.260213,34.789878],"type":"Point"}
+  "bbox": [
+    -92.260213,
+    34.789878,
+    -92.260213,
+    34.789878
+],
+  "geometry": {"coordinates":[-92.26021299999999,34.789878],"type":"Point"}
 }

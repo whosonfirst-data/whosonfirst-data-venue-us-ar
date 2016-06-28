@@ -2,13 +2,14 @@
   "id": 219279927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.06235,34.114591,-93.06235,34.114591",
     "geom:latitude":34.114591,
     "geom:longitude":-93.06235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1318 Center St",
     "sg:city":"Arkadelphia",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219279927,
-    "wof:lastmodified":1449072021,
+    "wof:lastmodified":1466321567,
     "wof:name":"Demorrow Instrument Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-93.06235,34.114591,-93.06235,34.114591],
+  "bbox": [
+    -93.06235,
+    34.114591,
+    -93.06235,
+    34.114591
+],
   "geometry": {"coordinates":[-93.06235,34.114591],"type":"Point"}
 }

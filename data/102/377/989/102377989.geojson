@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102377989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.419734,35.510055,-94.419734,35.510055",
     "geom:latitude":35.510055,
     "geom:longitude":-94.419734,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4927 Homeplace Ter",
     "sg:city":"Van Buren",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":102377989,
-    "wof:lastmodified":1449068684,
+    "wof:lastmodified":1466321677,
     "wof:name":"John B Jones",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.419734,35.510055,-94.419734,35.510055],
-  "geometry": {"coordinates":[-94.419734,35.510055],"type":"Point"}
+  "bbox": [
+    -94.419734,
+    35.510055,
+    -94.419734,
+    35.510055
+],
+  "geometry": {"coordinates":[-94.41973400000001,35.510055],"type":"Point"}
 }

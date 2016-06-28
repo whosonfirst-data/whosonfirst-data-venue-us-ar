@@ -2,13 +2,14 @@
   "id": 219291659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.505969,34.390743,-93.505969,34.390743",
     "geom:latitude":34.390743,
     "geom:longitude":-93.505969,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"76 Kloosville Dr",
     "sg:city":"Bonnerdale",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219291659,
-    "wof:lastmodified":1449071483,
+    "wof:lastmodified":1466321662,
     "wof:name":"Squaw Run Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.505969,34.390743,-93.505969,34.390743],
-  "geometry": {"coordinates":[-93.505969,34.390743],"type":"Point"}
+  "bbox": [
+    -93.505969,
+    34.390743,
+    -93.505969,
+    34.390743
+],
+  "geometry": {"coordinates":[-93.50596899999999,34.390743],"type":"Point"}
 }

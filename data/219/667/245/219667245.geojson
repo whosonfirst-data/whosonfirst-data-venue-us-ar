@@ -2,13 +2,14 @@
   "id": 219667245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.97684,36.038455,-90.97684,36.038455",
     "geom:latitude":36.038455,
     "geom:longitude":-90.97684,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"407 Elm St Apt 8",
     "sg:city":"Hoxie",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219667245,
-    "wof:lastmodified":1449072691,
+    "wof:lastmodified":1466324793,
     "wof:name":"Chris S Coats",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "market"
     ]
 },
-  "bbox": [-90.97684,36.038455,-90.97684,36.038455],
+  "bbox": [
+    -90.97684,
+    36.038455,
+    -90.97684,
+    36.038455
+],
   "geometry": {"coordinates":[-90.97684,36.038455],"type":"Point"}
 }

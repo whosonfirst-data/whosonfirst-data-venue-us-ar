@@ -2,13 +2,14 @@
   "id": 219852055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.145111,36.111255,-94.145111,36.111255",
     "geom:latitude":36.111255,
     "geom:longitude":-94.145111,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3263 N College Ave",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219852055,
-    "wof:lastmodified":1449073320,
+    "wof:lastmodified":1466325121,
     "wof:name":"David Mix",
     "wof:parent_id":85885431,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "management"
     ]
 },
-  "bbox": [-94.145111,36.111255,-94.145111,36.111255],
+  "bbox": [
+    -94.145111,
+    36.111255,
+    -94.145111,
+    36.111255
+],
   "geometry": {"coordinates":[-94.145111,36.111255],"type":"Point"}
 }

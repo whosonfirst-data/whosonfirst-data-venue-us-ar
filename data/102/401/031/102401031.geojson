@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102401031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.018535,34.978592,-92.018535,34.978592",
     "geom:latitude":34.978592,
     "geom:longitude":-92.018535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"428 W Locust St",
     "sg:city":"Cabot",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102401031,
-    "wof:lastmodified":1449069812,
+    "wof:lastmodified":1466324662,
     "wof:name":"Clayton Heating & Air",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.018535,34.978592,-92.018535,34.978592],
+  "bbox": [
+    -92.018535,
+    34.978592,
+    -92.018535,
+    34.978592
+],
   "geometry": {"coordinates":[-92.018535,34.978592],"type":"Point"}
 }

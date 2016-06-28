@@ -2,13 +2,14 @@
   "id": 220110215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.315524,35.194412,-94.315524,35.194412",
     "geom:latitude":35.194412,
     "geom:longitude":-94.315524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1315 Roundhouse Way",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":220110215,
-    "wof:lastmodified":1449074284,
+    "wof:lastmodified":1466322390,
     "wof:name":"Divine Design Tree Service",
     "wof:parent_id":85808359,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "removal"
     ]
 },
-  "bbox": [-94.315524,35.194412,-94.315524,35.194412],
+  "bbox": [
+    -94.315524,
+    35.194412,
+    -94.315524,
+    35.194412
+],
   "geometry": {"coordinates":[-94.315524,35.194412],"type":"Point"}
 }

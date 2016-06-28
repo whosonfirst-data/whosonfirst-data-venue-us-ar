@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102432109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.645247,34.551348,-90.645247,34.551348",
     "geom:latitude":34.551348,
     "geom:longitude":-90.645247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"425 Helen St",
     "sg:city":"West Helena",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834075,
+        85688549,
         85633793,
         85919725,
         102082001,
-        85688549
+        85834075
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102432109,
-    "wof:lastmodified":1449067727,
+    "wof:lastmodified":1466325634,
     "wof:name":"First National Bank - Phillips",
     "wof:parent_id":85834075,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.645247,34.551348,-90.645247,34.551348],
+  "bbox": [
+    -90.645247,
+    34.551348,
+    -90.645247,
+    34.551348
+],
   "geometry": {"coordinates":[-90.645247,34.551348],"type":"Point"}
 }

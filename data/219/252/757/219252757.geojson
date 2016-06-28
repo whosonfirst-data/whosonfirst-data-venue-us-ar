@@ -2,13 +2,14 @@
   "id": 219252757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.929878,33.49876,-93.929878,33.49876",
     "geom:latitude":33.49876,
     "geom:longitude":-93.929878,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10162 Old Post Rd",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219252757,
-    "wof:lastmodified":1449070857,
+    "wof:lastmodified":1466321352,
     "wof:name":"Old Post Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.929878,33.49876,-93.929878,33.49876],
+  "bbox": [
+    -93.929878,
+    33.49876,
+    -93.929878,
+    33.49876
+],
   "geometry": {"coordinates":[-93.929878,33.49876],"type":"Point"}
 }

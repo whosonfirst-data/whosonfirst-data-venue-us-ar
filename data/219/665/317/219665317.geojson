@@ -2,13 +2,14 @@
   "id": 219665317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.742149,35.47865,-90.742149,35.47865",
     "geom:latitude":35.47865,
     "geom:longitude":-90.742149,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2555 Mann Ln",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219665317,
-    "wof:lastmodified":1449071475,
+    "wof:lastmodified":1466324787,
     "wof:name":"The Top Liquor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-90.742149,35.47865,-90.742149,35.47865],
+  "bbox": [
+    -90.742149,
+    35.47865,
+    -90.742149,
+    35.47865
+],
   "geometry": {"coordinates":[-90.742149,35.47865],"type":"Point"}
 }

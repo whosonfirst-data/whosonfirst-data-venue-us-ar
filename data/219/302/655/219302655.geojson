@@ -2,13 +2,14 @@
   "id": 219302655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.140114,34.62726,-94.140114,34.62726",
     "geom:latitude":34.62726,
     "geom:longitude":-94.140114,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"536 Polk Road 184",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219302655,
-    "wof:lastmodified":1449071591,
+    "wof:lastmodified":1466321752,
     "wof:name":"Mena -City of",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "village"
     ]
 },
-  "bbox": [-94.140114,34.62726,-94.140114,34.62726],
+  "bbox": [
+    -94.140114,
+    34.62726,
+    -94.140114,
+    34.62726
+],
   "geometry": {"coordinates":[-94.140114,34.62726],"type":"Point"}
 }

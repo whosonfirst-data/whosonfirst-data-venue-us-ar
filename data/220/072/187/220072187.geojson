@@ -2,13 +2,14 @@
   "id": 220072187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.765705,35.443424,-93.765705,35.443424",
     "geom:latitude":35.443424,
     "geom:longitude":-93.765705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1222 Carbon Plant Rd",
     "sg:city":"Altus",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220072187,
-    "wof:lastmodified":1449074467,
+    "wof:lastmodified":1466321406,
     "wof:name":"Erc Properties, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-93.765705,35.443424,-93.765705,35.443424],
+  "bbox": [
+    -93.765705,
+    35.443424,
+    -93.765705,
+    35.443424
+],
   "geometry": {"coordinates":[-93.765705,35.443424],"type":"Point"}
 }

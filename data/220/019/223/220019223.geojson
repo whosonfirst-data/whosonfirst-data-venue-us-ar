@@ -2,13 +2,14 @@
   "id": 220019223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.161399,36.174748,-94.161399,36.174748",
     "geom:latitude":36.174748,
     "geom:longitude":-94.161399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2811 Springdale Ave",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220019223,
-    "wof:lastmodified":1449074510,
+    "wof:lastmodified":1466320489,
     "wof:name":"Us Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.161399,36.174748,-94.161399,36.174748],
+  "bbox": [
+    -94.161399,
+    36.174748,
+    -94.161399,
+    36.174748
+],
   "geometry": {"coordinates":[-94.161399,36.174748],"type":"Point"}
 }

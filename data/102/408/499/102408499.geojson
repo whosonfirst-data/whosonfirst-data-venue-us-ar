@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102408499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.222277,34.54026,-93.222277,34.54026",
     "geom:latitude":34.54026,
     "geom:longitude":-93.222277,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"407 Owl Creek Cutoff",
     "sg:city":"Royal",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102408499,
-    "wof:lastmodified":1449068104,
+    "wof:lastmodified":1466325203,
     "wof:name":"Kress Catering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.222277,34.54026,-93.222277,34.54026],
-  "geometry": {"coordinates":[-93.222277,34.54026],"type":"Point"}
+  "bbox": [
+    -93.222277,
+    34.54026,
+    -93.222277,
+    34.54026
+],
+  "geometry": {"coordinates":[-93.22227700000001,34.54026],"type":"Point"}
 }

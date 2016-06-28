@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102218271",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.346562,34.282143,-91.346562,34.282143",
     "geom:latitude":34.282143,
     "geom:longitude":-91.346562,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1308 Lee St",
     "sg:city":"De Witt",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102218271",
-    "wof:lastmodified":1449069286,
+    "wof:lastmodified":1466321058,
     "wof:name":"Laura Rush",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.346562,34.282143,-91.346562,34.282143],
-  "geometry": {"coordinates":[-91.346562,34.282143],"type":"Point"}
+  "bbox": [
+    -91.346562,
+    34.282143,
+    -91.346562,
+    34.282143
+],
+  "geometry": {"coordinates":[-91.34656200000001,34.282143],"type":"Point"}
 }

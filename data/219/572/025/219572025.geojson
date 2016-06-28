@@ -2,13 +2,14 @@
   "id": 219572025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.939417,35.857712,-89.939417,35.857712",
     "geom:latitude":35.857712,
     "geom:longitude":-89.939417,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2210 E County Road 346",
     "sg:city":"Blytheville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219572025,
-    "wof:lastmodified":1449072559,
+    "wof:lastmodified":1466324476,
     "wof:name":"Big Lake Guide Service",
     "wof:parent_id":85814753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bureau"
     ]
 },
-  "bbox": [-89.939417,35.857712,-89.939417,35.857712],
-  "geometry": {"coordinates":[-89.939417,35.857712],"type":"Point"}
+  "bbox": [
+    -89.939417,
+    35.857712,
+    -89.939417,
+    35.857712
+],
+  "geometry": {"coordinates":[-89.93941700000001,35.857712],"type":"Point"}
 }

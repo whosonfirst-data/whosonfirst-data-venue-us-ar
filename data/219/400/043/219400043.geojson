@@ -2,13 +2,14 @@
   "id": 219400043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.463046,35.084904,-92.463046,35.084904",
     "geom:latitude":35.084904,
     "geom:longitude":-92.463046,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2511 College Ave Ste B",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":219400043,
-    "wof:lastmodified":1449070737,
+    "wof:lastmodified":1466322848,
     "wof:name":"Nephrology Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "kidneys"
     ]
 },
-  "bbox": [-92.463046,35.084904,-92.463046,35.084904],
-  "geometry": {"coordinates":[-92.463046,35.084904],"type":"Point"}
+  "bbox": [
+    -92.463046,
+    35.084904,
+    -92.463046,
+    35.084904
+],
+  "geometry": {"coordinates":[-92.46304600000001,35.084904],"type":"Point"}
 }

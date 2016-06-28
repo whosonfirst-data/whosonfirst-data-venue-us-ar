@@ -2,13 +2,14 @@
   "id": 219358677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.51352,34.625692,-92.51352,34.625692",
     "geom:latitude":34.625692,
     "geom:longitude":-92.51352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3303 Price Ave",
     "sg:city":"Bryant",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219358677,
-    "wof:lastmodified":1449071871,
+    "wof:lastmodified":1466322373,
     "wof:name":"Joe's Computer Zone",
     "wof:parent_id":85817531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "support"
     ]
 },
-  "bbox": [-92.51352,34.625692,-92.51352,34.625692],
+  "bbox": [
+    -92.51352,
+    34.625692,
+    -92.51352,
+    34.625692
+],
   "geometry": {"coordinates":[-92.51352,34.625692],"type":"Point"}
 }

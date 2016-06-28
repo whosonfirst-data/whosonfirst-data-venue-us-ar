@@ -2,13 +2,14 @@
   "id": 219461287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.811868,34.363565,-92.811868,34.363565",
     "geom:latitude":34.363565,
     "geom:longitude":-92.811868,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"327 S Ash St",
     "sg:city":"Malvern",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219461287,
-    "wof:lastmodified":1449071715,
+    "wof:lastmodified":1466323478,
     "wof:name":"Horizon Bank of Malvern",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.811868,34.363565,-92.811868,34.363565],
+  "bbox": [
+    -92.811868,
+    34.363565,
+    -92.811868,
+    34.363565
+],
   "geometry": {"coordinates":[-92.811868,34.363565],"type":"Point"}
 }

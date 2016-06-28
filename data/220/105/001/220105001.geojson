@@ -2,13 +2,14 @@
   "id": 220105001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.924206,35.142525,-93.924206,35.142525",
     "geom:latitude":35.142525,
     "geom:longitude":-93.924206,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"509 N Kennedy Ave",
     "sg:city":"Booneville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":220105001,
-    "wof:lastmodified":1449074336,
+    "wof:lastmodified":1466324479,
     "wof:name":"Booneville Arvac Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.924206,35.142525,-93.924206,35.142525],
+  "bbox": [
+    -93.924206,
+    35.142525,
+    -93.924206,
+    35.142525
+],
   "geometry": {"coordinates":[-93.924206,35.142525],"type":"Point"}
 }

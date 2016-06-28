@@ -2,13 +2,14 @@
   "id": 219512483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.769156,35.246943,-91.769156,35.246943",
     "geom:latitude":35.246943,
     "geom:longitude":-91.769156,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"404 S Sherwood Dr Apt 4",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219512483,
-    "wof:lastmodified":1449072970,
+    "wof:lastmodified":1466324049,
     "wof:name":"St Charles Place",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rental"
     ]
 },
-  "bbox": [-91.769156,35.246943,-91.769156,35.246943],
+  "bbox": [
+    -91.769156,
+    35.246943,
+    -91.769156,
+    35.246943
+],
   "geometry": {"coordinates":[-91.769156,35.246943],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102437103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.18413,36.157036,-94.18413,36.157036",
     "geom:latitude":36.157036,
     "geom:longitude":-94.18413,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3074 S 48th St",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885473,
+        85688549,
         85633793,
         85919623,
         102082007,
-        85688549
+        85885473
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102437103,
-    "wof:lastmodified":1449069541,
+    "wof:lastmodified":1466325572,
     "wof:name":"Nabholtz Construction",
     "wof:parent_id":85885473,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.18413,36.157036,-94.18413,36.157036],
+  "bbox": [
+    -94.18413,
+    36.157036,
+    -94.18413,
+    36.157036
+],
   "geometry": {"coordinates":[-94.18413,36.157036],"type":"Point"}
 }

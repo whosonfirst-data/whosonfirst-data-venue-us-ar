@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102290397",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.377691,34.70009,-92.377691,34.70009",
     "geom:latitude":34.70009,
     "geom:longitude":-92.377691,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5610 Tall Pine Blvd",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851771,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85851771
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102290397",
-    "wof:lastmodified":1449068796,
+    "wof:lastmodified":1466322809,
     "wof:name":"Premier Granite & Marble",
     "wof:parent_id":85851771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.377691,34.70009,-92.377691,34.70009],
+  "bbox": [
+    -92.377691,
+    34.70009,
+    -92.377691,
+    34.70009
+],
   "geometry": {"coordinates":[-92.377691,34.70009],"type":"Point"}
 }

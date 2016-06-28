@@ -2,13 +2,14 @@
   "id": 219978565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.169242,36.335209,-94.169242,36.335209",
     "geom:latitude":36.335209,
     "geom:longitude":-94.169242,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3625 W Chestnut St",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219978565,
-    "wof:lastmodified":1449072417,
+    "wof:lastmodified":1466325232,
     "wof:name":"Walmart World",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.169242,36.335209,-94.169242,36.335209],
+  "bbox": [
+    -94.169242,
+    36.335209,
+    -94.169242,
+    36.335209
+],
   "geometry": {"coordinates":[-94.169242,36.335209],"type":"Point"}
 }

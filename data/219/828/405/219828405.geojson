@@ -2,13 +2,14 @@
   "id": 219828405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.10715,36.089099,-94.10715,36.089099",
     "geom:latitude":36.089099,
     "geom:longitude":-94.10715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2125 N Hartford Dr",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219828405,
-    "wof:lastmodified":1449072177,
+    "wof:lastmodified":1466325060,
     "wof:name":"Philip Hicky Iii",
     "wof:parent_id":85885455,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-94.10715,36.089099,-94.10715,36.089099],
+  "bbox": [
+    -94.10715,
+    36.089099,
+    -94.10715,
+    36.089099
+],
   "geometry": {"coordinates":[-94.10715,36.089099],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219448977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.890488,34.783815,-91.890488,34.783815",
     "geom:latitude":34.783815,
     "geom:longitude":-91.890488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2003 E Front St",
     "sg:city":"Lonoke",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":219448977,
-    "wof:lastmodified":1449073744,
+    "wof:lastmodified":1466323362,
     "wof:name":"National Guard Armory",
     "wof:parent_id":85811577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "recruiting"
     ]
 },
-  "bbox": [-91.890488,34.783815,-91.890488,34.783815],
+  "bbox": [
+    -91.890488,
+    34.783815,
+    -91.890488,
+    34.783815
+],
   "geometry": {"coordinates":[-91.890488,34.783815],"type":"Point"}
 }

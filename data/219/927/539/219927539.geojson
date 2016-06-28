@@ -2,13 +2,14 @@
   "id": 219927539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.573971,36.403154,-94.573971,36.403154",
     "geom:latitude":36.403154,
     "geom:longitude":-94.573971,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23269 W Highway 72",
     "sg:city":"Gravette",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219927539,
-    "wof:lastmodified":1449073553,
+    "wof:lastmodified":1466325151,
     "wof:name":"Jerry Bob Pritchard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.573971,36.403154,-94.573971,36.403154],
+  "bbox": [
+    -94.573971,
+    36.403154,
+    -94.573971,
+    36.403154
+],
   "geometry": {"coordinates":[-94.573971,36.403154],"type":"Point"}
 }

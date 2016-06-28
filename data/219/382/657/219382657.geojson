@@ -2,13 +2,14 @@
   "id": 219382657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.329834,35.09312,-92.329834,35.09312",
     "geom:latitude":35.09312,
     "geom:longitude":-92.329834,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Osage Trl",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219382657,
-    "wof:lastmodified":1449071340,
+    "wof:lastmodified":1466322697,
     "wof:name":"K & D Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "builder"
     ]
 },
-  "bbox": [-92.329834,35.09312,-92.329834,35.09312],
-  "geometry": {"coordinates":[-92.329834,35.09312],"type":"Point"}
+  "bbox": [
+    -92.329834,
+    35.09312,
+    -92.329834,
+    35.09312
+],
+  "geometry": {"coordinates":[-92.32983400000001,35.09312],"type":"Point"}
 }

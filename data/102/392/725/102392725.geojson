@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102392725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.174365,36.148566,-94.174365,36.148566",
     "geom:latitude":36.148566,
     "geom:longitude":-94.174365,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4283 Tara St",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885475,
+        85688549,
         85633793,
         85919595,
         102082007,
-        85688549
+        85885475
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102392725,
-    "wof:lastmodified":1449069707,
+    "wof:lastmodified":1466324641,
     "wof:name":"Northside Self Storage",
     "wof:parent_id":85885475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.174365,36.148566,-94.174365,36.148566],
-  "geometry": {"coordinates":[-94.174365,36.148566],"type":"Point"}
+  "bbox": [
+    -94.174365,
+    36.148566,
+    -94.174365,
+    36.148566
+],
+  "geometry": {"coordinates":[-94.17436499999999,36.148566],"type":"Point"}
 }

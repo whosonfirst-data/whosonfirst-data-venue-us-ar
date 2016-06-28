@@ -2,13 +2,14 @@
   "id": 219900837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.213382,36.352944,-94.213382,36.352944",
     "geom:latitude":36.352944,
     "geom:longitude":-94.213382,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1714 SW Commerce Dr",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219900837,
-    "wof:lastmodified":1449071909,
+    "wof:lastmodified":1466325101,
     "wof:name":"Pro Balance USA Inc",
     "wof:parent_id":85895807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "coach"
     ]
 },
-  "bbox": [-94.213382,36.352944,-94.213382,36.352944],
+  "bbox": [
+    -94.213382,
+    36.352944,
+    -94.213382,
+    36.352944
+],
   "geometry": {"coordinates":[-94.213382,36.352944],"type":"Point"}
 }

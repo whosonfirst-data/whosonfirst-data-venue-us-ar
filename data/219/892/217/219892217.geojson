@@ -2,13 +2,14 @@
   "id": 219892217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.221191,36.384031,-94.221191,36.384031",
     "geom:latitude":36.384031,
     "geom:longitude":-94.221191,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 N Walton Blvd",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219892217,
-    "wof:lastmodified":1449070908,
+    "wof:lastmodified":1466325083,
     "wof:name":"J C Plumbing Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "plumber"
     ]
 },
-  "bbox": [-94.221191,36.384031,-94.221191,36.384031],
+  "bbox": [
+    -94.221191,
+    36.384031,
+    -94.221191,
+    36.384031
+],
   "geometry": {"coordinates":[-94.221191,36.384031],"type":"Point"}
 }

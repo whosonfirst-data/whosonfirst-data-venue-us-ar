@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102406313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.423093,35.303346,-94.423093,35.303346",
     "geom:latitude":35.303346,
     "geom:longitude":-94.423093,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8612 US Hwy 271",
     "sg:city":"Fort Smith",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102082025,
-        85633793,
         85688549,
-        85809847
+        85633793,
+        85809847,
+        102082025
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102406313,
-    "wof:lastmodified":1449069035,
+    "wof:lastmodified":1466324955,
     "wof:name":"Ray Chas H Masonry Contrs",
     "wof:parent_id":85809847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.423093,35.303346,-94.423093,35.303346],
-  "geometry": {"coordinates":[-94.423093,35.303346],"type":"Point"}
+  "bbox": [
+    -94.423093,
+    35.303346,
+    -94.423093,
+    35.303346
+],
+  "geometry": {"coordinates":[-94.42309299999999,35.303346],"type":"Point"}
 }

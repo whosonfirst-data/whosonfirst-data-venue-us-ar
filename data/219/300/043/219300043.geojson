@@ -2,13 +2,14 @@
   "id": 219300043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.340221,34.645781,-93.340221,34.645781",
     "geom:latitude":34.645781,
     "geom:longitude":-93.340221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1721 Buckville Rd",
     "sg:city":"Jessieville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219300043,
-    "wof:lastmodified":1449072363,
+    "wof:lastmodified":1466321732,
     "wof:name":"Buckville Road Grocery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.340221,34.645781,-93.340221,34.645781],
+  "bbox": [
+    -93.340221,
+    34.645781,
+    -93.340221,
+    34.645781
+],
   "geometry": {"coordinates":[-93.340221,34.645781],"type":"Point"}
 }

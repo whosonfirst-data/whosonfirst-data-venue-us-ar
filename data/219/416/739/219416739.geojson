@@ -2,13 +2,14 @@
   "id": 219416739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.022666,34.517649,-92.022666,34.517649",
     "geom:latitude":34.517649,
     "geom:longitude":-92.022666,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1582 Brodie Bend Rd",
     "sg:city":"England",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219416739,
-    "wof:lastmodified":1449071983,
+    "wof:lastmodified":1466322995,
     "wof:name":"Johnny David Carter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "cotton"
     ]
 },
-  "bbox": [-92.022666,34.517649,-92.022666,34.517649],
+  "bbox": [
+    -92.022666,
+    34.517649,
+    -92.022666,
+    34.517649
+],
   "geometry": {"coordinates":[-92.022666,34.517649],"type":"Point"}
 }

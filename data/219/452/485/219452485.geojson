@@ -2,13 +2,14 @@
   "id": 219452485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.390142,34.614872,-92.390142,34.614872",
     "geom:latitude":34.614872,
     "geom:longitude":-92.390142,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9916 Kling Valley Dr",
     "sg:city":"Mabelvale",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219452485,
-    "wof:lastmodified":1449071224,
+    "wof:lastmodified":1466323403,
     "wof:name":"Stringers Tax Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "preparation-business"
     ]
 },
-  "bbox": [-92.390142,34.614872,-92.390142,34.614872],
+  "bbox": [
+    -92.390142,
+    34.614872,
+    -92.390142,
+    34.614872
+],
   "geometry": {"coordinates":[-92.390142,34.614872],"type":"Point"}
 }

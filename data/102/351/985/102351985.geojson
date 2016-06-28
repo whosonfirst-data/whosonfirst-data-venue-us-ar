@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102351985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.15686,36.094029,-94.15686,36.094029",
     "geom:latitude":36.094029,
     "geom:longitude":-94.15686,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2297 Green Acres",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885445,
+        85688549,
         85633793,
         85919609,
         102082007,
-        85688549
+        85885445
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102351985,
-    "wof:lastmodified":1449069807,
+    "wof:lastmodified":1466324159,
     "wof:name":"Outstart Inc",
     "wof:parent_id":85885445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.15686,36.094029,-94.15686,36.094029],
-  "geometry": {"coordinates":[-94.15686,36.094029],"type":"Point"}
+  "bbox": [
+    -94.15686,
+    36.094029,
+    -94.15686,
+    36.094029
+],
+  "geometry": {"coordinates":[-94.15685999999999,36.094029],"type":"Point"}
 }

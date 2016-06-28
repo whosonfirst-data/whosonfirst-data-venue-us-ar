@@ -2,13 +2,14 @@
   "id": 219586137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.465569,35.26836,-90.465569,35.26836",
     "geom:latitude":35.26836,
     "geom:longitude":-90.465569,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Commerce St",
     "sg:city":"Earle",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219586137,
-    "wof:lastmodified":1449073513,
+    "wof:lastmodified":1466324561,
     "wof:name":"Total Deliverance Cathedral",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "denomination"
     ]
 },
-  "bbox": [-90.465569,35.26836,-90.465569,35.26836],
+  "bbox": [
+    -90.465569,
+    35.26836,
+    -90.465569,
+    35.26836
+],
   "geometry": {"coordinates":[-90.465569,35.26836],"type":"Point"}
 }

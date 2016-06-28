@@ -2,13 +2,14 @@
   "id": 220114481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.381399,35.023175,-94.381399,35.023175",
     "geom:latitude":35.023175,
     "geom:longitude":-94.381399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 S Broadway St",
     "sg:city":"Hartford",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220114481,
-    "wof:lastmodified":1449074375,
+    "wof:lastmodified":1466322486,
     "wof:name":"Farmers Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commercial"
     ]
 },
-  "bbox": [-94.381399,35.023175,-94.381399,35.023175],
+  "bbox": [
+    -94.381399,
+    35.023175,
+    -94.381399,
+    35.023175
+],
   "geometry": {"coordinates":[-94.381399,35.023175],"type":"Point"}
 }

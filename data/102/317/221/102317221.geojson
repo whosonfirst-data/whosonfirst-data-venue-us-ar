@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102317221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.280909,35.605171,-91.280909,35.605171",
     "geom:latitude":35.605171,
     "geom:longitude":-91.280909,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 Hazel St",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102317221,
-    "wof:lastmodified":1449068863,
+    "wof:lastmodified":1466323356,
     "wof:name":"Forest Financial Service LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.280909,35.605171,-91.280909,35.605171],
-  "geometry": {"coordinates":[-91.280909,35.605171],"type":"Point"}
+  "bbox": [
+    -91.280909,
+    35.605171,
+    -91.280909,
+    35.605171
+],
+  "geometry": {"coordinates":[-91.28090899999999,35.605171],"type":"Point"}
 }

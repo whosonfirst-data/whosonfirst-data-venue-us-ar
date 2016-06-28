@@ -2,13 +2,14 @@
   "id": 219466817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.796434,34.354947,-92.796434,34.354947",
     "geom:latitude":34.354947,
     "geom:longitude":-92.796434,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1513 Jefferson St",
     "sg:city":"Malvern",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219466817,
-    "wof:lastmodified":1449071457,
+    "wof:lastmodified":1466323524,
     "wof:name":"A&E Disaster Recovery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "recovery"
     ]
 },
-  "bbox": [-92.796434,34.354947,-92.796434,34.354947],
+  "bbox": [
+    -92.796434,
+    34.354947,
+    -92.796434,
+    34.354947
+],
   "geometry": {"coordinates":[-92.796434,34.354947],"type":"Point"}
 }

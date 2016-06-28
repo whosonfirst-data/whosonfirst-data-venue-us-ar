@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102272101",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.826112,35.486966,-93.826112,35.486966",
     "geom:latitude":35.486966,
     "geom:longitude":-93.826112,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 N 2nd St",
     "sg:city":"Ozark",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102272101",
-    "wof:lastmodified":1449070017,
+    "wof:lastmodified":1466322341,
     "wof:name":"River Valley Creations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.826112,35.486966,-93.826112,35.486966],
-  "geometry": {"coordinates":[-93.826112,35.486966],"type":"Point"}
+  "bbox": [
+    -93.826112,
+    35.486966,
+    -93.826112,
+    35.486966
+],
+  "geometry": {"coordinates":[-93.82611199999999,35.486966],"type":"Point"}
 }

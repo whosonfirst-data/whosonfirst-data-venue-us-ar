@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102432013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.238762,36.362042,-94.238762,36.362042",
     "geom:latitude":36.362042,
     "geom:longitude":-94.238762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"910 SW Krug Rd",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102432013,
-    "wof:lastmodified":1449067729,
+    "wof:lastmodified":1466325604,
     "wof:name":"Sean E Robertson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.238762,36.362042,-94.238762,36.362042],
-  "geometry": {"coordinates":[-94.238762,36.362042],"type":"Point"}
+  "bbox": [
+    -94.238762,
+    36.362042,
+    -94.238762,
+    36.362042
+],
+  "geometry": {"coordinates":[-94.23876199999999,36.362042],"type":"Point"}
 }

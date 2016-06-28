@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102331599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.110003,35.853829,-94.110003,35.853829",
     "geom:latitude":35.853829,
     "geom:longitude":-94.110003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14771 Bradberry Farm Rd",
     "sg:city":"Winslow",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102331599,
-    "wof:lastmodified":1449069210,
+    "wof:lastmodified":1466323674,
     "wof:name":"Bradbury Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.110003,35.853829,-94.110003,35.853829],
-  "geometry": {"coordinates":[-94.110003,35.853829],"type":"Point"}
+  "bbox": [
+    -94.110003,
+    35.853829,
+    -94.110003,
+    35.853829
+],
+  "geometry": {"coordinates":[-94.11000300000001,35.853829],"type":"Point"}
 }

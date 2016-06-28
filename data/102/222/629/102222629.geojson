@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102222629",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.313583,35.222412,-94.313583,35.222412",
     "geom:latitude":35.222412,
     "geom:longitude":-94.313583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3419 Sturgeon Rd",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":"102222629",
-    "wof:lastmodified":1449069398,
+    "wof:lastmodified":1466321257,
     "wof:name":"Craig McKenzie Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.313583,35.222412,-94.313583,35.222412],
-  "geometry": {"coordinates":[-94.313583,35.222412],"type":"Point"}
+  "bbox": [
+    -94.313583,
+    35.222412,
+    -94.313583,
+    35.222412
+],
+  "geometry": {"coordinates":[-94.31358299999999,35.222412],"type":"Point"}
 }

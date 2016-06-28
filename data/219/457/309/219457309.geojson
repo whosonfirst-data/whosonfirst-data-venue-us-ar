@@ -2,13 +2,14 @@
   "id": 219457309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.813179,34.400059,-92.813179,34.400059",
     "geom:latitude":34.400059,
     "geom:longitude":-92.813179,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1895 Industrial Rd",
     "sg:city":"Rockport",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219457309,
-    "wof:lastmodified":1449072754,
+    "wof:lastmodified":1466323446,
     "wof:name":"Bulk Sak",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-92.813179,34.400059,-92.813179,34.400059],
-  "geometry": {"coordinates":[-92.813179,34.400059],"type":"Point"}
+  "bbox": [
+    -92.813179,
+    34.400059,
+    -92.813179,
+    34.400059
+],
+  "geometry": {"coordinates":[-92.81317900000001,34.400059],"type":"Point"}
 }

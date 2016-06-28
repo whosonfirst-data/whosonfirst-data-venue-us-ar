@@ -2,13 +2,14 @@
   "id": 220061015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.141932,36.166978,-94.141932,36.166978",
     "geom:latitude":36.166978,
     "geom:longitude":-94.141932,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2005 S Thompson St",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":220061015,
-    "wof:lastmodified":1449074629,
+    "wof:lastmodified":1466321027,
     "wof:name":"Flapjacks Rest",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.141932,36.166978,-94.141932,36.166978],
+  "bbox": [
+    -94.141932,
+    36.166978,
+    -94.141932,
+    36.166978
+],
   "geometry": {"coordinates":[-94.141932,36.166978],"type":"Point"}
 }

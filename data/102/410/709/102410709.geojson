@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102410709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.28351,35.593399,-92.28351,35.593399",
     "geom:latitude":35.593399,
     "geom:longitude":-92.28351,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 W Cliff Dr",
     "sg:city":"Fairfield Bay",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":102410709,
-    "wof:lastmodified":1449067793,
+    "wof:lastmodified":1466325220,
     "wof:name":"Holistic Health Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.28351,35.593399,-92.28351,35.593399],
-  "geometry": {"coordinates":[-92.28351,35.593399],"type":"Point"}
+  "bbox": [
+    -92.28351,
+    35.593399,
+    -92.28351,
+    35.593399
+],
+  "geometry": {"coordinates":[-92.28351000000001,35.593399],"type":"Point"}
 }

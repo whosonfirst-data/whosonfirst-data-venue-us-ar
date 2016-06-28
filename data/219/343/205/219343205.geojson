@@ -2,13 +2,14 @@
   "id": 219343205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.57896,34.575019,-92.57896,34.575019",
     "geom:latitude":34.575019,
     "geom:longitude":-92.57896,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1215 Military Rd Ste 5",
     "sg:city":"Benton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219343205,
-    "wof:lastmodified":1449072909,
+    "wof:lastmodified":1466322156,
     "wof:name":"Preston Cooper Dds",
     "wof:parent_id":85817531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.57896,34.575019,-92.57896,34.575019],
+  "bbox": [
+    -92.57896,
+    34.575019,
+    -92.57896,
+    34.575019
+],
   "geometry": {"coordinates":[-92.57896,34.575019],"type":"Point"}
 }

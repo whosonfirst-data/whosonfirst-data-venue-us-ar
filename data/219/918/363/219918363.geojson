@@ -2,13 +2,14 @@
   "id": 219918363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.044685,36.432665,-94.044685,36.432665",
     "geom:latitude":36.432665,
     "geom:longitude":-94.044685,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15188 E Highway 62",
     "sg:city":"Garfield",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219918363,
-    "wof:lastmodified":1449072788,
+    "wof:lastmodified":1466325133,
     "wof:name":"Big M Classics",
     "wof:parent_id":85895835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "trailer"
     ]
 },
-  "bbox": [-94.044685,36.432665,-94.044685,36.432665],
+  "bbox": [
+    -94.044685,
+    36.432665,
+    -94.044685,
+    36.432665
+],
   "geometry": {"coordinates":[-94.044685,36.432665],"type":"Point"}
 }

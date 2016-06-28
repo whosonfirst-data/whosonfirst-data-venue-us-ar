@@ -2,13 +2,14 @@
   "id": 219829129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.136183,36.038358,-94.136183,36.038358",
     "geom:latitude":36.038358,
     "geom:longitude":-94.136183,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2355 S Armstrong Ave",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":219829129,
-    "wof:lastmodified":1449073675,
+    "wof:lastmodified":1466324990,
     "wof:name":"Aaf International",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-94.136183,36.038358,-94.136183,36.038358],
+  "bbox": [
+    -94.136183,
+    36.038358,
+    -94.136183,
+    36.038358
+],
   "geometry": {"coordinates":[-94.136183,36.038358],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219905333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.210787,36.353458,-94.210787,36.353458",
     "geom:latitude":36.353458,
     "geom:longitude":-94.210787,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1703 S Walton Blvd",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219905333,
-    "wof:lastmodified":1449071771,
+    "wof:lastmodified":1466325104,
     "wof:name":"Floors to Go",
     "wof:parent_id":85895807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rug"
     ]
 },
-  "bbox": [-94.210787,36.353458,-94.210787,36.353458],
+  "bbox": [
+    -94.210787,
+    36.353458,
+    -94.210787,
+    36.353458
+],
   "geometry": {"coordinates":[-94.210787,36.353458],"type":"Point"}
 }

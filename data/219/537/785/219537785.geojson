@@ -2,13 +2,14 @@
   "id": 219537785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.418842,34.328277,-92.418842,34.328277",
     "geom:latitude":34.328277,
     "geom:longitude":-92.418842,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2825 Highway 35 N",
     "sg:city":"Sheridan",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219537785,
-    "wof:lastmodified":1449071263,
+    "wof:lastmodified":1466324239,
     "wof:name":"James Mason Rea",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "malpractice"
     ]
 },
-  "bbox": [-92.418842,34.328277,-92.418842,34.328277],
+  "bbox": [
+    -92.418842,
+    34.328277,
+    -92.418842,
+    34.328277
+],
   "geometry": {"coordinates":[-92.418842,34.328277],"type":"Point"}
 }

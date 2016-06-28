@@ -2,13 +2,14 @@
   "id": 219857683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.15568,36.083973,-94.15568,36.083973",
     "geom:latitude":36.083973,
     "geom:longitude":-94.15568,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1673 N College Ave",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":219857683,
-    "wof:lastmodified":1449072672,
+    "wof:lastmodified":1466325131,
     "wof:name":"Dome Grill & Bar The",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "brew"
     ]
 },
-  "bbox": [-94.15568,36.083973,-94.15568,36.083973],
+  "bbox": [
+    -94.15568,
+    36.083973,
+    -94.15568,
+    36.083973
+],
   "geometry": {"coordinates":[-94.15568,36.083973],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219229053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.135516,33.679269,-94.135516,33.679269",
     "geom:latitude":33.679269,
     "geom:longitude":-94.135516,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"941 N Constitution Ave",
     "sg:city":"Ashdown",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219229053,
-    "wof:lastmodified":1449073218,
+    "wof:lastmodified":1466321163,
     "wof:name":"Classic Pre-Owned Service and Tire Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "tune"
     ]
 },
-  "bbox": [-94.135516,33.679269,-94.135516,33.679269],
+  "bbox": [
+    -94.135516,
+    33.679269,
+    -94.135516,
+    33.679269
+],
   "geometry": {"coordinates":[-94.135516,33.679269],"type":"Point"}
 }

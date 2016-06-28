@@ -2,13 +2,14 @@
   "id": 219827663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.121387,36.084041,-94.121387,36.084041",
     "geom:latitude":36.084041,
     "geom:longitude":-94.121387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1780 N Crossover Rd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":219827663,
-    "wof:lastmodified":1449071655,
+    "wof:lastmodified":1466324994,
     "wof:name":"Harp's Food Stores",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.121387,36.084041,-94.121387,36.084041],
+  "bbox": [
+    -94.121387,
+    36.084041,
+    -94.121387,
+    36.084041
+],
   "geometry": {"coordinates":[-94.121387,36.084041],"type":"Point"}
 }

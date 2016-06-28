@@ -2,13 +2,14 @@
   "id": 219434699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.192856,34.87468,-92.192856,34.87468",
     "geom:latitude":34.87468,
     "geom:longitude":-92.192856,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"67 Kelso Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219434699,
-    "wof:lastmodified":1449071159,
+    "wof:lastmodified":1466323141,
     "wof:name":"Marshall & Marshall",
     "wof:parent_id":85837729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "preparation-business"
     ]
 },
-  "bbox": [-92.192856,34.87468,-92.192856,34.87468],
-  "geometry": {"coordinates":[-92.192856,34.87468],"type":"Point"}
+  "bbox": [
+    -92.192856,
+    34.87468,
+    -92.192856,
+    34.87468
+],
+  "geometry": {"coordinates":[-92.19285600000001,34.87468],"type":"Point"}
 }

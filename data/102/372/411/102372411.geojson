@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102372411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.251004,34.755745,-92.251004,34.755745",
     "geom:latitude":34.755745,
     "geom:longitude":-92.251004,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 E Broadway St",
     "sg:city":"N Little Rock",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102082497,
-        85633793,
         85688549,
-        85878757
+        85633793,
+        85878757,
+        102082497
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102372411,
-    "wof:lastmodified":1449069204,
+    "wof:lastmodified":1466320495,
     "wof:name":"Action Claims Svc",
     "wof:parent_id":85878757,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.251004,34.755745,-92.251004,34.755745],
-  "geometry": {"coordinates":[-92.251004,34.755745],"type":"Point"}
+  "bbox": [
+    -92.251004,
+    34.755745,
+    -92.251004,
+    34.755745
+],
+  "geometry": {"coordinates":[-92.25100399999999,34.755745],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219950627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.169801,36.336223,-94.169801,36.336223",
     "geom:latitude":36.336223,
     "geom:longitude":-94.169801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 N 37th St",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":219950627,
-    "wof:lastmodified":1449071763,
+    "wof:lastmodified":1466325240,
     "wof:name":"Regional Rec Dance Gymnastics & Cheer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "event"
     ]
 },
-  "bbox": [-94.169801,36.336223,-94.169801,36.336223],
-  "geometry": {"coordinates":[-94.169801,36.336223],"type":"Point"}
+  "bbox": [
+    -94.169801,
+    36.336223,
+    -94.169801,
+    36.336223
+],
+  "geometry": {"coordinates":[-94.16980100000001,36.336223],"type":"Point"}
 }

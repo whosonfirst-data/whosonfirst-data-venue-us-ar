@@ -2,13 +2,14 @@
   "id": 219472459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.720141,35.169848,-92.720141,35.169848",
     "geom:latitude":35.169848,
     "geom:longitude":-92.720141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Hospital Dr",
     "sg:city":"Morrilton",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219472459,
-    "wof:lastmodified":1449070664,
+    "wof:lastmodified":1466323609,
     "wof:name":"St. Anthony's Sleep Study Center",
     "wof:parent_id":85850611,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "disorders-information"
     ]
 },
-  "bbox": [-92.720141,35.169848,-92.720141,35.169848],
+  "bbox": [
+    -92.720141,
+    35.169848,
+    -92.720141,
+    35.169848
+],
   "geometry": {"coordinates":[-92.720141,35.169848],"type":"Point"}
 }

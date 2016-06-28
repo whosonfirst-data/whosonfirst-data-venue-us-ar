@@ -2,13 +2,14 @@
   "id": 219197743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.417555,33.81236,-92.417555,33.81236",
     "geom:latitude":33.81236,
     "geom:longitude":-92.417555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"412 W 4th St",
     "sg:city":"Fordyce",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219197743,
-    "wof:lastmodified":1449073474,
+    "wof:lastmodified":1466320847,
     "wof:name":"Wynne Phillips House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "lodging"
     ]
 },
-  "bbox": [-92.417555,33.81236,-92.417555,33.81236],
-  "geometry": {"coordinates":[-92.417555,33.81236],"type":"Point"}
+  "bbox": [
+    -92.417555,
+    33.81236,
+    -92.417555,
+    33.81236
+],
+  "geometry": {"coordinates":[-92.41755499999999,33.81236],"type":"Point"}
 }

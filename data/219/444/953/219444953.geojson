@@ -2,13 +2,14 @@
   "id": 219444953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.677702,35.304909,-91.677702,35.304909",
     "geom:latitude":35.304909,
     "geom:longitude":-91.677702,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"511 Highway 385 N",
     "sg:city":"Judsonia",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219444953,
-    "wof:lastmodified":1449073431,
+    "wof:lastmodified":1466323305,
     "wof:name":"A & C Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "refrigerator"
     ]
 },
-  "bbox": [-91.677702,35.304909,-91.677702,35.304909],
+  "bbox": [
+    -91.677702,
+    35.304909,
+    -91.677702,
+    35.304909
+],
   "geometry": {"coordinates":[-91.677702,35.304909],"type":"Point"}
 }

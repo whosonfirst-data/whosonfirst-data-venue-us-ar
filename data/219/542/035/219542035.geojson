@@ -2,13 +2,14 @@
   "id": 219542035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.405526,34.125006,-92.405526,34.125006",
     "geom:latitude":34.125006,
     "geom:longitude":-92.405526,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12644 Highway 167 S",
     "sg:city":"Sheridan",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219542035,
-    "wof:lastmodified":1449073147,
+    "wof:lastmodified":1466324271,
     "wof:name":"Myers Meb Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.405526,34.125006,-92.405526,34.125006],
-  "geometry": {"coordinates":[-92.405526,34.125006],"type":"Point"}
+  "bbox": [
+    -92.405526,
+    34.125006,
+    -92.405526,
+    34.125006
+],
+  "geometry": {"coordinates":[-92.40552599999999,34.125006],"type":"Point"}
 }

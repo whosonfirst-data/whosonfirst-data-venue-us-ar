@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102401481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.947382,35.820439,-93.947382,35.820439",
     "geom:latitude":35.820439,
     "geom:longitude":-93.947382,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2987 Madison 4035",
     "sg:city":"Elkins",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102401481,
-    "wof:lastmodified":1449069811,
+    "wof:lastmodified":1466324747,
     "wof:name":"Larry Parker Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.947382,35.820439,-93.947382,35.820439],
+  "bbox": [
+    -93.947382,
+    35.820439,
+    -93.947382,
+    35.820439
+],
   "geometry": {"coordinates":[-93.947382,35.820439],"type":"Point"}
 }

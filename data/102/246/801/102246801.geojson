@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102246801",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.285041,33.33157,-91.285041,33.33157",
     "geom:latitude":33.33157,
     "geom:longitude":-91.285041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 Main St",
     "sg:city":"Lake Village",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102246801",
-    "wof:lastmodified":1449067949,
+    "wof:lastmodified":1466321846,
     "wof:name":"Hunter's Pharmacy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.285041,33.33157,-91.285041,33.33157],
-  "geometry": {"coordinates":[-91.285041,33.33157],"type":"Point"}
+  "bbox": [
+    -91.285041,
+    33.33157,
+    -91.285041,
+    33.33157
+],
+  "geometry": {"coordinates":[-91.28504100000001,33.33157],"type":"Point"}
 }

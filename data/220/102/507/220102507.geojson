@@ -2,13 +2,14 @@
   "id": 220102507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.316816,35.336178,-94.316816,35.336178",
     "geom:latitude":35.336178,
     "geom:longitude":-94.316816,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2108 Fort St",
     "sg:city":"Barling",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220102507,
-    "wof:lastmodified":1449074828,
+    "wof:lastmodified":1466322270,
     "wof:name":"Arkansas Chiropractic Society",
     "wof:parent_id":85832863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chiropractic"
     ]
 },
-  "bbox": [-94.316816,35.336178,-94.316816,35.336178],
+  "bbox": [
+    -94.316816,
+    35.336178,
+    -94.316816,
+    35.336178
+],
   "geometry": {"coordinates":[-94.316816,35.336178],"type":"Point"}
 }

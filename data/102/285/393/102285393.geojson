@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102285393",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.956016,33.13255,-91.956016,33.13255",
     "geom:latitude":33.13255,
     "geom:longitude":-91.956016,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 Elm St",
     "sg:city":"Crossett",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102285393",
-    "wof:lastmodified":1449067835,
+    "wof:lastmodified":1466322731,
     "wof:name":"J & M Bargain Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.956016,33.13255,-91.956016,33.13255],
-  "geometry": {"coordinates":[-91.956016,33.13255],"type":"Point"}
+  "bbox": [
+    -91.956016,
+    33.13255,
+    -91.956016,
+    33.13255
+],
+  "geometry": {"coordinates":[-91.95601600000001,33.13255],"type":"Point"}
 }

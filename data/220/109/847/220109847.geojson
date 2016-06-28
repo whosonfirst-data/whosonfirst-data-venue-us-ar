@@ -2,13 +2,14 @@
   "id": 220109847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.240602,35.109548,-94.240602,35.109548",
     "geom:latitude":35.109548,
     "geom:longitude":-94.240602,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6573 E Highway 252",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220109847,
-    "wof:lastmodified":1449074295,
+    "wof:lastmodified":1466322373,
     "wof:name":"Milltown Washburn Vfd",
     "wof:parent_id":85808359,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-94.240602,35.109548,-94.240602,35.109548],
+  "bbox": [
+    -94.240602,
+    35.109548,
+    -94.240602,
+    35.109548
+],
   "geometry": {"coordinates":[-94.240602,35.109548],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102435365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.767389,35.247339,-91.767389,35.247339",
     "geom:latitude":35.247339,
     "geom:longitude":-91.767389,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2401 W Beebe Capps Expy",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102435365,
-    "wof:lastmodified":1449069969,
+    "wof:lastmodified":1466325665,
     "wof:name":"First Community Bank Searcy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.767389,35.247339,-91.767389,35.247339],
-  "geometry": {"coordinates":[-91.767389,35.247339],"type":"Point"}
+  "bbox": [
+    -91.767389,
+    35.247339,
+    -91.767389,
+    35.247339
+],
+  "geometry": {"coordinates":[-91.76738899999999,35.247339],"type":"Point"}
 }

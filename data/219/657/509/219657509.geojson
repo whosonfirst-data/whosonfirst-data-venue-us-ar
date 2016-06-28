@@ -2,13 +2,14 @@
   "id": 219657509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.592112,36.407192,-90.592112,36.407192",
     "geom:latitude":36.407192,
     "geom:longitude":-90.592112,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"709 10th St",
     "sg:city":"Corning",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":219657509,
-    "wof:lastmodified":1449070781,
+    "wof:lastmodified":1466324559,
     "wof:name":"Dennis Cate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "espresso"
     ]
 },
-  "bbox": [-90.592112,36.407192,-90.592112,36.407192],
+  "bbox": [
+    -90.592112,
+    36.407192,
+    -90.592112,
+    36.407192
+],
   "geometry": {"coordinates":[-90.592112,36.407192],"type":"Point"}
 }

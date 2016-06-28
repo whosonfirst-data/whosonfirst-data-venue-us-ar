@@ -2,13 +2,14 @@
   "id": 219937883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.375375,36.044919,-94.375375,36.044919",
     "geom:latitude":36.044919,
     "geom:longitude":-94.375375,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17245 Mateer Rd",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219937883,
-    "wof:lastmodified":1449071062,
+    "wof:lastmodified":1466325171,
     "wof:name":"Ultimate Lawn Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-94.375375,36.044919,-94.375375,36.044919],
-  "geometry": {"coordinates":[-94.375375,36.044919],"type":"Point"}
+  "bbox": [
+    -94.375375,
+    36.044919,
+    -94.375375,
+    36.044919
+],
+  "geometry": {"coordinates":[-94.37537500000001,36.044919],"type":"Point"}
 }

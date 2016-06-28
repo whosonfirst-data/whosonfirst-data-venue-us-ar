@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102374275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.148125,36.06658,-94.148125,36.06658",
     "geom:latitude":36.06658,
     "geom:longitude":-94.148125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"72 N Oklahoma Way",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885459,
+        85688549,
         85633793,
         85919609,
         102082007,
-        85688549
+        85885459
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102374275,
-    "wof:lastmodified":1449068811,
+    "wof:lastmodified":1466320897,
     "wof:name":"House Family LLC",
     "wof:parent_id":85885459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.148125,36.06658,-94.148125,36.06658],
-  "geometry": {"coordinates":[-94.148125,36.06658],"type":"Point"}
+  "bbox": [
+    -94.148125,
+    36.06658,
+    -94.148125,
+    36.06658
+],
+  "geometry": {"coordinates":[-94.14812499999999,36.06658],"type":"Point"}
 }

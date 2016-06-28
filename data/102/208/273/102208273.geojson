@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102208273",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.049303,34.475998,-93.049303,34.475998",
     "geom:latitude":34.475998,
     "geom:longitude":-93.049303,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 Golf Links Rd",
     "sg:city":"Hot Springs",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102208273",
-    "wof:lastmodified":1449068081,
+    "wof:lastmodified":1466320826,
     "wof:name":"Stephanie's Pet Grooming",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.049303,34.475998,-93.049303,34.475998],
-  "geometry": {"coordinates":[-93.049303,34.475998],"type":"Point"}
+  "bbox": [
+    -93.049303,
+    34.475998,
+    -93.049303,
+    34.475998
+],
+  "geometry": {"coordinates":[-93.04930299999999,34.475998],"type":"Point"}
 }

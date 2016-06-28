@@ -2,13 +2,14 @@
   "id": 219995549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.168306,36.287625,-94.168306,36.287625",
     "geom:latitude":36.287625,
     "geom:longitude":-94.168306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2821 W Pleasant Grove Rd Ste B",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219995549,
-    "wof:lastmodified":1449073528,
+    "wof:lastmodified":1466325445,
     "wof:name":"Arkansas Commercial Real Estate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "property"
     ]
 },
-  "bbox": [-94.168306,36.287625,-94.168306,36.287625],
+  "bbox": [
+    -94.168306,
+    36.287625,
+    -94.168306,
+    36.287625
+],
   "geometry": {"coordinates":[-94.168306,36.287625],"type":"Point"}
 }

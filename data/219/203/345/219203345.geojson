@@ -2,13 +2,14 @@
   "id": 219203345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.899672,33.428048,-92.899672,33.428048",
     "geom:latitude":33.428048,
     "geom:longitude":-92.899672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1483 Ouachita Road 47",
     "sg:city":"Louann",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219203345,
-    "wof:lastmodified":1449071964,
+    "wof:lastmodified":1466320897,
     "wof:name":"Gene Jeffress",
     "wof:parent_id":85813169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "assistant"
     ]
 },
-  "bbox": [-92.899672,33.428048,-92.899672,33.428048],
+  "bbox": [
+    -92.899672,
+    33.428048,
+    -92.899672,
+    33.428048
+],
   "geometry": {"coordinates":[-92.899672,33.428048],"type":"Point"}
 }

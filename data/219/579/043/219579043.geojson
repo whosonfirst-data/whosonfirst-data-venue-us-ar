@@ -2,13 +2,14 @@
   "id": 219579043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.775783,35.909151,-89.775783,35.909151",
     "geom:latitude":35.909151,
     "geom:longitude":-89.775783,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5929 E State Highway 18",
     "sg:city":"Blytheville",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219579043,
-    "wof:lastmodified":1449071520,
+    "wof:lastmodified":1466324736,
     "wof:name":"Nucor Yamato Steel Plant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "warehouse"
     ]
 },
-  "bbox": [-89.775783,35.909151,-89.775783,35.909151],
+  "bbox": [
+    -89.775783,
+    35.909151,
+    -89.775783,
+    35.909151
+],
   "geometry": {"coordinates":[-89.775783,35.909151],"type":"Point"}
 }

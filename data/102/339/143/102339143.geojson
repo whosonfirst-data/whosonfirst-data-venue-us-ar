@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102339143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.259461,34.792088,-92.259461,34.792088",
     "geom:latitude":34.792088,
     "geom:longitude":-92.259461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4400 John F Kennedy Blvd",
     "sg:city":"Sherwood",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.parkhillchristian.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840541,
+        85688549,
         85633793,
         85921255,
         102082497,
-        85688549
+        85840541
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102339143,
-    "wof:lastmodified":1449068845,
+    "wof:lastmodified":1466323757,
     "wof:name":"Park Hill Christian Church",
     "wof:parent_id":85840541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.259461,34.792088,-92.259461,34.792088],
+  "bbox": [
+    -92.259461,
+    34.792088,
+    -92.259461,
+    34.792088
+],
   "geometry": {"coordinates":[-92.259461,34.792088],"type":"Point"}
 }

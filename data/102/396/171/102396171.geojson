@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102396171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.135149,36.195678,-94.135149,36.195678",
     "geom:latitude":36.195678,
     "geom:longitude":-94.135149,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 Sanders Ave",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885481,
+        85688549,
         85633793,
         85919623,
         102082007,
-        85688549
+        85885481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102396171,
-    "wof:lastmodified":1449069363,
+    "wof:lastmodified":1466324679,
     "wof:name":"Country Road Baptist Church",
     "wof:parent_id":85885481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.135149,36.195678,-94.135149,36.195678],
+  "bbox": [
+    -94.135149,
+    36.195678,
+    -94.135149,
+    36.195678
+],
   "geometry": {"coordinates":[-94.135149,36.195678],"type":"Point"}
 }

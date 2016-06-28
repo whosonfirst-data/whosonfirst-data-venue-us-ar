@@ -2,13 +2,14 @@
   "id": 219399485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.480613,35.102332,-92.480613,35.102332",
     "geom:latitude":35.102332,
     "geom:longitude":-92.480613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3225 Chrysler Cv",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219399485,
-    "wof:lastmodified":1449071015,
+    "wof:lastmodified":1466322843,
     "wof:name":"Bent Prop Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "park"
     ]
 },
-  "bbox": [-92.480613,35.102332,-92.480613,35.102332],
-  "geometry": {"coordinates":[-92.480613,35.102332],"type":"Point"}
+  "bbox": [
+    -92.480613,
+    35.102332,
+    -92.480613,
+    35.102332
+],
+  "geometry": {"coordinates":[-92.48061300000001,35.102332],"type":"Point"}
 }

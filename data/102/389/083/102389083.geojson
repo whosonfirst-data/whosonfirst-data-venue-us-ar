@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102389083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.352706,34.767314,-92.352706,34.767314",
     "geom:latitude":34.767314,
     "geom:longitude":-92.352706,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1601 N Bryant St",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878753,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85878753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102389083,
-    "wof:lastmodified":1449069694,
+    "wof:lastmodified":1466323959,
     "wof:name":"Rodney Doster",
     "wof:parent_id":85878753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.352706,34.767314,-92.352706,34.767314],
+  "bbox": [
+    -92.352706,
+    34.767314,
+    -92.352706,
+    34.767314
+],
   "geometry": {"coordinates":[-92.352706,34.767314],"type":"Point"}
 }

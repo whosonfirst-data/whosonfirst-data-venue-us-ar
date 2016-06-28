@@ -2,13 +2,14 @@
   "id": 219980905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.150703,36.334202,-94.150703,36.334202",
     "geom:latitude":36.334202,
     "geom:longitude":-94.150703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2301 W Walnut St Ste 22",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219980905,
-    "wof:lastmodified":1449070618,
+    "wof:lastmodified":1466325300,
     "wof:name":"Ultimate Tan the",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.150703,36.334202,-94.150703,36.334202],
-  "geometry": {"coordinates":[-94.150703,36.334202],"type":"Point"}
+  "bbox": [
+    -94.150703,
+    36.334202,
+    -94.150703,
+    36.334202
+],
+  "geometry": {"coordinates":[-94.15070299999999,36.334202],"type":"Point"}
 }

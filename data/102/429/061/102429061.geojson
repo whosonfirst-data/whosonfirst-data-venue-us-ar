@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102429061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.3357,34.765073,-92.3357,34.765073",
     "geom:latitude":34.765073,
     "geom:longitude":-92.3357,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5323 Edgewood Rd",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878751,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85878751
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102429061,
-    "wof:lastmodified":1449070070,
+    "wof:lastmodified":1466325517,
     "wof:name":"Mac Made Products",
     "wof:parent_id":85878751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.3357,34.765073,-92.3357,34.765073],
+  "bbox": [
+    -92.3357,
+    34.765073,
+    -92.3357,
+    34.765073
+],
   "geometry": {"coordinates":[-92.3357,34.765073],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219880361,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.203598,36.3895,-94.203598,36.3895",
     "geom:latitude":36.3895,
     "geom:longitude":-94.203598,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1901 NE A St",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":219880361,
-    "wof:lastmodified":1449073954,
+    "wof:lastmodified":1466325161,
     "wof:name":"Bentonville Waste Water",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "supplies-commercial"
     ]
 },
-  "bbox": [-94.203598,36.3895,-94.203598,36.3895],
+  "bbox": [
+    -94.203598,
+    36.3895,
+    -94.203598,
+    36.3895
+],
   "geometry": {"coordinates":[-94.203598,36.3895],"type":"Point"}
 }

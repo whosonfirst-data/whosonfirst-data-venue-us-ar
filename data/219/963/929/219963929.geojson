@@ -2,13 +2,14 @@
   "id": 219963929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.159203,36.334499,-94.159203,36.334499",
     "geom:latitude":36.334499,
     "geom:longitude":-94.159203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Halsted Cir",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219963929,
-    "wof:lastmodified":1449070725,
+    "wof:lastmodified":1466325214,
     "wof:name":"Matinchev Borian MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.159203,36.334499,-94.159203,36.334499],
-  "geometry": {"coordinates":[-94.159203,36.334499],"type":"Point"}
+  "bbox": [
+    -94.159203,
+    36.334499,
+    -94.159203,
+    36.334499
+],
+  "geometry": {"coordinates":[-94.15920300000001,36.334499],"type":"Point"}
 }

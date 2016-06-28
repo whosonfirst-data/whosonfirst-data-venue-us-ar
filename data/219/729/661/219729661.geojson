@@ -2,13 +2,14 @@
   "id": 219729661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.526338,35.763723,-91.526338,35.763723",
     "geom:latitude":35.763723,
     "geom:longitude":-91.526338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"96 Raven Ln",
     "sg:city":"Batesville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219729661,
-    "wof:lastmodified":1449072161,
+    "wof:lastmodified":1466324896,
     "wof:name":"Hammerhead Contracting & Development",
     "wof:parent_id":85808231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-91.526338,35.763723,-91.526338,35.763723],
+  "bbox": [
+    -91.526338,
+    35.763723,
+    -91.526338,
+    35.763723
+],
   "geometry": {"coordinates":[-91.526338,35.763723],"type":"Point"}
 }

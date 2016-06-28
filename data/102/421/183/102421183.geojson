@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102421183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.534463,34.605898,-92.534463,34.605898",
     "geom:latitude":34.605898,
     "geom:longitude":-92.534463,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7791 Alcoa Rd",
     "sg:city":"Benton",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85817531,
+        85688549,
         85633793,
         85921383,
         102083257,
-        85688549
+        85817531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102421183,
-    "wof:lastmodified":1449069293,
+    "wof:lastmodified":1466325359,
     "wof:name":"Superior Truck Wash & Lube",
     "wof:parent_id":85817531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.534463,34.605898,-92.534463,34.605898],
+  "bbox": [
+    -92.534463,
+    34.605898,
+    -92.534463,
+    34.605898
+],
   "geometry": {"coordinates":[-92.534463,34.605898],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219504801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.473984,34.863041,-92.473984,34.863041",
     "geom:latitude":34.863041,
     "geom:longitude":-92.473984,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12623 Highway 300",
     "sg:city":"Roland",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219504801,
-    "wof:lastmodified":1449071012,
+    "wof:lastmodified":1466323984,
     "wof:name":"Guenther, Sam",
     "wof:parent_id":85847659,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "broker"
     ]
 },
-  "bbox": [-92.473984,34.863041,-92.473984,34.863041],
+  "bbox": [
+    -92.473984,
+    34.863041,
+    -92.473984,
+    34.863041
+],
   "geometry": {"coordinates":[-92.473984,34.863041],"type":"Point"}
 }

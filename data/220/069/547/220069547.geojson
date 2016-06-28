@@ -2,13 +2,14 @@
   "id": 220069547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.089637,35.276912,-93.089637,35.276912",
     "geom:latitude":35.276912,
     "geom:longitude":-93.089637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3305 E Main St",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":220069547,
-    "wof:lastmodified":1449074559,
+    "wof:lastmodified":1466321320,
     "wof:name":"Propel Logistics",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "trucking"
     ]
 },
-  "bbox": [-93.089637,35.276912,-93.089637,35.276912],
+  "bbox": [
+    -93.089637,
+    35.276912,
+    -93.089637,
+    35.276912
+],
   "geometry": {"coordinates":[-93.089637,35.276912],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220116899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.807573,35.149835,-93.807573,35.149835",
     "geom:latitude":35.149835,
     "geom:longitude":-93.807573,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22 E Priddy St",
     "sg:city":"Magazine",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220116899,
-    "wof:lastmodified":1449074148,
+    "wof:lastmodified":1466322518,
     "wof:name":"Magazine Superstop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "magazines-distributors"
     ]
 },
-  "bbox": [-93.807573,35.149835,-93.807573,35.149835],
+  "bbox": [
+    -93.807573,
+    35.149835,
+    -93.807573,
+    35.149835
+],
   "geometry": {"coordinates":[-93.807573,35.149835],"type":"Point"}
 }

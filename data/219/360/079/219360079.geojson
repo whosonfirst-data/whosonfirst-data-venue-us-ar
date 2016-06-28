@@ -2,13 +2,14 @@
   "id": 219360079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.512206,34.604254,-92.512206,34.604254",
     "geom:latitude":34.604254,
     "geom:longitude":-92.512206,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1109 Woodland Park Rd",
     "sg:city":"Bryant",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219360079,
-    "wof:lastmodified":1449073125,
+    "wof:lastmodified":1466322400,
     "wof:name":"Journeys Travel",
     "wof:parent_id":85817531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "services-commercial"
     ]
 },
-  "bbox": [-92.512206,34.604254,-92.512206,34.604254],
-  "geometry": {"coordinates":[-92.512206,34.604254],"type":"Point"}
+  "bbox": [
+    -92.512206,
+    34.604254,
+    -92.512206,
+    34.604254
+],
+  "geometry": {"coordinates":[-92.51220600000001,34.604254],"type":"Point"}
 }

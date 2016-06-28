@@ -2,13 +2,14 @@
   "id": 219313325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.644544,34.112888,-93.644544,34.112888",
     "geom:latitude":34.112888,
     "geom:longitude":-93.644544,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1392 Highway 27 N",
     "sg:city":"Murfreesboro",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219313325,
-    "wof:lastmodified":1449070472,
+    "wof:lastmodified":1466321843,
     "wof:name":"Rollin W Farm Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.644544,34.112888,-93.644544,34.112888],
+  "bbox": [
+    -93.644544,
+    34.112888,
+    -93.644544,
+    34.112888
+],
   "geometry": {"coordinates":[-93.644544,34.112888],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353397223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.712612,36.597863,-94.712612,36.597863",
     "geom:latitude":36.597863,
     "geom:longitude":-94.712612,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"65401 E 290 Rd",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353397223,
-    "wof:lastmodified":1449019280,
+    "wof:lastmodified":1466320410,
     "wof:name":"Superior Transmission",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-94.712612,36.597863,-94.712612,36.597863],
-  "geometry": {"coordinates":[-94.712612,36.597863],"type":"Point"}
+  "bbox": [
+    -94.712612,
+    36.597863,
+    -94.712612,
+    36.597863
+],
+  "geometry": {"coordinates":[-94.71261199999999,36.597863],"type":"Point"}
 }

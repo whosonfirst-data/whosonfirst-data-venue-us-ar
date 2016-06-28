@@ -2,13 +2,14 @@
   "id": 219323823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.027222,34.315399,-94.027222,34.315399",
     "geom:latitude":34.315399,
     "geom:longitude":-94.027222,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Minieola Rd",
     "sg:city":"Umpire",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219323823,
-    "wof:lastmodified":1449070696,
+    "wof:lastmodified":1466321922,
     "wof:name":"Sharper Image",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.027222,34.315399,-94.027222,34.315399],
-  "geometry": {"coordinates":[-94.027222,34.315399],"type":"Point"}
+  "bbox": [
+    -94.027222,
+    34.315399,
+    -94.027222,
+    34.315399
+],
+  "geometry": {"coordinates":[-94.02722199999999,34.315399],"type":"Point"}
 }

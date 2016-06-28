@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102202599",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.32152,36.406068,-92.32152,36.406068",
     "geom:latitude":36.406068,
     "geom:longitude":-92.32152,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1426 Cranfield Pt",
     "sg:city":"Mountain Home",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":"102202599",
-    "wof:lastmodified":1449069864,
+    "wof:lastmodified":1466320747,
     "wof:name":"LA Salle Resort",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.32152,36.406068,-92.32152,36.406068],
-  "geometry": {"coordinates":[-92.32152,36.406068],"type":"Point"}
+  "bbox": [
+    -92.32152,
+    36.406068,
+    -92.32152,
+    36.406068
+],
+  "geometry": {"coordinates":[-92.32152000000001,36.406068],"type":"Point"}
 }

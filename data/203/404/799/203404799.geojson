@@ -2,13 +2,14 @@
   "id": 203404799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.981705,33.136944,-91.981705,33.136944",
     "geom:latitude":33.136944,
     "geom:longitude":-91.981705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1510 Highway 82 W",
     "sg:city":"Crossett",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":203404799,
-    "wof:lastmodified":1449026240,
+    "wof:lastmodified":1466320525,
     "wof:name":"West Crossett Missionary Baptist Church Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "churches-baptist"
     ]
 },
-  "bbox": [-91.981705,33.136944,-91.981705,33.136944],
-  "geometry": {"coordinates":[-91.981705,33.136944],"type":"Point"}
+  "bbox": [
+    -91.981705,
+    33.136944,
+    -91.981705,
+    33.136944
+],
+  "geometry": {"coordinates":[-91.98170500000001,33.136944],"type":"Point"}
 }

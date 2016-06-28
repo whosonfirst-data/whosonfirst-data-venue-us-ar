@@ -2,13 +2,14 @@
   "id": 219366273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.06025,34.948066,-92.06025,34.948066",
     "geom:latitude":34.948066,
     "geom:longitude":-92.06025,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 Rainbow Dr",
     "sg:city":"Cabot",
     "sg:classifiers":[
@@ -68,10 +69,11 @@
         }
     ],
     "wof:id":219366273,
-    "wof:lastmodified":1449072977,
+    "wof:lastmodified":1466322513,
     "wof:name":"Alarm Works Of Arkansas Inc",
     "wof:parent_id":85811577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -85,6 +87,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-92.06025,34.948066,-92.06025,34.948066],
+  "bbox": [
+    -92.06025,
+    34.948066,
+    -92.06025,
+    34.948066
+],
   "geometry": {"coordinates":[-92.06025,34.948066],"type":"Point"}
 }

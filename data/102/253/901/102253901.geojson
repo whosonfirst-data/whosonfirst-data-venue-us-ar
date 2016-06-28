@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102253901",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.189732,34.797964,-92.189732,34.797964",
     "geom:latitude":34.797964,
     "geom:longitude":-92.189732,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"418 E 49th St",
     "sg:city":"North Little Rock",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85818569,
+        85688549,
         85633793,
         85921697,
         102082497,
-        85688549
+        85818569
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102253901",
-    "wof:lastmodified":1449069878,
+    "wof:lastmodified":1466322059,
     "wof:name":"Party Prints",
     "wof:parent_id":85818569,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.189732,34.797964,-92.189732,34.797964],
-  "geometry": {"coordinates":[-92.189732,34.797964],"type":"Point"}
+  "bbox": [
+    -92.189732,
+    34.797964,
+    -92.189732,
+    34.797964
+],
+  "geometry": {"coordinates":[-92.18973200000001,34.797964],"type":"Point"}
 }

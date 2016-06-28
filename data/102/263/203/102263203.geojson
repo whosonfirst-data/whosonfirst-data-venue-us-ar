@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102263203",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.231496,34.846357,-92.231496,34.846357",
     "geom:latitude":34.846357,
     "geom:longitude":-92.231496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10001 State Hwy 107",
     "sg:city":"North Little Rock",
     "sg:classifiers":[
@@ -34,11 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851723,
+        85688549,
         85633793,
         85921251,
         102082497,
-        85688549
+        85851723
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":"102263203",
-    "wof:lastmodified":1449070145,
+    "wof:lastmodified":1466322145,
     "wof:name":"Butch's Auto Repair & Used Car",
     "wof:parent_id":85851723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.231496,34.846357,-92.231496,34.846357],
-  "geometry": {"coordinates":[-92.231496,34.846357],"type":"Point"}
+  "bbox": [
+    -92.231496,
+    34.846357,
+    -92.231496,
+    34.846357
+],
+  "geometry": {"coordinates":[-92.23149600000001,34.846357],"type":"Point"}
 }

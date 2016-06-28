@@ -2,13 +2,14 @@
   "id": 219982849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.058145,36.342303,-94.058145,36.342303",
     "geom:latitude":36.342303,
     "geom:longitude":-94.058145,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8984 S Park Rd",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":219982849,
-    "wof:lastmodified":1449070993,
+    "wof:lastmodified":1466325307,
     "wof:name":"Dennis R Raebel Attorney",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -86,6 +88,11 @@
         "law"
     ]
 },
-  "bbox": [-94.058145,36.342303,-94.058145,36.342303],
+  "bbox": [
+    -94.058145,
+    36.342303,
+    -94.058145,
+    36.342303
+],
   "geometry": {"coordinates":[-94.058145,36.342303],"type":"Point"}
 }

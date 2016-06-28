@@ -2,13 +2,14 @@
   "id": 220119605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.187988,35.561791,-94.187988,35.561791",
     "geom:latitude":35.561791,
     "geom:longitude":-94.187988,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8021 Thomas Pt",
     "sg:city":"Mountainburg",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":220119605,
-    "wof:lastmodified":1449074622,
+    "wof:lastmodified":1466322558,
     "wof:name":"Fort Smith Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "protection"
     ]
 },
-  "bbox": [-94.187988,35.561791,-94.187988,35.561791],
+  "bbox": [
+    -94.187988,
+    35.561791,
+    -94.187988,
+    35.561791
+],
   "geometry": {"coordinates":[-94.187988,35.561791],"type":"Point"}
 }

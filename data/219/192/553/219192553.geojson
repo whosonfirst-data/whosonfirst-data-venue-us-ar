@@ -2,13 +2,14 @@
   "id": 219192553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.829645,33.585937,-92.829645,33.585937",
     "geom:latitude":33.585937,
     "geom:longitude":-92.829645,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 S Adams Ave",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219192553,
-    "wof:lastmodified":1449072896,
+    "wof:lastmodified":1466320787,
     "wof:name":"Dunn Insurance Agency",
     "wof:parent_id":85813169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "analyst"
     ]
 },
-  "bbox": [-92.829645,33.585937,-92.829645,33.585937],
+  "bbox": [
+    -92.829645,
+    33.585937,
+    -92.829645,
+    33.585937
+],
   "geometry": {"coordinates":[-92.829645,33.585937],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102221513",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.176763,36.242576,-94.176763,36.242576",
     "geom:latitude":36.242576,
     "geom:longitude":-94.176763,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"824 Barrett Pl",
     "sg:city":"Lowell",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102221513",
-    "wof:lastmodified":1449068827,
+    "wof:lastmodified":1466321209,
     "wof:name":"James M Smith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.176763,36.242576,-94.176763,36.242576],
-  "geometry": {"coordinates":[-94.176763,36.242576],"type":"Point"}
+  "bbox": [
+    -94.176763,
+    36.242576,
+    -94.176763,
+    36.242576
+],
+  "geometry": {"coordinates":[-94.17676299999999,36.242576],"type":"Point"}
 }

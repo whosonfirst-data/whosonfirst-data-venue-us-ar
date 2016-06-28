@@ -2,13 +2,14 @@
   "id": 219449489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.896894,34.785207,-91.896894,34.785207",
     "geom:latitude":34.785207,
     "geom:longitude":-91.896894,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"411 E 2nd St",
     "sg:city":"Lonoke",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219449489,
-    "wof:lastmodified":1449073651,
+    "wof:lastmodified":1466323371,
     "wof:name":"Savior Tree Service LLC",
     "wof:parent_id":85811577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "removal"
     ]
 },
-  "bbox": [-91.896894,34.785207,-91.896894,34.785207],
+  "bbox": [
+    -91.896894,
+    34.785207,
+    -91.896894,
+    34.785207
+],
   "geometry": {"coordinates":[-91.896894,34.785207],"type":"Point"}
 }

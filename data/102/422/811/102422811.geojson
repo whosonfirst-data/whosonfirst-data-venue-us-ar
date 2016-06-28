@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102422811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.493929,35.45401,-93.493929,35.45401",
     "geom:latitude":35.45401,
     "geom:longitude":-93.493929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Country Club Ln",
     "sg:city":"Clarksville",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102422811,
-    "wof:lastmodified":1449067957,
+    "wof:lastmodified":1466325536,
     "wof:name":"Lewis Family Wholesale",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.493929,35.45401,-93.493929,35.45401],
-  "geometry": {"coordinates":[-93.493929,35.45401],"type":"Point"}
+  "bbox": [
+    -93.493929,
+    35.45401,
+    -93.493929,
+    35.45401
+],
+  "geometry": {"coordinates":[-93.49392899999999,35.45401],"type":"Point"}
 }

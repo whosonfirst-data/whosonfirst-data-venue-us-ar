@@ -2,13 +2,14 @@
   "id": 220002119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.188028,36.305827,-94.188028,36.305827",
     "geom:latitude":36.305827,
     "geom:longitude":-94.188028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3100 Market St Ste 300",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":220002119,
-    "wof:lastmodified":1449074707,
+    "wof:lastmodified":1466320453,
     "wof:name":"Johnson & Johnson Sales And Logistics Company Llc",
     "wof:parent_id":85895851,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-94.188028,36.305827,-94.188028,36.305827],
+  "bbox": [
+    -94.188028,
+    36.305827,
+    -94.188028,
+    36.305827
+],
   "geometry": {"coordinates":[-94.188028,36.305827],"type":"Point"}
 }

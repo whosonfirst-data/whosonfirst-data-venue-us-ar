@@ -2,13 +2,14 @@
   "id": 219488569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.191214,34.827245,-92.191214,34.827245",
     "geom:latitude":34.827245,
     "geom:longitude":-92.191214,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 Brookswood Rd",
     "sg:city":"Sherwood",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219488569,
-    "wof:lastmodified":1449073824,
+    "wof:lastmodified":1466323817,
     "wof:name":"Jewelry Loan Services, Ltd.",
     "wof:parent_id":85837729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "appraiser"
     ]
 },
-  "bbox": [-92.191214,34.827245,-92.191214,34.827245],
+  "bbox": [
+    -92.191214,
+    34.827245,
+    -92.191214,
+    34.827245
+],
   "geometry": {"coordinates":[-92.191214,34.827245],"type":"Point"}
 }

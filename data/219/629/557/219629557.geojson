@@ -2,13 +2,14 @@
   "id": 219629557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.701248,35.840752,-90.701248,35.840752",
     "geom:latitude":35.840752,
     "geom:longitude":-90.701248,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Carson St",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219629557,
-    "wof:lastmodified":1449073106,
+    "wof:lastmodified":1466324623,
     "wof:name":"Hodges, Veryl",
     "wof:parent_id":85836541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-90.701248,35.840752,-90.701248,35.840752],
-  "geometry": {"coordinates":[-90.701248,35.840752],"type":"Point"}
+  "bbox": [
+    -90.701248,
+    35.840752,
+    -90.701248,
+    35.840752
+],
+  "geometry": {"coordinates":[-90.70124800000001,35.840752],"type":"Point"}
 }

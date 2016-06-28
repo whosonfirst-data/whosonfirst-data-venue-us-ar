@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102228109",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.759127,35.247111,-91.759127,35.247111",
     "geom:latitude":35.247111,
     "geom:longitude":-91.759127,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2013 W Beebe Capps Expy",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102228109",
-    "wof:lastmodified":1449068532,
+    "wof:lastmodified":1466321279,
     "wof:name":"Speech Learnign & Hearing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.759127,35.247111,-91.759127,35.247111],
-  "geometry": {"coordinates":[-91.759127,35.247111],"type":"Point"}
+  "bbox": [
+    -91.759127,
+    35.247111,
+    -91.759127,
+    35.247111
+],
+  "geometry": {"coordinates":[-91.75912700000001,35.247111],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102372517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.31979,35.983092,-94.31979,35.983092",
     "geom:latitude":35.983092,
     "geom:longitude":-94.31979,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"141 Angus Dr",
     "sg:city":"Prairie Grove",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885467,
+        85688549,
         85633793,
         85919585,
         102082007,
-        85688549
+        85885467
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102372517,
-    "wof:lastmodified":1449069205,
+    "wof:lastmodified":1466320518,
     "wof:name":"Gotta Dance",
     "wof:parent_id":85885467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.31979,35.983092,-94.31979,35.983092],
+  "bbox": [
+    -94.31979,
+    35.983092,
+    -94.31979,
+    35.983092
+],
   "geometry": {"coordinates":[-94.31979,35.983092],"type":"Point"}
 }

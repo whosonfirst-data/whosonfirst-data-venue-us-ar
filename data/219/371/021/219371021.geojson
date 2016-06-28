@@ -2,13 +2,14 @@
   "id": 219371021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.306185,34.700379,-91.306185,34.700379",
     "geom:latitude":34.700379,
     "geom:longitude":-91.306185,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"721 N 7th St",
     "sg:city":"Clarendon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219371021,
-    "wof:lastmodified":1449073152,
+    "wof:lastmodified":1466322592,
     "wof:name":"Cottages At Delta Acres",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.306185,34.700379,-91.306185,34.700379],
+  "bbox": [
+    -91.306185,
+    34.700379,
+    -91.306185,
+    34.700379
+],
   "geometry": {"coordinates":[-91.306185,34.700379],"type":"Point"}
 }

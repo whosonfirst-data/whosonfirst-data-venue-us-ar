@@ -2,13 +2,14 @@
   "id": 219430933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.270579,34.548276,-92.270579,34.548276",
     "geom:latitude":34.548276,
     "geom:longitude":-92.270579,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2423 E Woodson Lateral Rd",
     "sg:city":"Hensley",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219430933,
-    "wof:lastmodified":1449072630,
+    "wof:lastmodified":1466323105,
     "wof:name":"Promag Promotional Magnetics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "product"
     ]
 },
-  "bbox": [-92.270579,34.548276,-92.270579,34.548276],
+  "bbox": [
+    -92.270579,
+    34.548276,
+    -92.270579,
+    34.548276
+],
   "geometry": {"coordinates":[-92.270579,34.548276],"type":"Point"}
 }

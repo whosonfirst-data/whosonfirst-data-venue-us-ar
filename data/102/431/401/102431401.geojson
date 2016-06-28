@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102431401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.665806,34.511339,-92.665806,34.511339",
     "geom:latitude":34.511339,
     "geom:longitude":-92.665806,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1705 Graham Rd",
     "sg:city":"Benton",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102431401,
-    "wof:lastmodified":1449068135,
+    "wof:lastmodified":1466325611,
     "wof:name":"Complete Construction Resource",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.665806,34.511339,-92.665806,34.511339],
+  "bbox": [
+    -92.665806,
+    34.511339,
+    -92.665806,
+    34.511339
+],
   "geometry": {"coordinates":[-92.665806,34.511339],"type":"Point"}
 }

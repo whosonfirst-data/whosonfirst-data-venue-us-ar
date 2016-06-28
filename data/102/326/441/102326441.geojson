@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102326441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.076468,34.252586,-93.076468,34.252586",
     "geom:latitude":34.252586,
     "geom:longitude":-93.076468,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"613 Poplar Rd",
     "sg:city":"Bismarck",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102326441,
-    "wof:lastmodified":1449068785,
+    "wof:lastmodified":1466323601,
     "wof:name":"Synthia Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.076468,34.252586,-93.076468,34.252586],
-  "geometry": {"coordinates":[-93.076468,34.252586],"type":"Point"}
+  "bbox": [
+    -93.076468,
+    34.252586,
+    -93.076468,
+    34.252586
+],
+  "geometry": {"coordinates":[-93.07646800000001,34.252586],"type":"Point"}
 }

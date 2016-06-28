@@ -2,13 +2,14 @@
   "id": 219207149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.237623,33.259648,-93.237623,33.259648",
     "geom:latitude":33.259648,
     "geom:longitude":-93.237623,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1612 S Jackson",
     "sg:city":"Magnolia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219207149,
-    "wof:lastmodified":1449072862,
+    "wof:lastmodified":1466320931,
     "wof:name":"Arnold Family Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-93.237623,33.259648,-93.237623,33.259648],
+  "bbox": [
+    -93.237623,
+    33.259648,
+    -93.237623,
+    33.259648
+],
   "geometry": {"coordinates":[-93.237623,33.259648],"type":"Point"}
 }

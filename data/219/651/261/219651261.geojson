@@ -2,13 +2,14 @@
   "id": 219651261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.72687,35.812696,-90.72687,35.812696",
     "geom:latitude":35.812696,
     "geom:longitude":-90.72687,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"925 E Parker Rd",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -73,10 +74,11 @@
         }
     ],
     "wof:id":219651261,
-    "wof:lastmodified":1449071094,
+    "wof:lastmodified":1466324718,
     "wof:name":"Jonesboro Overhead Door",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -90,6 +92,11 @@
         "doors-operating"
     ]
 },
-  "bbox": [-90.72687,35.812696,-90.72687,35.812696],
-  "geometry": {"coordinates":[-90.72687,35.812696],"type":"Point"}
+  "bbox": [
+    -90.72687,
+    35.812696,
+    -90.72687,
+    35.812696
+],
+  "geometry": {"coordinates":[-90.72687000000001,35.812696],"type":"Point"}
 }

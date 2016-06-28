@@ -2,13 +2,14 @@
   "id": 219758143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.154875,36.217463,-93.154875,36.217463",
     "geom:latitude":36.217463,
     "geom:longitude":-93.154875,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3862 Sandy Ln",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219758143,
-    "wof:lastmodified":1449071468,
+    "wof:lastmodified":1466324916,
     "wof:name":"Robert Johnson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "technician"
     ]
 },
-  "bbox": [-93.154875,36.217463,-93.154875,36.217463],
+  "bbox": [
+    -93.154875,
+    36.217463,
+    -93.154875,
+    36.217463
+],
   "geometry": {"coordinates":[-93.154875,36.217463],"type":"Point"}
 }

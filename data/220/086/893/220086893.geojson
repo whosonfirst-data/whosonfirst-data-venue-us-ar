@@ -2,13 +2,14 @@
   "id": 220086893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.662743,35.440971,-93.662743,35.440971",
     "geom:latitude":35.440971,
     "geom:longitude":-93.662743,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1110 Rabbit Hill Rd",
     "sg:city":"Hartman",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":220086893,
-    "wof:lastmodified":1449074595,
+    "wof:lastmodified":1466321808,
     "wof:name":"Simple Treasures Photography",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "wedding"
     ]
 },
-  "bbox": [-93.662743,35.440971,-93.662743,35.440971],
-  "geometry": {"coordinates":[-93.662743,35.440971],"type":"Point"}
+  "bbox": [
+    -93.662743,
+    35.440971,
+    -93.662743,
+    35.440971
+],
+  "geometry": {"coordinates":[-93.66274300000001,35.440971],"type":"Point"}
 }

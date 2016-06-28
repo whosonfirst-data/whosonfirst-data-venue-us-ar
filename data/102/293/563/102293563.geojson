@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102293563",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.978896,36.260742,-90.978896,36.260742",
     "geom:latitude":36.260742,
     "geom:longitude":-90.978896,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"411 Declerk St",
     "sg:city":"Pocahontas",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85816685,
+        85688549,
         85633793,
         85919829,
         102082011,
-        85688549
+        85816685
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102293563",
-    "wof:lastmodified":1449068274,
+    "wof:lastmodified":1466322924,
     "wof:name":"Ram Z Paint Contractor",
     "wof:parent_id":85816685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.978896,36.260742,-90.978896,36.260742],
-  "geometry": {"coordinates":[-90.978896,36.260742],"type":"Point"}
+  "bbox": [
+    -90.978896,
+    36.260742,
+    -90.978896,
+    36.260742
+],
+  "geometry": {"coordinates":[-90.97889600000001,36.260742],"type":"Point"}
 }

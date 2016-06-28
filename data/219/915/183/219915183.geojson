@@ -2,13 +2,14 @@
   "id": 219915183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.293503,36.053129,-94.293503,36.053129",
     "geom:latitude":36.053129,
     "geom:longitude":-94.293503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13659 Amber Ln",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219915183,
-    "wof:lastmodified":1449073876,
+    "wof:lastmodified":1466325124,
     "wof:name":"Kevin Murray Construction Inc",
     "wof:parent_id":85885427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "contractor"
     ]
 },
-  "bbox": [-94.293503,36.053129,-94.293503,36.053129],
+  "bbox": [
+    -94.293503,
+    36.053129,
+    -94.293503,
+    36.053129
+],
   "geometry": {"coordinates":[-94.293503,36.053129],"type":"Point"}
 }

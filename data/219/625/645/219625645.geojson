@@ -2,13 +2,14 @@
   "id": 219625645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.710281,35.807622,-90.710281,35.807622",
     "geom:latitude":35.807622,
     "geom:longitude":-90.710281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 Mockingbird Ln",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":219625645,
-    "wof:lastmodified":1449073981,
+    "wof:lastmodified":1466324617,
     "wof:name":"G Craig Mcdaniel Jr",
     "wof:parent_id":85836541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-90.710281,35.807622,-90.710281,35.807622],
-  "geometry": {"coordinates":[-90.710281,35.807622],"type":"Point"}
+  "bbox": [
+    -90.710281,
+    35.807622,
+    -90.710281,
+    35.807622
+],
+  "geometry": {"coordinates":[-90.71028099999999,35.807622],"type":"Point"}
 }

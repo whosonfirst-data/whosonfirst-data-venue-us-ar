@@ -2,13 +2,14 @@
   "id": 219216281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.232396,33.30843,-93.232396,33.30843",
     "geom:latitude":33.30843,
     "geom:longitude":-93.232396,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"404 Columbia Road 13",
     "sg:city":"Magnolia",
     "sg:classifiers":[
@@ -68,10 +69,11 @@
         }
     ],
     "wof:id":219216281,
-    "wof:lastmodified":1449073519,
+    "wof:lastmodified":1466321013,
     "wof:name":"Lawhon's Pizza Plus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "pizza"
     ]
 },
-  "bbox": [-93.232396,33.30843,-93.232396,33.30843],
-  "geometry": {"coordinates":[-93.232396,33.30843],"type":"Point"}
+  "bbox": [
+    -93.232396,
+    33.30843,
+    -93.232396,
+    33.30843
+],
+  "geometry": {"coordinates":[-93.23239599999999,33.30843],"type":"Point"}
 }

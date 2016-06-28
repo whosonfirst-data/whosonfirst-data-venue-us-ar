@@ -2,13 +2,14 @@
   "id": 219793085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.921094,36.167519,-92.921094,36.167519",
     "geom:latitude":36.167519,
     "geom:longitude":-92.921094,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11635 Jones Rd",
     "sg:city":"Everton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219793085,
-    "wof:lastmodified":1449072317,
+    "wof:lastmodified":1466324945,
     "wof:name":"Personal Financial Accounting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "planner"
     ]
 },
-  "bbox": [-92.921094,36.167519,-92.921094,36.167519],
+  "bbox": [
+    -92.921094,
+    36.167519,
+    -92.921094,
+    36.167519
+],
   "geometry": {"coordinates":[-92.921094,36.167519],"type":"Point"}
 }

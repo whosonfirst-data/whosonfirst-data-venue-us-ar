@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102225661",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.754089,35.273674,-91.754089,35.273674",
     "geom:latitude":35.273674,
     "geom:longitude":-91.754089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2094 Hwy 16",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":"102225661",
-    "wof:lastmodified":1449068530,
+    "wof:lastmodified":1466321335,
     "wof:name":"Dave's Auto & Detail",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.754089,35.273674,-91.754089,35.273674],
-  "geometry": {"coordinates":[-91.754089,35.273674],"type":"Point"}
+  "bbox": [
+    -91.754089,
+    35.273674,
+    -91.754089,
+    35.273674
+],
+  "geometry": {"coordinates":[-91.75408899999999,35.273674],"type":"Point"}
 }

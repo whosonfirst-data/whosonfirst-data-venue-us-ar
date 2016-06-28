@@ -2,13 +2,14 @@
   "id": 303594299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.25134,34.58647,-94.25134,34.58647",
     "geom:latitude":34.58647,
     "geom:longitude":-94.25134,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"214 Polk St S",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303594299,
-    "wof:lastmodified":1448998469,
+    "wof:lastmodified":1466320529,
     "wof:name":"Bethel Christian School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.25134,34.58647,-94.25134,34.58647],
+  "bbox": [
+    -94.25134,
+    34.58647,
+    -94.25134,
+    34.58647
+],
   "geometry": {"coordinates":[-94.25134,34.58647],"type":"Point"}
 }

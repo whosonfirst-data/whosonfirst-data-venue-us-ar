@@ -2,13 +2,14 @@
   "id": 219825727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.160591,36.06263,-94.160591,36.06263",
     "geom:latitude":36.06263,
     "geom:longitude":-94.160591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 W Center St Suite 200",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219825727,
-    "wof:lastmodified":1449070506,
+    "wof:lastmodified":1466324994,
     "wof:name":"Freeman, Bruce W. - Conner & Winters, P",
     "wof:parent_id":85885459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-94.160591,36.06263,-94.160591,36.06263],
+  "bbox": [
+    -94.160591,
+    36.06263,
+    -94.160591,
+    36.06263
+],
   "geometry": {"coordinates":[-94.160591,36.06263],"type":"Point"}
 }

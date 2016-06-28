@@ -2,13 +2,14 @@
   "id": 219533423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.711731,35.250584,-91.711731,35.250584",
     "geom:latitude":35.250584,
     "geom:longitude":-91.711731,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2202 E Race Ave",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":219533423,
-    "wof:lastmodified":1449070336,
+    "wof:lastmodified":1466324208,
     "wof:name":"C-B 13",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-91.711731,35.250584,-91.711731,35.250584],
+  "bbox": [
+    -91.711731,
+    35.250584,
+    -91.711731,
+    35.250584
+],
   "geometry": {"coordinates":[-91.711731,35.250584],"type":"Point"}
 }

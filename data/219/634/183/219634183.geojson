@@ -2,13 +2,14 @@
   "id": 219634183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.68623,35.818307,-90.68623,35.818307",
     "geom:latitude":35.818307,
     "geom:longitude":-90.68623,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1827 Grant Ave Ste A",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219634183,
-    "wof:lastmodified":1449072078,
+    "wof:lastmodified":1466324635,
     "wof:name":"Arkansas Department Of Environmental Quality",
     "wof:parent_id":85836541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "equipment"
     ]
 },
-  "bbox": [-90.68623,35.818307,-90.68623,35.818307],
-  "geometry": {"coordinates":[-90.68623,35.818307],"type":"Point"}
+  "bbox": [
+    -90.68623,
+    35.818307,
+    -90.68623,
+    35.818307
+],
+  "geometry": {"coordinates":[-90.68622999999999,35.818307],"type":"Point"}
 }

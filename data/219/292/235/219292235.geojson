@@ -2,13 +2,14 @@
   "id": 219292235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.393193,34.441016,-94.393193,34.441016",
     "geom:latitude":34.441016,
     "geom:longitude":-94.393193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 Polk Road 32",
     "sg:city":"Cove",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219292235,
-    "wof:lastmodified":1449070684,
+    "wof:lastmodified":1466321667,
     "wof:name":"D & K Squires Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.393193,34.441016,-94.393193,34.441016],
+  "bbox": [
+    -94.393193,
+    34.441016,
+    -94.393193,
+    34.441016
+],
   "geometry": {"coordinates":[-94.393193,34.441016],"type":"Point"}
 }

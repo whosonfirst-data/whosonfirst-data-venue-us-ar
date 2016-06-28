@@ -2,13 +2,14 @@
   "id": 219707665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.88987,36.2934,-90.88987,36.2934",
     "geom:latitude":36.2934,
     "geom:longitude":-90.88987,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2511 Highway 67 N",
     "sg:city":"Pocahontas",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219707665,
-    "wof:lastmodified":1449073357,
+    "wof:lastmodified":1466324943,
     "wof:name":"Hometown Energy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "gas-liquefied"
     ]
 },
-  "bbox": [-90.88987,36.2934,-90.88987,36.2934],
+  "bbox": [
+    -90.88987,
+    36.2934,
+    -90.88987,
+    36.2934
+],
   "geometry": {"coordinates":[-90.88987,36.2934],"type":"Point"}
 }

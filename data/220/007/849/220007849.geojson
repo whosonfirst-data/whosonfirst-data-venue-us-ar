@@ -2,13 +2,14 @@
   "id": 220007849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.190953,36.310657,-94.190953,36.310657",
     "geom:latitude":36.310657,
     "geom:longitude":-94.190953,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5511 Walsh Ln",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":220007849,
-    "wof:lastmodified":1449074720,
+    "wof:lastmodified":1466320472,
     "wof:name":"Trinity Rehabilitation At Pinnacle Point",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "physical"
     ]
 },
-  "bbox": [-94.190953,36.310657,-94.190953,36.310657],
-  "geometry": {"coordinates":[-94.190953,36.310657],"type":"Point"}
+  "bbox": [
+    -94.190953,
+    36.310657,
+    -94.190953,
+    36.310657
+],
+  "geometry": {"coordinates":[-94.19095299999999,36.310657],"type":"Point"}
 }

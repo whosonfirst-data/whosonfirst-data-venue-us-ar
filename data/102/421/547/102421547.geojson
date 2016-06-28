@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102421547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.905616,35.616692,-90.905616,35.616692",
     "geom:latitude":35.616692,
     "geom:longitude":-90.905616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"313 S Garfield St",
     "sg:city":"Weiner",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102421547,
-    "wof:lastmodified":1449069291,
+    "wof:lastmodified":1466325434,
     "wof:name":"Weiner Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.905616,35.616692,-90.905616,35.616692],
-  "geometry": {"coordinates":[-90.905616,35.616692],"type":"Point"}
+  "bbox": [
+    -90.905616,
+    35.616692,
+    -90.905616,
+    35.616692
+],
+  "geometry": {"coordinates":[-90.90561599999999,35.616692],"type":"Point"}
 }

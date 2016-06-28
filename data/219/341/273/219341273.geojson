@@ -2,13 +2,14 @@
   "id": 219341273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.633785,34.523834,-92.633785,34.523834",
     "geom:latitude":34.523834,
     "geom:longitude":-92.633785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"529 Dodson Creek Rd",
     "sg:city":"Benton",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219341273,
-    "wof:lastmodified":1449073760,
+    "wof:lastmodified":1466322114,
     "wof:name":"Arkansas Hydroseed Inc",
     "wof:parent_id":85817531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "hydroseeding"
     ]
 },
-  "bbox": [-92.633785,34.523834,-92.633785,34.523834],
+  "bbox": [
+    -92.633785,
+    34.523834,
+    -92.633785,
+    34.523834
+],
   "geometry": {"coordinates":[-92.633785,34.523834],"type":"Point"}
 }

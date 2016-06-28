@@ -2,13 +2,14 @@
   "id": 219454639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.74113,34.38821,-92.74113,34.38821",
     "geom:latitude":34.38821,
     "geom:longitude":-92.74113,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"356 Francois Rd",
     "sg:city":"Malvern",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219454639,
-    "wof:lastmodified":1449073586,
+    "wof:lastmodified":1466323426,
     "wof:name":"Francois Missionary Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "churches-baptist"
     ]
 },
-  "bbox": [-92.74113,34.38821,-92.74113,34.38821],
+  "bbox": [
+    -92.74113,
+    34.38821,
+    -92.74113,
+    34.38821
+],
   "geometry": {"coordinates":[-92.74113,34.38821],"type":"Point"}
 }

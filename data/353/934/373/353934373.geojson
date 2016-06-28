@@ -2,13 +2,14 @@
   "id": 353934373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.775748,36.592362,-94.775748,36.592362",
     "geom:latitude":36.592362,
     "geom:longitude":-94.775748,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"413 W 4th St",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353934373,
-    "wof:lastmodified":1449018373,
+    "wof:lastmodified":1466320552,
     "wof:name":"Robison J B Actoneers Realtors",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.775748,36.592362,-94.775748,36.592362],
-  "geometry": {"coordinates":[-94.775748,36.592362],"type":"Point"}
+  "bbox": [
+    -94.775748,
+    36.592362,
+    -94.775748,
+    36.592362
+],
+  "geometry": {"coordinates":[-94.77574799999999,36.592362],"type":"Point"}
 }

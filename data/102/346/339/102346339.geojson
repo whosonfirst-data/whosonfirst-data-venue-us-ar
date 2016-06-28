@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102346339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.183541,36.381912,-90.183541,36.381912",
     "geom:latitude":36.381912,
     "geom:longitude":-90.183541,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"648 E Main St",
     "sg:city":"Piggott",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102346339,
-    "wof:lastmodified":1449067757,
+    "wof:lastmodified":1466323988,
     "wof:name":"Jones Family Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.183541,36.381912,-90.183541,36.381912],
-  "geometry": {"coordinates":[-90.183541,36.381912],"type":"Point"}
+  "bbox": [
+    -90.183541,
+    36.381912,
+    -90.183541,
+    36.381912
+],
+  "geometry": {"coordinates":[-90.18354100000001,36.381912],"type":"Point"}
 }

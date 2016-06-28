@@ -2,13 +2,14 @@
   "id": 219595251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.812996,34.823471,-90.812996,34.823471",
     "geom:latitude":34.823471,
     "geom:longitude":-90.812996,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"RR 1",
     "sg:city":"Marianna",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219595251,
-    "wof:lastmodified":1449073572,
+    "wof:lastmodified":1466324580,
     "wof:name":"Cypress Corner Bar-B-Q",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "barbecue"
     ]
 },
-  "bbox": [-90.812996,34.823471,-90.812996,34.823471],
+  "bbox": [
+    -90.812996,
+    34.823471,
+    -90.812996,
+    34.823471
+],
   "geometry": {"coordinates":[-90.812996,34.823471],"type":"Point"}
 }

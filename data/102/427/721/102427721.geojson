@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102427721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.456348,36.058931,-93.456348,36.058931",
     "geom:latitude":36.058931,
     "geom:longitude":-93.456348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3551 Madison 2590",
     "sg:city":"Kingston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102427721,
-    "wof:lastmodified":1449068506,
+    "wof:lastmodified":1466325555,
     "wof:name":"Kate Nessler Votanical Art",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.456348,36.058931,-93.456348,36.058931],
-  "geometry": {"coordinates":[-93.456348,36.058931],"type":"Point"}
+  "bbox": [
+    -93.456348,
+    36.058931,
+    -93.456348,
+    36.058931
+],
+  "geometry": {"coordinates":[-93.45634800000001,36.058931],"type":"Point"}
 }

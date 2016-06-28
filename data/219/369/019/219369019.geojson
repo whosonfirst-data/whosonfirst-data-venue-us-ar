@@ -2,13 +2,14 @@
   "id": 219369019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.995971,34.951603,-91.995971,34.951603",
     "geom:latitude":34.951603,
     "geom:longitude":-91.995971,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Violet Ln",
     "sg:city":"Cabot",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219369019,
-    "wof:lastmodified":1449073729,
+    "wof:lastmodified":1466322563,
     "wof:name":"Teresa A Copeland",
     "wof:parent_id":85839277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "educational"
     ]
 },
-  "bbox": [-91.995971,34.951603,-91.995971,34.951603],
+  "bbox": [
+    -91.995971,
+    34.951603,
+    -91.995971,
+    34.951603
+],
   "geometry": {"coordinates":[-91.995971,34.951603],"type":"Point"}
 }

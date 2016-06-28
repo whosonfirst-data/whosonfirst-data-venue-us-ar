@@ -2,13 +2,14 @@
   "id": 303636677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.875256,36.634572,-94.875256,36.634572",
     "geom:latitude":36.634572,
     "geom:longitude":-94.875256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"55901 E Hwy 85A",
     "sg:city":"Afton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303636677,
-    "wof:lastmodified":1448999090,
+    "wof:lastmodified":1466320541,
     "wof:name":"E & H Liquor",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.875256,36.634572,-94.875256,36.634572],
-  "geometry": {"coordinates":[-94.875256,36.634572],"type":"Point"}
+  "bbox": [
+    -94.875256,
+    36.634572,
+    -94.875256,
+    36.634572
+],
+  "geometry": {"coordinates":[-94.87525599999999,36.634572],"type":"Point"}
 }

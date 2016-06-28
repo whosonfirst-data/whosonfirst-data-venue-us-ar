@@ -2,13 +2,14 @@
   "id": 353831115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.84119,36.561111,-94.84119,36.561111",
     "geom:latitude":36.561111,
     "geom:longitude":-94.84119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"57200 S Hwy 125",
     "sg:city":"Afton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353831115,
-    "wof:lastmodified":1449019767,
+    "wof:lastmodified":1466320524,
     "wof:name":"Vista Towers",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.84119,36.561111,-94.84119,36.561111],
+  "bbox": [
+    -94.84119,
+    36.561111,
+    -94.84119,
+    36.561111
+],
   "geometry": {"coordinates":[-94.84119,36.561111],"type":"Point"}
 }

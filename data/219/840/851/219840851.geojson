@@ -2,13 +2,14 @@
   "id": 219840851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.15059,36.11414,-94.15059,36.11414",
     "geom:latitude":36.11414,
     "geom:longitude":-94.15059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"509 E Millsap Rd Ste 103",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":219840851,
-    "wof:lastmodified":1449073137,
+    "wof:lastmodified":1466325093,
     "wof:name":"STD Test Express Fayetteville",
     "wof:parent_id":85885431,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "welfare"
     ]
 },
-  "bbox": [-94.15059,36.11414,-94.15059,36.11414],
-  "geometry": {"coordinates":[-94.15059,36.11414],"type":"Point"}
+  "bbox": [
+    -94.15059,
+    36.11414,
+    -94.15059,
+    36.11414
+],
+  "geometry": {"coordinates":[-94.15058999999999,36.11414],"type":"Point"}
 }

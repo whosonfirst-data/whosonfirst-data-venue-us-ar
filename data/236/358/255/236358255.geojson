@@ -2,13 +2,14 @@
   "id": 236358255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.043095,33.447448,-94.043095,33.447448",
     "geom:latitude":33.447448,
     "geom:longitude":-94.043095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3221 N State Line Ave",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236358255,
-    "wof:lastmodified":1449002964,
+    "wof:lastmodified":1466324417,
     "wof:name":"Larich Air Conditioning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-94.043095,33.447448,-94.043095,33.447448],
-  "geometry": {"coordinates":[-94.043095,33.447448],"type":"Point"}
+  "bbox": [
+    -94.043095,
+    33.447448,
+    -94.043095,
+    33.447448
+],
+  "geometry": {"coordinates":[-94.04309499999999,33.447448],"type":"Point"}
 }

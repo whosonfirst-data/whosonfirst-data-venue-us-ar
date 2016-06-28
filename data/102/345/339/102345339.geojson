@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102345339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.415116,35.947775,-94.415116,35.947775",
     "geom:latitude":35.947775,
     "geom:longitude":-94.415116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"734 US Hwy 62 Scn",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102345339,
-    "wof:lastmodified":1449070001,
+    "wof:lastmodified":1466323935,
     "wof:name":"Twin's Auto Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.415116,35.947775,-94.415116,35.947775],
+  "bbox": [
+    -94.415116,
+    35.947775,
+    -94.415116,
+    35.947775
+],
   "geometry": {"coordinates":[-94.415116,35.947775],"type":"Point"}
 }

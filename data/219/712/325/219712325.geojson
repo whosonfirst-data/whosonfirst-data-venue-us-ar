@@ -2,13 +2,14 @@
   "id": 219712325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.042158,36.254164,-91.042158,36.254164",
     "geom:latitude":36.254164,
     "geom:longitude":-91.042158,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"311 Hill Rd",
     "sg:city":"Pocahontas",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219712325,
-    "wof:lastmodified":1449071899,
+    "wof:lastmodified":1466324944,
     "wof:name":"Kingdom Publishers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "book"
     ]
 },
-  "bbox": [-91.042158,36.254164,-91.042158,36.254164],
+  "bbox": [
+    -91.042158,
+    36.254164,
+    -91.042158,
+    36.254164
+],
   "geometry": {"coordinates":[-91.042158,36.254164],"type":"Point"}
 }

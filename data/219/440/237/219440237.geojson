@@ -2,13 +2,14 @@
   "id": 219440237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.16583,34.938698,-92.16583,34.938698",
     "geom:latitude":34.938698,
     "geom:longitude":-92.16583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24913 Highway 107",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219440237,
-    "wof:lastmodified":1449071635,
+    "wof:lastmodified":1466323245,
     "wof:name":"Mccormick's Body Shop, Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "repairing"
     ]
 },
-  "bbox": [-92.16583,34.938698,-92.16583,34.938698],
+  "bbox": [
+    -92.16583,
+    34.938698,
+    -92.16583,
+    34.938698
+],
   "geometry": {"coordinates":[-92.16583,34.938698],"type":"Point"}
 }

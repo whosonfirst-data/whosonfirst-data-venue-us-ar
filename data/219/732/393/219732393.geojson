@@ -2,13 +2,14 @@
   "id": 219732393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.584717,35.829029,-91.584717,35.829029",
     "geom:latitude":35.829029,
     "geom:longitude":-91.584717,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Ventura Ln",
     "sg:city":"Batesville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219732393,
-    "wof:lastmodified":1449074042,
+    "wof:lastmodified":1466324896,
     "wof:name":"Gary Girtman",
     "wof:parent_id":85845643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.584717,35.829029,-91.584717,35.829029],
+  "bbox": [
+    -91.584717,
+    35.829029,
+    -91.584717,
+    35.829029
+],
   "geometry": {"coordinates":[-91.584717,35.829029],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220041491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.119398,36.188344,-94.119398,36.188344",
     "geom:latitude":36.188344,
     "geom:longitude":-94.119398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"508 Cedar St",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220041491,
-    "wof:lastmodified":1449074309,
+    "wof:lastmodified":1466320549,
     "wof:name":"Piano Students Of Shirley",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "organ"
     ]
 },
-  "bbox": [-94.119398,36.188344,-94.119398,36.188344],
+  "bbox": [
+    -94.119398,
+    36.188344,
+    -94.119398,
+    36.188344
+],
   "geometry": {"coordinates":[-94.119398,36.188344],"type":"Point"}
 }

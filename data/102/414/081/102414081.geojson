@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102414081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.413897,35.947862,-94.413897,35.947862",
     "geom:latitude":35.947862,
     "geom:longitude":-94.413897,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"803 E Pridemore Dr",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":102414081,
-    "wof:lastmodified":1449068895,
+    "wof:lastmodified":1466325492,
     "wof:name":"Lincoln Terrace Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.413897,35.947862,-94.413897,35.947862],
-  "geometry": {"coordinates":[-94.413897,35.947862],"type":"Point"}
+  "bbox": [
+    -94.413897,
+    35.947862,
+    -94.413897,
+    35.947862
+],
+  "geometry": {"coordinates":[-94.41389700000001,35.947862],"type":"Point"}
 }

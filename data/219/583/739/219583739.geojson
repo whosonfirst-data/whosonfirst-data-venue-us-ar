@@ -2,13 +2,14 @@
   "id": 219583739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.816667,35.081168,-90.816667,35.081168",
     "geom:latitude":35.081168,
     "geom:longitude":-90.816667,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6613 Highway 1 N",
     "sg:city":"Colt",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219583739,
-    "wof:lastmodified":1449073187,
+    "wof:lastmodified":1466324508,
     "wof:name":"Jarrett Jt & Sons",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cotton"
     ]
 },
-  "bbox": [-90.816667,35.081168,-90.816667,35.081168],
+  "bbox": [
+    -90.816667,
+    35.081168,
+    -90.816667,
+    35.081168
+],
   "geometry": {"coordinates":[-90.816667,35.081168],"type":"Point"}
 }

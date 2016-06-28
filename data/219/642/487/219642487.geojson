@@ -2,13 +2,14 @@
   "id": 219642487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.657389,35.825429,-90.657389,35.825429",
     "geom:latitude":35.825429,
     "geom:longitude":-90.657389,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3915 E Nettleton Ave",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219642487,
-    "wof:lastmodified":1449070587,
+    "wof:lastmodified":1466324648,
     "wof:name":"Jonesboroconnections.Com",
     "wof:parent_id":85836541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "internet"
     ]
 },
-  "bbox": [-90.657389,35.825429,-90.657389,35.825429],
-  "geometry": {"coordinates":[-90.657389,35.825429],"type":"Point"}
+  "bbox": [
+    -90.657389,
+    35.825429,
+    -90.657389,
+    35.825429
+],
+  "geometry": {"coordinates":[-90.65738899999999,35.825429],"type":"Point"}
 }

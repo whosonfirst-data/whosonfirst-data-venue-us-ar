@@ -2,13 +2,14 @@
   "id": 219837089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.122249,36.119889,-94.122249,36.119889",
     "geom:latitude":36.119889,
     "geom:longitude":-94.122249,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2680 E Joyce Blvd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":219837089,
-    "wof:lastmodified":1449070937,
+    "wof:lastmodified":1466324933,
     "wof:name":"Bell Scott DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -87,6 +89,11 @@
         "dentists-implantology"
     ]
 },
-  "bbox": [-94.122249,36.119889,-94.122249,36.119889],
+  "bbox": [
+    -94.122249,
+    36.119889,
+    -94.122249,
+    36.119889
+],
   "geometry": {"coordinates":[-94.122249,36.119889],"type":"Point"}
 }

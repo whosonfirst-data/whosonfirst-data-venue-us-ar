@@ -2,13 +2,14 @@
   "id": 203419763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.387017,33.976125,-91.387017,33.976125",
     "geom:latitude":33.976125,
     "geom:longitude":-91.387017,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"170 Pendleton Ln",
     "sg:city":"Dumas",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":203419763,
-    "wof:lastmodified":1449026850,
+    "wof:lastmodified":1466320584,
     "wof:name":"Pendlenton Sandbar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.387017,33.976125,-91.387017,33.976125],
+  "bbox": [
+    -91.387017,
+    33.976125,
+    -91.387017,
+    33.976125
+],
   "geometry": {"coordinates":[-91.387017,33.976125],"type":"Point"}
 }

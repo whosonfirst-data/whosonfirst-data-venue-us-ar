@@ -2,13 +2,14 @@
   "id": 219413839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.442314,35.090179,-92.442314,35.090179",
     "geom:latitude":35.090179,
     "geom:longitude":-92.442314,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1321 Oak St",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219413839,
-    "wof:lastmodified":1449070948,
+    "wof:lastmodified":1466322965,
     "wof:name":"Toad Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-92.442314,35.090179,-92.442314,35.090179],
+  "bbox": [
+    -92.442314,
+    35.090179,
+    -92.442314,
+    35.090179
+],
   "geometry": {"coordinates":[-92.442314,35.090179],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219466751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.79039,34.32296,-92.79039,34.32296",
     "geom:latitude":34.32296,
     "geom:longitude":-92.79039,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"478 Palm St",
     "sg:city":"Malvern",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219466751,
-    "wof:lastmodified":1449071455,
+    "wof:lastmodified":1466323523,
     "wof:name":"Bci Systems Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "support"
     ]
 },
-  "bbox": [-92.79039,34.32296,-92.79039,34.32296],
+  "bbox": [
+    -92.79039,
+    34.32296,
+    -92.79039,
+    34.32296
+],
   "geometry": {"coordinates":[-92.79039,34.32296],"type":"Point"}
 }

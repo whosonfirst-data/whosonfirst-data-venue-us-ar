@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102373881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.575891,33.668269,-93.575891,33.668269",
     "geom:latitude":33.668269,
     "geom:longitude":-93.575891,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 Bill Clinton Dr",
     "sg:city":"Hope",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806015,
+        85688549,
         85633793,
         85920547,
         102083213,
-        85688549
+        85806015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102373881,
-    "wof:lastmodified":1449068991,
+    "wof:lastmodified":1466320813,
     "wof:name":"Randy Still's Auto Repair",
     "wof:parent_id":85806015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.575891,33.668269,-93.575891,33.668269],
+  "bbox": [
+    -93.575891,
+    33.668269,
+    -93.575891,
+    33.668269
+],
   "geometry": {"coordinates":[-93.575891,33.668269],"type":"Point"}
 }

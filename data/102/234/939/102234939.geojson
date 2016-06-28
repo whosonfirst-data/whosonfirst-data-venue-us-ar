@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102234939",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.365428,35.27987,-91.365428,35.27987",
     "geom:latitude":35.27987,
     "geom:longitude":-91.365428,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 Sycamore St",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102234939",
-    "wof:lastmodified":1449070067,
+    "wof:lastmodified":1466321611,
     "wof:name":"Crowley's Ridge Development",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.365428,35.27987,-91.365428,35.27987],
-  "geometry": {"coordinates":[-91.365428,35.27987],"type":"Point"}
+  "bbox": [
+    -91.365428,
+    35.27987,
+    -91.365428,
+    35.27987
+],
+  "geometry": {"coordinates":[-91.36542799999999,35.27987],"type":"Point"}
 }

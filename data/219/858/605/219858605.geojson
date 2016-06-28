@@ -2,13 +2,14 @@
   "id": 219858605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.156328,36.095231,-94.156328,36.095231",
     "geom:latitude":36.095231,
     "geom:longitude":-94.156328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"90 W Township St",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219858605,
-    "wof:lastmodified":1449070738,
+    "wof:lastmodified":1466325040,
     "wof:name":"Cassat Chas Auto Upholstery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "accessory"
     ]
 },
-  "bbox": [-94.156328,36.095231,-94.156328,36.095231],
+  "bbox": [
+    -94.156328,
+    36.095231,
+    -94.156328,
+    36.095231
+],
   "geometry": {"coordinates":[-94.156328,36.095231],"type":"Point"}
 }

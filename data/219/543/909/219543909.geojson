@@ -2,13 +2,14 @@
   "id": 219543909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.404389,34.319845,-92.404389,34.319845",
     "geom:latitude":34.319845,
     "geom:longitude":-92.404389,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Stephanie Ln",
     "sg:city":"Sheridan",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":219543909,
-    "wof:lastmodified":1449071084,
+    "wof:lastmodified":1466324284,
     "wof:name":"Valentine's Body Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "repairing"
     ]
 },
-  "bbox": [-92.404389,34.319845,-92.404389,34.319845],
-  "geometry": {"coordinates":[-92.404389,34.319845],"type":"Point"}
+  "bbox": [
+    -92.404389,
+    34.319845,
+    -92.404389,
+    34.319845
+],
+  "geometry": {"coordinates":[-92.40438899999999,34.319845],"type":"Point"}
 }

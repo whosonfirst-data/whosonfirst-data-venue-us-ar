@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102341069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.136018,36.315101,-94.136018,36.315101",
     "geom:latitude":36.315101,
     "geom:longitude":-94.136018,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1312 W Lela St",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102341069,
-    "wof:lastmodified":1449070103,
+    "wof:lastmodified":1466323763,
     "wof:name":"E M A T LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.136018,36.315101,-94.136018,36.315101],
-  "geometry": {"coordinates":[-94.136018,36.315101],"type":"Point"}
+  "bbox": [
+    -94.136018,
+    36.315101,
+    -94.136018,
+    36.315101
+],
+  "geometry": {"coordinates":[-94.13601800000001,36.315101],"type":"Point"}
 }

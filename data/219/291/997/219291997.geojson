@@ -2,13 +2,14 @@
   "id": 219291997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.408589,34.443304,-94.408589,34.443304",
     "geom:latitude":34.443304,
     "geom:longitude":-94.408589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5588 Highway 71 S",
     "sg:city":"Cove",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":219291997,
-    "wof:lastmodified":1449071486,
+    "wof:lastmodified":1466321666,
     "wof:name":"Smith Stop & Shop Food Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-94.408589,34.443304,-94.408589,34.443304],
-  "geometry": {"coordinates":[-94.408589,34.443304],"type":"Point"}
+  "bbox": [
+    -94.408589,
+    34.443304,
+    -94.408589,
+    34.443304
+],
+  "geometry": {"coordinates":[-94.40858900000001,34.443304],"type":"Point"}
 }

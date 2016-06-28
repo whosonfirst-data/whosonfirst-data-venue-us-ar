@@ -2,13 +2,14 @@
   "id": 220119341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.169199,35.633124,-94.169199,35.633124",
     "geom:latitude":35.633124,
     "geom:longitude":-94.169199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Hickory St",
     "sg:city":"Mountainburg",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":220119341,
-    "wof:lastmodified":1449074626,
+    "wof:lastmodified":1466322555,
     "wof:name":"Us Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "shipping"
     ]
 },
-  "bbox": [-94.169199,35.633124,-94.169199,35.633124],
-  "geometry": {"coordinates":[-94.169199,35.633124],"type":"Point"}
+  "bbox": [
+    -94.169199,
+    35.633124,
+    -94.169199,
+    35.633124
+],
+  "geometry": {"coordinates":[-94.16919900000001,35.633124],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219869859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.177528,36.102829,-94.177528,36.102829",
     "geom:latitude":36.102829,
     "geom:longitude":-94.177528,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1308 W Drake St",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219869859,
-    "wof:lastmodified":1449073633,
+    "wof:lastmodified":1466325056,
     "wof:name":"K Life Of Fayettville",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.177528,36.102829,-94.177528,36.102829],
+  "bbox": [
+    -94.177528,
+    36.102829,
+    -94.177528,
+    36.102829
+],
   "geometry": {"coordinates":[-94.177528,36.102829],"type":"Point"}
 }

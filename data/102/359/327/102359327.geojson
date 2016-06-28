@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102359327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.218444,36.174932,-94.218444,36.174932",
     "geom:latitude":36.174932,
     "geom:longitude":-94.218444,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"177 S Maestri Rd",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885477,
+        85688549,
         85633793,
         85919623,
         102082007,
-        85688549
+        85885477
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102359327,
-    "wof:lastmodified":1449067736,
+    "wof:lastmodified":1466324209,
     "wof:name":"Martial Arts Of Springdale",
     "wof:parent_id":85885477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.218444,36.174932,-94.218444,36.174932],
-  "geometry": {"coordinates":[-94.218444,36.174932],"type":"Point"}
+  "bbox": [
+    -94.218444,
+    36.174932,
+    -94.218444,
+    36.174932
+],
+  "geometry": {"coordinates":[-94.21844400000001,36.174932],"type":"Point"}
 }

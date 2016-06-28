@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102433413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.111793,36.055843,-94.111793,36.055843",
     "geom:latitude":36.055843,
     "geom:longitude":-94.111793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3586 E Huntsville Rd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102433413,
-    "wof:lastmodified":1449068074,
+    "wof:lastmodified":1466325671,
     "wof:name":"Fritz Excavating & Cnstr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.111793,36.055843,-94.111793,36.055843],
-  "geometry": {"coordinates":[-94.111793,36.055843],"type":"Point"}
+  "bbox": [
+    -94.111793,
+    36.055843,
+    -94.111793,
+    36.055843
+],
+  "geometry": {"coordinates":[-94.11179300000001,36.055843],"type":"Point"}
 }

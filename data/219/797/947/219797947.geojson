@@ -2,13 +2,14 @@
   "id": 219797947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.486081,36.285641,-92.486081,36.285641",
     "geom:latitude":36.285641,
     "geom:longitude":-92.486081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"629 E Main St",
     "sg:city":"Gassville",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":219797947,
-    "wof:lastmodified":1449073572,
+    "wof:lastmodified":1466324952,
     "wof:name":"Brass Door Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "facility"
     ]
 },
-  "bbox": [-92.486081,36.285641,-92.486081,36.285641],
+  "bbox": [
+    -92.486081,
+    36.285641,
+    -92.486081,
+    36.285641
+],
   "geometry": {"coordinates":[-92.486081,36.285641],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219384193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.415741,35.091389,-92.415741,35.091389",
     "geom:latitude":35.091389,
     "geom:longitude":-92.415741,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 E Oak St Ste A",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219384193,
-    "wof:lastmodified":1449070833,
+    "wof:lastmodified":1466322711,
     "wof:name":"Conway Equipment Rentals & Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "store"
     ]
 },
-  "bbox": [-92.415741,35.091389,-92.415741,35.091389],
+  "bbox": [
+    -92.415741,
+    35.091389,
+    -92.415741,
+    35.091389
+],
   "geometry": {"coordinates":[-92.415741,35.091389],"type":"Point"}
 }

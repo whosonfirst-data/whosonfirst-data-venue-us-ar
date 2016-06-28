@@ -2,13 +2,14 @@
   "id": 219369705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.693847,34.909532,-91.693847,34.909532",
     "geom:latitude":34.909532,
     "geom:longitude":-91.693847,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"271 Ashmore Ln",
     "sg:city":"Carlisle",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219369705,
-    "wof:lastmodified":1449073731,
+    "wof:lastmodified":1466322576,
     "wof:name":"Grand Prairie Veterinary C",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "hospital"
     ]
 },
-  "bbox": [-91.693847,34.909532,-91.693847,34.909532],
-  "geometry": {"coordinates":[-91.693847,34.909532],"type":"Point"}
+  "bbox": [
+    -91.693847,
+    34.909532,
+    -91.693847,
+    34.909532
+],
+  "geometry": {"coordinates":[-91.69384700000001,34.909532],"type":"Point"}
 }

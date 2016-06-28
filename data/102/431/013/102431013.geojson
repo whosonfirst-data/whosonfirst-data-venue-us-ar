@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102431013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.73055,35.42838,-93.73055,35.42838",
     "geom:latitude":35.42838,
     "geom:longitude":-93.73055,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3229 Hwy 186",
     "sg:city":"Altus",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":102431013,
-    "wof:lastmodified":1449068136,
+    "wof:lastmodified":1466325597,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.73055,35.42838,-93.73055,35.42838],
-  "geometry": {"coordinates":[-93.73055,35.42838],"type":"Point"}
+  "bbox": [
+    -93.73055,
+    35.42838,
+    -93.73055,
+    35.42838
+],
+  "geometry": {"coordinates":[-93.73054999999999,35.42838],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219328925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.361806,34.509057,-91.361806,34.509057",
     "geom:latitude":34.509057,
     "geom:longitude":-91.361806,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"554 Mitchell Rd",
     "sg:city":"Almyra",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219328925,
-    "wof:lastmodified":1449072461,
+    "wof:lastmodified":1466321980,
     "wof:name":"Mt Calvary Church Of God And Christ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "churches-pentecostal"
     ]
 },
-  "bbox": [-91.361806,34.509057,-91.361806,34.509057],
+  "bbox": [
+    -91.361806,
+    34.509057,
+    -91.361806,
+    34.509057
+],
   "geometry": {"coordinates":[-91.361806,34.509057],"type":"Point"}
 }

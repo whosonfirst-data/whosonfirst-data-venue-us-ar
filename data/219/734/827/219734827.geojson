@@ -2,13 +2,14 @@
   "id": 219734827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.608622,35.79127,-91.608622,35.79127",
     "geom:latitude":35.79127,
     "geom:longitude":-91.608622,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2375 White Dr",
     "sg:city":"Batesville",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219734827,
-    "wof:lastmodified":1449073467,
+    "wof:lastmodified":1466324902,
     "wof:name":"Health Resource Of Arkansas",
     "wof:parent_id":85845643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "eldercare-home"
     ]
 },
-  "bbox": [-91.608622,35.79127,-91.608622,35.79127],
+  "bbox": [
+    -91.608622,
+    35.79127,
+    -91.608622,
+    35.79127
+],
   "geometry": {"coordinates":[-91.608622,35.79127],"type":"Point"}
 }

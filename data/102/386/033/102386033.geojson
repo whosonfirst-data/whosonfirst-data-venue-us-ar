@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102386033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.230387,33.244021,-93.230387,33.244021",
     "geom:latitude":33.244021,
     "geom:longitude":-93.230387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"151 Hwy 79 S",
     "sg:city":"Magnolia",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":102386033,
-    "wof:lastmodified":1449069012,
+    "wof:lastmodified":1466323336,
     "wof:name":"Waste Management Columbia Cnty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.230387,33.244021,-93.230387,33.244021],
-  "geometry": {"coordinates":[-93.230387,33.244021],"type":"Point"}
+  "bbox": [
+    -93.230387,
+    33.244021,
+    -93.230387,
+    33.244021
+],
+  "geometry": {"coordinates":[-93.23038699999999,33.244021],"type":"Point"}
 }

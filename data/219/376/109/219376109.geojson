@@ -2,13 +2,14 @@
   "id": 219376109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.460648,35.601437,-92.460648,35.601437",
     "geom:latitude":35.601437,
     "geom:longitude":-92.460648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"59 Ingram St",
     "sg:city":"Clinton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219376109,
-    "wof:lastmodified":1449071607,
+    "wof:lastmodified":1466322639,
     "wof:name":"The Rink",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "rinks-ice"
     ]
 },
-  "bbox": [-92.460648,35.601437,-92.460648,35.601437],
-  "geometry": {"coordinates":[-92.460648,35.601437],"type":"Point"}
+  "bbox": [
+    -92.460648,
+    35.601437,
+    -92.460648,
+    35.601437
+],
+  "geometry": {"coordinates":[-92.46064800000001,35.601437],"type":"Point"}
 }

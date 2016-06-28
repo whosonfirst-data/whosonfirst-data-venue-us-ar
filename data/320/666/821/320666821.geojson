@@ -2,13 +2,14 @@
   "id": 320666821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.54117,36.157778,-94.54117,36.157778",
     "geom:latitude":36.157778,
     "geom:longitude":-94.54117,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3306 S Dogwood St",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":320666821,
-    "wof:lastmodified":1449012647,
+    "wof:lastmodified":1466320618,
     "wof:name":"Wicked Knife Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "mfg"
     ]
 },
-  "bbox": [-94.54117,36.157778,-94.54117,36.157778],
-  "geometry": {"coordinates":[-94.54117,36.157778],"type":"Point"}
+  "bbox": [
+    -94.54117,
+    36.157778,
+    -94.54117,
+    36.157778
+],
+  "geometry": {"coordinates":[-94.54116999999999,36.157778],"type":"Point"}
 }

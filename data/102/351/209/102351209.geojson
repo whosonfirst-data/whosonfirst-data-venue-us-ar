@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102351209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.014638,34.223744,-92.014638,34.223744",
     "geom:latitude":34.223744,
     "geom:longitude":-92.014638,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1102 W 6th Ave",
     "sg:city":"Pine Bluff",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102351209,
-    "wof:lastmodified":1449069808,
+    "wof:lastmodified":1466323999,
     "wof:name":"Tax Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.014638,34.223744,-92.014638,34.223744],
-  "geometry": {"coordinates":[-92.014638,34.223744],"type":"Point"}
+  "bbox": [
+    -92.014638,
+    34.223744,
+    -92.014638,
+    34.223744
+],
+  "geometry": {"coordinates":[-92.01463800000001,34.223744],"type":"Point"}
 }

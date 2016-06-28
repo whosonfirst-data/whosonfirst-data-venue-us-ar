@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102417109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.252501,34.820917,-92.252501,34.820917",
     "geom:latitude":34.820917,
     "geom:longitude":-92.252501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39 Stanwood Loop",
     "sg:city":"North Little Rock",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851793,
+        85688549,
         85633793,
         85921255,
         102082497,
-        85688549
+        85851793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102417109,
-    "wof:lastmodified":1449068757,
+    "wof:lastmodified":1466325282,
     "wof:name":"Dorothy N Halsell",
     "wof:parent_id":85851793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.252501,34.820917,-92.252501,34.820917],
+  "bbox": [
+    -92.252501,
+    34.820917,
+    -92.252501,
+    34.820917
+],
   "geometry": {"coordinates":[-92.252501,34.820917],"type":"Point"}
 }

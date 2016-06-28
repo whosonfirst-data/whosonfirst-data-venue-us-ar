@@ -2,13 +2,14 @@
   "id": 219641817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.697272,35.868752,-90.697272,35.868752",
     "geom:latitude":35.868752,
     "geom:longitude":-90.697272,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"803 Hubbell Cv",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219641817,
-    "wof:lastmodified":1449073082,
+    "wof:lastmodified":1466324654,
     "wof:name":"Randy's Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "new"
     ]
 },
-  "bbox": [-90.697272,35.868752,-90.697272,35.868752],
+  "bbox": [
+    -90.697272,
+    35.868752,
+    -90.697272,
+    35.868752
+],
   "geometry": {"coordinates":[-90.697272,35.868752],"type":"Point"}
 }

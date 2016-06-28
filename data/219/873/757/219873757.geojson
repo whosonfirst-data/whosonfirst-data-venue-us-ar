@@ -2,13 +2,14 @@
   "id": 219873757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.240557,36.378175,-94.240557,36.378175",
     "geom:latitude":36.378175,
     "geom:longitude":-94.240557,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2506 NW 6th St",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219873757,
-    "wof:lastmodified":1449071133,
+    "wof:lastmodified":1466325058,
     "wof:name":"Bird Mama",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.240557,36.378175,-94.240557,36.378175],
+  "bbox": [
+    -94.240557,
+    36.378175,
+    -94.240557,
+    36.378175
+],
   "geometry": {"coordinates":[-94.240557,36.378175],"type":"Point"}
 }

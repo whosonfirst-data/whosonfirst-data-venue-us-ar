@@ -2,13 +2,14 @@
   "id": 219164199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.85208,33.57925,-91.85208,33.57925",
     "geom:latitude":33.57925,
     "geom:longitude":-91.85208,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"388 S Bowser Rd",
     "sg:city":"Monticello",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219164199,
-    "wof:lastmodified":1449070807,
+    "wof:lastmodified":1466320503,
     "wof:name":"Joe C Brown",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.85208,33.57925,-91.85208,33.57925],
+  "bbox": [
+    -91.85208,
+    33.57925,
+    -91.85208,
+    33.57925
+],
   "geometry": {"coordinates":[-91.85208,33.57925],"type":"Point"}
 }

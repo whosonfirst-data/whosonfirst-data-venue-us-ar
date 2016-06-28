@@ -2,13 +2,14 @@
   "id": 219549347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.541599,34.450651,-91.541599,34.450651",
     "geom:latitude":34.450651,
     "geom:longitude":-91.541599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2807 Highway 165 S",
     "sg:city":"Stuttgart",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":219549347,
-    "wof:lastmodified":1449071373,
+    "wof:lastmodified":1466324329,
     "wof:name":"Phillips Community College",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "college"
     ]
 },
-  "bbox": [-91.541599,34.450651,-91.541599,34.450651],
-  "geometry": {"coordinates":[-91.541599,34.450651],"type":"Point"}
+  "bbox": [
+    -91.541599,
+    34.450651,
+    -91.541599,
+    34.450651
+],
+  "geometry": {"coordinates":[-91.54159900000001,34.450651],"type":"Point"}
 }

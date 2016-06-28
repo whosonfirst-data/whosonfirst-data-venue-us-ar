@@ -2,13 +2,14 @@
   "id": 219989711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.1876,36.3058,-94.1876,36.3058",
     "geom:latitude":36.3058,
     "geom:longitude":-94.1876,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"The Shoppes at Pinnacle Hills 3301 Market St Ste 103",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219989711,
-    "wof:lastmodified":1449072991,
+    "wof:lastmodified":1466325438,
     "wof:name":"Dilly Dally's Toy Store",
     "wof:parent_id":85895851,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "store"
     ]
 },
-  "bbox": [-94.1876,36.3058,-94.1876,36.3058],
+  "bbox": [
+    -94.1876,
+    36.3058,
+    -94.1876,
+    36.3058
+],
   "geometry": {"coordinates":[-94.1876,36.3058],"type":"Point"}
 }

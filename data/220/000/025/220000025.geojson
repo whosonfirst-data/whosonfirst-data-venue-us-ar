@@ -2,13 +2,14 @@
   "id": 220000025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.196091,36.304871,-94.196091,36.304871",
     "geom:latitude":36.304871,
     "geom:longitude":-94.196091,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Sherwood Dr",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220000025,
-    "wof:lastmodified":1449074167,
+    "wof:lastmodified":1466320440,
     "wof:name":"Spear Motor Sports Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "car"
     ]
 },
-  "bbox": [-94.196091,36.304871,-94.196091,36.304871],
+  "bbox": [
+    -94.196091,
+    36.304871,
+    -94.196091,
+    36.304871
+],
   "geometry": {"coordinates":[-94.196091,36.304871],"type":"Point"}
 }

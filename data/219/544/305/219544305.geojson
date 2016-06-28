@@ -2,13 +2,14 @@
   "id": 219544305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.395135,34.333907,-92.395135,34.333907",
     "geom:latitude":34.333907,
     "geom:longitude":-92.395135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2675 Highway 167 N",
     "sg:city":"Sheridan",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":219544305,
-    "wof:lastmodified":1449073910,
+    "wof:lastmodified":1466324287,
     "wof:name":"Joann's Flowers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.395135,34.333907,-92.395135,34.333907],
+  "bbox": [
+    -92.395135,
+    34.333907,
+    -92.395135,
+    34.333907
+],
   "geometry": {"coordinates":[-92.395135,34.333907],"type":"Point"}
 }

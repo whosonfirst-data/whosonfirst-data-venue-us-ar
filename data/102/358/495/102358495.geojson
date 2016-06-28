@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102358495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.696823,33.188349,-92.696823,33.188349",
     "geom:latitude":33.188349,
     "geom:longitude":-92.696823,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1752 Haynesville Hwy",
     "sg:city":"El Dorado",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":102358495,
-    "wof:lastmodified":1449068773,
+    "wof:lastmodified":1466324238,
     "wof:name":"T-Models Pit Stop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.696823,33.188349,-92.696823,33.188349],
-  "geometry": {"coordinates":[-92.696823,33.188349],"type":"Point"}
+  "bbox": [
+    -92.696823,
+    33.188349,
+    -92.696823,
+    33.188349
+],
+  "geometry": {"coordinates":[-92.69682299999999,33.188349],"type":"Point"}
 }

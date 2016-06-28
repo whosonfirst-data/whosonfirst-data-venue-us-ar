@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102338241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.494982,35.814532,-94.494982,35.814532",
     "geom:latitude":35.814532,
     "geom:longitude":-94.494982,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19804 State Hwy 59",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102338241,
-    "wof:lastmodified":1449068629,
+    "wof:lastmodified":1466323770,
     "wof:name":"Harry Denton",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.494982,35.814532,-94.494982,35.814532],
-  "geometry": {"coordinates":[-94.494982,35.814532],"type":"Point"}
+  "bbox": [
+    -94.494982,
+    35.814532,
+    -94.494982,
+    35.814532
+],
+  "geometry": {"coordinates":[-94.49498199999999,35.814532],"type":"Point"}
 }

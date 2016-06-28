@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102248257",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.382994,34.780924,-92.382994,34.780924",
     "geom:latitude":34.780924,
     "geom:longitude":-92.382994,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3216 Millbrook Rd",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.lds.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811953,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85811953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102248257",
-    "wof:lastmodified":1449069062,
+    "wof:lastmodified":1466321794,
     "wof:name":"Church Of Jesus Christ Of Lds",
     "wof:parent_id":85811953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.382994,34.780924,-92.382994,34.780924],
+  "bbox": [
+    -92.382994,
+    34.780924,
+    -92.382994,
+    34.780924
+],
   "geometry": {"coordinates":[-92.382994,34.780924],"type":"Point"}
 }

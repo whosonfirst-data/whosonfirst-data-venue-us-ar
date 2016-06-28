@@ -2,13 +2,14 @@
   "id": 219436027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.198329,34.864886,-92.198329,34.864886",
     "geom:latitude":34.864886,
     "geom:longitude":-92.198329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14218 Highway 107",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219436027,
-    "wof:lastmodified":1449073577,
+    "wof:lastmodified":1466323167,
     "wof:name":"Hess",
     "wof:parent_id":85837729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.198329,34.864886,-92.198329,34.864886],
+  "bbox": [
+    -92.198329,
+    34.864886,
+    -92.198329,
+    34.864886
+],
   "geometry": {"coordinates":[-92.198329,34.864886],"type":"Point"}
 }

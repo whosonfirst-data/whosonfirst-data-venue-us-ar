@@ -2,13 +2,14 @@
   "id": 235961149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.464658,35.337866,-94.464658,35.337866",
     "geom:latitude":35.337866,
     "geom:longitude":-94.464658,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3001 Main St",
     "sg:city":"Arkoma",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":235961149,
-    "wof:lastmodified":1449008595,
+    "wof:lastmodified":1466320450,
     "wof:name":"Allen Rathole",
     "wof:parent_id":85809847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "drilling"
     ]
 },
-  "bbox": [-94.464658,35.337866,-94.464658,35.337866],
+  "bbox": [
+    -94.464658,
+    35.337866,
+    -94.464658,
+    35.337866
+],
   "geometry": {"coordinates":[-94.464658,35.337866],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219728599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.60228,35.762294,-91.60228,35.762294",
     "geom:latitude":35.762294,
     "geom:longitude":-91.60228,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"735 Woodmont Cir",
     "sg:city":"Batesville",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":219728599,
-    "wof:lastmodified":1449071215,
+    "wof:lastmodified":1466324833,
     "wof:name":"Wilkins David",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "bureau"
     ]
 },
-  "bbox": [-91.60228,35.762294,-91.60228,35.762294],
-  "geometry": {"coordinates":[-91.60228,35.762294],"type":"Point"}
+  "bbox": [
+    -91.60228,
+    35.762294,
+    -91.60228,
+    35.762294
+],
+  "geometry": {"coordinates":[-91.60227999999999,35.762294],"type":"Point"}
 }

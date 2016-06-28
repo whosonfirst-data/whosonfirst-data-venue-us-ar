@@ -2,13 +2,14 @@
   "id": 219915003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.234676,36.039527,-94.234676,36.039527",
     "geom:latitude":36.039527,
     "geom:longitude":-94.234676,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"52 Terry St",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219915003,
-    "wof:lastmodified":1449073876,
+    "wof:lastmodified":1466325200,
     "wof:name":"Mountain View Ranch",
     "wof:parent_id":85885421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ranch"
     ]
 },
-  "bbox": [-94.234676,36.039527,-94.234676,36.039527],
-  "geometry": {"coordinates":[-94.234676,36.039527],"type":"Point"}
+  "bbox": [
+    -94.234676,
+    36.039527,
+    -94.234676,
+    36.039527
+],
+  "geometry": {"coordinates":[-94.23467599999999,36.039527],"type":"Point"}
 }

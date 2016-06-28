@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102342201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.596551,33.686869,-93.596551,33.686869",
     "geom:latitude":33.686869,
     "geom:longitude":-93.596551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1612 N Hazel St",
     "sg:city":"Hope",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102342201,
-    "wof:lastmodified":1449070013,
+    "wof:lastmodified":1466323801,
     "wof:name":"Kid's Korner Daycare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.596551,33.686869,-93.596551,33.686869],
-  "geometry": {"coordinates":[-93.596551,33.686869],"type":"Point"}
+  "bbox": [
+    -93.596551,
+    33.686869,
+    -93.596551,
+    33.686869
+],
+  "geometry": {"coordinates":[-93.59655100000001,33.686869],"type":"Point"}
 }

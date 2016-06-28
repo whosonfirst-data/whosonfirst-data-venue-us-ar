@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102400921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.72294,35.188298,-92.72294,35.188298",
     "geom:latitude":35.188298,
     "geom:longitude":-92.72294,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"197 Kordsmeier Ln",
     "sg:city":"Morrilton",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":102400921,
-    "wof:lastmodified":1449068029,
+    "wof:lastmodified":1466324813,
     "wof:name":"Coffman Appraisals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.72294,35.188298,-92.72294,35.188298],
-  "geometry": {"coordinates":[-92.72294,35.188298],"type":"Point"}
+  "bbox": [
+    -92.72294,
+    35.188298,
+    -92.72294,
+    35.188298
+],
+  "geometry": {"coordinates":[-92.72293999999999,35.188298],"type":"Point"}
 }

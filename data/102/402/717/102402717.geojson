@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102402717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.986306,35.248197,-93.986306,35.248197",
     "geom:latitude":35.248197,
     "geom:longitude":-93.986306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17023 Potts Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":102402717,
-    "wof:lastmodified":1449068555,
+    "wof:lastmodified":1466324612,
     "wof:name":"Lincks Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.986306,35.248197,-93.986306,35.248197],
+  "bbox": [
+    -93.986306,
+    35.248197,
+    -93.986306,
+    35.248197
+],
   "geometry": {"coordinates":[-93.986306,35.248197],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336851101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.538937,36.183015,-94.538937,36.183015",
     "geom:latitude":36.183015,
     "geom:longitude":-94.538937,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"325 E Twin Springs St",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336851101,
-    "wof:lastmodified":1448997641,
+    "wof:lastmodified":1466320450,
     "wof:name":"Mother To Mother Ministries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.538937,36.183015,-94.538937,36.183015],
+  "bbox": [
+    -94.538937,
+    36.183015,
+    -94.538937,
+    36.183015
+],
   "geometry": {"coordinates":[-94.538937,36.183015],"type":"Point"}
 }

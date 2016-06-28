@@ -2,13 +2,14 @@
   "id": 219395743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.440829,35.090686,-92.440829,35.090686",
     "geom:latitude":35.090686,
     "geom:longitude":-92.440829,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"904 Front St",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219395743,
-    "wof:lastmodified":1449073396,
+    "wof:lastmodified":1466322812,
     "wof:name":"Jones , Stephen W. - Jack, Nelson, Jones",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "attorney"
     ]
 },
-  "bbox": [-92.440829,35.090686,-92.440829,35.090686],
-  "geometry": {"coordinates":[-92.440829,35.090686],"type":"Point"}
+  "bbox": [
+    -92.440829,
+    35.090686,
+    -92.440829,
+    35.090686
+],
+  "geometry": {"coordinates":[-92.44082899999999,35.090686],"type":"Point"}
 }

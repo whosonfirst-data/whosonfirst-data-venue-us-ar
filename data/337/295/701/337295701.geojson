@@ -2,13 +2,14 @@
   "id": 337295701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.086908,35.390603,-93.086908,35.390603",
     "geom:latitude":35.390603,
     "geom:longitude":-93.086908,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"892 Sr 164 E",
     "sg:city":"Dover",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337295701,
-    "wof:lastmodified":1449027259,
+    "wof:lastmodified":1466322194,
     "wof:name":"Don's Locksmith",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "key"
     ]
 },
-  "bbox": [-93.086908,35.390603,-93.086908,35.390603],
-  "geometry": {"coordinates":[-93.086908,35.390603],"type":"Point"}
+  "bbox": [
+    -93.086908,
+    35.390603,
+    -93.086908,
+    35.390603
+],
+  "geometry": {"coordinates":[-93.08690799999999,35.390603],"type":"Point"}
 }

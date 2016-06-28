@@ -2,13 +2,14 @@
   "id": 219611923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.24424,35.079602,-90.24424,35.079602",
     "geom:latitude":35.079602,
     "geom:longitude":-90.24424,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"264 Looney Ln",
     "sg:city":"Proctor",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219611923,
-    "wof:lastmodified":1449073186,
+    "wof:lastmodified":1466324604,
     "wof:name":"Gilgal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-90.24424,35.079602,-90.24424,35.079602],
+  "bbox": [
+    -90.24424,
+    35.079602,
+    -90.24424,
+    35.079602
+],
   "geometry": {"coordinates":[-90.24424,35.079602],"type":"Point"}
 }

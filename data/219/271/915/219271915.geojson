@@ -2,13 +2,14 @@
   "id": 219271915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.006632,33.485615,-94.006632,33.485615",
     "geom:latitude":33.485615,
     "geom:longitude":-94.006632,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6508 Wuthering Heights Ln",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219271915,
-    "wof:lastmodified":1449072233,
+    "wof:lastmodified":1466321498,
     "wof:name":"Olive & Iron Llp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "musician"
     ]
 },
-  "bbox": [-94.006632,33.485615,-94.006632,33.485615],
+  "bbox": [
+    -94.006632,
+    33.485615,
+    -94.006632,
+    33.485615
+],
   "geometry": {"coordinates":[-94.006632,33.485615],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219391825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.397202,35.086325,-92.397202,35.086325",
     "geom:latitude":35.086325,
     "geom:longitude":-92.397202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1920 Hallous St",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219391825,
-    "wof:lastmodified":1449072639,
+    "wof:lastmodified":1466322778,
     "wof:name":"Salt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "salt"
     ]
 },
-  "bbox": [-92.397202,35.086325,-92.397202,35.086325],
-  "geometry": {"coordinates":[-92.397202,35.086325],"type":"Point"}
+  "bbox": [
+    -92.397202,
+    35.086325,
+    -92.397202,
+    35.086325
+],
+  "geometry": {"coordinates":[-92.39720199999999,35.086325],"type":"Point"}
 }

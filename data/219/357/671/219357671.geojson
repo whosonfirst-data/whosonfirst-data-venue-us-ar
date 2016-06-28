@@ -2,13 +2,14 @@
   "id": 219357671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.489082,34.59792,-92.489082,34.59792",
     "geom:latitude":34.59792,
     "geom:longitude":-92.489082,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 N Reynolds Rd",
     "sg:city":"Bryant",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219357671,
-    "wof:lastmodified":1449073486,
+    "wof:lastmodified":1466322353,
     "wof:name":"Boswell, Tucker & Brewster",
     "wof:parent_id":85844395,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "practice"
     ]
 },
-  "bbox": [-92.489082,34.59792,-92.489082,34.59792],
+  "bbox": [
+    -92.489082,
+    34.59792,
+    -92.489082,
+    34.59792
+],
   "geometry": {"coordinates":[-92.489082,34.59792],"type":"Point"}
 }

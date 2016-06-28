@@ -2,13 +2,14 @@
   "id": 219487957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.231314,34.826867,-92.231314,34.826867",
     "geom:latitude":34.826867,
     "geom:longitude":-92.231314,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7901 Highway 107",
     "sg:city":"Sherwood",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":219487957,
-    "wof:lastmodified":1449071554,
+    "wof:lastmodified":1466323806,
     "wof:name":"Pete Barry Insurance",
     "wof:parent_id":85851723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "boat"
     ]
 },
-  "bbox": [-92.231314,34.826867,-92.231314,34.826867],
+  "bbox": [
+    -92.231314,
+    34.826867,
+    -92.231314,
+    34.826867
+],
   "geometry": {"coordinates":[-92.231314,34.826867],"type":"Point"}
 }

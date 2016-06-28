@@ -2,13 +2,14 @@
   "id": 219375589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.648957,35.686593,-92.648957,35.686593",
     "geom:latitude":35.686593,
     "geom:longitude":-92.648957,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1365 Archey Rd",
     "sg:city":"Clinton",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219375589,
-    "wof:lastmodified":1449070495,
+    "wof:lastmodified":1466322636,
     "wof:name":"Archberry Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.648957,35.686593,-92.648957,35.686593],
+  "bbox": [
+    -92.648957,
+    35.686593,
+    -92.648957,
+    35.686593
+],
   "geometry": {"coordinates":[-92.648957,35.686593],"type":"Point"}
 }

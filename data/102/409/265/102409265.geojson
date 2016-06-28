@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102409265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.147868,36.171757,-94.147868,36.171757",
     "geom:latitude":36.171757,
     "geom:longitude":-94.147868,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1507 S West End St",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885485,
+        85688549,
         85633793,
         85919623,
         102082007,
-        85688549
+        85885485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102409265,
-    "wof:lastmodified":1449068763,
+    "wof:lastmodified":1466325192,
     "wof:name":"Brown's Dry Wall & Supply Co",
     "wof:parent_id":85885485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.147868,36.171757,-94.147868,36.171757],
+  "bbox": [
+    -94.147868,
+    36.171757,
+    -94.147868,
+    36.171757
+],
   "geometry": {"coordinates":[-94.147868,36.171757],"type":"Point"}
 }

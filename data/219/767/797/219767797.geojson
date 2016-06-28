@@ -2,13 +2,14 @@
   "id": 219767797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.143052,36.267752,-93.143052,36.267752",
     "geom:latitude":36.267752,
     "geom:longitude":-93.143052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Ozark Dr",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219767797,
-    "wof:lastmodified":1449071420,
+    "wof:lastmodified":1466324924,
     "wof:name":"Gardens By Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gardener"
     ]
 },
-  "bbox": [-93.143052,36.267752,-93.143052,36.267752],
+  "bbox": [
+    -93.143052,
+    36.267752,
+    -93.143052,
+    36.267752
+],
   "geometry": {"coordinates":[-93.143052,36.267752],"type":"Point"}
 }

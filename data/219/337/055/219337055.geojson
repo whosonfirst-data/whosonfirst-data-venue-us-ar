@@ -2,13 +2,14 @@
   "id": 219337055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.873719,35.080872,-91.873719,35.080872",
     "geom:latitude":35.080872,
     "geom:longitude":-91.873719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"604 E Dewitt Henry Dr",
     "sg:city":"Beebe",
     "sg:classifiers":[
@@ -68,10 +69,11 @@
         }
     ],
     "wof:id":219337055,
-    "wof:lastmodified":1449072043,
+    "wof:lastmodified":1466322059,
     "wof:name":"College Street Florist & Gifts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "nurseries-plants"
     ]
 },
-  "bbox": [-91.873719,35.080872,-91.873719,35.080872],
-  "geometry": {"coordinates":[-91.873719,35.080872],"type":"Point"}
+  "bbox": [
+    -91.873719,
+    35.080872,
+    -91.873719,
+    35.080872
+],
+  "geometry": {"coordinates":[-91.87371899999999,35.080872],"type":"Point"}
 }

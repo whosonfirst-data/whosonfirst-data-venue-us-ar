@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102340229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.425356,35.388596,-94.425356,35.388596",
     "geom:latitude":35.388596,
     "geom:longitude":-94.425356,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 N 5th St",
     "sg:city":"Fort Smith",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102340229,
-    "wof:lastmodified":1449069646,
+    "wof:lastmodified":1466323789,
     "wof:name":"Ralph Baker Design Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.425356,35.388596,-94.425356,35.388596],
-  "geometry": {"coordinates":[-94.425356,35.388596],"type":"Point"}
+  "bbox": [
+    -94.425356,
+    35.388596,
+    -94.425356,
+    35.388596
+],
+  "geometry": {"coordinates":[-94.42535599999999,35.388596],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219448555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.900063,34.784336,-91.900063,34.784336",
     "geom:latitude":34.784336,
     "geom:longitude":-91.900063,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 W Front St",
     "sg:city":"Lonoke",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219448555,
-    "wof:lastmodified":1449073744,
+    "wof:lastmodified":1466323354,
     "wof:name":"Mom & Co",
     "wof:parent_id":85811577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "wear"
     ]
 },
-  "bbox": [-91.900063,34.784336,-91.900063,34.784336],
+  "bbox": [
+    -91.900063,
+    34.784336,
+    -91.900063,
+    34.784336
+],
   "geometry": {"coordinates":[-91.900063,34.784336],"type":"Point"}
 }

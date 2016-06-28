@@ -2,13 +2,14 @@
   "id": 219368017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.013713,34.939033,-92.013713,34.939033",
     "geom:latitude":34.939033,
     "geom:longitude":-92.013713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Mary Ann Cir",
     "sg:city":"Cabot",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219368017,
-    "wof:lastmodified":1449071203,
+    "wof:lastmodified":1466322548,
     "wof:name":"Smooter's Palace",
     "wof:parent_id":85839277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.013713,34.939033,-92.013713,34.939033],
+  "bbox": [
+    -92.013713,
+    34.939033,
+    -92.013713,
+    34.939033
+],
   "geometry": {"coordinates":[-92.013713,34.939033],"type":"Point"}
 }

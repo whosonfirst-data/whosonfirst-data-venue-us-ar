@@ -2,13 +2,14 @@
   "id": 219776203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.999892,36.301647,-92.999892,36.301647",
     "geom:latitude":36.301647,
     "geom:longitude":-92.999892,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"985 Zinc Rd",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":219776203,
-    "wof:lastmodified":1449071166,
+    "wof:lastmodified":1466324927,
     "wof:name":"Christine Hunter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "contractor"
     ]
 },
-  "bbox": [-92.999892,36.301647,-92.999892,36.301647],
+  "bbox": [
+    -92.999892,
+    36.301647,
+    -92.999892,
+    36.301647
+],
   "geometry": {"coordinates":[-92.999892,36.301647],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203413381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.443046,33.524691,-91.443046,33.524691",
     "geom:latitude":33.524691,
     "geom:longitude":-91.443046,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"706 W Speedway St",
     "sg:city":"Dermott",
     "sg:classifiers":[
@@ -74,10 +75,11 @@
         }
     ],
     "wof:id":203413381,
-    "wof:lastmodified":1449025225,
+    "wof:lastmodified":1466320546,
     "wof:name":"Ups",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -92,6 +94,11 @@
         "forwarding"
     ]
 },
-  "bbox": [-91.443046,33.524691,-91.443046,33.524691],
+  "bbox": [
+    -91.443046,
+    33.524691,
+    -91.443046,
+    33.524691
+],
   "geometry": {"coordinates":[-91.443046,33.524691],"type":"Point"}
 }

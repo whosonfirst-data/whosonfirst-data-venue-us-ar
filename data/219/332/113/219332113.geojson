@@ -2,13 +2,14 @@
   "id": 219332113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.462458,34.4963,-92.462458,34.4963",
     "geom:latitude":34.4963,
     "geom:longitude":-92.462458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6945 Ore Trl",
     "sg:city":"Bauxite",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219332113,
-    "wof:lastmodified":1449072336,
+    "wof:lastmodified":1466322017,
     "wof:name":"Lloyd Orrell Logging Inc",
     "wof:parent_id":85844395,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "logging"
     ]
 },
-  "bbox": [-92.462458,34.4963,-92.462458,34.4963],
+  "bbox": [
+    -92.462458,
+    34.4963,
+    -92.462458,
+    34.4963
+],
   "geometry": {"coordinates":[-92.462458,34.4963],"type":"Point"}
 }

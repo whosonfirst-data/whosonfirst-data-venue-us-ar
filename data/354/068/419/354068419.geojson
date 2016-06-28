@@ -2,13 +2,14 @@
   "id": 354068419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.525742,36.188383,-94.525742,36.188383",
     "geom:latitude":36.188383,
     "geom:longitude":-94.525742,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1610 E Tahlequah St",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354068419,
-    "wof:lastmodified":1449066804,
+    "wof:lastmodified":1466323190,
     "wof:name":"Outdoor Images Lawn & Garden",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nurseryman"
     ]
 },
-  "bbox": [-94.525742,36.188383,-94.525742,36.188383],
-  "geometry": {"coordinates":[-94.525742,36.188383],"type":"Point"}
+  "bbox": [
+    -94.525742,
+    36.188383,
+    -94.525742,
+    36.188383
+],
+  "geometry": {"coordinates":[-94.52574199999999,36.188383],"type":"Point"}
 }

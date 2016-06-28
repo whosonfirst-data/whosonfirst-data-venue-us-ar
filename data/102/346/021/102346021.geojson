@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102346021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.330757,35.439966,-94.330757,35.439966",
     "geom:latitude":35.439966,
     "geom:longitude":-94.330757,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2700 Bryan Rd",
     "sg:city":"Van Buren",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102346021,
-    "wof:lastmodified":1449067757,
+    "wof:lastmodified":1466323924,
     "wof:name":"HMA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.330757,35.439966,-94.330757,35.439966],
-  "geometry": {"coordinates":[-94.330757,35.439966],"type":"Point"}
+  "bbox": [
+    -94.330757,
+    35.439966,
+    -94.330757,
+    35.439966
+],
+  "geometry": {"coordinates":[-94.33075700000001,35.439966],"type":"Point"}
 }

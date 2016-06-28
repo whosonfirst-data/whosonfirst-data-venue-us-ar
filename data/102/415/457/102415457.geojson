@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102415457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.999018,34.505046,-92.999018,34.505046",
     "geom:latitude":34.505046,
     "geom:longitude":-92.999018,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2375 E Grand Ave",
     "sg:city":"Hot Springs",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102415457,
-    "wof:lastmodified":1449069537,
+    "wof:lastmodified":1466325315,
     "wof:name":"Antique Land",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.999018,34.505046,-92.999018,34.505046],
-  "geometry": {"coordinates":[-92.999018,34.505046],"type":"Point"}
+  "bbox": [
+    -92.999018,
+    34.505046,
+    -92.999018,
+    34.505046
+],
+  "geometry": {"coordinates":[-92.99901800000001,34.505046],"type":"Point"}
 }

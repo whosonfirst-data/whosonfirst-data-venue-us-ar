@@ -2,13 +2,14 @@
   "id": 220040443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.112109,36.13736,-94.112109,36.13736",
     "geom:latitude":36.13736,
     "geom:longitude":-94.112109,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3362 Jasper Ln",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220040443,
-    "wof:lastmodified":1449074851,
+    "wof:lastmodified":1466320545,
     "wof:name":"James C Gardner",
     "wof:parent_id":85885493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.112109,36.13736,-94.112109,36.13736],
+  "bbox": [
+    -94.112109,
+    36.13736,
+    -94.112109,
+    36.13736
+],
   "geometry": {"coordinates":[-94.112109,36.13736],"type":"Point"}
 }

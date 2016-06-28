@@ -2,13 +2,14 @@
   "id": 220133217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.096298,34.913179,-94.096298,34.913179",
     "geom:latitude":34.913179,
     "geom:longitude":-94.096298,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"885 Heather Dr",
     "sg:city":"Waldron",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":220133217,
-    "wof:lastmodified":1449074717,
+    "wof:lastmodified":1466322869,
     "wof:name":"Angel Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "espresso"
     ]
 },
-  "bbox": [-94.096298,34.913179,-94.096298,34.913179],
+  "bbox": [
+    -94.096298,
+    34.913179,
+    -94.096298,
+    34.913179
+],
   "geometry": {"coordinates":[-94.096298,34.913179],"type":"Point"}
 }

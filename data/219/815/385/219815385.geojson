@@ -2,13 +2,14 @@
   "id": 219815385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.15962,36.064909,-94.15962,36.064909",
     "geom:latitude":36.064909,
     "geom:longitude":-94.15962,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 N East Ave Bsmt",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219815385,
-    "wof:lastmodified":1449072103,
+    "wof:lastmodified":1466324889,
     "wof:name":"Jamie Leigh White",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "yoga"
     ]
 },
-  "bbox": [-94.15962,36.064909,-94.15962,36.064909],
+  "bbox": [
+    -94.15962,
+    36.064909,
+    -94.15962,
+    36.064909
+],
   "geometry": {"coordinates":[-94.15962,36.064909],"type":"Point"}
 }

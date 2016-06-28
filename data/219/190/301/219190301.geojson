@@ -2,13 +2,14 @@
   "id": 219190301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.84142,33.498235,-92.84142,33.498235",
     "geom:latitude":33.498235,
     "geom:longitude":-92.84142,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"276 Ouachita 50",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219190301,
-    "wof:lastmodified":1449073683,
+    "wof:lastmodified":1466320744,
     "wof:name":"American Production & Inventory Control",
     "wof:parent_id":85813169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-92.84142,33.498235,-92.84142,33.498235],
+  "bbox": [
+    -92.84142,
+    33.498235,
+    -92.84142,
+    33.498235
+],
   "geometry": {"coordinates":[-92.84142,33.498235],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219172769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.802736,33.655952,-91.802736,33.655952",
     "geom:latitude":33.655952,
     "geom:longitude":-91.802736,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"990 Highway 425 N",
     "sg:city":"Monticello",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219172769,
-    "wof:lastmodified":1449071807,
+    "wof:lastmodified":1466320572,
     "wof:name":"State Farm Insurance Co.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-91.802736,33.655952,-91.802736,33.655952],
+  "bbox": [
+    -91.802736,
+    33.655952,
+    -91.802736,
+    33.655952
+],
   "geometry": {"coordinates":[-91.802736,33.655952],"type":"Point"}
 }

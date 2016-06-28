@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102401601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.033662,36.223675,-94.033662,36.223675",
     "geom:latitude":36.223675,
     "geom:longitude":-94.033662,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15391 Cow Face Rd",
     "sg:city":"Lowell",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102401601,
-    "wof:lastmodified":1449069813,
+    "wof:lastmodified":1466324763,
     "wof:name":"D & D Vinyl Siding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.033662,36.223675,-94.033662,36.223675],
-  "geometry": {"coordinates":[-94.033662,36.223675],"type":"Point"}
+  "bbox": [
+    -94.033662,
+    36.223675,
+    -94.033662,
+    36.223675
+],
+  "geometry": {"coordinates":[-94.03366200000001,36.223675],"type":"Point"}
 }

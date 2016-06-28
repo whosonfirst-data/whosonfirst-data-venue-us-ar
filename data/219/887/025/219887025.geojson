@@ -2,13 +2,14 @@
   "id": 219887025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.202461,36.357651,-94.202461,36.357651",
     "geom:latitude":36.357651,
     "geom:longitude":-94.202461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1309 Royal Dr",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219887025,
-    "wof:lastmodified":1449073231,
+    "wof:lastmodified":1466325168,
     "wof:name":"Express Errands Llc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "courier"
     ]
 },
-  "bbox": [-94.202461,36.357651,-94.202461,36.357651],
+  "bbox": [
+    -94.202461,
+    36.357651,
+    -94.202461,
+    36.357651
+],
   "geometry": {"coordinates":[-94.202461,36.357651],"type":"Point"}
 }

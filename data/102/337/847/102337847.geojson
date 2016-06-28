@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102337847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.208775,36.372996,-94.208775,36.372996",
     "geom:latitude":36.372996,
     "geom:longitude":-94.208775,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"216 N Main St",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895827,
+        85688549,
         85633793,
         85921509,
         102083255,
-        85688549
+        85895827
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102337847,
-    "wof:lastmodified":1449068903,
+    "wof:lastmodified":1466323891,
     "wof:name":"Christian Justice Center Inc",
     "wof:parent_id":85895827,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.208775,36.372996,-94.208775,36.372996],
+  "bbox": [
+    -94.208775,
+    36.372996,
+    -94.208775,
+    36.372996
+],
   "geometry": {"coordinates":[-94.208775,36.372996],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202856515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.838781,36.497804,-92.838781,36.497804",
     "geom:latitude":36.497804,
     "geom:longitude":-92.838781,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4962 Mcbride Rd",
     "sg:city":"Protem",
     "sg:classifiers":[
@@ -53,16 +54,22 @@
         }
     ],
     "wof:id":202856515,
-    "wof:lastmodified":1449060842,
+    "wof:lastmodified":1466324383,
     "wof:name":"Blue Waters Resort",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lodging"
     ]
 },
-  "bbox": [-92.838781,36.497804,-92.838781,36.497804],
+  "bbox": [
+    -92.838781,
+    36.497804,
+    -92.838781,
+    36.497804
+],
   "geometry": {"coordinates":[-92.838781,36.497804],"type":"Point"}
 }

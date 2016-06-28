@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102251023",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.789769,35.02681,-90.789769,35.02681",
     "geom:latitude":35.02681,
     "geom:longitude":-90.789769,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1501 N Washington St",
     "sg:city":"Forrest City",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":"102251023",
-    "wof:lastmodified":1449067814,
+    "wof:lastmodified":1466321824,
     "wof:name":"Colony Shop Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.789769,35.02681,-90.789769,35.02681],
-  "geometry": {"coordinates":[-90.789769,35.02681],"type":"Point"}
+  "bbox": [
+    -90.789769,
+    35.02681,
+    -90.789769,
+    35.02681
+],
+  "geometry": {"coordinates":[-90.78976900000001,35.02681],"type":"Point"}
 }

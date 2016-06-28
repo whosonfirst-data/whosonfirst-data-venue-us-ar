@@ -2,13 +2,14 @@
   "id": 220066643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.141212,35.280212,-93.141212,35.280212",
     "geom:latitude":35.280212,
     "geom:longitude":-93.141212,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"910 W Main Pl",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":220066643,
-    "wof:lastmodified":1449074254,
+    "wof:lastmodified":1466321229,
     "wof:name":"Natural Look Salon The",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "supply"
     ]
 },
-  "bbox": [-93.141212,35.280212,-93.141212,35.280212],
+  "bbox": [
+    -93.141212,
+    35.280212,
+    -93.141212,
+    35.280212
+],
   "geometry": {"coordinates":[-93.141212,35.280212],"type":"Point"}
 }

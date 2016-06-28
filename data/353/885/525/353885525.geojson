@@ -2,13 +2,14 @@
   "id": 353885525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.851908,36.571661,-94.851908,36.571661",
     "geom:latitude":36.571661,
     "geom:longitude":-94.851908,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"56682 E 307 Rd",
     "sg:city":"Afton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353885525,
-    "wof:lastmodified":1449019616,
+    "wof:lastmodified":1466320538,
     "wof:name":"Argue Properties",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.851908,36.571661,-94.851908,36.571661],
-  "geometry": {"coordinates":[-94.851908,36.571661],"type":"Point"}
+  "bbox": [
+    -94.851908,
+    36.571661,
+    -94.851908,
+    36.571661
+],
+  "geometry": {"coordinates":[-94.85190799999999,36.571661],"type":"Point"}
 }

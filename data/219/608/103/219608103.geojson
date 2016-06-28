@@ -2,13 +2,14 @@
   "id": 219608103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.982085,35.697748,-89.982085,35.697748",
     "geom:latitude":35.697748,
     "geom:longitude":-89.982085,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"925 W Keiser Ave",
     "sg:city":"Osceola",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":219608103,
-    "wof:lastmodified":1449071895,
+    "wof:lastmodified":1466324592,
     "wof:name":"Legacy Hospice",
     "wof:parent_id":85814753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welfare"
     ]
 },
-  "bbox": [-89.982085,35.697748,-89.982085,35.697748],
+  "bbox": [
+    -89.982085,
+    35.697748,
+    -89.982085,
+    35.697748
+],
   "geometry": {"coordinates":[-89.982085,35.697748],"type":"Point"}
 }

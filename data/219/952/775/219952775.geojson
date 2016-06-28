@@ -2,13 +2,14 @@
   "id": 219952775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.120098,36.332087,-94.120098,36.332087",
     "geom:latitude":36.332087,
     "geom:longitude":-94.120098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 S 4th St",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":219952775,
-    "wof:lastmodified":1449072943,
+    "wof:lastmodified":1466325110,
     "wof:name":"State Farm Insurance Agent-Roger Clark Insurance Agency Inc",
     "wof:parent_id":85895845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.120098,36.332087,-94.120098,36.332087],
+  "bbox": [
+    -94.120098,
+    36.332087,
+    -94.120098,
+    36.332087
+],
   "geometry": {"coordinates":[-94.120098,36.332087],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102313565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.157773,36.069691,-94.157773,36.069691",
     "geom:latitude":36.069691,
     "geom:longitude":-94.157773,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"419 N College Ave",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -32,11 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885435,
+        85688549,
         85633793,
         85919609,
         102082007,
-        85688549
+        85885435
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":102313565,
-    "wof:lastmodified":1449067845,
+    "wof:lastmodified":1466323338,
     "wof:name":"Sherman's Computer & Sound",
     "wof:parent_id":85885435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.157773,36.069691,-94.157773,36.069691],
-  "geometry": {"coordinates":[-94.157773,36.069691],"type":"Point"}
+  "bbox": [
+    -94.157773,
+    36.069691,
+    -94.157773,
+    36.069691
+],
+  "geometry": {"coordinates":[-94.15777300000001,36.069691],"type":"Point"}
 }

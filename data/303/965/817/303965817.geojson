@@ -2,13 +2,14 @@
   "id": 303965817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.203971,34.632826,-94.203971,34.632826",
     "geom:latitude":34.632826,
     "geom:longitude":-94.203971,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3354 US Hwy 71",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303965817,
-    "wof:lastmodified":1448999826,
+    "wof:lastmodified":1466320654,
     "wof:name":"Loaves Fshes Christn Bks Gifts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.203971,34.632826,-94.203971,34.632826],
+  "bbox": [
+    -94.203971,
+    34.632826,
+    -94.203971,
+    34.632826
+],
   "geometry": {"coordinates":[-94.203971,34.632826],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219337195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.995744,35.098608,-91.995744,35.098608",
     "geom:latitude":35.098608,
     "geom:longitude":-91.995744,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"140 Russell Ln",
     "sg:city":"Beebe",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219337195,
-    "wof:lastmodified":1449072048,
+    "wof:lastmodified":1466322062,
     "wof:name":"Walker S Heating Cooling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-91.995744,35.098608,-91.995744,35.098608],
+  "bbox": [
+    -91.995744,
+    35.098608,
+    -91.995744,
+    35.098608
+],
   "geometry": {"coordinates":[-91.995744,35.098608],"type":"Point"}
 }

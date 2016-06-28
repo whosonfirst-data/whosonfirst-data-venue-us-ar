@@ -2,13 +2,14 @@
   "id": 303537353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.791906,36.561657,-94.791906,36.561657",
     "geom:latitude":36.561657,
     "geom:longitude":-94.791906,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1662 Dilar Dr",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303537353,
-    "wof:lastmodified":1448998711,
+    "wof:lastmodified":1466320510,
     "wof:name":"Metcalf Enterprises",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photo"
     ]
 },
-  "bbox": [-94.791906,36.561657,-94.791906,36.561657],
+  "bbox": [
+    -94.791906,
+    36.561657,
+    -94.791906,
+    36.561657
+],
   "geometry": {"coordinates":[-94.791906,36.561657],"type":"Point"}
 }

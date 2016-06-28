@@ -2,13 +2,14 @@
   "id": 220071869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.877129,35.420255,-92.877129,35.420255",
     "geom:latitude":35.420255,
     "geom:longitude":-92.877129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"495 S Main St",
     "sg:city":"Atkins",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220071869,
-    "wof:lastmodified":1449074554,
+    "wof:lastmodified":1466321392,
     "wof:name":"Vincent Farms Inc",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.877129,35.420255,-92.877129,35.420255],
+  "bbox": [
+    -92.877129,
+    35.420255,
+    -92.877129,
+    35.420255
+],
   "geometry": {"coordinates":[-92.877129,35.420255],"type":"Point"}
 }

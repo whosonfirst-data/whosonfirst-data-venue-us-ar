@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102360391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.362588,34.66648,-92.362588,34.66648",
     "geom:latitude":34.66648,
     "geom:longitude":-92.362588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9105 Chicot Rd",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85833869,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85833869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102360391,
-    "wof:lastmodified":1449069641,
+    "wof:lastmodified":1466324232,
     "wof:name":"American Corporate Leasing LLC",
     "wof:parent_id":85833869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.362588,34.66648,-92.362588,34.66648],
+  "bbox": [
+    -92.362588,
+    34.66648,
+    -92.362588,
+    34.66648
+],
   "geometry": {"coordinates":[-92.362588,34.66648],"type":"Point"}
 }

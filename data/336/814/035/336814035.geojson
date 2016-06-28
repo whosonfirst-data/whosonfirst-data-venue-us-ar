@@ -2,13 +2,14 @@
   "id": 336814035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.769236,36.594365,-94.769236,36.594365",
     "geom:latitude":36.594365,
     "geom:longitude":-94.769236,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 S Main St",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336814035,
-    "wof:lastmodified":1448997144,
+    "wof:lastmodified":1466320440,
     "wof:name":"Rectec Technology & Comm",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.769236,36.594365,-94.769236,36.594365],
-  "geometry": {"coordinates":[-94.769236,36.594365],"type":"Point"}
+  "bbox": [
+    -94.769236,
+    36.594365,
+    -94.769236,
+    36.594365
+],
+  "geometry": {"coordinates":[-94.76923600000001,36.594365],"type":"Point"}
 }

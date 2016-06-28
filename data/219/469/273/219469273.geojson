@@ -2,13 +2,14 @@
   "id": 219469273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.468487,34.962347,-92.468487,34.962347",
     "geom:latitude":34.962347,
     "geom:longitude":-92.468487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Ridge Ln",
     "sg:city":"Mayflower",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219469273,
-    "wof:lastmodified":1449074023,
+    "wof:lastmodified":1466323543,
     "wof:name":"Mccain Flooring Institute",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "contractor"
     ]
 },
-  "bbox": [-92.468487,34.962347,-92.468487,34.962347],
+  "bbox": [
+    -92.468487,
+    34.962347,
+    -92.468487,
+    34.962347
+],
   "geometry": {"coordinates":[-92.468487,34.962347],"type":"Point"}
 }

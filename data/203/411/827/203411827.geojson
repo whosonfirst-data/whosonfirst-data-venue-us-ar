@@ -2,13 +2,14 @@
   "id": 203411827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.43457,33.526445,-91.43457,33.526445",
     "geom:latitude":33.526445,
     "geom:longitude":-91.43457,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 N Freeman St",
     "sg:city":"Dermott",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203411827,
-    "wof:lastmodified":1449025042,
+    "wof:lastmodified":1466320543,
     "wof:name":"Gibson Law Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "practice"
     ]
 },
-  "bbox": [-91.43457,33.526445,-91.43457,33.526445],
-  "geometry": {"coordinates":[-91.43457,33.526445],"type":"Point"}
+  "bbox": [
+    -91.43457,
+    33.526445,
+    -91.43457,
+    33.526445
+],
+  "geometry": {"coordinates":[-91.43456999999999,33.526445],"type":"Point"}
 }

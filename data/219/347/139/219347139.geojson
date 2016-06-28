@@ -2,13 +2,14 @@
   "id": 219347139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.620941,34.954941,-92.620941,34.954941",
     "geom:latitude":34.954941,
     "geom:longitude":-92.620941,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"67 Tanner Dr",
     "sg:city":"Bigelow",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219347139,
-    "wof:lastmodified":1449072099,
+    "wof:lastmodified":1466322214,
     "wof:name":"S Tanner Lawn Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-92.620941,34.954941,-92.620941,34.954941],
+  "bbox": [
+    -92.620941,
+    34.954941,
+    -92.620941,
+    34.954941
+],
   "geometry": {"coordinates":[-92.620941,34.954941],"type":"Point"}
 }

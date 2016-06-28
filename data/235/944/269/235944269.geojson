@@ -2,13 +2,14 @@
   "id": 235944269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.567448,36.184301,-94.567448,36.184301",
     "geom:latitude":36.184301,
     "geom:longitude":-94.567448,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4938 Pine St",
     "sg:city":"Colcord",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":235944269,
-    "wof:lastmodified":1449008417,
+    "wof:lastmodified":1466320414,
     "wof:name":"Danny Harrison Inc",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "billing"
     ]
 },
-  "bbox": [-94.567448,36.184301,-94.567448,36.184301],
+  "bbox": [
+    -94.567448,
+    36.184301,
+    -94.567448,
+    36.184301
+],
   "geometry": {"coordinates":[-94.567448,36.184301],"type":"Point"}
 }

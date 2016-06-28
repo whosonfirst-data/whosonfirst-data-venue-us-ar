@@ -2,13 +2,14 @@
   "id": 203419705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.426649,33.889302,-91.426649,33.889302",
     "geom:latitude":33.889302,
     "geom:longitude":-91.426649,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"136 Bullock Ln",
     "sg:city":"Dumas",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":203419705,
-    "wof:lastmodified":1449026850,
+    "wof:lastmodified":1466320583,
     "wof:name":"Perkins Air Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "agricultural"
     ]
 },
-  "bbox": [-91.426649,33.889302,-91.426649,33.889302],
+  "bbox": [
+    -91.426649,
+    33.889302,
+    -91.426649,
+    33.889302
+],
   "geometry": {"coordinates":[-91.426649,33.889302],"type":"Point"}
 }

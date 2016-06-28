@@ -2,13 +2,14 @@
   "id": 219434745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.088211,34.884319,-92.088211,34.884319",
     "geom:latitude":34.884319,
     "geom:longitude":-92.088211,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 Foxwood Dr",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219434745,
-    "wof:lastmodified":1449071165,
+    "wof:lastmodified":1466323142,
     "wof:name":"Branscum & Co Inc",
     "wof:parent_id":85852337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "broker"
     ]
 },
-  "bbox": [-92.088211,34.884319,-92.088211,34.884319],
+  "bbox": [
+    -92.088211,
+    34.884319,
+    -92.088211,
+    34.884319
+],
   "geometry": {"coordinates":[-92.088211,34.884319],"type":"Point"}
 }

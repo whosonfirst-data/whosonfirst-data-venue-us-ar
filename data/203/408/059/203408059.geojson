@@ -2,13 +2,14 @@
   "id": 203408059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.014899,33.141282,-92.014899,33.141282",
     "geom:latitude":33.141282,
     "geom:longitude":-92.014899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2707 Highway 82 W",
     "sg:city":"Crossett",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203408059,
-    "wof:lastmodified":1449025181,
+    "wof:lastmodified":1466324452,
     "wof:name":"Industrial Mill And Maintenance Supply Incorporated",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "supplies-wholesale"
     ]
 },
-  "bbox": [-92.014899,33.141282,-92.014899,33.141282],
+  "bbox": [
+    -92.014899,
+    33.141282,
+    -92.014899,
+    33.141282
+],
   "geometry": {"coordinates":[-92.014899,33.141282],"type":"Point"}
 }

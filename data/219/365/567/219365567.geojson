@@ -2,13 +2,14 @@
   "id": 219365567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.044085,34.981553,-92.044085,34.981553",
     "geom:latitude":34.981553,
     "geom:longitude":-92.044085,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Northport Dr",
     "sg:city":"Cabot",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219365567,
-    "wof:lastmodified":1449070955,
+    "wof:lastmodified":1466322501,
     "wof:name":"My Sisters Boutique",
     "wof:parent_id":85811577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "women's"
     ]
 },
-  "bbox": [-92.044085,34.981553,-92.044085,34.981553],
+  "bbox": [
+    -92.044085,
+    34.981553,
+    -92.044085,
+    34.981553
+],
   "geometry": {"coordinates":[-92.044085,34.981553],"type":"Point"}
 }

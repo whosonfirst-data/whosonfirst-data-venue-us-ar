@@ -2,13 +2,14 @@
   "id": 219546391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.965735,34.378638,-91.965735,34.378638",
     "geom:latitude":34.378638,
     "geom:longitude":-91.965735,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"602 E Jim Ford Rd",
     "sg:city":"Sherrill",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219546391,
-    "wof:lastmodified":1449070373,
+    "wof:lastmodified":1466324302,
     "wof:name":"Gatlin Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.965735,34.378638,-91.965735,34.378638],
+  "bbox": [
+    -91.965735,
+    34.378638,
+    -91.965735,
+    34.378638
+],
   "geometry": {"coordinates":[-91.965735,34.378638],"type":"Point"}
 }

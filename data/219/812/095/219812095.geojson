@@ -2,13 +2,14 @@
   "id": 219812095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.169144,36.070176,-94.169144,36.070176",
     "geom:latitude":36.070176,
     "geom:longitude":-94.169144,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"712 W Maple St",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219812095,
-    "wof:lastmodified":1449070465,
+    "wof:lastmodified":1466325027,
     "wof:name":"Alpha Omicron Pi Fraternity",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "fraternity"
     ]
 },
-  "bbox": [-94.169144,36.070176,-94.169144,36.070176],
+  "bbox": [
+    -94.169144,
+    36.070176,
+    -94.169144,
+    36.070176
+],
   "geometry": {"coordinates":[-94.169144,36.070176],"type":"Point"}
 }

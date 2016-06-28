@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102431099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.455329,35.084874,-92.455329,35.084874",
     "geom:latitude":35.084874,
     "geom:longitude":-92.455329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2102 College Ave",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102431099,
-    "wof:lastmodified":1449068134,
+    "wof:lastmodified":1466325599,
     "wof:name":"Corner Drug Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.455329,35.084874,-92.455329,35.084874],
-  "geometry": {"coordinates":[-92.455329,35.084874],"type":"Point"}
+  "bbox": [
+    -92.455329,
+    35.084874,
+    -92.455329,
+    35.084874
+],
+  "geometry": {"coordinates":[-92.45532900000001,35.084874],"type":"Point"}
 }

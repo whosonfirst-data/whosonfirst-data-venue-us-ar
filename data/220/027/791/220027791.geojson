@@ -2,13 +2,14 @@
   "id": 220027791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.152386,36.189167,-94.152386,36.189167",
     "geom:latitude":36.189167,
     "geom:longitude":-94.152386,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1820 W Huntsville Ave",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220027791,
-    "wof:lastmodified":1449074188,
+    "wof:lastmodified":1466320510,
     "wof:name":"Garibaldi's Italian Restaurant",
     "wof:parent_id":85885491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "italian"
     ]
 },
-  "bbox": [-94.152386,36.189167,-94.152386,36.189167],
-  "geometry": {"coordinates":[-94.152386,36.189167],"type":"Point"}
+  "bbox": [
+    -94.152386,
+    36.189167,
+    -94.152386,
+    36.189167
+],
+  "geometry": {"coordinates":[-94.15238600000001,36.189167],"type":"Point"}
 }

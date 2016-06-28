@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102323417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.273001,34.429958,-93.273001,34.429958",
     "geom:latitude":34.429958,
     "geom:longitude":-93.273001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"183 Connelly Rd",
     "sg:city":"Pearcy",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102323417,
-    "wof:lastmodified":1449068009,
+    "wof:lastmodified":1466323514,
     "wof:name":"B&C Hunting Club of New H",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.273001,34.429958,-93.273001,34.429958],
-  "geometry": {"coordinates":[-93.273001,34.429958],"type":"Point"}
+  "bbox": [
+    -93.273001,
+    34.429958,
+    -93.273001,
+    34.429958
+],
+  "geometry": {"coordinates":[-93.27300099999999,34.429958],"type":"Point"}
 }

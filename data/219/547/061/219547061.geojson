@@ -2,13 +2,14 @@
   "id": 219547061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.33171,35.63419,-92.33171,35.63419",
     "geom:latitude":35.63419,
     "geom:longitude":-92.33171,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1596 Overton Rd",
     "sg:city":"Shirley",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":219547061,
-    "wof:lastmodified":1449070747,
+    "wof:lastmodified":1466324308,
     "wof:name":"Charles Huggins Construction Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "contractor"
     ]
 },
-  "bbox": [-92.33171,35.63419,-92.33171,35.63419],
+  "bbox": [
+    -92.33171,
+    35.63419,
+    -92.33171,
+    35.63419
+],
   "geometry": {"coordinates":[-92.33171,35.63419],"type":"Point"}
 }

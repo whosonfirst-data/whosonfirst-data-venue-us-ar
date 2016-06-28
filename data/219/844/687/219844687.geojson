@@ -2,13 +2,14 @@
   "id": 219844687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.115715,36.088209,-94.115715,36.088209",
     "geom:latitude":36.088209,
     "geom:longitude":-94.115715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3159 E Mission Blvd Suite 3",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -73,10 +74,11 @@
         }
     ],
     "wof:id":219844687,
-    "wof:lastmodified":1449071891,
+    "wof:lastmodified":1466325092,
     "wof:name":"Edward Jones - DAN HART",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -95,6 +97,11 @@
         "stock"
     ]
 },
-  "bbox": [-94.115715,36.088209,-94.115715,36.088209],
-  "geometry": {"coordinates":[-94.115715,36.088209],"type":"Point"}
+  "bbox": [
+    -94.115715,
+    36.088209,
+    -94.115715,
+    36.088209
+],
+  "geometry": {"coordinates":[-94.11571499999999,36.088209],"type":"Point"}
 }

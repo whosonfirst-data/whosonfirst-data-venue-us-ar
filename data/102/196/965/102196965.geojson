@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102196965",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.606422,33.668638,-93.606422,33.668638",
     "geom:latitude":33.668638,
     "geom:longitude":-93.606422,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1605 W Ave B",
     "sg:city":"Hope",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806015,
+        85688549,
         85633793,
         85920547,
         102083213,
-        85688549
+        85806015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102196965",
-    "wof:lastmodified":1449068339,
+    "wof:lastmodified":1466320653,
     "wof:name":"Alliance Carpet Vision",
     "wof:parent_id":85806015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.606422,33.668638,-93.606422,33.668638],
-  "geometry": {"coordinates":[-93.606422,33.668638],"type":"Point"}
+  "bbox": [
+    -93.606422,
+    33.668638,
+    -93.606422,
+    33.668638
+],
+  "geometry": {"coordinates":[-93.60642199999999,33.668638],"type":"Point"}
 }

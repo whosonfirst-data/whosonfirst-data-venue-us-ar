@@ -2,13 +2,14 @@
   "id": 219231165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.124399,33.667317,-94.124399,33.667317",
     "geom:latitude":33.667317,
     "geom:longitude":-94.124399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"620 E Wood St",
     "sg:city":"Ashdown",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219231165,
-    "wof:lastmodified":1449072191,
+    "wof:lastmodified":1466321183,
     "wof:name":"Jones' Brothers Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.124399,33.667317,-94.124399,33.667317],
+  "bbox": [
+    -94.124399,
+    33.667317,
+    -94.124399,
+    33.667317
+],
   "geometry": {"coordinates":[-94.124399,33.667317],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102400969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.303759,35.453292,-94.303759,35.453292",
     "geom:latitude":35.453292,
     "geom:longitude":-94.303759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4418 Alma Hwy",
     "sg:city":"Van Buren",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102400969,
-    "wof:lastmodified":1449068027,
+    "wof:lastmodified":1466324875,
     "wof:name":"Goff Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.303759,35.453292,-94.303759,35.453292],
+  "bbox": [
+    -94.303759,
+    35.453292,
+    -94.303759,
+    35.453292
+],
   "geometry": {"coordinates":[-94.303759,35.453292],"type":"Point"}
 }

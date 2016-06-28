@@ -2,13 +2,14 @@
   "id": 219599021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.757892,34.773506,-90.757892,34.773506",
     "geom:latitude":34.773506,
     "geom:longitude":-90.757892,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18 W Main St",
     "sg:city":"Marianna",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219599021,
-    "wof:lastmodified":1449072034,
+    "wof:lastmodified":1466324805,
     "wof:name":"Carlow Gentry & Associates P",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "public"
     ]
 },
-  "bbox": [-90.757892,34.773506,-90.757892,34.773506],
+  "bbox": [
+    -90.757892,
+    34.773506,
+    -90.757892,
+    34.773506
+],
   "geometry": {"coordinates":[-90.757892,34.773506],"type":"Point"}
 }

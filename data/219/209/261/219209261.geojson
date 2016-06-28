@@ -2,13 +2,14 @@
   "id": 219209261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.230216,33.255453,-93.230216,33.255453",
     "geom:latitude":33.255453,
     "geom:longitude":-93.230216,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"811 Calhoun Rd",
     "sg:city":"Magnolia",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219209261,
-    "wof:lastmodified":1449073542,
+    "wof:lastmodified":1466320950,
     "wof:name":"Magnolia Columbia County Literacy Council",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "government-county"
     ]
 },
-  "bbox": [-93.230216,33.255453,-93.230216,33.255453],
+  "bbox": [
+    -93.230216,
+    33.255453,
+    -93.230216,
+    33.255453
+],
   "geometry": {"coordinates":[-93.230216,33.255453],"type":"Point"}
 }

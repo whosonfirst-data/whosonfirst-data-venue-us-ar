@@ -2,13 +2,14 @@
   "id": 219923907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.497388,36.244523,-94.497388,36.244523",
     "geom:latitude":36.244523,
     "geom:longitude":-94.497388,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12768 Pioneer Ln",
     "sg:city":"Gentry",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219923907,
-    "wof:lastmodified":1449073795,
+    "wof:lastmodified":1466325148,
     "wof:name":"A Rite-Way Pest Control Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.497388,36.244523,-94.497388,36.244523],
+  "bbox": [
+    -94.497388,
+    36.244523,
+    -94.497388,
+    36.244523
+],
   "geometry": {"coordinates":[-94.497388,36.244523],"type":"Point"}
 }

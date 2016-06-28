@@ -2,13 +2,14 @@
   "id": 219653515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.779437,35.855788,-90.779437,35.855788",
     "geom:latitude":35.855788,
     "geom:longitude":-90.779437,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"217 Co Op Dr",
     "sg:city":"Bono",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219653515,
-    "wof:lastmodified":1449070643,
+    "wof:lastmodified":1466324736,
     "wof:name":"Pride Of Dixie Syrup Company Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "syrup"
     ]
 },
-  "bbox": [-90.779437,35.855788,-90.779437,35.855788],
+  "bbox": [
+    -90.779437,
+    35.855788,
+    -90.779437,
+    35.855788
+],
   "geometry": {"coordinates":[-90.779437,35.855788],"type":"Point"}
 }

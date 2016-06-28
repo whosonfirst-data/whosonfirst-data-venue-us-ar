@@ -2,13 +2,14 @@
   "id": 219528069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.739805,35.25008,-91.739805,35.25008",
     "geom:latitude":35.25008,
     "geom:longitude":-91.739805,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"411 W Arch Ave",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219528069,
-    "wof:lastmodified":1449071349,
+    "wof:lastmodified":1466324166,
     "wof:name":"Petty, Paul",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "adoption"
     ]
 },
-  "bbox": [-91.739805,35.25008,-91.739805,35.25008],
+  "bbox": [
+    -91.739805,
+    35.25008,
+    -91.739805,
+    35.25008
+],
   "geometry": {"coordinates":[-91.739805,35.25008],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219813511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.192834,36.071449,-94.192834,36.071449",
     "geom:latitude":36.071449,
     "geom:longitude":-94.192834,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2125 W Loren Cir",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219813511,
-    "wof:lastmodified":1449071305,
+    "wof:lastmodified":1466324962,
     "wof:name":"Bulloch Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrician"
     ]
 },
-  "bbox": [-94.192834,36.071449,-94.192834,36.071449],
+  "bbox": [
+    -94.192834,
+    36.071449,
+    -94.192834,
+    36.071449
+],
   "geometry": {"coordinates":[-94.192834,36.071449],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219305111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.301647,34.574645,-94.301647,34.574645",
     "geom:latitude":34.574645,
     "geom:longitude":-94.301647,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3906 Highway 375 W",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219305111,
-    "wof:lastmodified":1449070929,
+    "wof:lastmodified":1466321773,
     "wof:name":"Peikert's Farm and Pet Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cat"
     ]
 },
-  "bbox": [-94.301647,34.574645,-94.301647,34.574645],
+  "bbox": [
+    -94.301647,
+    34.574645,
+    -94.301647,
+    34.574645
+],
   "geometry": {"coordinates":[-94.301647,34.574645],"type":"Point"}
 }

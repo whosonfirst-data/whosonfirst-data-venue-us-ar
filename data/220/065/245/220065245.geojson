@@ -2,13 +2,14 @@
   "id": 220065245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.138396,35.27936,-93.138396,35.27936",
     "geom:latitude":35.27936,
     "geom:longitude":-93.138396,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"614 W Main St",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -68,10 +69,11 @@
         }
     ],
     "wof:id":220065245,
-    "wof:lastmodified":1449074872,
+    "wof:lastmodified":1466321156,
     "wof:name":"Leon Anderson Ins, Inc. - Nationwide Insurance",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "homeowner"
     ]
 },
-  "bbox": [-93.138396,35.27936,-93.138396,35.27936],
+  "bbox": [
+    -93.138396,
+    35.27936,
+    -93.138396,
+    35.27936
+],
   "geometry": {"coordinates":[-93.138396,35.27936],"type":"Point"}
 }

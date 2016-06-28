@@ -2,13 +2,14 @@
   "id": 220090211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.715123,35.291908,-93.715123,35.291908",
     "geom:latitude":35.291908,
     "geom:longitude":-93.715123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1700 E Walnut St",
     "sg:city":"Paris",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":220090211,
-    "wof:lastmodified":1449074673,
+    "wof:lastmodified":1466321928,
     "wof:name":"Roller, Denver Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "crematory"
     ]
 },
-  "bbox": [-93.715123,35.291908,-93.715123,35.291908],
-  "geometry": {"coordinates":[-93.715123,35.291908],"type":"Point"}
+  "bbox": [
+    -93.715123,
+    35.291908,
+    -93.715123,
+    35.291908
+],
+  "geometry": {"coordinates":[-93.71512300000001,35.291908],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219823635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.16428,36.063965,-94.16428,36.063965",
     "geom:latitude":36.063965,
     "geom:longitude":-94.16428,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 N School Ave",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219823635,
-    "wof:lastmodified":1449073881,
+    "wof:lastmodified":1466324993,
     "wof:name":"Hood & Barnett P",
     "wof:parent_id":85885451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-94.16428,36.063965,-94.16428,36.063965],
-  "geometry": {"coordinates":[-94.16428,36.063965],"type":"Point"}
+  "bbox": [
+    -94.16428,
+    36.063965,
+    -94.16428,
+    36.063965
+],
+  "geometry": {"coordinates":[-94.16428000000001,36.063965],"type":"Point"}
 }

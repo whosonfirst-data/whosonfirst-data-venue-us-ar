@@ -2,13 +2,14 @@
   "id": 203412269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.434535,33.526446,-91.434535,33.526446",
     "geom:latitude":33.526446,
     "geom:longitude":-91.434535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 N Freeman St",
     "sg:city":"Dermott",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":203412269,
-    "wof:lastmodified":1449025320,
+    "wof:lastmodified":1466320541,
     "wof:name":"Dermott Police Department",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "village"
     ]
 },
-  "bbox": [-91.434535,33.526446,-91.434535,33.526446],
+  "bbox": [
+    -91.434535,
+    33.526446,
+    -91.434535,
+    33.526446
+],
   "geometry": {"coordinates":[-91.434535,33.526446],"type":"Point"}
 }

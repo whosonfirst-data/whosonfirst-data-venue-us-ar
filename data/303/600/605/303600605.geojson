@@ -2,13 +2,14 @@
   "id": 303600605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.54454,36.186327,-94.54454,36.186327",
     "geom:latitude":36.186327,
     "geom:longitude":-94.54454,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 W University St",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303600605,
-    "wof:lastmodified":1448998343,
+    "wof:lastmodified":1466320530,
     "wof:name":"Siloam Springs Public Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.54454,36.186327,-94.54454,36.186327],
+  "bbox": [
+    -94.54454,
+    36.186327,
+    -94.54454,
+    36.186327
+],
   "geometry": {"coordinates":[-94.54454,36.186327],"type":"Point"}
 }

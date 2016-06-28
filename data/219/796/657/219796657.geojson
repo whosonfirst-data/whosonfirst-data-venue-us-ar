@@ -2,13 +2,14 @@
   "id": 219796657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.450085,36.298038,-92.450085,36.298038",
     "geom:latitude":36.298038,
     "geom:longitude":-92.450085,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5564 Highway 62 W Apt 1",
     "sg:city":"Gassville",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219796657,
-    "wof:lastmodified":1449072059,
+    "wof:lastmodified":1466325024,
     "wof:name":"Bob J Henington",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "parking"
     ]
 },
-  "bbox": [-92.450085,36.298038,-92.450085,36.298038],
+  "bbox": [
+    -92.450085,
+    36.298038,
+    -92.450085,
+    36.298038
+],
   "geometry": {"coordinates":[-92.450085,36.298038],"type":"Point"}
 }

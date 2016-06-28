@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102418789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.672086,33.22571,-92.672086,33.22571",
     "geom:latitude":33.22571,
     "geom:longitude":-92.672086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"501 W 8th St",
     "sg:city":"El Dorado",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102418789,
-    "wof:lastmodified":1449069657,
+    "wof:lastmodified":1466325395,
     "wof:name":"National Assn of Rtrd Fed Empl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.672086,33.22571,-92.672086,33.22571],
-  "geometry": {"coordinates":[-92.672086,33.22571],"type":"Point"}
+  "bbox": [
+    -92.672086,
+    33.22571,
+    -92.672086,
+    33.22571
+],
+  "geometry": {"coordinates":[-92.67208599999999,33.22571],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102333939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.436402,34.760223,-92.436402,34.760223",
     "geom:latitude":34.760223,
     "geom:longitude":-92.436402,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14604 Chambery Dr",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85846723,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85846723
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102333939,
-    "wof:lastmodified":1449070014,
+    "wof:lastmodified":1466323825,
     "wof:name":"Jennifer King Photography LLC",
     "wof:parent_id":85846723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.436402,34.760223,-92.436402,34.760223],
+  "bbox": [
+    -92.436402,
+    34.760223,
+    -92.436402,
+    34.760223
+],
   "geometry": {"coordinates":[-92.436402,34.760223],"type":"Point"}
 }

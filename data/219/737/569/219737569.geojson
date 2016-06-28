@@ -2,13 +2,14 @@
   "id": 219737569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.061619,35.631731,-92.061619,35.631731",
     "geom:latitude":35.631731,
     "geom:longitude":-92.061619,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 Lake Dr",
     "sg:city":"Drasco",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219737569,
-    "wof:lastmodified":1449071188,
+    "wof:lastmodified":1466324899,
     "wof:name":"Tracy's On The Lake",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.061619,35.631731,-92.061619,35.631731],
-  "geometry": {"coordinates":[-92.061619,35.631731],"type":"Point"}
+  "bbox": [
+    -92.061619,
+    35.631731,
+    -92.061619,
+    35.631731
+],
+  "geometry": {"coordinates":[-92.06161899999999,35.631731],"type":"Point"}
 }

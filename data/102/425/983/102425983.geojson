@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102425983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.051812,35.500162,-94.051812,35.500162",
     "geom:latitude":35.500162,
     "geom:longitude":-94.051812,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"430 N Main St",
     "sg:city":"Mulberry",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102425983,
-    "wof:lastmodified":1449068636,
+    "wof:lastmodified":1466325544,
     "wof:name":"Main Street Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.051812,35.500162,-94.051812,35.500162],
+  "bbox": [
+    -94.051812,
+    35.500162,
+    -94.051812,
+    35.500162
+],
   "geometry": {"coordinates":[-94.051812,35.500162],"type":"Point"}
 }

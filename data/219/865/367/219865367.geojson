@@ -2,13 +2,14 @@
   "id": 219865367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.309492,36.05453,-94.309492,36.05453",
     "geom:latitude":36.05453,
     "geom:longitude":-94.309492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14020 Goose Creek Rd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219865367,
-    "wof:lastmodified":1449073066,
+    "wof:lastmodified":1466325050,
     "wof:name":"Hill Electric, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "electric"
     ]
 },
-  "bbox": [-94.309492,36.05453,-94.309492,36.05453],
-  "geometry": {"coordinates":[-94.309492,36.05453],"type":"Point"}
+  "bbox": [
+    -94.309492,
+    36.05453,
+    -94.309492,
+    36.05453
+],
+  "geometry": {"coordinates":[-94.30949200000001,36.05453],"type":"Point"}
 }

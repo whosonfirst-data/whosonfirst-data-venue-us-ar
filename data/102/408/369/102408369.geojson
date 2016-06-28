@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102408369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.570191,33.676,-91.570191,33.676",
     "geom:latitude":33.676,
     "geom:longitude":-91.570191,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3919 US Hwy 278",
     "sg:city":"Monticello",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102408369,
-    "wof:lastmodified":1449068106,
+    "wof:lastmodified":1466325110,
     "wof:name":"Selma Tie & Lumber Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.570191,33.676,-91.570191,33.676],
-  "geometry": {"coordinates":[-91.570191,33.676],"type":"Point"}
+  "bbox": [
+    -91.570191,
+    33.676,
+    -91.570191,
+    33.676
+],
+  "geometry": {"coordinates":[-91.57019099999999,33.676],"type":"Point"}
 }

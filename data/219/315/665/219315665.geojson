@@ -2,13 +2,14 @@
   "id": 219315665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.946914,34.292383,-93.946914,34.292383",
     "geom:latitude":34.292383,
     "geom:longitude":-93.946914,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"135 Hunter Rd",
     "sg:city":"Newhope",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219315665,
-    "wof:lastmodified":1449073723,
+    "wof:lastmodified":1466321861,
     "wof:name":"Hwp Hunting Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "promoter"
     ]
 },
-  "bbox": [-93.946914,34.292383,-93.946914,34.292383],
-  "geometry": {"coordinates":[-93.946914,34.292383],"type":"Point"}
+  "bbox": [
+    -93.946914,
+    34.292383,
+    -93.946914,
+    34.292383
+],
+  "geometry": {"coordinates":[-93.94691400000001,34.292383],"type":"Point"}
 }

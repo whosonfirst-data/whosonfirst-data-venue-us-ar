@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102395917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.174227,36.072526,-94.174227,36.072526",
     "geom:latitude":36.072526,
     "geom:longitude":-94.174227,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"666 N Lindell Ave",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885453,
+        85688549,
         85633793,
         85919609,
         102082007,
-        85688549
+        85885453
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102395917,
-    "wof:lastmodified":1449069819,
+    "wof:lastmodified":1466324808,
     "wof:name":"Bxt Solutions LLC",
     "wof:parent_id":85885453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.174227,36.072526,-94.174227,36.072526],
+  "bbox": [
+    -94.174227,
+    36.072526,
+    -94.174227,
+    36.072526
+],
   "geometry": {"coordinates":[-94.174227,36.072526],"type":"Point"}
 }

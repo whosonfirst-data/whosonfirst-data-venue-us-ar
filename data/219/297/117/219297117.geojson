@@ -2,13 +2,14 @@
   "id": 219297117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.551872,34.331702,-93.551872,34.331702",
     "geom:latitude":34.331702,
     "geom:longitude":-93.551872,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"705 Lakeshore St Apt 17",
     "sg:city":"Glenwood",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219297117,
-    "wof:lastmodified":1449072629,
+    "wof:lastmodified":1466321707,
     "wof:name":"Salon D May's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.551872,34.331702,-93.551872,34.331702],
+  "bbox": [
+    -93.551872,
+    34.331702,
+    -93.551872,
+    34.331702
+],
   "geometry": {"coordinates":[-93.551872,34.331702],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219489473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.231627,34.837616,-92.231627,34.837616",
     "geom:latitude":34.837616,
     "geom:longitude":-92.231627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9107 Highway 107",
     "sg:city":"Sherwood",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219489473,
-    "wof:lastmodified":1449072303,
+    "wof:lastmodified":1466323836,
     "wof:name":"Hidden Treasures Antiques & Flea Market",
     "wof:parent_id":85851723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "market"
     ]
 },
-  "bbox": [-92.231627,34.837616,-92.231627,34.837616],
+  "bbox": [
+    -92.231627,
+    34.837616,
+    -92.231627,
+    34.837616
+],
   "geometry": {"coordinates":[-92.231627,34.837616],"type":"Point"}
 }

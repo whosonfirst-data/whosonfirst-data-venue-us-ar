@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102356473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.002024,34.221649,-92.002024,34.221649",
     "geom:latitude":34.221649,
     "geom:longitude":-92.002024,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 E 8th Ave",
     "sg:city":"Pine Bluff",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102356473,
-    "wof:lastmodified":1449069741,
+    "wof:lastmodified":1466324225,
     "wof:name":"Pine Bluff Postal Employee CU",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.002024,34.221649,-92.002024,34.221649],
-  "geometry": {"coordinates":[-92.002024,34.221649],"type":"Point"}
+  "bbox": [
+    -92.002024,
+    34.221649,
+    -92.002024,
+    34.221649
+],
+  "geometry": {"coordinates":[-92.00202400000001,34.221649],"type":"Point"}
 }

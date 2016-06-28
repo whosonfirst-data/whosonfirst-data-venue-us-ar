@@ -2,13 +2,14 @@
   "id": 219474471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.262289,35.633354,-91.262289,35.633354",
     "geom:latitude":35.633354,
     "geom:longitude":-91.262289,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2900 Marion Dr",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219474471,
-    "wof:lastmodified":1449070523,
+    "wof:lastmodified":1466323628,
     "wof:name":"White River Apts.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "listing"
     ]
 },
-  "bbox": [-91.262289,35.633354,-91.262289,35.633354],
+  "bbox": [
+    -91.262289,
+    35.633354,
+    -91.262289,
+    35.633354
+],
   "geometry": {"coordinates":[-91.262289,35.633354],"type":"Point"}
 }

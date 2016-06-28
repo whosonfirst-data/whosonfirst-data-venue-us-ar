@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102436477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.157378,36.09434,-94.157378,36.09434",
     "geom:latitude":36.09434,
     "geom:longitude":-94.157378,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2389 Green Acres",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885445,
+        85688549,
         85633793,
         85919609,
         102082007,
-        85688549
+        85885445
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102436477,
-    "wof:lastmodified":1449069954,
+    "wof:lastmodified":1466325672,
     "wof:name":"Dotson's Upholstery Draperies",
     "wof:parent_id":85885445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.157378,36.09434,-94.157378,36.09434],
-  "geometry": {"coordinates":[-94.157378,36.09434],"type":"Point"}
+  "bbox": [
+    -94.157378,
+    36.09434,
+    -94.157378,
+    36.09434
+],
+  "geometry": {"coordinates":[-94.15737799999999,36.09434],"type":"Point"}
 }

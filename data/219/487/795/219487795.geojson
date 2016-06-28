@@ -2,13 +2,14 @@
   "id": 219487795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.219162,34.832851,-92.219162,34.832851",
     "geom:latitude":34.832851,
     "geom:longitude":-92.219162,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1300 E Kiehl Ave",
     "sg:city":"Sherwood",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219487795,
-    "wof:lastmodified":1449071551,
+    "wof:lastmodified":1466323804,
     "wof:name":"Usa Drug Express",
     "wof:parent_id":85851723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "finishing"
     ]
 },
-  "bbox": [-92.219162,34.832851,-92.219162,34.832851],
+  "bbox": [
+    -92.219162,
+    34.832851,
+    -92.219162,
+    34.832851
+],
   "geometry": {"coordinates":[-92.219162,34.832851],"type":"Point"}
 }

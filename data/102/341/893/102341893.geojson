@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102341893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.751745,35.154382,-92.751745,35.154382",
     "geom:latitude":35.154382,
     "geom:longitude":-92.751745,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"602 W Broadway St",
     "sg:city":"Morrilton",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85814069,
+        85688549,
         85633793,
         85920189,
         102083217,
-        85688549
+        85814069
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102341893,
-    "wof:lastmodified":1449070106,
+    "wof:lastmodified":1466323934,
     "wof:name":"Allan Love Body Repair",
     "wof:parent_id":85814069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.751745,35.154382,-92.751745,35.154382],
+  "bbox": [
+    -92.751745,
+    35.154382,
+    -92.751745,
+    35.154382
+],
   "geometry": {"coordinates":[-92.751745,35.154382],"type":"Point"}
 }

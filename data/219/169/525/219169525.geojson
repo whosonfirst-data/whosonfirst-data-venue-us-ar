@@ -2,13 +2,14 @@
   "id": 219169525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.79142,33.642328,-91.79142,33.642328",
     "geom:latitude":33.642328,
     "geom:longitude":-91.79142,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1194 N Chester St",
     "sg:city":"Monticello",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219169525,
-    "wof:lastmodified":1449072577,
+    "wof:lastmodified":1466320546,
     "wof:name":"Golden Living Ctr-Monticello",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-91.79142,33.642328,-91.79142,33.642328],
+  "bbox": [
+    -91.79142,
+    33.642328,
+    -91.79142,
+    33.642328
+],
   "geometry": {"coordinates":[-91.79142,33.642328],"type":"Point"}
 }

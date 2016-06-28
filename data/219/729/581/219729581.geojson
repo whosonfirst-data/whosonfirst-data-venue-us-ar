@@ -2,13 +2,14 @@
   "id": 219729581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.612764,35.765111,-91.612764,35.765111",
     "geom:latitude":35.765111,
     "geom:longitude":-91.612764,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Eagle Mountain Blvd",
     "sg:city":"Batesville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219729581,
-    "wof:lastmodified":1449072159,
+    "wof:lastmodified":1466324895,
     "wof:name":"Nailsville",
     "wof:parent_id":85808231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.612764,35.765111,-91.612764,35.765111],
+  "bbox": [
+    -91.612764,
+    35.765111,
+    -91.612764,
+    35.765111
+],
   "geometry": {"coordinates":[-91.612764,35.765111],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102411809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.588118,34.562337,-92.588118,34.562337",
     "geom:latitude":34.562337,
     "geom:longitude":-92.588118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 S Market St",
     "sg:city":"Benton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102411809,
-    "wof:lastmodified":1449067892,
+    "wof:lastmodified":1466325062,
     "wof:name":"White Furniture Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.588118,34.562337,-92.588118,34.562337],
-  "geometry": {"coordinates":[-92.588118,34.562337],"type":"Point"}
+  "bbox": [
+    -92.588118,
+    34.562337,
+    -92.588118,
+    34.562337
+],
+  "geometry": {"coordinates":[-92.58811799999999,34.562337],"type":"Point"}
 }

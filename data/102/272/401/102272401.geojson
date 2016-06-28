@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102272401",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.974337,36.260609,-90.974337,36.260609",
     "geom:latitude":36.260609,
     "geom:longitude":-90.974337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 Cedar St",
     "sg:city":"Pocahontas",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85816685,
+        85688549,
         85633793,
         85919829,
         102082011,
-        85688549
+        85816685
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102272401",
-    "wof:lastmodified":1449070022,
+    "wof:lastmodified":1466322404,
     "wof:name":"Cedar St Pre Schl & Day Care",
     "wof:parent_id":85816685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.974337,36.260609,-90.974337,36.260609],
-  "geometry": {"coordinates":[-90.974337,36.260609],"type":"Point"}
+  "bbox": [
+    -90.974337,
+    36.260609,
+    -90.974337,
+    36.260609
+],
+  "geometry": {"coordinates":[-90.97433700000001,36.260609],"type":"Point"}
 }

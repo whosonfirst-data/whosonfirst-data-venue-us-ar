@@ -2,13 +2,14 @@
   "id": 219417629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.355493,35.849602,-92.355493,35.849602",
     "geom:latitude":35.849602,
     "geom:longitude":-92.355493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1717 Jimmy Creek Rd",
     "sg:city":"Fox",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219417629,
-    "wof:lastmodified":1449071833,
+    "wof:lastmodified":1466323001,
     "wof:name":"Vernon Bradshaw Rev",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.355493,35.849602,-92.355493,35.849602],
+  "bbox": [
+    -92.355493,
+    35.849602,
+    -92.355493,
+    35.849602
+],
   "geometry": {"coordinates":[-92.355493,35.849602],"type":"Point"}
 }

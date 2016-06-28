@@ -2,13 +2,14 @@
   "id": 219516225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.714205,35.219633,-91.714205,35.219633",
     "geom:latitude":35.219633,
     "geom:longitude":-91.714205,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2613 Eastline Rd",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219516225,
-    "wof:lastmodified":1449071067,
+    "wof:lastmodified":1466324077,
     "wof:name":"Huckleberry's Catfish Buffet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "buffet"
     ]
 },
-  "bbox": [-91.714205,35.219633,-91.714205,35.219633],
-  "geometry": {"coordinates":[-91.714205,35.219633],"type":"Point"}
+  "bbox": [
+    -91.714205,
+    35.219633,
+    -91.714205,
+    35.219633
+],
+  "geometry": {"coordinates":[-91.71420500000001,35.219633],"type":"Point"}
 }

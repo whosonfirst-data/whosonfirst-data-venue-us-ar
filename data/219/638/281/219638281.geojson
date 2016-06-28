@@ -2,13 +2,14 @@
   "id": 219638281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.708445,35.816285,-90.708445,35.816285",
     "geom:latitude":35.816285,
     "geom:longitude":-90.708445,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2604 Southwest Sq",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219638281,
-    "wof:lastmodified":1449070576,
+    "wof:lastmodified":1466324636,
     "wof:name":"Ron Heard",
     "wof:parent_id":85836541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "public"
     ]
 },
-  "bbox": [-90.708445,35.816285,-90.708445,35.816285],
+  "bbox": [
+    -90.708445,
+    35.816285,
+    -90.708445,
+    35.816285
+],
   "geometry": {"coordinates":[-90.708445,35.816285],"type":"Point"}
 }

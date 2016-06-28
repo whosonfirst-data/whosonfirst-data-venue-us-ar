@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102424679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.995215,34.979085,-91.995215,34.979085",
     "geom:latitude":34.979085,
     "geom:longitude":-91.995215,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Shenandoah Cove",
     "sg:city":"Cabot",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102424679,
-    "wof:lastmodified":1449070038,
+    "wof:lastmodified":1466325530,
     "wof:name":"Taylor Made Development LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.995215,34.979085,-91.995215,34.979085],
+  "bbox": [
+    -91.995215,
+    34.979085,
+    -91.995215,
+    34.979085
+],
   "geometry": {"coordinates":[-91.995215,34.979085],"type":"Point"}
 }

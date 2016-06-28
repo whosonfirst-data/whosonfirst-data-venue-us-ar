@@ -2,13 +2,14 @@
   "id": 303377189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.769297,36.593453,-94.769297,36.593453",
     "geom:latitude":36.593453,
     "geom:longitude":-94.769297,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31 W 3rd St",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303377189,
-    "wof:lastmodified":1448999037,
+    "wof:lastmodified":1466320457,
     "wof:name":"Shiko Enterprises",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "graphic"
     ]
 },
-  "bbox": [-94.769297,36.593453,-94.769297,36.593453],
-  "geometry": {"coordinates":[-94.769297,36.593453],"type":"Point"}
+  "bbox": [
+    -94.769297,
+    36.593453,
+    -94.769297,
+    36.593453
+],
+  "geometry": {"coordinates":[-94.76929699999999,36.593453],"type":"Point"}
 }

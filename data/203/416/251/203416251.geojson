@@ -2,13 +2,14 @@
   "id": 203416251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.484898,33.890884,-91.484898,33.890884",
     "geom:latitude":33.890884,
     "geom:longitude":-91.484898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"217 Highway 65 N",
     "sg:city":"Dumas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203416251,
-    "wof:lastmodified":1449025762,
+    "wof:lastmodified":1466320557,
     "wof:name":"The Car Lot",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "new"
     ]
 },
-  "bbox": [-91.484898,33.890884,-91.484898,33.890884],
+  "bbox": [
+    -91.484898,
+    33.890884,
+    -91.484898,
+    33.890884
+],
   "geometry": {"coordinates":[-91.484898,33.890884],"type":"Point"}
 }

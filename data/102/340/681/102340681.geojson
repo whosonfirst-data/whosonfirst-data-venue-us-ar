@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102340681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.640419,35.175923,-92.640419,35.175923",
     "geom:latitude":35.175923,
     "geom:longitude":-92.640419,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"449 State Hwy 92",
     "sg:city":"Plumerville",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102340681,
-    "wof:lastmodified":1449069645,
+    "wof:lastmodified":1466323883,
     "wof:name":"Cloninger Logging",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.640419,35.175923,-92.640419,35.175923],
-  "geometry": {"coordinates":[-92.640419,35.175923],"type":"Point"}
+  "bbox": [
+    -92.640419,
+    35.175923,
+    -92.640419,
+    35.175923
+],
+  "geometry": {"coordinates":[-92.64041899999999,35.175923],"type":"Point"}
 }

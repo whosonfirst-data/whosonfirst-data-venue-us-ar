@@ -2,13 +2,14 @@
   "id": 219946231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.136597,36.258499,-94.136597,36.258499",
     "geom:latitude":36.258499,
     "geom:longitude":-94.136597,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 N Bloomington St",
     "sg:city":"Lowell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219946231,
-    "wof:lastmodified":1449073496,
+    "wof:lastmodified":1466325234,
     "wof:name":"Torres Tours",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tour"
     ]
 },
-  "bbox": [-94.136597,36.258499,-94.136597,36.258499],
-  "geometry": {"coordinates":[-94.136597,36.258499],"type":"Point"}
+  "bbox": [
+    -94.136597,
+    36.258499,
+    -94.136597,
+    36.258499
+],
+  "geometry": {"coordinates":[-94.13659699999999,36.258499],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102355301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.58612,34.529054,-90.58612,34.529054",
     "geom:latitude":34.529054,
     "geom:longitude":-90.58612,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 Perry St",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85838649,
+        85688549,
         85633793,
         85919725,
         102082001,
-        85688549
+        85838649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102355301,
-    "wof:lastmodified":1449068451,
+    "wof:lastmodified":1466324135,
     "wof:name":"Phillips County Jail",
     "wof:parent_id":85838649,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.58612,34.529054,-90.58612,34.529054],
-  "geometry": {"coordinates":[-90.58612,34.529054],"type":"Point"}
+  "bbox": [
+    -90.58612,
+    34.529054,
+    -90.58612,
+    34.529054
+],
+  "geometry": {"coordinates":[-90.58611999999999,34.529054],"type":"Point"}
 }

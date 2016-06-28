@@ -2,13 +2,14 @@
   "id": 219277535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.532893,33.097586,-93.532893,33.097586",
     "geom:latitude":33.097586,
     "geom:longitude":-93.532893,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"70 Lafayette 235",
     "sg:city":"Taylor",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219277535,
-    "wof:lastmodified":1449070784,
+    "wof:lastmodified":1466321548,
     "wof:name":"Bass Haven Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.532893,33.097586,-93.532893,33.097586],
+  "bbox": [
+    -93.532893,
+    33.097586,
+    -93.532893,
+    33.097586
+],
   "geometry": {"coordinates":[-93.532893,33.097586],"type":"Point"}
 }

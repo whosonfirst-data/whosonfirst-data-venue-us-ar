@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102360775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.05449,34.230421,-92.05449,34.230421",
     "geom:latitude":34.230421,
     "geom:longitude":-92.05449,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4720 W Barraque St",
     "sg:city":"White Hall",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102360775,
-    "wof:lastmodified":1449069643,
+    "wof:lastmodified":1466324311,
     "wof:name":"A T Transportation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.05449,34.230421,-92.05449,34.230421],
+  "bbox": [
+    -92.05449,
+    34.230421,
+    -92.05449,
+    34.230421
+],
   "geometry": {"coordinates":[-92.05449,34.230421],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320244783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.73698,36.598022,-94.73698,36.598022",
     "geom:latitude":36.598022,
     "geom:longitude":-94.73698,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"64050 E 290 Rd",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320244783,
-    "wof:lastmodified":1449012749,
+    "wof:lastmodified":1466320486,
     "wof:name":"B & J Storage",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "special"
     ]
 },
-  "bbox": [-94.73698,36.598022,-94.73698,36.598022],
+  "bbox": [
+    -94.73698,
+    36.598022,
+    -94.73698,
+    36.598022
+],
   "geometry": {"coordinates":[-94.73698,36.598022],"type":"Point"}
 }

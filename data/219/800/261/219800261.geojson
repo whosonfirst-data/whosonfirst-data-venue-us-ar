@@ -2,13 +2,14 @@
   "id": 219800261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.532616,36.373609,-92.532616,36.373609",
     "geom:latitude":36.373609,
     "geom:longitude":-92.532616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"61 Frizzel Dr",
     "sg:city":"Lakeview",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219800261,
-    "wof:lastmodified":1449070667,
+    "wof:lastmodified":1466324951,
     "wof:name":"Bob Ward Construction Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "contractor"
     ]
 },
-  "bbox": [-92.532616,36.373609,-92.532616,36.373609],
+  "bbox": [
+    -92.532616,
+    36.373609,
+    -92.532616,
+    36.373609
+],
   "geometry": {"coordinates":[-92.532616,36.373609],"type":"Point"}
 }

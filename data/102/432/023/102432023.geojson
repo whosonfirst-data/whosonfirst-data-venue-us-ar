@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102432023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.853383,33.51858,-92.853383,33.51858",
     "geom:latitude":33.51858,
     "geom:longitude":-92.853383,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1240 N Charley's Loop Rd",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102432023,
-    "wof:lastmodified":1449067731,
+    "wof:lastmodified":1466325608,
     "wof:name":"Pedron Lake Hunting Club Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.853383,33.51858,-92.853383,33.51858],
-  "geometry": {"coordinates":[-92.853383,33.51858],"type":"Point"}
+  "bbox": [
+    -92.853383,
+    33.51858,
+    -92.853383,
+    33.51858
+],
+  "geometry": {"coordinates":[-92.85338299999999,33.51858],"type":"Point"}
 }

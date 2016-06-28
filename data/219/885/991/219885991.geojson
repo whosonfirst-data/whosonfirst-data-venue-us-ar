@@ -2,13 +2,14 @@
   "id": 219885991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.190399,36.3438,-94.190399,36.3438",
     "geom:latitude":36.3438,
     "geom:longitude":-94.190399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2710 Otis Corley Dr",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":219885991,
-    "wof:lastmodified":1449072254,
+    "wof:lastmodified":1466325069,
     "wof:name":"Winter Moving & Storage",
     "wof:parent_id":85895815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mover"
     ]
 },
-  "bbox": [-94.190399,36.3438,-94.190399,36.3438],
+  "bbox": [
+    -94.190399,
+    36.3438,
+    -94.190399,
+    36.3438
+],
   "geometry": {"coordinates":[-94.190399,36.3438],"type":"Point"}
 }

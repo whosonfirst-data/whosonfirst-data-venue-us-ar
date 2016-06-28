@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102366357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.33137,34.33067,-91.33137,34.33067",
     "geom:latitude":34.33067,
     "geom:longitude":-91.33137,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"854 McAdams Rd",
     "sg:city":"De Witt",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102366357,
-    "wof:lastmodified":1449069560,
+    "wof:lastmodified":1466324399,
     "wof:name":"Dixie Detail",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.33137,34.33067,-91.33137,34.33067],
-  "geometry": {"coordinates":[-91.33137,34.33067],"type":"Point"}
+  "bbox": [
+    -91.33137,
+    34.33067,
+    -91.33137,
+    34.33067
+],
+  "geometry": {"coordinates":[-91.33137000000001,34.33067],"type":"Point"}
 }

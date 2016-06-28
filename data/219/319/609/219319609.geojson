@@ -2,13 +2,14 @@
   "id": 219319609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.269012,34.388231,-93.269012,34.388231",
     "geom:latitude":34.388231,
     "geom:longitude":-93.269012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"225 Rockhouse Trl",
     "sg:city":"Pearcy",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219319609,
-    "wof:lastmodified":1449071828,
+    "wof:lastmodified":1466321890,
     "wof:name":"Looper Paint",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-93.269012,34.388231,-93.269012,34.388231],
+  "bbox": [
+    -93.269012,
+    34.388231,
+    -93.269012,
+    34.388231
+],
   "geometry": {"coordinates":[-93.269012,34.388231],"type":"Point"}
 }

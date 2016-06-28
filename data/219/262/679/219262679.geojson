@@ -2,13 +2,14 @@
   "id": 219262679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.031464,33.452789,-94.031464,33.452789",
     "geom:latitude":33.452789,
     "geom:longitude":-94.031464,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1103 E 32nd St",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219262679,
-    "wof:lastmodified":1449072582,
+    "wof:lastmodified":1466321427,
     "wof:name":"Narens' Tree Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-94.031464,33.452789,-94.031464,33.452789],
+  "bbox": [
+    -94.031464,
+    33.452789,
+    -94.031464,
+    33.452789
+],
   "geometry": {"coordinates":[-94.031464,33.452789],"type":"Point"}
 }

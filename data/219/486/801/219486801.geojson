@@ -2,13 +2,14 @@
   "id": 219486801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.210328,34.81131,-92.210328,34.81131",
     "geom:latitude":34.81131,
     "geom:longitude":-92.210328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"706 Beaconsfield Rd",
     "sg:city":"Sherwood",
     "sg:classifiers":[
@@ -69,10 +70,11 @@
         }
     ],
     "wof:id":219486801,
-    "wof:lastmodified":1449072343,
+    "wof:lastmodified":1466323783,
     "wof:name":"Air In A Day",
     "wof:parent_id":85852263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -86,6 +88,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-92.210328,34.81131,-92.210328,34.81131],
+  "bbox": [
+    -92.210328,
+    34.81131,
+    -92.210328,
+    34.81131
+],
   "geometry": {"coordinates":[-92.210328,34.81131],"type":"Point"}
 }

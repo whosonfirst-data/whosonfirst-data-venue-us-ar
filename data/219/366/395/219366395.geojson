@@ -2,13 +2,14 @@
   "id": 219366395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.070835,35.003426,-92.070835,35.003426",
     "geom:latitude":35.003426,
     "geom:longitude":-92.070835,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15351 Highway 5",
     "sg:city":"Cabot",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219366395,
-    "wof:lastmodified":1449072978,
+    "wof:lastmodified":1466322516,
     "wof:name":"Ben Maddox Photography",
     "wof:parent_id":85811577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "wedding"
     ]
 },
-  "bbox": [-92.070835,35.003426,-92.070835,35.003426],
+  "bbox": [
+    -92.070835,
+    35.003426,
+    -92.070835,
+    35.003426
+],
   "geometry": {"coordinates":[-92.070835,35.003426],"type":"Point"}
 }

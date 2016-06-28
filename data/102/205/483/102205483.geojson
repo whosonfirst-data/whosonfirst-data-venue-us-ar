@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102205483",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.262481,35.087544,-94.262481,35.087544",
     "geom:latitude":35.087544,
     "geom:longitude":-94.262481,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26002 US Hwy 71",
     "sg:city":"Huntington",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":"102205483",
-    "wof:lastmodified":1449069196,
+    "wof:lastmodified":1466320796,
     "wof:name":"Khamloune Syharath",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.262481,35.087544,-94.262481,35.087544],
-  "geometry": {"coordinates":[-94.262481,35.087544],"type":"Point"}
+  "bbox": [
+    -94.262481,
+    35.087544,
+    -94.262481,
+    35.087544
+],
+  "geometry": {"coordinates":[-94.26248099999999,35.087544],"type":"Point"}
 }

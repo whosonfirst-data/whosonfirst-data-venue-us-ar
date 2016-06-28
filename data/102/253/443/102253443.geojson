@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102253443",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.476431,36.315223,-91.476431,36.315223",
     "geom:latitude":36.315223,
     "geom:longitude":-91.476431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"647 Main St",
     "sg:city":"Hardy",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102253443",
-    "wof:lastmodified":1449069883,
+    "wof:lastmodified":1466321964,
     "wof:name":"Quincy's Corner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.476431,36.315223,-91.476431,36.315223],
-  "geometry": {"coordinates":[-91.476431,36.315223],"type":"Point"}
+  "bbox": [
+    -91.476431,
+    36.315223,
+    -91.476431,
+    36.315223
+],
+  "geometry": {"coordinates":[-91.47643100000001,36.315223],"type":"Point"}
 }

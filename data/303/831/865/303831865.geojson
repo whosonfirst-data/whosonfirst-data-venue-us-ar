@@ -2,13 +2,14 @@
   "id": 303831865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.435032,36.100106,-94.435032,36.100106",
     "geom:latitude":36.100106,
     "geom:longitude":-94.435032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19447 Hwy 244 N",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303831865,
-    "wof:lastmodified":1448999558,
+    "wof:lastmodified":1466320610,
     "wof:name":"Joe Crisler Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-94.435032,36.100106,-94.435032,36.100106],
-  "geometry": {"coordinates":[-94.435032,36.100106],"type":"Point"}
+  "bbox": [
+    -94.435032,
+    36.100106,
+    -94.435032,
+    36.100106
+],
+  "geometry": {"coordinates":[-94.43503200000001,36.100106],"type":"Point"}
 }

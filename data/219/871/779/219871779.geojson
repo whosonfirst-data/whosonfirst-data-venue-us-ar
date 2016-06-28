@@ -2,13 +2,14 @@
   "id": 219871779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.220171,36.360948,-94.220171,36.360948",
     "geom:latitude":36.360948,
     "geom:longitude":-94.220171,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"816 SW Raintree Ste 26",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":219871779,
-    "wof:lastmodified":1449071553,
+    "wof:lastmodified":1466324986,
     "wof:name":"Fantas Eyes Inc",
     "wof:parent_id":85895819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sunglass"
     ]
 },
-  "bbox": [-94.220171,36.360948,-94.220171,36.360948],
-  "geometry": {"coordinates":[-94.220171,36.360948],"type":"Point"}
+  "bbox": [
+    -94.220171,
+    36.360948,
+    -94.220171,
+    36.360948
+],
+  "geometry": {"coordinates":[-94.22017099999999,36.360948],"type":"Point"}
 }

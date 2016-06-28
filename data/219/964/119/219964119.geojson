@@ -2,13 +2,14 @@
   "id": 219964119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.145071,36.351602,-94.145071,36.351602",
     "geom:latitude":36.351602,
     "geom:longitude":-94.145071,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"806 N 20th Pl",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219964119,
-    "wof:lastmodified":1449073061,
+    "wof:lastmodified":1466325149,
     "wof:name":"Don Eckard Dds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.145071,36.351602,-94.145071,36.351602],
+  "bbox": [
+    -94.145071,
+    36.351602,
+    -94.145071,
+    36.351602
+],
   "geometry": {"coordinates":[-94.145071,36.351602],"type":"Point"}
 }

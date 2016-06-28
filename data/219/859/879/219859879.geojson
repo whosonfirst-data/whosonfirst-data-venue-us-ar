@@ -2,13 +2,14 @@
   "id": 219859879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.115211,36.102385,-94.115211,36.102385",
     "geom:latitude":36.102385,
     "geom:longitude":-94.115211,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3251 E Summershade Dr",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219859879,
-    "wof:lastmodified":1449072924,
+    "wof:lastmodified":1466325040,
     "wof:name":"Analyze This Incorporated",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "holding"
     ]
 },
-  "bbox": [-94.115211,36.102385,-94.115211,36.102385],
+  "bbox": [
+    -94.115211,
+    36.102385,
+    -94.115211,
+    36.102385
+],
   "geometry": {"coordinates":[-94.115211,36.102385],"type":"Point"}
 }

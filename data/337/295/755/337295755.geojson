@@ -2,13 +2,14 @@
   "id": 337295755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.299809,35.324571,-94.299809,35.324571",
     "geom:latitude":35.324571,
     "geom:longitude":-94.299809,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 Fort St",
     "sg:city":"Barling",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":337295755,
-    "wof:lastmodified":1449027256,
+    "wof:lastmodified":1466322195,
     "wof:name":"First National Bank Of Fort Smith Barling Bran",
     "wof:parent_id":85832863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "commercial"
     ]
 },
-  "bbox": [-94.299809,35.324571,-94.299809,35.324571],
+  "bbox": [
+    -94.299809,
+    35.324571,
+    -94.299809,
+    35.324571
+],
   "geometry": {"coordinates":[-94.299809,35.324571],"type":"Point"}
 }

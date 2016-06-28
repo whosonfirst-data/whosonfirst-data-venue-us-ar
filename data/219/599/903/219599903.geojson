@@ -2,13 +2,14 @@
   "id": 219599903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.219742,35.188591,-90.219742,35.188591",
     "geom:latitude":35.188591,
     "geom:longitude":-90.219742,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Mary Ann Pike Dr",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219599903,
-    "wof:lastmodified":1449072032,
+    "wof:lastmodified":1466324584,
     "wof:name":"A R Food Trading",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [-90.219742,35.188591,-90.219742,35.188591],
+  "bbox": [
+    -90.219742,
+    35.188591,
+    -90.219742,
+    35.188591
+],
   "geometry": {"coordinates":[-90.219742,35.188591],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219224897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.66951,33.645976,-93.66951,33.645976",
     "geom:latitude":33.645976,
     "geom:longitude":-93.66951,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3207 Highway 67 W",
     "sg:city":"Hope",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219224897,
-    "wof:lastmodified":1449072982,
+    "wof:lastmodified":1466321097,
     "wof:name":"Byreview Veterinary Clinic",
     "wof:parent_id":85806015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "specialty"
     ]
 },
-  "bbox": [-93.66951,33.645976,-93.66951,33.645976],
+  "bbox": [
+    -93.66951,
+    33.645976,
+    -93.66951,
+    33.645976
+],
   "geometry": {"coordinates":[-93.66951,33.645976],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220071381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.092084,35.253926,-93.092084,35.253926",
     "geom:latitude":35.253926,
     "geom:longitude":-93.092084,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2833 S Elmira Ave",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":220071381,
-    "wof:lastmodified":1449074549,
+    "wof:lastmodified":1466321387,
     "wof:name":"Perusse Trucking Co",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "trucking"
     ]
 },
-  "bbox": [-93.092084,35.253926,-93.092084,35.253926],
+  "bbox": [
+    -93.092084,
+    35.253926,
+    -93.092084,
+    35.253926
+],
   "geometry": {"coordinates":[-93.092084,35.253926],"type":"Point"}
 }

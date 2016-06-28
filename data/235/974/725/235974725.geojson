@@ -2,13 +2,14 @@
   "id": 235974725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.613844,35.241366,-94.613844,35.241366",
     "geom:latitude":35.241366,
     "geom:longitude":-94.613844,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 W Broadway St",
     "sg:city":"Spiro",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":235974725,
-    "wof:lastmodified":1449008555,
+    "wof:lastmodified":1466320461,
     "wof:name":"Tobler's Automobile Service Center",
     "wof:parent_id":85809847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.613844,35.241366,-94.613844,35.241366],
+  "bbox": [
+    -94.613844,
+    35.241366,
+    -94.613844,
+    35.241366
+],
   "geometry": {"coordinates":[-94.613844,35.241366],"type":"Point"}
 }

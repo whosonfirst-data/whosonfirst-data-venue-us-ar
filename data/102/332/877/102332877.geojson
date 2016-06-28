@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102332877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.725462,36.389836,-93.725462,36.389836",
     "geom:latitude":36.389836,
     "geom:longitude":-93.725462,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 Shelton Dr",
     "sg:city":"Eureka Springs",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102332877,
-    "wof:lastmodified":1449069077,
+    "wof:lastmodified":1466323768,
     "wof:name":"Pyatt Backhoe & Hauling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.725462,36.389836,-93.725462,36.389836],
-  "geometry": {"coordinates":[-93.725462,36.389836],"type":"Point"}
+  "bbox": [
+    -93.725462,
+    36.389836,
+    -93.725462,
+    36.389836
+],
+  "geometry": {"coordinates":[-93.72546199999999,36.389836],"type":"Point"}
 }

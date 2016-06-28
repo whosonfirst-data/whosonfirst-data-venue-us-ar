@@ -2,13 +2,14 @@
   "id": 219258415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.999488,33.376039,-93.999488,33.376039",
     "geom:latitude":33.376039,
     "geom:longitude":-93.999488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4108 Pasley Ln",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219258415,
-    "wof:lastmodified":1449073210,
+    "wof:lastmodified":1466321394,
     "wof:name":"Billy's Heating & Air Conditio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-93.999488,33.376039,-93.999488,33.376039],
+  "bbox": [
+    -93.999488,
+    33.376039,
+    -93.999488,
+    33.376039
+],
   "geometry": {"coordinates":[-93.999488,33.376039],"type":"Point"}
 }

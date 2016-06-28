@@ -2,13 +2,14 @@
   "id": 219826927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.183868,36.05661,-94.183868,36.05661",
     "geom:latitude":36.05661,
     "geom:longitude":-94.183868,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 W Martin Luther King Blvd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219826927,
-    "wof:lastmodified":1449072968,
+    "wof:lastmodified":1466324995,
     "wof:name":"Cellular 2000 Plus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "supply"
     ]
 },
-  "bbox": [-94.183868,36.05661,-94.183868,36.05661],
+  "bbox": [
+    -94.183868,
+    36.05661,
+    -94.183868,
+    36.05661
+],
   "geometry": {"coordinates":[-94.183868,36.05661],"type":"Point"}
 }

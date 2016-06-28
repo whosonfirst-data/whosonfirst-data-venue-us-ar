@@ -2,13 +2,14 @@
   "id": 353694529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.568249,36.211183,-94.568249,36.211183",
     "geom:latitude":36.211183,
     "geom:longitude":-94.568249,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24070 Sequoyah Rd",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":353694529,
-    "wof:lastmodified":1449018986,
+    "wof:lastmodified":1466320485,
     "wof:name":"Spavinaw Millworks LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-94.568249,36.211183,-94.568249,36.211183],
-  "geometry": {"coordinates":[-94.568249,36.211183],"type":"Point"}
+  "bbox": [
+    -94.568249,
+    36.211183,
+    -94.568249,
+    36.211183
+],
+  "geometry": {"coordinates":[-94.56824899999999,36.211183],"type":"Point"}
 }

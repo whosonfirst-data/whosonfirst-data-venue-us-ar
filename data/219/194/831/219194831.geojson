@@ -2,13 +2,14 @@
   "id": 219194831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.265765,33.060791,-93.265765,33.060791",
     "geom:latitude":33.060791,
     "geom:longitude":-93.265765,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"710 Columbia Road 81",
     "sg:city":"Emerson",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219194831,
-    "wof:lastmodified":1449073405,
+    "wof:lastmodified":1466320819,
     "wof:name":"R & M Vacuum Service Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "bureau"
     ]
 },
-  "bbox": [-93.265765,33.060791,-93.265765,33.060791],
+  "bbox": [
+    -93.265765,
+    33.060791,
+    -93.265765,
+    33.060791
+],
   "geometry": {"coordinates":[-93.265765,33.060791],"type":"Point"}
 }

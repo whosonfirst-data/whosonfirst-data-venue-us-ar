@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102409789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.157502,36.145777,-94.157502,36.145777",
     "geom:latitude":36.145777,
     "geom:longitude":-94.157502,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4208 Johnson Rd",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":102409789,
-    "wof:lastmodified":1449068765,
+    "wof:lastmodified":1466325225,
     "wof:name":"Gruard Tronic Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.157502,36.145777,-94.157502,36.145777],
-  "geometry": {"coordinates":[-94.157502,36.145777],"type":"Point"}
+  "bbox": [
+    -94.157502,
+    36.145777,
+    -94.157502,
+    36.145777
+],
+  "geometry": {"coordinates":[-94.15750199999999,36.145777],"type":"Point"}
 }

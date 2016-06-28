@@ -2,13 +2,14 @@
   "id": 219875367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.195074,36.34017,-94.195074,36.34017",
     "geom:latitude":36.34017,
     "geom:longitude":-94.195074,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1202 SE 30th St",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -73,10 +74,11 @@
         }
     ],
     "wof:id":219875367,
-    "wof:lastmodified":1449073027,
+    "wof:lastmodified":1466324994,
     "wof:name":"Bradford House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -91,6 +93,11 @@
         "physical"
     ]
 },
-  "bbox": [-94.195074,36.34017,-94.195074,36.34017],
-  "geometry": {"coordinates":[-94.195074,36.34017],"type":"Point"}
+  "bbox": [
+    -94.195074,
+    36.34017,
+    -94.195074,
+    36.34017
+],
+  "geometry": {"coordinates":[-94.19507400000001,36.34017],"type":"Point"}
 }

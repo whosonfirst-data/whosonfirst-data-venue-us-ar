@@ -2,13 +2,14 @@
   "id": 203421707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.261917,33.108827,-91.261917,33.108827",
     "geom:latitude":33.108827,
     "geom:longitude":-91.261917,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"239 S Main St",
     "sg:city":"Eudora",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203421707,
-    "wof:lastmodified":1449026178,
+    "wof:lastmodified":1466320618,
     "wof:name":"Judiciary Courts Of The State Of Arkansas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "justice"
     ]
 },
-  "bbox": [-91.261917,33.108827,-91.261917,33.108827],
+  "bbox": [
+    -91.261917,
+    33.108827,
+    -91.261917,
+    33.108827
+],
   "geometry": {"coordinates":[-91.261917,33.108827],"type":"Point"}
 }

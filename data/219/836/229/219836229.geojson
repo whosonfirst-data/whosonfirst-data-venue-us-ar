@@ -2,13 +2,14 @@
   "id": 219836229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.186204,35.994648,-94.186204,35.994648",
     "geom:latitude":35.994648,
     "geom:longitude":-94.186204,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"58 N Usa Dr",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219836229,
-    "wof:lastmodified":1449072719,
+    "wof:lastmodified":1466325007,
     "wof:name":"Pixie Tails Boutique",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "boutique"
     ]
 },
-  "bbox": [-94.186204,35.994648,-94.186204,35.994648],
+  "bbox": [
+    -94.186204,
+    35.994648,
+    -94.186204,
+    35.994648
+],
   "geometry": {"coordinates":[-94.186204,35.994648],"type":"Point"}
 }

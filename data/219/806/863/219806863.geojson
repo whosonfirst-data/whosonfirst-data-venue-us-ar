@@ -2,13 +2,14 @@
   "id": 219806863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.300497,36.482378,-93.300497,36.482378",
     "geom:latitude":36.482378,
     "geom:longitude":-93.300497,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20515 Boat Dock Rd",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":219806863,
-    "wof:lastmodified":1449070371,
+    "wof:lastmodified":1466324963,
     "wof:name":"Cricket Creek Marina",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "bait"
     ]
 },
-  "bbox": [-93.300497,36.482378,-93.300497,36.482378],
-  "geometry": {"coordinates":[-93.300497,36.482378],"type":"Point"}
+  "bbox": [
+    -93.300497,
+    36.482378,
+    -93.300497,
+    36.482378
+],
+  "geometry": {"coordinates":[-93.30049699999999,36.482378],"type":"Point"}
 }

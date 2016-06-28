@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102344035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.148337,36.136515,-94.148337,36.136515",
     "geom:latitude":36.136515,
     "geom:longitude":-94.148337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 Harris Ln",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885433,
+        85688549,
         85633793,
         85919609,
         102082007,
-        85688549
+        85885433
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102344035,
-    "wof:lastmodified":1449067900,
+    "wof:lastmodified":1466323846,
     "wof:name":"Don Guthery & Associates",
     "wof:parent_id":85885433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.148337,36.136515,-94.148337,36.136515],
+  "bbox": [
+    -94.148337,
+    36.136515,
+    -94.148337,
+    36.136515
+],
   "geometry": {"coordinates":[-94.148337,36.136515],"type":"Point"}
 }

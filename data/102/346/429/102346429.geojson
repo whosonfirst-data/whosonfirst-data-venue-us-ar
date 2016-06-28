@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102346429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.305242,35.89032,-90.305242,35.89032",
     "geom:latitude":35.89032,
     "geom:longitude":-90.305242,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"382 Co Rd 575",
     "sg:city":"Monette",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102346429,
-    "wof:lastmodified":1449067757,
+    "wof:lastmodified":1466324007,
     "wof:name":"Lloyd Bibb & Sons Septic Tank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.305242,35.89032,-90.305242,35.89032],
-  "geometry": {"coordinates":[-90.305242,35.89032],"type":"Point"}
+  "bbox": [
+    -90.305242,
+    35.89032,
+    -90.305242,
+    35.89032
+],
+  "geometry": {"coordinates":[-90.30524200000001,35.89032],"type":"Point"}
 }

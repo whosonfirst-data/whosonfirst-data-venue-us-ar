@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102250023",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.00522,34.229534,-92.00522,34.229534",
     "geom:latitude":34.229534,
     "geom:longitude":-92.00522,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"219 W Barraque St",
     "sg:city":"Pine Bluff",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102250023",
-    "wof:lastmodified":1449069120,
+    "wof:lastmodified":1466321813,
     "wof:name":"Tom Fitts Tobacco Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.00522,34.229534,-92.00522,34.229534],
-  "geometry": {"coordinates":[-92.00522,34.229534],"type":"Point"}
+  "bbox": [
+    -92.00522,
+    34.229534,
+    -92.00522,
+    34.229534
+],
+  "geometry": {"coordinates":[-92.00521999999999,34.229534],"type":"Point"}
 }

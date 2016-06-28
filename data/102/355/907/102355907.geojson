@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102355907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.109558,36.099553,-94.109558,36.099553",
     "geom:latitude":36.099553,
     "geom:longitude":-94.109558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2780 N Surrey Xing",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102355907,
-    "wof:lastmodified":1449068453,
+    "wof:lastmodified":1466324260,
     "wof:name":"Direct Imports Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.109558,36.099553,-94.109558,36.099553],
-  "geometry": {"coordinates":[-94.109558,36.099553],"type":"Point"}
+  "bbox": [
+    -94.109558,
+    36.099553,
+    -94.109558,
+    36.099553
+],
+  "geometry": {"coordinates":[-94.10955800000001,36.099553],"type":"Point"}
 }

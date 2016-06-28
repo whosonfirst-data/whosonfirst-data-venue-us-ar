@@ -2,13 +2,14 @@
   "id": 219232015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.097328,33.674595,-94.097328,33.674595",
     "geom:latitude":33.674595,
     "geom:longitude":-94.097328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"146 Highway 32 E 2A",
     "sg:city":"Ashdown",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219232015,
-    "wof:lastmodified":1449071534,
+    "wof:lastmodified":1466321188,
     "wof:name":"Bowman, Dean",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-94.097328,33.674595,-94.097328,33.674595],
+  "bbox": [
+    -94.097328,
+    33.674595,
+    -94.097328,
+    33.674595
+],
   "geometry": {"coordinates":[-94.097328,33.674595],"type":"Point"}
 }

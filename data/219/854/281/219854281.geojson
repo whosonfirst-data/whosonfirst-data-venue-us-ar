@@ -2,13 +2,14 @@
   "id": 219854281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.127028,36.101982,-94.127028,36.101982",
     "geom:latitude":36.101982,
     "geom:longitude":-94.127028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2841 N Old Wire Rd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219854281,
-    "wof:lastmodified":1449073786,
+    "wof:lastmodified":1466325036,
     "wof:name":"Added Touch Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-94.127028,36.101982,-94.127028,36.101982],
+  "bbox": [
+    -94.127028,
+    36.101982,
+    -94.127028,
+    36.101982
+],
   "geometry": {"coordinates":[-94.127028,36.101982],"type":"Point"}
 }

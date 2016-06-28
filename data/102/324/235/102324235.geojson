@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102324235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.041734,33.426085,-94.041734,33.426085",
     "geom:latitude":33.426085,
     "geom:longitude":-94.041734,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"506 Walnut St",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102324235,
-    "wof:lastmodified":1449069148,
+    "wof:lastmodified":1466323500,
     "wof:name":"CMS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.041734,33.426085,-94.041734,33.426085],
-  "geometry": {"coordinates":[-94.041734,33.426085],"type":"Point"}
+  "bbox": [
+    -94.041734,
+    33.426085,
+    -94.041734,
+    33.426085
+],
+  "geometry": {"coordinates":[-94.04173400000001,33.426085],"type":"Point"}
 }

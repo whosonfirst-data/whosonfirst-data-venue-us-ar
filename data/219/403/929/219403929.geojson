@@ -2,13 +2,14 @@
   "id": 219403929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.440687,35.085039,-92.440687,35.085039",
     "geom:latitude":35.085039,
     "geom:longitude":-92.440687,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"515 Locust St",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219403929,
-    "wof:lastmodified":1449073417,
+    "wof:lastmodified":1466322881,
     "wof:name":"Stroud, James Douglas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-92.440687,35.085039,-92.440687,35.085039],
+  "bbox": [
+    -92.440687,
+    35.085039,
+    -92.440687,
+    35.085039
+],
   "geometry": {"coordinates":[-92.440687,35.085039],"type":"Point"}
 }

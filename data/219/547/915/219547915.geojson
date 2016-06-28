@@ -2,13 +2,14 @@
   "id": 219547915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.67865,35.31538,-92.67865,35.31538",
     "geom:latitude":35.31538,
     "geom:longitude":-92.67865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2691 Highway 287",
     "sg:city":"Solgohachia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219547915,
-    "wof:lastmodified":1449070747,
+    "wof:lastmodified":1466324314,
     "wof:name":"Mayberry Farms Inc",
     "wof:parent_id":85850611,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rabbit"
     ]
 },
-  "bbox": [-92.67865,35.31538,-92.67865,35.31538],
+  "bbox": [
+    -92.67865,
+    35.31538,
+    -92.67865,
+    35.31538
+],
   "geometry": {"coordinates":[-92.67865,35.31538],"type":"Point"}
 }

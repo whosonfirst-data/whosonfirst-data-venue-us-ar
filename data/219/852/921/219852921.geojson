@@ -2,13 +2,14 @@
   "id": 219852921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.149918,36.114288,-94.149918,36.114288",
     "geom:latitude":36.114288,
     "geom:longitude":-94.149918,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"594 E Millsap Rd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":219852921,
-    "wof:lastmodified":1449073319,
+    "wof:lastmodified":1466325123,
     "wof:name":"Northwest Arkansas Retina",
     "wof:parent_id":85885431,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "ophthalmology"
     ]
 },
-  "bbox": [-94.149918,36.114288,-94.149918,36.114288],
+  "bbox": [
+    -94.149918,
+    36.114288,
+    -94.149918,
+    36.114288
+],
   "geometry": {"coordinates":[-94.149918,36.114288],"type":"Point"}
 }

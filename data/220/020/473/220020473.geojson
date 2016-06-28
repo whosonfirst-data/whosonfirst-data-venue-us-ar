@@ -2,13 +2,14 @@
   "id": 220020473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.150223,36.170794,-94.150223,36.170794",
     "geom:latitude":36.170794,
     "geom:longitude":-94.150223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1807 Princeton Ave",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220020473,
-    "wof:lastmodified":1449074393,
+    "wof:lastmodified":1466320492,
     "wof:name":"Southwest Junior High School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "middle"
     ]
 },
-  "bbox": [-94.150223,36.170794,-94.150223,36.170794],
+  "bbox": [
+    -94.150223,
+    36.170794,
+    -94.150223,
+    36.170794
+],
   "geometry": {"coordinates":[-94.150223,36.170794],"type":"Point"}
 }

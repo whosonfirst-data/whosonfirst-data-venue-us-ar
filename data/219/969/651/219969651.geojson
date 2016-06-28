@@ -2,13 +2,14 @@
   "id": 219969651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.135696,36.333698,-94.135696,36.333698",
     "geom:latitude":36.333698,
     "geom:longitude":-94.135696,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1311 W Walnut St",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219969651,
-    "wof:lastmodified":1449071242,
+    "wof:lastmodified":1466325278,
     "wof:name":"Advanced Carpet Care & Janitorial",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carpet"
     ]
 },
-  "bbox": [-94.135696,36.333698,-94.135696,36.333698],
+  "bbox": [
+    -94.135696,
+    36.333698,
+    -94.135696,
+    36.333698
+],
   "geometry": {"coordinates":[-94.135696,36.333698],"type":"Point"}
 }

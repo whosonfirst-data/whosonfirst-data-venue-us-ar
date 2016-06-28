@@ -2,13 +2,14 @@
   "id": 219763357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.134591,36.241397,-93.134591,36.241397",
     "geom:latitude":36.241397,
     "geom:longitude":-93.134591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1020 Goblin Dr Suites A & B",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219763357,
-    "wof:lastmodified":1449073903,
+    "wof:lastmodified":1466324919,
     "wof:name":"Harrison Revenue Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "village"
     ]
 },
-  "bbox": [-93.134591,36.241397,-93.134591,36.241397],
+  "bbox": [
+    -93.134591,
+    36.241397,
+    -93.134591,
+    36.241397
+],
   "geometry": {"coordinates":[-93.134591,36.241397],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219249131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.842991,33.977592,-93.842991,33.977592",
     "geom:latitude":33.977592,
     "geom:longitude":-93.842991,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2571 Highway 980",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219249131,
-    "wof:lastmodified":1449070561,
+    "wof:lastmodified":1466321325,
     "wof:name":"Staggs Poultry Supply Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-93.842991,33.977592,-93.842991,33.977592],
+  "bbox": [
+    -93.842991,
+    33.977592,
+    -93.842991,
+    33.977592
+],
   "geometry": {"coordinates":[-93.842991,33.977592],"type":"Point"}
 }

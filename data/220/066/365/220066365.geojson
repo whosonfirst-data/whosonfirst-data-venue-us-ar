@@ -2,13 +2,14 @@
   "id": 220066365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.129509,35.277,-93.129509,35.277",
     "geom:latitude":35.277,
     "geom:longitude":-93.129509,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 E 2nd St",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":220066365,
-    "wof:lastmodified":1449074247,
+    "wof:lastmodified":1466321223,
     "wof:name":"Plumbing Sales & Service",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-93.129509,35.277,-93.129509,35.277],
+  "bbox": [
+    -93.129509,
+    35.277,
+    -93.129509,
+    35.277
+],
   "geometry": {"coordinates":[-93.129509,35.277],"type":"Point"}
 }

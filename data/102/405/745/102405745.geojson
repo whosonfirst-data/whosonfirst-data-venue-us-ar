@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102405745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.257995,35.930807,-90.257995,35.930807",
     "geom:latitude":35.930807,
     "geom:longitude":-90.257995,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 S Main St",
     "sg:city":"Leachville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102405745,
-    "wof:lastmodified":1449069996,
+    "wof:lastmodified":1466325064,
     "wof:name":"Mc Coy's Transportation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.257995,35.930807,-90.257995,35.930807],
-  "geometry": {"coordinates":[-90.257995,35.930807],"type":"Point"}
+  "bbox": [
+    -90.257995,
+    35.930807,
+    -90.257995,
+    35.930807
+],
+  "geometry": {"coordinates":[-90.25799499999999,35.930807],"type":"Point"}
 }

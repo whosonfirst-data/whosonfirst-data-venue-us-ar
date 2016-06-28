@@ -2,13 +2,14 @@
   "id": 219472199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.749629,35.153651,-92.749629,35.153651",
     "geom:latitude":35.153651,
     "geom:longitude":-92.749629,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 Lane St",
     "sg:city":"Morrilton",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219472199,
-    "wof:lastmodified":1449070662,
+    "wof:lastmodified":1466323603,
     "wof:name":"Acklin Drilling Company Incorporated",
     "wof:parent_id":85850611,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-92.749629,35.153651,-92.749629,35.153651],
+  "bbox": [
+    -92.749629,
+    35.153651,
+    -92.749629,
+    35.153651
+],
   "geometry": {"coordinates":[-92.749629,35.153651],"type":"Point"}
 }

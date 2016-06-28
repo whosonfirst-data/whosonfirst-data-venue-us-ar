@@ -2,13 +2,14 @@
   "id": 219883675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.195136,36.342621,-94.195136,36.342621",
     "geom:latitude":36.342621,
     "geom:longitude":-94.195136,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 SE 28th St",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219883675,
-    "wof:lastmodified":1449073099,
+    "wof:lastmodified":1466325069,
     "wof:name":"Graebel Oklahoma",
     "wof:parent_id":85895815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trucking"
     ]
 },
-  "bbox": [-94.195136,36.342621,-94.195136,36.342621],
-  "geometry": {"coordinates":[-94.195136,36.342621],"type":"Point"}
+  "bbox": [
+    -94.195136,
+    36.342621,
+    -94.195136,
+    36.342621
+],
+  "geometry": {"coordinates":[-94.19513600000001,36.342621],"type":"Point"}
 }

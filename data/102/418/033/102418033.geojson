@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102418033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.24819,33.289845,-93.24819,33.289845",
     "geom:latitude":33.289845,
     "geom:longitude":-93.24819,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2220 N Vine St",
     "sg:city":"Magnolia",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102418033,
-    "wof:lastmodified":1449069657,
+    "wof:lastmodified":1466325272,
     "wof:name":"Horizon Vending Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.24819,33.289845,-93.24819,33.289845],
-  "geometry": {"coordinates":[-93.24819,33.289845],"type":"Point"}
+  "bbox": [
+    -93.24819,
+    33.289845,
+    -93.24819,
+    33.289845
+],
+  "geometry": {"coordinates":[-93.24818999999999,33.289845],"type":"Point"}
 }

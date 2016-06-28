@@ -2,13 +2,14 @@
   "id": 219206587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.215371,33.269895,-93.215371,33.269895",
     "geom:latitude":33.269895,
     "geom:longitude":-93.215371,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39 Highway 79 N",
     "sg:city":"Magnolia",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219206587,
-    "wof:lastmodified":1449072782,
+    "wof:lastmodified":1466320925,
     "wof:name":"Adams Candy Ofc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "planner"
     ]
 },
-  "bbox": [-93.215371,33.269895,-93.215371,33.269895],
+  "bbox": [
+    -93.215371,
+    33.269895,
+    -93.215371,
+    33.269895
+],
   "geometry": {"coordinates":[-93.215371,33.269895],"type":"Point"}
 }

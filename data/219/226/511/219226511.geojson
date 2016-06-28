@@ -2,13 +2,14 @@
   "id": 219226511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.540548,33.69658,-93.540548,33.69658",
     "geom:latitude":33.69658,
     "geom:longitude":-93.540548,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"179 Hempstead 246",
     "sg:city":"Hope",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":219226511,
-    "wof:lastmodified":1449072960,
+    "wof:lastmodified":1466321128,
     "wof:name":"Mt Olive Baptist Church",
     "wof:parent_id":85820749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "churches-baptist"
     ]
 },
-  "bbox": [-93.540548,33.69658,-93.540548,33.69658],
+  "bbox": [
+    -93.540548,
+    33.69658,
+    -93.540548,
+    33.69658
+],
   "geometry": {"coordinates":[-93.540548,33.69658],"type":"Point"}
 }

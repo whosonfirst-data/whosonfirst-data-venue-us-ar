@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102320383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.176559,34.839593,-92.176559,34.839593",
     "geom:latitude":34.839593,
     "geom:longitude":-92.176559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8709 Indianhead Dr",
     "sg:city":"North Little Rock",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837729,
+        85688549,
         85633793,
         85921251,
         102082497,
-        85688549
+        85837729
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102320383,
-    "wof:lastmodified":1449068398,
+    "wof:lastmodified":1466323413,
     "wof:name":"Cs D Services",
     "wof:parent_id":85837729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.176559,34.839593,-92.176559,34.839593],
+  "bbox": [
+    -92.176559,
+    34.839593,
+    -92.176559,
+    34.839593
+],
   "geometry": {"coordinates":[-92.176559,34.839593],"type":"Point"}
 }

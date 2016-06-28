@@ -2,13 +2,14 @@
   "id": 219594503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.822209,34.660112,-90.822209,34.660112",
     "geom:latitude":34.660112,
     "geom:longitude":-90.822209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 W Pearl St",
     "sg:city":"Lexa",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219594503,
-    "wof:lastmodified":1449070905,
+    "wof:lastmodified":1466324581,
     "wof:name":"M A Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "trucking"
     ]
 },
-  "bbox": [-90.822209,34.660112,-90.822209,34.660112],
+  "bbox": [
+    -90.822209,
+    34.660112,
+    -90.822209,
+    34.660112
+],
   "geometry": {"coordinates":[-90.822209,34.660112],"type":"Point"}
 }

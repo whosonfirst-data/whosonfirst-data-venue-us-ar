@@ -2,13 +2,14 @@
   "id": 219612785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.359145,35.399282,-90.359145,35.399282",
     "geom:latitude":35.399282,
     "geom:longitude":-90.359145,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11284 State Highway 118",
     "sg:city":"Turrell",
     "sg:classifiers":[
@@ -53,16 +54,22 @@
         }
     ],
     "wof:id":219612785,
-    "wof:lastmodified":1449071954,
+    "wof:lastmodified":1466324601,
     "wof:name":"The Body Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "perfume"
     ]
 },
-  "bbox": [-90.359145,35.399282,-90.359145,35.399282],
+  "bbox": [
+    -90.359145,
+    35.399282,
+    -90.359145,
+    35.399282
+],
   "geometry": {"coordinates":[-90.359145,35.399282],"type":"Point"}
 }

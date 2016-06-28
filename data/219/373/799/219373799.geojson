@@ -2,13 +2,14 @@
   "id": 219373799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.453078,35.565536,-92.453078,35.565536",
     "geom:latitude":35.565536,
     "geom:longitude":-92.453078,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"175 Volunteer Pkwy",
     "sg:city":"Clinton",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219373799,
-    "wof:lastmodified":1449072212,
+    "wof:lastmodified":1466322618,
     "wof:name":"Zimmerman, Stacy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-92.453078,35.565536,-92.453078,35.565536],
+  "bbox": [
+    -92.453078,
+    35.565536,
+    -92.453078,
+    35.565536
+],
   "geometry": {"coordinates":[-92.453078,35.565536],"type":"Point"}
 }

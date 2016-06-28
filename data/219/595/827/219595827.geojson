@@ -2,13 +2,14 @@
   "id": 219595827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.752269,34.76667,-90.752269,34.76667",
     "geom:latitude":34.76667,
     "geom:longitude":-90.752269,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"252 Shelby Dr",
     "sg:city":"Marianna",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219595827,
-    "wof:lastmodified":1449073574,
+    "wof:lastmodified":1466324806,
     "wof:name":"World Class Luggage Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-90.752269,34.76667,-90.752269,34.76667],
+  "bbox": [
+    -90.752269,
+    34.76667,
+    -90.752269,
+    34.76667
+],
   "geometry": {"coordinates":[-90.752269,34.76667],"type":"Point"}
 }

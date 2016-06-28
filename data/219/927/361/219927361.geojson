@@ -2,13 +2,14 @@
   "id": 219927361,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.441416,36.423354,-94.441416,36.423354",
     "geom:latitude":36.423354,
     "geom:longitude":-94.441416,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"127 Main St SE",
     "sg:city":"Gravette",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219927361,
-    "wof:lastmodified":1449073549,
+    "wof:lastmodified":1466325151,
     "wof:name":"Allstar Pizza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pizza"
     ]
 },
-  "bbox": [-94.441416,36.423354,-94.441416,36.423354],
+  "bbox": [
+    -94.441416,
+    36.423354,
+    -94.441416,
+    36.423354
+],
   "geometry": {"coordinates":[-94.441416,36.423354],"type":"Point"}
 }

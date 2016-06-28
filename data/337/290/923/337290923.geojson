@@ -2,13 +2,14 @@
   "id": 337290923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.099301,34.883255,-92.099301,34.883255",
     "geom:latitude":34.883255,
     "geom:longitude":-92.099301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1004 Barbara St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337290923,
-    "wof:lastmodified":1449027289,
+    "wof:lastmodified":1466322042,
     "wof:name":"Mary Coleman",
     "wof:parent_id":85852337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-92.099301,34.883255,-92.099301,34.883255],
+  "bbox": [
+    -92.099301,
+    34.883255,
+    -92.099301,
+    34.883255
+],
   "geometry": {"coordinates":[-92.099301,34.883255],"type":"Point"}
 }

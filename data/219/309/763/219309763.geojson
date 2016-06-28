@@ -2,13 +2,14 @@
   "id": 219309763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.084958,34.584404,-94.084958,34.584404",
     "geom:latitude":34.584404,
     "geom:longitude":-94.084958,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2710 Highway 88 E",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219309763,
-    "wof:lastmodified":1449071186,
+    "wof:lastmodified":1466321814,
     "wof:name":"J & N Dozer & Dump Truck Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truck"
     ]
 },
-  "bbox": [-94.084958,34.584404,-94.084958,34.584404],
+  "bbox": [
+    -94.084958,
+    34.584404,
+    -94.084958,
+    34.584404
+],
   "geometry": {"coordinates":[-94.084958,34.584404],"type":"Point"}
 }

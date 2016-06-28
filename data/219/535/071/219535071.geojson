@@ -2,13 +2,14 @@
   "id": 219535071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.714348,35.23482,-91.714348,35.23482",
     "geom:latitude":35.23482,
     "geom:longitude":-91.714348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1120 Benton St",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219535071,
-    "wof:lastmodified":1449071035,
+    "wof:lastmodified":1466324220,
     "wof:name":"Access Medical Sales & Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "oxygen"
     ]
 },
-  "bbox": [-91.714348,35.23482,-91.714348,35.23482],
+  "bbox": [
+    -91.714348,
+    35.23482,
+    -91.714348,
+    35.23482
+],
   "geometry": {"coordinates":[-91.714348,35.23482],"type":"Point"}
 }

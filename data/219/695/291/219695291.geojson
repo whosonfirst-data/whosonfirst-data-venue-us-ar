@@ -2,13 +2,14 @@
   "id": 219695291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.505276,36.044088,-90.505276,36.044088",
     "geom:latitude":36.044088,
     "geom:longitude":-90.505276,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1404 Clover Cir",
     "sg:city":"Paragould",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":219695291,
-    "wof:lastmodified":1449071725,
+    "wof:lastmodified":1466324729,
     "wof:name":"John Stage Body Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "repairing"
     ]
 },
-  "bbox": [-90.505276,36.044088,-90.505276,36.044088],
-  "geometry": {"coordinates":[-90.505276,36.044088],"type":"Point"}
+  "bbox": [
+    -90.505276,
+    36.044088,
+    -90.505276,
+    36.044088
+],
+  "geometry": {"coordinates":[-90.50527599999999,36.044088],"type":"Point"}
 }

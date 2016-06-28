@@ -2,13 +2,14 @@
   "id": 219643449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.624389,35.812881,-90.624389,35.812881",
     "geom:latitude":35.812881,
     "geom:longitude":-90.624389,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2604 Commerce Dr",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219643449,
-    "wof:lastmodified":1449073445,
+    "wof:lastmodified":1466324667,
     "wof:name":"Smurfit Stone Container",
     "wof:parent_id":85836541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-90.624389,35.812881,-90.624389,35.812881],
-  "geometry": {"coordinates":[-90.624389,35.812881],"type":"Point"}
+  "bbox": [
+    -90.624389,
+    35.812881,
+    -90.624389,
+    35.812881
+],
+  "geometry": {"coordinates":[-90.62438899999999,35.812881],"type":"Point"}
 }

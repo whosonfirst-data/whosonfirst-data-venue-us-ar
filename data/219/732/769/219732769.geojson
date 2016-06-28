@@ -2,13 +2,14 @@
   "id": 219732769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.62092,35.765947,-91.62092,35.765947",
     "geom:latitude":35.765947,
     "geom:longitude":-91.62092,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2860 Harrison St",
     "sg:city":"Batesville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219732769,
-    "wof:lastmodified":1449074043,
+    "wof:lastmodified":1466324900,
     "wof:name":"Buchanan, James P",
     "wof:parent_id":85808231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.62092,35.765947,-91.62092,35.765947],
+  "bbox": [
+    -91.62092,
+    35.765947,
+    -91.62092,
+    35.765947
+],
   "geometry": {"coordinates":[-91.62092,35.765947],"type":"Point"}
 }

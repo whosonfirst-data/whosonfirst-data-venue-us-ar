@@ -2,13 +2,14 @@
   "id": 219729001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.8007,35.764615,-91.8007,35.764615",
     "geom:latitude":35.764615,
     "geom:longitude":-91.8007,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"57 Parakeet Ln",
     "sg:city":"Batesville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219729001,
-    "wof:lastmodified":1449072160,
+    "wof:lastmodified":1466324970,
     "wof:name":"B N B Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.8007,35.764615,-91.8007,35.764615],
-  "geometry": {"coordinates":[-91.8007,35.764615],"type":"Point"}
+  "bbox": [
+    -91.8007,
+    35.764615,
+    -91.8007,
+    35.764615
+],
+  "geometry": {"coordinates":[-91.80070000000001,35.764615],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219284533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.094467,34.050171,-93.094467,34.050171",
     "geom:latitude":34.050171,
     "geom:longitude":-93.094467,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Scroll Dr",
     "sg:city":"Arkadelphia",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219284533,
-    "wof:lastmodified":1449072586,
+    "wof:lastmodified":1466321605,
     "wof:name":"Scroll Technologies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "technology-research"
     ]
 },
-  "bbox": [-93.094467,34.050171,-93.094467,34.050171],
-  "geometry": {"coordinates":[-93.094467,34.050171],"type":"Point"}
+  "bbox": [
+    -93.094467,
+    34.050171,
+    -93.094467,
+    34.050171
+],
+  "geometry": {"coordinates":[-93.09446699999999,34.050171],"type":"Point"}
 }

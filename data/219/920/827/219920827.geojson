@@ -2,13 +2,14 @@
   "id": 219920827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.485233,36.257299,-94.485233,36.257299",
     "geom:latitude":36.257299,
     "geom:longitude":-94.485233,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1021 S Gentry Blvd",
     "sg:city":"Gentry",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219920827,
-    "wof:lastmodified":1449073130,
+    "wof:lastmodified":1466325140,
     "wof:name":"The Wooden Spoon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.485233,36.257299,-94.485233,36.257299],
-  "geometry": {"coordinates":[-94.485233,36.257299],"type":"Point"}
+  "bbox": [
+    -94.485233,
+    36.257299,
+    -94.485233,
+    36.257299
+],
+  "geometry": {"coordinates":[-94.48523299999999,36.257299],"type":"Point"}
 }

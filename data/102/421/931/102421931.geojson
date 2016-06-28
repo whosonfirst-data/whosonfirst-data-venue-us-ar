@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102421931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.343106,35.267105,-92.343106,35.267105",
     "geom:latitude":35.267105,
     "geom:longitude":-92.343106,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"98 Mill Stone Dr",
     "sg:city":"Greenbrier",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":102421931,
-    "wof:lastmodified":1449069295,
+    "wof:lastmodified":1466325485,
     "wof:name":"Paul Black",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.343106,35.267105,-92.343106,35.267105],
-  "geometry": {"coordinates":[-92.343106,35.267105],"type":"Point"}
+  "bbox": [
+    -92.343106,
+    35.267105,
+    -92.343106,
+    35.267105
+],
+  "geometry": {"coordinates":[-92.34310600000001,35.267105],"type":"Point"}
 }

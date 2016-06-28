@@ -2,13 +2,14 @@
   "id": 219188515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.833937,33.576629,-92.833937,33.576629",
     "geom:latitude":33.576629,
     "geom:longitude":-92.833937,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"439 California Ave SW",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219188515,
-    "wof:lastmodified":1449072128,
+    "wof:lastmodified":1466320709,
     "wof:name":"Nutt, C Don Chiropractic Clinic",
     "wof:parent_id":85813169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "chiropractic"
     ]
 },
-  "bbox": [-92.833937,33.576629,-92.833937,33.576629],
-  "geometry": {"coordinates":[-92.833937,33.576629],"type":"Point"}
+  "bbox": [
+    -92.833937,
+    33.576629,
+    -92.833937,
+    33.576629
+],
+  "geometry": {"coordinates":[-92.83393700000001,33.576629],"type":"Point"}
 }

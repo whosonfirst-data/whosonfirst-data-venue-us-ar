@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102431021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.408146,35.093576,-92.408146,35.093576",
     "geom:latitude":35.093576,
     "geom:longitude":-92.408146,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Brookside Dr",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102431021,
-    "wof:lastmodified":1449068135,
+    "wof:lastmodified":1466325597,
     "wof:name":"Brookside Mobile Village",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.408146,35.093576,-92.408146,35.093576],
+  "bbox": [
+    -92.408146,
+    35.093576,
+    -92.408146,
+    35.093576
+],
   "geometry": {"coordinates":[-92.408146,35.093576],"type":"Point"}
 }

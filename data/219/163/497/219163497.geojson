@@ -2,13 +2,14 @@
   "id": 219163497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.757873,33.635845,-91.757873,33.635845",
     "geom:latitude":33.635845,
     "geom:longitude":-91.757873,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"390 Airport Rd",
     "sg:city":"Monticello",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219163497,
-    "wof:lastmodified":1449073836,
+    "wof:lastmodified":1466320498,
     "wof:name":"67th Composite Squadron Civil Air Patrol",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "homeland"
     ]
 },
-  "bbox": [-91.757873,33.635845,-91.757873,33.635845],
+  "bbox": [
+    -91.757873,
+    33.635845,
+    -91.757873,
+    33.635845
+],
   "geometry": {"coordinates":[-91.757873,33.635845],"type":"Point"}
 }

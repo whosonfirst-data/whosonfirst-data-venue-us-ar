@@ -2,13 +2,14 @@
   "id": 220085489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.21462,35.231893,-93.21462,35.231893",
     "geom:latitude":35.231893,
     "geom:longitude":-93.21462,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10522 Cloverleaf Dr",
     "sg:city":"Dardanelle",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":220085489,
-    "wof:lastmodified":1449074234,
+    "wof:lastmodified":1466321755,
     "wof:name":"Tax Center Of America",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "preparation-business"
     ]
 },
-  "bbox": [-93.21462,35.231893,-93.21462,35.231893],
+  "bbox": [
+    -93.21462,
+    35.231893,
+    -93.21462,
+    35.231893
+],
   "geometry": {"coordinates":[-93.21462,35.231893],"type":"Point"}
 }

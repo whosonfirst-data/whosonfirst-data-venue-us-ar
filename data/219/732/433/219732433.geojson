@@ -2,13 +2,14 @@
   "id": 219732433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.638382,35.764561,-91.638382,35.764561",
     "geom:latitude":35.764561,
     "geom:longitude":-91.638382,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1033 Ems Dr",
     "sg:city":"Batesville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219732433,
-    "wof:lastmodified":1449074043,
+    "wof:lastmodified":1466324975,
     "wof:name":"Link Vital",
     "wof:parent_id":85808231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ambulance"
     ]
 },
-  "bbox": [-91.638382,35.764561,-91.638382,35.764561],
-  "geometry": {"coordinates":[-91.638382,35.764561],"type":"Point"}
+  "bbox": [
+    -91.638382,
+    35.764561,
+    -91.638382,
+    35.764561
+],
+  "geometry": {"coordinates":[-91.63838199999999,35.764561],"type":"Point"}
 }

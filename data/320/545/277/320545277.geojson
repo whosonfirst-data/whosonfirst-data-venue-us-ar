@@ -2,13 +2,14 @@
   "id": 320545277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.371524,35.259849,-94.371524,35.259849",
     "geom:latitude":35.259849,
     "geom:longitude":-94.371524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13127 S Treece Rd",
     "sg:city":"Fort Smith",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320545277,
-    "wof:lastmodified":1449012160,
+    "wof:lastmodified":1466320581,
     "wof:name":"Strouds Painting",
     "wof:parent_id":85808359,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-94.371524,35.259849,-94.371524,35.259849],
-  "geometry": {"coordinates":[-94.371524,35.259849],"type":"Point"}
+  "bbox": [
+    -94.371524,
+    35.259849,
+    -94.371524,
+    35.259849
+],
+  "geometry": {"coordinates":[-94.37152399999999,35.259849],"type":"Point"}
 }

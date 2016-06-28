@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102241903",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.234439,34.833293,-92.234439,34.833293",
     "geom:latitude":34.833293,
     "geom:longitude":-92.234439,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"295 W Kiehl Ave",
     "sg:city":"North Little Rock",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851793,
+        85688549,
         85633793,
         85921255,
         102082497,
-        85688549
+        85851793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":"102241903",
-    "wof:lastmodified":1449070147,
+    "wof:lastmodified":1466321776,
     "wof:name":"Syair Designs L L C",
     "wof:parent_id":85851793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.234439,34.833293,-92.234439,34.833293],
-  "geometry": {"coordinates":[-92.234439,34.833293],"type":"Point"}
+  "bbox": [
+    -92.234439,
+    34.833293,
+    -92.234439,
+    34.833293
+],
+  "geometry": {"coordinates":[-92.23443899999999,34.833293],"type":"Point"}
 }

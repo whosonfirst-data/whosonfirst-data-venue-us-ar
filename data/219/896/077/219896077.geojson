@@ -2,13 +2,14 @@
   "id": 219896077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.305748,36.30302,-94.305748,36.30302",
     "geom:latitude":36.30302,
     "geom:longitude":-94.305748,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7400 Old Farm Rd",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219896077,
-    "wof:lastmodified":1449071677,
+    "wof:lastmodified":1466325017,
     "wof:name":"Aero Sw Hotel, Inc.",
     "wof:parent_id":85853527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.305748,36.30302,-94.305748,36.30302],
-  "geometry": {"coordinates":[-94.305748,36.30302],"type":"Point"}
+  "bbox": [
+    -94.305748,
+    36.30302,
+    -94.305748,
+    36.30302
+],
+  "geometry": {"coordinates":[-94.30574799999999,36.30302],"type":"Point"}
 }

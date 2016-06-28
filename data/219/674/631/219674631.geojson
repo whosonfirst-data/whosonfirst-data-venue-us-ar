@@ -2,13 +2,14 @@
   "id": 219674631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.31436,35.863086,-90.31436,35.863086",
     "geom:latitude":35.863086,
     "geom:longitude":-90.31436,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1561 Highway 139 N",
     "sg:city":"Monette",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219674631,
-    "wof:lastmodified":1449073037,
+    "wof:lastmodified":1466324830,
     "wof:name":"Goldstar Sale",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "variety"
     ]
 },
-  "bbox": [-90.31436,35.863086,-90.31436,35.863086],
-  "geometry": {"coordinates":[-90.31436,35.863086],"type":"Point"}
+  "bbox": [
+    -90.31436,
+    35.863086,
+    -90.31436,
+    35.863086
+],
+  "geometry": {"coordinates":[-90.31435999999999,35.863086],"type":"Point"}
 }

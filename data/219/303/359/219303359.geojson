@@ -2,13 +2,14 @@
   "id": 219303359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.2609,34.565893,-94.2609,34.565893",
     "geom:latitude":34.565893,
     "geom:longitude":-94.2609,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2211 Highway 71 S",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219303359,
-    "wof:lastmodified":1449070407,
+    "wof:lastmodified":1466321757,
     "wof:name":"Five J Electric, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrician"
     ]
 },
-  "bbox": [-94.2609,34.565893,-94.2609,34.565893],
-  "geometry": {"coordinates":[-94.2609,34.565893],"type":"Point"}
+  "bbox": [
+    -94.2609,
+    34.565893,
+    -94.2609,
+    34.565893
+],
+  "geometry": {"coordinates":[-94.26090000000001,34.565893],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102330669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.127873,35.287998,-93.127873,35.287998",
     "geom:latitude":35.287998,
     "geom:longitude":-93.127873,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 E K St",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837141,
+        85688549,
         85633793,
         85919515,
         102082511,
-        85688549
+        85837141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102330669,
-    "wof:lastmodified":1449068948,
+    "wof:lastmodified":1466323678,
     "wof:name":"Gardena Rosella",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.127873,35.287998,-93.127873,35.287998],
-  "geometry": {"coordinates":[-93.127873,35.287998],"type":"Point"}
+  "bbox": [
+    -93.127873,
+    35.287998,
+    -93.127873,
+    35.287998
+],
+  "geometry": {"coordinates":[-93.12787299999999,35.287998],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102379801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.424368,34.783192,-92.424368,34.783192",
     "geom:latitude":34.783192,
     "geom:longitude":-92.424368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Coventry Ln",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102379801,
-    "wof:lastmodified":1449069142,
+    "wof:lastmodified":1466322048,
     "wof:name":"Metal Sales of Arkansas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.424368,34.783192,-92.424368,34.783192],
+  "bbox": [
+    -92.424368,
+    34.783192,
+    -92.424368,
+    34.783192
+],
   "geometry": {"coordinates":[-92.424368,34.783192],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220063301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.437459,36.053534,-94.437459,36.053534",
     "geom:latitude":36.053534,
     "geom:longitude":-94.437459,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20056 Boudreau Rd",
     "sg:city":"Summers",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":220063301,
-    "wof:lastmodified":1449074095,
+    "wof:lastmodified":1466321106,
     "wof:name":"Gentry Tax Preparation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "preparation-business"
     ]
 },
-  "bbox": [-94.437459,36.053534,-94.437459,36.053534],
+  "bbox": [
+    -94.437459,
+    36.053534,
+    -94.437459,
+    36.053534
+],
   "geometry": {"coordinates":[-94.437459,36.053534],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219445239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.6238,35.330054,-91.6238,35.330054",
     "geom:latitude":35.330054,
     "geom:longitude":-91.6238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2031 Rocky Point Rd",
     "sg:city":"Judsonia",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219445239,
-    "wof:lastmodified":1449070865,
+    "wof:lastmodified":1466323308,
     "wof:name":"Nick Bright's Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-91.6238,35.330054,-91.6238,35.330054],
+  "bbox": [
+    -91.6238,
+    35.330054,
+    -91.6238,
+    35.330054
+],
   "geometry": {"coordinates":[-91.6238,35.330054],"type":"Point"}
 }

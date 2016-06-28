@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102271099",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.252706,34.804875,-92.252706,34.804875",
     "geom:latitude":34.804875,
     "geom:longitude":-92.252706,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5209 John F Kennedy Blvd",
     "sg:city":"N Little Rock",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.usadrug.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851793,
+        85688549,
         85633793,
         85921255,
         102082497,
-        85688549
+        85851793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102271099",
-    "wof:lastmodified":1449069011,
+    "wof:lastmodified":1466322325,
     "wof:name":"USA Drug Express",
     "wof:parent_id":85851793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.252706,34.804875,-92.252706,34.804875],
+  "bbox": [
+    -92.252706,
+    34.804875,
+    -92.252706,
+    34.804875
+],
   "geometry": {"coordinates":[-92.252706,34.804875],"type":"Point"}
 }

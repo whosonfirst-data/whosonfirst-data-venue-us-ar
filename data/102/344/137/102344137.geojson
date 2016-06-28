@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102344137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.256082,34.735427,-92.256082,34.735427",
     "geom:latitude":34.735427,
     "geom:longitude":-92.256082,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 Geyer St",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -36,11 +37,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806025,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85806025
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":102344137,
-    "wof:lastmodified":1449067900,
+    "wof:lastmodified":1466323867,
     "wof:name":"Eastview Terrace Apartments",
     "wof:parent_id":85806025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.256082,34.735427,-92.256082,34.735427],
-  "geometry": {"coordinates":[-92.256082,34.735427],"type":"Point"}
+  "bbox": [
+    -92.256082,
+    34.735427,
+    -92.256082,
+    34.735427
+],
+  "geometry": {"coordinates":[-92.25608200000001,34.735427],"type":"Point"}
 }

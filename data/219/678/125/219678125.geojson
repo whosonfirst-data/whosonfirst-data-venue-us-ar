@@ -2,13 +2,14 @@
   "id": 219678125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.523811,36.02356,-90.523811,36.02356",
     "geom:latitude":36.02356,
     "geom:longitude":-90.523811,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3100 Linwood Dr",
     "sg:city":"Paragould",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219678125,
-    "wof:lastmodified":1449072099,
+    "wof:lastmodified":1466324614,
     "wof:name":"Focus Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commercial"
     ]
 },
-  "bbox": [-90.523811,36.02356,-90.523811,36.02356],
-  "geometry": {"coordinates":[-90.523811,36.02356],"type":"Point"}
+  "bbox": [
+    -90.523811,
+    36.02356,
+    -90.523811,
+    36.02356
+],
+  "geometry": {"coordinates":[-90.52381099999999,36.02356],"type":"Point"}
 }

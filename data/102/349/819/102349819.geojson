@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102349819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.050125,34.120168,-93.050125,34.120168",
     "geom:latitude":34.120168,
     "geom:longitude":-93.050125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 Clinton St",
     "sg:city":"Arkadelphia",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102349819,
-    "wof:lastmodified":1449068694,
+    "wof:lastmodified":1466324102,
     "wof:name":"Boyd Signs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.050125,34.120168,-93.050125,34.120168],
-  "geometry": {"coordinates":[-93.050125,34.120168],"type":"Point"}
+  "bbox": [
+    -93.050125,
+    34.120168,
+    -93.050125,
+    34.120168
+],
+  "geometry": {"coordinates":[-93.05012499999999,34.120168],"type":"Point"}
 }

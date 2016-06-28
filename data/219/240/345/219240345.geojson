@@ -2,13 +2,14 @@
   "id": 219240345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.350723,33.939152,-94.350723,33.939152",
     "geom:latitude":33.939152,
     "geom:longitude":-94.350723,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 Main St",
     "sg:city":"Horatio",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219240345,
-    "wof:lastmodified":1449070758,
+    "wof:lastmodified":1466321259,
     "wof:name":"Living Hope",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-94.350723,33.939152,-94.350723,33.939152],
+  "bbox": [
+    -94.350723,
+    33.939152,
+    -94.350723,
+    33.939152
+],
   "geometry": {"coordinates":[-94.350723,33.939152],"type":"Point"}
 }

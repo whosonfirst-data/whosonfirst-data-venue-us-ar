@@ -2,13 +2,14 @@
   "id": 219595051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.75613,34.773171,-90.75613,34.773171",
     "geom:latitude":34.773171,
     "geom:longitude":-90.75613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13 S Liberty St",
     "sg:city":"Marianna",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219595051,
-    "wof:lastmodified":1449073573,
+    "wof:lastmodified":1466324576,
     "wof:name":"Eternal Light Funeral Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "funeral"
     ]
 },
-  "bbox": [-90.75613,34.773171,-90.75613,34.773171],
+  "bbox": [
+    -90.75613,
+    34.773171,
+    -90.75613,
+    34.773171
+],
   "geometry": {"coordinates":[-90.75613,34.773171],"type":"Point"}
 }

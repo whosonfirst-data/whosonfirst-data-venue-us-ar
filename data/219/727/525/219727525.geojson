@@ -2,13 +2,14 @@
   "id": 219727525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.646732,35.766716,-91.646732,35.766716",
     "geom:latitude":35.766716,
     "geom:longitude":-91.646732,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"665 Lawrence St",
     "sg:city":"Batesville",
     "sg:classifiers":[
@@ -69,10 +70,11 @@
         }
     ],
     "wof:id":219727525,
-    "wof:lastmodified":1449070923,
+    "wof:lastmodified":1466324971,
     "wof:name":"McClure Burnell Plumbing & Supply",
     "wof:parent_id":85808231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -87,6 +89,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-91.646732,35.766716,-91.646732,35.766716],
+  "bbox": [
+    -91.646732,
+    35.766716,
+    -91.646732,
+    35.766716
+],
   "geometry": {"coordinates":[-91.646732,35.766716],"type":"Point"}
 }

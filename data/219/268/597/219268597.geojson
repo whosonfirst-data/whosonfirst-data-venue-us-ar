@@ -2,13 +2,14 @@
   "id": 219268597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.012748,33.468898,-94.012748,33.468898",
     "geom:latitude":33.468898,
     "geom:longitude":-94.012748,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4803 Fernwood Dr",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219268597,
-    "wof:lastmodified":1449072387,
+    "wof:lastmodified":1466321474,
     "wof:name":"A Fast Forward Concept .Com",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-94.012748,33.468898,-94.012748,33.468898],
+  "bbox": [
+    -94.012748,
+    33.468898,
+    -94.012748,
+    33.468898
+],
   "geometry": {"coordinates":[-94.012748,33.468898],"type":"Point"}
 }

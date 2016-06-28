@@ -2,13 +2,14 @@
   "id": 354068409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.539251,36.219281,-94.539251,36.219281",
     "geom:latitude":36.219281,
     "geom:longitude":-94.539251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14298 Reed Dr",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":354068409,
-    "wof:lastmodified":1449066802,
+    "wof:lastmodified":1466324500,
     "wof:name":"Godspeed LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "membership"
     ]
 },
-  "bbox": [-94.539251,36.219281,-94.539251,36.219281],
-  "geometry": {"coordinates":[-94.539251,36.219281],"type":"Point"}
+  "bbox": [
+    -94.539251,
+    36.219281,
+    -94.539251,
+    36.219281
+],
+  "geometry": {"coordinates":[-94.53925099999999,36.219281],"type":"Point"}
 }

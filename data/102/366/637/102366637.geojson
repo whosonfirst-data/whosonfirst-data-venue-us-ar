@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102366637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.338512,35.89956,-90.338512,35.89956",
     "geom:latitude":35.89956,
     "geom:longitude":-90.338512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Oak",
     "sg:city":"Monette",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102366637,
-    "wof:lastmodified":1449069558,
+    "wof:lastmodified":1466324536,
     "wof:name":"TRK Sales & Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.338512,35.89956,-90.338512,35.89956],
-  "geometry": {"coordinates":[-90.338512,35.89956],"type":"Point"}
+  "bbox": [
+    -90.338512,
+    35.89956,
+    -90.338512,
+    35.89956
+],
+  "geometry": {"coordinates":[-90.33851199999999,35.89956],"type":"Point"}
 }

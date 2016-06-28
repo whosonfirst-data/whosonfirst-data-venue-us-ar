@@ -2,13 +2,14 @@
   "id": 219916511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.245177,36.039634,-94.245177,36.039634",
     "geom:latitude":36.039634,
     "geom:longitude":-94.245177,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Old Depot Rd Apt 37",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219916511,
-    "wof:lastmodified":1449072310,
+    "wof:lastmodified":1466325126,
     "wof:name":"Village Lane Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-94.245177,36.039634,-94.245177,36.039634],
+  "bbox": [
+    -94.245177,
+    36.039634,
+    -94.245177,
+    36.039634
+],
   "geometry": {"coordinates":[-94.245177,36.039634],"type":"Point"}
 }

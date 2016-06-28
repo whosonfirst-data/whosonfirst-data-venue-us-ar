@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102214407",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.011564,34.479201,-93.011564,34.479201",
     "geom:latitude":34.479201,
     "geom:longitude":-93.011564,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"407 Cedarwood St",
     "sg:city":"Hot Springs National",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102214407",
-    "wof:lastmodified":1449070140,
+    "wof:lastmodified":1466321004,
     "wof:name":"Happy Hollow Motel Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.011564,34.479201,-93.011564,34.479201],
-  "geometry": {"coordinates":[-93.011564,34.479201],"type":"Point"}
+  "bbox": [
+    -93.011564,
+    34.479201,
+    -93.011564,
+    34.479201
+],
+  "geometry": {"coordinates":[-93.01156400000001,34.479201],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219552915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.541748,34.479159,-91.541748,34.479159",
     "geom:latitude":34.479159,
     "geom:longitude":-91.541748,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1012 E 22nd St",
     "sg:city":"Stuttgart",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219552915,
-    "wof:lastmodified":1449071862,
+    "wof:lastmodified":1466324355,
     "wof:name":"Agri Process Innovations, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "engineer"
     ]
 },
-  "bbox": [-91.541748,34.479159,-91.541748,34.479159],
+  "bbox": [
+    -91.541748,
+    34.479159,
+    -91.541748,
+    34.479159
+],
   "geometry": {"coordinates":[-91.541748,34.479159],"type":"Point"}
 }

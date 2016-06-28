@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102368135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.105382,34.47035,-93.105382,34.47035",
     "geom:latitude":34.47035,
     "geom:longitude":-93.105382,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1925 Lakeshore Dr",
     "sg:city":"Hot Springs",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102368135,
-    "wof:lastmodified":1449068346,
+    "wof:lastmodified":1466324368,
     "wof:name":"Shamrock Lawn Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.105382,34.47035,-93.105382,34.47035],
-  "geometry": {"coordinates":[-93.105382,34.47035],"type":"Point"}
+  "bbox": [
+    -93.105382,
+    34.47035,
+    -93.105382,
+    34.47035
+],
+  "geometry": {"coordinates":[-93.10538200000001,34.47035],"type":"Point"}
 }

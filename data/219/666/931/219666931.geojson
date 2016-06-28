@@ -2,13 +2,14 @@
   "id": 219666931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.084643,36.027408,-91.084643,36.027408",
     "geom:latitude":36.027408,
     "geom:longitude":-91.084643,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"534 Lawrence Road 511",
     "sg:city":"Hoxie",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219666931,
-    "wof:lastmodified":1449071684,
+    "wof:lastmodified":1466324792,
     "wof:name":"Winford Phillips",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [-91.084643,36.027408,-91.084643,36.027408],
+  "bbox": [
+    -91.084643,
+    36.027408,
+    -91.084643,
+    36.027408
+],
   "geometry": {"coordinates":[-91.084643,36.027408],"type":"Point"}
 }

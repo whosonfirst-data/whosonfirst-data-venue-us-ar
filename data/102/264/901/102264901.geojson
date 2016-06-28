@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102264901",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.395069,33.63556,-91.395069,33.63556",
     "geom:latitude":33.63556,
     "geom:longitude":-91.395069,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"501 E Ash St",
     "sg:city":"Mc Gehee",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102264901",
-    "wof:lastmodified":1449069337,
+    "wof:lastmodified":1466322315,
     "wof:name":"Allegiance Communication",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.395069,33.63556,-91.395069,33.63556],
-  "geometry": {"coordinates":[-91.395069,33.63556],"type":"Point"}
+  "bbox": [
+    -91.395069,
+    33.63556,
+    -91.395069,
+    33.63556
+],
+  "geometry": {"coordinates":[-91.39506900000001,33.63556],"type":"Point"}
 }

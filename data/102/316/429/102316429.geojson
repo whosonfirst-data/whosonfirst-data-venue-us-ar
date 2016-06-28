@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102316429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.035919,34.664187,-92.035919,34.664187",
     "geom:latitude":34.664187,
     "geom:longitude":-92.035919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1660 Johnson Rd",
     "sg:city":"Scott",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102316429,
-    "wof:lastmodified":1449069428,
+    "wof:lastmodified":1466323391,
     "wof:name":"TRC Shetmetal Wldg Fabrication",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.035919,34.664187,-92.035919,34.664187],
-  "geometry": {"coordinates":[-92.035919,34.664187],"type":"Point"}
+  "bbox": [
+    -92.035919,
+    34.664187,
+    -92.035919,
+    34.664187
+],
+  "geometry": {"coordinates":[-92.03591900000001,34.664187],"type":"Point"}
 }

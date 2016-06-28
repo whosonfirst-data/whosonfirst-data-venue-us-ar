@@ -2,13 +2,14 @@
   "id": 353526193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.478228,35.233254,-94.478228,35.233254",
     "geom:latitude":35.233254,
     "geom:longitude":-94.478228,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2600 Love St",
     "sg:city":"Pocola",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353526193,
-    "wof:lastmodified":1449019044,
+    "wof:lastmodified":1466320438,
     "wof:name":"Pocola First Methodist Church",
     "wof:parent_id":85809847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-94.478228,35.233254,-94.478228,35.233254],
+  "bbox": [
+    -94.478228,
+    35.233254,
+    -94.478228,
+    35.233254
+],
   "geometry": {"coordinates":[-94.478228,35.233254],"type":"Point"}
 }

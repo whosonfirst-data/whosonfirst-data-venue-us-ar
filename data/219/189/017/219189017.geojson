@@ -2,13 +2,14 @@
   "id": 219189017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.843331,33.584615,-92.843331,33.584615",
     "geom:latitude":33.584615,
     "geom:longitude":-92.843331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Agee Ave NW",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219189017,
-    "wof:lastmodified":1449072893,
+    "wof:lastmodified":1466320718,
     "wof:name":"Camden Sda Church",
     "wof:parent_id":85813169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.843331,33.584615,-92.843331,33.584615],
-  "geometry": {"coordinates":[-92.843331,33.584615],"type":"Point"}
+  "bbox": [
+    -92.843331,
+    33.584615,
+    -92.843331,
+    33.584615
+],
+  "geometry": {"coordinates":[-92.84333100000001,33.584615],"type":"Point"}
 }

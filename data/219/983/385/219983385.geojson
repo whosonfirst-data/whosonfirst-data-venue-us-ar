@@ -2,13 +2,14 @@
   "id": 219983385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.177223,36.342152,-94.177223,36.342152",
     "geom:latitude":36.342152,
     "geom:longitude":-94.177223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 N 42nd St",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219983385,
-    "wof:lastmodified":1449073625,
+    "wof:lastmodified":1466325237,
     "wof:name":"Xperience Marketing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "consultant"
     ]
 },
-  "bbox": [-94.177223,36.342152,-94.177223,36.342152],
+  "bbox": [
+    -94.177223,
+    36.342152,
+    -94.177223,
+    36.342152
+],
   "geometry": {"coordinates":[-94.177223,36.342152],"type":"Point"}
 }

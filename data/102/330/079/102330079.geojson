@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102330079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.163244,34.298485,-93.163244,34.298485",
     "geom:latitude":34.298485,
     "geom:longitude":-93.163244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1641 Thomas Loop",
     "sg:city":"Bismarck",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102330079,
-    "wof:lastmodified":1449068953,
+    "wof:lastmodified":1466323557,
     "wof:name":"Smoke's Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.163244,34.298485,-93.163244,34.298485],
-  "geometry": {"coordinates":[-93.163244,34.298485],"type":"Point"}
+  "bbox": [
+    -93.163244,
+    34.298485,
+    -93.163244,
+    34.298485
+],
+  "geometry": {"coordinates":[-93.16324400000001,34.298485],"type":"Point"}
 }

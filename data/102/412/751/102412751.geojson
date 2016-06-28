@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102412751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.238711,34.829858,-92.238711,34.829858",
     "geom:latitude":34.829858,
     "geom:longitude":-92.238711,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"917 W Lee Ave",
     "sg:city":"Sherwood",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851793,
+        85688549,
         85633793,
         85921255,
         102082497,
-        85688549
+        85851793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102412751,
-    "wof:lastmodified":1449068290,
+    "wof:lastmodified":1466325221,
     "wof:name":"Custom Log Homes Of Ar",
     "wof:parent_id":85851793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.238711,34.829858,-92.238711,34.829858],
+  "bbox": [
+    -92.238711,
+    34.829858,
+    -92.238711,
+    34.829858
+],
   "geometry": {"coordinates":[-92.238711,34.829858],"type":"Point"}
 }

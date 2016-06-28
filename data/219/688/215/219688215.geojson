@@ -2,13 +2,14 @@
   "id": 219688215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.458421,36.052619,-90.458421,36.052619",
     "geom:latitude":36.052619,
     "geom:longitude":-90.458421,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2209 E Kingshighway",
     "sg:city":"Paragould",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219688215,
-    "wof:lastmodified":1449071705,
+    "wof:lastmodified":1466324672,
     "wof:name":"Hopper's Auto Sales Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "new"
     ]
 },
-  "bbox": [-90.458421,36.052619,-90.458421,36.052619],
+  "bbox": [
+    -90.458421,
+    36.052619,
+    -90.458421,
+    36.052619
+],
   "geometry": {"coordinates":[-90.458421,36.052619],"type":"Point"}
 }

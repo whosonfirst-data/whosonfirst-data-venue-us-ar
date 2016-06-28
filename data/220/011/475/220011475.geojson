@@ -2,13 +2,14 @@
   "id": 220011475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.170741,36.175098,-94.170741,36.175098",
     "geom:latitude":36.175098,
     "geom:longitude":-94.170741,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3672 W Sunset Ave",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":220011475,
-    "wof:lastmodified":1449074702,
+    "wof:lastmodified":1466320477,
     "wof:name":"Maaco - Springdale",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "painting"
     ]
 },
-  "bbox": [-94.170741,36.175098,-94.170741,36.175098],
-  "geometry": {"coordinates":[-94.170741,36.175098],"type":"Point"}
+  "bbox": [
+    -94.170741,
+    36.175098,
+    -94.170741,
+    36.175098
+],
+  "geometry": {"coordinates":[-94.17074100000001,36.175098],"type":"Point"}
 }

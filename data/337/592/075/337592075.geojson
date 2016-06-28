@@ -2,13 +2,14 @@
   "id": 337592075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.772494,36.591336,-94.772494,36.591336",
     "geom:latitude":36.591336,
     "geom:longitude":-94.772494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 W 5th St",
     "sg:city":"Welch",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337592075,
-    "wof:lastmodified":1449027416,
+    "wof:lastmodified":1466324508,
     "wof:name":"Welch Baptist Church",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-94.772494,36.591336,-94.772494,36.591336],
-  "geometry": {"coordinates":[-94.772494,36.591336],"type":"Point"}
+  "bbox": [
+    -94.772494,
+    36.591336,
+    -94.772494,
+    36.591336
+],
+  "geometry": {"coordinates":[-94.77249399999999,36.591336],"type":"Point"}
 }

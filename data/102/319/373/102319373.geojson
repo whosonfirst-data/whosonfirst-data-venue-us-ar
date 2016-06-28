@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102319373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.589758,33.681173,-93.589758,33.681173",
     "geom:latitude":33.681173,
     "geom:longitude":-93.589758,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"605 E Oak St",
     "sg:city":"Hope",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806015,
+        85688549,
         85633793,
         85920547,
         102083213,
-        85688549
+        85806015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102319373,
-    "wof:lastmodified":1449068755,
+    "wof:lastmodified":1466323405,
     "wof:name":"Lloyd Vj Grocery",
     "wof:parent_id":85806015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.589758,33.681173,-93.589758,33.681173],
+  "bbox": [
+    -93.589758,
+    33.681173,
+    -93.589758,
+    33.681173
+],
   "geometry": {"coordinates":[-93.589758,33.681173],"type":"Point"}
 }

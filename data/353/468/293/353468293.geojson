@@ -2,13 +2,14 @@
   "id": 353468293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.442829,35.243939,-94.442829,35.243939",
     "geom:latitude":35.243939,
     "geom:longitude":-94.442829,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1805 Gray St",
     "sg:city":"Pocola",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353468293,
-    "wof:lastmodified":1449020072,
+    "wof:lastmodified":1466320419,
     "wof:name":"Pentecostal Bible Lighthouse",
     "wof:parent_id":85809847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.442829,35.243939,-94.442829,35.243939],
+  "bbox": [
+    -94.442829,
+    35.243939,
+    -94.442829,
+    35.243939
+],
   "geometry": {"coordinates":[-94.442829,35.243939],"type":"Point"}
 }

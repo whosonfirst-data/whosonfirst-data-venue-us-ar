@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102205619",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.038627,34.19845,-92.038627,34.19845",
     "geom:latitude":34.19845,
     "geom:longitude":-92.038627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3007 Midland Park Dr N",
     "sg:city":"Pine Bluff",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102205619",
-    "wof:lastmodified":1449069196,
+    "wof:lastmodified":1466320825,
     "wof:name":"Faulkner Collison Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.038627,34.19845,-92.038627,34.19845],
-  "geometry": {"coordinates":[-92.038627,34.19845],"type":"Point"}
+  "bbox": [
+    -92.038627,
+    34.19845,
+    -92.038627,
+    34.19845
+],
+  "geometry": {"coordinates":[-92.03862700000001,34.19845],"type":"Point"}
 }

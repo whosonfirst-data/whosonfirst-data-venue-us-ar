@@ -2,13 +2,14 @@
   "id": 220068319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.095406,35.28824,-93.095406,35.28824",
     "geom:latitude":35.28824,
     "geom:longitude":-93.095406,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"60 Transco Park Dr",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":220068319,
-    "wof:lastmodified":1449074447,
+    "wof:lastmodified":1466321292,
     "wof:name":"Transco Lines, Inc",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "trucking"
     ]
 },
-  "bbox": [-93.095406,35.28824,-93.095406,35.28824],
+  "bbox": [
+    -93.095406,
+    35.28824,
+    -93.095406,
+    35.28824
+],
   "geometry": {"coordinates":[-93.095406,35.28824],"type":"Point"}
 }

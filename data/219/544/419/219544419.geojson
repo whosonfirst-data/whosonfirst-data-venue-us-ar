@@ -2,13 +2,14 @@
   "id": 219544419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.398977,34.316963,-92.398977,34.316963",
     "geom:latitude":34.316963,
     "geom:longitude":-92.398977,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Robin Ln",
     "sg:city":"Sheridan",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219544419,
-    "wof:lastmodified":1449073913,
+    "wof:lastmodified":1466324288,
     "wof:name":"Burton Transport",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "logging"
     ]
 },
-  "bbox": [-92.398977,34.316963,-92.398977,34.316963],
+  "bbox": [
+    -92.398977,
+    34.316963,
+    -92.398977,
+    34.316963
+],
   "geometry": {"coordinates":[-92.398977,34.316963],"type":"Point"}
 }

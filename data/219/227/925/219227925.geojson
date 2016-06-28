@@ -2,13 +2,14 @@
   "id": 219227925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.614983,33.683593,-93.614983,33.683593",
     "geom:latitude":33.683593,
     "geom:longitude":-93.614983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2600 N Hervey St",
     "sg:city":"Hope",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":219227925,
-    "wof:lastmodified":1449071175,
+    "wof:lastmodified":1466321154,
     "wof:name":"Holiday Inn Express Hope",
     "wof:parent_id":85806015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "hall"
     ]
 },
-  "bbox": [-93.614983,33.683593,-93.614983,33.683593],
+  "bbox": [
+    -93.614983,
+    33.683593,
+    -93.614983,
+    33.683593
+],
   "geometry": {"coordinates":[-93.614983,33.683593],"type":"Point"}
 }

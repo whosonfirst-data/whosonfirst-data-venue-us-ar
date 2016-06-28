@@ -2,13 +2,14 @@
   "id": 219818161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.166733,36.066502,-94.166733,36.066502",
     "geom:latitude":36.066502,
     "geom:longitude":-94.166733,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 W Dickson St",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219818161,
-    "wof:lastmodified":1449072108,
+    "wof:lastmodified":1466324901,
     "wof:name":"Single Parent Scholarship Fund of NW",
     "wof:parent_id":85885451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "scholarship"
     ]
 },
-  "bbox": [-94.166733,36.066502,-94.166733,36.066502],
-  "geometry": {"coordinates":[-94.166733,36.066502],"type":"Point"}
+  "bbox": [
+    -94.166733,
+    36.066502,
+    -94.166733,
+    36.066502
+],
+  "geometry": {"coordinates":[-94.16673299999999,36.066502],"type":"Point"}
 }

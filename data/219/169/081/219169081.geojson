@@ -2,13 +2,14 @@
   "id": 219169081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.698756,33.597355,-91.698756,33.597355",
     "geom:latitude":33.597355,
     "geom:longitude":-91.698756,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2758 Highway 35 E",
     "sg:city":"Monticello",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":219169081,
-    "wof:lastmodified":1449072573,
+    "wof:lastmodified":1466320543,
     "wof:name":"Fowler's Grocery & Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocers-specialty"
     ]
 },
-  "bbox": [-91.698756,33.597355,-91.698756,33.597355],
+  "bbox": [
+    -91.698756,
+    33.597355,
+    -91.698756,
+    33.597355
+],
   "geometry": {"coordinates":[-91.698756,33.597355],"type":"Point"}
 }

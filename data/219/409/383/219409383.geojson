@@ -2,13 +2,14 @@
   "id": 219409383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.467717,35.057137,-92.467717,35.057137",
     "geom:latitude":35.057137,
     "geom:longitude":-92.467717,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1540 Gardenia",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219409383,
-    "wof:lastmodified":1449071841,
+    "wof:lastmodified":1466322929,
     "wof:name":"Roche Diagnostics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supply"
     ]
 },
-  "bbox": [-92.467717,35.057137,-92.467717,35.057137],
-  "geometry": {"coordinates":[-92.467717,35.057137],"type":"Point"}
+  "bbox": [
+    -92.467717,
+    35.057137,
+    -92.467717,
+    35.057137
+],
+  "geometry": {"coordinates":[-92.46771699999999,35.057137],"type":"Point"}
 }

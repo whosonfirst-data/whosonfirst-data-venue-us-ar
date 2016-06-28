@@ -2,13 +2,14 @@
   "id": 219449255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.900201,34.782873,-91.900201,34.782873",
     "geom:latitude":34.782873,
     "geom:longitude":-91.900201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 W Ash St",
     "sg:city":"Lonoke",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219449255,
-    "wof:lastmodified":1449073648,
+    "wof:lastmodified":1466323366,
     "wof:name":"Ricks Auto Supply Inc",
     "wof:parent_id":85811577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "accessory"
     ]
 },
-  "bbox": [-91.900201,34.782873,-91.900201,34.782873],
+  "bbox": [
+    -91.900201,
+    34.782873,
+    -91.900201,
+    34.782873
+],
   "geometry": {"coordinates":[-91.900201,34.782873],"type":"Point"}
 }

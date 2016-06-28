@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102200983",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.404436,35.192317,-92.404436,35.192317",
     "geom:latitude":35.192317,
     "geom:longitude":-92.404436,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Brannon Rd",
     "sg:city":"Greenbrier",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":"102200983",
-    "wof:lastmodified":1449068729,
+    "wof:lastmodified":1466320693,
     "wof:name":"MEMS Ambulance Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.404436,35.192317,-92.404436,35.192317],
+  "bbox": [
+    -92.404436,
+    35.192317,
+    -92.404436,
+    35.192317
+],
   "geometry": {"coordinates":[-92.404436,35.192317],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219190837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.739893,33.67082,-92.739893,33.67082",
     "geom:latitude":33.67082,
     "geom:longitude":-92.739893,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3430 Highway 79 N",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -68,10 +69,11 @@
         }
     ],
     "wof:id":219190837,
-    "wof:lastmodified":1449073684,
+    "wof:lastmodified":1466320753,
     "wof:name":"Walters Service Company",
     "wof:parent_id":85813169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -85,6 +87,11 @@
         "appliances-major-used"
     ]
 },
-  "bbox": [-92.739893,33.67082,-92.739893,33.67082],
+  "bbox": [
+    -92.739893,
+    33.67082,
+    -92.739893,
+    33.67082
+],
   "geometry": {"coordinates":[-92.739893,33.67082],"type":"Point"}
 }

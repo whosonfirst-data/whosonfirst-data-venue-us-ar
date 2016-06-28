@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102403529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.339855,34.768441,-92.339855,34.768441",
     "geom:latitude":34.768441,
     "geom:longitude":-92.339855,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5920 Cantrell Rd",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.arkansasweb.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878751,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85878751
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102403529,
-    "wof:lastmodified":1449069838,
+    "wof:lastmodified":1466324743,
     "wof:name":"ARKANSASWEB.COM",
     "wof:parent_id":85878751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.339855,34.768441,-92.339855,34.768441],
+  "bbox": [
+    -92.339855,
+    34.768441,
+    -92.339855,
+    34.768441
+],
   "geometry": {"coordinates":[-92.339855,34.768441],"type":"Point"}
 }

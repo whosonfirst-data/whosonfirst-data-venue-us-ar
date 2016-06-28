@@ -2,13 +2,14 @@
   "id": 219284335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.088043,34.141441,-93.088043,34.141441",
     "geom:latitude":34.141441,
     "geom:longitude":-93.088043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2759 Country Club Rd",
     "sg:city":"Arkadelphia",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219284335,
-    "wof:lastmodified":1449072590,
+    "wof:lastmodified":1466321603,
     "wof:name":"T & M Processing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "processing"
     ]
 },
-  "bbox": [-93.088043,34.141441,-93.088043,34.141441],
+  "bbox": [
+    -93.088043,
+    34.141441,
+    -93.088043,
+    34.141441
+],
   "geometry": {"coordinates":[-93.088043,34.141441],"type":"Point"}
 }

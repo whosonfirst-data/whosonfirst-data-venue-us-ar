@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102401117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.42236,35.349935,-94.42236,35.349935",
     "geom:latitude":35.349935,
     "geom:longitude":-94.42236,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3700 Towson Ave",
     "sg:city":"Fort Smith",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834235,
+        85688549,
         85633793,
         85921431,
         102082025,
-        85688549
+        85834235
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102401117,
-    "wof:lastmodified":1449069813,
+    "wof:lastmodified":1466324679,
     "wof:name":"Mower Shop Inc",
     "wof:parent_id":85834235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.42236,35.349935,-94.42236,35.349935],
+  "bbox": [
+    -94.42236,
+    35.349935,
+    -94.42236,
+    35.349935
+],
   "geometry": {"coordinates":[-94.42236,35.349935],"type":"Point"}
 }

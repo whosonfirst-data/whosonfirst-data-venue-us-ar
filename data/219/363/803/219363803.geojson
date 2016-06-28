@@ -2,13 +2,14 @@
   "id": 219363803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.010132,34.95657,-92.010132,34.95657",
     "geom:latitude":34.95657,
     "geom:longitude":-92.010132,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Templeton Dr",
     "sg:city":"Cabot",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219363803,
-    "wof:lastmodified":1449073495,
+    "wof:lastmodified":1466322467,
     "wof:name":"Brent W Larsen Dds",
     "wof:parent_id":85839277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "dentists-implantology"
     ]
 },
-  "bbox": [-92.010132,34.95657,-92.010132,34.95657],
+  "bbox": [
+    -92.010132,
+    34.95657,
+    -92.010132,
+    34.95657
+],
   "geometry": {"coordinates":[-92.010132,34.95657],"type":"Point"}
 }

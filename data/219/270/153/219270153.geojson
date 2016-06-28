@@ -2,13 +2,14 @@
   "id": 219270153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.035242,33.471683,-94.035242,33.471683",
     "geom:latitude":33.471683,
     "geom:longitude":-94.035242,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5210 Crossroads Pkwy",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":219270153,
-    "wof:lastmodified":1449071019,
+    "wof:lastmodified":1466321485,
     "wof:name":"Holiday Inn Express Hotel & Suites Texarkana East",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "hall"
     ]
 },
-  "bbox": [-94.035242,33.471683,-94.035242,33.471683],
+  "bbox": [
+    -94.035242,
+    33.471683,
+    -94.035242,
+    33.471683
+],
   "geometry": {"coordinates":[-94.035242,33.471683],"type":"Point"}
 }

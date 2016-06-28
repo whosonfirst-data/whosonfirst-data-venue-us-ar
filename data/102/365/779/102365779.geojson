@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102365779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.307744,34.759874,-92.307744,34.759874",
     "geom:latitude":34.759874,
     "geom:longitude":-92.307744,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2820 Cantrell Rd",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -30,13 +31,13 @@
     "sg:website":"www.triplesalarm.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837877,
+        85688549,
         85633793,
         85921255,
         102082497,
-        85688549,
-        85843255,
-        85921265
+        85837877,
+        85921265,
+        85843255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,14 +64,20 @@
         }
     ],
     "wof:id":102365779,
-    "wof:lastmodified":1449068185,
+    "wof:lastmodified":1466324435,
     "wof:name":"Triple S Alarm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.307744,34.759874,-92.307744,34.759874],
+  "bbox": [
+    -92.307744,
+    34.759874,
+    -92.307744,
+    34.759874
+],
   "geometry": {"coordinates":[-92.307744,34.759874],"type":"Point"}
 }

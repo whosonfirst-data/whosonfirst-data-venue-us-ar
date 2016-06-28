@@ -2,13 +2,14 @@
   "id": 219227743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.586252,33.672008,-93.586252,33.672008",
     "geom:latitude":33.672008,
     "geom:longitude":-93.586252,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 N Walker St",
     "sg:city":"Hope",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219227743,
-    "wof:lastmodified":1449071178,
+    "wof:lastmodified":1466321150,
     "wof:name":"Our Lady of Good Hope Catholic Church",
     "wof:parent_id":85820749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "churches-catholic"
     ]
 },
-  "bbox": [-93.586252,33.672008,-93.586252,33.672008],
+  "bbox": [
+    -93.586252,
+    33.672008,
+    -93.586252,
+    33.672008
+],
   "geometry": {"coordinates":[-93.586252,33.672008],"type":"Point"}
 }

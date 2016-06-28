@@ -2,13 +2,14 @@
   "id": 303526463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.528463,36.167286,-94.528463,36.167286",
     "geom:latitude":36.167286,
     "geom:longitude":-94.528463,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 E Lake Francis Dr",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303526463,
-    "wof:lastmodified":1448998867,
+    "wof:lastmodified":1466320507,
     "wof:name":"Phoenix Cleaning Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-94.528463,36.167286,-94.528463,36.167286],
+  "bbox": [
+    -94.528463,
+    36.167286,
+    -94.528463,
+    36.167286
+],
   "geometry": {"coordinates":[-94.528463,36.167286],"type":"Point"}
 }

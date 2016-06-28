@@ -2,13 +2,14 @@
   "id": 220066895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.12944,35.280121,-93.12944,35.280121",
     "geom:latitude":35.280121,
     "geom:longitude":-93.12944,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 E C St",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220066895,
-    "wof:lastmodified":1449074249,
+    "wof:lastmodified":1466321235,
     "wof:name":"Bright Beginnigs Inc",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "day"
     ]
 },
-  "bbox": [-93.12944,35.280121,-93.12944,35.280121],
+  "bbox": [
+    -93.12944,
+    35.280121,
+    -93.12944,
+    35.280121
+],
   "geometry": {"coordinates":[-93.12944,35.280121],"type":"Point"}
 }

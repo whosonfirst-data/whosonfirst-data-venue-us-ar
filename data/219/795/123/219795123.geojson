@@ -2,13 +2,14 @@
   "id": 219795123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.58931,36.277599,-92.58931,36.277599",
     "geom:latitude":36.277599,
     "geom:longitude":-92.58931,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 E Main St",
     "sg:city":"Flippin",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219795123,
-    "wof:lastmodified":1449072475,
+    "wof:lastmodified":1466325023,
     "wof:name":"Mel's Diner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.58931,36.277599,-92.58931,36.277599],
+  "bbox": [
+    -92.58931,
+    36.277599,
+    -92.58931,
+    36.277599
+],
   "geometry": {"coordinates":[-92.58931,36.277599],"type":"Point"}
 }

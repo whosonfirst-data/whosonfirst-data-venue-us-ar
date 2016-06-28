@@ -2,13 +2,14 @@
   "id": 219440829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.109543,34.872608,-92.109543,34.872608",
     "geom:latitude":34.872608,
     "geom:longitude":-92.109543,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"607 N 1st St Ste 2",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219440829,
-    "wof:lastmodified":1449071640,
+    "wof:lastmodified":1466323256,
     "wof:name":"Brown's Mike Taekwondo",
     "wof:parent_id":85852337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "instruction"
     ]
 },
-  "bbox": [-92.109543,34.872608,-92.109543,34.872608],
+  "bbox": [
+    -92.109543,
+    34.872608,
+    -92.109543,
+    34.872608
+],
   "geometry": {"coordinates":[-92.109543,34.872608],"type":"Point"}
 }

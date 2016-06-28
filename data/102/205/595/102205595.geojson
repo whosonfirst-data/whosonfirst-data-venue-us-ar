@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102205595",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.737929,36.099914,-93.737929,36.099914",
     "geom:latitude":36.099914,
     "geom:longitude":-93.737929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1104 N College Ave",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102205595",
-    "wof:lastmodified":1449069198,
+    "wof:lastmodified":1466320820,
     "wof:name":"NWA Head Start Human Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.737929,36.099914,-93.737929,36.099914],
-  "geometry": {"coordinates":[-93.737929,36.099914],"type":"Point"}
+  "bbox": [
+    -93.737929,
+    36.099914,
+    -93.737929,
+    36.099914
+],
+  "geometry": {"coordinates":[-93.73792899999999,36.099914],"type":"Point"}
 }

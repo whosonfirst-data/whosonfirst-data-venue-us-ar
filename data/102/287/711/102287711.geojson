@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102287711",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.07962,34.493926,-93.07962,34.493926",
     "geom:latitude":34.493926,
     "geom:longitude":-93.07962,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 Albert Pike Rd",
     "sg:city":"Hot Springs National Park",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102287711",
-    "wof:lastmodified":1449067935,
+    "wof:lastmodified":1466322830,
     "wof:name":"Classic Tires & Wheels",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.07962,34.493926,-93.07962,34.493926],
-  "geometry": {"coordinates":[-93.07962,34.493926],"type":"Point"}
+  "bbox": [
+    -93.07962,
+    34.493926,
+    -93.07962,
+    34.493926
+],
+  "geometry": {"coordinates":[-93.07962000000001,34.493926],"type":"Point"}
 }

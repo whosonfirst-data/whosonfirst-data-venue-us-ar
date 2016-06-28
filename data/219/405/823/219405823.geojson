@@ -2,13 +2,14 @@
   "id": 219405823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.471534,35.089106,-92.471534,35.089106",
     "geom:latitude":35.089106,
     "geom:longitude":-92.471534,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"855 Salem Rd",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219405823,
-    "wof:lastmodified":1449073628,
+    "wof:lastmodified":1466322897,
     "wof:name":"Conway Kroger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trust"
     ]
 },
-  "bbox": [-92.471534,35.089106,-92.471534,35.089106],
-  "geometry": {"coordinates":[-92.471534,35.089106],"type":"Point"}
+  "bbox": [
+    -92.471534,
+    35.089106,
+    -92.471534,
+    35.089106
+],
+  "geometry": {"coordinates":[-92.47153400000001,35.089106],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102339803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.63962,35.769642,-91.63962,35.769642",
     "geom:latitude":35.769642,
     "geom:longitude":-91.63962,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1401 Harrison St",
     "sg:city":"Batesville",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85808231,
+        85688549,
         85633793,
         85920683,
         102083875,
-        85688549
+        85808231
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102339803,
-    "wof:lastmodified":1449068845,
+    "wof:lastmodified":1466323893,
     "wof:name":"Communications Limited",
     "wof:parent_id":85808231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.63962,35.769642,-91.63962,35.769642],
-  "geometry": {"coordinates":[-91.63962,35.769642],"type":"Point"}
+  "bbox": [
+    -91.63962,
+    35.769642,
+    -91.63962,
+    35.769642
+],
+  "geometry": {"coordinates":[-91.63961999999999,35.769642],"type":"Point"}
 }

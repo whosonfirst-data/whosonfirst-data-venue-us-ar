@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102329759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.833616,34.336012,-92.833616,34.336012",
     "geom:latitude":34.336012,
     "geom:longitude":-92.833616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26606 Hwy 67",
     "sg:city":"Malvern",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102329759,
-    "wof:lastmodified":1449068450,
+    "wof:lastmodified":1466323692,
     "wof:name":"Williams Wrecking Yard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.833616,34.336012,-92.833616,34.336012],
-  "geometry": {"coordinates":[-92.833616,34.336012],"type":"Point"}
+  "bbox": [
+    -92.833616,
+    34.336012,
+    -92.833616,
+    34.336012
+],
+  "geometry": {"coordinates":[-92.83361600000001,34.336012],"type":"Point"}
 }

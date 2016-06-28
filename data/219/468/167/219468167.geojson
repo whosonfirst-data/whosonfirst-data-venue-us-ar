@@ -2,13 +2,14 @@
   "id": 219468167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.421734,34.967907,-92.421734,34.967907",
     "geom:latitude":34.967907,
     "geom:longitude":-92.421734,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"795 Highway 365",
     "sg:city":"Mayflower",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219468167,
-    "wof:lastmodified":1449072932,
+    "wof:lastmodified":1466323534,
     "wof:name":"Palarm Chapel Missionary Bapti",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "churches-baptist"
     ]
 },
-  "bbox": [-92.421734,34.967907,-92.421734,34.967907],
+  "bbox": [
+    -92.421734,
+    34.967907,
+    -92.421734,
+    34.967907
+],
   "geometry": {"coordinates":[-92.421734,34.967907],"type":"Point"}
 }

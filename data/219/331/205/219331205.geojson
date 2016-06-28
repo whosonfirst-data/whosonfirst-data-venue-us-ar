@@ -2,13 +2,14 @@
   "id": 219331205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.363007,35.282379,-91.363007,35.282379",
     "geom:latitude":35.282379,
     "geom:longitude":-91.363007,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 Main St",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219331205,
-    "wof:lastmodified":1449072542,
+    "wof:lastmodified":1466322004,
     "wof:name":"Kissinger Furniture Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-91.363007,35.282379,-91.363007,35.282379],
+  "bbox": [
+    -91.363007,
+    35.282379,
+    -91.363007,
+    35.282379
+],
   "geometry": {"coordinates":[-91.363007,35.282379],"type":"Point"}
 }

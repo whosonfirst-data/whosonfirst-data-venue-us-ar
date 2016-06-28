@@ -2,13 +2,14 @@
   "id": 320761743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.7066,36.648188,-94.7066,36.648188",
     "geom:latitude":36.648188,
     "geom:longitude":-94.7066,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25501 S 655 Rd",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320761743,
-    "wof:lastmodified":1449014084,
+    "wof:lastmodified":1466320645,
     "wof:name":"Liz Lakeside Pastries",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-94.7066,36.648188,-94.7066,36.648188],
-  "geometry": {"coordinates":[-94.7066,36.648188],"type":"Point"}
+  "bbox": [
+    -94.7066,
+    36.648188,
+    -94.7066,
+    36.648188
+],
+  "geometry": {"coordinates":[-94.70659999999999,36.648188],"type":"Point"}
 }

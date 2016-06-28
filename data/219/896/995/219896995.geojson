@@ -2,13 +2,14 @@
   "id": 219896995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.196297,36.387449,-94.196297,36.387449",
     "geom:latitude":36.387449,
     "geom:longitude":-94.196297,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1300 NE J St",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219896995,
-    "wof:lastmodified":1449071680,
+    "wof:lastmodified":1466325021,
     "wof:name":"St Stephen Catholic Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "churches-catholic"
     ]
 },
-  "bbox": [-94.196297,36.387449,-94.196297,36.387449],
+  "bbox": [
+    -94.196297,
+    36.387449,
+    -94.196297,
+    36.387449
+],
   "geometry": {"coordinates":[-94.196297,36.387449],"type":"Point"}
 }

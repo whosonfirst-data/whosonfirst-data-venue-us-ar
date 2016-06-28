@@ -2,13 +2,14 @@
   "id": 219751891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.796086,36.355727,-91.796086,36.355727",
     "geom:latitude":36.355727,
     "geom:longitude":-91.796086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"876 Highway 62 E",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219751891,
-    "wof:lastmodified":1449070578,
+    "wof:lastmodified":1466324909,
     "wof:name":"Wheels In Motion",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealers-used"
     ]
 },
-  "bbox": [-91.796086,36.355727,-91.796086,36.355727],
+  "bbox": [
+    -91.796086,
+    36.355727,
+    -91.796086,
+    36.355727
+],
   "geometry": {"coordinates":[-91.796086,36.355727],"type":"Point"}
 }

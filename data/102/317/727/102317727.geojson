@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102317727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.568036,34.555143,-92.568036,34.555143",
     "geom:latitude":34.555143,
     "geom:longitude":-92.568036,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1423 Railroad Ave",
     "sg:city":"Benton",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102317727,
-    "wof:lastmodified":1449068862,
+    "wof:lastmodified":1466323460,
     "wof:name":"Pkp Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.568036,34.555143,-92.568036,34.555143],
-  "geometry": {"coordinates":[-92.568036,34.555143],"type":"Point"}
+  "bbox": [
+    -92.568036,
+    34.555143,
+    -92.568036,
+    34.555143
+],
+  "geometry": {"coordinates":[-92.56803600000001,34.555143],"type":"Point"}
 }

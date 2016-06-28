@@ -2,13 +2,14 @@
   "id": 220002819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.117432,36.311409,-94.117432,36.311409",
     "geom:latitude":36.311409,
     "geom:longitude":-94.117432,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1900 S 1st St Ste 6",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":220002819,
-    "wof:lastmodified":1449074705,
+    "wof:lastmodified":1466320458,
     "wof:name":"Family Dollar Stores",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "variety"
     ]
 },
-  "bbox": [-94.117432,36.311409,-94.117432,36.311409],
-  "geometry": {"coordinates":[-94.117432,36.311409],"type":"Point"}
+  "bbox": [
+    -94.117432,
+    36.311409,
+    -94.117432,
+    36.311409
+],
+  "geometry": {"coordinates":[-94.11743199999999,36.311409],"type":"Point"}
 }

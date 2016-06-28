@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102415991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.80626,33.62994,-91.80626,33.62994",
     "geom:latitude":33.62994,
     "geom:longitude":-91.80626,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"716 W Gaines Ave",
     "sg:city":"Monticello",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102415991,
-    "wof:lastmodified":1449069536,
+    "wof:lastmodified":1466325423,
     "wof:name":"Arkansas Imaging Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.80626,33.62994,-91.80626,33.62994],
-  "geometry": {"coordinates":[-91.80626,33.62994],"type":"Point"}
+  "bbox": [
+    -91.80626,
+    33.62994,
+    -91.80626,
+    33.62994
+],
+  "geometry": {"coordinates":[-91.80625999999999,33.62994],"type":"Point"}
 }

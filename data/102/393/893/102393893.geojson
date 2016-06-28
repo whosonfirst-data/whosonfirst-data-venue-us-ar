@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102393893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.172086,36.342884,-94.172086,36.342884",
     "geom:latitude":36.342884,
     "geom:longitude":-94.172086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1110 Quail Ter",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895853,
+        85688549,
         85633793,
         85921535,
         102083255,
-        85688549
+        85895853
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102393893,
-    "wof:lastmodified":1449068539,
+    "wof:lastmodified":1466324694,
     "wof:name":"Kathryn W Shassere",
     "wof:parent_id":85895853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.172086,36.342884,-94.172086,36.342884],
-  "geometry": {"coordinates":[-94.172086,36.342884],"type":"Point"}
+  "bbox": [
+    -94.172086,
+    36.342884,
+    -94.172086,
+    36.342884
+],
+  "geometry": {"coordinates":[-94.17208599999999,36.342884],"type":"Point"}
 }

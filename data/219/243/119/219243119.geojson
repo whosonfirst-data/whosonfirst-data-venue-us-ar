@@ -2,13 +2,14 @@
   "id": 219243119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.851387,33.933766,-93.851387,33.933766",
     "geom:latitude":33.933766,
     "geom:longitude":-93.851387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"920 S 4th St",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219243119,
-    "wof:lastmodified":1449071543,
+    "wof:lastmodified":1466321280,
     "wof:name":"Magna Carta Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.851387,33.933766,-93.851387,33.933766],
+  "bbox": [
+    -93.851387,
+    33.933766,
+    -93.851387,
+    33.933766
+],
   "geometry": {"coordinates":[-93.851387,33.933766],"type":"Point"}
 }

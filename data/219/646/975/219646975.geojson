@@ -2,13 +2,14 @@
   "id": 219646975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.639044,35.805495,-90.639044,35.805495",
     "geom:latitude":35.805495,
     "geom:longitude":-90.639044,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4517 E Parker Rd",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -70,10 +71,11 @@
         }
     ],
     "wof:id":219646975,
-    "wof:lastmodified":1449070294,
+    "wof:lastmodified":1466324705,
     "wof:name":"Harmony Gardens",
     "wof:parent_id":85836541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -88,6 +90,11 @@
         "landscape"
     ]
 },
-  "bbox": [-90.639044,35.805495,-90.639044,35.805495],
+  "bbox": [
+    -90.639044,
+    35.805495,
+    -90.639044,
+    35.805495
+],
   "geometry": {"coordinates":[-90.639044,35.805495],"type":"Point"}
 }

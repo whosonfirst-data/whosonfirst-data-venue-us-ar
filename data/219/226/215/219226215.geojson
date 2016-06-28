@@ -2,13 +2,14 @@
   "id": 219226215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.561952,33.512199,-93.561952,33.512199",
     "geom:latitude":33.512199,
     "geom:longitude":-93.561952,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"797 Highway 355 E",
     "sg:city":"Hope",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219226215,
-    "wof:lastmodified":1449072962,
+    "wof:lastmodified":1466321123,
     "wof:name":"Southwest Claims Service",
     "wof:parent_id":85806015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "adjuster"
     ]
 },
-  "bbox": [-93.561952,33.512199,-93.561952,33.512199],
-  "geometry": {"coordinates":[-93.561952,33.512199],"type":"Point"}
+  "bbox": [
+    -93.561952,
+    33.512199,
+    -93.561952,
+    33.512199
+],
+  "geometry": {"coordinates":[-93.56195200000001,33.512199],"type":"Point"}
 }

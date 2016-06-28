@@ -2,13 +2,14 @@
   "id": 353510959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.541466,36.177877,-94.541466,36.177877",
     "geom:latitude":36.177877,
     "geom:longitude":-94.541466,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"808 S Mount Olive St",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353510959,
-    "wof:lastmodified":1449019821,
+    "wof:lastmodified":1466320431,
     "wof:name":"Thai Spice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-94.541466,36.177877,-94.541466,36.177877],
+  "bbox": [
+    -94.541466,
+    36.177877,
+    -94.541466,
+    36.177877
+],
   "geometry": {"coordinates":[-94.541466,36.177877],"type":"Point"}
 }

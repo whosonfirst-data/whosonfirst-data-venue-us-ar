@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102310091",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.736541,35.242105,-91.736541,35.242105",
     "geom:latitude":35.242105,
     "geom:longitude":-91.736541,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"811 S Main St",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102310091",
-    "wof:lastmodified":1449069240,
+    "wof:lastmodified":1466323160,
     "wof:name":"Patient First Home Medical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.736541,35.242105,-91.736541,35.242105],
+  "bbox": [
+    -91.736541,
+    35.242105,
+    -91.736541,
+    35.242105
+],
   "geometry": {"coordinates":[-91.736541,35.242105],"type":"Point"}
 }

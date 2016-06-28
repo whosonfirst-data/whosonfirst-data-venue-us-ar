@@ -2,13 +2,14 @@
   "id": 219791891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.567116,36.365045,-93.567116,36.365045",
     "geom:latitude":36.365045,
     "geom:longitude":-93.567116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 Public Sq",
     "sg:city":"Berryville",
     "sg:classifiers":[
@@ -69,10 +70,11 @@
         }
     ],
     "wof:id":219791891,
-    "wof:lastmodified":1449073113,
+    "wof:lastmodified":1466324948,
     "wof:name":"Tony Mangrum Insurance Agency Inc - Farmers Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -82,6 +84,11 @@
         "homeowner"
     ]
 },
-  "bbox": [-93.567116,36.365045,-93.567116,36.365045],
+  "bbox": [
+    -93.567116,
+    36.365045,
+    -93.567116,
+    36.365045
+],
   "geometry": {"coordinates":[-93.567116,36.365045],"type":"Point"}
 }

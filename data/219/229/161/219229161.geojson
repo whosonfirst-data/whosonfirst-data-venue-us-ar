@@ -2,13 +2,14 @@
   "id": 219229161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.129066,33.672079,-94.129066,33.672079",
     "geom:latitude":33.672079,
     "geom:longitude":-94.129066,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Rankin St",
     "sg:city":"Ashdown",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219229161,
-    "wof:lastmodified":1449073219,
+    "wof:lastmodified":1466321166,
     "wof:name":"The Castle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.129066,33.672079,-94.129066,33.672079],
-  "geometry": {"coordinates":[-94.129066,33.672079],"type":"Point"}
+  "bbox": [
+    -94.129066,
+    33.672079,
+    -94.129066,
+    33.672079
+],
+  "geometry": {"coordinates":[-94.12906599999999,33.672079],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219878291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.222274,36.344218,-94.222274,36.344218",
     "geom:latitude":36.344218,
     "geom:longitude":-94.222274,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2719 SE I St",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219878291,
-    "wof:lastmodified":1449072228,
+    "wof:lastmodified":1466325156,
     "wof:name":"Cadle Kimberly MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.222274,36.344218,-94.222274,36.344218],
+  "bbox": [
+    -94.222274,
+    36.344218,
+    -94.222274,
+    36.344218
+],
   "geometry": {"coordinates":[-94.222274,36.344218],"type":"Point"}
 }

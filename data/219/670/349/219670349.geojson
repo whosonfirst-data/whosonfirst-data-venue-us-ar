@@ -2,13 +2,14 @@
   "id": 219670349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.177436,35.873572,-90.177436,35.873572",
     "geom:latitude":35.873572,
     "geom:longitude":-90.177436,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 S State Highway 77",
     "sg:city":"Manila",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219670349,
-    "wof:lastmodified":1449070916,
+    "wof:lastmodified":1466324588,
     "wof:name":"Fred's",
     "wof:parent_id":85814753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "variety"
     ]
 },
-  "bbox": [-90.177436,35.873572,-90.177436,35.873572],
+  "bbox": [
+    -90.177436,
+    35.873572,
+    -90.177436,
+    35.873572
+],
   "geometry": {"coordinates":[-90.177436,35.873572],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220027431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.148895,36.174726,-94.148895,36.174726",
     "geom:latitude":36.174726,
     "geom:longitude":-94.148895,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1810 W Sunset Ave",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220027431,
-    "wof:lastmodified":1449074186,
+    "wof:lastmodified":1466320506,
     "wof:name":"Buddy's Home Furnishings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-94.148895,36.174726,-94.148895,36.174726],
+  "bbox": [
+    -94.148895,
+    36.174726,
+    -94.148895,
+    36.174726
+],
   "geometry": {"coordinates":[-94.148895,36.174726],"type":"Point"}
 }

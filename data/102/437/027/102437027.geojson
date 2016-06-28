@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102437027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.460609,36.337036,-94.460609,36.337036",
     "geom:latitude":36.337036,
     "geom:longitude":-94.460609,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"248 N Main St",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102437027,
-    "wof:lastmodified":1449069539,
+    "wof:lastmodified":1466325570,
     "wof:name":"Decatur General Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.460609,36.337036,-94.460609,36.337036],
-  "geometry": {"coordinates":[-94.460609,36.337036],"type":"Point"}
+  "bbox": [
+    -94.460609,
+    36.337036,
+    -94.460609,
+    36.337036
+],
+  "geometry": {"coordinates":[-94.46060900000001,36.337036],"type":"Point"}
 }

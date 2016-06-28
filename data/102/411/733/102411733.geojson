@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102411733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.253392,34.551215,-94.253392,34.551215",
     "geom:latitude":34.551215,
     "geom:longitude":-94.253392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3128 Polk Road 293",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":102411733,
-    "wof:lastmodified":1449067890,
+    "wof:lastmodified":1466325058,
     "wof:name":"B & H Of Mena Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.253392,34.551215,-94.253392,34.551215],
-  "geometry": {"coordinates":[-94.253392,34.551215],"type":"Point"}
+  "bbox": [
+    -94.253392,
+    34.551215,
+    -94.253392,
+    34.551215
+],
+  "geometry": {"coordinates":[-94.25339200000001,34.551215],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102297757",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.273519,35.974096,-94.273519,35.974096",
     "geom:latitude":35.974096,
     "geom:longitude":-94.273519,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12010 Butler Rd",
     "sg:city":"Prairie Grove",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":"102297757",
-    "wof:lastmodified":1449069296,
+    "wof:lastmodified":1466323052,
     "wof:name":"Heart of America",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.273519,35.974096,-94.273519,35.974096],
-  "geometry": {"coordinates":[-94.273519,35.974096],"type":"Point"}
+  "bbox": [
+    -94.273519,
+    35.974096,
+    -94.273519,
+    35.974096
+],
+  "geometry": {"coordinates":[-94.27351899999999,35.974096],"type":"Point"}
 }

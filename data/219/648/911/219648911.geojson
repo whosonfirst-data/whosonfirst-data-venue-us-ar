@@ -2,13 +2,14 @@
   "id": 219648911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.667237,35.806192,-90.667237,35.806192",
     "geom:latitude":35.806192,
     "geom:longitude":-90.667237,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2907 E Parker Rd",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":219648911,
-    "wof:lastmodified":1449071372,
+    "wof:lastmodified":1466324714,
     "wof:name":"Central Pontiac Gmc Nissan",
     "wof:parent_id":85836541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -83,6 +85,11 @@
         "trailer"
     ]
 },
-  "bbox": [-90.667237,35.806192,-90.667237,35.806192],
+  "bbox": [
+    -90.667237,
+    35.806192,
+    -90.667237,
+    35.806192
+],
   "geometry": {"coordinates":[-90.667237,35.806192],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102320629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.185673,36.376739,-90.185673,36.376739",
     "geom:latitude":36.376739,
     "geom:longitude":-90.185673,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"480 E Bruce St",
     "sg:city":"Piggott",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102320629,
-    "wof:lastmodified":1449068397,
+    "wof:lastmodified":1466323465,
     "wof:name":"General Baptist Parsonage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.185673,36.376739,-90.185673,36.376739],
-  "geometry": {"coordinates":[-90.185673,36.376739],"type":"Point"}
+  "bbox": [
+    -90.185673,
+    36.376739,
+    -90.185673,
+    36.376739
+],
+  "geometry": {"coordinates":[-90.18567299999999,36.376739],"type":"Point"}
 }

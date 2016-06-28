@@ -2,13 +2,14 @@
   "id": 202854963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.995565,33.415915,-93.995565,33.415915",
     "geom:latitude":33.415915,
     "geom:longitude":-93.995565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4103 Tennessee Rd",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202854963,
-    "wof:lastmodified":1449062548,
+    "wof:lastmodified":1466324383,
     "wof:name":"Bruce's Salvage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "used"
     ]
 },
-  "bbox": [-93.995565,33.415915,-93.995565,33.415915],
+  "bbox": [
+    -93.995565,
+    33.415915,
+    -93.995565,
+    33.415915
+],
   "geometry": {"coordinates":[-93.995565,33.415915],"type":"Point"}
 }

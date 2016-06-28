@@ -2,13 +2,14 @@
   "id": 219665321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.71929,35.564812,-90.71929,35.564812",
     "geom:latitude":35.564812,
     "geom:longitude":-90.71929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 E Jackson St",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":219665321,
-    "wof:lastmodified":1449071473,
+    "wof:lastmodified":1466324788,
     "wof:name":"Tobacco Superstore",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "tobacco-wholesale"
     ]
 },
-  "bbox": [-90.71929,35.564812,-90.71929,35.564812],
+  "bbox": [
+    -90.71929,
+    35.564812,
+    -90.71929,
+    35.564812
+],
   "geometry": {"coordinates":[-90.71929,35.564812],"type":"Point"}
 }

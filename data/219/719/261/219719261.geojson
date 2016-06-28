@@ -2,13 +2,14 @@
   "id": 219719261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.20505,36.094639,-91.20505,36.094639",
     "geom:latitude":36.094639,
     "geom:longitude":-91.20505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2118 Highway 117",
     "sg:city":"Smithville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219719261,
-    "wof:lastmodified":1449070847,
+    "wof:lastmodified":1466324881,
     "wof:name":"Helms Roger & Marla Dr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-91.20505,36.094639,-91.20505,36.094639],
+  "bbox": [
+    -91.20505,
+    36.094639,
+    -91.20505,
+    36.094639
+],
   "geometry": {"coordinates":[-91.20505,36.094639],"type":"Point"}
 }

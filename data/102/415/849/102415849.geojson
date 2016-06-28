@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102415849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.203184,34.695215,-92.203184,34.695215",
     "geom:latitude":34.695215,
     "geom:longitude":-92.203184,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5401 Fletcher Rd",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102415849,
-    "wof:lastmodified":1449069535,
+    "wof:lastmodified":1466325393,
     "wof:name":"Fletcher & Co Sheet Metal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.203184,34.695215,-92.203184,34.695215],
-  "geometry": {"coordinates":[-92.203184,34.695215],"type":"Point"}
+  "bbox": [
+    -92.203184,
+    34.695215,
+    -92.203184,
+    34.695215
+],
+  "geometry": {"coordinates":[-92.20318399999999,34.695215],"type":"Point"}
 }

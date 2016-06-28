@@ -2,13 +2,14 @@
   "id": 219631093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.704533,35.851727,-90.704533,35.851727",
     "geom:latitude":35.851727,
     "geom:longitude":-90.704533,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"720 S Main St",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219631093,
-    "wof:lastmodified":1449071486,
+    "wof:lastmodified":1466324839,
     "wof:name":"Diabetic Education Of Arkansas",
     "wof:parent_id":85836541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welfare"
     ]
 },
-  "bbox": [-90.704533,35.851727,-90.704533,35.851727],
+  "bbox": [
+    -90.704533,
+    35.851727,
+    -90.704533,
+    35.851727
+],
   "geometry": {"coordinates":[-90.704533,35.851727],"type":"Point"}
 }

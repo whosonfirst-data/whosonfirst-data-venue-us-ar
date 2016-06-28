@@ -2,13 +2,14 @@
   "id": 219815353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.186405,36.075634,-94.186405,36.075634",
     "geom:latitude":36.075634,
     "geom:longitude":-94.186405,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1908 W Berry St",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219815353,
-    "wof:lastmodified":1449072101,
+    "wof:lastmodified":1466324971,
     "wof:name":"Ecoexplique",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "educational"
     ]
 },
-  "bbox": [-94.186405,36.075634,-94.186405,36.075634],
-  "geometry": {"coordinates":[-94.186405,36.075634],"type":"Point"}
+  "bbox": [
+    -94.186405,
+    36.075634,
+    -94.186405,
+    36.075634
+],
+  "geometry": {"coordinates":[-94.18640499999999,36.075634],"type":"Point"}
 }

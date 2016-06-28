@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102201611",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.157306,36.344937,-94.157306,36.344937",
     "geom:latitude":36.344937,
     "geom:longitude":-94.157306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1016 N 26th St",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102201611",
-    "wof:lastmodified":1449069854,
+    "wof:lastmodified":1466320720,
     "wof:name":"Planet Audio LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.157306,36.344937,-94.157306,36.344937],
-  "geometry": {"coordinates":[-94.157306,36.344937],"type":"Point"}
+  "bbox": [
+    -94.157306,
+    36.344937,
+    -94.157306,
+    36.344937
+],
+  "geometry": {"coordinates":[-94.15730600000001,36.344937],"type":"Point"}
 }

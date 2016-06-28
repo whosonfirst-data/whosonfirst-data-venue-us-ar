@@ -2,13 +2,14 @@
   "id": 219937213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.362119,36.055909,-94.362119,36.055909",
     "geom:latitude":36.055909,
     "geom:longitude":-94.362119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16664 Kinion Lake Rd",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219937213,
-    "wof:lastmodified":1449071058,
+    "wof:lastmodified":1466325168,
     "wof:name":"Gragg Consturction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "contractor"
     ]
 },
-  "bbox": [-94.362119,36.055909,-94.362119,36.055909],
-  "geometry": {"coordinates":[-94.362119,36.055909],"type":"Point"}
+  "bbox": [
+    -94.362119,
+    36.055909,
+    -94.362119,
+    36.055909
+],
+  "geometry": {"coordinates":[-94.36211900000001,36.055909],"type":"Point"}
 }

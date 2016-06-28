@@ -2,13 +2,14 @@
   "id": 219338087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.863219,35.124222,-91.863219,35.124222",
     "geom:latitude":35.124222,
     "geom:longitude":-91.863219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"591 Wagon Train Rd",
     "sg:city":"Beebe",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219338087,
-    "wof:lastmodified":1449071623,
+    "wof:lastmodified":1466322067,
     "wof:name":"Sunset Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.863219,35.124222,-91.863219,35.124222],
+  "bbox": [
+    -91.863219,
+    35.124222,
+    -91.863219,
+    35.124222
+],
   "geometry": {"coordinates":[-91.863219,35.124222],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219539031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.391289,34.307011,-92.391289,34.307011",
     "geom:latitude":34.307011,
     "geom:longitude":-92.391289,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"817 E Center St",
     "sg:city":"Sheridan",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":219539031,
-    "wof:lastmodified":1449074002,
+    "wof:lastmodified":1466324250,
     "wof:name":"Sheridan Nursery & Gift Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "baling"
     ]
 },
-  "bbox": [-92.391289,34.307011,-92.391289,34.307011],
+  "bbox": [
+    -92.391289,
+    34.307011,
+    -92.391289,
+    34.307011
+],
   "geometry": {"coordinates":[-92.391289,34.307011],"type":"Point"}
 }

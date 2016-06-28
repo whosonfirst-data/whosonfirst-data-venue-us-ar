@@ -2,13 +2,14 @@
   "id": 320000171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.765426,36.601255,-94.765426,36.601255",
     "geom:latitude":36.601255,
     "geom:longitude":-94.765426,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28730 S 620 Rd",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320000171,
-    "wof:lastmodified":1449011856,
+    "wof:lastmodified":1466320408,
     "wof:name":"Green Cnty Prsthtics Orthotics",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-94.765426,36.601255,-94.765426,36.601255],
-  "geometry": {"coordinates":[-94.765426,36.601255],"type":"Point"}
+  "bbox": [
+    -94.765426,
+    36.601255,
+    -94.765426,
+    36.601255
+],
+  "geometry": {"coordinates":[-94.76542600000001,36.601255],"type":"Point"}
 }

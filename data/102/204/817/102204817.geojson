@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102204817",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.169047,35.625801,-94.169047,35.625801",
     "geom:latitude":35.625801,
     "geom:longitude":-94.169047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"631 Oak St",
     "sg:city":"Mountainburg",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102204817",
-    "wof:lastmodified":1449070283,
+    "wof:lastmodified":1466320842,
     "wof:name":"Earth Tone Recording",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.169047,35.625801,-94.169047,35.625801],
-  "geometry": {"coordinates":[-94.169047,35.625801],"type":"Point"}
+  "bbox": [
+    -94.169047,
+    35.625801,
+    -94.169047,
+    35.625801
+],
+  "geometry": {"coordinates":[-94.16904700000001,35.625801],"type":"Point"}
 }

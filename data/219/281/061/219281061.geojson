@@ -2,13 +2,14 @@
   "id": 219281061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.056374,34.119621,-93.056374,34.119621",
     "geom:latitude":34.119621,
     "geom:longitude":-93.056374,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 Main St Ste E",
     "sg:city":"Arkadelphia",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219281061,
-    "wof:lastmodified":1449073375,
+    "wof:lastmodified":1466321576,
     "wof:name":"Turrell Meadows Apts Lp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.056374,34.119621,-93.056374,34.119621],
-  "geometry": {"coordinates":[-93.056374,34.119621],"type":"Point"}
+  "bbox": [
+    -93.056374,
+    34.119621,
+    -93.056374,
+    34.119621
+],
+  "geometry": {"coordinates":[-93.05637400000001,34.119621],"type":"Point"}
 }

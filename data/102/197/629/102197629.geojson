@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102197629",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.55348,35.984505,-91.55348,35.984505",
     "geom:latitude":35.984505,
     "geom:longitude":-91.55348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 E Ridge Rd",
     "sg:city":"Cave City",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":"102197629",
-    "wof:lastmodified":1449069877,
+    "wof:lastmodified":1466320684,
     "wof:name":"Charles Wilson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.55348,35.984505,-91.55348,35.984505],
-  "geometry": {"coordinates":[-91.55348,35.984505],"type":"Point"}
+  "bbox": [
+    -91.55348,
+    35.984505,
+    -91.55348,
+    35.984505
+],
+  "geometry": {"coordinates":[-91.55347999999999,35.984505],"type":"Point"}
 }

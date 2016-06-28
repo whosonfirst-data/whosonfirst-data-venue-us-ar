@@ -2,13 +2,14 @@
   "id": 219760025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.153779,36.277821,-93.153779,36.277821",
     "geom:latitude":36.277821,
     "geom:longitude":-93.153779,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3723 Antique Ct",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219760025,
-    "wof:lastmodified":1449073782,
+    "wof:lastmodified":1466324916,
     "wof:name":"Country House Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.153779,36.277821,-93.153779,36.277821],
+  "bbox": [
+    -93.153779,
+    36.277821,
+    -93.153779,
+    36.277821
+],
   "geometry": {"coordinates":[-93.153779,36.277821],"type":"Point"}
 }

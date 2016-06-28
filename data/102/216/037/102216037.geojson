@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102216037",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.299079,34.75947,-92.299079,34.75947",
     "geom:latitude":34.75947,
     "geom:longitude":-92.299079,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2222 Cottondale Ln",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85843255,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85843255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":"102216037",
-    "wof:lastmodified":1449069916,
+    "wof:lastmodified":1466320989,
     "wof:name":"Enchanted Forest Inc",
     "wof:parent_id":85843255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.299079,34.75947,-92.299079,34.75947],
-  "geometry": {"coordinates":[-92.299079,34.75947],"type":"Point"}
+  "bbox": [
+    -92.299079,
+    34.75947,
+    -92.299079,
+    34.75947
+],
+  "geometry": {"coordinates":[-92.29907900000001,34.75947],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219487651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.219291,34.829236,-92.219291,34.829236",
     "geom:latitude":34.829236,
     "geom:longitude":-92.219291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8205 Pennwood Dr",
     "sg:city":"Sherwood",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":219487651,
-    "wof:lastmodified":1449071551,
+    "wof:lastmodified":1466323800,
     "wof:name":"Grayson Outdoor Advertising",
     "wof:parent_id":85851723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "outdoor"
     ]
 },
-  "bbox": [-92.219291,34.829236,-92.219291,34.829236],
+  "bbox": [
+    -92.219291,
+    34.829236,
+    -92.219291,
+    34.829236
+],
   "geometry": {"coordinates":[-92.219291,34.829236],"type":"Point"}
 }

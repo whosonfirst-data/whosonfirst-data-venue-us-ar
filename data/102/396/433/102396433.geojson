@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102396433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.071713,36.405496,-94.071713,36.405496",
     "geom:latitude":36.405496,
     "geom:longitude":-94.071713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"280 US Hwy 62",
     "sg:city":"Avoca",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102396433,
-    "wof:lastmodified":1449069355,
+    "wof:lastmodified":1466324851,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.071713,36.405496,-94.071713,36.405496],
+  "bbox": [
+    -94.071713,
+    36.405496,
+    -94.071713,
+    36.405496
+],
   "geometry": {"coordinates":[-94.071713,36.405496],"type":"Point"}
 }

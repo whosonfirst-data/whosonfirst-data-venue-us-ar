@@ -2,13 +2,14 @@
   "id": 219652129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.821213,36.027455,-90.821213,36.027455",
     "geom:latitude":36.027455,
     "geom:longitude":-90.821213,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"277 Greene Road 314 Th",
     "sg:city":"Bono",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219652129,
-    "wof:lastmodified":1449072661,
+    "wof:lastmodified":1466324728,
     "wof:name":"Bobby R Brown",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.821213,36.027455,-90.821213,36.027455],
+  "bbox": [
+    -90.821213,
+    36.027455,
+    -90.821213,
+    36.027455
+],
   "geometry": {"coordinates":[-90.821213,36.027455],"type":"Point"}
 }

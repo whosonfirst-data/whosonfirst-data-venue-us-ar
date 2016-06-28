@@ -2,13 +2,14 @@
   "id": 219353493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.194598,34.88679,-91.194598,34.88679",
     "geom:latitude":34.88679,
     "geom:longitude":-91.194598,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"128 S Main Ave",
     "sg:city":"Brinkley",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219353493,
-    "wof:lastmodified":1449071421,
+    "wof:lastmodified":1466322309,
     "wof:name":"Keval Investment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "advisory"
     ]
 },
-  "bbox": [-91.194598,34.88679,-91.194598,34.88679],
+  "bbox": [
+    -91.194598,
+    34.88679,
+    -91.194598,
+    34.88679
+],
   "geometry": {"coordinates":[-91.194598,34.88679],"type":"Point"}
 }

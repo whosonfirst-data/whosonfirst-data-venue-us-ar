@@ -2,13 +2,14 @@
   "id": 303087569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.293309,34.554837,-94.293309,34.554837",
     "geom:latitude":34.554837,
     "geom:longitude":-94.293309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3484 US Hwy 71",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303087569,
-    "wof:lastmodified":1448999252,
+    "wof:lastmodified":1466324505,
     "wof:name":"Farmer's Tax Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "filing"
     ]
 },
-  "bbox": [-94.293309,34.554837,-94.293309,34.554837],
-  "geometry": {"coordinates":[-94.293309,34.554837],"type":"Point"}
+  "bbox": [
+    -94.293309,
+    34.554837,
+    -94.293309,
+    34.554837
+],
+  "geometry": {"coordinates":[-94.29330899999999,34.554837],"type":"Point"}
 }

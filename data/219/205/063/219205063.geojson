@@ -2,13 +2,14 @@
   "id": 219205063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.139232,33.209116,-93.139232,33.209116",
     "geom:latitude":33.209116,
     "geom:longitude":-93.139232,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"621 Columbia Road 44",
     "sg:city":"Magnolia",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219205063,
-    "wof:lastmodified":1449072525,
+    "wof:lastmodified":1466320912,
     "wof:name":"Griffeth Agri Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "fertilizer"
     ]
 },
-  "bbox": [-93.139232,33.209116,-93.139232,33.209116],
-  "geometry": {"coordinates":[-93.139232,33.209116],"type":"Point"}
+  "bbox": [
+    -93.139232,
+    33.209116,
+    -93.139232,
+    33.209116
+],
+  "geometry": {"coordinates":[-93.13923200000001,33.209116],"type":"Point"}
 }

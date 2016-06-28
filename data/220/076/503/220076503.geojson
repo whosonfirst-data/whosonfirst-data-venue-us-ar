@@ -2,13 +2,14 @@
   "id": 220076503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.459161,35.462419,-93.459161,35.462419",
     "geom:latitude":35.462419,
     "geom:longitude":-93.459161,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"911 S Rogers St",
     "sg:city":"Clarksville",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":220076503,
-    "wof:lastmodified":1449074672,
+    "wof:lastmodified":1466321469,
     "wof:name":"Pelts Floors & More",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "tile-contractors"
     ]
 },
-  "bbox": [-93.459161,35.462419,-93.459161,35.462419],
-  "geometry": {"coordinates":[-93.459161,35.462419],"type":"Point"}
+  "bbox": [
+    -93.459161,
+    35.462419,
+    -93.459161,
+    35.462419
+],
+  "geometry": {"coordinates":[-93.45916099999999,35.462419],"type":"Point"}
 }

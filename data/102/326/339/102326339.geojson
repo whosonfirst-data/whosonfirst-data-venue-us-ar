@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102326339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.241414,34.795203,-92.241414,34.795203",
     "geom:latitude":34.795203,
     "geom:longitude":-92.241414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4412 Randolph Rd",
     "sg:city":"North Little Rock",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829537,
+        85688549,
         85633793,
         85921255,
         102082497,
-        85688549,
+        85829537,
         85852263
     ],
     "wof:breaches":[],
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":102326339,
-    "wof:lastmodified":1449068786,
+    "wof:lastmodified":1466323580,
     "wof:name":"Civil Plg Design & Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.241414,34.795203,-92.241414,34.795203],
-  "geometry": {"coordinates":[-92.241414,34.795203],"type":"Point"}
+  "bbox": [
+    -92.241414,
+    34.795203,
+    -92.241414,
+    34.795203
+],
+  "geometry": {"coordinates":[-92.24141400000001,34.795203],"type":"Point"}
 }

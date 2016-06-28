@@ -2,13 +2,14 @@
   "id": 219727541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.595458,35.824083,-91.595458,35.824083",
     "geom:latitude":35.824083,
     "geom:longitude":-91.595458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 Cave Creek Rd",
     "sg:city":"Batesville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219727541,
-    "wof:lastmodified":1449070917,
+    "wof:lastmodified":1466324889,
     "wof:name":"Demented Toyz Custom Cars & Accessories",
     "wof:parent_id":85845643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "used"
     ]
 },
-  "bbox": [-91.595458,35.824083,-91.595458,35.824083],
-  "geometry": {"coordinates":[-91.595458,35.824083],"type":"Point"}
+  "bbox": [
+    -91.595458,
+    35.824083,
+    -91.595458,
+    35.824083
+],
+  "geometry": {"coordinates":[-91.59545799999999,35.824083],"type":"Point"}
 }

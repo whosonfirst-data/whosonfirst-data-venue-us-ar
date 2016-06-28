@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102422999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.330634,34.741664,-92.330634,34.741664",
     "geom:latitude":34.741664,
     "geom:longitude":-92.330634,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1119 S Van Buren St",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85838647,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85838647
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102422999,
-    "wof:lastmodified":1449067957,
+    "wof:lastmodified":1466325546,
     "wof:name":"Forest Park Medical Clinic",
     "wof:parent_id":85838647,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.330634,34.741664,-92.330634,34.741664],
+  "bbox": [
+    -92.330634,
+    34.741664,
+    -92.330634,
+    34.741664
+],
   "geometry": {"coordinates":[-92.330634,34.741664],"type":"Point"}
 }

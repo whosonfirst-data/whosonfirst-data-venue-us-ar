@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102429199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.104846,36.465429,-94.104846,36.465429",
     "geom:latitude":36.465429,
     "geom:longitude":-94.104846,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2536 Patterson Rd",
     "sg:city":"Pea Ridge",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102429199,
-    "wof:lastmodified":1449070069,
+    "wof:lastmodified":1466325333,
     "wof:name":"Lisa Vincent",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.104846,36.465429,-94.104846,36.465429],
-  "geometry": {"coordinates":[-94.104846,36.465429],"type":"Point"}
+  "bbox": [
+    -94.104846,
+    36.465429,
+    -94.104846,
+    36.465429
+],
+  "geometry": {"coordinates":[-94.10484599999999,36.465429],"type":"Point"}
 }

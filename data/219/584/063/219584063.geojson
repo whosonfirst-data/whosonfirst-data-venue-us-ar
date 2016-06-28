@@ -2,13 +2,14 @@
   "id": 219584063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.808296,35.130356,-90.808296,35.130356",
     "geom:latitude":35.130356,
     "geom:longitude":-90.808296,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"132 Central",
     "sg:city":"Colt",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219584063,
-    "wof:lastmodified":1449070774,
+    "wof:lastmodified":1466324756,
     "wof:name":"Divine Creation Hair Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.808296,35.130356,-90.808296,35.130356],
+  "bbox": [
+    -90.808296,
+    35.130356,
+    -90.808296,
+    35.130356
+],
   "geometry": {"coordinates":[-90.808296,35.130356],"type":"Point"}
 }

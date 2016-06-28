@@ -2,13 +2,14 @@
   "id": 220063693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.114398,35.277012,-93.114398,35.277012",
     "geom:latitude":35.277012,
     "geom:longitude":-93.114398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1602 E 2nd St",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220063693,
-    "wof:lastmodified":1449074092,
+    "wof:lastmodified":1466321116,
     "wof:name":"Visiting Nurses Agency Of Western Ark",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nurses-home"
     ]
 },
-  "bbox": [-93.114398,35.277012,-93.114398,35.277012],
-  "geometry": {"coordinates":[-93.114398,35.277012],"type":"Point"}
+  "bbox": [
+    -93.114398,
+    35.277012,
+    -93.114398,
+    35.277012
+],
+  "geometry": {"coordinates":[-93.11439799999999,35.277012],"type":"Point"}
 }

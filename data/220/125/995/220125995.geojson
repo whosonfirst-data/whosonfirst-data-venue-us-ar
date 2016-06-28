@@ -2,13 +2,14 @@
   "id": 220125995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.830551,35.487309,-93.830551,35.487309",
     "geom:latitude":35.487309,
     "geom:longitude":-93.830551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 W Commercial St",
     "sg:city":"Ozark",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220125995,
-    "wof:lastmodified":1449074847,
+    "wof:lastmodified":1466322700,
     "wof:name":"Bank of The Ozarks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commercial"
     ]
 },
-  "bbox": [-93.830551,35.487309,-93.830551,35.487309],
+  "bbox": [
+    -93.830551,
+    35.487309,
+    -93.830551,
+    35.487309
+],
   "geometry": {"coordinates":[-93.830551,35.487309],"type":"Point"}
 }

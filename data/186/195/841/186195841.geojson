@@ -2,13 +2,14 @@
   "id": 186195841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.29687,36.181885,-94.29687,36.181885",
     "geom:latitude":36.181885,
     "geom:longitude":-94.29687,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5121 Old Highway 100",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186195841,
-    "wof:lastmodified":1449052129,
+    "wof:lastmodified":1466320463,
     "wof:name":"Innovative Building Concepts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-94.29687,36.181885,-94.29687,36.181885],
+  "bbox": [
+    -94.29687,
+    36.181885,
+    -94.29687,
+    36.181885
+],
   "geometry": {"coordinates":[-94.29687,36.181885],"type":"Point"}
 }

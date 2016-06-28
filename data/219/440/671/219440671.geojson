@@ -2,13 +2,14 @@
   "id": 219440671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.113867,34.884506,-92.113867,34.884506",
     "geom:latitude":34.884506,
     "geom:longitude":-92.113867,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"519 Hapsburg St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219440671,
-    "wof:lastmodified":1449071636,
+    "wof:lastmodified":1466323254,
     "wof:name":"Corporate Care Nursing Service",
     "wof:parent_id":85852337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "facility"
     ]
 },
-  "bbox": [-92.113867,34.884506,-92.113867,34.884506],
+  "bbox": [
+    -92.113867,
+    34.884506,
+    -92.113867,
+    34.884506
+],
   "geometry": {"coordinates":[-92.113867,34.884506],"type":"Point"}
 }

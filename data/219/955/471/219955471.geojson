@@ -2,13 +2,14 @@
   "id": 219955471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.036668,36.337821,-94.036668,36.337821",
     "geom:latitude":36.337821,
     "geom:longitude":-94.036668,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15587 Putman Rd",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219955471,
-    "wof:lastmodified":1449072840,
+    "wof:lastmodified":1466325246,
     "wof:name":"Isurf Eureka Springs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-94.036668,36.337821,-94.036668,36.337821],
-  "geometry": {"coordinates":[-94.036668,36.337821],"type":"Point"}
+  "bbox": [
+    -94.036668,
+    36.337821,
+    -94.036668,
+    36.337821
+],
+  "geometry": {"coordinates":[-94.03666800000001,36.337821],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102202967",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.105314,36.315226,-94.105314,36.315226",
     "geom:latitude":36.315226,
     "geom:longitude":-94.105314,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1714 Monte NE Rd",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102202967",
-    "wof:lastmodified":1449069863,
+    "wof:lastmodified":1466320828,
     "wof:name":"Boston Concrete Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.105314,36.315226,-94.105314,36.315226],
-  "geometry": {"coordinates":[-94.105314,36.315226],"type":"Point"}
+  "bbox": [
+    -94.105314,
+    36.315226,
+    -94.105314,
+    36.315226
+],
+  "geometry": {"coordinates":[-94.10531400000001,36.315226],"type":"Point"}
 }

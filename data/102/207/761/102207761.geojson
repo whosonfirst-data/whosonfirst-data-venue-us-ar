@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102207761",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.168436,36.067553,-94.168436,36.067553",
     "geom:latitude":36.067553,
     "geom:longitude":-94.168436,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 Arkansas Ave",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.kappasigma.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885451,
+        85688549,
         85633793,
         85919609,
         102082007,
-        85688549
+        85885451
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102207761",
-    "wof:lastmodified":1449069483,
+    "wof:lastmodified":1466320923,
     "wof:name":"Kappa Sigma Fraternity",
     "wof:parent_id":85885451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.168436,36.067553,-94.168436,36.067553],
+  "bbox": [
+    -94.168436,
+    36.067553,
+    -94.168436,
+    36.067553
+],
   "geometry": {"coordinates":[-94.168436,36.067553],"type":"Point"}
 }

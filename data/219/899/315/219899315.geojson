@@ -2,13 +2,14 @@
   "id": 219899315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.215761,36.359789,-94.215761,36.359789",
     "geom:latitude":36.359789,
     "geom:longitude":-94.215761,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1108 S Walton Blvd",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":219899315,
-    "wof:lastmodified":1449073734,
+    "wof:lastmodified":1466325192,
     "wof:name":"Flash Market",
     "wof:parent_id":85895819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.215761,36.359789,-94.215761,36.359789],
+  "bbox": [
+    -94.215761,
+    36.359789,
+    -94.215761,
+    36.359789
+],
   "geometry": {"coordinates":[-94.215761,36.359789],"type":"Point"}
 }

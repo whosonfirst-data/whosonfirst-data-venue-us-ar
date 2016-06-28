@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102297019",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.212059,34.83735,-92.212059,34.83735",
     "geom:latitude":34.83735,
     "geom:longitude":-92.212059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2200 Thornhill Dr",
     "sg:city":"Sherwood",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.pcssd.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851723,
+        85688549,
         85633793,
         85921251,
         102082497,
-        85688549
+        85851723
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102297019",
-    "wof:lastmodified":1449069297,
+    "wof:lastmodified":1466322900,
     "wof:name":"Oakbrooke Elementary School",
     "wof:parent_id":85851723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.212059,34.83735,-92.212059,34.83735],
+  "bbox": [
+    -92.212059,
+    34.83735,
+    -92.212059,
+    34.83735
+],
   "geometry": {"coordinates":[-92.212059,34.83735],"type":"Point"}
 }

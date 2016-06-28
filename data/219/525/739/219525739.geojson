@@ -2,13 +2,14 @@
   "id": 219525739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.694828,35.249323,-91.694828,35.249323",
     "geom:latitude":35.249323,
     "geom:longitude":-91.694828,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 N Rand St",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219525739,
-    "wof:lastmodified":1449073196,
+    "wof:lastmodified":1466324148,
     "wof:name":"Gifford Insurance Agency",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "business"
     ]
 },
-  "bbox": [-91.694828,35.249323,-91.694828,35.249323],
+  "bbox": [
+    -91.694828,
+    35.249323,
+    -91.694828,
+    35.249323
+],
   "geometry": {"coordinates":[-91.694828,35.249323],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354052767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.432466,35.358862,-94.432466,35.358862",
     "geom:latitude":35.358862,
     "geom:longitude":-94.432466,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"318 State Line Rd",
     "sg:city":"Arkoma",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354052767,
-    "wof:lastmodified":1449066681,
+    "wof:lastmodified":1466324496,
     "wof:name":"Arkoma Headstart",
     "wof:parent_id":85809847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "school"
     ]
 },
-  "bbox": [-94.432466,35.358862,-94.432466,35.358862],
-  "geometry": {"coordinates":[-94.432466,35.358862],"type":"Point"}
+  "bbox": [
+    -94.432466,
+    35.358862,
+    -94.432466,
+    35.358862
+],
+  "geometry": {"coordinates":[-94.43246600000001,35.358862],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219499905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.155053,35.428602,-92.155053,35.428602",
     "geom:latitude":35.428602,
     "geom:longitude":-92.155053,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1924 Bettis Mountain Rd",
     "sg:city":"Quitman",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219499905,
-    "wof:lastmodified":1449071064,
+    "wof:lastmodified":1466323942,
     "wof:name":"Bar D Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.155053,35.428602,-92.155053,35.428602],
+  "bbox": [
+    -92.155053,
+    35.428602,
+    -92.155053,
+    35.428602
+],
   "geometry": {"coordinates":[-92.155053,35.428602],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219227789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.621868,33.661386,-93.621868,33.661386",
     "geom:latitude":33.661386,
     "geom:longitude":-93.621868,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2307 W 3rd St",
     "sg:city":"Hope",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":219227789,
-    "wof:lastmodified":1449071176,
+    "wof:lastmodified":1466321152,
     "wof:name":"Southern Lp Gas",
     "wof:parent_id":85806015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "gas-liquefied"
     ]
 },
-  "bbox": [-93.621868,33.661386,-93.621868,33.661386],
-  "geometry": {"coordinates":[-93.621868,33.661386],"type":"Point"}
+  "bbox": [
+    -93.621868,
+    33.661386,
+    -93.621868,
+    33.661386
+],
+  "geometry": {"coordinates":[-93.62186800000001,33.661386],"type":"Point"}
 }

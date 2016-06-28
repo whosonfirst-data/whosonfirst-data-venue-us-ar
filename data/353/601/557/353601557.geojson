@@ -2,13 +2,14 @@
   "id": 353601557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.838491,36.593741,-94.838491,36.593741",
     "geom:latitude":36.593741,
     "geom:longitude":-94.838491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6009 Lake Breeze Rd",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353601557,
-    "wof:lastmodified":1449019400,
+    "wof:lastmodified":1466320458,
     "wof:name":"Massey Dance Star Prod",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "clothes"
     ]
 },
-  "bbox": [-94.838491,36.593741,-94.838491,36.593741],
+  "bbox": [
+    -94.838491,
+    36.593741,
+    -94.838491,
+    36.593741
+],
   "geometry": {"coordinates":[-94.838491,36.593741],"type":"Point"}
 }

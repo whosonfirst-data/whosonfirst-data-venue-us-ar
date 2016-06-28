@@ -2,13 +2,14 @@
   "id": 219219079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.232605,33.266899,-93.232605,33.266899",
     "geom:latitude":33.266899,
     "geom:longitude":-93.232605,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"629 E Main St",
     "sg:city":"Magnolia",
     "sg:classifiers":[
@@ -73,10 +74,11 @@
         }
     ],
     "wof:id":219219079,
-    "wof:lastmodified":1449073770,
+    "wof:lastmodified":1466321036,
     "wof:name":"Edward Jones - MARK S WILEY",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -95,6 +97,11 @@
         "stock"
     ]
 },
-  "bbox": [-93.232605,33.266899,-93.232605,33.266899],
-  "geometry": {"coordinates":[-93.232605,33.266899],"type":"Point"}
+  "bbox": [
+    -93.232605,
+    33.266899,
+    -93.232605,
+    33.266899
+],
+  "geometry": {"coordinates":[-93.23260500000001,33.266899],"type":"Point"}
 }

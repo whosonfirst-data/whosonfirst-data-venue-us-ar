@@ -2,13 +2,14 @@
   "id": 219387255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.449268,35.112051,-92.449268,35.112051",
     "geom:latitude":35.112051,
     "geom:longitude":-92.449268,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2665 Donaghey Ave Suite 112",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":219387255,
-    "wof:lastmodified":1449073434,
+    "wof:lastmodified":1466322737,
     "wof:name":"Monarch Dental",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "dentistry"
     ]
 },
-  "bbox": [-92.449268,35.112051,-92.449268,35.112051],
+  "bbox": [
+    -92.449268,
+    35.112051,
+    -92.449268,
+    35.112051
+],
   "geometry": {"coordinates":[-92.449268,35.112051],"type":"Point"}
 }

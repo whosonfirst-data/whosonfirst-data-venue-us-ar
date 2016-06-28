@@ -2,13 +2,14 @@
   "id": 219158609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.800765,33.621035,-91.800765,33.621035",
     "geom:latitude":33.621035,
     "geom:longitude":-91.800765,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"617 W Bolling St",
     "sg:city":"Monticello",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219158609,
-    "wof:lastmodified":1449072741,
+    "wof:lastmodified":1466320458,
     "wof:name":"Jim Moore Jr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentists-orthodontists"
     ]
 },
-  "bbox": [-91.800765,33.621035,-91.800765,33.621035],
+  "bbox": [
+    -91.800765,
+    33.621035,
+    -91.800765,
+    33.621035
+],
   "geometry": {"coordinates":[-91.800765,33.621035],"type":"Point"}
 }

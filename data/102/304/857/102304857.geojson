@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102304857",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.697049,35.212976,-90.697049,35.212976",
     "geom:latitude":35.212976,
     "geom:longitude":-90.697049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1051 Co Rd 739",
     "sg:city":"Wynne",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":"102304857",
-    "wof:lastmodified":1449069590,
+    "wof:lastmodified":1466323218,
     "wof:name":"Jeremy Sides",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.697049,35.212976,-90.697049,35.212976],
-  "geometry": {"coordinates":[-90.697049,35.212976],"type":"Point"}
+  "bbox": [
+    -90.697049,
+    35.212976,
+    -90.697049,
+    35.212976
+],
+  "geometry": {"coordinates":[-90.69704900000001,35.212976],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102330241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.305579,36.378033,-92.305579,36.378033",
     "geom:latitude":36.378033,
     "geom:longitude":-92.305579,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"281 Lorraine Pl",
     "sg:city":"Mountain Home",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":102330241,
-    "wof:lastmodified":1449068954,
+    "wof:lastmodified":1466323590,
     "wof:name":"Robert N Digiandomenico",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.305579,36.378033,-92.305579,36.378033],
-  "geometry": {"coordinates":[-92.305579,36.378033],"type":"Point"}
+  "bbox": [
+    -92.305579,
+    36.378033,
+    -92.305579,
+    36.378033
+],
+  "geometry": {"coordinates":[-92.30557899999999,36.378033],"type":"Point"}
 }

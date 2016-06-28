@@ -2,13 +2,14 @@
   "id": 337296615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.811885,36.548028,-94.811885,36.548028",
     "geom:latitude":36.548028,
     "geom:longitude":-94.811885,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"32352 S 599 Loop",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337296615,
-    "wof:lastmodified":1449027592,
+    "wof:lastmodified":1466322230,
     "wof:name":"Pro Care Inc",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-94.811885,36.548028,-94.811885,36.548028],
+  "bbox": [
+    -94.811885,
+    36.548028,
+    -94.811885,
+    36.548028
+],
   "geometry": {"coordinates":[-94.811885,36.548028],"type":"Point"}
 }

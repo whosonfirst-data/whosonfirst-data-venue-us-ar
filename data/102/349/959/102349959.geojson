@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102349959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.043486,35.30185,-94.043486,35.30185",
     "geom:latitude":35.30185,
     "geom:longitude":-94.043486,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"522 N School St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885347,
+        85688549,
         85633793,
         85920749,
         102083207,
-        85688549
+        85885347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102349959,
-    "wof:lastmodified":1449068696,
+    "wof:lastmodified":1466324131,
     "wof:name":"Robert's Stump Grinding",
     "wof:parent_id":85885347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.043486,35.30185,-94.043486,35.30185],
+  "bbox": [
+    -94.043486,
+    35.30185,
+    -94.043486,
+    35.30185
+],
   "geometry": {"coordinates":[-94.043486,35.30185],"type":"Point"}
 }

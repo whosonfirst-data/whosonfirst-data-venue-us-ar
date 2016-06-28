@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102242407",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.231341,34.831483,-92.231341,34.831483",
     "geom:latitude":34.831483,
     "geom:longitude":-92.231341,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8212 State Hwy 107",
     "sg:city":"North Little Rock",
     "sg:classifiers":[
@@ -35,11 +36,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851793,
+        85688549,
         85633793,
         85921255,
         102082497,
-        85688549
+        85851793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":"102242407",
-    "wof:lastmodified":1449069897,
+    "wof:lastmodified":1466321689,
     "wof:name":"Rub Club",
     "wof:parent_id":85851793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.231341,34.831483,-92.231341,34.831483],
+  "bbox": [
+    -92.231341,
+    34.831483,
+    -92.231341,
+    34.831483
+],
   "geometry": {"coordinates":[-92.231341,34.831483],"type":"Point"}
 }

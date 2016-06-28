@@ -2,13 +2,14 @@
   "id": 219819381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.160587,36.062732,-94.160587,36.062732",
     "geom:latitude":36.062732,
     "geom:longitude":-94.160587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 N Block Ave",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":219819381,
-    "wof:lastmodified":1449071232,
+    "wof:lastmodified":1466325046,
     "wof:name":"French Quarters",
     "wof:parent_id":85885459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "hand"
     ]
 },
-  "bbox": [-94.160587,36.062732,-94.160587,36.062732],
-  "geometry": {"coordinates":[-94.160587,36.062732],"type":"Point"}
+  "bbox": [
+    -94.160587,
+    36.062732,
+    -94.160587,
+    36.062732
+],
+  "geometry": {"coordinates":[-94.16058700000001,36.062732],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102332019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.733325,36.389016,-93.733325,36.389016",
     "geom:latitude":36.389016,
     "geom:longitude":-93.733325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2023 E Van Buren",
     "sg:city":"Eureka Springs",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102332019,
-    "wof:lastmodified":1449069075,
+    "wof:lastmodified":1466323593,
     "wof:name":"1876 Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.733325,36.389016,-93.733325,36.389016],
-  "geometry": {"coordinates":[-93.733325,36.389016],"type":"Point"}
+  "bbox": [
+    -93.733325,
+    36.389016,
+    -93.733325,
+    36.389016
+],
+  "geometry": {"coordinates":[-93.73332499999999,36.389016],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102343295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.357391,35.435143,-94.357391,35.435143",
     "geom:latitude":35.435143,
     "geom:longitude":-94.357391,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 N 3rd St",
     "sg:city":"Van Buren",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102343295,
-    "wof:lastmodified":1449069515,
+    "wof:lastmodified":1466323854,
     "wof:name":"Spencer's Candlery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.357391,35.435143,-94.357391,35.435143],
-  "geometry": {"coordinates":[-94.357391,35.435143],"type":"Point"}
+  "bbox": [
+    -94.357391,
+    35.435143,
+    -94.357391,
+    35.435143
+],
+  "geometry": {"coordinates":[-94.35739100000001,35.435143],"type":"Point"}
 }

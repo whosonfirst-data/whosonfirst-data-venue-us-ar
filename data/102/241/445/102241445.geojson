@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102241445",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.167589,35.880228,-90.167589,35.880228",
     "geom:latitude":35.880228,
     "geom:longitude":-90.167589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 E Olympia Ave",
     "sg:city":"Manila",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102241445",
-    "wof:lastmodified":1449070146,
+    "wof:lastmodified":1466321682,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.167589,35.880228,-90.167589,35.880228],
-  "geometry": {"coordinates":[-90.167589,35.880228],"type":"Point"}
+  "bbox": [
+    -90.167589,
+    35.880228,
+    -90.167589,
+    35.880228
+],
+  "geometry": {"coordinates":[-90.16758900000001,35.880228],"type":"Point"}
 }

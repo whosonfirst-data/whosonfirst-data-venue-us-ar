@@ -2,13 +2,14 @@
   "id": 219463879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.812717,34.3646,-92.812717,34.3646",
     "geom:latitude":34.3646,
     "geom:longitude":-92.812717,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 E 2nd St",
     "sg:city":"Malvern",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":219463879,
-    "wof:lastmodified":1449072843,
+    "wof:lastmodified":1466323497,
     "wof:name":"Farmers Insurance Mary Gage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "business"
     ]
 },
-  "bbox": [-92.812717,34.3646,-92.812717,34.3646],
-  "geometry": {"coordinates":[-92.812717,34.3646],"type":"Point"}
+  "bbox": [
+    -92.812717,
+    34.3646,
+    -92.812717,
+    34.3646
+],
+  "geometry": {"coordinates":[-92.81271700000001,34.3646],"type":"Point"}
 }

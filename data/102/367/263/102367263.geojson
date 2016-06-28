@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102367263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.048093,34.532453,-93.048093,34.532453",
     "geom:latitude":34.532453,
     "geom:longitude":-93.048093,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Harrell St",
     "sg:city":"Hot Springs",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102367263,
-    "wof:lastmodified":1449069170,
+    "wof:lastmodified":1466324386,
     "wof:name":"James Gray",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.048093,34.532453,-93.048093,34.532453],
-  "geometry": {"coordinates":[-93.048093,34.532453],"type":"Point"}
+  "bbox": [
+    -93.048093,
+    34.532453,
+    -93.048093,
+    34.532453
+],
+  "geometry": {"coordinates":[-93.04809299999999,34.532453],"type":"Point"}
 }

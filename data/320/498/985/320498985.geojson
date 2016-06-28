@@ -2,13 +2,14 @@
   "id": 320498985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.378084,34.485007,-94.378084,34.485007",
     "geom:latitude":34.485007,
     "geom:longitude":-94.378084,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 E Hornbeck Ave",
     "sg:city":"Vandervoort",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320498985,
-    "wof:lastmodified":1449014062,
+    "wof:lastmodified":1466320566,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.378084,34.485007,-94.378084,34.485007],
+  "bbox": [
+    -94.378084,
+    34.485007,
+    -94.378084,
+    34.485007
+],
   "geometry": {"coordinates":[-94.378084,34.485007],"type":"Point"}
 }

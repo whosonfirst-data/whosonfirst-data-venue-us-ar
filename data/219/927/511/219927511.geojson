@@ -2,13 +2,14 @@
   "id": 219927511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.371074,36.363241,-94.371074,36.363241",
     "geom:latitude":36.363241,
     "geom:longitude":-94.371074,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15145 Shipe Rd",
     "sg:city":"Gravette",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219927511,
-    "wof:lastmodified":1449073546,
+    "wof:lastmodified":1466325151,
     "wof:name":"Curtis Custom Builders",
     "wof:parent_id":85853527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "contractor"
     ]
 },
-  "bbox": [-94.371074,36.363241,-94.371074,36.363241],
-  "geometry": {"coordinates":[-94.371074,36.363241],"type":"Point"}
+  "bbox": [
+    -94.371074,
+    36.363241,
+    -94.371074,
+    36.363241
+],
+  "geometry": {"coordinates":[-94.37107399999999,36.363241],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 235947485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.772999,36.57502,-94.772999,36.57502",
     "geom:latitude":36.57502,
     "geom:longitude":-94.772999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2120 S Spring St",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":235947485,
-    "wof:lastmodified":1449008501,
+    "wof:lastmodified":1466320429,
     "wof:name":"Carver Chiropractic Clinic",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chiropractic"
     ]
 },
-  "bbox": [-94.772999,36.57502,-94.772999,36.57502],
+  "bbox": [
+    -94.772999,
+    36.57502,
+    -94.772999,
+    36.57502
+],
   "geometry": {"coordinates":[-94.772999,36.57502],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219389191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.331223,35.085548,-92.331223,35.085548",
     "geom:latitude":35.085548,
     "geom:longitude":-92.331223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"496 Highway 64 E",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219389191,
-    "wof:lastmodified":1449073216,
+    "wof:lastmodified":1466322754,
     "wof:name":"For Mor Intl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "diet"
     ]
 },
-  "bbox": [-92.331223,35.085548,-92.331223,35.085548],
-  "geometry": {"coordinates":[-92.331223,35.085548],"type":"Point"}
+  "bbox": [
+    -92.331223,
+    35.085548,
+    -92.331223,
+    35.085548
+],
+  "geometry": {"coordinates":[-92.33122299999999,35.085548],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102242265",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.024988,33.430831,-94.024988,33.430831",
     "geom:latitude":33.430831,
     "geom:longitude":-94.024988,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1616 E 9th St",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102242265",
-    "wof:lastmodified":1449069896,
+    "wof:lastmodified":1466321660,
     "wof:name":"Elite Transmission",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.024988,33.430831,-94.024988,33.430831],
-  "geometry": {"coordinates":[-94.024988,33.430831],"type":"Point"}
+  "bbox": [
+    -94.024988,
+    33.430831,
+    -94.024988,
+    33.430831
+],
+  "geometry": {"coordinates":[-94.02498799999999,33.430831],"type":"Point"}
 }

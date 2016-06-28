@@ -2,13 +2,14 @@
   "id": 220085845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.057983,35.360895,-93.057983,35.360895",
     "geom:latitude":35.360895,
     "geom:longitude":-93.057983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"414 Turner Rd",
     "sg:city":"Dover",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220085845,
-    "wof:lastmodified":1449074230,
+    "wof:lastmodified":1466321762,
     "wof:name":"J L K Bulletts",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ammunition"
     ]
 },
-  "bbox": [-93.057983,35.360895,-93.057983,35.360895],
-  "geometry": {"coordinates":[-93.057983,35.360895],"type":"Point"}
+  "bbox": [
+    -93.057983,
+    35.360895,
+    -93.057983,
+    35.360895
+],
+  "geometry": {"coordinates":[-93.05798299999999,35.360895],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102374221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.822611,36.370868,-91.822611,36.370868",
     "geom:latitude":36.370868,
     "geom:longitude":-91.822611,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 S Main St",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102374221,
-    "wof:lastmodified":1449068810,
+    "wof:lastmodified":1466320885,
     "wof:name":"Mack-Reynolds Appraisal Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.822611,36.370868,-91.822611,36.370868],
-  "geometry": {"coordinates":[-91.822611,36.370868],"type":"Point"}
+  "bbox": [
+    -91.822611,
+    36.370868,
+    -91.822611,
+    36.370868
+],
+  "geometry": {"coordinates":[-91.82261099999999,36.370868],"type":"Point"}
 }

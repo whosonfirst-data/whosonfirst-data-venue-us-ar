@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102260867",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.187396,36.335219,-94.187396,36.335219",
     "geom:latitude":36.335219,
     "geom:longitude":-94.187396,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2205 SE Walton Blvd",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.grc-nwa.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895853,
+        85688549,
         85633793,
         85921535,
         102083255,
-        85688549
+        85895853
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102260867",
-    "wof:lastmodified":1449068210,
+    "wof:lastmodified":1466322218,
     "wof:name":"Grace Reform Chapel",
     "wof:parent_id":85895853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.187396,36.335219,-94.187396,36.335219],
-  "geometry": {"coordinates":[-94.187396,36.335219],"type":"Point"}
+  "bbox": [
+    -94.187396,
+    36.335219,
+    -94.187396,
+    36.335219
+],
+  "geometry": {"coordinates":[-94.18739600000001,36.335219],"type":"Point"}
 }

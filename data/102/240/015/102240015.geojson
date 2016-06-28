@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102240015",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.724438,35.560991,-90.724438,35.560991",
     "geom:latitude":35.560991,
     "geom:longitude":-90.724438,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"409 S Illinois Ave",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102240015",
-    "wof:lastmodified":1449068042,
+    "wof:lastmodified":1466321549,
     "wof:name":"Westside Paramedic Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.724438,35.560991,-90.724438,35.560991],
-  "geometry": {"coordinates":[-90.724438,35.560991],"type":"Point"}
+  "bbox": [
+    -90.724438,
+    35.560991,
+    -90.724438,
+    35.560991
+],
+  "geometry": {"coordinates":[-90.72443800000001,35.560991],"type":"Point"}
 }

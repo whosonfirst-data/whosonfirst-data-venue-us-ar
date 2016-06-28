@@ -2,13 +2,14 @@
   "id": 220083647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.069073,35.095153,-93.069073,35.095153",
     "geom:latitude":35.095153,
     "geom:longitude":-93.069073,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12001 Country Loop",
     "sg:city":"Dardanelle",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":220083647,
-    "wof:lastmodified":1449074404,
+    "wof:lastmodified":1466321657,
     "wof:name":"Gary L Adaire",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.069073,35.095153,-93.069073,35.095153],
+  "bbox": [
+    -93.069073,
+    35.095153,
+    -93.069073,
+    35.095153
+],
   "geometry": {"coordinates":[-93.069073,35.095153],"type":"Point"}
 }

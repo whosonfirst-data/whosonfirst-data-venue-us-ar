@@ -2,13 +2,14 @@
   "id": 219471699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.745026,35.153028,-92.745026,35.153028",
     "geom:latitude":35.153028,
     "geom:longitude":-92.745026,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 N Division St",
     "sg:city":"Morrilton",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":219471699,
-    "wof:lastmodified":1449071802,
+    "wof:lastmodified":1466323590,
     "wof:name":"Conway County Economic Development Corp",
     "wof:parent_id":85814069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "development"
     ]
 },
-  "bbox": [-92.745026,35.153028,-92.745026,35.153028],
+  "bbox": [
+    -92.745026,
+    35.153028,
+    -92.745026,
+    35.153028
+],
   "geometry": {"coordinates":[-92.745026,35.153028],"type":"Point"}
 }

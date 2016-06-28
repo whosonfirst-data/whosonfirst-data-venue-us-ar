@@ -2,13 +2,14 @@
   "id": 219469877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.723889,35.152113,-92.723889,35.152113",
     "geom:latitude":35.152113,
     "geom:longitude":-92.723889,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1509 E Broadway St",
     "sg:city":"Morrilton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219469877,
-    "wof:lastmodified":1449074023,
+    "wof:lastmodified":1466323554,
     "wof:name":"Kcs Place",
     "wof:parent_id":85814069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "night"
     ]
 },
-  "bbox": [-92.723889,35.152113,-92.723889,35.152113],
+  "bbox": [
+    -92.723889,
+    35.152113,
+    -92.723889,
+    35.152113
+],
   "geometry": {"coordinates":[-92.723889,35.152113],"type":"Point"}
 }

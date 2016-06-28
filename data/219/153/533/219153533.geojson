@@ -2,13 +2,14 @@
   "id": 219153533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.796677,33.225719,-91.796677,33.225719",
     "geom:latitude":33.225719,
     "geom:longitude":-91.796677,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 E Lincoln St",
     "sg:city":"Hamburg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219153533,
-    "wof:lastmodified":1449072814,
+    "wof:lastmodified":1466320415,
     "wof:name":"National Guardian Life Insurance Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.796677,33.225719,-91.796677,33.225719],
+  "bbox": [
+    -91.796677,
+    33.225719,
+    -91.796677,
+    33.225719
+],
   "geometry": {"coordinates":[-91.796677,33.225719],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102324391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.01788,34.186428,-92.01788,34.186428",
     "geom:latitude":34.186428,
     "geom:longitude":-92.01788,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1610 W 42nd Ave",
     "sg:city":"Pine Bluff",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102324391,
-    "wof:lastmodified":1449069150,
+    "wof:lastmodified":1466323533,
     "wof:name":"Pine Bluff Internal Medicine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.01788,34.186428,-92.01788,34.186428],
-  "geometry": {"coordinates":[-92.01788,34.186428],"type":"Point"}
+  "bbox": [
+    -92.01788,
+    34.186428,
+    -92.01788,
+    34.186428
+],
+  "geometry": {"coordinates":[-92.01788000000001,34.186428],"type":"Point"}
 }

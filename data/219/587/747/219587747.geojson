@@ -2,13 +2,14 @@
   "id": 219587747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.592364,34.497825,-90.592364,34.497825",
     "geom:latitude":34.497825,
     "geom:longitude":-90.592364,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1007 Martin Luther King Jr Dr",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219587747,
-    "wof:lastmodified":1449071612,
+    "wof:lastmodified":1466324573,
     "wof:name":"Americas Best Value Inn",
     "wof:parent_id":85838649,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lodging"
     ]
 },
-  "bbox": [-90.592364,34.497825,-90.592364,34.497825],
+  "bbox": [
+    -90.592364,
+    34.497825,
+    -90.592364,
+    34.497825
+],
   "geometry": {"coordinates":[-90.592364,34.497825],"type":"Point"}
 }

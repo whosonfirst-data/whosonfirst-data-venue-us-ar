@@ -2,13 +2,14 @@
   "id": 219219223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.725258,33.364385,-92.725258,33.364385",
     "geom:latitude":33.364385,
     "geom:longitude":-92.725258,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"704 Broadway St",
     "sg:city":"Smackover",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219219223,
-    "wof:lastmodified":1449073765,
+    "wof:lastmodified":1466321037,
     "wof:name":"Tennyson Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "oils-petroleum"
     ]
 },
-  "bbox": [-92.725258,33.364385,-92.725258,33.364385],
+  "bbox": [
+    -92.725258,
+    33.364385,
+    -92.725258,
+    33.364385
+],
   "geometry": {"coordinates":[-92.725258,33.364385],"type":"Point"}
 }

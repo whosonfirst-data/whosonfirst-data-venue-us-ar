@@ -2,13 +2,14 @@
   "id": 219878297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.219249,36.405261,-94.219249,36.405261",
     "geom:latitude":36.405261,
     "geom:longitude":-94.219249,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3216 NW Avignon Way Ste 8",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":219878297,
-    "wof:lastmodified":1449072227,
+    "wof:lastmodified":1466325156,
     "wof:name":"Project Initiative",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investing"
     ]
 },
-  "bbox": [-94.219249,36.405261,-94.219249,36.405261],
+  "bbox": [
+    -94.219249,
+    36.405261,
+    -94.219249,
+    36.405261
+],
   "geometry": {"coordinates":[-94.219249,36.405261],"type":"Point"}
 }

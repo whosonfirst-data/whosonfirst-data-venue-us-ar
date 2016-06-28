@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102384497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.186043,36.056437,-94.186043,36.056437",
     "geom:latitude":36.056437,
     "geom:longitude":-94.186043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1895 W 6th St",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885441,
+        85688549,
         85633793,
         85919609,
         102082007,
-        85688549
+        85885441
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102384497,
-    "wof:lastmodified":1449068114,
+    "wof:lastmodified":1466323018,
     "wof:name":"Surplus City Inc",
     "wof:parent_id":85885441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.186043,36.056437,-94.186043,36.056437],
+  "bbox": [
+    -94.186043,
+    36.056437,
+    -94.186043,
+    36.056437
+],
   "geometry": {"coordinates":[-94.186043,36.056437],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102323141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.510917,34.66164,-92.510917,34.66164",
     "geom:latitude":34.66164,
     "geom:longitude":-92.510917,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2124 David Dr",
     "sg:city":"Alexander",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102323141,
-    "wof:lastmodified":1449068008,
+    "wof:lastmodified":1466323457,
     "wof:name":"Aldridge Window Cleaning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.510917,34.66164,-92.510917,34.66164],
-  "geometry": {"coordinates":[-92.510917,34.66164],"type":"Point"}
+  "bbox": [
+    -92.510917,
+    34.66164,
+    -92.510917,
+    34.66164
+],
+  "geometry": {"coordinates":[-92.51091700000001,34.66164],"type":"Point"}
 }

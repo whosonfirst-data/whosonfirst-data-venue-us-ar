@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102200765",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.153342,35.220419,-93.153342,35.220419",
     "geom:latitude":35.220419,
     "geom:longitude":-93.153342,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Locust St",
     "sg:city":"Dardanelle",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102083263,
-        85633793,
         85688549,
-        85837547
+        85633793,
+        85837547,
+        102083263
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102200765",
-    "wof:lastmodified":1449068729,
+    "wof:lastmodified":1466320647,
     "wof:name":"Advantage 1",
     "wof:parent_id":85837547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.153342,35.220419,-93.153342,35.220419],
-  "geometry": {"coordinates":[-93.153342,35.220419],"type":"Point"}
+  "bbox": [
+    -93.153342,
+    35.220419,
+    -93.153342,
+    35.220419
+],
+  "geometry": {"coordinates":[-93.15334199999999,35.220419],"type":"Point"}
 }

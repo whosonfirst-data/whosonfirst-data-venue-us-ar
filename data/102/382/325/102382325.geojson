@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102382325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.004692,35.019941,-92.004692,35.019941",
     "geom:latitude":35.019941,
     "geom:longitude":-92.004692,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"350 Memory Dr",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102382325,
-    "wof:lastmodified":1449068427,
+    "wof:lastmodified":1466322569,
     "wof:name":"Compliance Management",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.004692,35.019941,-92.004692,35.019941],
-  "geometry": {"coordinates":[-92.004692,35.019941],"type":"Point"}
+  "bbox": [
+    -92.004692,
+    35.019941,
+    -92.004692,
+    35.019941
+],
+  "geometry": {"coordinates":[-92.00469200000001,35.019941],"type":"Point"}
 }

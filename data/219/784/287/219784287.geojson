@@ -2,13 +2,14 @@
   "id": 219784287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.297768,36.293655,-93.297768,36.293655",
     "geom:latitude":36.293655,
     "geom:longitude":-93.297768,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Highway 412",
     "sg:city":"Alpena",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219784287,
-    "wof:lastmodified":1449072742,
+    "wof:lastmodified":1466324935,
     "wof:name":"Summerwinds Resort Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.297768,36.293655,-93.297768,36.293655],
+  "bbox": [
+    -93.297768,
+    36.293655,
+    -93.297768,
+    36.293655
+],
   "geometry": {"coordinates":[-93.297768,36.293655],"type":"Point"}
 }

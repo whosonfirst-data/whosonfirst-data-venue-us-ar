@@ -2,13 +2,14 @@
   "id": 219376993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.432447,35.072461,-92.432447,35.072461",
     "geom:latitude":35.072461,
     "geom:longitude":-92.432447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 S Harkrider St",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -67,10 +68,11 @@
         }
     ],
     "wof:id":219376993,
-    "wof:lastmodified":1449071606,
+    "wof:lastmodified":1466322647,
     "wof:name":"McKinney Tire & Auto Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -83,6 +85,11 @@
         "alignment-frame"
     ]
 },
-  "bbox": [-92.432447,35.072461,-92.432447,35.072461],
+  "bbox": [
+    -92.432447,
+    35.072461,
+    -92.432447,
+    35.072461
+],
   "geometry": {"coordinates":[-92.432447,35.072461],"type":"Point"}
 }

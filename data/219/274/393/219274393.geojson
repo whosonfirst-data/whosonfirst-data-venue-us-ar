@@ -2,13 +2,14 @@
   "id": 219274393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.38063,33.79929,-93.38063,33.79929",
     "geom:latitude":33.79929,
     "geom:longitude":-93.38063,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 E 3rd St S",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219274393,
-    "wof:lastmodified":1449070823,
+    "wof:lastmodified":1466321520,
     "wof:name":"Nevada County",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "government-county"
     ]
 },
-  "bbox": [-93.38063,33.79929,-93.38063,33.79929],
+  "bbox": [
+    -93.38063,
+    33.79929,
+    -93.38063,
+    33.79929
+],
   "geometry": {"coordinates":[-93.38063,33.79929],"type":"Point"}
 }

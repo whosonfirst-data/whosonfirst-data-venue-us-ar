@@ -2,13 +2,14 @@
   "id": 219369719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.746962,34.915059,-91.746962,34.915059",
     "geom:latitude":34.915059,
     "geom:longitude":-91.746962,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9637 Highway 13 N",
     "sg:city":"Carlisle",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219369719,
-    "wof:lastmodified":1449073726,
+    "wof:lastmodified":1466322576,
     "wof:name":"Veazey Farms",
     "wof:parent_id":85811577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.746962,34.915059,-91.746962,34.915059],
+  "bbox": [
+    -91.746962,
+    34.915059,
+    -91.746962,
+    34.915059
+],
   "geometry": {"coordinates":[-91.746962,34.915059],"type":"Point"}
 }

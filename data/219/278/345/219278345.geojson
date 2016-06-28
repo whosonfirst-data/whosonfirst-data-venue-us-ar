@@ -2,13 +2,14 @@
   "id": 219278345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.461307,34.264799,-93.461307,34.264799",
     "geom:latitude":34.264799,
     "geom:longitude":-93.461307,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 W Thompson St",
     "sg:city":"Amity",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219278345,
-    "wof:lastmodified":1449072326,
+    "wof:lastmodified":1466321554,
     "wof:name":"Cowboy Corner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.461307,34.264799,-93.461307,34.264799],
-  "geometry": {"coordinates":[-93.461307,34.264799],"type":"Point"}
+  "bbox": [
+    -93.461307,
+    34.264799,
+    -93.461307,
+    34.264799
+],
+  "geometry": {"coordinates":[-93.46130700000001,34.264799],"type":"Point"}
 }

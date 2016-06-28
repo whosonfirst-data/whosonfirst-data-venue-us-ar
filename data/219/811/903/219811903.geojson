@@ -2,13 +2,14 @@
   "id": 219811903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.105302,36.040594,-94.105302,36.040594",
     "geom:latitude":36.040594,
     "geom:longitude":-94.105302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2005 S Cherry Hills Dr",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":219811903,
-    "wof:lastmodified":1449072090,
+    "wof:lastmodified":1466324964,
     "wof:name":"Palm Port Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investing"
     ]
 },
-  "bbox": [-94.105302,36.040594,-94.105302,36.040594],
-  "geometry": {"coordinates":[-94.105302,36.040594],"type":"Point"}
+  "bbox": [
+    -94.105302,
+    36.040594,
+    -94.105302,
+    36.040594
+],
+  "geometry": {"coordinates":[-94.10530199999999,36.040594],"type":"Point"}
 }

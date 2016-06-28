@@ -2,13 +2,14 @@
   "id": 219417721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.300364,35.793948,-92.300364,35.793948",
     "geom:latitude":35.793948,
     "geom:longitude":-92.300364,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15949 Highway 263",
     "sg:city":"Fox",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219417721,
-    "wof:lastmodified":1449071836,
+    "wof:lastmodified":1466323002,
     "wof:name":"USPS - United States Post Office - Fox Main Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "shipping"
     ]
 },
-  "bbox": [-92.300364,35.793948,-92.300364,35.793948],
+  "bbox": [
+    -92.300364,
+    35.793948,
+    -92.300364,
+    35.793948
+],
   "geometry": {"coordinates":[-92.300364,35.793948],"type":"Point"}
 }

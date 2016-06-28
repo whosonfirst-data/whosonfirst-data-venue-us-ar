@@ -2,13 +2,14 @@
   "id": 219589297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.586157,34.527203,-90.586157,34.527203",
     "geom:latitude":34.527203,
     "geom:longitude":-90.586157,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"523 Cherry St",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219589297,
-    "wof:lastmodified":1449072263,
+    "wof:lastmodified":1466324574,
     "wof:name":"Roadkill Grill",
     "wof:parent_id":85838649,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.586157,34.527203,-90.586157,34.527203],
+  "bbox": [
+    -90.586157,
+    34.527203,
+    -90.586157,
+    34.527203
+],
   "geometry": {"coordinates":[-90.586157,34.527203],"type":"Point"}
 }

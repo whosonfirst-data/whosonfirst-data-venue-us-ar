@@ -2,13 +2,14 @@
   "id": 219263149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.021156,33.467675,-94.021156,33.467675",
     "geom:latitude":33.467675,
     "geom:longitude":-94.021156,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2009 E 47th St",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219263149,
-    "wof:lastmodified":1449073810,
+    "wof:lastmodified":1466321431,
     "wof:name":"Ace Awards",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trophies"
     ]
 },
-  "bbox": [-94.021156,33.467675,-94.021156,33.467675],
+  "bbox": [
+    -94.021156,
+    33.467675,
+    -94.021156,
+    33.467675
+],
   "geometry": {"coordinates":[-94.021156,33.467675],"type":"Point"}
 }

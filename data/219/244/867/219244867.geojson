@@ -2,13 +2,14 @@
   "id": 219244867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.860518,33.938696,-93.860518,33.938696",
     "geom:latitude":33.938696,
     "geom:longitude":-93.860518,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"139 Dj Dr",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219244867,
-    "wof:lastmodified":1449071790,
+    "wof:lastmodified":1466321292,
     "wof:name":"The Children Playhouse Theatre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "theatrical"
     ]
 },
-  "bbox": [-93.860518,33.938696,-93.860518,33.938696],
+  "bbox": [
+    -93.860518,
+    33.938696,
+    -93.860518,
+    33.938696
+],
   "geometry": {"coordinates":[-93.860518,33.938696],"type":"Point"}
 }

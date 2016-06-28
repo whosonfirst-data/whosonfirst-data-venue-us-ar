@@ -2,13 +2,14 @@
   "id": 219469537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.723953,35.169079,-92.723953,35.169079",
     "geom:latitude":35.169079,
     "geom:longitude":-92.723953,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Walmart Dr",
     "sg:city":"Morrilton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219469537,
-    "wof:lastmodified":1449074020,
+    "wof:lastmodified":1466323548,
     "wof:name":"Morrilton Respratory Care Inc",
     "wof:parent_id":85814069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-92.723953,35.169079,-92.723953,35.169079],
-  "geometry": {"coordinates":[-92.723953,35.169079],"type":"Point"}
+  "bbox": [
+    -92.723953,
+    35.169079,
+    -92.723953,
+    35.169079
+],
+  "geometry": {"coordinates":[-92.72395299999999,35.169079],"type":"Point"}
 }

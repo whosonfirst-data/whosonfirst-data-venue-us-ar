@@ -2,13 +2,14 @@
   "id": 219807809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.686559,36.225395,-92.686559,36.225395",
     "geom:latitude":36.225395,
     "geom:longitude":-92.686559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 W Old Main St",
     "sg:city":"Yellville",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219807809,
-    "wof:lastmodified":1449071305,
+    "wof:lastmodified":1466324960,
     "wof:name":"Carlton Marion Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "lodging"
     ]
 },
-  "bbox": [-92.686559,36.225395,-92.686559,36.225395],
+  "bbox": [
+    -92.686559,
+    36.225395,
+    -92.686559,
+    36.225395
+],
   "geometry": {"coordinates":[-92.686559,36.225395],"type":"Point"}
 }

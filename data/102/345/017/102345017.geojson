@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102345017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.349408,34.547518,-92.349408,34.547518",
     "geom:latitude":34.547518,
     "geom:longitude":-92.349408,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5808 E Sardis Rd",
     "sg:city":"Hensley",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102345017,
-    "wof:lastmodified":1449070000,
+    "wof:lastmodified":1466323869,
     "wof:name":"W & W Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.349408,34.547518,-92.349408,34.547518],
+  "bbox": [
+    -92.349408,
+    34.547518,
+    -92.349408,
+    34.547518
+],
   "geometry": {"coordinates":[-92.349408,34.547518],"type":"Point"}
 }

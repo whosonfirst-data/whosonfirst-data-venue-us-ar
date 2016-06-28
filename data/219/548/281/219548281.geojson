@@ -2,13 +2,14 @@
   "id": 219548281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.569651,35.308959,-92.569651,35.308959",
     "geom:latitude":35.308959,
     "geom:longitude":-92.569651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4974 Highway 9",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219548281,
-    "wof:lastmodified":1449072833,
+    "wof:lastmodified":1466324320,
     "wof:name":"Mardan Plumbing",
     "wof:parent_id":85850611,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractors-commercial"
     ]
 },
-  "bbox": [-92.569651,35.308959,-92.569651,35.308959],
-  "geometry": {"coordinates":[-92.569651,35.308959],"type":"Point"}
+  "bbox": [
+    -92.569651,
+    35.308959,
+    -92.569651,
+    35.308959
+],
+  "geometry": {"coordinates":[-92.56965099999999,35.308959],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219984225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.139425,36.333909,-94.139425,36.333909",
     "geom:latitude":36.333909,
     "geom:longitude":-94.139425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1519 W Walnut St Ste B",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":219984225,
-    "wof:lastmodified":1449072374,
+    "wof:lastmodified":1466325236,
     "wof:name":"H&R Block",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "bookkeeping"
     ]
 },
-  "bbox": [-94.139425,36.333909,-94.139425,36.333909],
+  "bbox": [
+    -94.139425,
+    36.333909,
+    -94.139425,
+    36.333909
+],
   "geometry": {"coordinates":[-94.139425,36.333909],"type":"Point"}
 }

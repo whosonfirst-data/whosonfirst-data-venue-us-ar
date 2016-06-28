@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102390545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.768959,35.247526,-91.768959,35.247526",
     "geom:latitude":35.247526,
     "geom:longitude":-91.768959,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2124 W Beebe Capps Expy",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102390545,
-    "wof:lastmodified":1449070240,
+    "wof:lastmodified":1466324256,
     "wof:name":"Cellular Mobility",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.768959,35.247526,-91.768959,35.247526],
+  "bbox": [
+    -91.768959,
+    35.247526,
+    -91.768959,
+    35.247526
+],
   "geometry": {"coordinates":[-91.768959,35.247526],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219716461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.252015,36.236485,-91.252015,36.236485",
     "geom:latitude":36.236485,
     "geom:longitude":-91.252015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Highway 63 E",
     "sg:city":"Ravenden",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219716461,
-    "wof:lastmodified":1449070895,
+    "wof:lastmodified":1466324823,
     "wof:name":"Citgo Flash Mkt.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.252015,36.236485,-91.252015,36.236485],
+  "bbox": [
+    -91.252015,
+    36.236485,
+    -91.252015,
+    36.236485
+],
   "geometry": {"coordinates":[-91.252015,36.236485],"type":"Point"}
 }

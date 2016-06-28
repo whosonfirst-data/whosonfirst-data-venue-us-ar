@@ -2,13 +2,14 @@
   "id": 219810733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.172173,36.072948,-94.172173,36.072948",
     "geom:latitude":36.072948,
     "geom:longitude":-94.172173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 N Storer Ave",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219810733,
-    "wof:lastmodified":1449071431,
+    "wof:lastmodified":1466324962,
     "wof:name":"M And N Augustine",
     "wof:parent_id":85885453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "research"
     ]
 },
-  "bbox": [-94.172173,36.072948,-94.172173,36.072948],
+  "bbox": [
+    -94.172173,
+    36.072948,
+    -94.172173,
+    36.072948
+],
   "geometry": {"coordinates":[-94.172173,36.072948],"type":"Point"}
 }

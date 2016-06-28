@@ -2,13 +2,14 @@
   "id": 219523117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.740686,35.246091,-91.740686,35.246091",
     "geom:latitude":35.246091,
     "geom:longitude":-91.740686,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"503 W Woodruff Ave",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219523117,
-    "wof:lastmodified":1449072414,
+    "wof:lastmodified":1466324129,
     "wof:name":"Foot Hills Nursery And Landscaping Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucks-industrial"
     ]
 },
-  "bbox": [-91.740686,35.246091,-91.740686,35.246091],
+  "bbox": [
+    -91.740686,
+    35.246091,
+    -91.740686,
+    35.246091
+],
   "geometry": {"coordinates":[-91.740686,35.246091],"type":"Point"}
 }

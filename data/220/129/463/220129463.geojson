@@ -2,13 +2,14 @@
   "id": 220129463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.879933,35.305267,-93.879933,35.305267",
     "geom:latitude":35.305267,
     "geom:longitude":-93.879933,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"460 Military Rd",
     "sg:city":"Ratcliff",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":220129463,
-    "wof:lastmodified":1449074686,
+    "wof:lastmodified":1466322772,
     "wof:name":"Bonnie And Glen Crafts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "supply"
     ]
 },
-  "bbox": [-93.879933,35.305267,-93.879933,35.305267],
-  "geometry": {"coordinates":[-93.879933,35.305267],"type":"Point"}
+  "bbox": [
+    -93.879933,
+    35.305267,
+    -93.879933,
+    35.305267
+],
+  "geometry": {"coordinates":[-93.87993299999999,35.305267],"type":"Point"}
 }

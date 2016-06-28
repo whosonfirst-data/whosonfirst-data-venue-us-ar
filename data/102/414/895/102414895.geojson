@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102414895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.753869,36.486207,-93.753869,36.486207",
     "geom:latitude":36.486207,
     "geom:longitude":-93.753869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Holiday Island Dr",
     "sg:city":"Eureka Springs",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102414895,
-    "wof:lastmodified":1449068894,
+    "wof:lastmodified":1466325415,
     "wof:name":"Holiday Island Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.753869,36.486207,-93.753869,36.486207],
-  "geometry": {"coordinates":[-93.753869,36.486207],"type":"Point"}
+  "bbox": [
+    -93.753869,
+    36.486207,
+    -93.753869,
+    36.486207
+],
+  "geometry": {"coordinates":[-93.75386899999999,36.486207],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219293569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.504759,34.027353,-93.504759,34.027353",
     "geom:latitude":34.027353,
     "geom:longitude":-93.504759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"319 Oak St",
     "sg:city":"Delight",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":219293569,
-    "wof:lastmodified":1449071088,
+    "wof:lastmodified":1466321677,
     "wof:name":"Delight Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "churches-baptist"
     ]
 },
-  "bbox": [-93.504759,34.027353,-93.504759,34.027353],
-  "geometry": {"coordinates":[-93.504759,34.027353],"type":"Point"}
+  "bbox": [
+    -93.504759,
+    34.027353,
+    -93.504759,
+    34.027353
+],
+  "geometry": {"coordinates":[-93.50475900000001,34.027353],"type":"Point"}
 }

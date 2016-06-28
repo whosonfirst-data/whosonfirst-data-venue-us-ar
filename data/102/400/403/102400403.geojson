@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102400403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.858585,35.172673,-93.858585,35.172673",
     "geom:latitude":35.172673,
     "geom:longitude":-93.858585,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"990 Cotton Rd",
     "sg:city":"Booneville",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":102400403,
-    "wof:lastmodified":1449068029,
+    "wof:lastmodified":1466324725,
     "wof:name":"Donna Smith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.858585,35.172673,-93.858585,35.172673],
-  "geometry": {"coordinates":[-93.858585,35.172673],"type":"Point"}
+  "bbox": [
+    -93.858585,
+    35.172673,
+    -93.858585,
+    35.172673
+],
+  "geometry": {"coordinates":[-93.85858500000001,35.172673],"type":"Point"}
 }

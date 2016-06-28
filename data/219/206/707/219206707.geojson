@@ -2,13 +2,14 @@
   "id": 219206707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.216238,33.285099,-93.216238,33.285099",
     "geom:latitude":33.285099,
     "geom:longitude":-93.216238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Azalea",
     "sg:city":"Magnolia",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219206707,
-    "wof:lastmodified":1449072782,
+    "wof:lastmodified":1466320928,
     "wof:name":"Griffin, Rodney L",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-93.216238,33.285099,-93.216238,33.285099],
+  "bbox": [
+    -93.216238,
+    33.285099,
+    -93.216238,
+    33.285099
+],
   "geometry": {"coordinates":[-93.216238,33.285099],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219999041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.13973,36.310136,-94.13973,36.310136",
     "geom:latitude":36.310136,
     "geom:longitude":-94.13973,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1909 S 17th St",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219999041,
-    "wof:lastmodified":1449073478,
+    "wof:lastmodified":1466325445,
     "wof:name":"Apex Accounting Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bookkeeping"
     ]
 },
-  "bbox": [-94.13973,36.310136,-94.13973,36.310136],
+  "bbox": [
+    -94.13973,
+    36.310136,
+    -94.13973,
+    36.310136
+],
   "geometry": {"coordinates":[-94.13973,36.310136],"type":"Point"}
 }

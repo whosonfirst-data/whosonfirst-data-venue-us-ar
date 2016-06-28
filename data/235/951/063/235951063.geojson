@@ -2,13 +2,14 @@
   "id": 235951063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.639152,36.358798,-94.639152,36.358798",
     "geom:latitude":36.358798,
     "geom:longitude":-94.639152,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20447 E 455 Rd",
     "sg:city":"Jay",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":235951063,
-    "wof:lastmodified":1449008282,
+    "wof:lastmodified":1466320438,
     "wof:name":"H & M Farms, Inc.",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "breeder"
     ]
 },
-  "bbox": [-94.639152,36.358798,-94.639152,36.358798],
+  "bbox": [
+    -94.639152,
+    36.358798,
+    -94.639152,
+    36.358798
+],
   "geometry": {"coordinates":[-94.639152,36.358798],"type":"Point"}
 }

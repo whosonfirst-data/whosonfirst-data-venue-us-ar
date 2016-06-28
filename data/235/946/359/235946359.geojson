@@ -2,13 +2,14 @@
   "id": 235946359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.734577,36.603281,-94.734577,36.603281",
     "geom:latitude":36.603281,
     "geom:longitude":-94.734577,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 Industrial Rd C",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":235946359,
-    "wof:lastmodified":1449008568,
+    "wof:lastmodified":1466320423,
     "wof:name":"Lovelady Electric",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "electric"
     ]
 },
-  "bbox": [-94.734577,36.603281,-94.734577,36.603281],
+  "bbox": [
+    -94.734577,
+    36.603281,
+    -94.734577,
+    36.603281
+],
   "geometry": {"coordinates":[-94.734577,36.603281],"type":"Point"}
 }

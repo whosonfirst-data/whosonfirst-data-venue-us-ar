@@ -2,13 +2,14 @@
   "id": 219540395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.398795,34.293112,-92.398795,34.293112",
     "geom:latitude":34.293112,
     "geom:longitude":-92.398795,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Opportunity Dr",
     "sg:city":"Sheridan",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219540395,
-    "wof:lastmodified":1449071777,
+    "wof:lastmodified":1466324260,
     "wof:name":"Sheridan Chiropractic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chiropractic"
     ]
 },
-  "bbox": [-92.398795,34.293112,-92.398795,34.293112],
-  "geometry": {"coordinates":[-92.398795,34.293112],"type":"Point"}
+  "bbox": [
+    -92.398795,
+    34.293112,
+    -92.398795,
+    34.293112
+],
+  "geometry": {"coordinates":[-92.39879500000001,34.293112],"type":"Point"}
 }

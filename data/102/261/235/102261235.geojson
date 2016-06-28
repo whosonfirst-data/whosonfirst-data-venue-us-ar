@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102261235",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.710744,33.264881,-91.710744,33.264881",
     "geom:latitude":33.264881,
     "geom:longitude":-91.710744,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"126 Camren Rd",
     "sg:city":"Hamburg",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102261235",
-    "wof:lastmodified":1449067803,
+    "wof:lastmodified":1466322099,
     "wof:name":"Merriweather Flooring",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.710744,33.264881,-91.710744,33.264881],
-  "geometry": {"coordinates":[-91.710744,33.264881],"type":"Point"}
+  "bbox": [
+    -91.710744,
+    33.264881,
+    -91.710744,
+    33.264881
+],
+  "geometry": {"coordinates":[-91.71074400000001,33.264881],"type":"Point"}
 }

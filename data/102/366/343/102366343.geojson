@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102366343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.404347,35.330188,-94.404347,35.330188",
     "geom:latitude":35.330188,
     "geom:longitude":-94.404347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5507 S 28th St",
     "sg:city":"Fort Smith",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85849681,
+        85688549,
         85633793,
         85921431,
         102082025,
-        85688549
+        85849681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102366343,
-    "wof:lastmodified":1449069560,
+    "wof:lastmodified":1466324396,
     "wof:name":"Wear Construction Management",
     "wof:parent_id":85849681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.404347,35.330188,-94.404347,35.330188],
+  "bbox": [
+    -94.404347,
+    35.330188,
+    -94.404347,
+    35.330188
+],
   "geometry": {"coordinates":[-94.404347,35.330188],"type":"Point"}
 }

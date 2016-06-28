@@ -2,13 +2,14 @@
   "id": 220005203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.12532,36.290846,-94.12532,36.290846",
     "geom:latitude":36.290846,
     "geom:longitude":-94.12532,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2633 Laurel Cir",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220005203,
-    "wof:lastmodified":1449074815,
+    "wof:lastmodified":1466320461,
     "wof:name":"Naco 2",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "ice"
     ]
 },
-  "bbox": [-94.12532,36.290846,-94.12532,36.290846],
+  "bbox": [
+    -94.12532,
+    36.290846,
+    -94.12532,
+    36.290846
+],
   "geometry": {"coordinates":[-94.12532,36.290846],"type":"Point"}
 }

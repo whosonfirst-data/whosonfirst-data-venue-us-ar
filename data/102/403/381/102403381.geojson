@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102403381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.185847,36.200378,-94.185847,36.200378",
     "geom:latitude":36.200378,
     "geom:longitude":-94.185847,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5000 Bob Mills Rd",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102403381,
-    "wof:lastmodified":1449069833,
+    "wof:lastmodified":1466324723,
     "wof:name":"Steele Communications Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.185847,36.200378,-94.185847,36.200378],
+  "bbox": [
+    -94.185847,
+    36.200378,
+    -94.185847,
+    36.200378
+],
   "geometry": {"coordinates":[-94.185847,36.200378],"type":"Point"}
 }

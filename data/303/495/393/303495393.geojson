@@ -2,13 +2,14 @@
   "id": 303495393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.538953,36.183917,-94.538953,36.183917",
     "geom:latitude":36.183917,
     "geom:longitude":-94.538953,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"304 E Main St",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303495393,
-    "wof:lastmodified":1448999197,
+    "wof:lastmodified":1466320496,
     "wof:name":"101 Floorcovering Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.538953,36.183917,-94.538953,36.183917],
-  "geometry": {"coordinates":[-94.538953,36.183917],"type":"Point"}
+  "bbox": [
+    -94.538953,
+    36.183917,
+    -94.538953,
+    36.183917
+],
+  "geometry": {"coordinates":[-94.53895300000001,36.183917],"type":"Point"}
 }

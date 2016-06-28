@@ -2,13 +2,14 @@
   "id": 219301985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.259199,34.56464,-94.259199,34.56464",
     "geom:latitude":34.56464,
     "geom:longitude":-94.259199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2801 Griffith Dr",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":219301985,
-    "wof:lastmodified":1449071299,
+    "wof:lastmodified":1466321747,
     "wof:name":"American Janitorial Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "supply"
     ]
 },
-  "bbox": [-94.259199,34.56464,-94.259199,34.56464],
+  "bbox": [
+    -94.259199,
+    34.56464,
+    -94.259199,
+    34.56464
+],
   "geometry": {"coordinates":[-94.259199,34.56464],"type":"Point"}
 }

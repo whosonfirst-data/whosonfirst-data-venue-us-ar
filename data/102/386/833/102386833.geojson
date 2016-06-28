@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102386833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.195417,35.738874,-91.195417,35.738874",
     "geom:latitude":35.738874,
     "geom:longitude":-91.195417,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Watson St",
     "sg:city":"Tuckerman",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102386833,
-    "wof:lastmodified":1449069012,
+    "wof:lastmodified":1466323499,
     "wof:name":"H A Crandall Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.195417,35.738874,-91.195417,35.738874],
-  "geometry": {"coordinates":[-91.195417,35.738874],"type":"Point"}
+  "bbox": [
+    -91.195417,
+    35.738874,
+    -91.195417,
+    35.738874
+],
+  "geometry": {"coordinates":[-91.19541700000001,35.738874],"type":"Point"}
 }

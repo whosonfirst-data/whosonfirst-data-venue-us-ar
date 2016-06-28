@@ -2,13 +2,14 @@
   "id": 337290845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.080135,34.918254,-92.080135,34.918254",
     "geom:latitude":34.918254,
     "geom:longitude":-92.080135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2616 E Coffelt Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":337290845,
-    "wof:lastmodified":1449027285,
+    "wof:lastmodified":1466322039,
     "wof:name":"Cheney Trucking",
     "wof:parent_id":85852337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "trucking"
     ]
 },
-  "bbox": [-92.080135,34.918254,-92.080135,34.918254],
+  "bbox": [
+    -92.080135,
+    34.918254,
+    -92.080135,
+    34.918254
+],
   "geometry": {"coordinates":[-92.080135,34.918254],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219881409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.2123,36.3381,-94.2123,36.3381",
     "geom:latitude":36.3381,
     "geom:longitude":-94.2123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Dogwatch Ave",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219881409,
-    "wof:lastmodified":1449072430,
+    "wof:lastmodified":1466325067,
     "wof:name":"Dogwatch Doggie Day Care & Boarding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sitting"
     ]
 },
-  "bbox": [-94.2123,36.3381,-94.2123,36.3381],
+  "bbox": [
+    -94.2123,
+    36.3381,
+    -94.2123,
+    36.3381
+],
   "geometry": {"coordinates":[-94.2123,36.3381],"type":"Point"}
 }

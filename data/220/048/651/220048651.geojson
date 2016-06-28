@@ -2,13 +2,14 @@
   "id": 220048651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.123046,36.16704,-94.123046,36.16704",
     "geom:latitude":36.16704,
     "geom:longitude":-94.123046,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"830 E Robinson Ave",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -68,10 +69,11 @@
         }
     ],
     "wof:id":220048651,
-    "wof:lastmodified":1449074297,
+    "wof:lastmodified":1466320608,
     "wof:name":"Myers EyeCare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "contact"
     ]
 },
-  "bbox": [-94.123046,36.16704,-94.123046,36.16704],
+  "bbox": [
+    -94.123046,
+    36.16704,
+    -94.123046,
+    36.16704
+],
   "geometry": {"coordinates":[-94.123046,36.16704],"type":"Point"}
 }

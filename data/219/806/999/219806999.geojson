@@ -2,13 +2,14 @@
   "id": 219806999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.216692,36.417622,-93.216692,36.417622",
     "geom:latitude":36.417622,
     "geom:longitude":-93.216692,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11080 Big Piney Dr",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219806999,
-    "wof:lastmodified":1449070371,
+    "wof:lastmodified":1466324965,
     "wof:name":"R & D Transit And Hotshot Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "public"
     ]
 },
-  "bbox": [-93.216692,36.417622,-93.216692,36.417622],
-  "geometry": {"coordinates":[-93.216692,36.417622],"type":"Point"}
+  "bbox": [
+    -93.216692,
+    36.417622,
+    -93.216692,
+    36.417622
+],
+  "geometry": {"coordinates":[-93.21669199999999,36.417622],"type":"Point"}
 }

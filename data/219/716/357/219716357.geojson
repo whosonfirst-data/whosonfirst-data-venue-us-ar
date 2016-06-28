@@ -2,13 +2,14 @@
   "id": 219716357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.252784,36.247857,-91.252784,36.247857",
     "geom:latitude":36.247857,
     "geom:longitude":-91.252784,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"582 Highway 90 N",
     "sg:city":"Ravenden",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219716357,
-    "wof:lastmodified":1449070896,
+    "wof:lastmodified":1466324822,
     "wof:name":"Sharp's Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "new"
     ]
 },
-  "bbox": [-91.252784,36.247857,-91.252784,36.247857],
-  "geometry": {"coordinates":[-91.252784,36.247857],"type":"Point"}
+  "bbox": [
+    -91.252784,
+    36.247857,
+    -91.252784,
+    36.247857
+],
+  "geometry": {"coordinates":[-91.25278400000001,36.247857],"type":"Point"}
 }

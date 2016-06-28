@@ -2,13 +2,14 @@
   "id": 219348771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.588491,34.579883,-92.588491,34.579883",
     "geom:latitude":34.579883,
     "geom:longitude":-92.588491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"222 Dogwood",
     "sg:city":"Benton",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":219348771,
-    "wof:lastmodified":1449070527,
+    "wof:lastmodified":1466322245,
     "wof:name":"Arkansas Cleaning Equipment",
     "wof:parent_id":85817531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-92.588491,34.579883,-92.588491,34.579883],
+  "bbox": [
+    -92.588491,
+    34.579883,
+    -92.588491,
+    34.579883
+],
   "geometry": {"coordinates":[-92.588491,34.579883],"type":"Point"}
 }

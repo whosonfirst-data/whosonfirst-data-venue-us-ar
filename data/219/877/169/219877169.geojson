@@ -2,13 +2,14 @@
   "id": 219877169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.227525,36.376877,-94.227525,36.376877",
     "geom:latitude":36.376877,
     "geom:longitude":-94.227525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"409 Gristmill",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219877169,
-    "wof:lastmodified":1449072877,
+    "wof:lastmodified":1466325154,
     "wof:name":"Crt Holdings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "holding"
     ]
 },
-  "bbox": [-94.227525,36.376877,-94.227525,36.376877],
+  "bbox": [
+    -94.227525,
+    36.376877,
+    -94.227525,
+    36.376877
+],
   "geometry": {"coordinates":[-94.227525,36.376877],"type":"Point"}
 }

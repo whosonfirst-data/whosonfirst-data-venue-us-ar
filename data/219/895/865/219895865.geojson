@@ -2,13 +2,14 @@
   "id": 219895865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.194099,36.337799,-94.194099,36.337799",
     "geom:latitude":36.337799,
     "geom:longitude":-94.194099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3303 SE L St",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219895865,
-    "wof:lastmodified":1449071883,
+    "wof:lastmodified":1466325185,
     "wof:name":"Osage Heights Senior Complex",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.194099,36.337799,-94.194099,36.337799],
-  "geometry": {"coordinates":[-94.194099,36.337799],"type":"Point"}
+  "bbox": [
+    -94.194099,
+    36.337799,
+    -94.194099,
+    36.337799
+],
+  "geometry": {"coordinates":[-94.19409899999999,36.337799],"type":"Point"}
 }

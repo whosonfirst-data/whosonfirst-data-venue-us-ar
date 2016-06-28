@@ -2,13 +2,14 @@
   "id": 219605803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.914014,34.555728,-90.914014,34.555728",
     "geom:latitude":34.555728,
     "geom:longitude":-90.914014,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"909 Main St",
     "sg:city":"Marvell",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219605803,
-    "wof:lastmodified":1449072115,
+    "wof:lastmodified":1466324525,
     "wof:name":"Ford's Grocery & Market",
     "wof:parent_id":85834075,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.914014,34.555728,-90.914014,34.555728],
-  "geometry": {"coordinates":[-90.914014,34.555728],"type":"Point"}
+  "bbox": [
+    -90.914014,
+    34.555728,
+    -90.914014,
+    34.555728
+],
+  "geometry": {"coordinates":[-90.91401399999999,34.555728],"type":"Point"}
 }

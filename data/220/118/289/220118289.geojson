@@ -2,13 +2,14 @@
   "id": 220118289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.250847,35.058662,-94.250847,35.058662",
     "geom:latitude":35.058662,
     "geom:longitude":-94.250847,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 N Seba Scott Ave",
     "sg:city":"Mansfield",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":220118289,
-    "wof:lastmodified":1449074695,
+    "wof:lastmodified":1466322539,
     "wof:name":"Allied Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "saving"
     ]
 },
-  "bbox": [-94.250847,35.058662,-94.250847,35.058662],
-  "geometry": {"coordinates":[-94.250847,35.058662],"type":"Point"}
+  "bbox": [
+    -94.250847,
+    35.058662,
+    -94.250847,
+    35.058662
+],
+  "geometry": {"coordinates":[-94.25084699999999,35.058662],"type":"Point"}
 }

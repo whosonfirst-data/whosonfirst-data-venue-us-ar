@@ -2,13 +2,14 @@
   "id": 219496749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.802414,35.008897,-92.802414,35.008897",
     "geom:latitude":35.008897,
     "geom:longitude":-92.802414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 W Scenic Dr",
     "sg:city":"Perryville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219496749,
-    "wof:lastmodified":1449073375,
+    "wof:lastmodified":1466323918,
     "wof:name":"Lees Pest Control",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.802414,35.008897,-92.802414,35.008897],
+  "bbox": [
+    -92.802414,
+    35.008897,
+    -92.802414,
+    35.008897
+],
   "geometry": {"coordinates":[-92.802414,35.008897],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219408853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.445444,35.097722,-92.445444,35.097722",
     "geom:latitude":35.097722,
     "geom:longitude":-92.445444,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1619 Independence Ave",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":219408853,
-    "wof:lastmodified":1449070825,
+    "wof:lastmodified":1466322923,
     "wof:name":"Ross House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "rest"
     ]
 },
-  "bbox": [-92.445444,35.097722,-92.445444,35.097722],
-  "geometry": {"coordinates":[-92.445444,35.097722],"type":"Point"}
+  "bbox": [
+    -92.445444,
+    35.097722,
+    -92.445444,
+    35.097722
+],
+  "geometry": {"coordinates":[-92.44544399999999,35.097722],"type":"Point"}
 }

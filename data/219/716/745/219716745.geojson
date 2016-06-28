@@ -2,13 +2,14 @@
   "id": 219716745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.265618,36.241541,-91.265618,36.241541",
     "geom:latitude":36.241541,
     "geom:longitude":-91.265618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"378 Highway 63",
     "sg:city":"Ravenden",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219716745,
-    "wof:lastmodified":1449070897,
+    "wof:lastmodified":1466324824,
     "wof:name":"Wrecker Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "repairing"
     ]
 },
-  "bbox": [-91.265618,36.241541,-91.265618,36.241541],
+  "bbox": [
+    -91.265618,
+    36.241541,
+    -91.265618,
+    36.241541
+],
   "geometry": {"coordinates":[-91.265618,36.241541],"type":"Point"}
 }

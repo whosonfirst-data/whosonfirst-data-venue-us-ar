@@ -2,13 +2,14 @@
   "id": 220068563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.06352,35.271871,-93.06352,35.271871",
     "geom:latitude":35.271871,
     "geom:longitude":-93.06352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"810 Old Cove Rd",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":220068563,
-    "wof:lastmodified":1449074446,
+    "wof:lastmodified":1466321296,
     "wof:name":"Rafter N Home Improvement",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "contractor"
     ]
 },
-  "bbox": [-93.06352,35.271871,-93.06352,35.271871],
+  "bbox": [
+    -93.06352,
+    35.271871,
+    -93.06352,
+    35.271871
+],
   "geometry": {"coordinates":[-93.06352,35.271871],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219290591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.265313,34.341781,-93.265313,34.341781",
     "geom:latitude":34.341781,
     "geom:longitude":-93.265313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"190 Chicot",
     "sg:city":"Bismarck",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":219290591,
-    "wof:lastmodified":1449071904,
+    "wof:lastmodified":1466321654,
     "wof:name":"AAA HANDYMAN",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "contractor"
     ]
 },
-  "bbox": [-93.265313,34.341781,-93.265313,34.341781],
-  "geometry": {"coordinates":[-93.265313,34.341781],"type":"Point"}
+  "bbox": [
+    -93.265313,
+    34.341781,
+    -93.265313,
+    34.341781
+],
+  "geometry": {"coordinates":[-93.26531300000001,34.341781],"type":"Point"}
 }

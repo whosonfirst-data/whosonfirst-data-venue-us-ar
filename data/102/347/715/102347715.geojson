@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102347715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.741334,35.151708,-92.741334,35.151708",
     "geom:latitude":35.151708,
     "geom:longitude":-92.741334,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"404 E Railroad Ave",
     "sg:city":"Morrilton",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85814069,
+        85688549,
         85633793,
         85920189,
         102083217,
-        85688549
+        85814069
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102347715,
-    "wof:lastmodified":1449068933,
+    "wof:lastmodified":1466324069,
     "wof:name":"Bryant & Derrick Sheet Metal",
     "wof:parent_id":85814069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.741334,35.151708,-92.741334,35.151708],
-  "geometry": {"coordinates":[-92.741334,35.151708],"type":"Point"}
+  "bbox": [
+    -92.741334,
+    35.151708,
+    -92.741334,
+    35.151708
+],
+  "geometry": {"coordinates":[-92.74133399999999,35.151708],"type":"Point"}
 }

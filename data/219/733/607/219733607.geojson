@@ -2,13 +2,14 @@
   "id": 219733607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.648676,35.741028,-91.648676,35.741028",
     "geom:latitude":35.741028,
     "geom:longitude":-91.648676,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"231 Heber Springs Rd",
     "sg:city":"Batesville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219733607,
-    "wof:lastmodified":1449070883,
+    "wof:lastmodified":1466324976,
     "wof:name":"Wichita Doors Controls",
     "wof:parent_id":85808231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "door"
     ]
 },
-  "bbox": [-91.648676,35.741028,-91.648676,35.741028],
-  "geometry": {"coordinates":[-91.648676,35.741028],"type":"Point"}
+  "bbox": [
+    -91.648676,
+    35.741028,
+    -91.648676,
+    35.741028
+],
+  "geometry": {"coordinates":[-91.64867599999999,35.741028],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303941407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.528056,36.175836,-94.528056,36.175836",
     "geom:latitude":36.175836,
     "geom:longitude":-94.528056,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"880 S Lincoln St",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":303941407,
-    "wof:lastmodified":1448999582,
+    "wof:lastmodified":1466320643,
     "wof:name":"Osbourns Automotive Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automobile"
     ]
 },
-  "bbox": [-94.528056,36.175836,-94.528056,36.175836],
-  "geometry": {"coordinates":[-94.528056,36.175836],"type":"Point"}
+  "bbox": [
+    -94.528056,
+    36.175836,
+    -94.528056,
+    36.175836
+],
+  "geometry": {"coordinates":[-94.52805600000001,36.175836],"type":"Point"}
 }

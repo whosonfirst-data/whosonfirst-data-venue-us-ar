@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102206829",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.590618,35.464576,-91.590618,35.464576",
     "geom:latitude":35.464576,
     "geom:longitude":-91.590618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"553 Peacock Rd",
     "sg:city":"Bradford",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102206829",
-    "wof:lastmodified":1449069432,
+    "wof:lastmodified":1466320886,
     "wof:name":"Herschel E Jackson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.590618,35.464576,-91.590618,35.464576],
-  "geometry": {"coordinates":[-91.590618,35.464576],"type":"Point"}
+  "bbox": [
+    -91.590618,
+    35.464576,
+    -91.590618,
+    35.464576
+],
+  "geometry": {"coordinates":[-91.59061800000001,35.464576],"type":"Point"}
 }

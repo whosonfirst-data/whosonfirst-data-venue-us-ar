@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102380227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.588308,33.671473,-93.588308,33.671473",
     "geom:latitude":33.671473,
     "geom:longitude":-93.588308,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"410 E Ave B",
     "sg:city":"Hope",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806015,
+        85688549,
         85633793,
         85920547,
         102083213,
-        85688549
+        85806015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102380227,
-    "wof:lastmodified":1449068881,
+    "wof:lastmodified":1466322136,
     "wof:name":"A & B Machine & Welding Shop",
     "wof:parent_id":85806015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.588308,33.671473,-93.588308,33.671473],
+  "bbox": [
+    -93.588308,
+    33.671473,
+    -93.588308,
+    33.671473
+],
   "geometry": {"coordinates":[-93.588308,33.671473],"type":"Point"}
 }

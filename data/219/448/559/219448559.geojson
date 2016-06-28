@@ -2,13 +2,14 @@
   "id": 219448559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.899022,34.785229,-91.899022,34.785229",
     "geom:latitude":34.785229,
     "geom:longitude":-91.899022,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 E 2nd St",
     "sg:city":"Lonoke",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":219448559,
-    "wof:lastmodified":1449073743,
+    "wof:lastmodified":1466323354,
     "wof:name":"Lonoke Prairie Co Regional Library System",
     "wof:parent_id":85811577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.899022,34.785229,-91.899022,34.785229],
+  "bbox": [
+    -91.899022,
+    34.785229,
+    -91.899022,
+    34.785229
+],
   "geometry": {"coordinates":[-91.899022,34.785229],"type":"Point"}
 }

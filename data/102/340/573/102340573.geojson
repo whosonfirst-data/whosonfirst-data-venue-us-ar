@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102340573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.038429,34.450636,-93.038429,34.450636",
     "geom:latitude":34.450636,
     "geom:longitude":-93.038429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"225 Bayshore Cove",
     "sg:city":"Hot Springs National",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":102340573,
-    "wof:lastmodified":1449069646,
+    "wof:lastmodified":1466323861,
     "wof:name":"Totten Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.038429,34.450636,-93.038429,34.450636],
-  "geometry": {"coordinates":[-93.038429,34.450636],"type":"Point"}
+  "bbox": [
+    -93.038429,
+    34.450636,
+    -93.038429,
+    34.450636
+],
+  "geometry": {"coordinates":[-93.03842899999999,34.450636],"type":"Point"}
 }

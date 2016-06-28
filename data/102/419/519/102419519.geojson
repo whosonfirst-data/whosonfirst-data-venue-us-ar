@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102419519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.140205,35.238465,-93.140205,35.238465",
     "geom:latitude":35.238465,
     "geom:longitude":-93.140205,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3904 S Arkansas Ave",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -30,10 +31,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102083263,
-        85633793,
         85688549,
-        85837547
+        85633793,
+        85837547,
+        102083263
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102419519,
-    "wof:lastmodified":1449070170,
+    "wof:lastmodified":1466325329,
     "wof:name":"Dependable Air Conditioning Co",
     "wof:parent_id":85837547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.140205,35.238465,-93.140205,35.238465],
-  "geometry": {"coordinates":[-93.140205,35.238465],"type":"Point"}
+  "bbox": [
+    -93.140205,
+    35.238465,
+    -93.140205,
+    35.238465
+],
+  "geometry": {"coordinates":[-93.14020499999999,35.238465],"type":"Point"}
 }

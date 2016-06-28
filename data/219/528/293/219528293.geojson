@@ -2,13 +2,14 @@
   "id": 219528293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.738488,35.256368,-91.738488,35.256368",
     "geom:latitude":35.256368,
     "geom:longitude":-91.738488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 W Steward Dr",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219528293,
-    "wof:lastmodified":1449071349,
+    "wof:lastmodified":1466324168,
     "wof:name":"Rod Randy's Rack",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rack"
     ]
 },
-  "bbox": [-91.738488,35.256368,-91.738488,35.256368],
+  "bbox": [
+    -91.738488,
+    35.256368,
+    -91.738488,
+    35.256368
+],
   "geometry": {"coordinates":[-91.738488,35.256368],"type":"Point"}
 }

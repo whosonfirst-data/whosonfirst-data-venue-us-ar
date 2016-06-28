@@ -2,13 +2,14 @@
   "id": 219931165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.675219,36.033793,-93.675219,36.033793",
     "geom:latitude":36.033793,
     "geom:longitude":-93.675219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20868 Highway 74",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219931165,
-    "wof:lastmodified":1449073604,
+    "wof:lastmodified":1466325219,
     "wof:name":"Smith Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "electric"
     ]
 },
-  "bbox": [-93.675219,36.033793,-93.675219,36.033793],
+  "bbox": [
+    -93.675219,
+    36.033793,
+    -93.675219,
+    36.033793
+],
   "geometry": {"coordinates":[-93.675219,36.033793],"type":"Point"}
 }

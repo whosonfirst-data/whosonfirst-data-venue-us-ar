@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102305981",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.49483,35.854432,-94.49483,35.854432",
     "geom:latitude":35.854432,
     "geom:longitude":-94.49483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17529 State Hwy 59",
     "sg:city":"Canehill",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":"102305981",
-    "wof:lastmodified":1449068171,
+    "wof:lastmodified":1466323279,
     "wof:name":"Skeltons On Line Books",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.49483,35.854432,-94.49483,35.854432],
-  "geometry": {"coordinates":[-94.49483,35.854432],"type":"Point"}
+  "bbox": [
+    -94.49483,
+    35.854432,
+    -94.49483,
+    35.854432
+],
+  "geometry": {"coordinates":[-94.49482999999999,35.854432],"type":"Point"}
 }

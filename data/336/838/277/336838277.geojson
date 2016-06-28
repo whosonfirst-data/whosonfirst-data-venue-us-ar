@@ -2,13 +2,14 @@
   "id": 336838277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.556879,36.186425,-94.556879,36.186425",
     "geom:latitude":36.186425,
     "geom:longitude":-94.556879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 Holly Pl",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336838277,
-    "wof:lastmodified":1448997059,
+    "wof:lastmodified":1466320446,
     "wof:name":"Randy Gray & Assoc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-94.556879,36.186425,-94.556879,36.186425],
+  "bbox": [
+    -94.556879,
+    36.186425,
+    -94.556879,
+    36.186425
+],
   "geometry": {"coordinates":[-94.556879,36.186425],"type":"Point"}
 }

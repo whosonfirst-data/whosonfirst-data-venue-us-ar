@@ -2,13 +2,14 @@
   "id": 219716821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.285785,36.258962,-90.285785,36.258962",
     "geom:latitude":36.258962,
     "geom:longitude":-90.285785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"715 E 9th St",
     "sg:city":"Rector",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":219716821,
-    "wof:lastmodified":1449070895,
+    "wof:lastmodified":1466324877,
     "wof:name":"Family Care Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "medicine"
     ]
 },
-  "bbox": [-90.285785,36.258962,-90.285785,36.258962],
+  "bbox": [
+    -90.285785,
+    36.258962,
+    -90.285785,
+    36.258962
+],
   "geometry": {"coordinates":[-90.285785,36.258962],"type":"Point"}
 }

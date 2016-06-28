@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102426349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.433284,34.788606,-92.433284,34.788606",
     "geom:latitude":34.788606,
     "geom:longitude":-92.433284,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 Hickory Creek Ct SE",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102082497,
-        85633793,
         85688549,
-        85809209
+        85633793,
+        85809209,
+        102082497
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102426349,
-    "wof:lastmodified":1449068306,
+    "wof:lastmodified":1466325465,
     "wof:name":"Jon Underhill Real Estate",
     "wof:parent_id":85809209,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.433284,34.788606,-92.433284,34.788606],
+  "bbox": [
+    -92.433284,
+    34.788606,
+    -92.433284,
+    34.788606
+],
   "geometry": {"coordinates":[-92.433284,34.788606],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219425775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.391708,35.19254,-92.391708,35.19254",
     "geom:latitude":35.19254,
     "geom:longitude":-92.391708,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"294 S Broadview St",
     "sg:city":"Greenbrier",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219425775,
-    "wof:lastmodified":1449071633,
+    "wof:lastmodified":1466323063,
     "wof:name":"Video To Go",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "supplies-renting"
     ]
 },
-  "bbox": [-92.391708,35.19254,-92.391708,35.19254],
-  "geometry": {"coordinates":[-92.391708,35.19254],"type":"Point"}
+  "bbox": [
+    -92.391708,
+    35.19254,
+    -92.391708,
+    35.19254
+],
+  "geometry": {"coordinates":[-92.39170799999999,35.19254],"type":"Point"}
 }

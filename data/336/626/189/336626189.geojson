@@ -2,13 +2,14 @@
   "id": 336626189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.806712,36.665012,-94.806712,36.665012",
     "geom:latitude":36.665012,
     "geom:longitude":-94.806712,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"59800 E 243 Ln",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336626189,
-    "wof:lastmodified":1448998013,
+    "wof:lastmodified":1466324507,
     "wof:name":"Jerry Keene",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.806712,36.665012,-94.806712,36.665012],
+  "bbox": [
+    -94.806712,
+    36.665012,
+    -94.806712,
+    36.665012
+],
   "geometry": {"coordinates":[-94.806712,36.665012],"type":"Point"}
 }

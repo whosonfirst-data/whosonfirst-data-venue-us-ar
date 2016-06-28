@@ -2,13 +2,14 @@
   "id": 219739045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.199758,36.490664,-92.199758,36.490664",
     "geom:latitude":36.490664,
     "geom:longitude":-92.199758,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2809 Highway 101",
     "sg:city":"Gamaliel",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219739045,
-    "wof:lastmodified":1449071876,
+    "wof:lastmodified":1466324977,
     "wof:name":"The Lakehouse Restaurant & Lounge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.199758,36.490664,-92.199758,36.490664],
+  "bbox": [
+    -92.199758,
+    36.490664,
+    -92.199758,
+    36.490664
+],
   "geometry": {"coordinates":[-92.199758,36.490664],"type":"Point"}
 }

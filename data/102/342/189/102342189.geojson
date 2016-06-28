@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102342189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.217332,36.361762,-94.217332,36.361762",
     "geom:latitude":36.361762,
     "geom:longitude":-94.217332,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"902 S Walton Blvd",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.vfc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895819,
+        85688549,
         85633793,
         85921509,
         102083255,
-        85688549
+        85895819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102342189,
-    "wof:lastmodified":1449070012,
+    "wof:lastmodified":1466323798,
     "wof:name":"VF Corp",
     "wof:parent_id":85895819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.217332,36.361762,-94.217332,36.361762],
+  "bbox": [
+    -94.217332,
+    36.361762,
+    -94.217332,
+    36.361762
+],
   "geometry": {"coordinates":[-94.217332,36.361762],"type":"Point"}
 }

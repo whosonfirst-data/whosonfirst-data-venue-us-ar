@@ -2,13 +2,14 @@
   "id": 219891811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.154636,36.426351,-94.154636,36.426351",
     "geom:latitude":36.426351,
     "geom:longitude":-94.154636,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11767 E Highway 72",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219891811,
-    "wof:lastmodified":1449072517,
+    "wof:lastmodified":1466325181,
     "wof:name":"Downs Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "car"
     ]
 },
-  "bbox": [-94.154636,36.426351,-94.154636,36.426351],
+  "bbox": [
+    -94.154636,
+    36.426351,
+    -94.154636,
+    36.426351
+],
   "geometry": {"coordinates":[-94.154636,36.426351],"type":"Point"}
 }

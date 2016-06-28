@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102315721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.168495,33.969443,-94.168495,33.969443",
     "geom:latitude":33.969443,
     "geom:longitude":-94.168495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3342 N Camellia",
     "sg:city":"Lockesburg",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102315721,
-    "wof:lastmodified":1449070079,
+    "wof:lastmodified":1466323435,
     "wof:name":"Rusty Williams Rv & Welding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.168495,33.969443,-94.168495,33.969443],
-  "geometry": {"coordinates":[-94.168495,33.969443],"type":"Point"}
+  "bbox": [
+    -94.168495,
+    33.969443,
+    -94.168495,
+    33.969443
+],
+  "geometry": {"coordinates":[-94.16849499999999,33.969443],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102325211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.885129,35.073602,-91.885129,35.073602",
     "geom:latitude":35.073602,
     "geom:longitude":-91.885129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 W Louisiana St",
     "sg:city":"Beebe",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102325211,
-    "wof:lastmodified":1449068705,
+    "wof:lastmodified":1466323536,
     "wof:name":"Kevcar Roofing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.885129,35.073602,-91.885129,35.073602],
-  "geometry": {"coordinates":[-91.885129,35.073602],"type":"Point"}
+  "bbox": [
+    -91.885129,
+    35.073602,
+    -91.885129,
+    35.073602
+],
+  "geometry": {"coordinates":[-91.88512900000001,35.073602],"type":"Point"}
 }

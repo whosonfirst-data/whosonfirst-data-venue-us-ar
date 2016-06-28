@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102289915",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.387855,34.753847,-92.387855,34.753847",
     "geom:latitude":34.753847,
     "geom:longitude":-92.387855,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10220 W Markham St",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -35,11 +36,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85807173,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85807173
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":"102289915",
-    "wof:lastmodified":1449069760,
+    "wof:lastmodified":1466322903,
     "wof:name":"Weight Watchers",
     "wof:parent_id":85807173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.387855,34.753847,-92.387855,34.753847],
+  "bbox": [
+    -92.387855,
+    34.753847,
+    -92.387855,
+    34.753847
+],
   "geometry": {"coordinates":[-92.387855,34.753847],"type":"Point"}
 }

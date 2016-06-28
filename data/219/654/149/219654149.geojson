@@ -2,13 +2,14 @@
   "id": 219654149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.322601,35.75876,-90.322601,35.75876",
     "geom:latitude":35.75876,
     "geom:longitude":-90.322601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 N New York Ave",
     "sg:city":"Caraway",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":219654149,
-    "wof:lastmodified":1449071580,
+    "wof:lastmodified":1466324739,
     "wof:name":"K&K Auto",
     "wof:parent_id":85836541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "cars-wholesale"
     ]
 },
-  "bbox": [-90.322601,35.75876,-90.322601,35.75876],
-  "geometry": {"coordinates":[-90.322601,35.75876],"type":"Point"}
+  "bbox": [
+    -90.322601,
+    35.75876,
+    -90.322601,
+    35.75876
+],
+  "geometry": {"coordinates":[-90.32260100000001,35.75876],"type":"Point"}
 }

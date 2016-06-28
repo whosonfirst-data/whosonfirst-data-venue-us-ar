@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102233067",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.458425,36.482256,-94.458425,36.482256",
     "geom:latitude":36.482256,
     "geom:longitude":-94.458425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 W Spring St",
     "sg:city":"Sulphur Springs",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102233067",
-    "wof:lastmodified":1449070254,
+    "wof:lastmodified":1466321407,
     "wof:name":"Alley Cat Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.458425,36.482256,-94.458425,36.482256],
-  "geometry": {"coordinates":[-94.458425,36.482256],"type":"Point"}
+  "bbox": [
+    -94.458425,
+    36.482256,
+    -94.458425,
+    36.482256
+],
+  "geometry": {"coordinates":[-94.45842500000001,36.482256],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219971265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.1804,36.334,-94.1804,36.334",
     "geom:latitude":36.334,
     "geom:longitude":-94.1804,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4500 W Walnut St Ste 3",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219971265,
-    "wof:lastmodified":1449072168,
+    "wof:lastmodified":1466325169,
     "wof:name":"JJ's Grill n' Chill of Rogers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "american"
     ]
 },
-  "bbox": [-94.1804,36.334,-94.1804,36.334],
-  "geometry": {"coordinates":[-94.1804,36.334],"type":"Point"}
+  "bbox": [
+    -94.1804,
+    36.334,
+    -94.1804,
+    36.334
+],
+  "geometry": {"coordinates":[-94.18040000000001,36.334],"type":"Point"}
 }

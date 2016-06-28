@@ -2,13 +2,14 @@
   "id": 219639485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.705968,35.838362,-90.705968,35.838362",
     "geom:latitude":35.838362,
     "geom:longitude":-90.705968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"218 W Washington Ave",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -69,10 +70,11 @@
         }
     ],
     "wof:id":219639485,
-    "wof:lastmodified":1449073896,
+    "wof:lastmodified":1466324638,
     "wof:name":"Vance Construction Solutions",
     "wof:parent_id":85836541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -87,6 +89,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-90.705968,35.838362,-90.705968,35.838362],
+  "bbox": [
+    -90.705968,
+    35.838362,
+    -90.705968,
+    35.838362
+],
   "geometry": {"coordinates":[-90.705968,35.838362],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102268231",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.161009,34.524709,-93.161009,34.524709",
     "geom:latitude":34.524709,
     "geom:longitude":-93.161009,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 Crystal Hill Rd",
     "sg:city":"Hot Springs National Park",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":"102268231",
-    "wof:lastmodified":1449069115,
+    "wof:lastmodified":1466322287,
     "wof:name":"Steven L Murphy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.161009,34.524709,-93.161009,34.524709],
-  "geometry": {"coordinates":[-93.161009,34.524709],"type":"Point"}
+  "bbox": [
+    -93.161009,
+    34.524709,
+    -93.161009,
+    34.524709
+],
+  "geometry": {"coordinates":[-93.16100900000001,34.524709],"type":"Point"}
 }

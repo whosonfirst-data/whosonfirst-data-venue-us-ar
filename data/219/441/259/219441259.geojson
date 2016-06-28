@@ -2,13 +2,14 @@
   "id": 219441259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.117141,34.876542,-92.117141,34.876542",
     "geom:latitude":34.876542,
     "geom:longitude":-92.117141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 John Harden Dr",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219441259,
-    "wof:lastmodified":1449070657,
+    "wof:lastmodified":1466323263,
     "wof:name":"Rail & Sprue Hobbies",
     "wof:parent_id":85852337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "supply"
     ]
 },
-  "bbox": [-92.117141,34.876542,-92.117141,34.876542],
+  "bbox": [
+    -92.117141,
+    34.876542,
+    -92.117141,
+    34.876542
+],
   "geometry": {"coordinates":[-92.117141,34.876542],"type":"Point"}
 }

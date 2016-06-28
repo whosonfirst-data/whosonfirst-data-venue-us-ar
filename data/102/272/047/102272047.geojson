@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102272047",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.525726,35.871402,-91.525726,35.871402",
     "geom:latitude":35.871402,
     "geom:longitude":-91.525726,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"671 Antioch Rd",
     "sg:city":"Cave City",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":"102272047",
-    "wof:lastmodified":1449070017,
+    "wof:lastmodified":1466322330,
     "wof:name":"Calhoun Winnell",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.525726,35.871402,-91.525726,35.871402],
-  "geometry": {"coordinates":[-91.525726,35.871402],"type":"Point"}
+  "bbox": [
+    -91.525726,
+    35.871402,
+    -91.525726,
+    35.871402
+],
+  "geometry": {"coordinates":[-91.52572600000001,35.871402],"type":"Point"}
 }

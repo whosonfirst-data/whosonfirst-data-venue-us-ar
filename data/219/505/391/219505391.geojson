@@ -2,13 +2,14 @@
   "id": 219505391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.504289,34.892909,-92.504289,34.892909",
     "geom:latitude":34.892909,
     "geom:longitude":-92.504289,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17017 Highway 300",
     "sg:city":"Roland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219505391,
-    "wof:lastmodified":1449073335,
+    "wof:lastmodified":1466323990,
     "wof:name":"Brad Holmes",
     "wof:parent_id":85847659,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-92.504289,34.892909,-92.504289,34.892909],
+  "bbox": [
+    -92.504289,
+    34.892909,
+    -92.504289,
+    34.892909
+],
   "geometry": {"coordinates":[-92.504289,34.892909],"type":"Point"}
 }

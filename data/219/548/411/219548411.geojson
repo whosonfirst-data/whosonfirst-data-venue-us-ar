@@ -2,13 +2,14 @@
   "id": 219548411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.314263,35.626352,-92.314263,35.626352",
     "geom:latitude":35.626352,
     "geom:longitude":-92.314263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6615 Banner Mountain Rd",
     "sg:city":"Shirley",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219548411,
-    "wof:lastmodified":1449072833,
+    "wof:lastmodified":1466324322,
     "wof:name":"James Kirkendoll",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "lawn"
     ]
 },
-  "bbox": [-92.314263,35.626352,-92.314263,35.626352],
+  "bbox": [
+    -92.314263,
+    35.626352,
+    -92.314263,
+    35.626352
+],
   "geometry": {"coordinates":[-92.314263,35.626352],"type":"Point"}
 }

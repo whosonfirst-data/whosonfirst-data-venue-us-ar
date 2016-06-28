@@ -2,13 +2,14 @@
   "id": 219847907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.141777,36.128743,-94.141777,36.128743",
     "geom:latitude":36.128743,
     "geom:longitude":-94.141777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4241 N Gabel Dr",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -69,10 +70,11 @@
         }
     ],
     "wof:id":219847907,
-    "wof:lastmodified":1449071677,
+    "wof:lastmodified":1466324964,
     "wof:name":"Grubesich Connie LCSW",
     "wof:parent_id":85885433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -87,6 +89,11 @@
         "counselor"
     ]
 },
-  "bbox": [-94.141777,36.128743,-94.141777,36.128743],
+  "bbox": [
+    -94.141777,
+    36.128743,
+    -94.141777,
+    36.128743
+],
   "geometry": {"coordinates":[-94.141777,36.128743],"type":"Point"}
 }

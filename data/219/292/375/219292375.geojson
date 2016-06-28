@@ -2,13 +2,14 @@
   "id": 219292375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.406291,34.396953,-94.406291,34.396953",
     "geom:latitude":34.396953,
     "geom:longitude":-94.406291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"151 Dickerson Ln",
     "sg:city":"Cove",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219292375,
-    "wof:lastmodified":1449070684,
+    "wof:lastmodified":1466321668,
     "wof:name":"Rdc Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-94.406291,34.396953,-94.406291,34.396953],
+  "bbox": [
+    -94.406291,
+    34.396953,
+    -94.406291,
+    34.396953
+],
   "geometry": {"coordinates":[-94.406291,34.396953],"type":"Point"}
 }

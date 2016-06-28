@@ -2,13 +2,14 @@
   "id": 219781769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.105338,36.237949,-93.105338,36.237949",
     "geom:latitude":36.237949,
     "geom:longitude":-93.105338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 E Crandall Ave",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219781769,
-    "wof:lastmodified":1449071056,
+    "wof:lastmodified":1466325012,
     "wof:name":"Modern Parts Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "shop"
     ]
 },
-  "bbox": [-93.105338,36.237949,-93.105338,36.237949],
+  "bbox": [
+    -93.105338,
+    36.237949,
+    -93.105338,
+    36.237949
+],
   "geometry": {"coordinates":[-93.105338,36.237949],"type":"Point"}
 }

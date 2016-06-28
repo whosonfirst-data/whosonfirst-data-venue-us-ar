@@ -2,13 +2,14 @@
   "id": 219564035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.957362,35.011398,-91.957362,35.011398",
     "geom:latitude":35.011398,
     "geom:longitude":-91.957362,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Windsor Park Cv",
     "sg:city":"Ward",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219564035,
-    "wof:lastmodified":1449073701,
+    "wof:lastmodified":1466324531,
     "wof:name":"Treasures And Pleasures",
     "wof:parent_id":85839277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-91.957362,35.011398,-91.957362,35.011398],
+  "bbox": [
+    -91.957362,
+    35.011398,
+    -91.957362,
+    35.011398
+],
   "geometry": {"coordinates":[-91.957362,35.011398],"type":"Point"}
 }

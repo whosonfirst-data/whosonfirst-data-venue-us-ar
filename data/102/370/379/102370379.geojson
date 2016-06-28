@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102370379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.25329,35.212371,-94.25329,35.212371",
     "geom:latitude":35.212371,
     "geom:longitude":-94.25329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 E Center St",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102370379,
-    "wof:lastmodified":1449069050,
+    "wof:lastmodified":1466324431,
     "wof:name":"Town & Country Barber Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.25329,35.212371,-94.25329,35.212371],
-  "geometry": {"coordinates":[-94.25329,35.212371],"type":"Point"}
+  "bbox": [
+    -94.25329,
+    35.212371,
+    -94.25329,
+    35.212371
+],
+  "geometry": {"coordinates":[-94.25329000000001,35.212371],"type":"Point"}
 }

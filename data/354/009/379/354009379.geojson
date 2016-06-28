@@ -2,13 +2,14 @@
   "id": 354009379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.396121,36.335167,-94.396121,36.335167",
     "geom:latitude":36.335167,
     "geom:longitude":-94.396121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16545 State Hwy 102",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354009379,
-    "wof:lastmodified":1449067652,
+    "wof:lastmodified":1466324484,
     "wof:name":"Barrera Auto Sales",
     "wof:parent_id":85853527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-94.396121,36.335167,-94.396121,36.335167],
-  "geometry": {"coordinates":[-94.396121,36.335167],"type":"Point"}
+  "bbox": [
+    -94.396121,
+    36.335167,
+    -94.396121,
+    36.335167
+],
+  "geometry": {"coordinates":[-94.39612099999999,36.335167],"type":"Point"}
 }

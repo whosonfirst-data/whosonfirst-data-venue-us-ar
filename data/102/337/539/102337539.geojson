@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102337539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.071987,34.188603,-93.071987,34.188603",
     "geom:latitude":34.188603,
     "geom:longitude":-93.071987,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"196 Valley St",
     "sg:city":"Arkadelphia",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102337539,
-    "wof:lastmodified":1449068904,
+    "wof:lastmodified":1466323827,
     "wof:name":"Country Crafts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.071987,34.188603,-93.071987,34.188603],
-  "geometry": {"coordinates":[-93.071987,34.188603],"type":"Point"}
+  "bbox": [
+    -93.071987,
+    34.188603,
+    -93.071987,
+    34.188603
+],
+  "geometry": {"coordinates":[-93.07198699999999,34.188603],"type":"Point"}
 }

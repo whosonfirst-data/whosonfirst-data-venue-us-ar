@@ -2,13 +2,14 @@
   "id": 219201247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.14547,33.981514,-93.14547,33.981514",
     "geom:latitude":33.981514,
     "geom:longitude":-93.14547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"64 Moon Valley Rd",
     "sg:city":"Gurdon",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219201247,
-    "wof:lastmodified":1449073437,
+    "wof:lastmodified":1466320876,
     "wof:name":"Randy Ledbetter Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "trucking"
     ]
 },
-  "bbox": [-93.14547,33.981514,-93.14547,33.981514],
+  "bbox": [
+    -93.14547,
+    33.981514,
+    -93.14547,
+    33.981514
+],
   "geometry": {"coordinates":[-93.14547,33.981514],"type":"Point"}
 }

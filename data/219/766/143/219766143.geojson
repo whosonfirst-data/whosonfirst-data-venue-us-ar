@@ -2,13 +2,14 @@
   "id": 219766143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.017418,36.229909,-93.017418,36.229909",
     "geom:latitude":36.229909,
     "geom:longitude":-93.017418,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3860 Eger Dr",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219766143,
-    "wof:lastmodified":1449070334,
+    "wof:lastmodified":1466324922,
     "wof:name":"Branson World Radio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "film"
     ]
 },
-  "bbox": [-93.017418,36.229909,-93.017418,36.229909],
-  "geometry": {"coordinates":[-93.017418,36.229909],"type":"Point"}
+  "bbox": [
+    -93.017418,
+    36.229909,
+    -93.017418,
+    36.229909
+],
+  "geometry": {"coordinates":[-93.01741800000001,36.229909],"type":"Point"}
 }

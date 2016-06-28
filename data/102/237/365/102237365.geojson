@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102237365",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.672981,33.207428,-92.672981,33.207428",
     "geom:latitude":33.207428,
     "geom:longitude":-92.672981,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 W Hillsboro St",
     "sg:city":"El Dorado",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102237365",
-    "wof:lastmodified":1449067826,
+    "wof:lastmodified":1466321547,
     "wof:name":"Bill's Sandwich Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.672981,33.207428,-92.672981,33.207428],
-  "geometry": {"coordinates":[-92.672981,33.207428],"type":"Point"}
+  "bbox": [
+    -92.672981,
+    33.207428,
+    -92.672981,
+    33.207428
+],
+  "geometry": {"coordinates":[-92.67298099999999,33.207428],"type":"Point"}
 }

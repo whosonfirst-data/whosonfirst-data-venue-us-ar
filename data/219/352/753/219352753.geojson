@@ -2,13 +2,14 @@
   "id": 219352753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.623324,35.46485,-91.623324,35.46485",
     "geom:latitude":35.46485,
     "geom:longitude":-91.623324,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"363 Peacock Rd",
     "sg:city":"Bradford",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219352753,
-    "wof:lastmodified":1449072563,
+    "wof:lastmodified":1466322305,
     "wof:name":"Whatever Equipment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.623324,35.46485,-91.623324,35.46485],
+  "bbox": [
+    -91.623324,
+    35.46485,
+    -91.623324,
+    35.46485
+],
   "geometry": {"coordinates":[-91.623324,35.46485],"type":"Point"}
 }

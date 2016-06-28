@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102238611",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.09556,36.126488,-94.09556,36.126488",
     "geom:latitude":36.126488,
     "geom:longitude":-94.09556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4135 N Hungate Rd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":"102238611",
-    "wof:lastmodified":1449068679,
+    "wof:lastmodified":1466321644,
     "wof:name":"Coverage Group Technologies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.09556,36.126488,-94.09556,36.126488],
-  "geometry": {"coordinates":[-94.09556,36.126488],"type":"Point"}
+  "bbox": [
+    -94.09556,
+    36.126488,
+    -94.09556,
+    36.126488
+],
+  "geometry": {"coordinates":[-94.09556000000001,36.126488],"type":"Point"}
 }

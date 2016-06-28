@@ -2,13 +2,14 @@
   "id": 219224865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.589523,33.661041,-93.589523,33.661041",
     "geom:latitude":33.661041,
     "geom:longitude":-93.589523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 S Main St",
     "sg:city":"Hope",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219224865,
-    "wof:lastmodified":1449072982,
+    "wof:lastmodified":1466321097,
     "wof:name":"Main Street Flower & Gift",
     "wof:parent_id":85806015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.589523,33.661041,-93.589523,33.661041],
+  "bbox": [
+    -93.589523,
+    33.661041,
+    -93.589523,
+    33.661041
+],
   "geometry": {"coordinates":[-93.589523,33.661041],"type":"Point"}
 }

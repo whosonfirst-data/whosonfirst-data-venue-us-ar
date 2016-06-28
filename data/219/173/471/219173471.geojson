@@ -2,13 +2,14 @@
   "id": 219173471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.790816,33.629596,-91.790816,33.629596",
     "geom:latitude":33.629596,
     "geom:longitude":-91.790816,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302A N Main St",
     "sg:city":"Monticello",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219173471,
-    "wof:lastmodified":1449071072,
+    "wof:lastmodified":1466320578,
     "wof:name":"Pathfinder Oil & Gas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "gas"
     ]
 },
-  "bbox": [-91.790816,33.629596,-91.790816,33.629596],
-  "geometry": {"coordinates":[-91.790816,33.629596],"type":"Point"}
+  "bbox": [
+    -91.790816,
+    33.629596,
+    -91.790816,
+    33.629596
+],
+  "geometry": {"coordinates":[-91.79081600000001,33.629596],"type":"Point"}
 }

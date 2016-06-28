@@ -2,13 +2,14 @@
   "id": 219927913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.458878,36.4119,-94.458878,36.4119",
     "geom:latitude":36.4119,
     "geom:longitude":-94.458878,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"HIGHWAY 59 S",
     "sg:city":"Gravette",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219927913,
-    "wof:lastmodified":1449073546,
+    "wof:lastmodified":1466325152,
     "wof:name":"Arvest",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-94.458878,36.4119,-94.458878,36.4119],
+  "bbox": [
+    -94.458878,
+    36.4119,
+    -94.458878,
+    36.4119
+],
   "geometry": {"coordinates":[-94.458878,36.4119],"type":"Point"}
 }

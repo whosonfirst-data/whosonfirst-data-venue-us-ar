@@ -2,13 +2,14 @@
   "id": 219875125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.219799,36.364277,-94.219799,36.364277",
     "geom:latitude":36.364277,
     "geom:longitude":-94.219799,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"808 S Walton Blvd",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219875125,
-    "wof:lastmodified":1449073027,
+    "wof:lastmodified":1466324991,
     "wof:name":"Boatmen's National Bank Of Nw",
     "wof:parent_id":85895819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.219799,36.364277,-94.219799,36.364277],
-  "geometry": {"coordinates":[-94.219799,36.364277],"type":"Point"}
+  "bbox": [
+    -94.219799,
+    36.364277,
+    -94.219799,
+    36.364277
+],
+  "geometry": {"coordinates":[-94.21979899999999,36.364277],"type":"Point"}
 }

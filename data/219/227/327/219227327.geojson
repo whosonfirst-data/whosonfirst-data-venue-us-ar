@@ -2,13 +2,14 @@
   "id": 219227327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.596993,33.73136,-93.596993,33.73136",
     "geom:latitude":33.73136,
     "geom:longitude":-93.596993,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"440 Hempstead 217",
     "sg:city":"Hope",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":219227327,
-    "wof:lastmodified":1449071176,
+    "wof:lastmodified":1466321143,
     "wof:name":"Volentine Heating & Air Conditioning",
     "wof:parent_id":85820749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-93.596993,33.73136,-93.596993,33.73136],
+  "bbox": [
+    -93.596993,
+    33.73136,
+    -93.596993,
+    33.73136
+],
   "geometry": {"coordinates":[-93.596993,33.73136],"type":"Point"}
 }

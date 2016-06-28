@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102233775",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.079411,36.217999,-93.079411,36.217999",
     "geom:latitude":36.217999,
     "geom:longitude":-93.079411,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 Hwy 62 E",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102233775",
-    "wof:lastmodified":1449070257,
+    "wof:lastmodified":1466321554,
     "wof:name":"Bank of America",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.079411,36.217999,-93.079411,36.217999],
-  "geometry": {"coordinates":[-93.079411,36.217999],"type":"Point"}
+  "bbox": [
+    -93.079411,
+    36.217999,
+    -93.079411,
+    36.217999
+],
+  "geometry": {"coordinates":[-93.07941099999999,36.217999],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220016031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.178206,36.193269,-94.178206,36.193269",
     "geom:latitude":36.193269,
     "geom:longitude":-94.178206,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4058 Elm Springs Road",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":220016031,
-    "wof:lastmodified":1449074180,
+    "wof:lastmodified":1466324433,
     "wof:name":"Eco Chic Resale Consignment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.178206,36.193269,-94.178206,36.193269],
+  "bbox": [
+    -94.178206,
+    36.193269,
+    -94.178206,
+    36.193269
+],
   "geometry": {"coordinates":[-94.178206,36.193269],"type":"Point"}
 }

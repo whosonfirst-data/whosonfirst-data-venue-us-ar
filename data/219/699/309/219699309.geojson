@@ -2,13 +2,14 @@
   "id": 219699309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.464744,36.067254,-90.464744,36.067254",
     "geom:latitude":36.067254,
     "geom:longitude":-90.464744,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1804 Bard Rd",
     "sg:city":"Paragould",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219699309,
-    "wof:lastmodified":1449070882,
+    "wof:lastmodified":1466324751,
     "wof:name":"Wilkins Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrician"
     ]
 },
-  "bbox": [-90.464744,36.067254,-90.464744,36.067254],
+  "bbox": [
+    -90.464744,
+    36.067254,
+    -90.464744,
+    36.067254
+],
   "geometry": {"coordinates":[-90.464744,36.067254],"type":"Point"}
 }

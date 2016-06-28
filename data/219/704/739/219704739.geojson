@@ -2,13 +2,14 @@
   "id": 219704739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.200427,36.393394,-90.200427,36.393394",
     "geom:latitude":36.393394,
     "geom:longitude":-90.200427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1043 Pleasant View Ln",
     "sg:city":"Piggott",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219704739,
-    "wof:lastmodified":1449071319,
+    "wof:lastmodified":1466324792,
     "wof:name":"Thamm Land And Property",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "park"
     ]
 },
-  "bbox": [-90.200427,36.393394,-90.200427,36.393394],
+  "bbox": [
+    -90.200427,
+    36.393394,
+    -90.200427,
+    36.393394
+],
   "geometry": {"coordinates":[-90.200427,36.393394],"type":"Point"}
 }

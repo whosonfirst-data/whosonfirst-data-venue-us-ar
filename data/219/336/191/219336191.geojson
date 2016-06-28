@@ -2,13 +2,14 @@
   "id": 219336191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.997745,35.091445,-91.997745,35.091445",
     "geom:latitude":35.091445,
     "geom:longitude":-91.997745,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"145 Archer Rd",
     "sg:city":"Beebe",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":219336191,
-    "wof:lastmodified":1449070311,
+    "wof:lastmodified":1466322053,
     "wof:name":"Diamond C Horse Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "specialty"
     ]
 },
-  "bbox": [-91.997745,35.091445,-91.997745,35.091445],
-  "geometry": {"coordinates":[-91.997745,35.091445],"type":"Point"}
+  "bbox": [
+    -91.997745,
+    35.091445,
+    -91.997745,
+    35.091445
+],
+  "geometry": {"coordinates":[-91.99774499999999,35.091445],"type":"Point"}
 }

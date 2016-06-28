@@ -2,13 +2,14 @@
   "id": 219856747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.13092,36.117953,-94.13092,36.117953",
     "geom:latitude":36.117953,
     "geom:longitude":-94.13092,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3715 N Business Dr",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":219856747,
-    "wof:lastmodified":1449071406,
+    "wof:lastmodified":1466325039,
     "wof:name":"Cannon R David MD",
     "wof:parent_id":85885433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "surgeons"
     ]
 },
-  "bbox": [-94.13092,36.117953,-94.13092,36.117953],
+  "bbox": [
+    -94.13092,
+    36.117953,
+    -94.13092,
+    36.117953
+],
   "geometry": {"coordinates":[-94.13092,36.117953],"type":"Point"}
 }

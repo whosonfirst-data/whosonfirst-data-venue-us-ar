@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102413343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.174349,33.972232,-94.174349,33.972232",
     "geom:latitude":33.972232,
     "geom:longitude":-94.174349,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"232 N Park Ave",
     "sg:city":"Lockesburg",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102413343,
-    "wof:lastmodified":1449068183,
+    "wof:lastmodified":1466325252,
     "wof:name":"Thornton Alton",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.174349,33.972232,-94.174349,33.972232],
-  "geometry": {"coordinates":[-94.174349,33.972232],"type":"Point"}
+  "bbox": [
+    -94.174349,
+    33.972232,
+    -94.174349,
+    33.972232
+],
+  "geometry": {"coordinates":[-94.17434900000001,33.972232],"type":"Point"}
 }

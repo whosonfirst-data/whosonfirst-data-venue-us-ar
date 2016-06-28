@@ -2,13 +2,14 @@
   "id": 219219391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.721022,33.360981,-92.721022,33.360981",
     "geom:latitude":33.360981,
     "geom:longitude":-92.721022,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 E 10th St",
     "sg:city":"Smackover",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219219391,
-    "wof:lastmodified":1449073768,
+    "wof:lastmodified":1466321039,
     "wof:name":"Deborah White",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-92.721022,33.360981,-92.721022,33.360981],
+  "bbox": [
+    -92.721022,
+    33.360981,
+    -92.721022,
+    33.360981
+],
   "geometry": {"coordinates":[-92.721022,33.360981],"type":"Point"}
 }

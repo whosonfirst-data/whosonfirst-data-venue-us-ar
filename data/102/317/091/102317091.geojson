@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102317091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.619942,35.862601,-90.619942,35.862601",
     "geom:latitude":35.862601,
     "geom:longitude":-90.619942,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1609 Darrick Cir",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102317091,
-    "wof:lastmodified":1449068862,
+    "wof:lastmodified":1466323329,
     "wof:name":"Jim and Erma Boyer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.619942,35.862601,-90.619942,35.862601],
-  "geometry": {"coordinates":[-90.619942,35.862601],"type":"Point"}
+  "bbox": [
+    -90.619942,
+    35.862601,
+    -90.619942,
+    35.862601
+],
+  "geometry": {"coordinates":[-90.61994199999999,35.862601],"type":"Point"}
 }

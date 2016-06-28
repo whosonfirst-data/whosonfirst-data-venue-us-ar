@@ -2,13 +2,14 @@
   "id": 219441587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.054986,34.84319,-92.054986,34.84319",
     "geom:latitude":34.84319,
     "geom:longitude":-92.054986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"92 E Meadowlark Ln",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":219441587,
-    "wof:lastmodified":1449070657,
+    "wof:lastmodified":1466323269,
     "wof:name":"J C Design",
     "wof:parent_id":85811577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "architectural"
     ]
 },
-  "bbox": [-92.054986,34.84319,-92.054986,34.84319],
+  "bbox": [
+    -92.054986,
+    34.84319,
+    -92.054986,
+    34.84319
+],
   "geometry": {"coordinates":[-92.054986,34.84319],"type":"Point"}
 }

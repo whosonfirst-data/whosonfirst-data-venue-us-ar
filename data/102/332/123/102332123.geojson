@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102332123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.73239,35.826875,-90.73239,35.826875",
     "geom:latitude":35.826875,
     "geom:longitude":-90.73239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1603 Dupwe Dr",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102332123,
-    "wof:lastmodified":1449069075,
+    "wof:lastmodified":1466323614,
     "wof:name":"Arts Delivery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.73239,35.826875,-90.73239,35.826875],
+  "bbox": [
+    -90.73239,
+    35.826875,
+    -90.73239,
+    35.826875
+],
   "geometry": {"coordinates":[-90.73239,35.826875],"type":"Point"}
 }

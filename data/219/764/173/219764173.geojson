@@ -2,13 +2,14 @@
   "id": 219764173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.16767,36.283622,-93.16767,36.283622",
     "geom:latitude":36.283622,
     "geom:longitude":-93.16767,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3629 Highway 65 N",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":219764173,
-    "wof:lastmodified":1449073746,
+    "wof:lastmodified":1466324854,
     "wof:name":"Parkers RV Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "lodging"
     ]
 },
-  "bbox": [-93.16767,36.283622,-93.16767,36.283622],
+  "bbox": [
+    -93.16767,
+    36.283622,
+    -93.16767,
+    36.283622
+],
   "geometry": {"coordinates":[-93.16767,36.283622],"type":"Point"}
 }

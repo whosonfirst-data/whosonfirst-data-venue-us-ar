@@ -2,13 +2,14 @@
   "id": 336597311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.375513,34.489625,-94.375513,34.489625",
     "geom:latitude":34.489625,
     "geom:longitude":-94.375513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4720 US Hwy 71",
     "sg:city":"Hatfield",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336597311,
-    "wof:lastmodified":1448997985,
+    "wof:lastmodified":1466324502,
     "wof:name":"C K Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-94.375513,34.489625,-94.375513,34.489625],
+  "bbox": [
+    -94.375513,
+    34.489625,
+    -94.375513,
+    34.489625
+],
   "geometry": {"coordinates":[-94.375513,34.489625],"type":"Point"}
 }

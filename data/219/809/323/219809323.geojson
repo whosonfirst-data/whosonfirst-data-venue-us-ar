@@ -2,13 +2,14 @@
   "id": 219809323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.759247,36.250261,-92.759247,36.250261",
     "geom:latitude":36.250261,
     "geom:longitude":-92.759247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5177 Highway 62 W",
     "sg:city":"Yellville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219809323,
-    "wof:lastmodified":1449073283,
+    "wof:lastmodified":1466324957,
     "wof:name":"Duffy Brothers Heating & Cooling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-92.759247,36.250261,-92.759247,36.250261],
+  "bbox": [
+    -92.759247,
+    36.250261,
+    -92.759247,
+    36.250261
+],
   "geometry": {"coordinates":[-92.759247,36.250261],"type":"Point"}
 }

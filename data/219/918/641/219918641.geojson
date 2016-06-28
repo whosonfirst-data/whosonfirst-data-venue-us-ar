@@ -2,13 +2,14 @@
   "id": 219918641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.897352,36.491486,-93.897352,36.491486",
     "geom:latitude":36.491486,
     "geom:longitude":-93.897352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22600 Highway 62",
     "sg:city":"Garfield",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219918641,
-    "wof:lastmodified":1449072788,
+    "wof:lastmodified":1466325135,
     "wof:name":"Cris Jones Cpa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "public"
     ]
 },
-  "bbox": [-93.897352,36.491486,-93.897352,36.491486],
+  "bbox": [
+    -93.897352,
+    36.491486,
+    -93.897352,
+    36.491486
+],
   "geometry": {"coordinates":[-93.897352,36.491486],"type":"Point"}
 }

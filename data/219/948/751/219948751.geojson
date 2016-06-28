@@ -2,13 +2,14 @@
   "id": 219948751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.623805,35.825481,-93.623805,35.825481",
     "geom:latitude":35.825481,
     "geom:longitude":-93.623805,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25084 Highway 16",
     "sg:city":"Pettigrew",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219948751,
-    "wof:lastmodified":1449073198,
+    "wof:lastmodified":1466325096,
     "wof:name":"Fire Dept/First Responders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "protection"
     ]
 },
-  "bbox": [-93.623805,35.825481,-93.623805,35.825481],
+  "bbox": [
+    -93.623805,
+    35.825481,
+    -93.623805,
+    35.825481
+],
   "geometry": {"coordinates":[-93.623805,35.825481],"type":"Point"}
 }

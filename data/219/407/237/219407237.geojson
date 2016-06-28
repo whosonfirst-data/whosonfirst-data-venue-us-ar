@@ -2,13 +2,14 @@
   "id": 219407237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.513302,35.110926,-92.513302,35.110926",
     "geom:latitude":35.110926,
     "geom:longitude":-92.513302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4668 Highway 64 W",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219407237,
-    "wof:lastmodified":1449072331,
+    "wof:lastmodified":1466322910,
     "wof:name":"Hudspeth Sport Cars",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "repairing"
     ]
 },
-  "bbox": [-92.513302,35.110926,-92.513302,35.110926],
+  "bbox": [
+    -92.513302,
+    35.110926,
+    -92.513302,
+    35.110926
+],
   "geometry": {"coordinates":[-92.513302,35.110926],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219224135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.57627,33.629142,-93.57627,33.629142",
     "geom:latitude":33.629142,
     "geom:longitude":-93.57627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"905 Country Club Dr",
     "sg:city":"Hope",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219224135,
-    "wof:lastmodified":1449072981,
+    "wof:lastmodified":1466321082,
     "wof:name":"Triple 8 Cart Repair",
     "wof:parent_id":85806015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "handyman"
     ]
 },
-  "bbox": [-93.57627,33.629142,-93.57627,33.629142],
-  "geometry": {"coordinates":[-93.57627,33.629142],"type":"Point"}
+  "bbox": [
+    -93.57627,
+    33.629142,
+    -93.57627,
+    33.629142
+],
+  "geometry": {"coordinates":[-93.57626999999999,33.629142],"type":"Point"}
 }

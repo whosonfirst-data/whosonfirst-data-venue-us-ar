@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102416755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.192364,36.153682,-94.192364,36.153682",
     "geom:latitude":36.153682,
     "geom:longitude":-94.192364,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5083 Dearing Ave",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -32,11 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885483,
+        85688549,
         85633793,
         85919623,
         102082007,
-        85688549
+        85885483
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":102416755,
-    "wof:lastmodified":1449068852,
+    "wof:lastmodified":1466325361,
     "wof:name":"Swaffarco Feather N Trading",
     "wof:parent_id":85885483,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.192364,36.153682,-94.192364,36.153682],
+  "bbox": [
+    -94.192364,
+    36.153682,
+    -94.192364,
+    36.153682
+],
   "geometry": {"coordinates":[-94.192364,36.153682],"type":"Point"}
 }

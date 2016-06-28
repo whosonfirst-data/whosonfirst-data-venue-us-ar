@@ -2,13 +2,14 @@
   "id": 336612451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.545912,36.173435,-94.545912,36.173435",
     "geom:latitude":36.173435,
     "geom:longitude":-94.545912,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 Hwy 412 W",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336612451,
-    "wof:lastmodified":1448997426,
+    "wof:lastmodified":1466324505,
     "wof:name":"Stewart Title Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "title"
     ]
 },
-  "bbox": [-94.545912,36.173435,-94.545912,36.173435],
+  "bbox": [
+    -94.545912,
+    36.173435,
+    -94.545912,
+    36.173435
+],
   "geometry": {"coordinates":[-94.545912,36.173435],"type":"Point"}
 }

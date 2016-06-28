@@ -2,13 +2,14 @@
   "id": 219203313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.790861,33.386356,-92.790861,33.386356",
     "geom:latitude":33.386356,
     "geom:longitude":-92.790861,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5387 Highway 376 S",
     "sg:city":"Louann",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219203313,
-    "wof:lastmodified":1449071961,
+    "wof:lastmodified":1466320895,
     "wof:name":"Town & Country Lawns",
     "wof:parent_id":85813169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-92.790861,33.386356,-92.790861,33.386356],
-  "geometry": {"coordinates":[-92.790861,33.386356],"type":"Point"}
+  "bbox": [
+    -92.790861,
+    33.386356,
+    -92.790861,
+    33.386356
+],
+  "geometry": {"coordinates":[-92.79086100000001,33.386356],"type":"Point"}
 }

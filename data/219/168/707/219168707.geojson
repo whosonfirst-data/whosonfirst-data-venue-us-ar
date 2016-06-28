@@ -2,13 +2,14 @@
   "id": 219168707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.818726,33.642997,-91.818726,33.642997",
     "geom:latitude":33.642997,
     "geom:longitude":-91.818726,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"152 Tanglewood Dr",
     "sg:city":"Monticello",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219168707,
-    "wof:lastmodified":1449072224,
+    "wof:lastmodified":1466320539,
     "wof:name":"Wilson Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "trucking"
     ]
 },
-  "bbox": [-91.818726,33.642997,-91.818726,33.642997],
+  "bbox": [
+    -91.818726,
+    33.642997,
+    -91.818726,
+    33.642997
+],
   "geometry": {"coordinates":[-91.818726,33.642997],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219227135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.59169,33.667976,-93.59169,33.667976",
     "geom:latitude":33.667976,
     "geom:longitude":-93.59169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 E 2nd St",
     "sg:city":"Hope",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219227135,
-    "wof:lastmodified":1449071176,
+    "wof:lastmodified":1466321139,
     "wof:name":"Yocom, Tony L",
     "wof:parent_id":85806015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practice"
     ]
 },
-  "bbox": [-93.59169,33.667976,-93.59169,33.667976],
+  "bbox": [
+    -93.59169,
+    33.667976,
+    -93.59169,
+    33.667976
+],
   "geometry": {"coordinates":[-93.59169,33.667976],"type":"Point"}
 }

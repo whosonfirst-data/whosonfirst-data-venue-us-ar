@@ -2,13 +2,14 @@
   "id": 235946641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.786041,36.58216,-94.786041,36.58216",
     "geom:latitude":36.58216,
     "geom:longitude":-94.786041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1700 Pond Rd",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -67,10 +68,11 @@
         }
     ],
     "wof:id":235946641,
-    "wof:lastmodified":1449008571,
+    "wof:lastmodified":1466320429,
     "wof:name":"Sully''S Construction And Renovation",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -87,6 +89,11 @@
         "remodeling"
     ]
 },
-  "bbox": [-94.786041,36.58216,-94.786041,36.58216],
+  "bbox": [
+    -94.786041,
+    36.58216,
+    -94.786041,
+    36.58216
+],
   "geometry": {"coordinates":[-94.786041,36.58216],"type":"Point"}
 }

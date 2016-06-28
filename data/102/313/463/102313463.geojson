@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102313463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.481861,35.692909,-90.481861,35.692909",
     "geom:latitude":35.692909,
     "geom:longitude":-90.481861,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16760 Woodruff Ln",
     "sg:city":"Trumann",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102313463,
-    "wof:lastmodified":1449067842,
+    "wof:lastmodified":1466323316,
     "wof:name":"Pagan's Heating & Air",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.481861,35.692909,-90.481861,35.692909],
-  "geometry": {"coordinates":[-90.481861,35.692909],"type":"Point"}
+  "bbox": [
+    -90.481861,
+    35.692909,
+    -90.481861,
+    35.692909
+],
+  "geometry": {"coordinates":[-90.48186099999999,35.692909],"type":"Point"}
 }

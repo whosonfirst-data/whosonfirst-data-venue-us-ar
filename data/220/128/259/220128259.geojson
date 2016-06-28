@@ -2,13 +2,14 @@
   "id": 220128259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.824938,35.495482,-93.824938,35.495482",
     "geom:latitude":35.495482,
     "geom:longitude":-93.824938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"812 N 2nd St",
     "sg:city":"Ozark",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220128259,
-    "wof:lastmodified":1449074346,
+    "wof:lastmodified":1466322760,
     "wof:name":"Gardenwalk On North Second",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-93.824938,35.495482,-93.824938,35.495482],
+  "bbox": [
+    -93.824938,
+    35.495482,
+    -93.824938,
+    35.495482
+],
   "geometry": {"coordinates":[-93.824938,35.495482],"type":"Point"}
 }

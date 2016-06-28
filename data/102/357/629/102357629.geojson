@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102357629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.827047,35.488416,-93.827047,35.488416",
     "geom:latitude":35.488416,
     "geom:longitude":-93.827047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 N 3rd St",
     "sg:city":"Ozark",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102357629,
-    "wof:lastmodified":1449069885,
+    "wof:lastmodified":1466324253,
     "wof:name":"Sun N Fun",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.827047,35.488416,-93.827047,35.488416],
-  "geometry": {"coordinates":[-93.827047,35.488416],"type":"Point"}
+  "bbox": [
+    -93.827047,
+    35.488416,
+    -93.827047,
+    35.488416
+],
+  "geometry": {"coordinates":[-93.82704699999999,35.488416],"type":"Point"}
 }

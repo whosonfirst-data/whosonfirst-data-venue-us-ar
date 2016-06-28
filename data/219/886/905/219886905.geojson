@@ -2,13 +2,14 @@
   "id": 219886905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.355858,36.31599,-94.355858,36.31599",
     "geom:latitude":36.31599,
     "geom:longitude":-94.355858,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14710 Vaughn Rd",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219886905,
-    "wof:lastmodified":1449072326,
+    "wof:lastmodified":1466325073,
     "wof:name":"Boone Management Inc",
     "wof:parent_id":85853527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "services-household"
     ]
 },
-  "bbox": [-94.355858,36.31599,-94.355858,36.31599],
+  "bbox": [
+    -94.355858,
+    36.31599,
+    -94.355858,
+    36.31599
+],
   "geometry": {"coordinates":[-94.355858,36.31599],"type":"Point"}
 }

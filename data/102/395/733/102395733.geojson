@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102395733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.778348,35.011329,-90.778348,35.011329",
     "geom:latitude":35.011329,
     "geom:longitude":-90.778348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"819 E Broadway Ave",
     "sg:city":"Forrest City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102395733,
-    "wof:lastmodified":1449069818,
+    "wof:lastmodified":1466324778,
     "wof:name":"Rent A Space",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.778348,35.011329,-90.778348,35.011329],
-  "geometry": {"coordinates":[-90.778348,35.011329],"type":"Point"}
+  "bbox": [
+    -90.778348,
+    35.011329,
+    -90.778348,
+    35.011329
+],
+  "geometry": {"coordinates":[-90.77834799999999,35.011329],"type":"Point"}
 }

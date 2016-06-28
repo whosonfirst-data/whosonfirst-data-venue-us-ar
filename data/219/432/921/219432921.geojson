@@ -2,13 +2,14 @@
   "id": 219432921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.079837,35.573025,-92.079837,35.573025",
     "geom:latitude":35.573025,
     "geom:longitude":-92.079837,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2204 Brownsville Rd",
     "sg:city":"Higden",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219432921,
-    "wof:lastmodified":1449070319,
+    "wof:lastmodified":1466323123,
     "wof:name":"Parkers Bend",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.079837,35.573025,-92.079837,35.573025],
+  "bbox": [
+    -92.079837,
+    35.573025,
+    -92.079837,
+    35.573025
+],
   "geometry": {"coordinates":[-92.079837,35.573025],"type":"Point"}
 }

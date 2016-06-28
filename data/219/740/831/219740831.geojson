@@ -2,13 +2,14 @@
   "id": 219740831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.456102,36.373918,-91.456102,36.373918",
     "geom:latitude":36.373918,
     "geom:longitude":-91.456102,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2906 W Firetower Rd",
     "sg:city":"Hardy",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219740831,
-    "wof:lastmodified":1449072000,
+    "wof:lastmodified":1466324902,
     "wof:name":"Charles L Bonomini",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "electric"
     ]
 },
-  "bbox": [-91.456102,36.373918,-91.456102,36.373918],
+  "bbox": [
+    -91.456102,
+    36.373918,
+    -91.456102,
+    36.373918
+],
   "geometry": {"coordinates":[-91.456102,36.373918],"type":"Point"}
 }

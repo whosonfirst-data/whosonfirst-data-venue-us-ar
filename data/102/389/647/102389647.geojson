@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102389647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.035505,36.437432,-94.035505,36.437432",
     "geom:latitude":36.437432,
     "geom:longitude":-94.035505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14220 N Old Wire Rd",
     "sg:city":"Garfield",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102083255,
-        85633793,
         85688549,
-        85895837
+        85633793,
+        85895837,
+        102083255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102389647,
-    "wof:lastmodified":1449069694,
+    "wof:lastmodified":1466324074,
     "wof:name":"GMC Pump Co",
     "wof:parent_id":85895837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.035505,36.437432,-94.035505,36.437432],
+  "bbox": [
+    -94.035505,
+    36.437432,
+    -94.035505,
+    36.437432
+],
   "geometry": {"coordinates":[-94.035505,36.437432],"type":"Point"}
 }

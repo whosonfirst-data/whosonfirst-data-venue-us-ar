@@ -2,13 +2,14 @@
   "id": 219747135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.425848,35.708172,-91.425848,35.708172",
     "geom:latitude":35.708172,
     "geom:longitude":-91.425848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"225 Dalton Ln",
     "sg:city":"Newark",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219747135,
-    "wof:lastmodified":1449071036,
+    "wof:lastmodified":1466324908,
     "wof:name":"Bennetts Contracting",
     "wof:parent_id":85808231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-91.425848,35.708172,-91.425848,35.708172],
+  "bbox": [
+    -91.425848,
+    35.708172,
+    -91.425848,
+    35.708172
+],
   "geometry": {"coordinates":[-91.425848,35.708172],"type":"Point"}
 }

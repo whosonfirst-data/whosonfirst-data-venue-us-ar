@@ -2,13 +2,14 @@
   "id": 219427005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.615777,35.092084,-91.615777,35.092084",
     "geom:latitude":35.092084,
     "geom:longitude":-91.615777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"764 Fletcher Ellis Rd",
     "sg:city":"Griffithville",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":219427005,
-    "wof:lastmodified":1449071463,
+    "wof:lastmodified":1466323075,
     "wof:name":"Feathers Farm Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.615777,35.092084,-91.615777,35.092084],
-  "geometry": {"coordinates":[-91.615777,35.092084],"type":"Point"}
+  "bbox": [
+    -91.615777,
+    35.092084,
+    -91.615777,
+    35.092084
+],
+  "geometry": {"coordinates":[-91.61577699999999,35.092084],"type":"Point"}
 }

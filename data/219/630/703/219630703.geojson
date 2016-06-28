@@ -2,13 +2,14 @@
   "id": 219630703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.71733,35.821936,-90.71733,35.821936",
     "geom:latitude":35.821936,
     "geom:longitude":-90.71733,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1920 Wood St",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":219630703,
-    "wof:lastmodified":1449071652,
+    "wof:lastmodified":1466324631,
     "wof:name":"Gospel Chapel Church",
     "wof:parent_id":85836541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "denomination"
     ]
 },
-  "bbox": [-90.71733,35.821936,-90.71733,35.821936],
+  "bbox": [
+    -90.71733,
+    35.821936,
+    -90.71733,
+    35.821936
+],
   "geometry": {"coordinates":[-90.71733,35.821936],"type":"Point"}
 }

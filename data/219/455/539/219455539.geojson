@@ -2,13 +2,14 @@
   "id": 219455539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.828459,34.376537,-92.828459,34.376537",
     "geom:latitude":34.376537,
     "geom:longitude":-92.828459,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1415 W Moline St",
     "sg:city":"Malvern",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":219455539,
-    "wof:lastmodified":1449073353,
+    "wof:lastmodified":1466323433,
     "wof:name":"Joe Groover Ins Agcy Inc - State Farm Insurance Agent",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "auto"
     ]
 },
-  "bbox": [-92.828459,34.376537,-92.828459,34.376537],
+  "bbox": [
+    -92.828459,
+    34.376537,
+    -92.828459,
+    34.376537
+],
   "geometry": {"coordinates":[-92.828459,34.376537],"type":"Point"}
 }

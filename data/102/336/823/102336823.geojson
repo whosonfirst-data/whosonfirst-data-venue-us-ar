@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102336823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.57765,34.576217,-92.57765,34.576217",
     "geom:latitude":34.576217,
     "geom:longitude":-92.57765,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1300 Military Rd",
     "sg:city":"Benton",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102336823,
-    "wof:lastmodified":1449067726,
+    "wof:lastmodified":1466323883,
     "wof:name":"Happening",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.57765,34.576217,-92.57765,34.576217],
-  "geometry": {"coordinates":[-92.57765,34.576217],"type":"Point"}
+  "bbox": [
+    -92.57765,
+    34.576217,
+    -92.57765,
+    34.576217
+],
+  "geometry": {"coordinates":[-92.57765000000001,34.576217],"type":"Point"}
 }

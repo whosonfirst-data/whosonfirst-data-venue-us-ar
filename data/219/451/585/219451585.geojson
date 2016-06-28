@@ -2,13 +2,14 @@
   "id": 219451585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.363244,34.65332,-92.363244,34.65332",
     "geom:latitude":34.65332,
     "geom:longitude":-92.363244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10701 Chicot Rd",
     "sg:city":"Mabelvale",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219451585,
-    "wof:lastmodified":1449071932,
+    "wof:lastmodified":1466323393,
     "wof:name":"Actium Electric Company",
     "wof:parent_id":85833155,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "electric"
     ]
 },
-  "bbox": [-92.363244,34.65332,-92.363244,34.65332],
-  "geometry": {"coordinates":[-92.363244,34.65332],"type":"Point"}
+  "bbox": [
+    -92.363244,
+    34.65332,
+    -92.363244,
+    34.65332
+],
+  "geometry": {"coordinates":[-92.36324399999999,34.65332],"type":"Point"}
 }

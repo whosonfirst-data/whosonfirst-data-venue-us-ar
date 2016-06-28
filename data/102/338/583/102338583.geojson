@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102338583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.132537,34.377226,-91.132537,34.377226",
     "geom:latitude":34.377226,
     "geom:longitude":-91.132537,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 Broadway Ave",
     "sg:city":"St Charles",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102338583,
-    "wof:lastmodified":1449068627,
+    "wof:lastmodified":1466323841,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.132537,34.377226,-91.132537,34.377226],
+  "bbox": [
+    -91.132537,
+    34.377226,
+    -91.132537,
+    34.377226
+],
   "geometry": {"coordinates":[-91.132537,34.377226],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219304423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.204506,34.611305,-94.204506,34.611305",
     "geom:latitude":34.611305,
     "geom:longitude":-94.204506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 Highway 71 N",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219304423,
-    "wof:lastmodified":1449073027,
+    "wof:lastmodified":1466321767,
     "wof:name":"Carver Chrysler Plymouth Dodge Jeep",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "car"
     ]
 },
-  "bbox": [-94.204506,34.611305,-94.204506,34.611305],
-  "geometry": {"coordinates":[-94.204506,34.611305],"type":"Point"}
+  "bbox": [
+    -94.204506,
+    34.611305,
+    -94.204506,
+    34.611305
+],
+  "geometry": {"coordinates":[-94.20450599999999,34.611305],"type":"Point"}
 }

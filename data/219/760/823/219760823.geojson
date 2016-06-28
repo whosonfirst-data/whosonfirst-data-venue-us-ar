@@ -2,13 +2,14 @@
   "id": 219760823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.117129,36.245964,-93.117129,36.245964",
     "geom:latitude":36.245964,
     "geom:longitude":-93.117129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1405 N Main St",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":219760823,
-    "wof:lastmodified":1449073785,
+    "wof:lastmodified":1466324921,
     "wof:name":"Party Spot",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "decorator"
     ]
 },
-  "bbox": [-93.117129,36.245964,-93.117129,36.245964],
-  "geometry": {"coordinates":[-93.117129,36.245964],"type":"Point"}
+  "bbox": [
+    -93.117129,
+    36.245964,
+    -93.117129,
+    36.245964
+],
+  "geometry": {"coordinates":[-93.11712900000001,36.245964],"type":"Point"}
 }

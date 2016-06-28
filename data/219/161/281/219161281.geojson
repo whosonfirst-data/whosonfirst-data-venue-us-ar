@@ -2,13 +2,14 @@
   "id": 219161281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.780468,33.614412,-91.780468,33.614412",
     "geom:latitude":33.614412,
     "geom:longitude":-91.780468,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"618 Hillcrest St",
     "sg:city":"Monticello",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219161281,
-    "wof:lastmodified":1449071783,
+    "wof:lastmodified":1466320478,
     "wof:name":"Bob Cole Bail Bond Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "bond"
     ]
 },
-  "bbox": [-91.780468,33.614412,-91.780468,33.614412],
+  "bbox": [
+    -91.780468,
+    33.614412,
+    -91.780468,
+    33.614412
+],
   "geometry": {"coordinates":[-91.780468,33.614412],"type":"Point"}
 }

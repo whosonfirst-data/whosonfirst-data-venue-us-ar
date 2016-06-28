@@ -2,13 +2,14 @@
   "id": 220066307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.142342,35.28236,-93.142342,35.28236",
     "geom:latitude":35.28236,
     "geom:longitude":-93.142342,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 W C St",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":220066307,
-    "wof:lastmodified":1449074249,
+    "wof:lastmodified":1466321221,
     "wof:name":"R & E Supply Inc",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-93.142342,35.28236,-93.142342,35.28236],
+  "bbox": [
+    -93.142342,
+    35.28236,
+    -93.142342,
+    35.28236
+],
   "geometry": {"coordinates":[-93.142342,35.28236],"type":"Point"}
 }

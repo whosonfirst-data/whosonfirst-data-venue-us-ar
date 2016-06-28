@@ -2,13 +2,14 @@
   "id": 219843791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.145271,36.124828,-94.145271,36.124828",
     "geom:latitude":36.124828,
     "geom:longitude":-94.145271,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4201 N Shiloh Dr",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219843791,
-    "wof:lastmodified":1449070703,
+    "wof:lastmodified":1466325025,
     "wof:name":"South Wind Gold & Silver",
     "wof:parent_id":85885433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jeweler"
     ]
 },
-  "bbox": [-94.145271,36.124828,-94.145271,36.124828],
-  "geometry": {"coordinates":[-94.145271,36.124828],"type":"Point"}
+  "bbox": [
+    -94.145271,
+    36.124828,
+    -94.145271,
+    36.124828
+],
+  "geometry": {"coordinates":[-94.14527099999999,36.124828],"type":"Point"}
 }

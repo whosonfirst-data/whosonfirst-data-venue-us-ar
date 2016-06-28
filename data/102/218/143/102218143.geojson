@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102218143",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.279418,35.056922,-90.279418,35.056922",
     "geom:latitude":35.056922,
     "geom:longitude":-90.279418,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 Levee Rd",
     "sg:city":"Proctor",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":"102218143",
-    "wof:lastmodified":1449069285,
+    "wof:lastmodified":1466321030,
     "wof:name":"SDL",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.279418,35.056922,-90.279418,35.056922],
-  "geometry": {"coordinates":[-90.279418,35.056922],"type":"Point"}
+  "bbox": [
+    -90.279418,
+    35.056922,
+    -90.279418,
+    35.056922
+],
+  "geometry": {"coordinates":[-90.27941800000001,35.056922],"type":"Point"}
 }

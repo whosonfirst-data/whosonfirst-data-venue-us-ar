@@ -2,13 +2,14 @@
   "id": 219602589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.213997,35.194809,-90.213997,35.194809",
     "geom:latitude":35.194809,
     "geom:longitude":-90.213997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"905 Rue le Maison Dr",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219602589,
-    "wof:lastmodified":1449072051,
+    "wof:lastmodified":1466324584,
     "wof:name":"Commercial Residential Gl Work",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-90.213997,35.194809,-90.213997,35.194809],
-  "geometry": {"coordinates":[-90.213997,35.194809],"type":"Point"}
+  "bbox": [
+    -90.213997,
+    35.194809,
+    -90.213997,
+    35.194809
+],
+  "geometry": {"coordinates":[-90.21399700000001,35.194809],"type":"Point"}
 }

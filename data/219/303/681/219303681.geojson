@@ -2,13 +2,14 @@
   "id": 219303681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.277232,34.591144,-94.277232,34.591144",
     "geom:latitude":34.591144,
     "geom:longitude":-94.277232,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3641 Highway 8 W",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219303681,
-    "wof:lastmodified":1449070412,
+    "wof:lastmodified":1466321762,
     "wof:name":"Don's Auto Repair & Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.277232,34.591144,-94.277232,34.591144],
+  "bbox": [
+    -94.277232,
+    34.591144,
+    -94.277232,
+    34.591144
+],
   "geometry": {"coordinates":[-94.277232,34.591144],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219477335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.252299,35.602821,-91.252299,35.602821",
     "geom:latitude":35.602821,
     "geom:longitude":-91.252299,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"326 Lindley Ln",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":219477335,
-    "wof:lastmodified":1449070997,
+    "wof:lastmodified":1466323655,
     "wof:name":"Lindley Healthcare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-91.252299,35.602821,-91.252299,35.602821],
-  "geometry": {"coordinates":[-91.252299,35.602821],"type":"Point"}
+  "bbox": [
+    -91.252299,
+    35.602821,
+    -91.252299,
+    35.602821
+],
+  "geometry": {"coordinates":[-91.25229899999999,35.602821],"type":"Point"}
 }

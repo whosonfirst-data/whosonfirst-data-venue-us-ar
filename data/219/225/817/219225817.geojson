@@ -2,13 +2,14 @@
   "id": 219225817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.606891,33.714556,-93.606891,33.714556",
     "geom:latitude":33.714556,
     "geom:longitude":-93.606891,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3177 Highway 32 N",
     "sg:city":"Hope",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219225817,
-    "wof:lastmodified":1449071495,
+    "wof:lastmodified":1466321116,
     "wof:name":"Poultry Supply",
     "wof:parent_id":85820749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-93.606891,33.714556,-93.606891,33.714556],
+  "bbox": [
+    -93.606891,
+    33.714556,
+    -93.606891,
+    33.714556
+],
   "geometry": {"coordinates":[-93.606891,33.714556],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320621635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.540985,36.194471,-94.540985,36.194471",
     "geom:latitude":36.194471,
     "geom:longitude":-94.540985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1295 N Mount Olive St",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320621635,
-    "wof:lastmodified":1449014516,
+    "wof:lastmodified":1466320601,
     "wof:name":"Sav-A-Trip",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.540985,36.194471,-94.540985,36.194471],
-  "geometry": {"coordinates":[-94.540985,36.194471],"type":"Point"}
+  "bbox": [
+    -94.540985,
+    36.194471,
+    -94.540985,
+    36.194471
+],
+  "geometry": {"coordinates":[-94.54098500000001,36.194471],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219709479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.961866,36.250792,-90.961866,36.250792",
     "geom:latitude":36.250792,
     "geom:longitude":-90.961866,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"941 Highway 67 S",
     "sg:city":"Pocahontas",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":219709479,
-    "wof:lastmodified":1449071099,
+    "wof:lastmodified":1466324802,
     "wof:name":"Redskin Auto Center",
     "wof:parent_id":85816685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-90.961866,36.250792,-90.961866,36.250792],
+  "bbox": [
+    -90.961866,
+    36.250792,
+    -90.961866,
+    36.250792
+],
   "geometry": {"coordinates":[-90.961866,36.250792],"type":"Point"}
 }

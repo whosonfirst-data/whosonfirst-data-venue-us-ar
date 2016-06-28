@@ -2,13 +2,14 @@
   "id": 219416135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.956833,34.549679,-91.956833,34.549679",
     "geom:latitude":34.549679,
     "geom:longitude":-91.956833,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Pamela Dr",
     "sg:city":"England",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219416135,
-    "wof:lastmodified":1449071983,
+    "wof:lastmodified":1466322993,
     "wof:name":"Larry Cicero",
     "wof:parent_id":85811577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [-91.956833,34.549679,-91.956833,34.549679],
+  "bbox": [
+    -91.956833,
+    34.549679,
+    -91.956833,
+    34.549679
+],
   "geometry": {"coordinates":[-91.956833,34.549679],"type":"Point"}
 }

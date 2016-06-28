@@ -2,13 +2,14 @@
   "id": 219959693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.118857,36.333255,-94.118857,36.333255",
     "geom:latitude":36.333255,
     "geom:longitude":-94.118857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"312 W Walnut St",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219959693,
-    "wof:lastmodified":1449073565,
+    "wof:lastmodified":1466325257,
     "wof:name":"The Skin Spa",
     "wof:parent_id":85895845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.118857,36.333255,-94.118857,36.333255],
-  "geometry": {"coordinates":[-94.118857,36.333255],"type":"Point"}
+  "bbox": [
+    -94.118857,
+    36.333255,
+    -94.118857,
+    36.333255
+],
+  "geometry": {"coordinates":[-94.11885700000001,36.333255],"type":"Point"}
 }

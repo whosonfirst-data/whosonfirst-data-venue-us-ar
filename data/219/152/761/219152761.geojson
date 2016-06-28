@@ -2,13 +2,14 @@
   "id": 219152761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.792641,33.225658,-91.792641,33.225658",
     "geom:latitude":33.225658,
     "geom:longitude":-91.792641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"521 E Lincoln St",
     "sg:city":"Hamburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219152761,
-    "wof:lastmodified":1449073121,
+    "wof:lastmodified":1466324393,
     "wof:name":"Noble Lower Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "elementary"
     ]
 },
-  "bbox": [-91.792641,33.225658,-91.792641,33.225658],
+  "bbox": [
+    -91.792641,
+    33.225658,
+    -91.792641,
+    33.225658
+],
   "geometry": {"coordinates":[-91.792641,33.225658],"type":"Point"}
 }

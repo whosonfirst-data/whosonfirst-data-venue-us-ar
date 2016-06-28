@@ -2,13 +2,14 @@
   "id": 354081163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.217371,34.56218,-94.217371,34.56218",
     "geom:latitude":34.56218,
     "geom:longitude":-94.217371,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 Elk Dr",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":354081163,
-    "wof:lastmodified":1449066435,
+    "wof:lastmodified":1466324502,
     "wof:name":"Ultimate Engines",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-94.217371,34.56218,-94.217371,34.56218],
+  "bbox": [
+    -94.217371,
+    34.56218,
+    -94.217371,
+    34.56218
+],
   "geometry": {"coordinates":[-94.217371,34.56218],"type":"Point"}
 }

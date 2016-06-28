@@ -2,13 +2,14 @@
   "id": 219629369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.713671,35.815512,-90.713671,35.815512",
     "geom:latitude":35.815512,
     "geom:longitude":-90.713671,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2704 S Culberhouse St J",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219629369,
-    "wof:lastmodified":1449073106,
+    "wof:lastmodified":1466324621,
     "wof:name":"Crawley Law Firm Pa",
     "wof:parent_id":85836541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practice"
     ]
 },
-  "bbox": [-90.713671,35.815512,-90.713671,35.815512],
-  "geometry": {"coordinates":[-90.713671,35.815512],"type":"Point"}
+  "bbox": [
+    -90.713671,
+    35.815512,
+    -90.713671,
+    35.815512
+],
+  "geometry": {"coordinates":[-90.71367100000001,35.815512],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219818949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.018368,36.094993,-94.018368,36.094993",
     "geom:latitude":36.094993,
     "geom:longitude":-94.018368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"614 White Bluff Dr",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219818949,
-    "wof:lastmodified":1449072108,
+    "wof:lastmodified":1466324981,
     "wof:name":"Cartridge On Wheels Nwa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "sale"
     ]
 },
-  "bbox": [-94.018368,36.094993,-94.018368,36.094993],
+  "bbox": [
+    -94.018368,
+    36.094993,
+    -94.018368,
+    36.094993
+],
   "geometry": {"coordinates":[-94.018368,36.094993],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219343355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.541976,34.592971,-92.541976,34.592971",
     "geom:latitude":34.592971,
     "geom:longitude":-92.541976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3395 Bay Meadow Dr",
     "sg:city":"Benton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219343355,
-    "wof:lastmodified":1449072904,
+    "wof:lastmodified":1466322159,
     "wof:name":"Pac-N-Gotravel",
     "wof:parent_id":85817531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "services-commercial"
     ]
 },
-  "bbox": [-92.541976,34.592971,-92.541976,34.592971],
-  "geometry": {"coordinates":[-92.541976,34.592971],"type":"Point"}
+  "bbox": [
+    -92.541976,
+    34.592971,
+    -92.541976,
+    34.592971
+],
+  "geometry": {"coordinates":[-92.54197600000001,34.592971],"type":"Point"}
 }

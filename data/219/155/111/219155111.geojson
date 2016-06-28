@@ -2,13 +2,14 @@
   "id": 219155111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.799343,33.225771,-91.799343,33.225771",
     "geom:latitude":33.225771,
     "geom:longitude":-91.799343,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 W Lincoln St",
     "sg:city":"Hamburg",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219155111,
-    "wof:lastmodified":1449073310,
+    "wof:lastmodified":1466320428,
     "wof:name":"Ashley County Farm Bureau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "business"
     ]
 },
-  "bbox": [-91.799343,33.225771,-91.799343,33.225771],
-  "geometry": {"coordinates":[-91.799343,33.225771],"type":"Point"}
+  "bbox": [
+    -91.799343,
+    33.225771,
+    -91.799343,
+    33.225771
+],
+  "geometry": {"coordinates":[-91.79934299999999,33.225771],"type":"Point"}
 }

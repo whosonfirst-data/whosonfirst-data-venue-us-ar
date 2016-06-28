@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102240303",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.106299,36.309958,-94.106299,36.309958",
     "geom:latitude":36.309958,
     "geom:longitude":-94.106299,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1912 S Old Wire Rd",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102240303",
-    "wof:lastmodified":1449068038,
+    "wof:lastmodified":1466321608,
     "wof:name":"Huhtamaki",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.106299,36.309958,-94.106299,36.309958],
-  "geometry": {"coordinates":[-94.106299,36.309958],"type":"Point"}
+  "bbox": [
+    -94.106299,
+    36.309958,
+    -94.106299,
+    36.309958
+],
+  "geometry": {"coordinates":[-94.10629900000001,36.309958],"type":"Point"}
 }

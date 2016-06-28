@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102419765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.538111,36.266479,-92.538111,36.266479",
     "geom:latitude":36.266479,
     "geom:longitude":-92.538111,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"510 2nd St",
     "sg:city":"Cotter",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102419765,
-    "wof:lastmodified":1449070169,
+    "wof:lastmodified":1466325380,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.538111,36.266479,-92.538111,36.266479],
+  "bbox": [
+    -92.538111,
+    36.266479,
+    -92.538111,
+    36.266479
+],
   "geometry": {"coordinates":[-92.538111,36.266479],"type":"Point"}
 }

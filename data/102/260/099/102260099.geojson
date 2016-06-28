@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102260099",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.481654,35.702183,-91.481654,35.702183",
     "geom:latitude":35.702183,
     "geom:longitude":-91.481654,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8839 Harrison St",
     "sg:city":"Magness",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102260099",
-    "wof:lastmodified":1449068208,
+    "wof:lastmodified":1466322061,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.481654,35.702183,-91.481654,35.702183],
-  "geometry": {"coordinates":[-91.481654,35.702183],"type":"Point"}
+  "bbox": [
+    -91.481654,
+    35.702183,
+    -91.481654,
+    35.702183
+],
+  "geometry": {"coordinates":[-91.48165400000001,35.702183],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102241187",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.047079,35.299905,-94.047079,35.299905",
     "geom:latitude":35.299905,
     "geom:longitude":-94.047079,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"411 Washington Dr",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885347,
+        85688549,
         85633793,
         85920749,
         102083207,
-        85688549
+        85885347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102241187",
-    "wof:lastmodified":1449070147,
+    "wof:lastmodified":1466321630,
     "wof:name":"Charles H Mainard",
     "wof:parent_id":85885347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.047079,35.299905,-94.047079,35.299905],
+  "bbox": [
+    -94.047079,
+    35.299905,
+    -94.047079,
+    35.299905
+],
   "geometry": {"coordinates":[-94.047079,35.299905],"type":"Point"}
 }

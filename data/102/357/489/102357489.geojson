@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102357489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.578646,34.557504,-92.578646,34.557504",
     "geom:latitude":34.557504,
     "geom:longitude":-92.578646,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"810 Edison Ave",
     "sg:city":"Benton",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102357489,
-    "wof:lastmodified":1449069885,
+    "wof:lastmodified":1466324225,
     "wof:name":"Tobacco Rack",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.578646,34.557504,-92.578646,34.557504],
-  "geometry": {"coordinates":[-92.578646,34.557504],"type":"Point"}
+  "bbox": [
+    -92.578646,
+    34.557504,
+    -92.578646,
+    34.557504
+],
+  "geometry": {"coordinates":[-92.57864600000001,34.557504],"type":"Point"}
 }

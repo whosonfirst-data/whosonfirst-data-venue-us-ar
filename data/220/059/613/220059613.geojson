@@ -2,13 +2,14 @@
   "id": 220059613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.121422,36.167011,-94.121422,36.167011",
     "geom:latitude":36.167011,
     "geom:longitude":-94.121422,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"888 E Robinson Ave",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220059613,
-    "wof:lastmodified":1449074237,
+    "wof:lastmodified":1466320984,
     "wof:name":"John Prince Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "commercial"
     ]
 },
-  "bbox": [-94.121422,36.167011,-94.121422,36.167011],
+  "bbox": [
+    -94.121422,
+    36.167011,
+    -94.121422,
+    36.167011
+],
   "geometry": {"coordinates":[-94.121422,36.167011],"type":"Point"}
 }

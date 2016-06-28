@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102286743",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.37118,34.670339,-92.37118,34.670339",
     "geom:latitude":34.670339,
     "geom:longitude":-92.37118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8525 Distribution Dr",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -35,11 +36,11 @@
     "sg:website":"www.arkansassign.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85833869,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85833869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":"102286743",
-    "wof:lastmodified":1449068419,
+    "wof:lastmodified":1466322815,
     "wof:name":"Arkansas Sign & Neon Co Inc",
     "wof:parent_id":85833869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.37118,34.670339,-92.37118,34.670339],
+  "bbox": [
+    -92.37118,
+    34.670339,
+    -92.37118,
+    34.670339
+],
   "geometry": {"coordinates":[-92.37118,34.670339],"type":"Point"}
 }

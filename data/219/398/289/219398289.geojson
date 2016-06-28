@@ -2,13 +2,14 @@
   "id": 219398289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.497642,35.086096,-92.497642,35.086096",
     "geom:latitude":35.086096,
     "geom:longitude":-92.497642,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4055 Seraph Dr",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":219398289,
-    "wof:lastmodified":1449070675,
+    "wof:lastmodified":1466322833,
     "wof:name":"Conway Custom Buildrs Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "improvement"
     ]
 },
-  "bbox": [-92.497642,35.086096,-92.497642,35.086096],
+  "bbox": [
+    -92.497642,
+    35.086096,
+    -92.497642,
+    35.086096
+],
   "geometry": {"coordinates":[-92.497642,35.086096],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102424083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.556246,36.268379,-91.556246,36.268379",
     "geom:latitude":36.268379,
     "geom:longitude":-91.556246,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"122 Hospital Dr",
     "sg:city":"Cherokee Village",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102424083,
-    "wof:lastmodified":1449070038,
+    "wof:lastmodified":1466325339,
     "wof:name":"Eastern Ozarks Rur Hlth Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.556246,36.268379,-91.556246,36.268379],
+  "bbox": [
+    -91.556246,
+    36.268379,
+    -91.556246,
+    36.268379
+],
   "geometry": {"coordinates":[-91.556246,36.268379],"type":"Point"}
 }

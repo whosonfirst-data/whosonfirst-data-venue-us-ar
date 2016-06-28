@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102400663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.734605,36.082779,-93.734605,36.082779",
     "geom:latitude":36.082779,
     "geom:longitude":-93.734605,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"571 S Harris St",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102400663,
-    "wof:lastmodified":1449068027,
+    "wof:lastmodified":1466324770,
     "wof:name":"Madison County Hardware",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.734605,36.082779,-93.734605,36.082779],
+  "bbox": [
+    -93.734605,
+    36.082779,
+    -93.734605,
+    36.082779
+],
   "geometry": {"coordinates":[-93.734605,36.082779],"type":"Point"}
 }

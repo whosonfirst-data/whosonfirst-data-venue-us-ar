@@ -2,13 +2,14 @@
   "id": 219488673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.2313,34.825779,-92.2313,34.825779",
     "geom:latitude":34.825779,
     "geom:longitude":-92.2313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7805 Highway 107",
     "sg:city":"Sherwood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219488673,
-    "wof:lastmodified":1449073821,
+    "wof:lastmodified":1466323818,
     "wof:name":"Willman Blair",
     "wof:parent_id":85851723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "specialty"
     ]
 },
-  "bbox": [-92.2313,34.825779,-92.2313,34.825779],
+  "bbox": [
+    -92.2313,
+    34.825779,
+    -92.2313,
+    34.825779
+],
   "geometry": {"coordinates":[-92.2313,34.825779],"type":"Point"}
 }

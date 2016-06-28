@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102277963",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.34537,34.75589,-92.34537,34.75589",
     "geom:latitude":34.75589,
     "geom:longitude":-92.34537,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"415 N McKinley St",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85838647,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85838647
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102277963",
-    "wof:lastmodified":1449068067,
+    "wof:lastmodified":1466322666,
     "wof:name":"World Marketing Alliance",
     "wof:parent_id":85838647,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.34537,34.75589,-92.34537,34.75589],
+  "bbox": [
+    -92.34537,
+    34.75589,
+    -92.34537,
+    34.75589
+],
   "geometry": {"coordinates":[-92.34537,34.75589],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102337261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.026502,33.420003,-94.026502,33.420003",
     "geom:latitude":33.420003,
     "geom:longitude":-94.026502,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1517 Dudley St",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102337261,
-    "wof:lastmodified":1449068900,
+    "wof:lastmodified":1466323770,
     "wof:name":"Moore's Funeral Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.026502,33.420003,-94.026502,33.420003],
-  "geometry": {"coordinates":[-94.026502,33.420003],"type":"Point"}
+  "bbox": [
+    -94.026502,
+    33.420003,
+    -94.026502,
+    33.420003
+],
+  "geometry": {"coordinates":[-94.02650199999999,33.420003],"type":"Point"}
 }

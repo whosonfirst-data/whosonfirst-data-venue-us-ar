@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102384205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.10469,36.23178,-93.10469,36.23178",
     "geom:latitude":36.23178,
     "geom:longitude":-93.10469,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"219 N Sycamore St",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102384205,
-    "wof:lastmodified":1449068110,
+    "wof:lastmodified":1466322958,
     "wof:name":"Harrison Suzuki",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.10469,36.23178,-93.10469,36.23178],
-  "geometry": {"coordinates":[-93.10469,36.23178],"type":"Point"}
+  "bbox": [
+    -93.10469,
+    36.23178,
+    -93.10469,
+    36.23178
+],
+  "geometry": {"coordinates":[-93.10469000000001,36.23178],"type":"Point"}
 }

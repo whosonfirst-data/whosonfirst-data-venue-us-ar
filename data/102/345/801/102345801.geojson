@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102345801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.941468,33.170153,-91.941468,33.170153",
     "geom:latitude":33.170153,
     "geom:longitude":-91.941468,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1418 Hwy 133 N",
     "sg:city":"Crossett",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102345801,
-    "wof:lastmodified":1449070004,
+    "wof:lastmodified":1466324029,
     "wof:name":"Wright Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.941468,33.170153,-91.941468,33.170153],
+  "bbox": [
+    -91.941468,
+    33.170153,
+    -91.941468,
+    33.170153
+],
   "geometry": {"coordinates":[-91.941468,33.170153],"type":"Point"}
 }

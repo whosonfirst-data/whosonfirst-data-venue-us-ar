@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102322241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.729065,33.370148,-92.729065,33.370148",
     "geom:latitude":33.370148,
     "geom:longitude":-92.729065,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"232 Adams St",
     "sg:city":"Smackover",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102322241,
-    "wof:lastmodified":1449067743,
+    "wof:lastmodified":1466323436,
     "wof:name":"Southwest Arkansas Planning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.729065,33.370148,-92.729065,33.370148],
-  "geometry": {"coordinates":[-92.729065,33.370148],"type":"Point"}
+  "bbox": [
+    -92.729065,
+    33.370148,
+    -92.729065,
+    33.370148
+],
+  "geometry": {"coordinates":[-92.72906500000001,33.370148],"type":"Point"}
 }

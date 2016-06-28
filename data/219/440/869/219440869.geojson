@@ -2,13 +2,14 @@
   "id": 219440869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.115811,34.877751,-92.115811,34.877751",
     "geom:latitude":34.877751,
     "geom:longitude":-92.115811,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1326 John Harden Dr",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":219440869,
-    "wof:lastmodified":1449071639,
+    "wof:lastmodified":1466323257,
     "wof:name":"Pete Barry Insurance",
     "wof:parent_id":85852337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "boat"
     ]
 },
-  "bbox": [-92.115811,34.877751,-92.115811,34.877751],
-  "geometry": {"coordinates":[-92.115811,34.877751],"type":"Point"}
+  "bbox": [
+    -92.115811,
+    34.877751,
+    -92.115811,
+    34.877751
+],
+  "geometry": {"coordinates":[-92.11581099999999,34.877751],"type":"Point"}
 }

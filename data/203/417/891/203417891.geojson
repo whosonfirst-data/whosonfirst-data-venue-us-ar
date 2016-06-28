@@ -2,13 +2,14 @@
   "id": 203417891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.483261,33.882282,-91.483261,33.882282",
     "geom:latitude":33.882282,
     "geom:longitude":-91.483261,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 Highway 65 S",
     "sg:city":"Dumas",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":203417891,
-    "wof:lastmodified":1449025699,
+    "wof:lastmodified":1466320572,
     "wof:name":"Merchants & Farmers Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "commercial"
     ]
 },
-  "bbox": [-91.483261,33.882282,-91.483261,33.882282],
+  "bbox": [
+    -91.483261,
+    33.882282,
+    -91.483261,
+    33.882282
+],
   "geometry": {"coordinates":[-91.483261,33.882282],"type":"Point"}
 }

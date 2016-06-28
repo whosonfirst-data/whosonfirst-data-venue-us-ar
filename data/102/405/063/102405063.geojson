@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102405063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.098408,33.641573,-94.098408,33.641573",
     "geom:latitude":33.641573,
     "geom:longitude":-94.098408,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Little River 229",
     "sg:city":"Ashdown",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102405063,
-    "wof:lastmodified":1449069993,
+    "wof:lastmodified":1466325012,
     "wof:name":"Cornelius Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.098408,33.641573,-94.098408,33.641573],
-  "geometry": {"coordinates":[-94.098408,33.641573],"type":"Point"}
+  "bbox": [
+    -94.098408,
+    33.641573,
+    -94.098408,
+    33.641573
+],
+  "geometry": {"coordinates":[-94.09840800000001,33.641573],"type":"Point"}
 }

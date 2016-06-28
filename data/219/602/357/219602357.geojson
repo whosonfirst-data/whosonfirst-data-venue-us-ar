@@ -2,13 +2,14 @@
   "id": 219602357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.18925,35.202721,-90.18925,35.202721",
     "geom:latitude":35.202721,
     "geom:longitude":-90.18925,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2921 State Highway 77 S",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -70,10 +71,11 @@
         }
     ],
     "wof:id":219602357,
-    "wof:lastmodified":1449072053,
+    "wof:lastmodified":1466324584,
     "wof:name":"Allstate Insurance Company - Nathanael Finley",
     "wof:parent_id":85843083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -85,6 +87,11 @@
         "renter"
     ]
 },
-  "bbox": [-90.18925,35.202721,-90.18925,35.202721],
+  "bbox": [
+    -90.18925,
+    35.202721,
+    -90.18925,
+    35.202721
+],
   "geometry": {"coordinates":[-90.18925,35.202721],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 235947243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.765697,36.578548,-94.765697,36.578548",
     "geom:latitude":36.578548,
     "geom:longitude":-94.765697,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 E 18th St",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":235947243,
-    "wof:lastmodified":1449008499,
+    "wof:lastmodified":1466320423,
     "wof:name":"Izonu Salon Boutique & Tanning",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.765697,36.578548,-94.765697,36.578548],
+  "bbox": [
+    -94.765697,
+    36.578548,
+    -94.765697,
+    36.578548
+],
   "geometry": {"coordinates":[-94.765697,36.578548],"type":"Point"}
 }

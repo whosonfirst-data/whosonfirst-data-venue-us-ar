@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102423585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.232027,34.802726,-92.232027,34.802726",
     "geom:latitude":34.802726,
     "geom:longitude":-92.232027,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5026 Timber Creek Dr",
     "sg:city":"North Little Rock",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852263,
+        85688549,
         85633793,
         85921255,
         102082497,
-        85688549
+        85852263
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102423585,
-    "wof:lastmodified":1449068204,
+    "wof:lastmodified":1466325440,
     "wof:name":"Lav Inc",
     "wof:parent_id":85852263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.232027,34.802726,-92.232027,34.802726],
+  "bbox": [
+    -92.232027,
+    34.802726,
+    -92.232027,
+    34.802726
+],
   "geometry": {"coordinates":[-92.232027,34.802726],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102416943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.526828,35.682739,-90.526828,35.682739",
     "geom:latitude":35.682739,
     "geom:longitude":-90.526828,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"748 State Hwy 463",
     "sg:city":"Trumann",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102416943,
-    "wof:lastmodified":1449068853,
+    "wof:lastmodified":1466325400,
     "wof:name":"Gibson Piano Ventures Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.526828,35.682739,-90.526828,35.682739],
-  "geometry": {"coordinates":[-90.526828,35.682739],"type":"Point"}
+  "bbox": [
+    -90.526828,
+    35.682739,
+    -90.526828,
+    35.682739
+],
+  "geometry": {"coordinates":[-90.52682799999999,35.682739],"type":"Point"}
 }

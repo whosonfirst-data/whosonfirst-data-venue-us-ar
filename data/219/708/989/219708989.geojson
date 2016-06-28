@@ -2,13 +2,14 @@
   "id": 219708989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.05707,36.248342,-91.05707,36.248342",
     "geom:latitude":36.248342,
     "geom:longitude":-91.05707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5950 Highway 62 W",
     "sg:city":"Pocahontas",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219708989,
-    "wof:lastmodified":1449070944,
+    "wof:lastmodified":1466324874,
     "wof:name":"J & H Poultry Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.05707,36.248342,-91.05707,36.248342],
+  "bbox": [
+    -91.05707,
+    36.248342,
+    -91.05707,
+    36.248342
+],
   "geometry": {"coordinates":[-91.05707,36.248342],"type":"Point"}
 }

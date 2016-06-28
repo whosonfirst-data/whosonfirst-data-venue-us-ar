@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102412029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.972704,35.462697,-91.972704,35.462697",
     "geom:latitude":35.462697,
     "geom:longitude":-91.972704,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 Valley Dr",
     "sg:city":"Heber Springs",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102412029,
-    "wof:lastmodified":1449068294,
+    "wof:lastmodified":1466325179,
     "wof:name":"Carl Seago Insulation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.972704,35.462697,-91.972704,35.462697],
-  "geometry": {"coordinates":[-91.972704,35.462697],"type":"Point"}
+  "bbox": [
+    -91.972704,
+    35.462697,
+    -91.972704,
+    35.462697
+],
+  "geometry": {"coordinates":[-91.97270399999999,35.462697],"type":"Point"}
 }

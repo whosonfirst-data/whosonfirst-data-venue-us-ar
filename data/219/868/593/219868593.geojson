@@ -2,13 +2,14 @@
   "id": 219868593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.208129,36.079431,-94.208129,36.079431",
     "geom:latitude":36.079431,
     "geom:longitude":-94.208129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1188 N Salem Rd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -70,10 +71,11 @@
         }
     ],
     "wof:id":219868593,
-    "wof:lastmodified":1449070536,
+    "wof:lastmodified":1466325054,
     "wof:name":"Allstate Insurance Company - Aaron H Watson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -85,6 +87,11 @@
         "renter"
     ]
 },
-  "bbox": [-94.208129,36.079431,-94.208129,36.079431],
+  "bbox": [
+    -94.208129,
+    36.079431,
+    -94.208129,
+    36.079431
+],
   "geometry": {"coordinates":[-94.208129,36.079431],"type":"Point"}
 }

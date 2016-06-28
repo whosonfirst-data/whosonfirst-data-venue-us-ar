@@ -2,13 +2,14 @@
   "id": 219352411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.497089,35.448917,-91.497089,35.448917",
     "geom:latitude":35.448917,
     "geom:longitude":-91.497089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4012 Jackson Road 5",
     "sg:city":"Bradford",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219352411,
-    "wof:lastmodified":1449072564,
+    "wof:lastmodified":1466322300,
     "wof:name":"C & C Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cars-wholesale"
     ]
 },
-  "bbox": [-91.497089,35.448917,-91.497089,35.448917],
+  "bbox": [
+    -91.497089,
+    35.448917,
+    -91.497089,
+    35.448917
+],
   "geometry": {"coordinates":[-91.497089,35.448917],"type":"Point"}
 }

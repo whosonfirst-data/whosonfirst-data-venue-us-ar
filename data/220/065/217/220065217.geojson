@@ -2,13 +2,14 @@
   "id": 220065217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.125641,35.278519,-93.125641,35.278519",
     "geom:latitude":35.278519,
     "geom:longitude":-93.125641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 E Main St Ste 16",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":220065217,
-    "wof:lastmodified":1449074873,
+    "wof:lastmodified":1466321155,
     "wof:name":"Debbie Brown Cpa",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "public"
     ]
 },
-  "bbox": [-93.125641,35.278519,-93.125641,35.278519],
+  "bbox": [
+    -93.125641,
+    35.278519,
+    -93.125641,
+    35.278519
+],
   "geometry": {"coordinates":[-93.125641,35.278519],"type":"Point"}
 }

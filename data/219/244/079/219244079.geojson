@@ -2,13 +2,14 @@
   "id": 219244079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.910066,34.012956,-93.910066,34.012956",
     "geom:latitude":34.012956,
     "geom:longitude":-93.910066,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"502 Harding Rd",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219244079,
-    "wof:lastmodified":1449071792,
+    "wof:lastmodified":1466321288,
     "wof:name":"Gardner Litter Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-93.910066,34.012956,-93.910066,34.012956],
+  "bbox": [
+    -93.910066,
+    34.012956,
+    -93.910066,
+    34.012956
+],
   "geometry": {"coordinates":[-93.910066,34.012956],"type":"Point"}
 }

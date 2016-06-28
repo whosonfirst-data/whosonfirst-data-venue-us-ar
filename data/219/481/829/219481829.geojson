@@ -2,13 +2,14 @@
   "id": 219481829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.162817,35.519533,-91.162817,35.519533",
     "geom:latitude":35.519533,
     "geom:longitude":-91.162817,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2827 Jackson 35",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219481829,
-    "wof:lastmodified":1449073467,
+    "wof:lastmodified":1466323694,
     "wof:name":"Lewis Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.162817,35.519533,-91.162817,35.519533],
+  "bbox": [
+    -91.162817,
+    35.519533,
+    -91.162817,
+    35.519533
+],
   "geometry": {"coordinates":[-91.162817,35.519533],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303463637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.225552,34.583098,-94.225552,34.583098",
     "geom:latitude":34.583098,
     "geom:longitude":-94.225552,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"606 Hornbeck Ave",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303463637,
-    "wof:lastmodified":1448999815,
+    "wof:lastmodified":1466320482,
     "wof:name":"US Forest Svc Work Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "government"
     ]
 },
-  "bbox": [-94.225552,34.583098,-94.225552,34.583098],
-  "geometry": {"coordinates":[-94.225552,34.583098],"type":"Point"}
+  "bbox": [
+    -94.225552,
+    34.583098,
+    -94.225552,
+    34.583098
+],
+  "geometry": {"coordinates":[-94.22555199999999,34.583098],"type":"Point"}
 }

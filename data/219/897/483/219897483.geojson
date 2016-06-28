@@ -2,13 +2,14 @@
   "id": 219897483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.221811,36.364276,-94.221811,36.364276",
     "geom:latitude":36.364276,
     "geom:longitude":-94.221811,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"807 SW I St Ste 9",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219897483,
-    "wof:lastmodified":1449073341,
+    "wof:lastmodified":1466325096,
     "wof:name":"Simple Green",
     "wof:parent_id":85895819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-94.221811,36.364276,-94.221811,36.364276],
+  "bbox": [
+    -94.221811,
+    36.364276,
+    -94.221811,
+    36.364276
+],
   "geometry": {"coordinates":[-94.221811,36.364276],"type":"Point"}
 }

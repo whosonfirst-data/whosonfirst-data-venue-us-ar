@@ -2,13 +2,14 @@
   "id": 219219301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.740535,33.351617,-92.740535,33.351617",
     "geom:latitude":33.351617,
     "geom:longitude":-92.740535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1110 W 16th St",
     "sg:city":"Smackover",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219219301,
-    "wof:lastmodified":1449073766,
+    "wof:lastmodified":1466321038,
     "wof:name":"Jerry Hegwood General Cnstr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "contractor"
     ]
 },
-  "bbox": [-92.740535,33.351617,-92.740535,33.351617],
-  "geometry": {"coordinates":[-92.740535,33.351617],"type":"Point"}
+  "bbox": [
+    -92.740535,
+    33.351617,
+    -92.740535,
+    33.351617
+],
+  "geometry": {"coordinates":[-92.74053499999999,33.351617],"type":"Point"}
 }

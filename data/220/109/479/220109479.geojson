@@ -2,13 +2,14 @@
   "id": 220109479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.035589,35.295158,-94.035589,35.295158",
     "geom:latitude":35.295158,
     "geom:longitude":-94.035589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"725 Edwards St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":220109479,
-    "wof:lastmodified":1449074296,
+    "wof:lastmodified":1466322369,
     "wof:name":"1st Assembly Of God",
     "wof:parent_id":85885347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "churches-pentecostal"
     ]
 },
-  "bbox": [-94.035589,35.295158,-94.035589,35.295158],
+  "bbox": [
+    -94.035589,
+    35.295158,
+    -94.035589,
+    35.295158
+],
   "geometry": {"coordinates":[-94.035589,35.295158],"type":"Point"}
 }

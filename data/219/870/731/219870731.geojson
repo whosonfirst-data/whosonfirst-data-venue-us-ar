@@ -2,13 +2,14 @@
   "id": 219870731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.202202,36.342628,-94.202202,36.342628",
     "geom:latitude":36.342628,
     "geom:longitude":-94.202202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 SE 28th St",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":219870731,
-    "wof:lastmodified":1449071331,
+    "wof:lastmodified":1466325145,
     "wof:name":"Fossil",
     "wof:parent_id":85895815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "women's"
     ]
 },
-  "bbox": [-94.202202,36.342628,-94.202202,36.342628],
+  "bbox": [
+    -94.202202,
+    36.342628,
+    -94.202202,
+    36.342628
+],
   "geometry": {"coordinates":[-94.202202,36.342628],"type":"Point"}
 }

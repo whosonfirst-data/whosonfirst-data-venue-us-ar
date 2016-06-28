@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102205023",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.029069,33.466925,-94.029069,33.466925",
     "geom:latitude":33.466925,
     "geom:longitude":-94.029069,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4311 Jefferson Ave",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":"102205023",
-    "wof:lastmodified":1449069197,
+    "wof:lastmodified":1466320694,
     "wof:name":"Custom Food Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.029069,33.466925,-94.029069,33.466925],
-  "geometry": {"coordinates":[-94.029069,33.466925],"type":"Point"}
+  "bbox": [
+    -94.029069,
+    33.466925,
+    -94.029069,
+    33.466925
+],
+  "geometry": {"coordinates":[-94.02906900000001,33.466925],"type":"Point"}
 }

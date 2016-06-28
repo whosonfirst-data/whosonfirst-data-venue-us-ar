@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102284265",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.115972,36.444131,-94.115972,36.444131",
     "geom:latitude":36.444131,
     "geom:longitude":-94.115972,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 N Curtis Ave",
     "sg:city":"Pea Ridge",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85830177,
+        85688549,
         85633793,
         85921527,
         102083255,
-        85688549
+        85830177
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102284265",
-    "wof:lastmodified":1449069259,
+    "wof:lastmodified":1466322673,
     "wof:name":"Gemini Computer & Internet",
     "wof:parent_id":85830177,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.115972,36.444131,-94.115972,36.444131],
+  "bbox": [
+    -94.115972,
+    36.444131,
+    -94.115972,
+    36.444131
+],
   "geometry": {"coordinates":[-94.115972,36.444131],"type":"Point"}
 }

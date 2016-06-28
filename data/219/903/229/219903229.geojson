@@ -2,13 +2,14 @@
   "id": 219903229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.179043,36.360197,-94.179043,36.360197",
     "geom:latitude":36.360197,
     "geom:longitude":-94.179043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1703 Phyllis St Ste 101",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219903229,
-    "wof:lastmodified":1449070593,
+    "wof:lastmodified":1466325105,
     "wof:name":"Arkansas Open Mri",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "processing"
     ]
 },
-  "bbox": [-94.179043,36.360197,-94.179043,36.360197],
-  "geometry": {"coordinates":[-94.179043,36.360197],"type":"Point"}
+  "bbox": [
+    -94.179043,
+    36.360197,
+    -94.179043,
+    36.360197
+],
+  "geometry": {"coordinates":[-94.17904299999999,36.360197],"type":"Point"}
 }

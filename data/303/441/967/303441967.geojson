@@ -2,13 +2,14 @@
   "id": 303441967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.478166,35.263539,-94.478166,35.263539",
     "geom:latitude":35.263539,
     "geom:longitude":-94.478166,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"503 N Pocola Blvd",
     "sg:city":"Pocola",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303441967,
-    "wof:lastmodified":1448998307,
+    "wof:lastmodified":1466320475,
     "wof:name":"L & R New & Used Furniture",
     "wof:parent_id":85809847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "furniture"
     ]
 },
-  "bbox": [-94.478166,35.263539,-94.478166,35.263539],
+  "bbox": [
+    -94.478166,
+    35.263539,
+    -94.478166,
+    35.263539
+],
   "geometry": {"coordinates":[-94.478166,35.263539],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102345423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.380046,35.522587,-94.380046,35.522587",
     "geom:latitude":35.522587,
     "geom:longitude":-94.380046,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1317 River Overlook Loop",
     "sg:city":"Van Buren",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102345423,
-    "wof:lastmodified":1449070000,
+    "wof:lastmodified":1466323952,
     "wof:name":"RSE Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.380046,35.522587,-94.380046,35.522587],
-  "geometry": {"coordinates":[-94.380046,35.522587],"type":"Point"}
+  "bbox": [
+    -94.380046,
+    35.522587,
+    -94.380046,
+    35.522587
+],
+  "geometry": {"coordinates":[-94.38004599999999,35.522587],"type":"Point"}
 }

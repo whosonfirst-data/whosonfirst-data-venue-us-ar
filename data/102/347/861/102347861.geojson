@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102347861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.737299,36.403538,-93.737299,36.403538",
     "geom:latitude":36.403538,
     "geom:longitude":-93.737299,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Spring St",
     "sg:city":"Eureka Springs",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102347861,
-    "wof:lastmodified":1449068934,
+    "wof:lastmodified":1466324099,
     "wof:name":"Milagros",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.737299,36.403538,-93.737299,36.403538],
-  "geometry": {"coordinates":[-93.737299,36.403538],"type":"Point"}
+  "bbox": [
+    -93.737299,
+    36.403538,
+    -93.737299,
+    36.403538
+],
+  "geometry": {"coordinates":[-93.73729899999999,36.403538],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203422477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.576212,34.00254,-91.576212,34.00254",
     "geom:latitude":34.00254,
     "geom:longitude":-91.576212,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"78 Delaware Rd",
     "sg:city":"Gould",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":203422477,
-    "wof:lastmodified":1449025074,
+    "wof:lastmodified":1466320669,
     "wof:name":"B R Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.576212,34.00254,-91.576212,34.00254],
+  "bbox": [
+    -91.576212,
+    34.00254,
+    -91.576212,
+    34.00254
+],
   "geometry": {"coordinates":[-91.576212,34.00254],"type":"Point"}
 }

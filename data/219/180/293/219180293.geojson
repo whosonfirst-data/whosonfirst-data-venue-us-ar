@@ -2,13 +2,14 @@
   "id": 219180293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.058691,33.61746,-92.058691,33.61746",
     "geom:latitude":33.61746,
     "geom:longitude":-92.058691,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 N Bradley St",
     "sg:city":"Warren",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219180293,
-    "wof:lastmodified":1449070513,
+    "wof:lastmodified":1466320632,
     "wof:name":"T Richardson Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carrier"
     ]
 },
-  "bbox": [-92.058691,33.61746,-92.058691,33.61746],
+  "bbox": [
+    -92.058691,
+    33.61746,
+    -92.058691,
+    33.61746
+],
   "geometry": {"coordinates":[-92.058691,33.61746],"type":"Point"}
 }

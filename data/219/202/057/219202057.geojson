@@ -2,13 +2,14 @@
   "id": 219202057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.13317,33.918333,-93.13317,33.918333",
     "geom:latitude":33.918333,
     "geom:longitude":-93.13317,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1706 E Walnut Rd",
     "sg:city":"Gurdon",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219202057,
-    "wof:lastmodified":1449073456,
+    "wof:lastmodified":1466320882,
     "wof:name":"Griffin Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "trucking"
     ]
 },
-  "bbox": [-93.13317,33.918333,-93.13317,33.918333],
-  "geometry": {"coordinates":[-93.13317,33.918333],"type":"Point"}
+  "bbox": [
+    -93.13317,
+    33.918333,
+    -93.13317,
+    33.918333
+],
+  "geometry": {"coordinates":[-93.13317000000001,33.918333],"type":"Point"}
 }

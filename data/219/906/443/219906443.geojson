@@ -2,13 +2,14 @@
   "id": 219906443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.188652,36.352791,-94.188652,36.352791",
     "geom:latitude":36.352791,
     "geom:longitude":-94.188652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1701 SE S St",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":219906443,
-    "wof:lastmodified":1449071732,
+    "wof:lastmodified":1466325029,
     "wof:name":"Bentonville Electric Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "remodeling"
     ]
 },
-  "bbox": [-94.188652,36.352791,-94.188652,36.352791],
+  "bbox": [
+    -94.188652,
+    36.352791,
+    -94.188652,
+    36.352791
+],
   "geometry": {"coordinates":[-94.188652,36.352791],"type":"Point"}
 }

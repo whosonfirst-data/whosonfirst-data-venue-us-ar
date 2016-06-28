@@ -2,13 +2,14 @@
   "id": 219310269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.240795,34.574405,-94.240795,34.574405",
     "geom:latitude":34.574405,
     "geom:longitude":-94.240795,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1321 Highway 71 S",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":219310269,
-    "wof:lastmodified":1449072571,
+    "wof:lastmodified":1466321816,
     "wof:name":"Donut Palace",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-94.240795,34.574405,-94.240795,34.574405],
-  "geometry": {"coordinates":[-94.240795,34.574405],"type":"Point"}
+  "bbox": [
+    -94.240795,
+    34.574405,
+    -94.240795,
+    34.574405
+],
+  "geometry": {"coordinates":[-94.24079500000001,34.574405],"type":"Point"}
 }

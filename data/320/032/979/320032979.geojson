@@ -2,13 +2,14 @@
   "id": 320032979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.424768,35.28628,-94.424768,35.28628",
     "geom:latitude":35.28628,
     "geom:longitude":-94.424768,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10614 State Hwy 253",
     "sg:city":"Fort Smith",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":320032979,
-    "wof:lastmodified":1449013093,
+    "wof:lastmodified":1466320415,
     "wof:name":"Sandblasting & Painting Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-94.424768,35.28628,-94.424768,35.28628],
+  "bbox": [
+    -94.424768,
+    35.28628,
+    -94.424768,
+    35.28628
+],
   "geometry": {"coordinates":[-94.424768,35.28628],"type":"Point"}
 }

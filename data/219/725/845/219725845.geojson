@@ -2,13 +2,14 @@
   "id": 219725845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.041939,35.752539,-91.041939,35.752539",
     "geom:latitude":35.752539,
     "geom:longitude":-91.041939,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4288 Jackson Road 82",
     "sg:city":"Tuckerman",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219725845,
-    "wof:lastmodified":1449071253,
+    "wof:lastmodified":1466324967,
     "wof:name":"Lavern Long",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [-91.041939,35.752539,-91.041939,35.752539],
+  "bbox": [
+    -91.041939,
+    35.752539,
+    -91.041939,
+    35.752539
+],
   "geometry": {"coordinates":[-91.041939,35.752539],"type":"Point"}
 }

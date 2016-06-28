@@ -2,13 +2,14 @@
   "id": 320221783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.796911,36.420016,-94.796911,36.420016",
     "geom:latitude":36.420016,
     "geom:longitude":-94.796911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"456 W Krause St",
     "sg:city":"Jay",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320221783,
-    "wof:lastmodified":1449012894,
+    "wof:lastmodified":1466320483,
     "wof:name":"Sissy's Place",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-94.796911,36.420016,-94.796911,36.420016],
-  "geometry": {"coordinates":[-94.796911,36.420016],"type":"Point"}
+  "bbox": [
+    -94.796911,
+    36.420016,
+    -94.796911,
+    36.420016
+],
+  "geometry": {"coordinates":[-94.79691099999999,36.420016],"type":"Point"}
 }

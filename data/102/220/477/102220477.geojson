@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102220477",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.261857,33.108834,-91.261857,33.108834",
     "geom:latitude":33.108834,
     "geom:longitude":-91.261857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"239 S Main St",
     "sg:city":"Eudora",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102220477",
-    "wof:lastmodified":1449070126,
+    "wof:lastmodified":1466321175,
     "wof:name":"Revenue Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.261857,33.108834,-91.261857,33.108834],
-  "geometry": {"coordinates":[-91.261857,33.108834],"type":"Point"}
+  "bbox": [
+    -91.261857,
+    33.108834,
+    -91.261857,
+    33.108834
+],
+  "geometry": {"coordinates":[-91.26185700000001,33.108834],"type":"Point"}
 }

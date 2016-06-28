@@ -2,13 +2,14 @@
   "id": 219630351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.671369,35.80908,-90.671369,35.80908",
     "geom:latitude":35.80908,
     "geom:longitude":-90.671369,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2906 Kazi St",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":219630351,
-    "wof:lastmodified":1449071654,
+    "wof:lastmodified":1466324627,
     "wof:name":"Candlewood Suites Jonesboro",
     "wof:parent_id":85836541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "hall"
     ]
 },
-  "bbox": [-90.671369,35.80908,-90.671369,35.80908],
+  "bbox": [
+    -90.671369,
+    35.80908,
+    -90.671369,
+    35.80908
+],
   "geometry": {"coordinates":[-90.671369,35.80908],"type":"Point"}
 }

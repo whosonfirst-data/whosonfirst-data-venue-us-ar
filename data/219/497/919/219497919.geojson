@@ -2,13 +2,14 @@
   "id": 219497919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.782829,34.984852,-92.782829,34.984852",
     "geom:latitude":34.984852,
     "geom:longitude":-92.782829,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Coffee Creek Lndg",
     "sg:city":"Perryville",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":219497919,
-    "wof:lastmodified":1449073861,
+    "wof:lastmodified":1466323927,
     "wof:name":"Coffee Creek Resort Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "vehicle"
     ]
 },
-  "bbox": [-92.782829,34.984852,-92.782829,34.984852],
-  "geometry": {"coordinates":[-92.782829,34.984852],"type":"Point"}
+  "bbox": [
+    -92.782829,
+    34.984852,
+    -92.782829,
+    34.984852
+],
+  "geometry": {"coordinates":[-92.78282900000001,34.984852],"type":"Point"}
 }

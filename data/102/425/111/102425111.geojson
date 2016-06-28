@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102425111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.008498,34.950643,-92.008498,34.950643",
     "geom:latitude":34.950643,
     "geom:longitude":-92.008498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1503 S Pine St",
     "sg:city":"Cabot",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102425111,
-    "wof:lastmodified":1449068636,
+    "wof:lastmodified":1466325345,
     "wof:name":"A Formal Affair Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.008498,34.950643,-92.008498,34.950643],
+  "bbox": [
+    -92.008498,
+    34.950643,
+    -92.008498,
+    34.950643
+],
   "geometry": {"coordinates":[-92.008498,34.950643],"type":"Point"}
 }

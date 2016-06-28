@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102364201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.68224,33.243775,-92.68224,33.243775",
     "geom:latitude":33.243775,
     "geom:longitude":-92.68224,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1405 W 19th St",
     "sg:city":"El Dorado",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102364201,
-    "wof:lastmodified":1449069099,
+    "wof:lastmodified":1466324294,
     "wof:name":"Wash Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.68224,33.243775,-92.68224,33.243775],
-  "geometry": {"coordinates":[-92.68224,33.243775],"type":"Point"}
+  "bbox": [
+    -92.68224,
+    33.243775,
+    -92.68224,
+    33.243775
+],
+  "geometry": {"coordinates":[-92.68223999999999,33.243775],"type":"Point"}
 }

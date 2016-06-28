@@ -2,13 +2,14 @@
   "id": 219178469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.213812,33.962509,-92.213812,33.962509",
     "geom:latitude":33.962509,
     "geom:longitude":-92.213812,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2080 Highway 35 N",
     "sg:city":"Rison",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":219178469,
-    "wof:lastmodified":1449072934,
+    "wof:lastmodified":1466320614,
     "wof:name":"Martha's Beauty Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.213812,33.962509,-92.213812,33.962509],
+  "bbox": [
+    -92.213812,
+    33.962509,
+    -92.213812,
+    33.962509
+],
   "geometry": {"coordinates":[-92.213812,33.962509],"type":"Point"}
 }

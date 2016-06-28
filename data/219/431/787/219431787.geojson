@@ -2,13 +2,14 @@
   "id": 219431787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.073642,35.563104,-92.073642,35.563104",
     "geom:latitude":35.563104,
     "geom:longitude":-92.073642,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"160 Cherokee Cir",
     "sg:city":"Higden",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219431787,
-    "wof:lastmodified":1449070872,
+    "wof:lastmodified":1466323112,
     "wof:name":"Davis Pumping Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "tanks-treatment"
     ]
 },
-  "bbox": [-92.073642,35.563104,-92.073642,35.563104],
-  "geometry": {"coordinates":[-92.073642,35.563104],"type":"Point"}
+  "bbox": [
+    -92.073642,
+    35.563104,
+    -92.073642,
+    35.563104
+],
+  "geometry": {"coordinates":[-92.07364200000001,35.563104],"type":"Point"}
 }

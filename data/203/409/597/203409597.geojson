@@ -2,13 +2,14 @@
   "id": 203409597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.93656,33.167573,-91.93656,33.167573",
     "geom:latitude":33.167573,
     "geom:longitude":-91.93656,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 S Center St",
     "sg:city":"Crossett",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203409597,
-    "wof:lastmodified":1449025702,
+    "wof:lastmodified":1466320538,
     "wof:name":"Ronnie Joe Rodgers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "furniture"
     ]
 },
-  "bbox": [-91.93656,33.167573,-91.93656,33.167573],
+  "bbox": [
+    -91.93656,
+    33.167573,
+    -91.93656,
+    33.167573
+],
   "geometry": {"coordinates":[-91.93656,33.167573],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220065937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.140877,35.281082,-93.140877,35.281082",
     "geom:latitude":35.281082,
     "geom:longitude":-93.140877,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"915 W B St",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":220065937,
-    "wof:lastmodified":1449074872,
+    "wof:lastmodified":1466321172,
     "wof:name":"Campbell & Associates",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "casualty"
     ]
 },
-  "bbox": [-93.140877,35.281082,-93.140877,35.281082],
+  "bbox": [
+    -93.140877,
+    35.281082,
+    -93.140877,
+    35.281082
+],
   "geometry": {"coordinates":[-93.140877,35.281082],"type":"Point"}
 }

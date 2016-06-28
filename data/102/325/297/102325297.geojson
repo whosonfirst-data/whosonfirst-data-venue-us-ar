@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102325297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.385186,36.33976,-92.385186,36.33976",
     "geom:latitude":36.33976,
     "geom:longitude":-92.385186,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 S Main St",
     "sg:city":"Mountain Home",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102325297,
-    "wof:lastmodified":1449068706,
+    "wof:lastmodified":1466323554,
     "wof:name":"Main Street Muffler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.385186,36.33976,-92.385186,36.33976],
+  "bbox": [
+    -92.385186,
+    36.33976,
+    -92.385186,
+    36.33976
+],
   "geometry": {"coordinates":[-92.385186,36.33976],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220078923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.463549,35.455816,-93.463549,35.455816",
     "geom:latitude":35.455816,
     "geom:longitude":-93.463549,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Porter Industrial Rd",
     "sg:city":"Clarksville",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":220078923,
-    "wof:lastmodified":1449074749,
+    "wof:lastmodified":1466321545,
     "wof:name":"Clarksville Bearing And Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "bearings-wholesale"
     ]
 },
-  "bbox": [-93.463549,35.455816,-93.463549,35.455816],
+  "bbox": [
+    -93.463549,
+    35.455816,
+    -93.463549,
+    35.455816
+],
   "geometry": {"coordinates":[-93.463549,35.455816],"type":"Point"}
 }

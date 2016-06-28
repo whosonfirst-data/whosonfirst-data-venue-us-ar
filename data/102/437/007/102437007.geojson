@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102437007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.506948,34.684335,-92.506948,34.684335",
     "geom:latitude":34.684335,
     "geom:longitude":-92.506948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9107 Green Mountain Dr",
     "sg:city":"Alexander",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102437007,
-    "wof:lastmodified":1449069541,
+    "wof:lastmodified":1466325569,
     "wof:name":"Ferguson Body Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.506948,34.684335,-92.506948,34.684335],
-  "geometry": {"coordinates":[-92.506948,34.684335],"type":"Point"}
+  "bbox": [
+    -92.506948,
+    34.684335,
+    -92.506948,
+    34.684335
+],
+  "geometry": {"coordinates":[-92.50694799999999,34.684335],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219613871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.600559,35.013298,-90.600559,35.013298",
     "geom:latitude":35.013298,
     "geom:longitude":-90.600559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"452 Highway 38 E",
     "sg:city":"Widener",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219613871,
-    "wof:lastmodified":1449072035,
+    "wof:lastmodified":1466324604,
     "wof:name":"R J J W Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "novelty"
     ]
 },
-  "bbox": [-90.600559,35.013298,-90.600559,35.013298],
+  "bbox": [
+    -90.600559,
+    35.013298,
+    -90.600559,
+    35.013298
+],
   "geometry": {"coordinates":[-90.600559,35.013298],"type":"Point"}
 }

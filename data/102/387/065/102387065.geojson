@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102387065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.549811,34.326996,-93.549811,34.326996",
     "geom:latitude":34.326996,
     "geom:longitude":-93.549811,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 E Broadway",
     "sg:city":"Glenwood",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102387065,
-    "wof:lastmodified":1449069850,
+    "wof:lastmodified":1466323547,
     "wof:name":"Glenwood Video",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.549811,34.326996,-93.549811,34.326996],
-  "geometry": {"coordinates":[-93.549811,34.326996],"type":"Point"}
+  "bbox": [
+    -93.549811,
+    34.326996,
+    -93.549811,
+    34.326996
+],
+  "geometry": {"coordinates":[-93.54981100000001,34.326996],"type":"Point"}
 }

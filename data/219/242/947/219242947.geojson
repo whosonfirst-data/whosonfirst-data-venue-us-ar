@@ -2,13 +2,14 @@
   "id": 219242947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.168492,33.967165,-94.168492,33.967165",
     "geom:latitude":33.967165,
     "geom:longitude":-94.168492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3406 S Camellia",
     "sg:city":"Lockesburg",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":219242947,
-    "wof:lastmodified":1449073504,
+    "wof:lastmodified":1466321278,
     "wof:name":"Nadine's Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "espresso"
     ]
 },
-  "bbox": [-94.168492,33.967165,-94.168492,33.967165],
+  "bbox": [
+    -94.168492,
+    33.967165,
+    -94.168492,
+    33.967165
+],
   "geometry": {"coordinates":[-94.168492,33.967165],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219364301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.064881,35.016232,-92.064881,35.016232",
     "geom:latitude":35.016232,
     "geom:longitude":-92.064881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Turnberry Ln",
     "sg:city":"Cabot",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":219364301,
-    "wof:lastmodified":1449072357,
+    "wof:lastmodified":1466322478,
     "wof:name":"Johnson Firearms",
     "wof:parent_id":85811577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "gunsmith"
     ]
 },
-  "bbox": [-92.064881,35.016232,-92.064881,35.016232],
+  "bbox": [
+    -92.064881,
+    35.016232,
+    -92.064881,
+    35.016232
+],
   "geometry": {"coordinates":[-92.064881,35.016232],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219472483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.745067,35.152831,-92.745067,35.152831",
     "geom:latitude":35.152831,
     "geom:longitude":-92.745067,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 N Division St",
     "sg:city":"Morrilton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219472483,
-    "wof:lastmodified":1449070664,
+    "wof:lastmodified":1466323609,
     "wof:name":"Shear Joy Salon",
     "wof:parent_id":85814069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.745067,35.152831,-92.745067,35.152831],
-  "geometry": {"coordinates":[-92.745067,35.152831],"type":"Point"}
+  "bbox": [
+    -92.745067,
+    35.152831,
+    -92.745067,
+    35.152831
+],
+  "geometry": {"coordinates":[-92.74506700000001,35.152831],"type":"Point"}
 }

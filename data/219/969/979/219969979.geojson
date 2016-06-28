@@ -2,13 +2,14 @@
   "id": 219969979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.997322,36.333099,-93.997322,36.333099",
     "geom:latitude":36.333099,
     "geom:longitude":-93.997322,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Village Rd",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -68,10 +69,11 @@
         }
     ],
     "wof:id":219969979,
-    "wof:lastmodified":1449071243,
+    "wof:lastmodified":1466325281,
     "wof:name":"Hillside Studio Photography",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -84,6 +86,11 @@
         "chapel"
     ]
 },
-  "bbox": [-93.997322,36.333099,-93.997322,36.333099],
+  "bbox": [
+    -93.997322,
+    36.333099,
+    -93.997322,
+    36.333099
+],
   "geometry": {"coordinates":[-93.997322,36.333099],"type":"Point"}
 }

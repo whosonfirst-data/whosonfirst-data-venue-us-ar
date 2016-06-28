@@ -2,13 +2,14 @@
   "id": 219734081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.584164,35.76861,-91.584164,35.76861",
     "geom:latitude":35.76861,
     "geom:longitude":-91.584164,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Weaver Ave",
     "sg:city":"Batesville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219734081,
-    "wof:lastmodified":1449073467,
+    "wof:lastmodified":1466324893,
     "wof:name":"Independence County Hlth Unit",
     "wof:parent_id":85808231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "administration"
     ]
 },
-  "bbox": [-91.584164,35.76861,-91.584164,35.76861],
+  "bbox": [
+    -91.584164,
+    35.76861,
+    -91.584164,
+    35.76861
+],
   "geometry": {"coordinates":[-91.584164,35.76861],"type":"Point"}
 }

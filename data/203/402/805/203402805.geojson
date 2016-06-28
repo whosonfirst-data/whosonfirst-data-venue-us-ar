@@ -2,13 +2,14 @@
   "id": 203402805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.949188,33.12769,-91.949188,33.12769",
     "geom:latitude":33.12769,
     "geom:longitude":-91.949188,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"604 Pecan St",
     "sg:city":"Crossett",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203402805,
-    "wof:lastmodified":1449025520,
+    "wof:lastmodified":1466320517,
     "wof:name":"Neil Young Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "business"
     ]
 },
-  "bbox": [-91.949188,33.12769,-91.949188,33.12769],
-  "geometry": {"coordinates":[-91.949188,33.12769],"type":"Point"}
+  "bbox": [
+    -91.949188,
+    33.12769,
+    -91.949188,
+    33.12769
+],
+  "geometry": {"coordinates":[-91.94918800000001,33.12769],"type":"Point"}
 }

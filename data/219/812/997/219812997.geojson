@@ -2,13 +2,14 @@
   "id": 219812997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.169864,36.061139,-94.169864,36.061139",
     "geom:latitude":36.061139,
     "geom:longitude":-94.169864,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"705 W Putman St Apt D3",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219812997,
-    "wof:lastmodified":1449070465,
+    "wof:lastmodified":1466325028,
     "wof:name":"Saytrend Resources",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-94.169864,36.061139,-94.169864,36.061139],
+  "bbox": [
+    -94.169864,
+    36.061139,
+    -94.169864,
+    36.061139
+],
   "geometry": {"coordinates":[-94.169864,36.061139],"type":"Point"}
 }

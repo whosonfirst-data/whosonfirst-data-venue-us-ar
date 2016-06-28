@@ -2,13 +2,14 @@
   "id": 219654139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.323136,35.758159,-90.323136,35.758159",
     "geom:latitude":35.758159,
     "geom:longitude":-90.323136,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201E W State St",
     "sg:city":"Caraway",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219654139,
-    "wof:lastmodified":1449071581,
+    "wof:lastmodified":1466324554,
     "wof:name":"Becky Earnhart Insurance",
     "wof:parent_id":85836541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-90.323136,35.758159,-90.323136,35.758159],
-  "geometry": {"coordinates":[-90.323136,35.758159],"type":"Point"}
+  "bbox": [
+    -90.323136,
+    35.758159,
+    -90.323136,
+    35.758159
+],
+  "geometry": {"coordinates":[-90.32313600000001,35.758159],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219844943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.142497,36.109686,-94.142497,36.109686",
     "geom:latitude":36.109686,
     "geom:longitude":-94.142497,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 E Harold St",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219844943,
-    "wof:lastmodified":1449071890,
+    "wof:lastmodified":1466325022,
     "wof:name":"Charly's Dolls",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "doll"
     ]
 },
-  "bbox": [-94.142497,36.109686,-94.142497,36.109686],
-  "geometry": {"coordinates":[-94.142497,36.109686],"type":"Point"}
+  "bbox": [
+    -94.142497,
+    36.109686,
+    -94.142497,
+    36.109686
+],
+  "geometry": {"coordinates":[-94.14249700000001,36.109686],"type":"Point"}
 }

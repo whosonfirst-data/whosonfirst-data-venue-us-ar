@@ -2,13 +2,14 @@
   "id": 203421125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.274872,33.154464,-91.274872,33.154464",
     "geom:latitude":33.154464,
     "geom:longitude":-91.274872,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2300 Old Hwy S",
     "sg:city":"Eudora",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203421125,
-    "wof:lastmodified":1449026179,
+    "wof:lastmodified":1466320613,
     "wof:name":"Anthony's Electrical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "electric"
     ]
 },
-  "bbox": [-91.274872,33.154464,-91.274872,33.154464],
+  "bbox": [
+    -91.274872,
+    33.154464,
+    -91.274872,
+    33.154464
+],
   "geometry": {"coordinates":[-91.274872,33.154464],"type":"Point"}
 }

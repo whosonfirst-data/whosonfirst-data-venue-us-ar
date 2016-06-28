@@ -2,13 +2,14 @@
   "id": 220015697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.163092,36.206116,-94.163092,36.206116",
     "geom:latitude":36.206116,
     "geom:longitude":-94.163092,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2209 Vine Ln",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220015697,
-    "wof:lastmodified":1449074230,
+    "wof:lastmodified":1466320488,
     "wof:name":"Naomi Mozden",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "facility"
     ]
 },
-  "bbox": [-94.163092,36.206116,-94.163092,36.206116],
-  "geometry": {"coordinates":[-94.163092,36.206116],"type":"Point"}
+  "bbox": [
+    -94.163092,
+    36.206116,
+    -94.163092,
+    36.206116
+],
+  "geometry": {"coordinates":[-94.16309200000001,36.206116],"type":"Point"}
 }

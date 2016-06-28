@@ -2,13 +2,14 @@
   "id": 219305563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.24124,34.562019,-94.24124,34.562019",
     "geom:latitude":34.562019,
     "geom:longitude":-94.24124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"908 Orchard Rd",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219305563,
-    "wof:lastmodified":1449070926,
+    "wof:lastmodified":1466321778,
     "wof:name":"Witness Quartet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "witness"
     ]
 },
-  "bbox": [-94.24124,34.562019,-94.24124,34.562019],
+  "bbox": [
+    -94.24124,
+    34.562019,
+    -94.24124,
+    34.562019
+],
   "geometry": {"coordinates":[-94.24124,34.562019],"type":"Point"}
 }

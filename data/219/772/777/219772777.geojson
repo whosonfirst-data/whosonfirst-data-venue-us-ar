@@ -2,13 +2,14 @@
   "id": 219772777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.157761,36.271488,-93.157761,36.271488",
     "geom:latitude":36.271488,
     "geom:longitude":-93.157761,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3549 Country Cir",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219772777,
-    "wof:lastmodified":1449071981,
+    "wof:lastmodified":1466324932,
     "wof:name":"Ultimate Choice Travel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "services-commercial"
     ]
 },
-  "bbox": [-93.157761,36.271488,-93.157761,36.271488],
-  "geometry": {"coordinates":[-93.157761,36.271488],"type":"Point"}
+  "bbox": [
+    -93.157761,
+    36.271488,
+    -93.157761,
+    36.271488
+],
+  "geometry": {"coordinates":[-93.15776099999999,36.271488],"type":"Point"}
 }

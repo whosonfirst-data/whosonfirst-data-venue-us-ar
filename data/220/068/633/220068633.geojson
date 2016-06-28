@@ -2,13 +2,14 @@
   "id": 220068633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.102912,35.271397,-93.102912,35.271397",
     "geom:latitude":35.271397,
     "geom:longitude":-93.102912,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"709 S Elmira Ave",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":220068633,
-    "wof:lastmodified":1449074449,
+    "wof:lastmodified":1466321299,
     "wof:name":"Ron Hughes Construction",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "contractor"
     ]
 },
-  "bbox": [-93.102912,35.271397,-93.102912,35.271397],
+  "bbox": [
+    -93.102912,
+    35.271397,
+    -93.102912,
+    35.271397
+],
   "geometry": {"coordinates":[-93.102912,35.271397],"type":"Point"}
 }

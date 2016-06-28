@@ -2,13 +2,14 @@
   "id": 219429445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.38593,34.50995,-92.38593,34.50995",
     "geom:latitude":34.50995,
     "geom:longitude":-92.38593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9050 E Fairview Rd",
     "sg:city":"Hensley",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219429445,
-    "wof:lastmodified":1449073718,
+    "wof:lastmodified":1466323095,
     "wof:name":"Silas Taylor Roofing Co",
     "wof:parent_id":85844395,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-92.38593,34.50995,-92.38593,34.50995],
+  "bbox": [
+    -92.38593,
+    34.50995,
+    -92.38593,
+    34.50995
+],
   "geometry": {"coordinates":[-92.38593,34.50995],"type":"Point"}
 }

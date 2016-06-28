@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102199817",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.485087,35.614595,-90.485087,35.614595",
     "geom:latitude":35.614595,
     "geom:longitude":-90.485087,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11784 Coombs Ln",
     "sg:city":"Trumann",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":"102199817",
-    "wof:lastmodified":1449068038,
+    "wof:lastmodified":1466320744,
     "wof:name":"First Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.485087,35.614595,-90.485087,35.614595],
-  "geometry": {"coordinates":[-90.485087,35.614595],"type":"Point"}
+  "bbox": [
+    -90.485087,
+    35.614595,
+    -90.485087,
+    35.614595
+],
+  "geometry": {"coordinates":[-90.48508699999999,35.614595],"type":"Point"}
 }

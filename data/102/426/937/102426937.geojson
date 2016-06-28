@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102426937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.311585,35.339578,-94.311585,35.339578",
     "geom:latitude":35.339578,
     "geom:longitude":-94.311585,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1412 14th Cir",
     "sg:city":"Barling",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102426937,
-    "wof:lastmodified":1449068306,
+    "wof:lastmodified":1466325558,
     "wof:name":"Advanced Smartcard Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.311585,35.339578,-94.311585,35.339578],
-  "geometry": {"coordinates":[-94.311585,35.339578],"type":"Point"}
+  "bbox": [
+    -94.311585,
+    35.339578,
+    -94.311585,
+    35.339578
+],
+  "geometry": {"coordinates":[-94.31158499999999,35.339578],"type":"Point"}
 }

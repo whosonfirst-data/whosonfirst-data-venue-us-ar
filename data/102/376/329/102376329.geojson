@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102376329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.165278,35.288138,-93.165278,35.288138",
     "geom:latitude":35.288138,
     "geom:longitude":-93.165278,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Skyline Dr",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837141,
+        85688549,
         85633793,
         85919515,
         102082511,
-        85688549
+        85837141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102376329,
-    "wof:lastmodified":1449068617,
+    "wof:lastmodified":1466321335,
     "wof:name":"Baileys Westside Pharmacy Inc",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.165278,35.288138,-93.165278,35.288138],
+  "bbox": [
+    -93.165278,
+    35.288138,
+    -93.165278,
+    35.288138
+],
   "geometry": {"coordinates":[-93.165278,35.288138],"type":"Point"}
 }

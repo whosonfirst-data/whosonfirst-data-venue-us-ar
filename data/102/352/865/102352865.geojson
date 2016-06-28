@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102352865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.46203,35.59316,-92.46203,35.59316",
     "geom:latitude":35.59316,
     "geom:longitude":-92.46203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1206 Main St",
     "sg:city":"Clinton",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102352865,
-    "wof:lastmodified":1449069238,
+    "wof:lastmodified":1466324143,
     "wof:name":"Natural Bridge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.46203,35.59316,-92.46203,35.59316],
+  "bbox": [
+    -92.46203,
+    35.59316,
+    -92.46203,
+    35.59316
+],
   "geometry": {"coordinates":[-92.46203,35.59316],"type":"Point"}
 }

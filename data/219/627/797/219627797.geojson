@@ -2,13 +2,14 @@
   "id": 219627797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.695003,35.841352,-90.695003,35.841352",
     "geom:latitude":35.841352,
     "geom:longitude":-90.695003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 S Patrick St",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -69,10 +70,11 @@
         }
     ],
     "wof:id":219627797,
-    "wof:lastmodified":1449074005,
+    "wof:lastmodified":1466324838,
     "wof:name":"Kenwards Flowers",
     "wof:parent_id":85836541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -82,6 +84,11 @@
         "balloons-retail"
     ]
 },
-  "bbox": [-90.695003,35.841352,-90.695003,35.841352],
+  "bbox": [
+    -90.695003,
+    35.841352,
+    -90.695003,
+    35.841352
+],
   "geometry": {"coordinates":[-90.695003,35.841352],"type":"Point"}
 }

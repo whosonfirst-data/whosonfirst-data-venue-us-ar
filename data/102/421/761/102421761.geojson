@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102421761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.154018,34.279301,-93.154018,34.279301",
     "geom:latitude":34.279301,
     "geom:longitude":-93.154018,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"152 Tupelo Trl",
     "sg:city":"Bismarck",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":102421761,
-    "wof:lastmodified":1449069294,
+    "wof:lastmodified":1466325462,
     "wof:name":"White Oak Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.154018,34.279301,-93.154018,34.279301],
-  "geometry": {"coordinates":[-93.154018,34.279301],"type":"Point"}
+  "bbox": [
+    -93.154018,
+    34.279301,
+    -93.154018,
+    34.279301
+],
+  "geometry": {"coordinates":[-93.15401799999999,34.279301],"type":"Point"}
 }

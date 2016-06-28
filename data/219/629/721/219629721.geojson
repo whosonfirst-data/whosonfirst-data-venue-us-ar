@@ -2,13 +2,14 @@
   "id": 219629721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.639261,35.885392,-90.639261,35.885392",
     "geom:latitude":35.885392,
     "geom:longitude":-90.639261,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4216 Clubhouse Dr",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219629721,
-    "wof:lastmodified":1449073106,
+    "wof:lastmodified":1466324624,
     "wof:name":"Tri-J Insurance Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "business"
     ]
 },
-  "bbox": [-90.639261,35.885392,-90.639261,35.885392],
+  "bbox": [
+    -90.639261,
+    35.885392,
+    -90.639261,
+    35.885392
+],
   "geometry": {"coordinates":[-90.639261,35.885392],"type":"Point"}
 }

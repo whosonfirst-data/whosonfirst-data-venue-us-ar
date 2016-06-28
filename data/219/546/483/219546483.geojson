@@ -2,13 +2,14 @@
   "id": 219546483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.960602,34.300861,-91.960602,34.300861",
     "geom:latitude":34.300861,
     "geom:longitude":-91.960602,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6700 Danaher Rd",
     "sg:city":"Sherrill",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219546483,
-    "wof:lastmodified":1449070374,
+    "wof:lastmodified":1466324303,
     "wof:name":"Big Horse Farm Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "cotton"
     ]
 },
-  "bbox": [-91.960602,34.300861,-91.960602,34.300861],
-  "geometry": {"coordinates":[-91.960602,34.300861],"type":"Point"}
+  "bbox": [
+    -91.960602,
+    34.300861,
+    -91.960602,
+    34.300861
+],
+  "geometry": {"coordinates":[-91.96060199999999,34.300861],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287141043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.621167,35.241077,-94.621167,35.241077",
     "geom:latitude":35.241077,
     "geom:longitude":-94.621167,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 S Main St",
     "sg:city":"Spiro",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":287141043,
-    "wof:lastmodified":1449000976,
+    "wof:lastmodified":1466324398,
     "wof:name":"David F Hedges CPA",
     "wof:parent_id":85809847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-94.621167,35.241077,-94.621167,35.241077],
+  "bbox": [
+    -94.621167,
+    35.241077,
+    -94.621167,
+    35.241077
+],
   "geometry": {"coordinates":[-94.621167,35.241077],"type":"Point"}
 }

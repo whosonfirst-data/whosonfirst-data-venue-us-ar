@@ -2,13 +2,14 @@
   "id": 219234957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.472366,33.404282,-93.472366,33.404282",
     "geom:latitude":33.404282,
     "geom:longitude":-93.472366,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"501 Lafayette 31",
     "sg:city":"Buckner",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219234957,
-    "wof:lastmodified":1449073717,
+    "wof:lastmodified":1466321217,
     "wof:name":"Jeffrey L Lamkin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.472366,33.404282,-93.472366,33.404282],
-  "geometry": {"coordinates":[-93.472366,33.404282],"type":"Point"}
+  "bbox": [
+    -93.472366,
+    33.404282,
+    -93.472366,
+    33.404282
+],
+  "geometry": {"coordinates":[-93.47236599999999,33.404282],"type":"Point"}
 }

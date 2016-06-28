@@ -2,13 +2,14 @@
   "id": 320730007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.541575,36.185931,-94.541575,36.185931",
     "geom:latitude":36.185931,
     "geom:longitude":-94.541575,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 N Mount Olive St",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320730007,
-    "wof:lastmodified":1449014372,
+    "wof:lastmodified":1466320632,
     "wof:name":"Siloam Springs Community Bldg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-94.541575,36.185931,-94.541575,36.185931],
-  "geometry": {"coordinates":[-94.541575,36.185931],"type":"Point"}
+  "bbox": [
+    -94.541575,
+    36.185931,
+    -94.541575,
+    36.185931
+],
+  "geometry": {"coordinates":[-94.54157499999999,36.185931],"type":"Point"}
 }

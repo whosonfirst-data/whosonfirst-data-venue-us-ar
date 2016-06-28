@@ -2,13 +2,14 @@
   "id": 219660387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.475861,36.415988,-90.475861,36.415988",
     "geom:latitude":36.415988,
     "geom:longitude":-90.475861,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4119 Highway 62",
     "sg:city":"Corning",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219660387,
-    "wof:lastmodified":1449073555,
+    "wof:lastmodified":1466324777,
     "wof:name":"Bets Agricultural Flying Service Of Ar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "bureau"
     ]
 },
-  "bbox": [-90.475861,36.415988,-90.475861,36.415988],
-  "geometry": {"coordinates":[-90.475861,36.415988],"type":"Point"}
+  "bbox": [
+    -90.475861,
+    36.415988,
+    -90.475861,
+    36.415988
+],
+  "geometry": {"coordinates":[-90.47586099999999,36.415988],"type":"Point"}
 }

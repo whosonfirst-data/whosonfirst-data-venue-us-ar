@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102258681",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.295094,34.744952,-92.295094,34.744952",
     "geom:latitude":34.744952,
     "geom:longitude":-92.295094,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"612 S Summit St",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878749,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85878749
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":"102258681",
-    "wof:lastmodified":1449069687,
+    "wof:lastmodified":1466322119,
     "wof:name":"Real Estate Commission Ark",
     "wof:parent_id":85878749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.295094,34.744952,-92.295094,34.744952],
-  "geometry": {"coordinates":[-92.295094,34.744952],"type":"Point"}
+  "bbox": [
+    -92.295094,
+    34.744952,
+    -92.295094,
+    34.744952
+],
+  "geometry": {"coordinates":[-92.29509400000001,34.744952],"type":"Point"}
 }

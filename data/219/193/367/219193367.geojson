@@ -2,13 +2,14 @@
   "id": 219193367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.77166,33.652451,-92.77166,33.652451",
     "geom:latitude":33.652451,
     "geom:longitude":-92.77166,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 Ouachita 88",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219193367,
-    "wof:lastmodified":1449070957,
+    "wof:lastmodified":1466320803,
     "wof:name":"Dop Tutoring",
     "wof:parent_id":85813169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "tutoring"
     ]
 },
-  "bbox": [-92.77166,33.652451,-92.77166,33.652451],
+  "bbox": [
+    -92.77166,
+    33.652451,
+    -92.77166,
+    33.652451
+],
   "geometry": {"coordinates":[-92.77166,33.652451],"type":"Point"}
 }

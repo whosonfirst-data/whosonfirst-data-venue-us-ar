@@ -2,13 +2,14 @@
   "id": 219793141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.946588,36.159285,-92.946588,36.159285",
     "geom:latitude":36.159285,
     "geom:longitude":-92.946588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9918 Rally Hill Rd",
     "sg:city":"Everton",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":219793141,
-    "wof:lastmodified":1449072318,
+    "wof:lastmodified":1466324945,
     "wof:name":"Classic Carpet Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "carpet"
     ]
 },
-  "bbox": [-92.946588,36.159285,-92.946588,36.159285],
-  "geometry": {"coordinates":[-92.946588,36.159285],"type":"Point"}
+  "bbox": [
+    -92.946588,
+    36.159285,
+    -92.946588,
+    36.159285
+],
+  "geometry": {"coordinates":[-92.94658800000001,36.159285],"type":"Point"}
 }

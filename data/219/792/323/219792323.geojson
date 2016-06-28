@@ -2,13 +2,14 @@
   "id": 219792323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.540321,36.314632,-92.540321,36.314632",
     "geom:latitude":36.314632,
     "geom:longitude":-92.540321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"268 Valley Airport Pl 4A",
     "sg:city":"Cotter",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219792323,
-    "wof:lastmodified":1449071153,
+    "wof:lastmodified":1466324946,
     "wof:name":"Gaertner Aviation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-92.540321,36.314632,-92.540321,36.314632],
-  "geometry": {"coordinates":[-92.540321,36.314632],"type":"Point"}
+  "bbox": [
+    -92.540321,
+    36.314632,
+    -92.540321,
+    36.314632
+],
+  "geometry": {"coordinates":[-92.54032100000001,36.314632],"type":"Point"}
 }

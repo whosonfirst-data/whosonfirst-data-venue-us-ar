@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102363767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.292166,33.314684,-91.292166,33.314684",
     "geom:latitude":33.314684,
     "geom:longitude":-91.292166,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1729 US Hwy 65",
     "sg:city":"Lake Village",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102363767,
-    "wof:lastmodified":1449069887,
+    "wof:lastmodified":1466324368,
     "wof:name":"Barton's Of Lake Village",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.292166,33.314684,-91.292166,33.314684],
-  "geometry": {"coordinates":[-91.292166,33.314684],"type":"Point"}
+  "bbox": [
+    -91.292166,
+    33.314684,
+    -91.292166,
+    33.314684
+],
+  "geometry": {"coordinates":[-91.29216599999999,33.314684],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219695375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.508338,36.046965,-90.508338,36.046965",
     "geom:latitude":36.046965,
     "geom:longitude":-90.508338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1005 Linwood Dr",
     "sg:city":"Paragould",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219695375,
-    "wof:lastmodified":1449071724,
+    "wof:lastmodified":1466324730,
     "wof:name":"Northeast Arkansas Federal Credit Union",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "saving"
     ]
 },
-  "bbox": [-90.508338,36.046965,-90.508338,36.046965],
-  "geometry": {"coordinates":[-90.508338,36.046965],"type":"Point"}
+  "bbox": [
+    -90.508338,
+    36.046965,
+    -90.508338,
+    36.046965
+],
+  "geometry": {"coordinates":[-90.50833799999999,36.046965],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102400955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.617393,35.878479,-90.617393,35.878479",
     "geom:latitude":35.878479,
     "geom:longitude":-90.617393,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"696 Co Rd 702",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102400955,
-    "wof:lastmodified":1449068027,
+    "wof:lastmodified":1466324819,
     "wof:name":"Elliot Construction & Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.617393,35.878479,-90.617393,35.878479],
-  "geometry": {"coordinates":[-90.617393,35.878479],"type":"Point"}
+  "bbox": [
+    -90.617393,
+    35.878479,
+    -90.617393,
+    35.878479
+],
+  "geometry": {"coordinates":[-90.61739300000001,35.878479],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220079779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.463137,35.456774,-93.463137,35.456774",
     "geom:latitude":35.456774,
     "geom:longitude":-93.463137,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1160 S Rogers St",
     "sg:city":"Clarksville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220079779,
-    "wof:lastmodified":1449074726,
+    "wof:lastmodified":1466321588,
     "wof:name":"State Farm Insurance Agent-Scott Smith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.463137,35.456774,-93.463137,35.456774],
+  "bbox": [
+    -93.463137,
+    35.456774,
+    -93.463137,
+    35.456774
+],
   "geometry": {"coordinates":[-93.463137,35.456774],"type":"Point"}
 }

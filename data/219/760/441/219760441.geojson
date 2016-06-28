@@ -2,13 +2,14 @@
   "id": 219760441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.123779,36.256721,-93.123779,36.256721",
     "geom:latitude":36.256721,
     "geom:longitude":-93.123779,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Russell Dr",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219760441,
-    "wof:lastmodified":1449073780,
+    "wof:lastmodified":1466324918,
     "wof:name":"Credit Information & Collections",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "debt"
     ]
 },
-  "bbox": [-93.123779,36.256721,-93.123779,36.256721],
+  "bbox": [
+    -93.123779,
+    36.256721,
+    -93.123779,
+    36.256721
+],
   "geometry": {"coordinates":[-93.123779,36.256721],"type":"Point"}
 }

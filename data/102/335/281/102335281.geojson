@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102335281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.384344,35.385583,-94.384344,35.385583",
     "geom:latitude":35.385583,
     "geom:longitude":-94.384344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4201 Grand Ave",
     "sg:city":"Fort Smith",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102335281,
-    "wof:lastmodified":1449069370,
+    "wof:lastmodified":1466323716,
     "wof:name":"Grand Convenience Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.384344,35.385583,-94.384344,35.385583],
+  "bbox": [
+    -94.384344,
+    35.385583,
+    -94.384344,
+    35.385583
+],
   "geometry": {"coordinates":[-94.384344,35.385583],"type":"Point"}
 }

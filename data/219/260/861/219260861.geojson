@@ -2,13 +2,14 @@
   "id": 219260861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.02592,33.412597,-94.02592,33.412597",
     "geom:latitude":33.412597,
     "geom:longitude":-94.02592,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"911 Ferguson St Apt 110",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219260861,
-    "wof:lastmodified":1449070976,
+    "wof:lastmodified":1466321412,
     "wof:name":"Carver Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-94.02592,33.412597,-94.02592,33.412597],
+  "bbox": [
+    -94.02592,
+    33.412597,
+    -94.02592,
+    33.412597
+],
   "geometry": {"coordinates":[-94.02592,33.412597],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102397909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.84319,35.344629,-90.84319,35.344629",
     "geom:latitude":35.344629,
     "geom:longitude":-90.84319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Co Rd 2230",
     "sg:city":"Cherry Valley",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102397909,
-    "wof:lastmodified":1449068727,
+    "wof:lastmodified":1466324812,
     "wof:name":"Johnny Mc Farland Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.84319,35.344629,-90.84319,35.344629],
-  "geometry": {"coordinates":[-90.84319,35.344629],"type":"Point"}
+  "bbox": [
+    -90.84319,
+    35.344629,
+    -90.84319,
+    35.344629
+],
+  "geometry": {"coordinates":[-90.84319000000001,35.344629],"type":"Point"}
 }

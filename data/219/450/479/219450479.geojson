@@ -2,13 +2,14 @@
   "id": 219450479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.898414,34.606291,-92.898414,34.606291",
     "geom:latitude":34.606291,
     "geom:longitude":-92.898414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"451 Ault Loop",
     "sg:city":"Lonsdale",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219450479,
-    "wof:lastmodified":1449073369,
+    "wof:lastmodified":1466323383,
     "wof:name":"Tim Jackson Excavating Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-92.898414,34.606291,-92.898414,34.606291],
+  "bbox": [
+    -92.898414,
+    34.606291,
+    -92.898414,
+    34.606291
+],
   "geometry": {"coordinates":[-92.898414,34.606291],"type":"Point"}
 }

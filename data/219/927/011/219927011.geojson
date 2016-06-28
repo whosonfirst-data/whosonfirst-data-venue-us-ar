@@ -2,13 +2,14 @@
   "id": 219927011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.453239,36.423243,-94.453239,36.423243",
     "geom:latitude":36.423243,
     "geom:longitude":-94.453239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 1st Ave NE",
     "sg:city":"Gravette",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219927011,
-    "wof:lastmodified":1449073547,
+    "wof:lastmodified":1466325059,
     "wof:name":"Shop & GO",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.453239,36.423243,-94.453239,36.423243],
+  "bbox": [
+    -94.453239,
+    36.423243,
+    -94.453239,
+    36.423243
+],
   "geometry": {"coordinates":[-94.453239,36.423243],"type":"Point"}
 }

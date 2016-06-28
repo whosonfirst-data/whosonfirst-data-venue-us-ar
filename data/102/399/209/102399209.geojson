@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102399209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.48277,36.31003,-91.48277,36.31003",
     "geom:latitude":36.31003,
     "geom:longitude":-91.48277,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 S Spring St",
     "sg:city":"Hardy",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102399209,
-    "wof:lastmodified":1449068241,
+    "wof:lastmodified":1466324688,
     "wof:name":"Burlington Northern Railroad",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.48277,36.31003,-91.48277,36.31003],
+  "bbox": [
+    -91.48277,
+    36.31003,
+    -91.48277,
+    36.31003
+],
   "geometry": {"coordinates":[-91.48277,36.31003],"type":"Point"}
 }

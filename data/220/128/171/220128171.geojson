@@ -2,13 +2,14 @@
   "id": 220128171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.842605,35.446939,-93.842605,35.446939",
     "geom:latitude":35.446939,
     "geom:longitude":-93.842605,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5734 E Highway 96",
     "sg:city":"Ozark",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":220128171,
-    "wof:lastmodified":1449074348,
+    "wof:lastmodified":1466322759,
     "wof:name":"Tipton John & Shannon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-93.842605,35.446939,-93.842605,35.446939],
-  "geometry": {"coordinates":[-93.842605,35.446939],"type":"Point"}
+  "bbox": [
+    -93.842605,
+    35.446939,
+    -93.842605,
+    35.446939
+],
+  "geometry": {"coordinates":[-93.84260500000001,35.446939],"type":"Point"}
 }

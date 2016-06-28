@@ -2,13 +2,14 @@
   "id": 219563203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.960083,34.989849,-91.960083,34.989849",
     "geom:latitude":34.989849,
     "geom:longitude":-91.960083,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Shady Grove Ln",
     "sg:city":"Ward",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219563203,
-    "wof:lastmodified":1449070425,
+    "wof:lastmodified":1466324426,
     "wof:name":"East Park Grocery",
     "wof:parent_id":85839277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.960083,34.989849,-91.960083,34.989849],
+  "bbox": [
+    -91.960083,
+    34.989849,
+    -91.960083,
+    34.989849
+],
   "geometry": {"coordinates":[-91.960083,34.989849],"type":"Point"}
 }

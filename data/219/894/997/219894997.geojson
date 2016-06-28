@@ -2,13 +2,14 @@
   "id": 219894997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.214904,36.347132,-94.214904,36.347132",
     "geom:latitude":36.347132,
     "geom:longitude":-94.214904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2306 SW D St",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":219894997,
-    "wof:lastmodified":1449071845,
+    "wof:lastmodified":1466325185,
     "wof:name":"Bright Beginnings PRE-School Inc.",
     "wof:parent_id":85895825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "kindergarten"
     ]
 },
-  "bbox": [-94.214904,36.347132,-94.214904,36.347132],
+  "bbox": [
+    -94.214904,
+    36.347132,
+    -94.214904,
+    36.347132
+],
   "geometry": {"coordinates":[-94.214904,36.347132],"type":"Point"}
 }

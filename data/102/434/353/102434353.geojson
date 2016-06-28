@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102434353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.160896,36.099572,-94.160896,36.099572",
     "geom:latitude":36.099572,
     "geom:longitude":-94.160896,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40 W Village Lake Dr",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885445,
+        85688549,
         85633793,
         85919609,
         102082007,
-        85688549
+        85885445
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102434353,
-    "wof:lastmodified":1449068315,
+    "wof:lastmodified":1466325591,
     "wof:name":"Morehouse Logistics",
     "wof:parent_id":85885445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.160896,36.099572,-94.160896,36.099572],
-  "geometry": {"coordinates":[-94.160896,36.099572],"type":"Point"}
+  "bbox": [
+    -94.160896,
+    36.099572,
+    -94.160896,
+    36.099572
+],
+  "geometry": {"coordinates":[-94.16089599999999,36.099572],"type":"Point"}
 }

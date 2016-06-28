@@ -2,13 +2,14 @@
   "id": 219449435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.902008,34.791047,-91.902008,34.791047",
     "geom:latitude":34.791047,
     "geom:longitude":-91.902008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"903 England St",
     "sg:city":"Lonoke",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219449435,
-    "wof:lastmodified":1449073653,
+    "wof:lastmodified":1466323371,
     "wof:name":"Leon Hawkins",
     "wof:parent_id":85811577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "upholsterer"
     ]
 },
-  "bbox": [-91.902008,34.791047,-91.902008,34.791047],
+  "bbox": [
+    -91.902008,
+    34.791047,
+    -91.902008,
+    34.791047
+],
   "geometry": {"coordinates":[-91.902008,34.791047],"type":"Point"}
 }

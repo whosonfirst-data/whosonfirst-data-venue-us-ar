@@ -2,13 +2,14 @@
   "id": 219910369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.462398,36.331774,-94.462398,36.331774",
     "geom:latitude":36.331774,
     "geom:longitude":-94.462398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"261 Oak Ave",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219910369,
-    "wof:lastmodified":1449071859,
+    "wof:lastmodified":1466325116,
     "wof:name":"A Security And Property Management",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "cleaners-interior"
     ]
 },
-  "bbox": [-94.462398,36.331774,-94.462398,36.331774],
-  "geometry": {"coordinates":[-94.462398,36.331774],"type":"Point"}
+  "bbox": [
+    -94.462398,
+    36.331774,
+    -94.462398,
+    36.331774
+],
+  "geometry": {"coordinates":[-94.46239799999999,36.331774],"type":"Point"}
 }

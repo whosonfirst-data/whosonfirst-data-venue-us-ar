@@ -2,13 +2,14 @@
   "id": 219491009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.188797,34.833792,-92.188797,34.833792",
     "geom:latitude":34.833792,
     "geom:longitude":-92.188797,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Manson Rd",
     "sg:city":"Sherwood",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":219491009,
-    "wof:lastmodified":1449070327,
+    "wof:lastmodified":1466323863,
     "wof:name":"Park Crest",
     "wof:parent_id":85837729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "listing"
     ]
 },
-  "bbox": [-92.188797,34.833792,-92.188797,34.833792],
-  "geometry": {"coordinates":[-92.188797,34.833792],"type":"Point"}
+  "bbox": [
+    -92.188797,
+    34.833792,
+    -92.188797,
+    34.833792
+],
+  "geometry": {"coordinates":[-92.18879699999999,34.833792],"type":"Point"}
 }

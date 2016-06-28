@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102205335",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.731947,34.758249,-90.731947,34.758249",
     "geom:latitude":34.758249,
     "geom:longitude":-90.731947,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"167 Lee Rd",
     "sg:city":"Marianna",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":"102205335",
-    "wof:lastmodified":1449069196,
+    "wof:lastmodified":1466320763,
     "wof:name":"Nickols Construction Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.731947,34.758249,-90.731947,34.758249],
-  "geometry": {"coordinates":[-90.731947,34.758249],"type":"Point"}
+  "bbox": [
+    -90.731947,
+    34.758249,
+    -90.731947,
+    34.758249
+],
+  "geometry": {"coordinates":[-90.73194700000001,34.758249],"type":"Point"}
 }

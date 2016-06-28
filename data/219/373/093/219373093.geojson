@@ -2,13 +2,14 @@
   "id": 219373093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.453161,35.587845,-92.453161,35.587845",
     "geom:latitude":35.587845,
     "geom:longitude":-92.453161,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 Highway 65 N",
     "sg:city":"Clinton",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":219373093,
-    "wof:lastmodified":1449072206,
+    "wof:lastmodified":1466322612,
     "wof:name":"Ingram's Tire Sale",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-92.453161,35.587845,-92.453161,35.587845],
-  "geometry": {"coordinates":[-92.453161,35.587845],"type":"Point"}
+  "bbox": [
+    -92.453161,
+    35.587845,
+    -92.453161,
+    35.587845
+],
+  "geometry": {"coordinates":[-92.45316099999999,35.587845],"type":"Point"}
 }

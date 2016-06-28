@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102329393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.745162,35.255366,-91.745162,35.255366",
     "geom:latitude":35.255366,
     "geom:longitude":-91.745162,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 N Maple St",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102329393,
-    "wof:lastmodified":1449068448,
+    "wof:lastmodified":1466323617,
     "wof:name":"Z/Mac Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.745162,35.255366,-91.745162,35.255366],
-  "geometry": {"coordinates":[-91.745162,35.255366],"type":"Point"}
+  "bbox": [
+    -91.745162,
+    35.255366,
+    -91.745162,
+    35.255366
+],
+  "geometry": {"coordinates":[-91.74516199999999,35.255366],"type":"Point"}
 }

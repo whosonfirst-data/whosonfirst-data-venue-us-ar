@@ -2,13 +2,14 @@
   "id": 219526985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.710169,35.245077,-91.710169,35.245077",
     "geom:latitude":35.245077,
     "geom:longitude":-91.710169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"38 Indian Trl",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219526985,
-    "wof:lastmodified":1449071481,
+    "wof:lastmodified":1466324157,
     "wof:name":"S B M Advertising",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "specialty"
     ]
 },
-  "bbox": [-91.710169,35.245077,-91.710169,35.245077],
-  "geometry": {"coordinates":[-91.710169,35.245077],"type":"Point"}
+  "bbox": [
+    -91.710169,
+    35.245077,
+    -91.710169,
+    35.245077
+],
+  "geometry": {"coordinates":[-91.71016899999999,35.245077],"type":"Point"}
 }

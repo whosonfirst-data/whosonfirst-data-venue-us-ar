@@ -2,13 +2,14 @@
   "id": 220070873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.140404,35.304089,-93.140404,35.304089",
     "geom:latitude":35.304089,
     "geom:longitude":-93.140404,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 Lake Front Dr",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -74,10 +75,11 @@
         }
     ],
     "wof:id":220070873,
-    "wof:lastmodified":1449074411,
+    "wof:lastmodified":1466321374,
     "wof:name":"Honda Of Russellville",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -91,6 +93,11 @@
         "utility"
     ]
 },
-  "bbox": [-93.140404,35.304089,-93.140404,35.304089],
+  "bbox": [
+    -93.140404,
+    35.304089,
+    -93.140404,
+    35.304089
+],
   "geometry": {"coordinates":[-93.140404,35.304089],"type":"Point"}
 }

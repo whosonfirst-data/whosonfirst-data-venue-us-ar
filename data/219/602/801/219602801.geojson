@@ -2,13 +2,14 @@
   "id": 219602801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.200125,35.214099,-90.200125,35.214099",
     "geom:latitude":35.214099,
     "geom:longitude":-90.200125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"86 Military Rd",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219602801,
-    "wof:lastmodified":1449072053,
+    "wof:lastmodified":1466324584,
     "wof:name":"Rikard CPA Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "accountants-certified"
     ]
 },
-  "bbox": [-90.200125,35.214099,-90.200125,35.214099],
+  "bbox": [
+    -90.200125,
+    35.214099,
+    -90.200125,
+    35.214099
+],
   "geometry": {"coordinates":[-90.200125,35.214099],"type":"Point"}
 }

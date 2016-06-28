@@ -2,13 +2,14 @@
   "id": 219405125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.465635,35.067819,-92.465635,35.067819",
     "geom:latitude":35.067819,
     "geom:longitude":-92.465635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2510 Frederick Dr",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219405125,
-    "wof:lastmodified":1449073627,
+    "wof:lastmodified":1466322892,
     "wof:name":"Contingency Planners, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "plan"
     ]
 },
-  "bbox": [-92.465635,35.067819,-92.465635,35.067819],
-  "geometry": {"coordinates":[-92.465635,35.067819],"type":"Point"}
+  "bbox": [
+    -92.465635,
+    35.067819,
+    -92.465635,
+    35.067819
+],
+  "geometry": {"coordinates":[-92.46563500000001,35.067819],"type":"Point"}
 }

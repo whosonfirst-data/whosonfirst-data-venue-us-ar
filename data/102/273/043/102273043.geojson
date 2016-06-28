@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102273043",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.62229,35.721024,-91.62229,35.721024",
     "geom:latitude":35.721024,
     "geom:longitude":-91.62229,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1019 Allen Chapel Rd",
     "sg:city":"Batesville",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":"102273043",
-    "wof:lastmodified":1449069000,
+    "wof:lastmodified":1466322355,
     "wof:name":"Edward L Verser",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.62229,35.721024,-91.62229,35.721024],
-  "geometry": {"coordinates":[-91.62229,35.721024],"type":"Point"}
+  "bbox": [
+    -91.62229,
+    35.721024,
+    -91.62229,
+    35.721024
+],
+  "geometry": {"coordinates":[-91.62229000000001,35.721024],"type":"Point"}
 }

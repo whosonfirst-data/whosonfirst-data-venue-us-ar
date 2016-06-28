@@ -2,13 +2,14 @@
   "id": 219363987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.011757,34.979301,-92.011757,34.979301",
     "geom:latitude":34.979301,
     "geom:longitude":-92.011757,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 W Cherry St",
     "sg:city":"Cabot",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":219363987,
-    "wof:lastmodified":1449073493,
+    "wof:lastmodified":1466322472,
     "wof:name":"Denali Medical Billing",
     "wof:parent_id":85839277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "bookkeeping"
     ]
 },
-  "bbox": [-92.011757,34.979301,-92.011757,34.979301],
+  "bbox": [
+    -92.011757,
+    34.979301,
+    -92.011757,
+    34.979301
+],
   "geometry": {"coordinates":[-92.011757,34.979301],"type":"Point"}
 }

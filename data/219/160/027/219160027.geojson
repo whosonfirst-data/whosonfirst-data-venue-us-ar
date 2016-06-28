@@ -2,13 +2,14 @@
   "id": 219160027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.810988,33.630567,-91.810988,33.630567",
     "geom:latitude":33.630567,
     "geom:longitude":-91.810988,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"877 Highway 278 W",
     "sg:city":"Monticello",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":219160027,
-    "wof:lastmodified":1449073353,
+    "wof:lastmodified":1466320469,
     "wof:name":"Ellis & Son Body Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "repairing"
     ]
 },
-  "bbox": [-91.810988,33.630567,-91.810988,33.630567],
-  "geometry": {"coordinates":[-91.810988,33.630567],"type":"Point"}
+  "bbox": [
+    -91.810988,
+    33.630567,
+    -91.810988,
+    33.630567
+],
+  "geometry": {"coordinates":[-91.81098799999999,33.630567],"type":"Point"}
 }

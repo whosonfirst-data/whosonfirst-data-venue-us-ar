@@ -2,13 +2,14 @@
   "id": 303079893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.236492,34.584238,-94.236492,34.584238",
     "geom:latitude":34.584238,
     "geom:longitude":-94.236492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"515 Janssen Ave",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303079893,
-    "wof:lastmodified":1449000153,
+    "wof:lastmodified":1466324503,
     "wof:name":"Rich Mountain Electric Co-Op",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-94.236492,34.584238,-94.236492,34.584238],
+  "bbox": [
+    -94.236492,
+    34.584238,
+    -94.236492,
+    34.584238
+],
   "geometry": {"coordinates":[-94.236492,34.584238],"type":"Point"}
 }

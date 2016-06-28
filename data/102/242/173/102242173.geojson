@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102242173",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.259318,34.784901,-92.259318,34.784901",
     "geom:latitude":34.784901,
     "geom:longitude":-92.259318,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3211 N Pine St",
     "sg:city":"North Little Rock",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840541,
+        85688549,
         85633793,
         85921255,
         102082497,
-        85688549
+        85840541
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102242173",
-    "wof:lastmodified":1449069896,
+    "wof:lastmodified":1466321641,
     "wof:name":"Pats Sports Equipment Repair",
     "wof:parent_id":85840541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.259318,34.784901,-92.259318,34.784901],
-  "geometry": {"coordinates":[-92.259318,34.784901],"type":"Point"}
+  "bbox": [
+    -92.259318,
+    34.784901,
+    -92.259318,
+    34.784901
+],
+  "geometry": {"coordinates":[-92.25931799999999,34.784901],"type":"Point"}
 }

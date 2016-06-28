@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102350795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.154389,36.088484,-94.154389,36.088484",
     "geom:latitude":36.088484,
     "geom:longitude":-94.154389,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1802 N College Ave",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885445,
+        85688549,
         85633793,
         85919609,
         102082007,
-        85688549
+        85885445
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102350795,
-    "wof:lastmodified":1449068976,
+    "wof:lastmodified":1466324110,
     "wof:name":"Bridgepoint Communications",
     "wof:parent_id":85885445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.154389,36.088484,-94.154389,36.088484],
-  "geometry": {"coordinates":[-94.154389,36.088484],"type":"Point"}
+  "bbox": [
+    -94.154389,
+    36.088484,
+    -94.154389,
+    36.088484
+],
+  "geometry": {"coordinates":[-94.15438899999999,36.088484],"type":"Point"}
 }

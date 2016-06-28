@@ -2,13 +2,14 @@
   "id": 219270793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.016894,33.343928,-94.016894,33.343928",
     "geom:latitude":33.343928,
     "geom:longitude":-94.016894,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7106 Line Ferry Rd",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219270793,
-    "wof:lastmodified":1449071020,
+    "wof:lastmodified":1466321490,
     "wof:name":"Buzz Kutz Lawn Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-94.016894,33.343928,-94.016894,33.343928],
-  "geometry": {"coordinates":[-94.016894,33.343928],"type":"Point"}
+  "bbox": [
+    -94.016894,
+    33.343928,
+    -94.016894,
+    33.343928
+],
+  "geometry": {"coordinates":[-94.01689399999999,33.343928],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219890707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.344918,36.334164,-94.344918,36.334164",
     "geom:latitude":36.334164,
     "geom:longitude":-94.344918,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8090 N Coffelt Cemetery Rd",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219890707,
-    "wof:lastmodified":1449071174,
+    "wof:lastmodified":1466325081,
     "wof:name":"Dalton's Property Preservation",
     "wof:parent_id":85853527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "park"
     ]
 },
-  "bbox": [-94.344918,36.334164,-94.344918,36.334164],
-  "geometry": {"coordinates":[-94.344918,36.334164],"type":"Point"}
+  "bbox": [
+    -94.344918,
+    36.334164,
+    -94.344918,
+    36.334164
+],
+  "geometry": {"coordinates":[-94.34491800000001,36.334164],"type":"Point"}
 }

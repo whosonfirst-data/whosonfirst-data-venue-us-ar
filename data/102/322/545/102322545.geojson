@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102322545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.435527,35.091708,-92.435527,35.091708",
     "geom:latitude":35.091708,
     "geom:longitude":-92.435527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"713 Oak St",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102322545,
-    "wof:lastmodified":1449067742,
+    "wof:lastmodified":1466323497,
     "wof:name":"Antiques & Interiors Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.435527,35.091708,-92.435527,35.091708],
-  "geometry": {"coordinates":[-92.435527,35.091708],"type":"Point"}
+  "bbox": [
+    -92.435527,
+    35.091708,
+    -92.435527,
+    35.091708
+],
+  "geometry": {"coordinates":[-92.43552699999999,35.091708],"type":"Point"}
 }

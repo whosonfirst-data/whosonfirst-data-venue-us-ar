@@ -2,13 +2,14 @@
   "id": 219167269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.839405,33.680508,-91.839405,33.680508",
     "geom:latitude":33.680508,
     "geom:longitude":-91.839405,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 Quail Run",
     "sg:city":"Monticello",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219167269,
-    "wof:lastmodified":1449072221,
+    "wof:lastmodified":1466320528,
     "wof:name":"Robin Johnson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "appraiser"
     ]
 },
-  "bbox": [-91.839405,33.680508,-91.839405,33.680508],
+  "bbox": [
+    -91.839405,
+    33.680508,
+    -91.839405,
+    33.680508
+],
   "geometry": {"coordinates":[-91.839405,33.680508],"type":"Point"}
 }

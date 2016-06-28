@@ -2,13 +2,14 @@
   "id": 219237511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.397021,33.722001,-94.397021,33.722001",
     "geom:latitude":33.722001,
     "geom:longitude":-94.397021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"216 Schuman St",
     "sg:city":"Foreman",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219237511,
-    "wof:lastmodified":1449070455,
+    "wof:lastmodified":1466321236,
     "wof:name":"Foreman Branch Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.397021,33.722001,-94.397021,33.722001],
+  "bbox": [
+    -94.397021,
+    33.722001,
+    -94.397021,
+    33.722001
+],
   "geometry": {"coordinates":[-94.397021,33.722001],"type":"Point"}
 }

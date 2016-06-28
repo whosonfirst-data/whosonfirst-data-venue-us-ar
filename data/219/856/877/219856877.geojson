@@ -2,13 +2,14 @@
   "id": 219856877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.018044,36.10881,-94.018044,36.10881",
     "geom:latitude":36.10881,
     "geom:longitude":-94.018044,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115410 Quail Run",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219856877,
-    "wof:lastmodified":1449071411,
+    "wof:lastmodified":1466325040,
     "wof:name":"Housemaster",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-94.018044,36.10881,-94.018044,36.10881],
+  "bbox": [
+    -94.018044,
+    36.10881,
+    -94.018044,
+    36.10881
+],
   "geometry": {"coordinates":[-94.018044,36.10881],"type":"Point"}
 }

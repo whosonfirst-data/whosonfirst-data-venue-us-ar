@@ -2,13 +2,14 @@
   "id": 219508449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.127118,34.642812,-92.127118,34.642812",
     "geom:latitude":34.642812,
     "geom:longitude":-92.127118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10201 River Trail Dr",
     "sg:city":"Scott",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219508449,
-    "wof:lastmodified":1449072355,
+    "wof:lastmodified":1466324019,
     "wof:name":"Moses Wood Crafting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "carpenter"
     ]
 },
-  "bbox": [-92.127118,34.642812,-92.127118,34.642812],
+  "bbox": [
+    -92.127118,
+    34.642812,
+    -92.127118,
+    34.642812
+],
   "geometry": {"coordinates":[-92.127118,34.642812],"type":"Point"}
 }

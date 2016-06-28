@@ -2,13 +2,14 @@
   "id": 219638359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.703412,35.835644,-90.703412,35.835644",
     "geom:latitude":35.835644,
     "geom:longitude":-90.703412,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"808 Joe Brooks Dr",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219638359,
-    "wof:lastmodified":1449070572,
+    "wof:lastmodified":1466324636,
     "wof:name":"Glenn Bryan H",
     "wof:parent_id":85836541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "surgeons"
     ]
 },
-  "bbox": [-90.703412,35.835644,-90.703412,35.835644],
+  "bbox": [
+    -90.703412,
+    35.835644,
+    -90.703412,
+    35.835644
+],
   "geometry": {"coordinates":[-90.703412,35.835644],"type":"Point"}
 }

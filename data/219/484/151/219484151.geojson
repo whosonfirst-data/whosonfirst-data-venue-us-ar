@@ -2,13 +2,14 @@
   "id": 219484151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.409752,34.839218,-92.409752,34.839218",
     "geom:latitude":34.839218,
     "geom:longitude":-92.409752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Leeward Ct",
     "sg:city":"Maumelle",
     "sg:classifiers":[
@@ -60,16 +61,22 @@
         }
     ],
     "wof:id":219484151,
-    "wof:lastmodified":1449073702,
+    "wof:lastmodified":1466323731,
     "wof:name":"Russell Communications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "network"
     ]
 },
-  "bbox": [-92.409752,34.839218,-92.409752,34.839218],
+  "bbox": [
+    -92.409752,
+    34.839218,
+    -92.409752,
+    34.839218
+],
   "geometry": {"coordinates":[-92.409752,34.839218],"type":"Point"}
 }

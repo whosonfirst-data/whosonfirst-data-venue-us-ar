@@ -2,13 +2,14 @@
   "id": 219415409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.209709,35.610408,-92.209709,35.610408",
     "geom:latitude":35.610408,
     "geom:longitude":-92.209709,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11110 Edgemont Rd",
     "sg:city":"Edgemont",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219415409,
-    "wof:lastmodified":1449072948,
+    "wof:lastmodified":1466322981,
     "wof:name":"N T G I",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "book"
     ]
 },
-  "bbox": [-92.209709,35.610408,-92.209709,35.610408],
+  "bbox": [
+    -92.209709,
+    35.610408,
+    -92.209709,
+    35.610408
+],
   "geometry": {"coordinates":[-92.209709,35.610408],"type":"Point"}
 }

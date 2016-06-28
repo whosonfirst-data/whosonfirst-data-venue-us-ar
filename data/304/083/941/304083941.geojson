@@ -2,13 +2,14 @@
   "id": 304083941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.552062,36.17519,-94.552062,36.17519",
     "geom:latitude":36.17519,
     "geom:longitude":-94.552062,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1185 Hwy 412 W",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":304083941,
-    "wof:lastmodified":1449043824,
+    "wof:lastmodified":1466320556,
     "wof:name":"Copies Graphics & More",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "copying"
     ]
 },
-  "bbox": [-94.552062,36.17519,-94.552062,36.17519],
-  "geometry": {"coordinates":[-94.552062,36.17519],"type":"Point"}
+  "bbox": [
+    -94.552062,
+    36.17519,
+    -94.552062,
+    36.17519
+],
+  "geometry": {"coordinates":[-94.55206200000001,36.17519],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219399191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.44987,35.065928,-92.44987,35.065928",
     "geom:latitude":35.065928,
     "geom:longitude":-92.44987,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1040 Autumnwood Dr",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219399191,
-    "wof:lastmodified":1449071014,
+    "wof:lastmodified":1466322841,
     "wof:name":"Bowmanstone Press",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "book"
     ]
 },
-  "bbox": [-92.44987,35.065928,-92.44987,35.065928],
+  "bbox": [
+    -92.44987,
+    35.065928,
+    -92.44987,
+    35.065928
+],
   "geometry": {"coordinates":[-92.44987,35.065928],"type":"Point"}
 }

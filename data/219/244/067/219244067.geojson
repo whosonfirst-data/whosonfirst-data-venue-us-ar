@@ -2,13 +2,14 @@
   "id": 219244067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.847265,33.934339,-93.847265,33.934339",
     "geom:latitude":33.934339,
     "geom:longitude":-93.847265,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"920 S Main St",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219244067,
-    "wof:lastmodified":1449071786,
+    "wof:lastmodified":1466321288,
     "wof:name":"Storage On 4th Street",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "household"
     ]
 },
-  "bbox": [-93.847265,33.934339,-93.847265,33.934339],
-  "geometry": {"coordinates":[-93.847265,33.934339],"type":"Point"}
+  "bbox": [
+    -93.847265,
+    33.934339,
+    -93.847265,
+    33.934339
+],
+  "geometry": {"coordinates":[-93.84726499999999,33.934339],"type":"Point"}
 }

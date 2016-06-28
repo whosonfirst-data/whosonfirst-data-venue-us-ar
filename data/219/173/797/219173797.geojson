@@ -2,13 +2,14 @@
   "id": 219173797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.49279,33.348157,-91.49279,33.348157",
     "geom:latitude":33.348157,
     "geom:longitude":-91.49279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 Highway 165 N",
     "sg:city":"Montrose",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219173797,
-    "wof:lastmodified":1449071076,
+    "wof:lastmodified":1466320581,
     "wof:name":"USPS - United States Post Office - Montrose Main Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "shipping"
     ]
 },
-  "bbox": [-91.49279,33.348157,-91.49279,33.348157],
+  "bbox": [
+    -91.49279,
+    33.348157,
+    -91.49279,
+    33.348157
+],
   "geometry": {"coordinates":[-91.49279,33.348157],"type":"Point"}
 }

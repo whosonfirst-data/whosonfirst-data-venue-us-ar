@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102382319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.97141,34.013511,-91.97141,34.013511",
     "geom:latitude":34.013511,
     "geom:longitude":-91.97141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5090 State Hwy 54",
     "sg:city":"Star City",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102382319,
-    "wof:lastmodified":1449068428,
+    "wof:lastmodified":1466322567,
     "wof:name":"Exotic Pet Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.97141,34.013511,-91.97141,34.013511],
-  "geometry": {"coordinates":[-91.97141,34.013511],"type":"Point"}
+  "bbox": [
+    -91.97141,
+    34.013511,
+    -91.97141,
+    34.013511
+],
+  "geometry": {"coordinates":[-91.97141000000001,34.013511],"type":"Point"}
 }

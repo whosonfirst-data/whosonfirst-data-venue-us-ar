@@ -2,13 +2,14 @@
   "id": 220010817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.161697,36.197201,-94.161697,36.197201",
     "geom:latitude":36.197201,
     "geom:longitude":-94.161697,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1305 Jennifer St",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220010817,
-    "wof:lastmodified":1449074539,
+    "wof:lastmodified":1466320479,
     "wof:name":"Extermco N W A",
     "wof:parent_id":85885491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.161697,36.197201,-94.161697,36.197201],
+  "bbox": [
+    -94.161697,
+    36.197201,
+    -94.161697,
+    36.197201
+],
   "geometry": {"coordinates":[-94.161697,36.197201],"type":"Point"}
 }

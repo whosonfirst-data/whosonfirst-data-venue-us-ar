@@ -2,13 +2,14 @@
   "id": 219569711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.914741,35.944802,-89.914741,35.944802",
     "geom:latitude":35.944802,
     "geom:longitude":-89.914741,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1011 Broadmoor St",
     "sg:city":"Blytheville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219569711,
-    "wof:lastmodified":1449073775,
+    "wof:lastmodified":1466324541,
     "wof:name":"T And W Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.914741,35.944802,-89.914741,35.944802],
-  "geometry": {"coordinates":[-89.914741,35.944802],"type":"Point"}
+  "bbox": [
+    -89.914741,
+    35.944802,
+    -89.914741,
+    35.944802
+],
+  "geometry": {"coordinates":[-89.91474100000001,35.944802],"type":"Point"}
 }

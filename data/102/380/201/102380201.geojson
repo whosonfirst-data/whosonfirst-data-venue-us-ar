@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102380201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.140758,36.073138,-94.140758,36.073138",
     "geom:latitude":36.073138,
     "geom:longitude":-94.140758,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1339 E Rockwood Trl",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102380201,
-    "wof:lastmodified":1449068883,
+    "wof:lastmodified":1466322130,
     "wof:name":"Rockwood Group Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.140758,36.073138,-94.140758,36.073138],
-  "geometry": {"coordinates":[-94.140758,36.073138],"type":"Point"}
+  "bbox": [
+    -94.140758,
+    36.073138,
+    -94.140758,
+    36.073138
+],
+  "geometry": {"coordinates":[-94.14075800000001,36.073138],"type":"Point"}
 }

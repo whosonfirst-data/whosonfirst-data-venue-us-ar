@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102377831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.206228,36.072512,-94.206228,36.072512",
     "geom:latitude":36.072512,
     "geom:longitude":-94.206228,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"606 N Betty Jo Dr",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885447,
+        85688549,
         85633793,
         85919609,
         102082007,
-        85688549
+        85885447
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102377831,
-    "wof:lastmodified":1449068686,
+    "wof:lastmodified":1466321645,
     "wof:name":"B & R Property",
     "wof:parent_id":85885447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.206228,36.072512,-94.206228,36.072512],
+  "bbox": [
+    -94.206228,
+    36.072512,
+    -94.206228,
+    36.072512
+],
   "geometry": {"coordinates":[-94.206228,36.072512],"type":"Point"}
 }

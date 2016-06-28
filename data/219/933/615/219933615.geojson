@@ -2,13 +2,14 @@
   "id": 219933615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.735367,36.08773,-93.735367,36.08773",
     "geom:latitude":36.08773,
     "geom:longitude":-93.735367,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 E War Eagle Ave",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":219933615,
-    "wof:lastmodified":1449071117,
+    "wof:lastmodified":1466325220,
     "wof:name":"Kut Tone-N-Tan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.735367,36.08773,-93.735367,36.08773],
+  "bbox": [
+    -93.735367,
+    36.08773,
+    -93.735367,
+    36.08773
+],
   "geometry": {"coordinates":[-93.735367,36.08773],"type":"Point"}
 }

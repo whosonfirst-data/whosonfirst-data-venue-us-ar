@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102332505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.186642,36.006135,-93.186642,36.006135",
     "geom:latitude":36.006135,
     "geom:longitude":-93.186642,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"503 South St",
     "sg:city":"Jasper",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102332505,
-    "wof:lastmodified":1449069076,
+    "wof:lastmodified":1466323692,
     "wof:name":"Wee Care Childcare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.186642,36.006135,-93.186642,36.006135],
-  "geometry": {"coordinates":[-93.186642,36.006135],"type":"Point"}
+  "bbox": [
+    -93.186642,
+    36.006135,
+    -93.186642,
+    36.006135
+],
+  "geometry": {"coordinates":[-93.18664200000001,36.006135],"type":"Point"}
 }

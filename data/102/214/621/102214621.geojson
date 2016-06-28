@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102214621",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.129912,35.262831,-93.129912,35.262831",
     "geom:latitude":35.262831,
     "geom:longitude":-93.129912,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1706 S Detroit Ave",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837141,
+        85688549,
         85633793,
         85919515,
         102082511,
-        85688549
+        85837141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102214621",
-    "wof:lastmodified":1449070140,
+    "wof:lastmodified":1466321051,
     "wof:name":"Dennis Flynn Carpenter",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.129912,35.262831,-93.129912,35.262831],
+  "bbox": [
+    -93.129912,
+    35.262831,
+    -93.129912,
+    35.262831
+],
   "geometry": {"coordinates":[-93.129912,35.262831],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219638415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.704486,35.846644,-90.704486,35.846644",
     "geom:latitude":35.846644,
     "geom:longitude":-90.704486,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 E Word Ave",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":219638415,
-    "wof:lastmodified":1449070578,
+    "wof:lastmodified":1466324637,
     "wof:name":"Prunty Bail Bonding Inc",
     "wof:parent_id":85836541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "bond"
     ]
 },
-  "bbox": [-90.704486,35.846644,-90.704486,35.846644],
+  "bbox": [
+    -90.704486,
+    35.846644,
+    -90.704486,
+    35.846644
+],
   "geometry": {"coordinates":[-90.704486,35.846644],"type":"Point"}
 }

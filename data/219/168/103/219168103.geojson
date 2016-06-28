@@ -2,13 +2,14 @@
   "id": 219168103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.772759,33.624843,-91.772759,33.624843",
     "geom:latitude":33.624843,
     "geom:longitude":-91.772759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1341 E Jackson Ave",
     "sg:city":"Monticello",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219168103,
-    "wof:lastmodified":1449072224,
+    "wof:lastmodified":1466320535,
     "wof:name":"Carroll Ross Auto Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.772759,33.624843,-91.772759,33.624843],
-  "geometry": {"coordinates":[-91.772759,33.624843],"type":"Point"}
+  "bbox": [
+    -91.772759,
+    33.624843,
+    -91.772759,
+    33.624843
+],
+  "geometry": {"coordinates":[-91.77275899999999,33.624843],"type":"Point"}
 }

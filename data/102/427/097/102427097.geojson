@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102427097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.085884,34.431005,-93.085884,34.431005",
     "geom:latitude":34.431005,
     "geom:longitude":-93.085884,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5200 Central Ave",
     "sg:city":"Hot Springs National Park",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102427097,
-    "wof:lastmodified":1449068505,
+    "wof:lastmodified":1466325442,
     "wof:name":"Gilligans Cafe & Sand Bar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.085884,34.431005,-93.085884,34.431005],
-  "geometry": {"coordinates":[-93.085884,34.431005],"type":"Point"}
+  "bbox": [
+    -93.085884,
+    34.431005,
+    -93.085884,
+    34.431005
+],
+  "geometry": {"coordinates":[-93.08588399999999,34.431005],"type":"Point"}
 }

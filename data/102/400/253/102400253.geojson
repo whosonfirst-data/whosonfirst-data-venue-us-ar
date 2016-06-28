@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102400253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.648485,36.397883,-93.648485,36.397883",
     "geom:latitude":36.397883,
     "geom:longitude":-93.648485,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4004 E Van Buren",
     "sg:city":"Eureka Springs",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":102400253,
-    "wof:lastmodified":1449068029,
+    "wof:lastmodified":1466324693,
     "wof:name":"Yesteryears Antique Mall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.648485,36.397883,-93.648485,36.397883],
-  "geometry": {"coordinates":[-93.648485,36.397883],"type":"Point"}
+  "bbox": [
+    -93.648485,
+    36.397883,
+    -93.648485,
+    36.397883
+],
+  "geometry": {"coordinates":[-93.64848499999999,36.397883],"type":"Point"}
 }

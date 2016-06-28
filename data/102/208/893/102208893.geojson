@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102208893",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.412348,35.327963,-94.412348,35.327963",
     "geom:latitude":35.327963,
     "geom:longitude":-94.412348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2301 Zero St",
     "sg:city":"Fort Smith",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85849681,
+        85688549,
         85633793,
         85921431,
         102082025,
-        85688549
+        85849681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102208893",
-    "wof:lastmodified":1449068082,
+    "wof:lastmodified":1466320957,
     "wof:name":"Smit Co Subs Inc",
     "wof:parent_id":85849681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.412348,35.327963,-94.412348,35.327963],
-  "geometry": {"coordinates":[-94.412348,35.327963],"type":"Point"}
+  "bbox": [
+    -94.412348,
+    35.327963,
+    -94.412348,
+    35.327963
+],
+  "geometry": {"coordinates":[-94.41234799999999,35.327963],"type":"Point"}
 }

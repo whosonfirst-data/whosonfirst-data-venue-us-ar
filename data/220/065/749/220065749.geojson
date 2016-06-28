@@ -2,13 +2,14 @@
   "id": 220065749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.114378,35.277011,-93.114378,35.277011",
     "geom:latitude":35.277011,
     "geom:longitude":-93.114378,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1604 E 2nd St",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":220065749,
-    "wof:lastmodified":1449074871,
+    "wof:lastmodified":1466321168,
     "wof:name":"Glc Appliance Service",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "refinishing"
     ]
 },
-  "bbox": [-93.114378,35.277011,-93.114378,35.277011],
+  "bbox": [
+    -93.114378,
+    35.277011,
+    -93.114378,
+    35.277011
+],
   "geometry": {"coordinates":[-93.114378,35.277011],"type":"Point"}
 }

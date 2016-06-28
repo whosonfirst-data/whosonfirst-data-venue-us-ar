@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102325183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.145621,36.255658,-94.145621,36.255658",
     "geom:latitude":36.255658,
     "geom:longitude":-94.145621,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 N Dixieland Rd",
     "sg:city":"Lowell",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102325183,
-    "wof:lastmodified":1449068705,
+    "wof:lastmodified":1466323531,
     "wof:name":"Lowell The Links At",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.145621,36.255658,-94.145621,36.255658],
-  "geometry": {"coordinates":[-94.145621,36.255658],"type":"Point"}
+  "bbox": [
+    -94.145621,
+    36.255658,
+    -94.145621,
+    36.255658
+],
+  "geometry": {"coordinates":[-94.14562100000001,36.255658],"type":"Point"}
 }

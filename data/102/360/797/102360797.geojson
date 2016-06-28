@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102360797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.430484,36.33042,-93.430484,36.33042",
     "geom:latitude":36.33042,
     "geom:longitude":-93.430484,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 Tulip Ct",
     "sg:city":"Green Forest",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102360797,
-    "wof:lastmodified":1449069643,
+    "wof:lastmodified":1466324315,
     "wof:name":"Green Forest Intermediate Schl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.430484,36.33042,-93.430484,36.33042],
-  "geometry": {"coordinates":[-93.430484,36.33042],"type":"Point"}
+  "bbox": [
+    -93.430484,
+    36.33042,
+    -93.430484,
+    36.33042
+],
+  "geometry": {"coordinates":[-93.43048400000001,36.33042],"type":"Point"}
 }

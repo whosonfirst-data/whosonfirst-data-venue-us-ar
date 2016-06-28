@@ -2,13 +2,14 @@
   "id": 336805455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.373348,35.320268,-94.373348,35.320268",
     "geom:latitude":35.320268,
     "geom:longitude":-94.373348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6501 Fallstone Rd",
     "sg:city":"Fort Smith",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336805455,
-    "wof:lastmodified":1448997298,
+    "wof:lastmodified":1466320438,
     "wof:name":"Moore Business Forms & Systems",
     "wof:parent_id":85849681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "form"
     ]
 },
-  "bbox": [-94.373348,35.320268,-94.373348,35.320268],
-  "geometry": {"coordinates":[-94.373348,35.320268],"type":"Point"}
+  "bbox": [
+    -94.373348,
+    35.320268,
+    -94.373348,
+    35.320268
+],
+  "geometry": {"coordinates":[-94.37334799999999,35.320268],"type":"Point"}
 }

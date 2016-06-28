@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102244903",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.151618,36.136646,-94.151618,36.136646",
     "geom:latitude":36.136646,
     "geom:longitude":-94.151618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"128 San Jose Dr",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885433,
+        85688549,
         85633793,
         85919609,
         102082007,
-        85688549
+        85885433
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102244903",
-    "wof:lastmodified":1449068718,
+    "wof:lastmodified":1466321843,
     "wof:name":"Inches-A-Way",
     "wof:parent_id":85885433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.151618,36.136646,-94.151618,36.136646],
+  "bbox": [
+    -94.151618,
+    36.136646,
+    -94.151618,
+    36.136646
+],
   "geometry": {"coordinates":[-94.151618,36.136646],"type":"Point"}
 }

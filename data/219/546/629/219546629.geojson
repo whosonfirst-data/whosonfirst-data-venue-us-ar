@@ -2,13 +2,14 @@
   "id": 219546629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.959776,34.334892,-91.959776,34.334892",
     "geom:latitude":34.334892,
     "geom:longitude":-91.959776,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2801 Highway 31",
     "sg:city":"Sherrill",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219546629,
-    "wof:lastmodified":1449070373,
+    "wof:lastmodified":1466324305,
     "wof:name":"St Mark Mssnry Chr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "churches-baptist"
     ]
 },
-  "bbox": [-91.959776,34.334892,-91.959776,34.334892],
-  "geometry": {"coordinates":[-91.959776,34.334892],"type":"Point"}
+  "bbox": [
+    -91.959776,
+    34.334892,
+    -91.959776,
+    34.334892
+],
+  "geometry": {"coordinates":[-91.95977600000001,34.334892],"type":"Point"}
 }

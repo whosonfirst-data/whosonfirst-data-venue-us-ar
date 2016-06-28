@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102421535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.589402,33.588025,-93.589402,33.588025",
     "geom:latitude":33.588025,
     "geom:longitude":-93.589402,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"346 Hempstead 142 Rd",
     "sg:city":"Hope",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102421535,
-    "wof:lastmodified":1449069291,
+    "wof:lastmodified":1466325431,
     "wof:name":"Arkansas Vault",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.589402,33.588025,-93.589402,33.588025],
-  "geometry": {"coordinates":[-93.589402,33.588025],"type":"Point"}
+  "bbox": [
+    -93.589402,
+    33.588025,
+    -93.589402,
+    33.588025
+],
+  "geometry": {"coordinates":[-93.58940200000001,33.588025],"type":"Point"}
 }

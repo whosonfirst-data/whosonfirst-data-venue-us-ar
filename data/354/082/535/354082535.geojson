@@ -2,13 +2,14 @@
   "id": 354082535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.623669,35.241074,-94.623669,35.241074",
     "geom:latitude":35.241074,
     "geom:longitude":-94.623669,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 W Broadway",
     "sg:city":"Spiro",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354082535,
-    "wof:lastmodified":1449065984,
+    "wof:lastmodified":1466323309,
     "wof:name":"First Baptist Church",
     "wof:parent_id":85809847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-94.623669,35.241074,-94.623669,35.241074],
-  "geometry": {"coordinates":[-94.623669,35.241074],"type":"Point"}
+  "bbox": [
+    -94.623669,
+    35.241074,
+    -94.623669,
+    35.241074
+],
+  "geometry": {"coordinates":[-94.62366900000001,35.241074],"type":"Point"}
 }

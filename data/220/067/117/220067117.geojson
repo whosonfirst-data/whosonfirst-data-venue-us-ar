@@ -2,13 +2,14 @@
   "id": 220067117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.126825,35.280285,-93.126825,35.280285",
     "geom:latitude":35.280285,
     "geom:longitude":-93.126825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"321 N Frankfort Ave",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220067117,
-    "wof:lastmodified":1449074092,
+    "wof:lastmodified":1466321240,
     "wof:name":"Shelly's Creative Designs",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "producer"
     ]
 },
-  "bbox": [-93.126825,35.280285,-93.126825,35.280285],
+  "bbox": [
+    -93.126825,
+    35.280285,
+    -93.126825,
+    35.280285
+],
   "geometry": {"coordinates":[-93.126825,35.280285],"type":"Point"}
 }

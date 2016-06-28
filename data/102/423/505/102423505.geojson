@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102423505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.223745,36.383049,-94.223745,36.383049",
     "geom:latitude":36.383049,
     "geom:longitude":-94.223745,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1106 NW 10th St",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102423505,
-    "wof:lastmodified":1449068203,
+    "wof:lastmodified":1466325424,
     "wof:name":"Kidz Korner Christian Prschl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.223745,36.383049,-94.223745,36.383049],
-  "geometry": {"coordinates":[-94.223745,36.383049],"type":"Point"}
+  "bbox": [
+    -94.223745,
+    36.383049,
+    -94.223745,
+    36.383049
+],
+  "geometry": {"coordinates":[-94.22374499999999,36.383049],"type":"Point"}
 }

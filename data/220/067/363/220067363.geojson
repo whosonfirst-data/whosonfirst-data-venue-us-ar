@@ -2,13 +2,14 @@
   "id": 220067363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.167213,35.289625,-93.167213,35.289625",
     "geom:latitude":35.289625,
     "geom:longitude":-93.167213,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 W Modesto Ave",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":220067363,
-    "wof:lastmodified":1449074094,
+    "wof:lastmodified":1466321246,
     "wof:name":"Acme Brick Company",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "brick-clay-common"
     ]
 },
-  "bbox": [-93.167213,35.289625,-93.167213,35.289625],
+  "bbox": [
+    -93.167213,
+    35.289625,
+    -93.167213,
+    35.289625
+],
   "geometry": {"coordinates":[-93.167213,35.289625],"type":"Point"}
 }

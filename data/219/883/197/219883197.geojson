@@ -2,13 +2,14 @@
   "id": 219883197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.213378,36.353211,-94.213378,36.353211",
     "geom:latitude":36.353211,
     "geom:longitude":-94.213378,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1703 SW Commerce Dr Ste 1",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219883197,
-    "wof:lastmodified":1449073100,
+    "wof:lastmodified":1466325065,
     "wof:name":"Bradshaw International",
     "wof:parent_id":85895807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "online"
     ]
 },
-  "bbox": [-94.213378,36.353211,-94.213378,36.353211],
-  "geometry": {"coordinates":[-94.213378,36.353211],"type":"Point"}
+  "bbox": [
+    -94.213378,
+    36.353211,
+    -94.213378,
+    36.353211
+],
+  "geometry": {"coordinates":[-94.21337800000001,36.353211],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219474565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.268187,35.650257,-91.268187,35.650257",
     "geom:latitude":35.650257,
     "geom:longitude":-91.268187,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Maple Ln",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219474565,
-    "wof:lastmodified":1449070525,
+    "wof:lastmodified":1466323630,
     "wof:name":"Skelton Electric Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "electric"
     ]
 },
-  "bbox": [-91.268187,35.650257,-91.268187,35.650257],
+  "bbox": [
+    -91.268187,
+    35.650257,
+    -91.268187,
+    35.650257
+],
   "geometry": {"coordinates":[-91.268187,35.650257],"type":"Point"}
 }

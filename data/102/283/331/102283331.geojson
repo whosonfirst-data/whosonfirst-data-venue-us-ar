@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102283331",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.656135,35.854879,-90.656135,35.854879",
     "geom:latitude":35.854879,
     "geom:longitude":-90.656135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1206 Jewell Dr",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102283331",
-    "wof:lastmodified":1449068487,
+    "wof:lastmodified":1466322659,
     "wof:name":"Premier Satellite Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.656135,35.854879,-90.656135,35.854879],
-  "geometry": {"coordinates":[-90.656135,35.854879],"type":"Point"}
+  "bbox": [
+    -90.656135,
+    35.854879,
+    -90.656135,
+    35.854879
+],
+  "geometry": {"coordinates":[-90.65613500000001,35.854879],"type":"Point"}
 }

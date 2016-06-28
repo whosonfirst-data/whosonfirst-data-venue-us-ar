@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102217309",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.978851,35.69768,-89.978851,35.69768",
     "geom:latitude":35.69768,
     "geom:longitude":-89.978851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 W Keiser Ave",
     "sg:city":"Osceola",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102217309",
-    "wof:lastmodified":1449070046,
+    "wof:lastmodified":1466321064,
     "wof:name":"Cullom Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.978851,35.69768,-89.978851,35.69768],
-  "geometry": {"coordinates":[-89.978851,35.69768],"type":"Point"}
+  "bbox": [
+    -89.978851,
+    35.69768,
+    -89.978851,
+    35.69768
+],
+  "geometry": {"coordinates":[-89.97885100000001,35.69768],"type":"Point"}
 }

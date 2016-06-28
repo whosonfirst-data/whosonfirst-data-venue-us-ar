@@ -2,13 +2,14 @@
   "id": 203410541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.945259,33.159457,-91.945259,33.159457",
     "geom:latitude":33.159457,
     "geom:longitude":-91.945259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1247 Highway 133 N",
     "sg:city":"Crossett",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203410541,
-    "wof:lastmodified":1449024967,
+    "wof:lastmodified":1466320540,
     "wof:name":"AM Company Carpet Cleaning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "carpet"
     ]
 },
-  "bbox": [-91.945259,33.159457,-91.945259,33.159457],
-  "geometry": {"coordinates":[-91.945259,33.159457],"type":"Point"}
+  "bbox": [
+    -91.945259,
+    33.159457,
+    -91.945259,
+    33.159457
+],
+  "geometry": {"coordinates":[-91.94525899999999,33.159457],"type":"Point"}
 }

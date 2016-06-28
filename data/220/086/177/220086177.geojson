@@ -2,13 +2,14 @@
   "id": 220086177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.112163,35.383675,-93.112163,35.383675",
     "geom:latitude":35.383675,
     "geom:longitude":-93.112163,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8455 Market St",
     "sg:city":"Dover",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220086177,
-    "wof:lastmodified":1449074596,
+    "wof:lastmodified":1466321801,
     "wof:name":"Hay Utley & Feed Co",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "feed"
     ]
 },
-  "bbox": [-93.112163,35.383675,-93.112163,35.383675],
+  "bbox": [
+    -93.112163,
+    35.383675,
+    -93.112163,
+    35.383675
+],
   "geometry": {"coordinates":[-93.112163,35.383675],"type":"Point"}
 }

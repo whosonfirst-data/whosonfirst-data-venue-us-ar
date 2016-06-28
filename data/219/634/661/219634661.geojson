@@ -2,13 +2,14 @@
   "id": 219634661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.671411,35.828377,-90.671411,35.828377",
     "geom:latitude":35.828377,
     "geom:longitude":-90.671411,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2729 E Nettleton Ave",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219634661,
-    "wof:lastmodified":1449072078,
+    "wof:lastmodified":1466324642,
     "wof:name":"Jonesboro Studio Of Dance",
     "wof:parent_id":85836541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dancing"
     ]
 },
-  "bbox": [-90.671411,35.828377,-90.671411,35.828377],
-  "geometry": {"coordinates":[-90.671411,35.828377],"type":"Point"}
+  "bbox": [
+    -90.671411,
+    35.828377,
+    -90.671411,
+    35.828377
+],
+  "geometry": {"coordinates":[-90.67141100000001,35.828377],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102276111",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.133797,35.272229,-93.133797,35.272229",
     "geom:latitude":35.272229,
     "geom:longitude":-93.133797,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"715 S Arkansas Ave",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837141,
+        85688549,
         85633793,
         85919515,
         102082511,
-        85688549
+        85837141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102276111",
-    "wof:lastmodified":1449067868,
+    "wof:lastmodified":1466322459,
     "wof:name":"Cattle Line Bbq",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.133797,35.272229,-93.133797,35.272229],
+  "bbox": [
+    -93.133797,
+    35.272229,
+    -93.133797,
+    35.272229
+],
   "geometry": {"coordinates":[-93.133797,35.272229],"type":"Point"}
 }

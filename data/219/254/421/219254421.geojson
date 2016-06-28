@@ -2,13 +2,14 @@
   "id": 219254421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.975053,33.361595,-93.975053,33.361595",
     "geom:latitude":33.361595,
     "geom:longitude":-93.975053,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6341 Old Salem Rd",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219254421,
-    "wof:lastmodified":1449072814,
+    "wof:lastmodified":1466321364,
     "wof:name":"P And R Tree Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-93.975053,33.361595,-93.975053,33.361595],
+  "bbox": [
+    -93.975053,
+    33.361595,
+    -93.975053,
+    33.361595
+],
   "geometry": {"coordinates":[-93.975053,33.361595],"type":"Point"}
 }

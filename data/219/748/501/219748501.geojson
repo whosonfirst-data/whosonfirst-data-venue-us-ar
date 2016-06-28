@@ -2,13 +2,14 @@
   "id": 219748501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.830903,36.367871,-91.830903,36.367871",
     "geom:latitude":36.367871,
     "geom:longitude":-91.830903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"230 Byron Rd",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219748501,
-    "wof:lastmodified":1449073049,
+    "wof:lastmodified":1466324910,
     "wof:name":"Fulton County Farm Bureau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "farm"
     ]
 },
-  "bbox": [-91.830903,36.367871,-91.830903,36.367871],
-  "geometry": {"coordinates":[-91.830903,36.367871],"type":"Point"}
+  "bbox": [
+    -91.830903,
+    36.367871,
+    -91.830903,
+    36.367871
+],
+  "geometry": {"coordinates":[-91.83090300000001,36.367871],"type":"Point"}
 }

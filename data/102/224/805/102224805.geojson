@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102224805",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.709933,35.845367,-90.709933,35.845367",
     "geom:latitude":35.845367,
     "geom:longitude":-90.709933,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"516 W Johnson Ave",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102224805",
-    "wof:lastmodified":1449069563,
+    "wof:lastmodified":1466321340,
     "wof:name":"Arkansas Glass Container Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.709933,35.845367,-90.709933,35.845367],
-  "geometry": {"coordinates":[-90.709933,35.845367],"type":"Point"}
+  "bbox": [
+    -90.709933,
+    35.845367,
+    -90.709933,
+    35.845367
+],
+  "geometry": {"coordinates":[-90.70993300000001,35.845367],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102347225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.096033,34.034263,-93.096033,34.034263",
     "geom:latitude":34.034263,
     "geom:longitude":-93.096033,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"496 Richwoods Rd",
     "sg:city":"Arkadelphia",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102347225,
-    "wof:lastmodified":1449068929,
+    "wof:lastmodified":1466323968,
     "wof:name":"Richwoods Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.096033,34.034263,-93.096033,34.034263],
-  "geometry": {"coordinates":[-93.096033,34.034263],"type":"Point"}
+  "bbox": [
+    -93.096033,
+    34.034263,
+    -93.096033,
+    34.034263
+],
+  "geometry": {"coordinates":[-93.09603300000001,34.034263],"type":"Point"}
 }

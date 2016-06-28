@@ -2,13 +2,14 @@
   "id": 219394043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.387111,35.090703,-92.387111,35.090703",
     "geom:latitude":35.090703,
     "geom:longitude":-92.387111,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 Highway 64 E",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":219394043,
-    "wof:lastmodified":1449071080,
+    "wof:lastmodified":1466322798,
     "wof:name":"Shortys Transmission DBA/Budget Truck Rental",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "moving"
     ]
 },
-  "bbox": [-92.387111,35.090703,-92.387111,35.090703],
+  "bbox": [
+    -92.387111,
+    35.090703,
+    -92.387111,
+    35.090703
+],
   "geometry": {"coordinates":[-92.387111,35.090703],"type":"Point"}
 }

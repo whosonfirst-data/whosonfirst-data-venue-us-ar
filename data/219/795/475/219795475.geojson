@@ -2,13 +2,14 @@
   "id": 219795475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.547745,36.267882,-92.547745,36.267882",
     "geom:latitude":36.267882,
     "geom:longitude":-92.547745,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10413 Highway 62 E",
     "sg:city":"Flippin",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":219795475,
-    "wof:lastmodified":1449072475,
+    "wof:lastmodified":1466325023,
     "wof:name":"Gift-Tiques",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-92.547745,36.267882,-92.547745,36.267882],
-  "geometry": {"coordinates":[-92.547745,36.267882],"type":"Point"}
+  "bbox": [
+    -92.547745,
+    36.267882,
+    -92.547745,
+    36.267882
+],
+  "geometry": {"coordinates":[-92.54774500000001,36.267882],"type":"Point"}
 }

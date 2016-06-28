@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102285395",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.428327,34.773148,-92.428327,34.773148",
     "geom:latitude":34.773148,
     "geom:longitude":-92.428327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2006 Beckenham Cove",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852843,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85852843
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102285395",
-    "wof:lastmodified":1449067837,
+    "wof:lastmodified":1466322732,
     "wof:name":"Moore Computing Services",
     "wof:parent_id":85852843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.428327,34.773148,-92.428327,34.773148],
+  "bbox": [
+    -92.428327,
+    34.773148,
+    -92.428327,
+    34.773148
+],
   "geometry": {"coordinates":[-92.428327,34.773148],"type":"Point"}
 }

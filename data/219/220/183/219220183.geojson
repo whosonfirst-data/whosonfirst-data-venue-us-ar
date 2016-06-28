@@ -2,13 +2,14 @@
   "id": 219220183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.715697,33.35163,-92.715697,33.35163",
     "geom:latitude":33.35163,
     "geom:longitude":-92.715697,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"173 Union Road 360",
     "sg:city":"Smackover",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219220183,
-    "wof:lastmodified":1449073789,
+    "wof:lastmodified":1466321045,
     "wof:name":"Michael P Pearson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.715697,33.35163,-92.715697,33.35163],
-  "geometry": {"coordinates":[-92.715697,33.35163],"type":"Point"}
+  "bbox": [
+    -92.715697,
+    33.35163,
+    -92.715697,
+    33.35163
+],
+  "geometry": {"coordinates":[-92.71569700000001,33.35163],"type":"Point"}
 }

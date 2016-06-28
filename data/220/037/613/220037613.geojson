@@ -2,13 +2,14 @@
   "id": 220037613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.139503,36.181499,-94.139503,36.181499",
     "geom:latitude":36.181499,
     "geom:longitude":-94.139503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1008 W Maple Ave",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220037613,
-    "wof:lastmodified":1449074894,
+    "wof:lastmodified":1466320536,
     "wof:name":"Lundeen Robt D DC",
     "wof:parent_id":85885485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.139503,36.181499,-94.139503,36.181499],
+  "bbox": [
+    -94.139503,
+    36.181499,
+    -94.139503,
+    36.181499
+],
   "geometry": {"coordinates":[-94.139503,36.181499],"type":"Point"}
 }

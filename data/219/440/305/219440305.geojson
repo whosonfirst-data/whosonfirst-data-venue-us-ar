@@ -2,13 +2,14 @@
   "id": 219440305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.198593,34.864107,-92.198593,34.864107",
     "geom:latitude":34.864107,
     "geom:longitude":-92.198593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14106 Highway 107",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -73,10 +74,11 @@
         }
     ],
     "wof:id":219440305,
-    "wof:lastmodified":1449071635,
+    "wof:lastmodified":1466323246,
     "wof:name":"Gregory Polaris",
     "wof:parent_id":85837729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -89,6 +91,11 @@
         "utility"
     ]
 },
-  "bbox": [-92.198593,34.864107,-92.198593,34.864107],
+  "bbox": [
+    -92.198593,
+    34.864107,
+    -92.198593,
+    34.864107
+],
   "geometry": {"coordinates":[-92.198593,34.864107],"type":"Point"}
 }

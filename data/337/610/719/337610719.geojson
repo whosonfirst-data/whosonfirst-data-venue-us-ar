@@ -2,13 +2,14 @@
   "id": 337610719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.237937,34.584522,-94.237937,34.584522",
     "geom:latitude":34.584522,
     "geom:longitude":-94.237937,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"602 Dequeen St",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":337610719,
-    "wof:lastmodified":1449027726,
+    "wof:lastmodified":1466324510,
     "wof:name":"Martin Title & Closing Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "title"
     ]
 },
-  "bbox": [-94.237937,34.584522,-94.237937,34.584522],
+  "bbox": [
+    -94.237937,
+    34.584522,
+    -94.237937,
+    34.584522
+],
   "geometry": {"coordinates":[-94.237937,34.584522],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219206653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.231893,33.264899,-93.231893,33.264899",
     "geom:latitude":33.264899,
     "geom:longitude":-93.231893,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"303 Norma",
     "sg:city":"Magnolia",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":219206653,
-    "wof:lastmodified":1449072780,
+    "wof:lastmodified":1466320926,
     "wof:name":"Andy Garcia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "stock"
     ]
 },
-  "bbox": [-93.231893,33.264899,-93.231893,33.264899],
+  "bbox": [
+    -93.231893,
+    33.264899,
+    -93.231893,
+    33.264899
+],
   "geometry": {"coordinates":[-93.231893,33.264899],"type":"Point"}
 }

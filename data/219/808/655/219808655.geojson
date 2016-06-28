@@ -2,13 +2,14 @@
   "id": 219808655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.685792,36.225378,-92.685792,36.225378",
     "geom:latitude":36.225378,
     "geom:longitude":-92.685792,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 W Old Main St",
     "sg:city":"Yellville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219808655,
-    "wof:lastmodified":1449070544,
+    "wof:lastmodified":1466324960,
     "wof:name":"Carter Law Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "practice"
     ]
 },
-  "bbox": [-92.685792,36.225378,-92.685792,36.225378],
-  "geometry": {"coordinates":[-92.685792,36.225378],"type":"Point"}
+  "bbox": [
+    -92.685792,
+    36.225378,
+    -92.685792,
+    36.225378
+],
+  "geometry": {"coordinates":[-92.68579200000001,36.225378],"type":"Point"}
 }

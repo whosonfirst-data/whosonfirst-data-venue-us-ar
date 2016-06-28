@@ -2,13 +2,14 @@
   "id": 219329547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.842176,34.313584,-91.842176,34.313584",
     "geom:latitude":34.313584,
     "geom:longitude":-91.842176,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"213 S Division",
     "sg:city":"Altheimer",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219329547,
-    "wof:lastmodified":1449071384,
+    "wof:lastmodified":1466321986,
     "wof:name":"Altheimer Apts.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-91.842176,34.313584,-91.842176,34.313584],
-  "geometry": {"coordinates":[-91.842176,34.313584],"type":"Point"}
+  "bbox": [
+    -91.842176,
+    34.313584,
+    -91.842176,
+    34.313584
+],
+  "geometry": {"coordinates":[-91.84217599999999,34.313584],"type":"Point"}
 }

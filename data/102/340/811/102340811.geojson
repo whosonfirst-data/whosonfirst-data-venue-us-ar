@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102340811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.550986,34.790206,-92.550986,34.790206",
     "geom:latitude":34.790206,
     "geom:longitude":-92.550986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3614 Garrison Rd",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102340811,
-    "wof:lastmodified":1449069645,
+    "wof:lastmodified":1466323909,
     "wof:name":"Fineline Typesetting & Graphic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.550986,34.790206,-92.550986,34.790206],
-  "geometry": {"coordinates":[-92.550986,34.790206],"type":"Point"}
+  "bbox": [
+    -92.550986,
+    34.790206,
+    -92.550986,
+    34.790206
+],
+  "geometry": {"coordinates":[-92.55098599999999,34.790206],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219554709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.558388,34.481556,-91.558388,34.481556",
     "geom:latitude":34.481556,
     "geom:longitude":-91.558388,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2110 S Buerkle St",
     "sg:city":"Stuttgart",
     "sg:classifiers":[
@@ -82,10 +83,11 @@
         }
     ],
     "wof:id":219554709,
-    "wof:lastmodified":1449071123,
+    "wof:lastmodified":1466324368,
     "wof:name":"Belk",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -103,6 +105,11 @@
         "glassware"
     ]
 },
-  "bbox": [-91.558388,34.481556,-91.558388,34.481556],
-  "geometry": {"coordinates":[-91.558388,34.481556],"type":"Point"}
+  "bbox": [
+    -91.558388,
+    34.481556,
+    -91.558388,
+    34.481556
+],
+  "geometry": {"coordinates":[-91.55838799999999,34.481556],"type":"Point"}
 }

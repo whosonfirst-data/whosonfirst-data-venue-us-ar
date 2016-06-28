@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102374041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.176055,35.336372,-94.176055,35.336372",
     "geom:latitude":35.336372,
     "geom:longitude":-94.176055,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"304 W Main St",
     "sg:city":"Lavaca",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102374041,
-    "wof:lastmodified":1449068811,
+    "wof:lastmodified":1466320846,
     "wof:name":"Lavaca Quick Stop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.176055,35.336372,-94.176055,35.336372],
-  "geometry": {"coordinates":[-94.176055,35.336372],"type":"Point"}
+  "bbox": [
+    -94.176055,
+    35.336372,
+    -94.176055,
+    35.336372
+],
+  "geometry": {"coordinates":[-94.17605500000001,35.336372],"type":"Point"}
 }

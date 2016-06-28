@@ -2,13 +2,14 @@
   "id": 219177797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.040505,33.991221,-92.040505,33.991221",
     "geom:latitude":33.991221,
     "geom:longitude":-92.040505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5410 Highway 63",
     "sg:city":"Rison",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219177797,
-    "wof:lastmodified":1449073916,
+    "wof:lastmodified":1466320609,
     "wof:name":"Sweet Deals Travels",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "services-commercial"
     ]
 },
-  "bbox": [-92.040505,33.991221,-92.040505,33.991221],
+  "bbox": [
+    -92.040505,
+    33.991221,
+    -92.040505,
+    33.991221
+],
   "geometry": {"coordinates":[-92.040505,33.991221],"type":"Point"}
 }

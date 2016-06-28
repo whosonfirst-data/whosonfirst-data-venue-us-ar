@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102389971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.727195,35.627966,-93.727195,35.627966",
     "geom:latitude":35.627966,
     "geom:longitude":-93.727195,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17340 Pink Twist Rd",
     "sg:city":"Ozark",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102389971,
-    "wof:lastmodified":1449069693,
+    "wof:lastmodified":1466324138,
     "wof:name":"Dutton Upholstery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.727195,35.627966,-93.727195,35.627966],
-  "geometry": {"coordinates":[-93.727195,35.627966],"type":"Point"}
+  "bbox": [
+    -93.727195,
+    35.627966,
+    -93.727195,
+    35.627966
+],
+  "geometry": {"coordinates":[-93.72719499999999,35.627966],"type":"Point"}
 }

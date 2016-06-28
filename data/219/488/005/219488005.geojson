@@ -2,13 +2,14 @@
   "id": 219488005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.231254,34.829432,-92.231254,34.829432",
     "geom:latitude":34.829432,
     "geom:longitude":-92.231254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8203 Highway 107",
     "sg:city":"Sherwood",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":219488005,
-    "wof:lastmodified":1449073822,
+    "wof:lastmodified":1466323807,
     "wof:name":"Sherwood Tire Pros",
     "wof:parent_id":85851723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-92.231254,34.829432,-92.231254,34.829432],
-  "geometry": {"coordinates":[-92.231254,34.829432],"type":"Point"}
+  "bbox": [
+    -92.231254,
+    34.829432,
+    -92.231254,
+    34.829432
+],
+  "geometry": {"coordinates":[-92.23125400000001,34.829432],"type":"Point"}
 }

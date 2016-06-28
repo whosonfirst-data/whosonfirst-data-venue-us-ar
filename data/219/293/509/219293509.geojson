@@ -2,13 +2,14 @@
   "id": 219293509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.493225,33.965384,-93.493225,33.965384",
     "geom:latitude":33.965384,
     "geom:longitude":-93.493225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Bowen Rd",
     "sg:city":"Delight",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219293509,
-    "wof:lastmodified":1449071085,
+    "wof:lastmodified":1466321676,
     "wof:name":"Matt Henderson Logging In",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "logging"
     ]
 },
-  "bbox": [-93.493225,33.965384,-93.493225,33.965384],
+  "bbox": [
+    -93.493225,
+    33.965384,
+    -93.493225,
+    33.965384
+],
   "geometry": {"coordinates":[-93.493225,33.965384],"type":"Point"}
 }

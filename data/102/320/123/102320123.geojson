@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102320123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.350226,34.286582,-91.350226,34.286582",
     "geom:latitude":34.286582,
     "geom:longitude":-91.350226,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"775 S US Hwy 165",
     "sg:city":"De Witt",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102320123,
-    "wof:lastmodified":1449068397,
+    "wof:lastmodified":1466323360,
     "wof:name":"De WITT Welding Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.350226,34.286582,-91.350226,34.286582],
-  "geometry": {"coordinates":[-91.350226,34.286582],"type":"Point"}
+  "bbox": [
+    -91.350226,
+    34.286582,
+    -91.350226,
+    34.286582
+],
+  "geometry": {"coordinates":[-91.35022600000001,34.286582],"type":"Point"}
 }

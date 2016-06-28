@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102331461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.206096,36.106449,-94.206096,36.106449",
     "geom:latitude":36.106449,
     "geom:longitude":-94.206096,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2993 N Apatite Dr",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885457,
+        85688549,
         85633793,
         85919609,
         102082007,
-        85688549
+        85885457
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102331461,
-    "wof:lastmodified":1449069211,
+    "wof:lastmodified":1466323646,
     "wof:name":"Still & Smith Properties LLC",
     "wof:parent_id":85885457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.206096,36.106449,-94.206096,36.106449],
+  "bbox": [
+    -94.206096,
+    36.106449,
+    -94.206096,
+    36.106449
+],
   "geometry": {"coordinates":[-94.206096,36.106449],"type":"Point"}
 }

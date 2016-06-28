@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102363505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.08219,34.852117,-92.08219,34.852117",
     "geom:latitude":34.852117,
     "geom:longitude":-92.08219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4071 State Hwy 294",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":102363505,
-    "wof:lastmodified":1449069888,
+    "wof:lastmodified":1466324314,
     "wof:name":"In & Out Convenience Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.08219,34.852117,-92.08219,34.852117],
+  "bbox": [
+    -92.08219,
+    34.852117,
+    -92.08219,
+    34.852117
+],
   "geometry": {"coordinates":[-92.08219,34.852117],"type":"Point"}
 }

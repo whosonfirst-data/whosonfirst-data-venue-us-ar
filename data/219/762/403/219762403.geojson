@@ -2,13 +2,14 @@
   "id": 219762403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.114364,36.246969,-93.114364,36.246969",
     "geom:latitude":36.246969,
     "geom:longitude":-93.114364,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1411 Highway 62 65 N 65 N 65",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219762403,
-    "wof:lastmodified":1449072890,
+    "wof:lastmodified":1466324917,
     "wof:name":"Pressing Matters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "alterations-clothing"
     ]
 },
-  "bbox": [-93.114364,36.246969,-93.114364,36.246969],
-  "geometry": {"coordinates":[-93.114364,36.246969],"type":"Point"}
+  "bbox": [
+    -93.114364,
+    36.246969,
+    -93.114364,
+    36.246969
+],
+  "geometry": {"coordinates":[-93.11436399999999,36.246969],"type":"Point"}
 }

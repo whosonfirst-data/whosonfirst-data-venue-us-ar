@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102342895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.599854,33.486402,-93.599854,33.486402",
     "geom:latitude":33.486402,
     "geom:longitude":-93.599854,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"182 Hempstead 145 Rd",
     "sg:city":"Hope",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102342895,
-    "wof:lastmodified":1449070009,
+    "wof:lastmodified":1466323943,
     "wof:name":"CMS Wireless",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.599854,33.486402,-93.599854,33.486402],
-  "geometry": {"coordinates":[-93.599854,33.486402],"type":"Point"}
+  "bbox": [
+    -93.599854,
+    33.486402,
+    -93.599854,
+    33.486402
+],
+  "geometry": {"coordinates":[-93.59985399999999,33.486402],"type":"Point"}
 }

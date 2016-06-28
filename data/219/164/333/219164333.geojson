@@ -2,13 +2,14 @@
   "id": 219164333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.807725,33.705901,-91.807725,33.705901",
     "geom:latitude":33.705901,
     "geom:longitude":-91.807725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2206 Highway 425 N",
     "sg:city":"Monticello",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219164333,
-    "wof:lastmodified":1449070811,
+    "wof:lastmodified":1466320504,
     "wof:name":"Forrest Electrical Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "electric"
     ]
 },
-  "bbox": [-91.807725,33.705901,-91.807725,33.705901],
+  "bbox": [
+    -91.807725,
+    33.705901,
+    -91.807725,
+    33.705901
+],
   "geometry": {"coordinates":[-91.807725,33.705901],"type":"Point"}
 }

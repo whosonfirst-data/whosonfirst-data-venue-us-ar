@@ -2,13 +2,14 @@
   "id": 219757861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.152194,36.247894,-93.152194,36.247894",
     "geom:latitude":36.247894,
     "geom:longitude":-93.152194,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2371 Highway 397 S",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219757861,
-    "wof:lastmodified":1449072370,
+    "wof:lastmodified":1466324851,
     "wof:name":"Joe Melton Dvm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "specialty"
     ]
 },
-  "bbox": [-93.152194,36.247894,-93.152194,36.247894],
-  "geometry": {"coordinates":[-93.152194,36.247894],"type":"Point"}
+  "bbox": [
+    -93.152194,
+    36.247894,
+    -93.152194,
+    36.247894
+],
+  "geometry": {"coordinates":[-93.15219399999999,36.247894],"type":"Point"}
 }

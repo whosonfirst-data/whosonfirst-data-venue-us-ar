@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102315973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.680275,33.207566,-92.680275,33.207566",
     "geom:latitude":33.207566,
     "geom:longitude":-92.680275,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 W Hillsboro St",
     "sg:city":"El Dorado",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102315973,
-    "wof:lastmodified":1449070077,
+    "wof:lastmodified":1466323486,
     "wof:name":"Chick-A-Dilly",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.680275,33.207566,-92.680275,33.207566],
-  "geometry": {"coordinates":[-92.680275,33.207566],"type":"Point"}
+  "bbox": [
+    -92.680275,
+    33.207566,
+    -92.680275,
+    33.207566
+],
+  "geometry": {"coordinates":[-92.68027499999999,33.207566],"type":"Point"}
 }

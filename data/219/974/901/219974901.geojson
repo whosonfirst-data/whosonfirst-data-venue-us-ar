@@ -2,13 +2,14 @@
   "id": 219974901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.062917,36.353324,-94.062917,36.353324",
     "geom:latitude":36.353324,
     "geom:longitude":-94.062917,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9605 Summers Rd",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219974901,
-    "wof:lastmodified":1449073449,
+    "wof:lastmodified":1466325230,
     "wof:name":"Open Air Theater",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-94.062917,36.353324,-94.062917,36.353324],
+  "bbox": [
+    -94.062917,
+    36.353324,
+    -94.062917,
+    36.353324
+],
   "geometry": {"coordinates":[-94.062917,36.353324],"type":"Point"}
 }

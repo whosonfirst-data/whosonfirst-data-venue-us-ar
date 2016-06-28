@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102332591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.135331,36.213935,-94.135331,36.213935",
     "geom:latitude":36.213935,
     "geom:longitude":-94.135331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"783 W Morris Ave",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102332591,
-    "wof:lastmodified":1449069075,
+    "wof:lastmodified":1466323710,
     "wof:name":"Dixie Excavation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.135331,36.213935,-94.135331,36.213935],
-  "geometry": {"coordinates":[-94.135331,36.213935],"type":"Point"}
+  "bbox": [
+    -94.135331,
+    36.213935,
+    -94.135331,
+    36.213935
+],
+  "geometry": {"coordinates":[-94.13533099999999,36.213935],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219613505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.358704,35.482841,-90.358704,35.482841",
     "geom:latitude":35.482841,
     "geom:longitude":-90.358704,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 School St",
     "sg:city":"Tyronza",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219613505,
-    "wof:lastmodified":1449072039,
+    "wof:lastmodified":1466324828,
     "wof:name":"Turrell Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "elementary"
     ]
 },
-  "bbox": [-90.358704,35.482841,-90.358704,35.482841],
+  "bbox": [
+    -90.358704,
+    35.482841,
+    -90.358704,
+    35.482841
+],
   "geometry": {"coordinates":[-90.358704,35.482841],"type":"Point"}
 }

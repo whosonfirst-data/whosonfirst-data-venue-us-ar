@@ -2,13 +2,14 @@
   "id": 219400283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.440696,35.087973,-92.440696,35.087973",
     "geom:latitude":35.087973,
     "geom:longitude":-92.440696,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"707 Parkway St Suite 102",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":219400283,
-    "wof:lastmodified":1449070735,
+    "wof:lastmodified":1466322850,
     "wof:name":"Conway Title Services Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "escrow"
     ]
 },
-  "bbox": [-92.440696,35.087973,-92.440696,35.087973],
+  "bbox": [
+    -92.440696,
+    35.087973,
+    -92.440696,
+    35.087973
+],
   "geometry": {"coordinates":[-92.440696,35.087973],"type":"Point"}
 }

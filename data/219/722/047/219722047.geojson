@@ -2,13 +2,14 @@
   "id": 219722047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.504605,35.601516,-90.504605,35.601516",
     "geom:latitude":35.601516,
     "geom:longitude":-90.504605,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28999 Highway 214 E",
     "sg:city":"Trumann",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219722047,
-    "wof:lastmodified":1449071629,
+    "wof:lastmodified":1466324828,
     "wof:name":"Victory Television Network",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "film"
     ]
 },
-  "bbox": [-90.504605,35.601516,-90.504605,35.601516],
+  "bbox": [
+    -90.504605,
+    35.601516,
+    -90.504605,
+    35.601516
+],
   "geometry": {"coordinates":[-90.504605,35.601516],"type":"Point"}
 }

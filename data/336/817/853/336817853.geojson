@@ -2,13 +2,14 @@
   "id": 336817853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.544598,36.177583,-94.544598,36.177583",
     "geom:latitude":36.177583,
     "geom:longitude":-94.544598,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"825 S Maple St",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336817853,
-    "wof:lastmodified":1448997820,
+    "wof:lastmodified":1466320442,
     "wof:name":"Southside West Elem School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.544598,36.177583,-94.544598,36.177583],
-  "geometry": {"coordinates":[-94.544598,36.177583],"type":"Point"}
+  "bbox": [
+    -94.544598,
+    36.177583,
+    -94.544598,
+    36.177583
+],
+  "geometry": {"coordinates":[-94.54459799999999,36.177583],"type":"Point"}
 }

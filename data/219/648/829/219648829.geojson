@@ -2,13 +2,14 @@
   "id": 219648829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.752556,35.806561,-90.752556,35.806561",
     "geom:latitude":35.806561,
     "geom:longitude":-90.752556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3120 Woodsprings Rd",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219648829,
-    "wof:lastmodified":1449071372,
+    "wof:lastmodified":1466324713,
     "wof:name":"Arkansas Rice Management Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rice"
     ]
 },
-  "bbox": [-90.752556,35.806561,-90.752556,35.806561],
+  "bbox": [
+    -90.752556,
+    35.806561,
+    -90.752556,
+    35.806561
+],
   "geometry": {"coordinates":[-90.752556,35.806561],"type":"Point"}
 }

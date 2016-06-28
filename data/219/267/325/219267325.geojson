@@ -2,13 +2,14 @@
   "id": 219267325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.040396,33.442977,-94.040396,33.442977",
     "geom:latitude":33.442977,
     "geom:longitude":-94.040396,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2108 Ash St",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219267325,
-    "wof:lastmodified":1449073596,
+    "wof:lastmodified":1466321463,
     "wof:name":"Lester Realty Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "broker"
     ]
 },
-  "bbox": [-94.040396,33.442977,-94.040396,33.442977],
+  "bbox": [
+    -94.040396,
+    33.442977,
+    -94.040396,
+    33.442977
+],
   "geometry": {"coordinates":[-94.040396,33.442977],"type":"Point"}
 }

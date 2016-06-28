@@ -2,13 +2,14 @@
   "id": 219436257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.11599,34.867142,-92.11599,34.867142",
     "geom:latitude":34.867142,
     "geom:longitude":-92.11599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"602 W Main St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219436257,
-    "wof:lastmodified":1449073578,
+    "wof:lastmodified":1466323172,
     "wof:name":"Bond And Chamberlin Trial Lawyers",
     "wof:parent_id":85852337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "plan"
     ]
 },
-  "bbox": [-92.11599,34.867142,-92.11599,34.867142],
+  "bbox": [
+    -92.11599,
+    34.867142,
+    -92.11599,
+    34.867142
+],
   "geometry": {"coordinates":[-92.11599,34.867142],"type":"Point"}
 }

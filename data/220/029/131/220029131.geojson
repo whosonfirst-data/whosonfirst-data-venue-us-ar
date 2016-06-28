@@ -2,13 +2,14 @@
   "id": 220029131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.149457,36.22902,-94.149457,36.22902",
     "geom:latitude":36.22902,
     "geom:longitude":-94.149457,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1720 Graham Rd",
     "sg:city":"Bethel Heights",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220029131,
-    "wof:lastmodified":1449074380,
+    "wof:lastmodified":1466320506,
     "wof:name":"Atlas Auto Recovery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "part"
     ]
 },
-  "bbox": [-94.149457,36.22902,-94.149457,36.22902],
+  "bbox": [
+    -94.149457,
+    36.22902,
+    -94.149457,
+    36.22902
+],
   "geometry": {"coordinates":[-94.149457,36.22902],"type":"Point"}
 }

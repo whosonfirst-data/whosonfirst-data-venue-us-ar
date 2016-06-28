@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102406137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.458576,36.336716,-94.458576,36.336716",
     "geom:latitude":36.336716,
     "geom:longitude":-94.458576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 Maple Ave",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102406137,
-    "wof:lastmodified":1449069041,
+    "wof:lastmodified":1466324941,
     "wof:name":"Decatur City Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.458576,36.336716,-94.458576,36.336716],
-  "geometry": {"coordinates":[-94.458576,36.336716],"type":"Point"}
+  "bbox": [
+    -94.458576,
+    36.336716,
+    -94.458576,
+    36.336716
+],
+  "geometry": {"coordinates":[-94.45857599999999,36.336716],"type":"Point"}
 }

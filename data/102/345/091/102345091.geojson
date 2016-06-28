@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102345091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.327109,34.295002,-91.327109,34.295002",
     "geom:latitude":34.295002,
     "geom:longitude":-91.327109,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"704 E Cross St",
     "sg:city":"De Witt",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102345091,
-    "wof:lastmodified":1449069996,
+    "wof:lastmodified":1466323884,
     "wof:name":"Ken Daniels Rev & Mattie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.327109,34.295002,-91.327109,34.295002],
-  "geometry": {"coordinates":[-91.327109,34.295002],"type":"Point"}
+  "bbox": [
+    -91.327109,
+    34.295002,
+    -91.327109,
+    34.295002
+],
+  "geometry": {"coordinates":[-91.32710899999999,34.295002],"type":"Point"}
 }

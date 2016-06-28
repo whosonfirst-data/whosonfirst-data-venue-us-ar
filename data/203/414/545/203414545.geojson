@@ -2,13 +2,14 @@
   "id": 203414545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.479393,33.877708,-91.479393,33.877708",
     "geom:latitude":33.877708,
     "geom:longitude":-91.479393,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 Meador Dr",
     "sg:city":"Dumas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203414545,
-    "wof:lastmodified":1449025803,
+    "wof:lastmodified":1466320553,
     "wof:name":"Shelter Financial Services Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "business"
     ]
 },
-  "bbox": [-91.479393,33.877708,-91.479393,33.877708],
+  "bbox": [
+    -91.479393,
+    33.877708,
+    -91.479393,
+    33.877708
+],
   "geometry": {"coordinates":[-91.479393,33.877708],"type":"Point"}
 }

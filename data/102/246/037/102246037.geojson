@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102246037",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.288945,34.790678,-92.288945,34.790678",
     "geom:latitude":34.790678,
     "geom:longitude":-92.288945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2100 W 38th St",
     "sg:city":"N Little Rock",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837877,
+        85688549,
         85633793,
         85921255,
         102082497,
-        85688549
+        85837877
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102246037",
-    "wof:lastmodified":1449067951,
+    "wof:lastmodified":1466321691,
     "wof:name":"Custom 1 Paint & Body Shop",
     "wof:parent_id":85837877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.288945,34.790678,-92.288945,34.790678],
+  "bbox": [
+    -92.288945,
+    34.790678,
+    -92.288945,
+    34.790678
+],
   "geometry": {"coordinates":[-92.288945,34.790678],"type":"Point"}
 }

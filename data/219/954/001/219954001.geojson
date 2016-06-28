@@ -2,13 +2,14 @@
   "id": 219954001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.093605,36.381694,-94.093605,36.381694",
     "geom:latitude":36.381694,
     "geom:longitude":-94.093605,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4430 NE Hudson Rd",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219954001,
-    "wof:lastmodified":1449073460,
+    "wof:lastmodified":1466325113,
     "wof:name":"Diamond Auto Sales",
     "wof:parent_id":85895859,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "cars-wholesale"
     ]
 },
-  "bbox": [-94.093605,36.381694,-94.093605,36.381694],
+  "bbox": [
+    -94.093605,
+    36.381694,
+    -94.093605,
+    36.381694
+],
   "geometry": {"coordinates":[-94.093605,36.381694],"type":"Point"}
 }

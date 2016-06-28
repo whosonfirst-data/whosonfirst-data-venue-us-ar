@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102436905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.134476,35.974193,-94.134476,35.974193",
     "geom:latitude":35.974193,
     "geom:longitude":-94.134476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13137 Wallin Mountain Rd",
     "sg:city":"West Fork",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102436905,
-    "wof:lastmodified":1449069954,
+    "wof:lastmodified":1466325692,
     "wof:name":"WMPL",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.134476,35.974193,-94.134476,35.974193],
-  "geometry": {"coordinates":[-94.134476,35.974193],"type":"Point"}
+  "bbox": [
+    -94.134476,
+    35.974193,
+    -94.134476,
+    35.974193
+],
+  "geometry": {"coordinates":[-94.13447600000001,35.974193],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203412729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.584671,33.533146,-91.584671,33.533146",
     "geom:latitude":33.533146,
     "geom:longitude":-91.584671,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4475 Highway 35 E",
     "sg:city":"Dermott",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203412729,
-    "wof:lastmodified":1449025319,
+    "wof:lastmodified":1466320547,
     "wof:name":"Triple H Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "trucking"
     ]
 },
-  "bbox": [-91.584671,33.533146,-91.584671,33.533146],
+  "bbox": [
+    -91.584671,
+    33.533146,
+    -91.584671,
+    33.533146
+],
   "geometry": {"coordinates":[-91.584671,33.533146],"type":"Point"}
 }

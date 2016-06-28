@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102230701",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.674635,33.181133,-92.674635,33.181133",
     "geom:latitude":33.181133,
     "geom:longitude":-92.674635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"148 Union Rd 293",
     "sg:city":"El Dorado",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":"102230701",
-    "wof:lastmodified":1449069584,
+    "wof:lastmodified":1466321474,
     "wof:name":"Johnny E Branch Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.674635,33.181133,-92.674635,33.181133],
-  "geometry": {"coordinates":[-92.674635,33.181133],"type":"Point"}
+  "bbox": [
+    -92.674635,
+    33.181133,
+    -92.674635,
+    33.181133
+],
+  "geometry": {"coordinates":[-92.67463499999999,33.181133],"type":"Point"}
 }

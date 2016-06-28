@@ -2,13 +2,14 @@
   "id": 219274995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.38281,33.802374,-93.38281,33.802374",
     "geom:latitude":33.802374,
     "geom:longitude":-93.38281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 W 2nd St S",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219274995,
-    "wof:lastmodified":1449070824,
+    "wof:lastmodified":1466321525,
     "wof:name":"Court Probation Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rehabilitation"
     ]
 },
-  "bbox": [-93.38281,33.802374,-93.38281,33.802374],
-  "geometry": {"coordinates":[-93.38281,33.802374],"type":"Point"}
+  "bbox": [
+    -93.38281,
+    33.802374,
+    -93.38281,
+    33.802374
+],
+  "geometry": {"coordinates":[-93.38281000000001,33.802374],"type":"Point"}
 }

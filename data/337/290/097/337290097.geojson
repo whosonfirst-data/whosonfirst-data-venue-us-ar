@@ -2,13 +2,14 @@
   "id": 337290097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.047155,33.58622,-94.047155,33.58622",
     "geom:latitude":33.58622,
     "geom:longitude":-94.047155,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 3rd St",
     "sg:city":"Ogden",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337290097,
-    "wof:lastmodified":1449027287,
+    "wof:lastmodified":1466322029,
     "wof:name":"Ogden Volunteer Fire Department",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-94.047155,33.58622,-94.047155,33.58622],
+  "bbox": [
+    -94.047155,
+    33.58622,
+    -94.047155,
+    33.58622
+],
   "geometry": {"coordinates":[-94.047155,33.58622],"type":"Point"}
 }

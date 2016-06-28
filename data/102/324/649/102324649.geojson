@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102324649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.725975,35.23991,-91.725975,35.23991",
     "geom:latitude":35.23991,
     "geom:longitude":-91.725975,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"918 E Lincoln Ave",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102324649,
-    "wof:lastmodified":1449069150,
+    "wof:lastmodified":1466323587,
     "wof:name":"Twin Rivers Foods Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.725975,35.23991,-91.725975,35.23991],
-  "geometry": {"coordinates":[-91.725975,35.23991],"type":"Point"}
+  "bbox": [
+    -91.725975,
+    35.23991,
+    -91.725975,
+    35.23991
+],
+  "geometry": {"coordinates":[-91.72597500000001,35.23991],"type":"Point"}
 }

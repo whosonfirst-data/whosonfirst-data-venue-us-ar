@@ -2,13 +2,14 @@
   "id": 219881901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.233135,36.333427,-94.233135,36.333427",
     "geom:latitude":36.333427,
     "geom:longitude":-94.233135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3809 SW Maple Rd",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219881901,
-    "wof:lastmodified":1449072430,
+    "wof:lastmodified":1466325071,
     "wof:name":"Cipicazo Trucking",
     "wof:parent_id":85895813,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "trucking"
     ]
 },
-  "bbox": [-94.233135,36.333427,-94.233135,36.333427],
+  "bbox": [
+    -94.233135,
+    36.333427,
+    -94.233135,
+    36.333427
+],
   "geometry": {"coordinates":[-94.233135,36.333427],"type":"Point"}
 }

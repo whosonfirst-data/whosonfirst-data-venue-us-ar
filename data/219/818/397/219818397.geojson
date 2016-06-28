@@ -2,13 +2,14 @@
   "id": 219818397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.15792,36.062867,-94.15792,36.062867",
     "geom:latitude":36.062867,
     "geom:longitude":-94.15792,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 N College Ave",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219818397,
-    "wof:lastmodified":1449072108,
+    "wof:lastmodified":1466324980,
     "wof:name":"Donald C Donner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "practice"
     ]
 },
-  "bbox": [-94.15792,36.062867,-94.15792,36.062867],
+  "bbox": [
+    -94.15792,
+    36.062867,
+    -94.15792,
+    36.062867
+],
   "geometry": {"coordinates":[-94.15792,36.062867],"type":"Point"}
 }

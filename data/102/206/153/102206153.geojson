@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102206153",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.764676,34.779989,-90.764676,34.779989",
     "geom:latitude":34.779989,
     "geom:longitude":-90.764676,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"255 N Florida St",
     "sg:city":"Marianna",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102206153",
-    "wof:lastmodified":1449069431,
+    "wof:lastmodified":1466320742,
     "wof:name":"Elegant Expression",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.764676,34.779989,-90.764676,34.779989],
-  "geometry": {"coordinates":[-90.764676,34.779989],"type":"Point"}
+  "bbox": [
+    -90.764676,
+    34.779989,
+    -90.764676,
+    34.779989
+],
+  "geometry": {"coordinates":[-90.76467599999999,34.779989],"type":"Point"}
 }

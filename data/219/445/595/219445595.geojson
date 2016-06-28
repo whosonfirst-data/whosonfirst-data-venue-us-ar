@@ -2,13 +2,14 @@
   "id": 219445595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.663846,35.432179,-91.663846,35.432179",
     "geom:latitude":35.432179,
     "geom:longitude":-91.663846,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"219 Paradise Rd",
     "sg:city":"Judsonia",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219445595,
-    "wof:lastmodified":1449070869,
+    "wof:lastmodified":1466323312,
     "wof:name":"David W Yingling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "repairing"
     ]
 },
-  "bbox": [-91.663846,35.432179,-91.663846,35.432179],
-  "geometry": {"coordinates":[-91.663846,35.432179],"type":"Point"}
+  "bbox": [
+    -91.663846,
+    35.432179,
+    -91.663846,
+    35.432179
+],
+  "geometry": {"coordinates":[-91.66384600000001,35.432179],"type":"Point"}
 }

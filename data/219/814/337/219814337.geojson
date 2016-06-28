@@ -2,13 +2,14 @@
   "id": 219814337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.159729,36.061932,-94.159729,36.061932",
     "geom:latitude":36.061932,
     "geom:longitude":-94.159729,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 W Mountain St Ste 204",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":219814337,
-    "wof:lastmodified":1449071043,
+    "wof:lastmodified":1466324965,
     "wof:name":"Wireless Xt",
     "wof:parent_id":85885459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "data"
     ]
 },
-  "bbox": [-94.159729,36.061932,-94.159729,36.061932],
+  "bbox": [
+    -94.159729,
+    36.061932,
+    -94.159729,
+    36.061932
+],
   "geometry": {"coordinates":[-94.159729,36.061932],"type":"Point"}
 }

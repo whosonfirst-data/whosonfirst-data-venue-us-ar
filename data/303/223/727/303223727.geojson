@@ -2,13 +2,14 @@
   "id": 303223727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.733633,36.646275,-94.733633,36.646275",
     "geom:latitude":36.646275,
     "geom:longitude":-94.733633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25501 S 640 Rd",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303223727,
-    "wof:lastmodified":1448998288,
+    "wof:lastmodified":1466320410,
     "wof:name":"Taylor & Assoc Inc",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-94.733633,36.646275,-94.733633,36.646275],
+  "bbox": [
+    -94.733633,
+    36.646275,
+    -94.733633,
+    36.646275
+],
   "geometry": {"coordinates":[-94.733633,36.646275],"type":"Point"}
 }

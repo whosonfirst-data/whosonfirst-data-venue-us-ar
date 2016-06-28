@@ -2,13 +2,14 @@
   "id": 219382981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.40985,35.099683,-92.40985,35.099683",
     "geom:latitude":35.099683,
     "geom:longitude":-92.40985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1490 E Siebenmorgan Rd",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219382981,
-    "wof:lastmodified":1449071343,
+    "wof:lastmodified":1466322699,
     "wof:name":"Yerton Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "services-household"
     ]
 },
-  "bbox": [-92.40985,35.099683,-92.40985,35.099683],
-  "geometry": {"coordinates":[-92.40985,35.099683],"type":"Point"}
+  "bbox": [
+    -92.40985,
+    35.099683,
+    -92.40985,
+    35.099683
+],
+  "geometry": {"coordinates":[-92.40985000000001,35.099683],"type":"Point"}
 }

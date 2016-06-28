@@ -2,13 +2,14 @@
   "id": 219410383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.466446,35.092851,-92.466446,35.092851",
     "geom:latitude":35.092851,
     "geom:longitude":-92.466446,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1050 Morningside Dr",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219410383,
-    "wof:lastmodified":1449070416,
+    "wof:lastmodified":1466322937,
     "wof:name":"David J Myers DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "clinic"
     ]
 },
-  "bbox": [-92.466446,35.092851,-92.466446,35.092851],
+  "bbox": [
+    -92.466446,
+    35.092851,
+    -92.466446,
+    35.092851
+],
   "geometry": {"coordinates":[-92.466446,35.092851],"type":"Point"}
 }

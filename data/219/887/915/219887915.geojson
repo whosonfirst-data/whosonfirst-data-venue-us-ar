@@ -2,13 +2,14 @@
   "id": 219887915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.208803,36.37233,-94.208803,36.37233",
     "geom:latitude":36.37233,
     "geom:longitude":-94.208803,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 E Central Ave",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -76,10 +77,11 @@
         }
     ],
     "wof:id":219887915,
-    "wof:lastmodified":1449073233,
+    "wof:lastmodified":1466325173,
     "wof:name":"Kupcakes And More",
     "wof:parent_id":85895827,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -91,6 +93,11 @@
         "event"
     ]
 },
-  "bbox": [-94.208803,36.37233,-94.208803,36.37233],
+  "bbox": [
+    -94.208803,
+    36.37233,
+    -94.208803,
+    36.37233
+],
   "geometry": {"coordinates":[-94.208803,36.37233],"type":"Point"}
 }

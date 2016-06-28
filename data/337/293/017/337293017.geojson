@@ -2,13 +2,14 @@
   "id": 337293017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.53183,35.749115,-91.53183,35.749115",
     "geom:latitude":35.749115,
     "geom:longitude":-91.53183,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 Lonoke Ln",
     "sg:city":"Batesville",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":337293017,
-    "wof:lastmodified":1449027082,
+    "wof:lastmodified":1466324477,
     "wof:name":"Reeves Insulation",
     "wof:parent_id":85808231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "contractor"
     ]
 },
-  "bbox": [-91.53183,35.749115,-91.53183,35.749115],
+  "bbox": [
+    -91.53183,
+    35.749115,
+    -91.53183,
+    35.749115
+],
   "geometry": {"coordinates":[-91.53183,35.749115],"type":"Point"}
 }

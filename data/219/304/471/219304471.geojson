@@ -2,13 +2,14 @@
   "id": 219304471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.240276,34.589109,-94.240276,34.589109",
     "geom:latitude":34.589109,
     "geom:longitude":-94.240276,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Mena St",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219304471,
-    "wof:lastmodified":1449073028,
+    "wof:lastmodified":1466321768,
     "wof:name":"The Crossing Church Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.240276,34.589109,-94.240276,34.589109],
-  "geometry": {"coordinates":[-94.240276,34.589109],"type":"Point"}
+  "bbox": [
+    -94.240276,
+    34.589109,
+    -94.240276,
+    34.589109
+],
+  "geometry": {"coordinates":[-94.24027599999999,34.589109],"type":"Point"}
 }

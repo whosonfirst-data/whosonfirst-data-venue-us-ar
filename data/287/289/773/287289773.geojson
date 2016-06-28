@@ -2,13 +2,14 @@
   "id": 287289773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.729825,36.645763,-94.729825,36.645763",
     "geom:latitude":36.645763,
     "geom:longitude":-94.729825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"64101 E 256 Pl",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":287289773,
-    "wof:lastmodified":1449001420,
+    "wof:lastmodified":1466324448,
     "wof:name":"Ray Roberts Construction",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-94.729825,36.645763,-94.729825,36.645763],
-  "geometry": {"coordinates":[-94.729825,36.645763],"type":"Point"}
+  "bbox": [
+    -94.729825,
+    36.645763,
+    -94.729825,
+    36.645763
+],
+  "geometry": {"coordinates":[-94.72982500000001,36.645763],"type":"Point"}
 }

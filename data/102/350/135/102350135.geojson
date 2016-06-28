@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102350135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.825117,33.54439,-92.825117,33.54439",
     "geom:latitude":33.54439,
     "geom:longitude":-92.825117,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2105 S Adams Ave",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85813169,
+        85688549,
         85633793,
         85921237,
         102083253,
-        85688549
+        85813169
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102350135,
-    "wof:lastmodified":1449068975,
+    "wof:lastmodified":1466323974,
     "wof:name":"Paper Tigers",
     "wof:parent_id":85813169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.825117,33.54439,-92.825117,33.54439],
-  "geometry": {"coordinates":[-92.825117,33.54439],"type":"Point"}
+  "bbox": [
+    -92.825117,
+    33.54439,
+    -92.825117,
+    33.54439
+],
+  "geometry": {"coordinates":[-92.82511700000001,33.54439],"type":"Point"}
 }

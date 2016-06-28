@@ -2,13 +2,14 @@
   "id": 219412677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.452133,35.065725,-92.452133,35.065725",
     "geom:latitude":35.065725,
     "geom:longitude":-92.452133,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1030 Regina Cv",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -69,10 +70,11 @@
         }
     ],
     "wof:id":219412677,
-    "wof:lastmodified":1449071113,
+    "wof:lastmodified":1466322956,
     "wof:name":"Kennedy Jeff Adjuster",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -83,6 +85,11 @@
         "business"
     ]
 },
-  "bbox": [-92.452133,35.065725,-92.452133,35.065725],
+  "bbox": [
+    -92.452133,
+    35.065725,
+    -92.452133,
+    35.065725
+],
   "geometry": {"coordinates":[-92.452133,35.065725],"type":"Point"}
 }

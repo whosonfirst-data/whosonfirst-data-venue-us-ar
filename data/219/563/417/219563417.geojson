@@ -2,13 +2,14 @@
   "id": 219563417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.873788,34.976033,-91.873788,34.976033",
     "geom:latitude":34.976033,
     "geom:longitude":-91.873788,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14072 Highway 31 N",
     "sg:city":"Ward",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219563417,
-    "wof:lastmodified":1449070424,
+    "wof:lastmodified":1466324429,
     "wof:name":"Butlerville Groceries",
     "wof:parent_id":85839277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.873788,34.976033,-91.873788,34.976033],
+  "bbox": [
+    -91.873788,
+    34.976033,
+    -91.873788,
+    34.976033
+],
   "geometry": {"coordinates":[-91.873788,34.976033],"type":"Point"}
 }

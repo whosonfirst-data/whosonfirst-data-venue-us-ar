@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102358979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.353431,34.778717,-92.353431,34.778717",
     "geom:latitude":34.778717,
     "geom:longitude":-92.353431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2916 Dalewood Rd",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878753,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85878753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102358979,
-    "wof:lastmodified":1449068775,
+    "wof:lastmodified":1466324335,
     "wof:name":"Sun Printing",
     "wof:parent_id":85878753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.353431,34.778717,-92.353431,34.778717],
+  "bbox": [
+    -92.353431,
+    34.778717,
+    -92.353431,
+    34.778717
+],
   "geometry": {"coordinates":[-92.353431,34.778717],"type":"Point"}
 }

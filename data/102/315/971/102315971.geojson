@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102315971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.841434,36.348919,-91.841434,36.348919",
     "geom:latitude":36.348919,
     "geom:longitude":-91.841434,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 Pine Meadow Ln",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102315971,
-    "wof:lastmodified":1449070077,
+    "wof:lastmodified":1466323485,
     "wof:name":"Salem Pipe & Steel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.841434,36.348919,-91.841434,36.348919],
-  "geometry": {"coordinates":[-91.841434,36.348919],"type":"Point"}
+  "bbox": [
+    -91.841434,
+    36.348919,
+    -91.841434,
+    36.348919
+],
+  "geometry": {"coordinates":[-91.84143400000001,36.348919],"type":"Point"}
 }

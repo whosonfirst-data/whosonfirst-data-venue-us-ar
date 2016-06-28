@@ -2,13 +2,14 @@
   "id": 219728561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.636965,35.767384,-91.636965,35.767384",
     "geom:latitude":35.767384,
     "geom:longitude":-91.636965,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1215 Sidney St Ste 201",
     "sg:city":"Batesville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219728561,
-    "wof:lastmodified":1449071216,
+    "wof:lastmodified":1466324887,
     "wof:name":"Narang Supriya Md",
     "wof:parent_id":85808231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "surgeons"
     ]
 },
-  "bbox": [-91.636965,35.767384,-91.636965,35.767384],
+  "bbox": [
+    -91.636965,
+    35.767384,
+    -91.636965,
+    35.767384
+],
   "geometry": {"coordinates":[-91.636965,35.767384],"type":"Point"}
 }

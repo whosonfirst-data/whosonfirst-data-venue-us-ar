@@ -2,13 +2,14 @@
   "id": 219406091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.495604,35.070991,-92.495604,35.070991",
     "geom:latitude":35.070991,
     "geom:longitude":-92.495604,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3900 Dave Ward Dr Ste 2000",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219406091,
-    "wof:lastmodified":1449072270,
+    "wof:lastmodified":1466322900,
     "wof:name":"About You Color Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.495604,35.070991,-92.495604,35.070991],
+  "bbox": [
+    -92.495604,
+    35.070991,
+    -92.495604,
+    35.070991
+],
   "geometry": {"coordinates":[-92.495604,35.070991],"type":"Point"}
 }

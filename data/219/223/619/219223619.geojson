@@ -2,13 +2,14 @@
   "id": 219223619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.357923,33.109558,-92.357923,33.109558",
     "geom:latitude":33.109558,
     "geom:longitude":-92.357923,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 W 2nd Ave",
     "sg:city":"Strong",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219223619,
-    "wof:lastmodified":1449070625,
+    "wof:lastmodified":1466321076,
     "wof:name":"Debra's Hair Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.357923,33.109558,-92.357923,33.109558],
+  "bbox": [
+    -92.357923,
+    33.109558,
+    -92.357923,
+    33.109558
+],
   "geometry": {"coordinates":[-92.357923,33.109558],"type":"Point"}
 }

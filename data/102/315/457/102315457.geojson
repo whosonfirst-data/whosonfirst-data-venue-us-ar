@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102315457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.762966,36.221931,-91.762966,36.221931",
     "geom:latitude":36.221931,
     "geom:longitude":-91.762966,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 Commerce St",
     "sg:city":"Horseshoe Bend",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102315457,
-    "wof:lastmodified":1449070077,
+    "wof:lastmodified":1466323379,
     "wof:name":"North Central Insur Horseshoe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.762966,36.221931,-91.762966,36.221931],
-  "geometry": {"coordinates":[-91.762966,36.221931],"type":"Point"}
+  "bbox": [
+    -91.762966,
+    36.221931,
+    -91.762966,
+    36.221931
+],
+  "geometry": {"coordinates":[-91.76296600000001,36.221931],"type":"Point"}
 }

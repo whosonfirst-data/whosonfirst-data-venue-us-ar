@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102256985",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.904288,35.928462,-89.904288,35.928462",
     "geom:latitude":35.928462,
     "geom:longitude":-89.904288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 N 2nd St",
     "sg:city":"Blytheville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102256985",
-    "wof:lastmodified":1449069615,
+    "wof:lastmodified":1466322138,
     "wof:name":"Jim's Barber & Styling Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.904288,35.928462,-89.904288,35.928462],
-  "geometry": {"coordinates":[-89.904288,35.928462],"type":"Point"}
+  "bbox": [
+    -89.904288,
+    35.928462,
+    -89.904288,
+    35.928462
+],
+  "geometry": {"coordinates":[-89.90428799999999,35.928462],"type":"Point"}
 }

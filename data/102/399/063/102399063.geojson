@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102399063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.553159,34.47935,-91.553159,34.47935",
     "geom:latitude":34.47935,
     "geom:longitude":-91.553159,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 W 22nd St",
     "sg:city":"Stuttgart",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102399063,
-    "wof:lastmodified":1449068236,
+    "wof:lastmodified":1466324661,
     "wof:name":"Stuttgart Vision Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.553159,34.47935,-91.553159,34.47935],
-  "geometry": {"coordinates":[-91.553159,34.47935],"type":"Point"}
+  "bbox": [
+    -91.553159,
+    34.47935,
+    -91.553159,
+    34.47935
+],
+  "geometry": {"coordinates":[-91.55315899999999,34.47935],"type":"Point"}
 }

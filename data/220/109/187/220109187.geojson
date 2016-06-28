@@ -2,13 +2,14 @@
   "id": 220109187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.040955,35.297966,-94.040955,35.297966",
     "geom:latitude":35.297966,
     "geom:longitude":-94.040955,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"130 Church St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":220109187,
-    "wof:lastmodified":1449074294,
+    "wof:lastmodified":1466322365,
     "wof:name":"Ray's Termite & Pest Control",
     "wof:parent_id":85885347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "bee"
     ]
 },
-  "bbox": [-94.040955,35.297966,-94.040955,35.297966],
+  "bbox": [
+    -94.040955,
+    35.297966,
+    -94.040955,
+    35.297966
+],
   "geometry": {"coordinates":[-94.040955,35.297966],"type":"Point"}
 }

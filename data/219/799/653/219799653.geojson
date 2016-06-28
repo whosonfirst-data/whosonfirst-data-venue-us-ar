@@ -2,13 +2,14 @@
   "id": 219799653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.556358,36.365795,-92.556358,36.365795",
     "geom:latitude":36.365795,
     "geom:longitude":-92.556358,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6515 Highway 178 W",
     "sg:city":"Lakeview",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219799653,
-    "wof:lastmodified":1449073935,
+    "wof:lastmodified":1466324952,
     "wof:name":"Mamma Flego's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.556358,36.365795,-92.556358,36.365795],
+  "bbox": [
+    -92.556358,
+    36.365795,
+    -92.556358,
+    36.365795
+],
   "geometry": {"coordinates":[-92.556358,36.365795],"type":"Point"}
 }

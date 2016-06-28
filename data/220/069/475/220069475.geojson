@@ -2,13 +2,14 @@
   "id": 220069475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.225879,35.360465,-93.225879,35.360465",
     "geom:latitude":35.360465,
     "geom:longitude":-93.225879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3628 Mill Creek Rd",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220069475,
-    "wof:lastmodified":1449074561,
+    "wof:lastmodified":1466321319,
     "wof:name":"Blankenship Pai",
     "wof:parent_id":85834239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-93.225879,35.360465,-93.225879,35.360465],
-  "geometry": {"coordinates":[-93.225879,35.360465],"type":"Point"}
+  "bbox": [
+    -93.225879,
+    35.360465,
+    -93.225879,
+    35.360465
+],
+  "geometry": {"coordinates":[-93.22587900000001,35.360465],"type":"Point"}
 }

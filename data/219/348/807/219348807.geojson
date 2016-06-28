@@ -2,13 +2,14 @@
   "id": 219348807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.601028,34.582605,-92.601028,34.582605",
     "geom:latitude":34.582605,
     "geom:longitude":-92.601028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1607 Hidden Valley Dr",
     "sg:city":"Benton",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":219348807,
-    "wof:lastmodified":1449070525,
+    "wof:lastmodified":1466322246,
     "wof:name":"Midtown Market & Deli",
     "wof:parent_id":85817531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delicatessen"
     ]
 },
-  "bbox": [-92.601028,34.582605,-92.601028,34.582605],
+  "bbox": [
+    -92.601028,
+    34.582605,
+    -92.601028,
+    34.582605
+],
   "geometry": {"coordinates":[-92.601028,34.582605],"type":"Point"}
 }

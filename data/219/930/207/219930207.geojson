@@ -2,13 +2,14 @@
   "id": 219930207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.325588,36.431609,-94.325588,36.431609",
     "geom:latitude":36.431609,
     "geom:longitude":-94.325588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13565 W Highway 72 Ste 9",
     "sg:city":"Hiwasse",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219930207,
-    "wof:lastmodified":1449071525,
+    "wof:lastmodified":1466325061,
     "wof:name":"Insurance Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "business"
     ]
 },
-  "bbox": [-94.325588,36.431609,-94.325588,36.431609],
+  "bbox": [
+    -94.325588,
+    36.431609,
+    -94.325588,
+    36.431609
+],
   "geometry": {"coordinates":[-94.325588,36.431609],"type":"Point"}
 }

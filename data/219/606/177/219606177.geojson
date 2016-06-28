@@ -2,13 +2,14 @@
   "id": 219606177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.908616,34.557467,-90.908616,34.557467",
     "geom:latitude":34.557467,
     "geom:longitude":-90.908616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 Roosevelt St",
     "sg:city":"Marvell",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219606177,
-    "wof:lastmodified":1449070935,
+    "wof:lastmodified":1466324823,
     "wof:name":"Hicks United Church Of Christ",
     "wof:parent_id":85834075,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-90.908616,34.557467,-90.908616,34.557467],
-  "geometry": {"coordinates":[-90.908616,34.557467],"type":"Point"}
+  "bbox": [
+    -90.908616,
+    34.557467,
+    -90.908616,
+    34.557467
+],
+  "geometry": {"coordinates":[-90.90861599999999,34.557467],"type":"Point"}
 }

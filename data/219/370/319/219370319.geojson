@@ -2,13 +2,14 @@
   "id": 219370319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.733565,34.774571,-91.733565,34.774571",
     "geom:latitude":34.774571,
     "geom:longitude":-91.733565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"350 Raborn Rd",
     "sg:city":"Carlisle",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219370319,
-    "wof:lastmodified":1449072301,
+    "wof:lastmodified":1466322588,
     "wof:name":"S&R Farms An Arkansas General",
     "wof:parent_id":85811577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.733565,34.774571,-91.733565,34.774571],
+  "bbox": [
+    -91.733565,
+    34.774571,
+    -91.733565,
+    34.774571
+],
   "geometry": {"coordinates":[-91.733565,34.774571],"type":"Point"}
 }

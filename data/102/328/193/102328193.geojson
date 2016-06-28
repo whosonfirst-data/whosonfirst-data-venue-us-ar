@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102328193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.205909,36.182011,-94.205909,36.182011",
     "geom:latitude":36.182011,
     "geom:longitude":-94.205909,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"474 Founders Park Dr W",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885477,
+        85688549,
         85633793,
         85919623,
         102082007,
-        85688549
+        85885477
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102328193,
-    "wof:lastmodified":1449069161,
+    "wof:lastmodified":1466323563,
     "wof:name":"Welcome Home Real Estate Co",
     "wof:parent_id":85885477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.205909,36.182011,-94.205909,36.182011],
-  "geometry": {"coordinates":[-94.205909,36.182011],"type":"Point"}
+  "bbox": [
+    -94.205909,
+    36.182011,
+    -94.205909,
+    36.182011
+],
+  "geometry": {"coordinates":[-94.20590900000001,36.182011],"type":"Point"}
 }

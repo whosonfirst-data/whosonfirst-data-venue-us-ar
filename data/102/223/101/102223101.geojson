@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102223101",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.12464,36.432362,-94.12464,36.432362",
     "geom:latitude":36.432362,
     "geom:longitude":-94.12464,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1087 Halleck Ln",
     "sg:city":"Pea Ridge",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895841,
+        85688549,
         85633793,
         85921527,
         102083255,
-        85688549
+        85895841
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102223101",
-    "wof:lastmodified":1449067954,
+    "wof:lastmodified":1466321170,
     "wof:name":"Zadock's Stained Glass",
     "wof:parent_id":85895841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.12464,36.432362,-94.12464,36.432362],
+  "bbox": [
+    -94.12464,
+    36.432362,
+    -94.12464,
+    36.432362
+],
   "geometry": {"coordinates":[-94.12464,36.432362],"type":"Point"}
 }

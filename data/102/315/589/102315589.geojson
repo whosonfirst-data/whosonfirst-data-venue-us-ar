@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102315589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.83412,35.48616,-93.83412,35.48616",
     "geom:latitude":35.48616,
     "geom:longitude":-93.83412,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 W River St",
     "sg:city":"Ozark",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102315589,
-    "wof:lastmodified":1449070077,
+    "wof:lastmodified":1466323407,
     "wof:name":"Mercy Hospital",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.83412,35.48616,-93.83412,35.48616],
+  "bbox": [
+    -93.83412,
+    35.48616,
+    -93.83412,
+    35.48616
+],
   "geometry": {"coordinates":[-93.83412,35.48616],"type":"Point"}
 }

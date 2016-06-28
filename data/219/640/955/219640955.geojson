@@ -2,13 +2,14 @@
   "id": 219640955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.6566,35.9296,-90.6566,35.9296",
     "geom:latitude":35.9296,
     "geom:longitude":-90.6566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"361 Southwest Dr",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -81,10 +82,11 @@
         }
     ],
     "wof:id":219640955,
-    "wof:lastmodified":1449071922,
+    "wof:lastmodified":1466324647,
     "wof:name":"Pak Mail",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -99,6 +101,11 @@
         "store"
     ]
 },
-  "bbox": [-90.6566,35.9296,-90.6566,35.9296],
+  "bbox": [
+    -90.6566,
+    35.9296,
+    -90.6566,
+    35.9296
+],
   "geometry": {"coordinates":[-90.6566,35.9296],"type":"Point"}
 }

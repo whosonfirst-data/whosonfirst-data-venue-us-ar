@@ -2,13 +2,14 @@
   "id": 219389955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.292448,35.047987,-92.292448,35.047987",
     "geom:latitude":35.047987,
     "geom:longitude":-92.292448,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45 Pocahontas Ct",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219389955,
-    "wof:lastmodified":1449073216,
+    "wof:lastmodified":1466322762,
     "wof:name":"My First School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "day"
     ]
 },
-  "bbox": [-92.292448,35.047987,-92.292448,35.047987],
-  "geometry": {"coordinates":[-92.292448,35.047987],"type":"Point"}
+  "bbox": [
+    -92.292448,
+    35.047987,
+    -92.292448,
+    35.047987
+],
+  "geometry": {"coordinates":[-92.29244799999999,35.047987],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102365821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.947019,33.984046,-93.947019,33.984046",
     "geom:latitude":33.984046,
     "geom:longitude":-93.947019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"642 Yorks Chapel Rd",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102365821,
-    "wof:lastmodified":1449068187,
+    "wof:lastmodified":1466324441,
     "wof:name":"Roger White Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.947019,33.984046,-93.947019,33.984046],
+  "bbox": [
+    -93.947019,
+    33.984046,
+    -93.947019,
+    33.984046
+],
   "geometry": {"coordinates":[-93.947019,33.984046],"type":"Point"}
 }

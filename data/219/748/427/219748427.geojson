@@ -2,13 +2,14 @@
   "id": 219748427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.833882,36.374887,-91.833882,36.374887",
     "geom:latitude":36.374887,
     "geom:longitude":-91.833882,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"282 Circle Dr",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219748427,
-    "wof:lastmodified":1449073047,
+    "wof:lastmodified":1466324984,
     "wof:name":"Salem Housing Authority",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "village"
     ]
 },
-  "bbox": [-91.833882,36.374887,-91.833882,36.374887],
+  "bbox": [
+    -91.833882,
+    36.374887,
+    -91.833882,
+    36.374887
+],
   "geometry": {"coordinates":[-91.833882,36.374887],"type":"Point"}
 }

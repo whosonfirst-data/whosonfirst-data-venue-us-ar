@@ -2,13 +2,14 @@
   "id": 220110351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.285801,35.212344,-94.285801,35.212344",
     "geom:latitude":35.212344,
     "geom:longitude":-94.285801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"58 Easley Loop",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220110351,
-    "wof:lastmodified":1449074284,
+    "wof:lastmodified":1466322391,
     "wof:name":"Oliver Resources",
     "wof:parent_id":85808359,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "plan"
     ]
 },
-  "bbox": [-94.285801,35.212344,-94.285801,35.212344],
-  "geometry": {"coordinates":[-94.285801,35.212344],"type":"Point"}
+  "bbox": [
+    -94.285801,
+    35.212344,
+    -94.285801,
+    35.212344
+],
+  "geometry": {"coordinates":[-94.28580100000001,35.212344],"type":"Point"}
 }

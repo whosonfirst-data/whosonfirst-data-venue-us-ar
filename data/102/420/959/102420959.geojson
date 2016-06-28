@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102420959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.210258,36.364263,-94.210258,36.364263",
     "geom:latitude":36.364263,
     "geom:longitude":-94.210258,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"705 SW A St",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895819,
+        85688549,
         85633793,
         85921509,
         102083255,
-        85688549
+        85895819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102420959,
-    "wof:lastmodified":1449068924,
+    "wof:lastmodified":1466325321,
     "wof:name":"Jobbers Warehouse Inc",
     "wof:parent_id":85895819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.210258,36.364263,-94.210258,36.364263],
+  "bbox": [
+    -94.210258,
+    36.364263,
+    -94.210258,
+    36.364263
+],
   "geometry": {"coordinates":[-94.210258,36.364263],"type":"Point"}
 }

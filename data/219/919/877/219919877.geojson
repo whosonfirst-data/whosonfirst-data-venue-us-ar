@@ -2,13 +2,14 @@
   "id": 219919877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.889146,36.457937,-93.889146,36.457937",
     "geom:latitude":36.457937,
     "geom:longitude":-93.889146,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15105 Indian Creek Rd",
     "sg:city":"Garfield",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219919877,
-    "wof:lastmodified":1449073069,
+    "wof:lastmodified":1466325135,
     "wof:name":"Friendly Pets",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cat"
     ]
 },
-  "bbox": [-93.889146,36.457937,-93.889146,36.457937],
+  "bbox": [
+    -93.889146,
+    36.457937,
+    -93.889146,
+    36.457937
+],
   "geometry": {"coordinates":[-93.889146,36.457937],"type":"Point"}
 }

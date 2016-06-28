@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102409987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.318768,36.293295,-90.318768,36.293295",
     "geom:latitude":36.293295,
     "geom:longitude":-90.318768,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1755 Co Rd 418",
     "sg:city":"Rector",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102409987,
-    "wof:lastmodified":1449068765,
+    "wof:lastmodified":1466325238,
     "wof:name":"Mike Mobley",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.318768,36.293295,-90.318768,36.293295],
-  "geometry": {"coordinates":[-90.318768,36.293295],"type":"Point"}
+  "bbox": [
+    -90.318768,
+    36.293295,
+    -90.318768,
+    36.293295
+],
+  "geometry": {"coordinates":[-90.31876800000001,36.293295],"type":"Point"}
 }

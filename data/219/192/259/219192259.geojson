@@ -2,13 +2,14 @@
   "id": 219192259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.730129,33.57488,-92.730129,33.57488",
     "geom:latitude":33.57488,
     "geom:longitude":-92.730129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"145 Ouachita 476",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219192259,
-    "wof:lastmodified":1449072898,
+    "wof:lastmodified":1466320780,
     "wof:name":"Johnsons Service Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "refinishing"
     ]
 },
-  "bbox": [-92.730129,33.57488,-92.730129,33.57488],
-  "geometry": {"coordinates":[-92.730129,33.57488],"type":"Point"}
+  "bbox": [
+    -92.730129,
+    33.57488,
+    -92.730129,
+    33.57488
+],
+  "geometry": {"coordinates":[-92.73012900000001,33.57488],"type":"Point"}
 }

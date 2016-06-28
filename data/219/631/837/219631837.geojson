@@ -2,13 +2,14 @@
   "id": 219631837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.673279,35.828344,-90.673279,35.828344",
     "geom:latitude":35.828344,
     "geom:longitude":-90.673279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1405 Bittle St",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219631837,
-    "wof:lastmodified":1449071489,
+    "wof:lastmodified":1466324842,
     "wof:name":"Johnson Margaret Ann Headstart Center",
     "wof:parent_id":85836541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "kindergarten"
     ]
 },
-  "bbox": [-90.673279,35.828344,-90.673279,35.828344],
-  "geometry": {"coordinates":[-90.673279,35.828344],"type":"Point"}
+  "bbox": [
+    -90.673279,
+    35.828344,
+    -90.673279,
+    35.828344
+],
+  "geometry": {"coordinates":[-90.67327899999999,35.828344],"type":"Point"}
 }

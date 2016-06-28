@@ -2,13 +2,14 @@
   "id": 220029025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.188888,36.181579,-94.188888,36.181579",
     "geom:latitude":36.181579,
     "geom:longitude":-94.188888,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"530 Madison St",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220029025,
-    "wof:lastmodified":1449074380,
+    "wof:lastmodified":1466324446,
     "wof:name":"America Belt And Hose",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "tubing-rubber"
     ]
 },
-  "bbox": [-94.188888,36.181579,-94.188888,36.181579],
-  "geometry": {"coordinates":[-94.188888,36.181579],"type":"Point"}
+  "bbox": [
+    -94.188888,
+    36.181579,
+    -94.188888,
+    36.181579
+],
+  "geometry": {"coordinates":[-94.18888800000001,36.181579],"type":"Point"}
 }

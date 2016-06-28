@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102391961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.691612,35.25243,-91.691612,35.25243",
     "geom:latitude":35.25243,
     "geom:longitude":-91.691612,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"130 N Poplar St",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102391961,
-    "wof:lastmodified":1449069311,
+    "wof:lastmodified":1466324507,
     "wof:name":"Jade Garden",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.691612,35.25243,-91.691612,35.25243],
-  "geometry": {"coordinates":[-91.691612,35.25243],"type":"Point"}
+  "bbox": [
+    -91.691612,
+    35.25243,
+    -91.691612,
+    35.25243
+],
+  "geometry": {"coordinates":[-91.69161200000001,35.25243],"type":"Point"}
 }

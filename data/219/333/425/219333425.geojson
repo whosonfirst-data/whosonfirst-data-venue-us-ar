@@ -2,13 +2,14 @@
   "id": 219333425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.903747,35.068454,-91.903747,35.068454",
     "geom:latitude":35.068454,
     "geom:longitude":-91.903747,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1706 W Center St",
     "sg:city":"Beebe",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219333425,
-    "wof:lastmodified":1449073657,
+    "wof:lastmodified":1466322032,
     "wof:name":"Ferguson's Furniture & Appl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-91.903747,35.068454,-91.903747,35.068454],
+  "bbox": [
+    -91.903747,
+    35.068454,
+    -91.903747,
+    35.068454
+],
   "geometry": {"coordinates":[-91.903747,35.068454],"type":"Point"}
 }

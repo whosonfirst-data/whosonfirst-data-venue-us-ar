@@ -2,13 +2,14 @@
   "id": 353941433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.553457,36.175457,-94.553457,36.175457",
     "geom:latitude":36.175457,
     "geom:longitude":-94.553457,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1270 Hwy 412 W",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353941433,
-    "wof:lastmodified":1449019795,
+    "wof:lastmodified":1466320555,
     "wof:name":"City Coffee Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "coffee"
     ]
 },
-  "bbox": [-94.553457,36.175457,-94.553457,36.175457],
-  "geometry": {"coordinates":[-94.553457,36.175457],"type":"Point"}
+  "bbox": [
+    -94.553457,
+    36.175457,
+    -94.553457,
+    36.175457
+],
+  "geometry": {"coordinates":[-94.55345699999999,36.175457],"type":"Point"}
 }

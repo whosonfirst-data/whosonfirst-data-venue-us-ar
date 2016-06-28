@@ -2,13 +2,14 @@
   "id": 303743017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.210135,34.556685,-94.210135,34.556685",
     "geom:latitude":34.556685,
     "geom:longitude":-94.210135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"142 Polk Road 52",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303743017,
-    "wof:lastmodified":1449000552,
+    "wof:lastmodified":1466320582,
     "wof:name":"Cline Leasing LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "lessor"
     ]
 },
-  "bbox": [-94.210135,34.556685,-94.210135,34.556685],
-  "geometry": {"coordinates":[-94.210135,34.556685],"type":"Point"}
+  "bbox": [
+    -94.210135,
+    34.556685,
+    -94.210135,
+    34.556685
+],
+  "geometry": {"coordinates":[-94.21013499999999,34.556685],"type":"Point"}
 }

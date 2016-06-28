@@ -2,13 +2,14 @@
   "id": 219804229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.187744,36.485044,-93.187744,36.485044",
     "geom:latitude":36.485044,
     "geom:longitude":-93.187744,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14075 Tharp Ln",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219804229,
-    "wof:lastmodified":1449072849,
+    "wof:lastmodified":1466324956,
     "wof:name":"Delbert R Tharp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.187744,36.485044,-93.187744,36.485044],
+  "bbox": [
+    -93.187744,
+    36.485044,
+    -93.187744,
+    36.485044
+],
   "geometry": {"coordinates":[-93.187744,36.485044],"type":"Point"}
 }

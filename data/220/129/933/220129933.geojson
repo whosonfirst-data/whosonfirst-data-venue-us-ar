@@ -2,13 +2,14 @@
   "id": 220129933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.256097,35.536366,-94.256097,35.536366",
     "geom:latitude":35.536366,
     "geom:longitude":-94.256097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5219 Pecan Grove Rd",
     "sg:city":"Rudy",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":220129933,
-    "wof:lastmodified":1449074686,
+    "wof:lastmodified":1466322776,
     "wof:name":"Haddock Construction, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-94.256097,35.536366,-94.256097,35.536366],
+  "bbox": [
+    -94.256097,
+    35.536366,
+    -94.256097,
+    35.536366
+],
   "geometry": {"coordinates":[-94.256097,35.536366],"type":"Point"}
 }

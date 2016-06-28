@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102423077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.404103,35.870478,-90.404103,35.870478",
     "geom:latitude":35.870478,
     "geom:longitude":-90.404103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3521 Co Rd 505",
     "sg:city":"Lake City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102423077,
-    "wof:lastmodified":1449068198,
+    "wof:lastmodified":1466325338,
     "wof:name":"Cobb Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.404103,35.870478,-90.404103,35.870478],
-  "geometry": {"coordinates":[-90.404103,35.870478],"type":"Point"}
+  "bbox": [
+    -90.404103,
+    35.870478,
+    -90.404103,
+    35.870478
+],
+  "geometry": {"coordinates":[-90.40410300000001,35.870478],"type":"Point"}
 }

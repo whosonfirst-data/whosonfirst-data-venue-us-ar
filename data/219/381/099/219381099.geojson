@@ -2,13 +2,14 @@
   "id": 219381099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.401581,35.067509,-92.401581,35.067509",
     "geom:latitude":35.067509,
     "geom:longitude":-92.401581,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Mayor Ln",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219381099,
-    "wof:lastmodified":1449070677,
+    "wof:lastmodified":1466322683,
     "wof:name":"Seiter Foot & Ankle Specialists",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "surgeons"
     ]
 },
-  "bbox": [-92.401581,35.067509,-92.401581,35.067509],
-  "geometry": {"coordinates":[-92.401581,35.067509],"type":"Point"}
+  "bbox": [
+    -92.401581,
+    35.067509,
+    -92.401581,
+    35.067509
+],
+  "geometry": {"coordinates":[-92.40158099999999,35.067509],"type":"Point"}
 }

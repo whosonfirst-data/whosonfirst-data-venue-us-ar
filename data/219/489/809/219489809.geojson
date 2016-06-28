@@ -2,13 +2,14 @@
   "id": 219489809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.197663,34.830321,-92.197663,34.830321",
     "geom:latitude":34.830321,
     "geom:longitude":-92.197663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Lantrip Rd",
     "sg:city":"Sherwood",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":219489809,
-    "wof:lastmodified":1449072305,
+    "wof:lastmodified":1466323840,
     "wof:name":"City Of North Little Rock",
     "wof:parent_id":85837729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-92.197663,34.830321,-92.197663,34.830321],
-  "geometry": {"coordinates":[-92.197663,34.830321],"type":"Point"}
+  "bbox": [
+    -92.197663,
+    34.830321,
+    -92.197663,
+    34.830321
+],
+  "geometry": {"coordinates":[-92.19766300000001,34.830321],"type":"Point"}
 }

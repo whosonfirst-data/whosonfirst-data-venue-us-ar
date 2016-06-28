@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102411667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.43443,35.077234,-92.43443,35.077234",
     "geom:latitude":35.077234,
     "geom:longitude":-92.43443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"450 E Robins St",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102411667,
-    "wof:lastmodified":1449067892,
+    "wof:lastmodified":1466325050,
     "wof:name":"T & R Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.43443,35.077234,-92.43443,35.077234],
-  "geometry": {"coordinates":[-92.43443,35.077234],"type":"Point"}
+  "bbox": [
+    -92.43443,
+    35.077234,
+    -92.43443,
+    35.077234
+],
+  "geometry": {"coordinates":[-92.43443000000001,35.077234],"type":"Point"}
 }

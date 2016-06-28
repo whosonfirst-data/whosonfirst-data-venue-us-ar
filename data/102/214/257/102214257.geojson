@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102214257",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.159224,35.227288,-93.159224,35.227288",
     "geom:latitude":35.227288,
     "geom:longitude":-93.159224,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 West St",
     "sg:city":"Dardanelle",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102083263,
-        85633793,
         85688549,
-        85837547
+        85633793,
+        85837547,
+        102083263
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102214257",
-    "wof:lastmodified":1449070138,
+    "wof:lastmodified":1466320972,
     "wof:name":"Boys & Girls Club-Arkansas",
     "wof:parent_id":85837547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.159224,35.227288,-93.159224,35.227288],
-  "geometry": {"coordinates":[-93.159224,35.227288],"type":"Point"}
+  "bbox": [
+    -93.159224,
+    35.227288,
+    -93.159224,
+    35.227288
+],
+  "geometry": {"coordinates":[-93.15922399999999,35.227288],"type":"Point"}
 }

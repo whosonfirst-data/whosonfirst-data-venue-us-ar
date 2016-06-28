@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102325825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.32269,34.310439,-91.32269,34.310439",
     "geom:latitude":34.310439,
     "geom:longitude":-91.32269,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"42 John Pike Ln",
     "sg:city":"De Witt",
     "sg:classifiers":[
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":102325825,
-    "wof:lastmodified":1449068704,
+    "wof:lastmodified":1466323663,
     "wof:name":"Adams Refrigeration Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.32269,34.310439,-91.32269,34.310439],
-  "geometry": {"coordinates":[-91.32269,34.310439],"type":"Point"}
+  "bbox": [
+    -91.32269,
+    34.310439,
+    -91.32269,
+    34.310439
+],
+  "geometry": {"coordinates":[-91.32268999999999,34.310439],"type":"Point"}
 }

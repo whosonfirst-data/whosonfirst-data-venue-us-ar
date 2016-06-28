@@ -2,13 +2,14 @@
   "id": 219278973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.470575,34.253219,-93.470575,34.253219",
     "geom:latitude":34.253219,
     "geom:longitude":-93.470575,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"843 S Mountain St",
     "sg:city":"Amity",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":219278973,
-    "wof:lastmodified":1449072324,
+    "wof:lastmodified":1466321557,
     "wof:name":"Curt Bean Lumber Company Incorporated",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "sawmill"
     ]
 },
-  "bbox": [-93.470575,34.253219,-93.470575,34.253219],
+  "bbox": [
+    -93.470575,
+    34.253219,
+    -93.470575,
+    34.253219
+],
   "geometry": {"coordinates":[-93.470575,34.253219],"type":"Point"}
 }

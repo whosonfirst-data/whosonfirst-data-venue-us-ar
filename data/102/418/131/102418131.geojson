@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102418131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.892424,36.054083,-91.892424,36.054083",
     "geom:latitude":36.054083,
     "geom:longitude":-91.892424,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"905 Miller Ln",
     "sg:city":"Melbourne",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102418131,
-    "wof:lastmodified":1449069656,
+    "wof:lastmodified":1466325281,
     "wof:name":"Tax Centers Of America",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.892424,36.054083,-91.892424,36.054083],
-  "geometry": {"coordinates":[-91.892424,36.054083],"type":"Point"}
+  "bbox": [
+    -91.892424,
+    36.054083,
+    -91.892424,
+    36.054083
+],
+  "geometry": {"coordinates":[-91.89242400000001,36.054083],"type":"Point"}
 }

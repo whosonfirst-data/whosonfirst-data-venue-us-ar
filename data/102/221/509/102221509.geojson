@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102221509",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.187638,35.148032,-90.187638,35.148032",
     "geom:latitude":35.148032,
     "geom:longitude":-90.187638,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 N Rhodes St",
     "sg:city":"West Memphis",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102221509",
-    "wof:lastmodified":1449068823,
+    "wof:lastmodified":1466321208,
     "wof:name":"Dermatology Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.187638,35.148032,-90.187638,35.148032],
-  "geometry": {"coordinates":[-90.187638,35.148032],"type":"Point"}
+  "bbox": [
+    -90.187638,
+    35.148032,
+    -90.187638,
+    35.148032
+],
+  "geometry": {"coordinates":[-90.18763800000001,35.148032],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219974587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.120728,36.318748,-94.120728,36.318748",
     "geom:latitude":36.318748,
     "geom:longitude":-94.120728,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 W Olrich St",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":219974587,
-    "wof:lastmodified":1449073449,
+    "wof:lastmodified":1466325229,
     "wof:name":"Tyson",
     "wof:parent_id":85895849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "poultry-wholesale"
     ]
 },
-  "bbox": [-94.120728,36.318748,-94.120728,36.318748],
+  "bbox": [
+    -94.120728,
+    36.318748,
+    -94.120728,
+    36.318748
+],
   "geometry": {"coordinates":[-94.120728,36.318748],"type":"Point"}
 }

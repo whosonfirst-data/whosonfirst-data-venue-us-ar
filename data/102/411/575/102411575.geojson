@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102411575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.234654,35.514102,-90.234654,35.514102",
     "geom:latitude":35.514102,
     "geom:longitude":-90.234654,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4505 W State Hwy 118",
     "sg:city":"Joiner",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102411575,
-    "wof:lastmodified":1449067890,
+    "wof:lastmodified":1466325136,
     "wof:name":"D & F Flying Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.234654,35.514102,-90.234654,35.514102],
-  "geometry": {"coordinates":[-90.234654,35.514102],"type":"Point"}
+  "bbox": [
+    -90.234654,
+    35.514102,
+    -90.234654,
+    35.514102
+],
+  "geometry": {"coordinates":[-90.23465400000001,35.514102],"type":"Point"}
 }

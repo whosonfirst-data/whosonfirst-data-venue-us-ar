@@ -2,13 +2,14 @@
   "id": 219861951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.230668,36.078975,-94.230668,36.078975",
     "geom:latitude":36.078975,
     "geom:longitude":-94.230668,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4910 W Wedington Dr",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219861951,
-    "wof:lastmodified":1449073885,
+    "wof:lastmodified":1466324981,
     "wof:name":"Bubbles Child Care Center",
     "wof:parent_id":85885449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "referral"
     ]
 },
-  "bbox": [-94.230668,36.078975,-94.230668,36.078975],
-  "geometry": {"coordinates":[-94.230668,36.078975],"type":"Point"}
+  "bbox": [
+    -94.230668,
+    36.078975,
+    -94.230668,
+    36.078975
+],
+  "geometry": {"coordinates":[-94.23066799999999,36.078975],"type":"Point"}
 }

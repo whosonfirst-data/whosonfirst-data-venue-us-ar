@@ -2,13 +2,14 @@
   "id": 219552649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.547847,34.509382,-91.547847,34.509382",
     "geom:latitude":34.509382,
     "geom:longitude":-91.547847,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"501 E Michigan St",
     "sg:city":"Stuttgart",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219552649,
-    "wof:lastmodified":1449071861,
+    "wof:lastmodified":1466324353,
     "wof:name":"Knoll Feed Transportation Services Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "trucking"
     ]
 },
-  "bbox": [-91.547847,34.509382,-91.547847,34.509382],
+  "bbox": [
+    -91.547847,
+    34.509382,
+    -91.547847,
+    34.509382
+],
   "geometry": {"coordinates":[-91.547847,34.509382],"type":"Point"}
 }

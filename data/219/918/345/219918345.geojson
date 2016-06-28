@@ -2,13 +2,14 @@
   "id": 219918345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.902183,36.396295,-93.902183,36.396295",
     "geom:latitude":36.396295,
     "geom:longitude":-93.902183,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12100 Buckhorn Cir",
     "sg:city":"Garfield",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219918345,
-    "wof:lastmodified":1449072787,
+    "wof:lastmodified":1466325132,
     "wof:name":"Corps of Engineers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "engineer"
     ]
 },
-  "bbox": [-93.902183,36.396295,-93.902183,36.396295],
-  "geometry": {"coordinates":[-93.902183,36.396295],"type":"Point"}
+  "bbox": [
+    -93.902183,
+    36.396295,
+    -93.902183,
+    36.396295
+],
+  "geometry": {"coordinates":[-93.90218299999999,36.396295],"type":"Point"}
 }

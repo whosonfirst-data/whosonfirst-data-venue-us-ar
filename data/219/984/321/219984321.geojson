@@ -2,13 +2,14 @@
   "id": 219984321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.145129,36.335144,-94.145129,36.335144",
     "geom:latitude":36.335144,
     "geom:longitude":-94.145129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 N Dixieland Rd Ste C8",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219984321,
-    "wof:lastmodified":1449072375,
+    "wof:lastmodified":1466325189,
     "wof:name":"General Nutrition Centers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "market"
     ]
 },
-  "bbox": [-94.145129,36.335144,-94.145129,36.335144],
+  "bbox": [
+    -94.145129,
+    36.335144,
+    -94.145129,
+    36.335144
+],
   "geometry": {"coordinates":[-94.145129,36.335144],"type":"Point"}
 }

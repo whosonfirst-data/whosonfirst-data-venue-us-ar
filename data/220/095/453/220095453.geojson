@@ -2,13 +2,14 @@
   "id": 220095453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.576757,35.336319,-93.576757,35.336319",
     "geom:latitude":35.336319,
     "geom:longitude":-93.576757,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1540 E State Highway 288",
     "sg:city":"Subiaco",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":220095453,
-    "wof:lastmodified":1449074446,
+    "wof:lastmodified":1466322090,
     "wof:name":"Koenigseder Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.576757,35.336319,-93.576757,35.336319],
+  "bbox": [
+    -93.576757,
+    35.336319,
+    -93.576757,
+    35.336319
+],
   "geometry": {"coordinates":[-93.576757,35.336319],"type":"Point"}
 }

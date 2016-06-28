@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102322295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.590334,33.663136,-93.590334,33.663136",
     "geom:latitude":33.663136,
     "geom:longitude":-93.590334,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"698 S Main St",
     "sg:city":"Montville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806015,
+        85688549,
         85633793,
         85920547,
         102083213,
-        85688549
+        85806015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102322295,
-    "wof:lastmodified":1449067742,
+    "wof:lastmodified":1466323447,
     "wof:name":"Pine Brook Ind Coatings",
     "wof:parent_id":85806015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.590334,33.663136,-93.590334,33.663136],
+  "bbox": [
+    -93.590334,
+    33.663136,
+    -93.590334,
+    33.663136
+],
   "geometry": {"coordinates":[-93.590334,33.663136],"type":"Point"}
 }

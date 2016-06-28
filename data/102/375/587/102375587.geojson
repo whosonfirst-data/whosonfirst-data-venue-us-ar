@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102375587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.801516,33.23525,-91.801516,33.23525",
     "geom:latitude":33.23525,
     "geom:longitude":-91.801516,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 W Foote St",
     "sg:city":"Hamburg",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102375587,
-    "wof:lastmodified":1449067859,
+    "wof:lastmodified":1466321181,
     "wof:name":"Church Of Christ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.801516,33.23525,-91.801516,33.23525],
-  "geometry": {"coordinates":[-91.801516,33.23525],"type":"Point"}
+  "bbox": [
+    -91.801516,
+    33.23525,
+    -91.801516,
+    33.23525
+],
+  "geometry": {"coordinates":[-91.80151600000001,33.23525],"type":"Point"}
 }

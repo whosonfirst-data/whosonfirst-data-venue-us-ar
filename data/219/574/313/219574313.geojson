@@ -2,13 +2,14 @@
   "id": 219574313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.900865,35.918619,-89.900865,35.918619",
     "geom:latitude":35.918619,
     "geom:longitude":-89.900865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1007 S Franklin St",
     "sg:city":"Blytheville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219574313,
-    "wof:lastmodified":1449070353,
+    "wof:lastmodified":1466324484,
     "wof:name":"Franklin Head Start",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "day"
     ]
 },
-  "bbox": [-89.900865,35.918619,-89.900865,35.918619],
+  "bbox": [
+    -89.900865,
+    35.918619,
+    -89.900865,
+    35.918619
+],
   "geometry": {"coordinates":[-89.900865,35.918619],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102399709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.437705,35.091757,-92.437705,35.091757",
     "geom:latitude":35.091757,
     "geom:longitude":-92.437705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 Oak St",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102399709,
-    "wof:lastmodified":1449068236,
+    "wof:lastmodified":1466324780,
     "wof:name":"Conway Development Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.437705,35.091757,-92.437705,35.091757],
-  "geometry": {"coordinates":[-92.437705,35.091757],"type":"Point"}
+  "bbox": [
+    -92.437705,
+    35.091757,
+    -92.437705,
+    35.091757
+],
+  "geometry": {"coordinates":[-92.43770499999999,35.091757],"type":"Point"}
 }

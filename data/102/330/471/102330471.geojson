@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102330471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.590583,33.667181,-93.590583,33.667181",
     "geom:latitude":33.667181,
     "geom:longitude":-93.590583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 E 3rd St",
     "sg:city":"Hope",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806015,
+        85688549,
         85633793,
         85920547,
         102083213,
-        85688549
+        85806015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102330471,
-    "wof:lastmodified":1449068953,
+    "wof:lastmodified":1466323638,
     "wof:name":"Lewisville Flowers & Gifts",
     "wof:parent_id":85806015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.590583,33.667181,-93.590583,33.667181],
+  "bbox": [
+    -93.590583,
+    33.667181,
+    -93.590583,
+    33.667181
+],
   "geometry": {"coordinates":[-93.590583,33.667181],"type":"Point"}
 }

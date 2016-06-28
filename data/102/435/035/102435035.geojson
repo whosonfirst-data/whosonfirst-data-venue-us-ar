@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102435035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.703032,35.179563,-91.703032,35.179563",
     "geom:latitude":35.179563,
     "geom:longitude":-91.703032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"306 Walker Rd",
     "sg:city":"Higginson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102435035,
-    "wof:lastmodified":1449069972,
+    "wof:lastmodified":1466325646,
     "wof:name":"J R's Trailer Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.703032,35.179563,-91.703032,35.179563],
-  "geometry": {"coordinates":[-91.703032,35.179563],"type":"Point"}
+  "bbox": [
+    -91.703032,
+    35.179563,
+    -91.703032,
+    35.179563
+],
+  "geometry": {"coordinates":[-91.70303199999999,35.179563],"type":"Point"}
 }

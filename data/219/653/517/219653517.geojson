@@ -2,13 +2,14 @@
   "id": 219653517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.582786,35.90739,-90.582786,35.90739",
     "geom:latitude":35.90739,
     "geom:longitude":-90.582786,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 N Hickory St",
     "sg:city":"Brookland",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219653517,
-    "wof:lastmodified":1449070643,
+    "wof:lastmodified":1466324736,
     "wof:name":"Oak Black Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "churches-baptist"
     ]
 },
-  "bbox": [-90.582786,35.90739,-90.582786,35.90739],
+  "bbox": [
+    -90.582786,
+    35.90739,
+    -90.582786,
+    35.90739
+],
   "geometry": {"coordinates":[-90.582786,35.90739],"type":"Point"}
 }

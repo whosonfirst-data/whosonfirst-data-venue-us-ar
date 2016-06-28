@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102401489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.095186,36.236836,-93.095186,36.236836",
     "geom:latitude":36.236836,
     "geom:longitude":-93.095186,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1508 Silver Valley Rd",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102401489,
-    "wof:lastmodified":1449069813,
+    "wof:lastmodified":1466324855,
     "wof:name":"Harrison Waste Water Treatment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.095186,36.236836,-93.095186,36.236836],
+  "bbox": [
+    -93.095186,
+    36.236836,
+    -93.095186,
+    36.236836
+],
   "geometry": {"coordinates":[-93.095186,36.236836],"type":"Point"}
 }

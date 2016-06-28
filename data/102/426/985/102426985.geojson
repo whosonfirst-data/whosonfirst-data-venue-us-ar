@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102426985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.735932,36.406359,-93.735932,36.406359",
     "geom:latitude":36.406359,
     "geom:longitude":-93.735932,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Cliff St",
     "sg:city":"Eureka Springs",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102426985,
-    "wof:lastmodified":1449068306,
+    "wof:lastmodified":1466325559,
     "wof:name":"Rose of Sharon Cottage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.735932,36.406359,-93.735932,36.406359],
-  "geometry": {"coordinates":[-93.735932,36.406359],"type":"Point"}
+  "bbox": [
+    -93.735932,
+    36.406359,
+    -93.735932,
+    36.406359
+],
+  "geometry": {"coordinates":[-93.73593200000001,36.406359],"type":"Point"}
 }

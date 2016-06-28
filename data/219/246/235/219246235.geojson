@@ -2,13 +2,14 @@
   "id": 219246235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.81244,33.943183,-93.81244,33.943183",
     "geom:latitude":33.943183,
     "geom:longitude":-93.81244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1859 Hempstead 342",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219246235,
-    "wof:lastmodified":1449070622,
+    "wof:lastmodified":1466321305,
     "wof:name":"Roadrunner Auto Sales",
     "wof:parent_id":85806015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "cars-wholesale"
     ]
 },
-  "bbox": [-93.81244,33.943183,-93.81244,33.943183],
+  "bbox": [
+    -93.81244,
+    33.943183,
+    -93.81244,
+    33.943183
+],
   "geometry": {"coordinates":[-93.81244,33.943183],"type":"Point"}
 }

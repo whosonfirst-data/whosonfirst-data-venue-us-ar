@@ -2,13 +2,14 @@
   "id": 220058335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.144196,36.142188,-94.144196,36.142188",
     "geom:latitude":36.142188,
     "geom:longitude":-94.144196,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4618A S Thompson St",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -69,10 +70,11 @@
         }
     ],
     "wof:id":220058335,
-    "wof:lastmodified":1449074152,
+    "wof:lastmodified":1466320926,
     "wof:name":"Fabric Gallery The",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -87,6 +89,11 @@
         "drapery"
     ]
 },
-  "bbox": [-94.144196,36.142188,-94.144196,36.142188],
-  "geometry": {"coordinates":[-94.144196,36.142188],"type":"Point"}
+  "bbox": [
+    -94.144196,
+    36.142188,
+    -94.144196,
+    36.142188
+],
+  "geometry": {"coordinates":[-94.14419599999999,36.142188],"type":"Point"}
 }

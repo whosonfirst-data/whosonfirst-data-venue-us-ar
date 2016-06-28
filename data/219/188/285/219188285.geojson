@@ -2,13 +2,14 @@
   "id": 219188285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.833325,33.584818,-92.833325,33.584818",
     "geom:latitude":33.584818,
     "geom:longitude":-92.833325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 W Washington St",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219188285,
-    "wof:lastmodified":1449072128,
+    "wof:lastmodified":1466320707,
     "wof:name":"Dawson John Insurance Inc",
     "wof:parent_id":85813169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-92.833325,33.584818,-92.833325,33.584818],
+  "bbox": [
+    -92.833325,
+    33.584818,
+    -92.833325,
+    33.584818
+],
   "geometry": {"coordinates":[-92.833325,33.584818],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219308243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.343039,34.606116,-94.343039,34.606116",
     "geom:latitude":34.606116,
     "geom:longitude":-94.343039,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"240 Polk Road 712",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -53,16 +54,22 @@
         }
     ],
     "wof:id":219308243,
-    "wof:lastmodified":1449074025,
+    "wof:lastmodified":1466321800,
     "wof:name":"Ansata Arabian Stud",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "breeder"
     ]
 },
-  "bbox": [-94.343039,34.606116,-94.343039,34.606116],
+  "bbox": [
+    -94.343039,
+    34.606116,
+    -94.343039,
+    34.606116
+],
   "geometry": {"coordinates":[-94.343039,34.606116],"type":"Point"}
 }

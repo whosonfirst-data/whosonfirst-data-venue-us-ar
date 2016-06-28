@@ -2,13 +2,14 @@
   "id": 219532079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.686173,35.250335,-91.686173,35.250335",
     "geom:latitude":35.250335,
     "geom:longitude":-91.686173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1901 E Race Ave",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219532079,
-    "wof:lastmodified":1449071587,
+    "wof:lastmodified":1466324196,
     "wof:name":"Eubanks Agency",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "resume"
     ]
 },
-  "bbox": [-91.686173,35.250335,-91.686173,35.250335],
+  "bbox": [
+    -91.686173,
+    35.250335,
+    -91.686173,
+    35.250335
+],
   "geometry": {"coordinates":[-91.686173,35.250335],"type":"Point"}
 }

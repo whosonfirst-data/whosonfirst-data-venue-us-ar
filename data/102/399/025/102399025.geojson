@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102399025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.094642,34.40245,-93.094642,34.40245",
     "geom:latitude":34.40245,
     "geom:longitude":-93.094642,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6288 Central Ave",
     "sg:city":"Hot Springs",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102399025,
-    "wof:lastmodified":1449068240,
+    "wof:lastmodified":1466324653,
     "wof:name":"Paul L Davis Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.094642,34.40245,-93.094642,34.40245],
-  "geometry": {"coordinates":[-93.094642,34.40245],"type":"Point"}
+  "bbox": [
+    -93.094642,
+    34.40245,
+    -93.094642,
+    34.40245
+],
+  "geometry": {"coordinates":[-93.09464199999999,34.40245],"type":"Point"}
 }

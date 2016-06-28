@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102369181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.498467,34.61874,-92.498467,34.61874",
     "geom:latitude":34.61874,
     "geom:longitude":-92.498467,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22615 I- 30",
     "sg:city":"Bryant",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85817531,
+        85688549,
         85633793,
         85921383,
         102083257,
-        85688549
+        85817531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102369181,
-    "wof:lastmodified":1449070082,
+    "wof:lastmodified":1466324523,
     "wof:name":"Big Three Mobile Homes Inc",
     "wof:parent_id":85817531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.498467,34.61874,-92.498467,34.61874],
-  "geometry": {"coordinates":[-92.498467,34.61874],"type":"Point"}
+  "bbox": [
+    -92.498467,
+    34.61874,
+    -92.498467,
+    34.61874
+],
+  "geometry": {"coordinates":[-92.49846700000001,34.61874],"type":"Point"}
 }

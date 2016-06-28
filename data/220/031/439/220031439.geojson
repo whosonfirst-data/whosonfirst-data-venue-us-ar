@@ -2,13 +2,14 @@
   "id": 220031439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.185982,36.168164,-94.185982,36.168164",
     "geom:latitude":36.168164,
     "geom:longitude":-94.185982,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5000 LUVENE AVE",
     "sg:city":"SPRINGDALE",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220031439,
-    "wof:lastmodified":1449074331,
+    "wof:lastmodified":1466320511,
     "wof:name":"Extended Stay America Fayetteville - Springdale",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "lodging"
     ]
 },
-  "bbox": [-94.185982,36.168164,-94.185982,36.168164],
+  "bbox": [
+    -94.185982,
+    36.168164,
+    -94.185982,
+    36.168164
+],
   "geometry": {"coordinates":[-94.185982,36.168164],"type":"Point"}
 }

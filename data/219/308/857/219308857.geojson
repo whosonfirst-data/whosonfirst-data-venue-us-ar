@@ -2,13 +2,14 @@
   "id": 219308857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.236944,34.584994,-94.236944,34.584994",
     "geom:latitude":34.584994,
     "geom:longitude":-94.236944,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"511 Mena St",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219308857,
-    "wof:lastmodified":1449074028,
+    "wof:lastmodified":1466321805,
     "wof:name":"Putman Family Chiropractic Pa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chiropractic"
     ]
 },
-  "bbox": [-94.236944,34.584994,-94.236944,34.584994],
-  "geometry": {"coordinates":[-94.236944,34.584994],"type":"Point"}
+  "bbox": [
+    -94.236944,
+    34.584994,
+    -94.236944,
+    34.584994
+],
+  "geometry": {"coordinates":[-94.23694399999999,34.584994],"type":"Point"}
 }

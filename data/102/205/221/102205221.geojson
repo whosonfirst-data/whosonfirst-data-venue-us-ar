@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102205221",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.659725,33.222731,-92.659725,33.222731",
     "geom:latitude":33.222731,
     "geom:longitude":-92.659725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1119 N Madison Ave",
     "sg:city":"El Dorado",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102205221",
-    "wof:lastmodified":1449069196,
+    "wof:lastmodified":1466320737,
     "wof:name":"W I Bell Photographer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.659725,33.222731,-92.659725,33.222731],
-  "geometry": {"coordinates":[-92.659725,33.222731],"type":"Point"}
+  "bbox": [
+    -92.659725,
+    33.222731,
+    -92.659725,
+    33.222731
+],
+  "geometry": {"coordinates":[-92.65972499999999,33.222731],"type":"Point"}
 }

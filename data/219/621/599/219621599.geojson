@@ -2,13 +2,14 @@
   "id": 219621599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.729015,35.299679,-90.729015,35.299679",
     "geom:latitude":35.299679,
     "geom:longitude":-90.729015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18 County Road 377",
     "sg:city":"Wynne",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":219621599,
-    "wof:lastmodified":1449073499,
+    "wof:lastmodified":1466324613,
     "wof:name":"Matthews Sweet Potato Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [-90.729015,35.299679,-90.729015,35.299679],
+  "bbox": [
+    -90.729015,
+    35.299679,
+    -90.729015,
+    35.299679
+],
   "geometry": {"coordinates":[-90.729015,35.299679],"type":"Point"}
 }

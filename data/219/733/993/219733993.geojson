@@ -2,13 +2,14 @@
   "id": 219733993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.641522,35.781228,-91.641522,35.781228",
     "geom:latitude":35.781228,
     "geom:longitude":-91.641522,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1222 N Saint Louis",
     "sg:city":"Batesville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219733993,
-    "wof:lastmodified":1449070886,
+    "wof:lastmodified":1466324901,
     "wof:name":"American Motor Inn",
     "wof:parent_id":85845643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.641522,35.781228,-91.641522,35.781228],
-  "geometry": {"coordinates":[-91.641522,35.781228],"type":"Point"}
+  "bbox": [
+    -91.641522,
+    35.781228,
+    -91.641522,
+    35.781228
+],
+  "geometry": {"coordinates":[-91.64152199999999,35.781228],"type":"Point"}
 }

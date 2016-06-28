@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102223979",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.221352,34.794948,-92.221352,34.794948",
     "geom:latitude":34.794948,
     "geom:longitude":-92.221352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3901 McCain Park Dr",
     "sg:city":"N Little Rock",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852263,
+        85688549,
         85633793,
         85921255,
         102082497,
-        85688549
+        85852263
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102223979",
-    "wof:lastmodified":1449067954,
+    "wof:lastmodified":1466321354,
     "wof:name":"Health Link Inc",
     "wof:parent_id":85852263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.221352,34.794948,-92.221352,34.794948],
+  "bbox": [
+    -92.221352,
+    34.794948,
+    -92.221352,
+    34.794948
+],
   "geometry": {"coordinates":[-92.221352,34.794948],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203416181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.530718,33.889907,-91.530718,33.889907",
     "geom:latitude":33.889907,
     "geom:longitude":-91.530718,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 Burns Rd",
     "sg:city":"Dumas",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":203416181,
-    "wof:lastmodified":1449025764,
+    "wof:lastmodified":1466320557,
     "wof:name":"Dumas Aviation Maintenance Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "instrument"
     ]
 },
-  "bbox": [-91.530718,33.889907,-91.530718,33.889907],
-  "geometry": {"coordinates":[-91.530718,33.889907],"type":"Point"}
+  "bbox": [
+    -91.530718,
+    33.889907,
+    -91.530718,
+    33.889907
+],
+  "geometry": {"coordinates":[-91.53071799999999,33.889907],"type":"Point"}
 }

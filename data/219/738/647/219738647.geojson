@@ -2,13 +2,14 @@
   "id": 219738647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.675457,35.652958,-91.675457,35.652958",
     "geom:latitude":35.652958,
     "geom:longitude":-91.675457,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3545 Jamestown Loop",
     "sg:city":"Floral",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219738647,
-    "wof:lastmodified":1449072987,
+    "wof:lastmodified":1466324901,
     "wof:name":"Pennywitt Construction, Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "engineer"
     ]
 },
-  "bbox": [-91.675457,35.652958,-91.675457,35.652958],
-  "geometry": {"coordinates":[-91.675457,35.652958],"type":"Point"}
+  "bbox": [
+    -91.675457,
+    35.652958,
+    -91.675457,
+    35.652958
+],
+  "geometry": {"coordinates":[-91.67545699999999,35.652958],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 235951459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.796605,36.421151,-94.796605,36.421151",
     "geom:latitude":36.421151,
     "geom:longitude":-94.796605,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"454 N Main St",
     "sg:city":"Jay",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":235951459,
-    "wof:lastmodified":1449008285,
+    "wof:lastmodified":1466320446,
     "wof:name":"Teel Insurance Agency",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-94.796605,36.421151,-94.796605,36.421151],
+  "bbox": [
+    -94.796605,
+    36.421151,
+    -94.796605,
+    36.421151
+],
   "geometry": {"coordinates":[-94.796605,36.421151],"type":"Point"}
 }

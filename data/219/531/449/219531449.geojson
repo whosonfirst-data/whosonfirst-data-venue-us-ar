@@ -2,13 +2,14 @@
   "id": 219531449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.825859,35.272204,-91.825859,35.272204",
     "geom:latitude":35.272204,
     "geom:longitude":-91.825859,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"131 Blue Bonnet Lane",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219531449,
-    "wof:lastmodified":1449071227,
+    "wof:lastmodified":1466324191,
     "wof:name":"Michael Burr Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "contractors-commercial"
     ]
 },
-  "bbox": [-91.825859,35.272204,-91.825859,35.272204],
-  "geometry": {"coordinates":[-91.825859,35.272204],"type":"Point"}
+  "bbox": [
+    -91.825859,
+    35.272204,
+    -91.825859,
+    35.272204
+],
+  "geometry": {"coordinates":[-91.82585899999999,35.272204],"type":"Point"}
 }

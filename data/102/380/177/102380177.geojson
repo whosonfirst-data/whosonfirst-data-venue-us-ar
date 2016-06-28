@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102380177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.577019,34.812352,-92.577019,34.812352",
     "geom:latitude":34.812352,
     "geom:longitude":-92.577019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8221 Garrison Rd",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102380177,
-    "wof:lastmodified":1449068884,
+    "wof:lastmodified":1466322125,
     "wof:name":"West Little Rock Auto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.577019,34.812352,-92.577019,34.812352],
-  "geometry": {"coordinates":[-92.577019,34.812352],"type":"Point"}
+  "bbox": [
+    -92.577019,
+    34.812352,
+    -92.577019,
+    34.812352
+],
+  "geometry": {"coordinates":[-92.57701900000001,34.812352],"type":"Point"}
 }

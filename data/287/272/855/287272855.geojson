@@ -2,13 +2,14 @@
   "id": 287272855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.548854,36.179347,-94.548854,36.179347",
     "geom:latitude":36.179347,
     "geom:longitude":-94.548854,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"827 W Harvard St",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287272855,
-    "wof:lastmodified":1449001529,
+    "wof:lastmodified":1466324440,
     "wof:name":"Boys & Girls Club-Siloam Sprng",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-94.548854,36.179347,-94.548854,36.179347],
-  "geometry": {"coordinates":[-94.548854,36.179347],"type":"Point"}
+  "bbox": [
+    -94.548854,
+    36.179347,
+    -94.548854,
+    36.179347
+],
+  "geometry": {"coordinates":[-94.54885400000001,36.179347],"type":"Point"}
 }

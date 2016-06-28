@@ -2,13 +2,14 @@
   "id": 219306927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.251288,34.592096,-94.251288,34.592096",
     "geom:latitude":34.592096,
     "geom:longitude":-94.251288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"605 Polk St N",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219306927,
-    "wof:lastmodified":1449073753,
+    "wof:lastmodified":1466321787,
     "wof:name":"Dilbeck Korine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.251288,34.592096,-94.251288,34.592096],
+  "bbox": [
+    -94.251288,
+    34.592096,
+    -94.251288,
+    34.592096
+],
   "geometry": {"coordinates":[-94.251288,34.592096],"type":"Point"}
 }

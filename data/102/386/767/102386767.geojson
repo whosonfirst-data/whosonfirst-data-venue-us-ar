@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102386767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.345011,35.350162,-94.345011,35.350162",
     "geom:latitude":35.350162,
     "geom:longitude":-94.345011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8399 Rogers Ave",
     "sg:city":"Fort Smith",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85832863,
+        85688549,
         85633793,
         85921431,
         102082025,
-        85688549
+        85832863
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102386767,
-    "wof:lastmodified":1449069012,
+    "wof:lastmodified":1466323486,
     "wof:name":"First Western Mortgage",
     "wof:parent_id":85832863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.345011,35.350162,-94.345011,35.350162],
+  "bbox": [
+    -94.345011,
+    35.350162,
+    -94.345011,
+    35.350162
+],
   "geometry": {"coordinates":[-94.345011,35.350162],"type":"Point"}
 }

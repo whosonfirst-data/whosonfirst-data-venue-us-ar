@@ -2,13 +2,14 @@
   "id": 219293911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.998241,34.313419,-92.998241,34.313419",
     "geom:latitude":34.313419,
     "geom:longitude":-92.998241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4080 Antioch Rd",
     "sg:city":"Donaldson",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":219293911,
-    "wof:lastmodified":1449071088,
+    "wof:lastmodified":1466321680,
     "wof:name":"Antioch Assembly Of God Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "churches-assemblies"
     ]
 },
-  "bbox": [-92.998241,34.313419,-92.998241,34.313419],
-  "geometry": {"coordinates":[-92.998241,34.313419],"type":"Point"}
+  "bbox": [
+    -92.998241,
+    34.313419,
+    -92.998241,
+    34.313419
+],
+  "geometry": {"coordinates":[-92.99824099999999,34.313419],"type":"Point"}
 }

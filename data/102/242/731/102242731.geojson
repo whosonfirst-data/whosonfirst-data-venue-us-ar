@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102242731",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.197193,36.346104,-94.197193,36.346104",
     "geom:latitude":36.346104,
     "geom:longitude":-94.197193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2501 SE J St",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895815,
+        85688549,
         85633793,
         85921509,
         102083255,
-        85688549
+        85895815
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102242731",
-    "wof:lastmodified":1449069898,
+    "wof:lastmodified":1466321754,
     "wof:name":"Prg-Schultz International",
     "wof:parent_id":85895815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.197193,36.346104,-94.197193,36.346104],
+  "bbox": [
+    -94.197193,
+    36.346104,
+    -94.197193,
+    36.346104
+],
   "geometry": {"coordinates":[-94.197193,36.346104],"type":"Point"}
 }

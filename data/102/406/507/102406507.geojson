@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102406507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.46508,35.47029,-93.46508,35.47029",
     "geom:latitude":35.47029,
     "geom:longitude":-93.46508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 W Sevier St",
     "sg:city":"Clarksville",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102406507,
-    "wof:lastmodified":1449069038,
+    "wof:lastmodified":1466324972,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.46508,35.47029,-93.46508,35.47029],
+  "bbox": [
+    -93.46508,
+    35.47029,
+    -93.46508,
+    35.47029
+],
   "geometry": {"coordinates":[-93.46508,35.47029],"type":"Point"}
 }

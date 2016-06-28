@@ -2,13 +2,14 @@
   "id": 219837337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.153348,36.102082,-94.153348,36.102082",
     "geom:latitude":36.102082,
     "geom:longitude":-94.153348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2764 N Barcelona Ave",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219837337,
-    "wof:lastmodified":1449070938,
+    "wof:lastmodified":1466324936,
     "wof:name":"Voyles Automotive Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "handyman"
     ]
 },
-  "bbox": [-94.153348,36.102082,-94.153348,36.102082],
-  "geometry": {"coordinates":[-94.153348,36.102082],"type":"Point"}
+  "bbox": [
+    -94.153348,
+    36.102082,
+    -94.153348,
+    36.102082
+],
+  "geometry": {"coordinates":[-94.15334799999999,36.102082],"type":"Point"}
 }

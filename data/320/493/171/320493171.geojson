@@ -2,13 +2,14 @@
   "id": 320493171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.253675,34.585707,-94.253675,34.585707",
     "geom:latitude":34.585707,
     "geom:longitude":-94.253675,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"311 Eve St S",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320493171,
-    "wof:lastmodified":1449012459,
+    "wof:lastmodified":1466320564,
     "wof:name":"Joe Hardegree Attorney",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-94.253675,34.585707,-94.253675,34.585707],
+  "bbox": [
+    -94.253675,
+    34.585707,
+    -94.253675,
+    34.585707
+],
   "geometry": {"coordinates":[-94.253675,34.585707],"type":"Point"}
 }

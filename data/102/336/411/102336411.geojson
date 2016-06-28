@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102336411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.104469,36.3234,-94.104469,36.3234",
     "geom:latitude":36.3234,
     "geom:longitude":-94.104469,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"804 S J St",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895849,
+        85688549,
         85633793,
         85921535,
         102083255,
-        85688549
+        85895849
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102336411,
-    "wof:lastmodified":1449067721,
+    "wof:lastmodified":1466323798,
     "wof:name":"All Home Building",
     "wof:parent_id":85895849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.104469,36.3234,-94.104469,36.3234],
-  "geometry": {"coordinates":[-94.104469,36.3234],"type":"Point"}
+  "bbox": [
+    -94.104469,
+    36.3234,
+    -94.104469,
+    36.3234
+],
+  "geometry": {"coordinates":[-94.10446899999999,36.3234],"type":"Point"}
 }

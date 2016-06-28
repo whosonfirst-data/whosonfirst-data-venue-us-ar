@@ -2,13 +2,14 @@
   "id": 353918251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.773361,36.536449,-94.773361,36.536449",
     "geom:latitude":36.536449,
     "geom:longitude":-94.773361,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33350 S 620 Rd",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353918251,
-    "wof:lastmodified":1449019972,
+    "wof:lastmodified":1466320547,
     "wof:name":"Neo Concrete & Materials Inc",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "concrete"
     ]
 },
-  "bbox": [-94.773361,36.536449,-94.773361,36.536449],
-  "geometry": {"coordinates":[-94.773361,36.536449],"type":"Point"}
+  "bbox": [
+    -94.773361,
+    36.536449,
+    -94.773361,
+    36.536449
+],
+  "geometry": {"coordinates":[-94.77336099999999,36.536449],"type":"Point"}
 }

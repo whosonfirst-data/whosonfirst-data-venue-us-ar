@@ -2,13 +2,14 @@
   "id": 219510399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.75197,35.251062,-91.75197,35.251062",
     "geom:latitude":35.251062,
     "geom:longitude":-91.75197,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1523 E Race Ave",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":219510399,
-    "wof:lastmodified":1449072513,
+    "wof:lastmodified":1466324034,
     "wof:name":"Searcy Discount Tire Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "wheels-aligning"
     ]
 },
-  "bbox": [-91.75197,35.251062,-91.75197,35.251062],
+  "bbox": [
+    -91.75197,
+    35.251062,
+    -91.75197,
+    35.251062
+],
   "geometry": {"coordinates":[-91.75197,35.251062],"type":"Point"}
 }

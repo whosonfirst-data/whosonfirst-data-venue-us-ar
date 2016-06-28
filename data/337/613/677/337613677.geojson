@@ -2,13 +2,14 @@
   "id": 337613677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.679554,36.65846,-94.679554,36.65846",
     "geom:latitude":36.65846,
     "geom:longitude":-94.679554,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24100 S 670 Rd",
     "sg:city":"Wyandotte",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":337613677,
-    "wof:lastmodified":1449027325,
+    "wof:lastmodified":1466324511,
     "wof:name":"Hilltop Farms",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-94.679554,36.65846,-94.679554,36.65846],
+  "bbox": [
+    -94.679554,
+    36.65846,
+    -94.679554,
+    36.65846
+],
   "geometry": {"coordinates":[-94.679554,36.65846],"type":"Point"}
 }

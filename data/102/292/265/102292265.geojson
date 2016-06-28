@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102292265",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.49559,33.894249,-91.49559,33.894249",
     "geom:latitude":33.894249,
     "geom:longitude":-91.49559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 N Main St",
     "sg:city":"Dumas",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102292265",
-    "wof:lastmodified":1449068001,
+    "wof:lastmodified":1466322831,
     "wof:name":"Federal-Mogul Corporation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.49559,33.894249,-91.49559,33.894249],
-  "geometry": {"coordinates":[-91.49559,33.894249],"type":"Point"}
+  "bbox": [
+    -91.49559,
+    33.894249,
+    -91.49559,
+    33.894249
+],
+  "geometry": {"coordinates":[-91.49559000000001,33.894249],"type":"Point"}
 }

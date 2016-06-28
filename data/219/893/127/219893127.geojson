@@ -2,13 +2,14 @@
   "id": 219893127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.21385,36.357676,-94.21385,36.357676",
     "geom:latitude":36.357676,
     "geom:longitude":-94.21385,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1311 S Walton Blvd",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219893127,
-    "wof:lastmodified":1449073260,
+    "wof:lastmodified":1466325181,
     "wof:name":"KOBE Sushi & Grill",
     "wof:parent_id":85895819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "japanese"
     ]
 },
-  "bbox": [-94.21385,36.357676,-94.21385,36.357676],
-  "geometry": {"coordinates":[-94.21385,36.357676],"type":"Point"}
+  "bbox": [
+    -94.21385,
+    36.357676,
+    -94.21385,
+    36.357676
+],
+  "geometry": {"coordinates":[-94.21384999999999,36.357676],"type":"Point"}
 }

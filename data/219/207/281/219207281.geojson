@@ -2,13 +2,14 @@
   "id": 219207281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.325508,33.19884,-93.325508,33.19884",
     "geom:latitude":33.19884,
     "geom:longitude":-93.325508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3061 Columbia Road 15",
     "sg:city":"Magnolia",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":219207281,
-    "wof:lastmodified":1449072863,
+    "wof:lastmodified":1466320932,
     "wof:name":"Philadelphia Methodist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "churches-methodist"
     ]
 },
-  "bbox": [-93.325508,33.19884,-93.325508,33.19884],
+  "bbox": [
+    -93.325508,
+    33.19884,
+    -93.325508,
+    33.19884
+],
   "geometry": {"coordinates":[-93.325508,33.19884],"type":"Point"}
 }

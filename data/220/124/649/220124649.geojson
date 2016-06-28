@@ -2,13 +2,14 @@
   "id": 220124649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.858917,35.490219,-93.858917,35.490219",
     "geom:latitude":35.490219,
     "geom:longitude":-93.858917,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 S 30th St Ste C",
     "sg:city":"Ozark",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220124649,
-    "wof:lastmodified":1449074825,
+    "wof:lastmodified":1466322679,
     "wof:name":"Ctlg Sales Merchant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.858917,35.490219,-93.858917,35.490219],
-  "geometry": {"coordinates":[-93.858917,35.490219],"type":"Point"}
+  "bbox": [
+    -93.858917,
+    35.490219,
+    -93.858917,
+    35.490219
+],
+  "geometry": {"coordinates":[-93.85891700000001,35.490219],"type":"Point"}
 }

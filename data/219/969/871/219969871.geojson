@@ -2,13 +2,14 @@
   "id": 219969871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.110417,36.342178,-94.110417,36.342178",
     "geom:latitude":36.342178,
     "geom:longitude":-94.110417,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"506 E Spruce St",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -60,16 +61,22 @@
         }
     ],
     "wof:id":219969871,
-    "wof:lastmodified":1449071243,
+    "wof:lastmodified":1466325225,
     "wof:name":"Volunteer Action Center of NW. Arkansas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welfare"
     ]
 },
-  "bbox": [-94.110417,36.342178,-94.110417,36.342178],
+  "bbox": [
+    -94.110417,
+    36.342178,
+    -94.110417,
+    36.342178
+],
   "geometry": {"coordinates":[-94.110417,36.342178],"type":"Point"}
 }

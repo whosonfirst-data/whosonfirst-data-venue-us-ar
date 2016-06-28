@@ -2,13 +2,14 @@
   "id": 219951553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.14376,36.334003,-94.14376,36.334003",
     "geom:latitude":36.334003,
     "geom:longitude":-94.14376,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 N Dixieland Rd",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219951553,
-    "wof:lastmodified":1449070528,
+    "wof:lastmodified":1466325102,
     "wof:name":"Olympic Fitness & Tae Kwon DO Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.14376,36.334003,-94.14376,36.334003],
+  "bbox": [
+    -94.14376,
+    36.334003,
+    -94.14376,
+    36.334003
+],
   "geometry": {"coordinates":[-94.14376,36.334003],"type":"Point"}
 }

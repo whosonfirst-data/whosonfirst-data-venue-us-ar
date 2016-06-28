@@ -2,13 +2,14 @@
   "id": 220014147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.170776,36.174129,-94.170776,36.174129",
     "geom:latitude":36.174129,
     "geom:longitude":-94.170776,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1399 Willard St",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220014147,
-    "wof:lastmodified":1449074425,
+    "wof:lastmodified":1466320476,
     "wof:name":"Little Agency Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-94.170776,36.174129,-94.170776,36.174129],
+  "bbox": [
+    -94.170776,
+    36.174129,
+    -94.170776,
+    36.174129
+],
   "geometry": {"coordinates":[-94.170776,36.174129],"type":"Point"}
 }

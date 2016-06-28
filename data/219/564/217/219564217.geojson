@@ -2,13 +2,14 @@
   "id": 219564217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.820926,34.994552,-91.820926,34.994552",
     "geom:latitude":34.994552,
     "geom:longitude":-91.820926,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1329 Black Jack Rd",
     "sg:city":"Ward",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219564217,
-    "wof:lastmodified":1449073703,
+    "wof:lastmodified":1466324435,
     "wof:name":"Duck Creek Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "game"
     ]
 },
-  "bbox": [-91.820926,34.994552,-91.820926,34.994552],
+  "bbox": [
+    -91.820926,
+    34.994552,
+    -91.820926,
+    34.994552
+],
   "geometry": {"coordinates":[-91.820926,34.994552],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219930097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.908301,36.192071,-93.908301,36.192071",
     "geom:latitude":36.192071,
     "geom:longitude":-93.908301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23640 Joyner Rd Ste 517",
     "sg:city":"Hindsville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219930097,
-    "wof:lastmodified":1449071523,
+    "wof:lastmodified":1466325061,
     "wof:name":"Lester E Joyner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "dump"
     ]
 },
-  "bbox": [-93.908301,36.192071,-93.908301,36.192071],
-  "geometry": {"coordinates":[-93.908301,36.192071],"type":"Point"}
+  "bbox": [
+    -93.908301,
+    36.192071,
+    -93.908301,
+    36.192071
+],
+  "geometry": {"coordinates":[-93.90830099999999,36.192071],"type":"Point"}
 }

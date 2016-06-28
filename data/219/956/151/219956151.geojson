@@ -2,13 +2,14 @@
   "id": 219956151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.048316,36.315023,-94.048316,36.315023",
     "geom:latitude":36.315023,
     "geom:longitude":-94.048316,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15072 Crawford Pt",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219956151,
-    "wof:lastmodified":1449070987,
+    "wof:lastmodified":1466325199,
     "wof:name":"Arkansas War Cats Football Club, Inc.",
     "wof:parent_id":85805141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.048316,36.315023,-94.048316,36.315023],
+  "bbox": [
+    -94.048316,
+    36.315023,
+    -94.048316,
+    36.315023
+],
   "geometry": {"coordinates":[-94.048316,36.315023],"type":"Point"}
 }

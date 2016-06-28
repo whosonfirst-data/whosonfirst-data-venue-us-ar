@@ -2,13 +2,14 @@
   "id": 219913613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.9312,35.84111,-93.9312,35.84111",
     "geom:latitude":35.84111,
     "geom:longitude":-93.9312,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"436 Madison 4230",
     "sg:city":"Elkins",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219913613,
-    "wof:lastmodified":1449071751,
+    "wof:lastmodified":1466325117,
     "wof:name":"Shepherd Logging",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "logging"
     ]
 },
-  "bbox": [-93.9312,35.84111,-93.9312,35.84111],
+  "bbox": [
+    -93.9312,
+    35.84111,
+    -93.9312,
+    35.84111
+],
   "geometry": {"coordinates":[-93.9312,35.84111],"type":"Point"}
 }

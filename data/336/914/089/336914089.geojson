@@ -2,13 +2,14 @@
   "id": 336914089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.319943,34.5754,-94.319943,34.5754",
     "geom:latitude":34.5754,
     "geom:longitude":-94.319943,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"167 Mustang Ln",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":336914089,
-    "wof:lastmodified":1448997354,
+    "wof:lastmodified":1466320467,
     "wof:name":"Ouachita Welding Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-94.319943,34.5754,-94.319943,34.5754],
-  "geometry": {"coordinates":[-94.319943,34.5754],"type":"Point"}
+  "bbox": [
+    -94.319943,
+    34.5754,
+    -94.319943,
+    34.5754
+],
+  "geometry": {"coordinates":[-94.31994299999999,34.5754],"type":"Point"}
 }

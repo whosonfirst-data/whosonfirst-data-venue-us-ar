@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102313581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.954371,36.329203,-93.954371,36.329203",
     "geom:latitude":36.329203,
     "geom:longitude":-93.954371,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19308 Pinecrest Trl",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":102313581,
-    "wof:lastmodified":1449067840,
+    "wof:lastmodified":1466323341,
     "wof:name":"Thompson Medical Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.954371,36.329203,-93.954371,36.329203],
-  "geometry": {"coordinates":[-93.954371,36.329203],"type":"Point"}
+  "bbox": [
+    -93.954371,
+    36.329203,
+    -93.954371,
+    36.329203
+],
+  "geometry": {"coordinates":[-93.95437099999999,36.329203],"type":"Point"}
 }

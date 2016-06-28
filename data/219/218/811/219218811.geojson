@@ -2,13 +2,14 @@
   "id": 219218811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.245491,33.267159,-93.245491,33.267159",
     "geom:latitude":33.267159,
     "geom:longitude":-93.245491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"503 W Main St",
     "sg:city":"Magnolia",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":219218811,
-    "wof:lastmodified":1449072619,
+    "wof:lastmodified":1466321035,
     "wof:name":"Magnolia Carpet One Floor & Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "contractor"
     ]
 },
-  "bbox": [-93.245491,33.267159,-93.245491,33.267159],
+  "bbox": [
+    -93.245491,
+    33.267159,
+    -93.245491,
+    33.267159
+],
   "geometry": {"coordinates":[-93.245491,33.267159],"type":"Point"}
 }

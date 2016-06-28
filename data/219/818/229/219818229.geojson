@@ -2,13 +2,14 @@
   "id": 219818229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.168469,36.069318,-94.168469,36.069318",
     "geom:latitude":36.069318,
     "geom:longitude":-94.168469,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"410 N Arkansas Ave",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":219818229,
-    "wof:lastmodified":1449072109,
+    "wof:lastmodified":1466324902,
     "wof:name":"Speech & Hearing Clinic",
     "wof:parent_id":85885453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "therapy"
     ]
 },
-  "bbox": [-94.168469,36.069318,-94.168469,36.069318],
+  "bbox": [
+    -94.168469,
+    36.069318,
+    -94.168469,
+    36.069318
+],
   "geometry": {"coordinates":[-94.168469,36.069318],"type":"Point"}
 }

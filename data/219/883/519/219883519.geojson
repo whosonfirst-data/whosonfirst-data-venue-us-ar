@@ -2,13 +2,14 @@
   "id": 219883519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.158168,36.463034,-94.158168,36.463034",
     "geom:latitude":36.463034,
     "geom:longitude":-94.158168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15579 Mariano Rd",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219883519,
-    "wof:lastmodified":1449073100,
+    "wof:lastmodified":1466325067,
     "wof:name":"Ted's Trains And Hobbies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-94.158168,36.463034,-94.158168,36.463034],
+  "bbox": [
+    -94.158168,
+    36.463034,
+    -94.158168,
+    36.463034
+],
   "geometry": {"coordinates":[-94.158168,36.463034],"type":"Point"}
 }

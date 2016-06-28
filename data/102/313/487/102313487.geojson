@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102313487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.009583,34.236273,-93.009583,34.236273",
     "geom:latitude":34.236273,
     "geom:longitude":-93.009583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"966 Caney Rd",
     "sg:city":"Arkadelphia",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102313487,
-    "wof:lastmodified":1449067838,
+    "wof:lastmodified":1466323321,
     "wof:name":"Friendship Compactor Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.009583,34.236273,-93.009583,34.236273],
-  "geometry": {"coordinates":[-93.009583,34.236273],"type":"Point"}
+  "bbox": [
+    -93.009583,
+    34.236273,
+    -93.009583,
+    34.236273
+],
+  "geometry": {"coordinates":[-93.00958300000001,34.236273],"type":"Point"}
 }

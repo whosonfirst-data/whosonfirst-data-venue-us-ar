@@ -2,13 +2,14 @@
   "id": 219308657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.191752,34.547823,-94.191752,34.547823",
     "geom:latitude":34.547823,
     "geom:longitude":-94.191752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2968 Highway 8 E",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219308657,
-    "wof:lastmodified":1449074025,
+    "wof:lastmodified":1466321803,
     "wof:name":"Precision Flow Maintenance Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "measurement"
     ]
 },
-  "bbox": [-94.191752,34.547823,-94.191752,34.547823],
-  "geometry": {"coordinates":[-94.191752,34.547823],"type":"Point"}
+  "bbox": [
+    -94.191752,
+    34.547823,
+    -94.191752,
+    34.547823
+],
+  "geometry": {"coordinates":[-94.19175199999999,34.547823],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219889241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.2135,36.3408,-94.2135,36.3408",
     "geom:latitude":36.3408,
     "geom:longitude":-94.2135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3000 SW Regency Park Way",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219889241,
-    "wof:lastmodified":1449070315,
+    "wof:lastmodified":1466325074,
     "wof:name":"Frigidaire Home Products",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gardening"
     ]
 },
-  "bbox": [-94.2135,36.3408,-94.2135,36.3408],
+  "bbox": [
+    -94.2135,
+    36.3408,
+    -94.2135,
+    36.3408
+],
   "geometry": {"coordinates":[-94.2135,36.3408],"type":"Point"}
 }

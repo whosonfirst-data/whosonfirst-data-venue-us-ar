@@ -2,13 +2,14 @@
   "id": 219991267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.19148,36.296922,-94.19148,36.296922",
     "geom:latitude":36.296922,
     "geom:longitude":-94.19148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Saint Andrews Dr",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219991267,
-    "wof:lastmodified":1449071506,
+    "wof:lastmodified":1466325440,
     "wof:name":"Higland West Development",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.19148,36.296922,-94.19148,36.296922],
+  "bbox": [
+    -94.19148,
+    36.296922,
+    -94.19148,
+    36.296922
+],
   "geometry": {"coordinates":[-94.19148,36.296922],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219213835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.291497,33.214301,-93.291497,33.214301",
     "geom:latitude":33.214301,
     "geom:longitude":-93.291497,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1916 Columbia Road 15",
     "sg:city":"Magnolia",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219213835,
-    "wof:lastmodified":1449070413,
+    "wof:lastmodified":1466320992,
     "wof:name":"Frances Jane Dodson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.291497,33.214301,-93.291497,33.214301],
-  "geometry": {"coordinates":[-93.291497,33.214301],"type":"Point"}
+  "bbox": [
+    -93.291497,
+    33.214301,
+    -93.291497,
+    33.214301
+],
+  "geometry": {"coordinates":[-93.29149700000001,33.214301],"type":"Point"}
 }

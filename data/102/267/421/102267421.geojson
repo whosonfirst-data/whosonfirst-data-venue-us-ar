@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102267421",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.119627,36.166416,-94.119627,36.166416",
     "geom:latitude":36.166416,
     "geom:longitude":-94.119627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2921 S Old Missouri Rd",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102267421",
-    "wof:lastmodified":1449069974,
+    "wof:lastmodified":1466322295,
     "wof:name":"Gates Direct",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.119627,36.166416,-94.119627,36.166416],
-  "geometry": {"coordinates":[-94.119627,36.166416],"type":"Point"}
+  "bbox": [
+    -94.119627,
+    36.166416,
+    -94.119627,
+    36.166416
+],
+  "geometry": {"coordinates":[-94.11962699999999,36.166416],"type":"Point"}
 }

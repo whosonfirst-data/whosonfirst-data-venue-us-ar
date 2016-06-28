@@ -2,13 +2,14 @@
   "id": 219752411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.988837,36.396549,-91.988837,36.396549",
     "geom:latitude":36.396549,
     "geom:longitude":-91.988837,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10055 Highway 62 W",
     "sg:city":"Viola",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219752411,
-    "wof:lastmodified":1449070976,
+    "wof:lastmodified":1466324909,
     "wof:name":"J & P Flash Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.988837,36.396549,-91.988837,36.396549],
+  "bbox": [
+    -91.988837,
+    36.396549,
+    -91.988837,
+    36.396549
+],
   "geometry": {"coordinates":[-91.988837,36.396549],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219660425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.782573,36.232238,-90.782573,36.232238",
     "geom:latitude":36.232238,
     "geom:longitude":-90.782573,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7326 Highway 304 E",
     "sg:city":"Delaplaine",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219660425,
-    "wof:lastmodified":1449073553,
+    "wof:lastmodified":1466324778,
     "wof:name":"Sharum Free Will Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "churches-baptist"
     ]
 },
-  "bbox": [-90.782573,36.232238,-90.782573,36.232238],
+  "bbox": [
+    -90.782573,
+    36.232238,
+    -90.782573,
+    36.232238
+],
   "geometry": {"coordinates":[-90.782573,36.232238],"type":"Point"}
 }

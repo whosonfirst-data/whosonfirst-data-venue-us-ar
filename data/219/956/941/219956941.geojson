@@ -2,13 +2,14 @@
   "id": 219956941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.14059,36.334044,-94.14059,36.334044",
     "geom:latitude":36.334044,
     "geom:longitude":-94.14059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1601 W Walnut St",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":219956941,
-    "wof:lastmodified":1449070988,
+    "wof:lastmodified":1466325125,
     "wof:name":"Knight Times Tattoo IV",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "body"
     ]
 },
-  "bbox": [-94.14059,36.334044,-94.14059,36.334044],
+  "bbox": [
+    -94.14059,
+    36.334044,
+    -94.14059,
+    36.334044
+],
   "geometry": {"coordinates":[-94.14059,36.334044],"type":"Point"}
 }

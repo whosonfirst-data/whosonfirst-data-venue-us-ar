@@ -2,13 +2,14 @@
   "id": 219955157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.126184,36.315528,-94.126184,36.315528",
     "geom:latitude":36.315528,
     "geom:longitude":-94.126184,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1710 S 8th St",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219955157,
-    "wof:lastmodified":1449072843,
+    "wof:lastmodified":1466325245,
     "wof:name":"Refunds Inc",
     "wof:parent_id":85895849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "preparation-business"
     ]
 },
-  "bbox": [-94.126184,36.315528,-94.126184,36.315528],
-  "geometry": {"coordinates":[-94.126184,36.315528],"type":"Point"}
+  "bbox": [
+    -94.126184,
+    36.315528,
+    -94.126184,
+    36.315528
+],
+  "geometry": {"coordinates":[-94.12618399999999,36.315528],"type":"Point"}
 }

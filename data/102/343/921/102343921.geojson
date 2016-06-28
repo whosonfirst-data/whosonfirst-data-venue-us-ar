@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102343921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.341248,34.294184,-91.341248,34.294184",
     "geom:latitude":34.294184,
     "geom:longitude":-91.341248,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"509 W 1st St",
     "sg:city":"De Witt",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102343921,
-    "wof:lastmodified":1449069516,
+    "wof:lastmodified":1466323983,
     "wof:name":"Little Red Schollhouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.341248,34.294184,-91.341248,34.294184],
-  "geometry": {"coordinates":[-91.341248,34.294184],"type":"Point"}
+  "bbox": [
+    -91.341248,
+    34.294184,
+    -91.341248,
+    34.294184
+],
+  "geometry": {"coordinates":[-91.34124799999999,34.294184],"type":"Point"}
 }

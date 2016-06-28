@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102303989",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.252203,34.805298,-92.252203,34.805298",
     "geom:latitude":34.805298,
     "geom:longitude":-92.252203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5100 John F Kennedy Blvd",
     "sg:city":"Sherwood",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851793,
+        85688549,
         85633793,
         85921255,
         102082497,
-        85688549
+        85851793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102303989",
-    "wof:lastmodified":1449067775,
+    "wof:lastmodified":1466323218,
     "wof:name":"Employment Specialists",
     "wof:parent_id":85851793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.252203,34.805298,-92.252203,34.805298],
-  "geometry": {"coordinates":[-92.252203,34.805298],"type":"Point"}
+  "bbox": [
+    -92.252203,
+    34.805298,
+    -92.252203,
+    34.805298
+],
+  "geometry": {"coordinates":[-92.25220299999999,34.805298],"type":"Point"}
 }

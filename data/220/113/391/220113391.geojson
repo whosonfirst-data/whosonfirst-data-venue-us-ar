@@ -2,13 +2,14 @@
   "id": 220113391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.299512,35.230971,-94.299512,35.230971",
     "geom:latitude":35.230971,
     "geom:longitude":-94.299512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2704 Edgewater Dr",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220113391,
-    "wof:lastmodified":1449074808,
+    "wof:lastmodified":1466322475,
     "wof:name":"Larry Seifert",
     "wof:parent_id":85808359,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bureau"
     ]
 },
-  "bbox": [-94.299512,35.230971,-94.299512,35.230971],
-  "geometry": {"coordinates":[-94.299512,35.230971],"type":"Point"}
+  "bbox": [
+    -94.299512,
+    35.230971,
+    -94.299512,
+    35.230971
+],
+  "geometry": {"coordinates":[-94.29951199999999,35.230971],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219362923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.019493,34.975634,-92.019493,34.975634",
     "geom:latitude":34.975634,
     "geom:longitude":-92.019493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"502 W Main St",
     "sg:city":"Cabot",
     "sg:classifiers":[
@@ -70,10 +71,11 @@
         }
     ],
     "wof:id":219362923,
-    "wof:lastmodified":1449072666,
+    "wof:lastmodified":1466322450,
     "wof:name":"Allstate Insurance Company - Mark Goings",
     "wof:parent_id":85839277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -85,6 +87,11 @@
         "renter"
     ]
 },
-  "bbox": [-92.019493,34.975634,-92.019493,34.975634],
+  "bbox": [
+    -92.019493,
+    34.975634,
+    -92.019493,
+    34.975634
+],
   "geometry": {"coordinates":[-92.019493,34.975634],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219998913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.168204,36.287838,-94.168204,36.287838",
     "geom:latitude":36.287838,
     "geom:longitude":-94.168204,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2603 W Pleasant Grove Rd",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219998913,
-    "wof:lastmodified":1449071563,
+    "wof:lastmodified":1466325255,
     "wof:name":"Wireless One Stop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.168204,36.287838,-94.168204,36.287838],
+  "bbox": [
+    -94.168204,
+    36.287838,
+    -94.168204,
+    36.287838
+],
   "geometry": {"coordinates":[-94.168204,36.287838],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219446431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.667183,35.232288,-91.667183,35.232288",
     "geom:latitude":35.232288,
     "geom:longitude":-91.667183,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 NE 1st St",
     "sg:city":"Kensett",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219446431,
-    "wof:lastmodified":1449073616,
+    "wof:lastmodified":1466323320,
     "wof:name":"Kensett Voluntary Fire Department",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-91.667183,35.232288,-91.667183,35.232288],
-  "geometry": {"coordinates":[-91.667183,35.232288],"type":"Point"}
+  "bbox": [
+    -91.667183,
+    35.232288,
+    -91.667183,
+    35.232288
+],
+  "geometry": {"coordinates":[-91.66718299999999,35.232288],"type":"Point"}
 }

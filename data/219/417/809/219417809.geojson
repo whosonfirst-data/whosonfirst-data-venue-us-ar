@@ -2,13 +2,14 @@
   "id": 219417809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.377435,34.117456,-91.377435,34.117456",
     "geom:latitude":34.117456,
     "geom:longitude":-91.377435,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 W Main St",
     "sg:city":"Gillett",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219417809,
-    "wof:lastmodified":1449071835,
+    "wof:lastmodified":1466323004,
     "wof:name":"Youngs Refrigeration & Electric Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-91.377435,34.117456,-91.377435,34.117456],
-  "geometry": {"coordinates":[-91.377435,34.117456],"type":"Point"}
+  "bbox": [
+    -91.377435,
+    34.117456,
+    -91.377435,
+    34.117456
+],
+  "geometry": {"coordinates":[-91.37743500000001,34.117456],"type":"Point"}
 }

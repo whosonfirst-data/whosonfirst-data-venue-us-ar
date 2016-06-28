@@ -2,13 +2,14 @@
   "id": 219877321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.222351,36.3419,-94.222351,36.3419",
     "geom:latitude":36.3419,
     "geom:longitude":-94.222351,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3101 SW I St",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219877321,
-    "wof:lastmodified":1449072872,
+    "wof:lastmodified":1466325062,
     "wof:name":"Hawkeye Management",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.222351,36.3419,-94.222351,36.3419],
+  "bbox": [
+    -94.222351,
+    36.3419,
+    -94.222351,
+    36.3419
+],
   "geometry": {"coordinates":[-94.222351,36.3419],"type":"Point"}
 }

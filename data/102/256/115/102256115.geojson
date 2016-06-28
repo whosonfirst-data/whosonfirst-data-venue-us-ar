@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102256115",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.045904,34.532544,-93.045904,34.532544",
     "geom:latitude":34.532544,
     "geom:longitude":-93.045904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Logan Loop",
     "sg:city":"Hot Springs National",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102256115",
-    "wof:lastmodified":1449069613,
+    "wof:lastmodified":1466321958,
     "wof:name":"Incense and Stuff",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.045904,34.532544,-93.045904,34.532544],
-  "geometry": {"coordinates":[-93.045904,34.532544],"type":"Point"}
+  "bbox": [
+    -93.045904,
+    34.532544,
+    -93.045904,
+    34.532544
+],
+  "geometry": {"coordinates":[-93.04590399999999,34.532544],"type":"Point"}
 }

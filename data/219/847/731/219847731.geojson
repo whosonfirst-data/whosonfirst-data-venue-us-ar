@@ -2,13 +2,14 @@
   "id": 219847731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.145062,36.112674,-94.145062,36.112674",
     "geom:latitude":36.112674,
     "geom:longitude":-94.145062,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3372 N College Ave",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":219847731,
-    "wof:lastmodified":1449071677,
+    "wof:lastmodified":1466324963,
     "wof:name":"Superior Nissan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "new"
     ]
 },
-  "bbox": [-94.145062,36.112674,-94.145062,36.112674],
+  "bbox": [
+    -94.145062,
+    36.112674,
+    -94.145062,
+    36.112674
+],
   "geometry": {"coordinates":[-94.145062,36.112674],"type":"Point"}
 }

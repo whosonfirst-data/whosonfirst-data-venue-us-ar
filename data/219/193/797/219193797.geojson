@@ -2,13 +2,14 @@
   "id": 219193797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.69784,33.799706,-92.69784,33.799706",
     "geom:latitude":33.799706,
     "geom:longitude":-92.69784,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1417 Ouachita Road 95",
     "sg:city":"Bearden",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219193797,
-    "wof:lastmodified":1449070959,
+    "wof:lastmodified":1466320811,
     "wof:name":"Williams, Tamora",
     "wof:parent_id":85813169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "reporters-court"
     ]
 },
-  "bbox": [-92.69784,33.799706,-92.69784,33.799706],
+  "bbox": [
+    -92.69784,
+    33.799706,
+    -92.69784,
+    33.799706
+],
   "geometry": {"coordinates":[-92.69784,33.799706],"type":"Point"}
 }

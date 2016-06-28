@@ -2,13 +2,14 @@
   "id": 219813649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.126699,36.085606,-94.126699,36.085606",
     "geom:latitude":36.085606,
     "geom:longitude":-94.126699,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2435 E Bristol Pl",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219813649,
-    "wof:lastmodified":1449071308,
+    "wof:lastmodified":1466324963,
     "wof:name":"Robert A Maranto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "seminar"
     ]
 },
-  "bbox": [-94.126699,36.085606,-94.126699,36.085606],
+  "bbox": [
+    -94.126699,
+    36.085606,
+    -94.126699,
+    36.085606
+],
   "geometry": {"coordinates":[-94.126699,36.085606],"type":"Point"}
 }

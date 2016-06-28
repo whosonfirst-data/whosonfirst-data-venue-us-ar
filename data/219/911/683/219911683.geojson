@@ -2,13 +2,14 @@
   "id": 219911683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.419571,36.337009,-94.419571,36.337009",
     "geom:latitude":36.337009,
     "geom:longitude":-94.419571,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17341 W Highway 102",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219911683,
-    "wof:lastmodified":1449073337,
+    "wof:lastmodified":1466325118,
     "wof:name":"Btb Architecture, P",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "architectural"
     ]
 },
-  "bbox": [-94.419571,36.337009,-94.419571,36.337009],
+  "bbox": [
+    -94.419571,
+    36.337009,
+    -94.419571,
+    36.337009
+],
   "geometry": {"coordinates":[-94.419571,36.337009],"type":"Point"}
 }

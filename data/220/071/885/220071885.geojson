@@ -2,13 +2,14 @@
   "id": 220071885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.12449,35.257099,-93.12449,35.257099",
     "geom:latitude":35.257099,
     "geom:longitude":-93.12449,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"918 E 23rd St",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220071885,
-    "wof:lastmodified":1449074552,
+    "wof:lastmodified":1466321393,
     "wof:name":"John Baskin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dessert"
     ]
 },
-  "bbox": [-93.12449,35.257099,-93.12449,35.257099],
-  "geometry": {"coordinates":[-93.12449,35.257099],"type":"Point"}
+  "bbox": [
+    -93.12449,
+    35.257099,
+    -93.12449,
+    35.257099
+],
+  "geometry": {"coordinates":[-93.12448999999999,35.257099],"type":"Point"}
 }

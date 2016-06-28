@@ -2,13 +2,14 @@
   "id": 219225947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.590361,33.667289,-93.590361,33.667289",
     "geom:latitude":33.667289,
     "geom:longitude":-93.590361,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 E 3rd St",
     "sg:city":"Hope",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219225947,
-    "wof:lastmodified":1449071494,
+    "wof:lastmodified":1466321118,
     "wof:name":"Howard Memorials Clinic",
     "wof:parent_id":85806015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.590361,33.667289,-93.590361,33.667289],
+  "bbox": [
+    -93.590361,
+    33.667289,
+    -93.590361,
+    33.667289
+],
   "geometry": {"coordinates":[-93.590361,33.667289],"type":"Point"}
 }

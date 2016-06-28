@@ -2,13 +2,14 @@
   "id": 219889103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.183229,36.369662,-94.183229,36.369662",
     "geom:latitude":36.369662,
     "geom:longitude":-94.183229,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"312 Moberly Ln",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219889103,
-    "wof:lastmodified":1449070315,
+    "wof:lastmodified":1466325073,
     "wof:name":"Kenyon Construction",
     "wof:parent_id":85895817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "contractor"
     ]
 },
-  "bbox": [-94.183229,36.369662,-94.183229,36.369662],
+  "bbox": [
+    -94.183229,
+    36.369662,
+    -94.183229,
+    36.369662
+],
   "geometry": {"coordinates":[-94.183229,36.369662],"type":"Point"}
 }

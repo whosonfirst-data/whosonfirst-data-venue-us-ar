@@ -2,13 +2,14 @@
   "id": 219390263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.429312,35.091662,-92.429312,35.091662",
     "geom:latitude":35.091662,
     "geom:longitude":-92.429312,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"245 Oak St",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":219390263,
-    "wof:lastmodified":1449073962,
+    "wof:lastmodified":1466322764,
     "wof:name":"Fred's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.429312,35.091662,-92.429312,35.091662],
+  "bbox": [
+    -92.429312,
+    35.091662,
+    -92.429312,
+    35.091662
+],
   "geometry": {"coordinates":[-92.429312,35.091662],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320686733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.498351,36.21704,-94.498351,36.21704",
     "geom:latitude":36.21704,
     "geom:longitude":-94.498351,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21089 Davidson Rd",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":320686733,
-    "wof:lastmodified":1449014056,
+    "wof:lastmodified":1466320621,
     "wof:name":"Rex Robrahn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "trucking"
     ]
 },
-  "bbox": [-94.498351,36.21704,-94.498351,36.21704],
+  "bbox": [
+    -94.498351,
+    36.21704,
+    -94.498351,
+    36.21704
+],
   "geometry": {"coordinates":[-94.498351,36.21704],"type":"Point"}
 }

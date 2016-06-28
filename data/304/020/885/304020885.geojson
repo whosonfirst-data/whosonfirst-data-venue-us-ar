@@ -2,13 +2,14 @@
   "id": 304020885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.522891,36.200506,-94.522891,36.200506",
     "geom:latitude":36.200506,
     "geom:longitude":-94.522891,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1850 N Lincoln St",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":304020885,
-    "wof:lastmodified":1449043807,
+    "wof:lastmodified":1466324437,
     "wof:name":"Applied Industrial Technlogies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "industrial"
     ]
 },
-  "bbox": [-94.522891,36.200506,-94.522891,36.200506],
+  "bbox": [
+    -94.522891,
+    36.200506,
+    -94.522891,
+    36.200506
+],
   "geometry": {"coordinates":[-94.522891,36.200506],"type":"Point"}
 }

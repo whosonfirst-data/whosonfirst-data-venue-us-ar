@@ -2,13 +2,14 @@
   "id": 220083495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.493347,35.009741,-93.493347,35.009741",
     "geom:latitude":35.009741,
     "geom:longitude":-93.493347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11824 Moss Creek Rd",
     "sg:city":"Danville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":220083495,
-    "wof:lastmodified":1449074403,
+    "wof:lastmodified":1466321653,
     "wof:name":"Jesse W Garner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.493347,35.009741,-93.493347,35.009741],
+  "bbox": [
+    -93.493347,
+    35.009741,
+    -93.493347,
+    35.009741
+],
   "geometry": {"coordinates":[-93.493347,35.009741],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219884873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.210782,36.349213,-94.210782,36.349213",
     "geom:latitude":36.349213,
     "geom:longitude":-94.210782,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2106 S Walton Blvd",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219884873,
-    "wof:lastmodified":1449073248,
+    "wof:lastmodified":1466325167,
     "wof:name":"J Robin Pace Attorney At Law",
     "wof:parent_id":85895825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "plan"
     ]
 },
-  "bbox": [-94.210782,36.349213,-94.210782,36.349213],
-  "geometry": {"coordinates":[-94.210782,36.349213],"type":"Point"}
+  "bbox": [
+    -94.210782,
+    36.349213,
+    -94.210782,
+    36.349213
+],
+  "geometry": {"coordinates":[-94.21078199999999,36.349213],"type":"Point"}
 }

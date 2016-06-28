@@ -2,13 +2,14 @@
   "id": 219518983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.694623,35.236255,-91.694623,35.236255",
     "geom:latitude":35.236255,
     "geom:longitude":-91.694623,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 Eastline Rd",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219518983,
-    "wof:lastmodified":1449072374,
+    "wof:lastmodified":1466324097,
     "wof:name":"Cmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-91.694623,35.236255,-91.694623,35.236255],
-  "geometry": {"coordinates":[-91.694623,35.236255],"type":"Point"}
+  "bbox": [
+    -91.694623,
+    35.236255,
+    -91.694623,
+    35.236255
+],
+  "geometry": {"coordinates":[-91.69462300000001,35.236255],"type":"Point"}
 }

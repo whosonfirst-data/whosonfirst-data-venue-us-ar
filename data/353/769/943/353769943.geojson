@@ -2,13 +2,14 @@
   "id": 353769943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.478126,35.24732,-94.478126,35.24732",
     "geom:latitude":35.24732,
     "geom:longitude":-94.478126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"706 S Pocola Blvd",
     "sg:city":"Pocola",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353769943,
-    "wof:lastmodified":1449019103,
+    "wof:lastmodified":1466320506,
     "wof:name":"State Line Legal Clinic",
     "wof:parent_id":85809847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.478126,35.24732,-94.478126,35.24732],
+  "bbox": [
+    -94.478126,
+    35.24732,
+    -94.478126,
+    35.24732
+],
   "geometry": {"coordinates":[-94.478126,35.24732],"type":"Point"}
 }

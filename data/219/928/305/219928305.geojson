@@ -2,13 +2,14 @@
   "id": 219928305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.344587,36.355569,-94.344587,36.355569",
     "geom:latitude":36.355569,
     "geom:longitude":-94.344587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14251 W Highway 102",
     "sg:city":"Gravette",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":219928305,
-    "wof:lastmodified":1449073418,
+    "wof:lastmodified":1466325153,
     "wof:name":"Copher Window Service",
     "wof:parent_id":85853527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "repair"
     ]
 },
-  "bbox": [-94.344587,36.355569,-94.344587,36.355569],
+  "bbox": [
+    -94.344587,
+    36.355569,
+    -94.344587,
+    36.355569
+],
   "geometry": {"coordinates":[-94.344587,36.355569],"type":"Point"}
 }

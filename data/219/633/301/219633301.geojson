@@ -2,13 +2,14 @@
   "id": 219633301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.677632,35.830202,-90.677632,35.830202",
     "geom:latitude":35.830202,
     "geom:longitude":-90.677632,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1306 S Caraway Rd Suite B",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219633301,
-    "wof:lastmodified":1449073883,
+    "wof:lastmodified":1466324634,
     "wof:name":"Auto Insurance Center",
     "wof:parent_id":85836541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-90.677632,35.830202,-90.677632,35.830202],
+  "bbox": [
+    -90.677632,
+    35.830202,
+    -90.677632,
+    35.830202
+],
   "geometry": {"coordinates":[-90.677632,35.830202],"type":"Point"}
 }

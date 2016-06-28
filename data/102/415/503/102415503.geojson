@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102415503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.724693,33.015166,-92.724693,33.015166",
     "geom:latitude":33.015166,
     "geom:longitude":-92.724693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"131 N Main St",
     "sg:city":"Junction City",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102415503,
-    "wof:lastmodified":1449069537,
+    "wof:lastmodified":1466325321,
     "wof:name":"First Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.724693,33.015166,-92.724693,33.015166],
+  "bbox": [
+    -92.724693,
+    33.015166,
+    -92.724693,
+    33.015166
+],
   "geometry": {"coordinates":[-92.724693,33.015166],"type":"Point"}
 }

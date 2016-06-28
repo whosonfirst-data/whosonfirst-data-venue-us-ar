@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102337305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.313731,34.622854,-92.313731,34.622854",
     "geom:latitude":34.622854,
     "geom:longitude":-92.313731,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13724 Arch St",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858761,
+        85688549,
         85633793,
         85921709,
         102082497,
-        85688549
+        85858761
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102337305,
-    "wof:lastmodified":1449068899,
+    "wof:lastmodified":1466323779,
     "wof:name":"Charley's Country Cooking",
     "wof:parent_id":85858761,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.313731,34.622854,-92.313731,34.622854],
+  "bbox": [
+    -92.313731,
+    34.622854,
+    -92.313731,
+    34.622854
+],
   "geometry": {"coordinates":[-92.313731,34.622854],"type":"Point"}
 }

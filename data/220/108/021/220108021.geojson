@@ -2,13 +2,14 @@
   "id": 220108021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.361557,35.5886,-94.361557,35.5886",
     "geom:latitude":35.5886,
     "geom:longitude":-94.361557,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10516 Lucian Wood Rd",
     "sg:city":"Cedarville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220108021,
-    "wof:lastmodified":1449074079,
+    "wof:lastmodified":1466324480,
     "wof:name":"C Carter Machine Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-94.361557,35.5886,-94.361557,35.5886],
+  "bbox": [
+    -94.361557,
+    35.5886,
+    -94.361557,
+    35.5886
+],
   "geometry": {"coordinates":[-94.361557,35.5886],"type":"Point"}
 }

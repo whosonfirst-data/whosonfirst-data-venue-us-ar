@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102412459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.248016,33.270469,-93.248016,33.270469",
     "geom:latitude":33.270469,
     "geom:longitude":-93.248016,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 N Kelso St",
     "sg:city":"Magnolia",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102412459,
-    "wof:lastmodified":1449068293,
+    "wof:lastmodified":1466325204,
     "wof:name":"St Phillips AME Study",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.248016,33.270469,-93.248016,33.270469],
-  "geometry": {"coordinates":[-93.248016,33.270469],"type":"Point"}
+  "bbox": [
+    -93.248016,
+    33.270469,
+    -93.248016,
+    33.270469
+],
+  "geometry": {"coordinates":[-93.24801600000001,33.270469],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219465793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.828779,34.388938,-92.828779,34.388938",
     "geom:latitude":34.388938,
     "geom:longitude":-92.828779,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2071 Oliver Lancaster Blvd",
     "sg:city":"Rockport",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219465793,
-    "wof:lastmodified":1449072760,
+    "wof:lastmodified":1466323513,
     "wof:name":"Chile Peppers Tex-Mex Grill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mexican"
     ]
 },
-  "bbox": [-92.828779,34.388938,-92.828779,34.388938],
+  "bbox": [
+    -92.828779,
+    34.388938,
+    -92.828779,
+    34.388938
+],
   "geometry": {"coordinates":[-92.828779,34.388938],"type":"Point"}
 }

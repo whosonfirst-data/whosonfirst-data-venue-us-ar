@@ -2,13 +2,14 @@
   "id": 219996619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.172329,36.3324,-94.172329,36.3324",
     "geom:latitude":36.3324,
     "geom:longitude":-94.172329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3905 Lupine Way",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219996619,
-    "wof:lastmodified":1449071343,
+    "wof:lastmodified":1466325251,
     "wof:name":"Your Total Energy Cleaning Solution",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "house"
     ]
 },
-  "bbox": [-94.172329,36.3324,-94.172329,36.3324],
+  "bbox": [
+    -94.172329,
+    36.3324,
+    -94.172329,
+    36.3324
+],
   "geometry": {"coordinates":[-94.172329,36.3324],"type":"Point"}
 }

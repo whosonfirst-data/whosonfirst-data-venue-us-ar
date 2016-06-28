@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102266819",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.310946,34.741197,-92.310946,34.741197",
     "geom:latitude":34.741197,
     "geom:longitude":-92.310946,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3422 W 11th St",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85843255,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85843255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102266819",
-    "wof:lastmodified":1449067844,
+    "wof:lastmodified":1466322348,
     "wof:name":"Toddler S Inn Day Care",
     "wof:parent_id":85843255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.310946,34.741197,-92.310946,34.741197],
+  "bbox": [
+    -92.310946,
+    34.741197,
+    -92.310946,
+    34.741197
+],
   "geometry": {"coordinates":[-92.310946,34.741197],"type":"Point"}
 }

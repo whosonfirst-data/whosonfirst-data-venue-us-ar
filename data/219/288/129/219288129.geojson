@@ -2,13 +2,14 @@
   "id": 219288129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.05486,34.120313,-93.05486,34.120313",
     "geom:latitude":34.120313,
     "geom:longitude":-93.05486,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"711 Clinton St",
     "sg:city":"Arkadelphia",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219288129,
-    "wof:lastmodified":1449070763,
+    "wof:lastmodified":1466321636,
     "wof:name":"Apscn Finance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "planning"
     ]
 },
-  "bbox": [-93.05486,34.120313,-93.05486,34.120313],
-  "geometry": {"coordinates":[-93.05486,34.120313],"type":"Point"}
+  "bbox": [
+    -93.05486,
+    34.120313,
+    -93.05486,
+    34.120313
+],
+  "geometry": {"coordinates":[-93.05486000000001,34.120313],"type":"Point"}
 }

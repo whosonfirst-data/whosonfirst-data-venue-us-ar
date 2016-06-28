@@ -2,13 +2,14 @@
   "id": 219997981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.187052,36.317441,-94.187052,36.317441",
     "geom:latitude":36.317441,
     "geom:longitude":-94.187052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5214 Village Pkwy",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":219997981,
-    "wof:lastmodified":1449073296,
+    "wof:lastmodified":1466325251,
     "wof:name":"Pinnacle Pilates Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "fitness"
     ]
 },
-  "bbox": [-94.187052,36.317441,-94.187052,36.317441],
-  "geometry": {"coordinates":[-94.187052,36.317441],"type":"Point"}
+  "bbox": [
+    -94.187052,
+    36.317441,
+    -94.187052,
+    36.317441
+],
+  "geometry": {"coordinates":[-94.18705199999999,36.317441],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102346303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.106777,34.87597,-92.106777,34.87597",
     "geom:latitude":34.87597,
     "geom:longitude":-92.106777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Danbury Ln",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852337,
+        85688549,
         85633793,
         85921275,
         102082497,
-        85688549
+        85852337
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102346303,
-    "wof:lastmodified":1449067752,
+    "wof:lastmodified":1466323981,
     "wof:name":"Carolyn I Hudson",
     "wof:parent_id":85852337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.106777,34.87597,-92.106777,34.87597],
-  "geometry": {"coordinates":[-92.106777,34.87597],"type":"Point"}
+  "bbox": [
+    -92.106777,
+    34.87597,
+    -92.106777,
+    34.87597
+],
+  "geometry": {"coordinates":[-92.10677699999999,34.87597],"type":"Point"}
 }

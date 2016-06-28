@@ -2,13 +2,14 @@
   "id": 219320175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.259399,34.52757,-93.259399,34.52757",
     "geom:latitude":34.52757,
     "geom:longitude":-93.259399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"225 Confederate Way",
     "sg:city":"Royal",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":219320175,
-    "wof:lastmodified":1449071292,
+    "wof:lastmodified":1466321895,
     "wof:name":"Bear Creek Kennels",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "kennel"
     ]
 },
-  "bbox": [-93.259399,34.52757,-93.259399,34.52757],
+  "bbox": [
+    -93.259399,
+    34.52757,
+    -93.259399,
+    34.52757
+],
   "geometry": {"coordinates":[-93.259399,34.52757],"type":"Point"}
 }

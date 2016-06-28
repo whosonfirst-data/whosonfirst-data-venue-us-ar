@@ -2,13 +2,14 @@
   "id": 220054377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.101089,36.169079,-94.101089,36.169079",
     "geom:latitude":36.169079,
     "geom:longitude":-94.101089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2693 Cider Ave",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220054377,
-    "wof:lastmodified":1449074398,
+    "wof:lastmodified":1466320807,
     "wof:name":"M And M Siding Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "bureau"
     ]
 },
-  "bbox": [-94.101089,36.169079,-94.101089,36.169079],
+  "bbox": [
+    -94.101089,
+    36.169079,
+    -94.101089,
+    36.169079
+],
   "geometry": {"coordinates":[-94.101089,36.169079],"type":"Point"}
 }

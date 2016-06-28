@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102220315",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.819088,34.358259,-92.819088,34.358259",
     "geom:latitude":34.358259,
     "geom:longitude":-92.819088,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"736 W Page Ave",
     "sg:city":"Malvern",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102220315",
-    "wof:lastmodified":1449070128,
+    "wof:lastmodified":1466321139,
     "wof:name":"Sibley's Service Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.819088,34.358259,-92.819088,34.358259],
-  "geometry": {"coordinates":[-92.819088,34.358259],"type":"Point"}
+  "bbox": [
+    -92.819088,
+    34.358259,
+    -92.819088,
+    34.358259
+],
+  "geometry": {"coordinates":[-92.81908799999999,34.358259],"type":"Point"}
 }

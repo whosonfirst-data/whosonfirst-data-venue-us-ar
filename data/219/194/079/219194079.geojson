@@ -2,13 +2,14 @@
   "id": 219194079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.978569,33.663025,-92.978569,33.663025",
     "geom:latitude":33.663025,
     "geom:longitude":-92.978569,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5280 Highway 24",
     "sg:city":"Chidester",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219194079,
-    "wof:lastmodified":1449073404,
+    "wof:lastmodified":1466320816,
     "wof:name":"Charlie One Stop",
     "wof:parent_id":85813169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.978569,33.663025,-92.978569,33.663025],
-  "geometry": {"coordinates":[-92.978569,33.663025],"type":"Point"}
+  "bbox": [
+    -92.978569,
+    33.663025,
+    -92.978569,
+    33.663025
+],
+  "geometry": {"coordinates":[-92.97856899999999,33.663025],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219908193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.278224,36.368385,-94.278224,36.368385",
     "geom:latitude":36.368385,
     "geom:longitude":-94.278224,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"431 Verona Way",
     "sg:city":"Centerton",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219908193,
-    "wof:lastmodified":1449072382,
+    "wof:lastmodified":1466325115,
     "wof:name":"Robert Brown Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "trucking"
     ]
 },
-  "bbox": [-94.278224,36.368385,-94.278224,36.368385],
-  "geometry": {"coordinates":[-94.278224,36.368385],"type":"Point"}
+  "bbox": [
+    -94.278224,
+    36.368385,
+    -94.278224,
+    36.368385
+],
+  "geometry": {"coordinates":[-94.27822399999999,36.368385],"type":"Point"}
 }

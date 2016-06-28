@@ -2,13 +2,14 @@
   "id": 219177961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.232964,33.896542,-92.232964,33.896542",
     "geom:latitude":33.896542,
     "geom:longitude":-92.232964,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4000 Highway 79",
     "sg:city":"Rison",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219177961,
-    "wof:lastmodified":1449073916,
+    "wof:lastmodified":1466320611,
     "wof:name":"Scroggins Logging Corporation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "logging"
     ]
 },
-  "bbox": [-92.232964,33.896542,-92.232964,33.896542],
+  "bbox": [
+    -92.232964,
+    33.896542,
+    -92.232964,
+    33.896542
+],
   "geometry": {"coordinates":[-92.232964,33.896542],"type":"Point"}
 }

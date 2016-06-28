@@ -2,13 +2,14 @@
   "id": 219300819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.006442,34.701918,-93.006442,34.701918",
     "geom:latitude":34.701918,
     "geom:longitude":-93.006442,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"734 Newkirk Cir",
     "sg:city":"Jessieville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219300819,
-    "wof:lastmodified":1449072362,
+    "wof:lastmodified":1466321738,
     "wof:name":"Survivor Surplus Army Navy Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "army"
     ]
 },
-  "bbox": [-93.006442,34.701918,-93.006442,34.701918],
-  "geometry": {"coordinates":[-93.006442,34.701918],"type":"Point"}
+  "bbox": [
+    -93.006442,
+    34.701918,
+    -93.006442,
+    34.701918
+],
+  "geometry": {"coordinates":[-93.00644200000001,34.701918],"type":"Point"}
 }

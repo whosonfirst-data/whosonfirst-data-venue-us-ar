@@ -2,13 +2,14 @@
   "id": 219813077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.157759,36.068591,-94.157759,36.068591",
     "geom:latitude":36.068591,
     "geom:longitude":-94.157759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"407 N College Ave",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219813077,
-    "wof:lastmodified":1449071305,
+    "wof:lastmodified":1466325027,
     "wof:name":"Chuck's Cake Shoppe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "wedding"
     ]
 },
-  "bbox": [-94.157759,36.068591,-94.157759,36.068591],
+  "bbox": [
+    -94.157759,
+    36.068591,
+    -94.157759,
+    36.068591
+],
   "geometry": {"coordinates":[-94.157759,36.068591],"type":"Point"}
 }

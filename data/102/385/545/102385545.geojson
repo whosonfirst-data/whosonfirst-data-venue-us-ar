@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102385545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.214968,36.36985,-94.214968,36.36985",
     "geom:latitude":36.36985,
     "geom:longitude":-94.214968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 SW E St",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895827,
+        85688549,
         85633793,
         85921509,
         102083255,
-        85688549
+        85895827
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102385545,
-    "wof:lastmodified":1449069173,
+    "wof:lastmodified":1466323235,
     "wof:name":"Holland B Kevin",
     "wof:parent_id":85895827,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.214968,36.36985,-94.214968,36.36985],
+  "bbox": [
+    -94.214968,
+    36.36985,
+    -94.214968,
+    36.36985
+],
   "geometry": {"coordinates":[-94.214968,36.36985],"type":"Point"}
 }

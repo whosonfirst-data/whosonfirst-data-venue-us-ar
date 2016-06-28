@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102267305",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.064399,34.469761,-93.064399,34.469761",
     "geom:latitude":34.469761,
     "geom:longitude":-93.064399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 McGowan Ct",
     "sg:city":"Hot Springs",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102267305",
-    "wof:lastmodified":1449069970,
+    "wof:lastmodified":1466322271,
     "wof:name":"Hot Springs Internal Medicine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.064399,34.469761,-93.064399,34.469761],
-  "geometry": {"coordinates":[-93.064399,34.469761],"type":"Point"}
+  "bbox": [
+    -93.064399,
+    34.469761,
+    -93.064399,
+    34.469761
+],
+  "geometry": {"coordinates":[-93.06439899999999,34.469761],"type":"Point"}
 }

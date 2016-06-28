@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102331721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.367607,35.043086,-92.367607,35.043086",
     "geom:latitude":35.043086,
     "geom:longitude":-92.367607,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39 Art Pond Rd",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":102331721,
-    "wof:lastmodified":1449069212,
+    "wof:lastmodified":1466323699,
     "wof:name":"E-Booksamillion",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.367607,35.043086,-92.367607,35.043086],
-  "geometry": {"coordinates":[-92.367607,35.043086],"type":"Point"}
+  "bbox": [
+    -92.367607,
+    35.043086,
+    -92.367607,
+    35.043086
+],
+  "geometry": {"coordinates":[-92.36760700000001,35.043086],"type":"Point"}
 }

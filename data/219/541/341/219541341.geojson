@@ -2,13 +2,14 @@
   "id": 219541341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.401648,34.304873,-92.401648,34.304873",
     "geom:latitude":34.304873,
     "geom:longitude":-92.401648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 W Holly St",
     "sg:city":"Sheridan",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219541341,
-    "wof:lastmodified":1449070782,
+    "wof:lastmodified":1466324267,
     "wof:name":"Dee L Tucker Dds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.401648,34.304873,-92.401648,34.304873],
-  "geometry": {"coordinates":[-92.401648,34.304873],"type":"Point"}
+  "bbox": [
+    -92.401648,
+    34.304873,
+    -92.401648,
+    34.304873
+],
+  "geometry": {"coordinates":[-92.40164799999999,34.304873],"type":"Point"}
 }

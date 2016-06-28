@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102323783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.139204,36.129196,-94.139204,36.129196",
     "geom:latitude":36.129196,
     "geom:longitude":-94.139204,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1312 Zion Rd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885433,
+        85688549,
         85633793,
         85919609,
         102082007,
-        85688549
+        85885433
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102323783,
-    "wof:lastmodified":1449068004,
+    "wof:lastmodified":1466323589,
     "wof:name":"Ministry Total Wellness",
     "wof:parent_id":85885433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.139204,36.129196,-94.139204,36.129196],
-  "geometry": {"coordinates":[-94.139204,36.129196],"type":"Point"}
+  "bbox": [
+    -94.139204,
+    36.129196,
+    -94.139204,
+    36.129196
+],
+  "geometry": {"coordinates":[-94.13920400000001,36.129196],"type":"Point"}
 }

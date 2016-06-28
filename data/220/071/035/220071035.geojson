@@ -2,13 +2,14 @@
   "id": 220071035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.109437,35.21326,-93.109437,35.21326",
     "geom:latitude":35.21326,
     "geom:longitude":-93.109437,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"635 Hutcherson Rd",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":220071035,
-    "wof:lastmodified":1449074554,
+    "wof:lastmodified":1466321380,
     "wof:name":"T Hutcherson Farm",
     "wof:parent_id":85837547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.109437,35.21326,-93.109437,35.21326],
+  "bbox": [
+    -93.109437,
+    35.21326,
+    -93.109437,
+    35.21326
+],
   "geometry": {"coordinates":[-93.109437,35.21326],"type":"Point"}
 }

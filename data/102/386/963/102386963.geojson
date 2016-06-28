@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102386963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.649521,33.775517,-93.649521,33.775517",
     "geom:latitude":33.775517,
     "geom:longitude":-93.649521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"179 Co Rd 1420",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":102386963,
-    "wof:lastmodified":1449069012,
+    "wof:lastmodified":1466323526,
     "wof:name":"S&S Organics Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.649521,33.775517,-93.649521,33.775517],
-  "geometry": {"coordinates":[-93.649521,33.775517],"type":"Point"}
+  "bbox": [
+    -93.649521,
+    33.775517,
+    -93.649521,
+    33.775517
+],
+  "geometry": {"coordinates":[-93.64952099999999,33.775517],"type":"Point"}
 }

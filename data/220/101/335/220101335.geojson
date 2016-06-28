@@ -2,13 +2,14 @@
   "id": 220101335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.312501,35.338361,-94.312501,35.338361",
     "geom:latitude":35.338361,
     "geom:longitude":-94.312501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1508 M Cir",
     "sg:city":"Barling",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":220101335,
-    "wof:lastmodified":1449074465,
+    "wof:lastmodified":1466322249,
     "wof:name":"Big Ds Handymans Service",
     "wof:parent_id":85832863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "home"
     ]
 },
-  "bbox": [-94.312501,35.338361,-94.312501,35.338361],
+  "bbox": [
+    -94.312501,
+    35.338361,
+    -94.312501,
+    35.338361
+],
   "geometry": {"coordinates":[-94.312501,35.338361],"type":"Point"}
 }

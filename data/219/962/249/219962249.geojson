@@ -2,13 +2,14 @@
   "id": 219962249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.117468,36.351187,-94.117468,36.351187",
     "geom:latitude":36.351187,
     "geom:longitude":-94.117468,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 Stribling Rd",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -70,10 +71,11 @@
         }
     ],
     "wof:id":219962249,
-    "wof:lastmodified":1449072456,
+    "wof:lastmodified":1466325210,
     "wof:name":"Nabholz Industrial Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -85,6 +87,11 @@
         "mover"
     ]
 },
-  "bbox": [-94.117468,36.351187,-94.117468,36.351187],
+  "bbox": [
+    -94.117468,
+    36.351187,
+    -94.117468,
+    36.351187
+],
   "geometry": {"coordinates":[-94.117468,36.351187],"type":"Point"}
 }

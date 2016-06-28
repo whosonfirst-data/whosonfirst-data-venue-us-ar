@@ -2,13 +2,14 @@
   "id": 219473645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.279409,35.606202,-91.279409,35.606202",
     "geom:latitude":35.606202,
     "geom:longitude":-91.279409,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"321 Third St",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":219473645,
-    "wof:lastmodified":1449071125,
+    "wof:lastmodified":1466323621,
     "wof:name":"Arkansas Department Of Human Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "human"
     ]
 },
-  "bbox": [-91.279409,35.606202,-91.279409,35.606202],
+  "bbox": [
+    -91.279409,
+    35.606202,
+    -91.279409,
+    35.606202
+],
   "geometry": {"coordinates":[-91.279409,35.606202],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102202273",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.536245,33.664448,-93.536245,33.664448",
     "geom:latitude":33.664448,
     "geom:longitude":-93.536245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3106 State Hwy 73",
     "sg:city":"Hope",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":"102202273",
-    "wof:lastmodified":1449069864,
+    "wof:lastmodified":1466320677,
     "wof:name":"Carmical Land Company LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.536245,33.664448,-93.536245,33.664448],
-  "geometry": {"coordinates":[-93.536245,33.664448],"type":"Point"}
+  "bbox": [
+    -93.536245,
+    33.664448,
+    -93.536245,
+    33.664448
+],
+  "geometry": {"coordinates":[-93.53624499999999,33.664448],"type":"Point"}
 }

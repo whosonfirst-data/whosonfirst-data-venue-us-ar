@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102411917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.907086,35.928542,-89.907086,35.928542",
     "geom:latitude":35.928542,
     "geom:longitude":-89.907086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"420 W Walnut St",
     "sg:city":"Blytheville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102411917,
-    "wof:lastmodified":1449067894,
+    "wof:lastmodified":1466325167,
     "wof:name":"Thomas Speight & Noble",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.907086,35.928542,-89.907086,35.928542],
-  "geometry": {"coordinates":[-89.907086,35.928542],"type":"Point"}
+  "bbox": [
+    -89.907086,
+    35.928542,
+    -89.907086,
+    35.928542
+],
+  "geometry": {"coordinates":[-89.90708600000001,35.928542],"type":"Point"}
 }

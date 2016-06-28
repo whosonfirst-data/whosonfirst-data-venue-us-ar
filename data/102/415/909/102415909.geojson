@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102415909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.363832,34.816392,-92.363832,34.816392",
     "geom:latitude":34.816392,
     "geom:longitude":-92.363832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9320 Maumelle Blvd",
     "sg:city":"Maumelle",
     "sg:classifiers":[
@@ -32,11 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878759,
+        85688549,
         85633793,
         85921255,
         102082497,
-        85688549
+        85878759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":102415909,
-    "wof:lastmodified":1449069538,
+    "wof:lastmodified":1466325406,
     "wof:name":"Edwards Sheet Metal Works Inc",
     "wof:parent_id":85878759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.363832,34.816392,-92.363832,34.816392],
+  "bbox": [
+    -92.363832,
+    34.816392,
+    -92.363832,
+    34.816392
+],
   "geometry": {"coordinates":[-92.363832,34.816392],"type":"Point"}
 }

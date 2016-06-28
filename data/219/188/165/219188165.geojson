@@ -2,13 +2,14 @@
   "id": 219188165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.839208,33.533768,-92.839208,33.533768",
     "geom:latitude":33.533768,
     "geom:longitude":-92.839208,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"231 Cardinal St",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":219188165,
-    "wof:lastmodified":1449072131,
+    "wof:lastmodified":1466320704,
     "wof:name":"Great Finds Consignment",
     "wof:parent_id":85813169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "hand"
     ]
 },
-  "bbox": [-92.839208,33.533768,-92.839208,33.533768],
+  "bbox": [
+    -92.839208,
+    33.533768,
+    -92.839208,
+    33.533768
+],
   "geometry": {"coordinates":[-92.839208,33.533768],"type":"Point"}
 }

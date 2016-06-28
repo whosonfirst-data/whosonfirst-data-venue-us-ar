@@ -2,13 +2,14 @@
   "id": 219307965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.229302,34.57653,-94.229302,34.57653",
     "geom:latitude":34.57653,
     "geom:longitude":-94.229302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1103 Vivian St",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219307965,
-    "wof:lastmodified":1449071311,
+    "wof:lastmodified":1466321797,
     "wof:name":"Heather's Bargain Foods & More",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.229302,34.57653,-94.229302,34.57653],
+  "bbox": [
+    -94.229302,
+    34.57653,
+    -94.229302,
+    34.57653
+],
   "geometry": {"coordinates":[-94.229302,34.57653],"type":"Point"}
 }

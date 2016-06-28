@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102376363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.723425,33.357593,-92.723425,33.357593",
     "geom:latitude":33.357593,
     "geom:longitude":-92.723425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1304 Maple Ave",
     "sg:city":"Smackover",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102376363,
-    "wof:lastmodified":1449068619,
+    "wof:lastmodified":1466321342,
     "wof:name":"M & M Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.723425,33.357593,-92.723425,33.357593],
-  "geometry": {"coordinates":[-92.723425,33.357593],"type":"Point"}
+  "bbox": [
+    -92.723425,
+    33.357593,
+    -92.723425,
+    33.357593
+],
+  "geometry": {"coordinates":[-92.72342500000001,33.357593],"type":"Point"}
 }

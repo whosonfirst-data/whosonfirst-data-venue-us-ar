@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102220441",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.9733,36.258661,-90.9733,36.258661",
     "geom:latitude":36.258661,
     "geom:longitude":-90.9733,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"605 Cedar St",
     "sg:city":"Pocahontas",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85816685,
+        85688549,
         85633793,
         85919829,
         102082011,
-        85688549
+        85816685
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102220441",
-    "wof:lastmodified":1449070126,
+    "wof:lastmodified":1466321167,
     "wof:name":"Pocahontas Street Dept",
     "wof:parent_id":85816685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.9733,36.258661,-90.9733,36.258661],
-  "geometry": {"coordinates":[-90.9733,36.258661],"type":"Point"}
+  "bbox": [
+    -90.9733,
+    36.258661,
+    -90.9733,
+    36.258661
+],
+  "geometry": {"coordinates":[-90.97329999999999,36.258661],"type":"Point"}
 }

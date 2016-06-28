@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102315551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.29538,35.456178,-94.29538,35.456178",
     "geom:latitude":35.456178,
     "geom:longitude":-94.29538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4808 Alma Hwy",
     "sg:city":"Van Buren",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102315551,
-    "wof:lastmodified":1449070073,
+    "wof:lastmodified":1466323399,
     "wof:name":"Stouffer Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.29538,35.456178,-94.29538,35.456178],
-  "geometry": {"coordinates":[-94.29538,35.456178],"type":"Point"}
+  "bbox": [
+    -94.29538,
+    35.456178,
+    -94.29538,
+    35.456178
+],
+  "geometry": {"coordinates":[-94.29537999999999,35.456178],"type":"Point"}
 }

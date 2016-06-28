@@ -2,13 +2,14 @@
   "id": 219960589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.081425,36.391005,-94.081425,36.391005",
     "geom:latitude":36.391005,
     "geom:longitude":-94.081425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"810 Lester Ln",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":219960589,
-    "wof:lastmodified":1449072939,
+    "wof:lastmodified":1466325258,
     "wof:name":"Advantage Recycling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "waste"
     ]
 },
-  "bbox": [-94.081425,36.391005,-94.081425,36.391005],
+  "bbox": [
+    -94.081425,
+    36.391005,
+    -94.081425,
+    36.391005
+],
   "geometry": {"coordinates":[-94.081425,36.391005],"type":"Point"}
 }

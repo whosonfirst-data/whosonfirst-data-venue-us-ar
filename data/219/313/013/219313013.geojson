@@ -2,13 +2,14 @@
   "id": 219313013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.935134,34.490884,-93.935134,34.490884",
     "geom:latitude":34.490884,
     "geom:longitude":-93.935134,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"473 Polk Road 675",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219313013,
-    "wof:lastmodified":1449070474,
+    "wof:lastmodified":1466321841,
     "wof:name":"Tony L Gibson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.935134,34.490884,-93.935134,34.490884],
-  "geometry": {"coordinates":[-93.935134,34.490884],"type":"Point"}
+  "bbox": [
+    -93.935134,
+    34.490884,
+    -93.935134,
+    34.490884
+],
+  "geometry": {"coordinates":[-93.93513400000001,34.490884],"type":"Point"}
 }

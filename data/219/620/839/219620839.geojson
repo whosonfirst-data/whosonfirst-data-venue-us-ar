@@ -2,13 +2,14 @@
   "id": 219620839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.782578,35.243144,-90.782578,35.243144",
     "geom:latitude":35.243144,
     "geom:longitude":-90.782578,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1790 Falls Blvd N",
     "sg:city":"Wynne",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":219620839,
-    "wof:lastmodified":1449073615,
+    "wof:lastmodified":1466324615,
     "wof:name":"Arkansas Workforce Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "coach"
     ]
 },
-  "bbox": [-90.782578,35.243144,-90.782578,35.243144],
+  "bbox": [
+    -90.782578,
+    35.243144,
+    -90.782578,
+    35.243144
+],
   "geometry": {"coordinates":[-90.782578,35.243144],"type":"Point"}
 }

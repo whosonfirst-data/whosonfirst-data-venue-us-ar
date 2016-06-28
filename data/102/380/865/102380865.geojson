@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102380865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.02899,34.201715,-92.02899,34.201715",
     "geom:latitude":34.201715,
     "geom:longitude":-92.02899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2508 W 28th Ave",
     "sg:city":"Pine Bluff",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102380865,
-    "wof:lastmodified":1449068883,
+    "wof:lastmodified":1466322268,
     "wof:name":"Perdue Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.02899,34.201715,-92.02899,34.201715],
-  "geometry": {"coordinates":[-92.02899,34.201715],"type":"Point"}
+  "bbox": [
+    -92.02899,
+    34.201715,
+    -92.02899,
+    34.201715
+],
+  "geometry": {"coordinates":[-92.02898999999999,34.201715],"type":"Point"}
 }

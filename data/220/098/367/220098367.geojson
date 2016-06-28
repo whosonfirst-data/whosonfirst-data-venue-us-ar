@@ -2,13 +2,14 @@
   "id": 220098367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.176567,35.50145,-94.176567,35.50145",
     "geom:latitude":35.50145,
     "geom:longitude":-94.176567,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 Eagle Crest Dr",
     "sg:city":"Alma",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220098367,
-    "wof:lastmodified":1449074788,
+    "wof:lastmodified":1466322175,
     "wof:name":"Ema Foods Co., Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "poultry-wholesale"
     ]
 },
-  "bbox": [-94.176567,35.50145,-94.176567,35.50145],
-  "geometry": {"coordinates":[-94.176567,35.50145],"type":"Point"}
+  "bbox": [
+    -94.176567,
+    35.50145,
+    -94.176567,
+    35.50145
+],
+  "geometry": {"coordinates":[-94.17656700000001,35.50145],"type":"Point"}
 }

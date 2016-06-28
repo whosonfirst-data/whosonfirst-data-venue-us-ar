@@ -2,13 +2,14 @@
   "id": 219926279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.502883,36.433874,-94.502883,36.433874",
     "geom:latitude":36.433874,
     "geom:longitude":-94.502883,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13499 Big Springs Rd",
     "sg:city":"Gravette",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219926279,
-    "wof:lastmodified":1449071625,
+    "wof:lastmodified":1466325151,
     "wof:name":"Bassman Plumbing Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "contractors-commercial"
     ]
 },
-  "bbox": [-94.502883,36.433874,-94.502883,36.433874],
+  "bbox": [
+    -94.502883,
+    36.433874,
+    -94.502883,
+    36.433874
+],
   "geometry": {"coordinates":[-94.502883,36.433874],"type":"Point"}
 }

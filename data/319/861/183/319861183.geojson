@@ -2,13 +2,14 @@
   "id": 319861183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.367481,35.262698,-94.367481,35.262698",
     "geom:latitude":35.262698,
     "geom:longitude":-94.367481,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12727 Old Hwy 71 S",
     "sg:city":"Fort Smith",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":319861183,
-    "wof:lastmodified":1449024877,
+    "wof:lastmodified":1466324510,
     "wof:name":"Vandermillion Construction",
     "wof:parent_id":85808359,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-94.367481,35.262698,-94.367481,35.262698],
+  "bbox": [
+    -94.367481,
+    35.262698,
+    -94.367481,
+    35.262698
+],
   "geometry": {"coordinates":[-94.367481,35.262698],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102215395",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.118114,33.664177,-94.118114,33.664177",
     "geom:latitude":33.664177,
     "geom:longitude":-94.118114,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 S Locust St",
     "sg:city":"Ashdown",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102215395",
-    "wof:lastmodified":1449069750,
+    "wof:lastmodified":1466321020,
     "wof:name":"Apple Barrel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.118114,33.664177,-94.118114,33.664177],
-  "geometry": {"coordinates":[-94.118114,33.664177],"type":"Point"}
+  "bbox": [
+    -94.118114,
+    33.664177,
+    -94.118114,
+    33.664177
+],
+  "geometry": {"coordinates":[-94.11811400000001,33.664177],"type":"Point"}
 }

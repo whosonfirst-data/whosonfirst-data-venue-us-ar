@@ -2,13 +2,14 @@
   "id": 220039591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.112012,36.177436,-94.112012,36.177436",
     "geom:latitude":36.177436,
     "geom:longitude":-94.112012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"683 Bain St",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":220039591,
-    "wof:lastmodified":1449074772,
+    "wof:lastmodified":1466320546,
     "wof:name":"Design-It",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "embroidery"
     ]
 },
-  "bbox": [-94.112012,36.177436,-94.112012,36.177436],
-  "geometry": {"coordinates":[-94.112012,36.177436],"type":"Point"}
+  "bbox": [
+    -94.112012,
+    36.177436,
+    -94.112012,
+    36.177436
+],
+  "geometry": {"coordinates":[-94.11201199999999,36.177436],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219154367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.811661,33.253531,-91.811661,33.253531",
     "geom:latitude":33.253531,
     "geom:longitude":-91.811661,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"265 Ashley Road 72",
     "sg:city":"Hamburg",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219154367,
-    "wof:lastmodified":1449073973,
+    "wof:lastmodified":1466320423,
     "wof:name":"Horns & Halows",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "day"
     ]
 },
-  "bbox": [-91.811661,33.253531,-91.811661,33.253531],
+  "bbox": [
+    -91.811661,
+    33.253531,
+    -91.811661,
+    33.253531
+],
   "geometry": {"coordinates":[-91.811661,33.253531],"type":"Point"}
 }

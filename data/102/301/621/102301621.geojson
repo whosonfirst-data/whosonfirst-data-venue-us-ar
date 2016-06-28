@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102301621",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.933163,33.266623,-91.933163,33.266623",
     "geom:latitude":33.266623,
     "geom:longitude":-91.933163,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"287 Ashley Rd 464",
     "sg:city":"Hamburg",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":"102301621",
-    "wof:lastmodified":1449068409,
+    "wof:lastmodified":1466323100,
     "wof:name":"Naff Rickman Construction LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.933163,33.266623,-91.933163,33.266623],
-  "geometry": {"coordinates":[-91.933163,33.266623],"type":"Point"}
+  "bbox": [
+    -91.933163,
+    33.266623,
+    -91.933163,
+    33.266623
+],
+  "geometry": {"coordinates":[-91.93316299999999,33.266623],"type":"Point"}
 }

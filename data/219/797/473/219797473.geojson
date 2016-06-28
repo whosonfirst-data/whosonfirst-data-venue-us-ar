@@ -2,13 +2,14 @@
   "id": 219797473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.483162,36.28669,-92.483162,36.28669",
     "geom:latitude":36.28669,
     "geom:longitude":-92.483162,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"721 E Main St",
     "sg:city":"Gassville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219797473,
-    "wof:lastmodified":1449073568,
+    "wof:lastmodified":1466324949,
     "wof:name":"Flyin Bryan's Sharp Automotive Diagnostic & Repair, Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.483162,36.28669,-92.483162,36.28669],
-  "geometry": {"coordinates":[-92.483162,36.28669],"type":"Point"}
+  "bbox": [
+    -92.483162,
+    36.28669,
+    -92.483162,
+    36.28669
+],
+  "geometry": {"coordinates":[-92.48316199999999,36.28669],"type":"Point"}
 }

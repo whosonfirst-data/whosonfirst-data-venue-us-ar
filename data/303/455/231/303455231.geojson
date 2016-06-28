@@ -2,13 +2,14 @@
   "id": 303455231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.397941,34.562647,-94.397941,34.562647",
     "geom:latitude":34.562647,
     "geom:longitude":-94.397941,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"725 Polk Rd 48",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303455231,
-    "wof:lastmodified":1449000170,
+    "wof:lastmodified":1466320479,
     "wof:name":"Aquamena Premium Natrl Spr Wat",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "company"
     ]
 },
-  "bbox": [-94.397941,34.562647,-94.397941,34.562647],
+  "bbox": [
+    -94.397941,
+    34.562647,
+    -94.397941,
+    34.562647
+],
   "geometry": {"coordinates":[-94.397941,34.562647],"type":"Point"}
 }

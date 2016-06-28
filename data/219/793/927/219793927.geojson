@@ -2,13 +2,14 @@
   "id": 219793927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.587517,36.274022,-92.587517,36.274022",
     "geom:latitude":36.274022,
     "geom:longitude":-92.587517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"502 S 8th St",
     "sg:city":"Flippin",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219793927,
-    "wof:lastmodified":1449072322,
+    "wof:lastmodified":1466324951,
     "wof:name":"Hillwood Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-92.587517,36.274022,-92.587517,36.274022],
-  "geometry": {"coordinates":[-92.587517,36.274022],"type":"Point"}
+  "bbox": [
+    -92.587517,
+    36.274022,
+    -92.587517,
+    36.274022
+],
+  "geometry": {"coordinates":[-92.58751700000001,36.274022],"type":"Point"}
 }

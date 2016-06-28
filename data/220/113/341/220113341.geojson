@@ -2,13 +2,14 @@
   "id": 220113341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.307347,35.193615,-94.307347,35.193615",
     "geom:latitude":35.193615,
     "geom:longitude":-94.307347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1308 Nickletown Rd",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220113341,
-    "wof:lastmodified":1449074808,
+    "wof:lastmodified":1466322473,
     "wof:name":"Bailey, Teryl",
     "wof:parent_id":85808359,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "stylist"
     ]
 },
-  "bbox": [-94.307347,35.193615,-94.307347,35.193615],
-  "geometry": {"coordinates":[-94.307347,35.193615],"type":"Point"}
+  "bbox": [
+    -94.307347,
+    35.193615,
+    -94.307347,
+    35.193615
+],
+  "geometry": {"coordinates":[-94.30734699999999,35.193615],"type":"Point"}
 }

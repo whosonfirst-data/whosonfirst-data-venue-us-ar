@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102387495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.222287,36.340461,-94.222287,36.340461",
     "geom:latitude":36.340461,
     "geom:longitude":-94.222287,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3101 SW I St",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102387495,
-    "wof:lastmodified":1449069846,
+    "wof:lastmodified":1466323634,
     "wof:name":"Agracel Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.222287,36.340461,-94.222287,36.340461],
-  "geometry": {"coordinates":[-94.222287,36.340461],"type":"Point"}
+  "bbox": [
+    -94.222287,
+    36.340461,
+    -94.222287,
+    36.340461
+],
+  "geometry": {"coordinates":[-94.22228699999999,36.340461],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102407919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.407289,34.852483,-92.407289,34.852483",
     "geom:latitude":34.852483,
     "geom:longitude":-92.407289,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"127 Audubon Dr",
     "sg:city":"Maumelle",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102407919,
-    "wof:lastmodified":1449069074,
+    "wof:lastmodified":1466325070,
     "wof:name":"Cheers In Maumelle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.407289,34.852483,-92.407289,34.852483],
-  "geometry": {"coordinates":[-92.407289,34.852483],"type":"Point"}
+  "bbox": [
+    -92.407289,
+    34.852483,
+    -92.407289,
+    34.852483
+],
+  "geometry": {"coordinates":[-92.40728900000001,34.852483],"type":"Point"}
 }

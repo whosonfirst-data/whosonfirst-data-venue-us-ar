@@ -2,13 +2,14 @@
   "id": 219878525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.351536,36.292289,-94.351536,36.292289",
     "geom:latitude":36.292289,
     "geom:longitude":-94.351536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14355 Pautsky Ln",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219878525,
-    "wof:lastmodified":1449072230,
+    "wof:lastmodified":1466325157,
     "wof:name":"Johnson, Jim",
     "wof:parent_id":85853527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practice"
     ]
 },
-  "bbox": [-94.351536,36.292289,-94.351536,36.292289],
+  "bbox": [
+    -94.351536,
+    36.292289,
+    -94.351536,
+    36.292289
+],
   "geometry": {"coordinates":[-94.351536,36.292289],"type":"Point"}
 }

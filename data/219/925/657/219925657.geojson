@@ -2,13 +2,14 @@
   "id": 219925657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.444354,36.428843,-94.444354,36.428843",
     "geom:latitude":36.428843,
     "geom:longitude":-94.444354,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"904 Rocky Dell Rd NE",
     "sg:city":"Gravette",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219925657,
-    "wof:lastmodified":1449070397,
+    "wof:lastmodified":1466325149,
     "wof:name":"Holistic Retreat",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "assistant"
     ]
 },
-  "bbox": [-94.444354,36.428843,-94.444354,36.428843],
+  "bbox": [
+    -94.444354,
+    36.428843,
+    -94.444354,
+    36.428843
+],
   "geometry": {"coordinates":[-94.444354,36.428843],"type":"Point"}
 }

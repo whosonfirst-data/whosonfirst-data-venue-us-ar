@@ -2,13 +2,14 @@
   "id": 219802263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.649226,35.909919,-92.649226,35.909919",
     "geom:latitude":35.909919,
     "geom:longitude":-92.649226,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"48 Zack Rd",
     "sg:city":"Marshall",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219802263,
-    "wof:lastmodified":1449073266,
+    "wof:lastmodified":1466324951,
     "wof:name":"Country Kitchen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "family"
     ]
 },
-  "bbox": [-92.649226,35.909919,-92.649226,35.909919],
+  "bbox": [
+    -92.649226,
+    35.909919,
+    -92.649226,
+    35.909919
+],
   "geometry": {"coordinates":[-92.649226,35.909919],"type":"Point"}
 }

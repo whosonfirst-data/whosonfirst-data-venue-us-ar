@@ -2,13 +2,14 @@
   "id": 220051655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.077148,36.151554,-94.077148,36.151554",
     "geom:latitude":36.151554,
     "geom:longitude":-94.077148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4890 Horn Ln",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -71,10 +72,11 @@
         }
     ],
     "wof:id":220051655,
-    "wof:lastmodified":1449074533,
+    "wof:lastmodified":1466320706,
     "wof:name":"Southern Landscaping Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -90,6 +92,11 @@
         "landscape"
     ]
 },
-  "bbox": [-94.077148,36.151554,-94.077148,36.151554],
-  "geometry": {"coordinates":[-94.077148,36.151554],"type":"Point"}
+  "bbox": [
+    -94.077148,
+    36.151554,
+    -94.077148,
+    36.151554
+],
+  "geometry": {"coordinates":[-94.07714799999999,36.151554],"type":"Point"}
 }

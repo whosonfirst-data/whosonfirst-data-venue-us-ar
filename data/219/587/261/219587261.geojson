@@ -2,13 +2,14 @@
   "id": 219587261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.855137,34.308049,-90.855137,34.308049",
     "geom:latitude":34.308049,
     "geom:longitude":-90.855137,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 Main St",
     "sg:city":"Elaine",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219587261,
-    "wof:lastmodified":1449071610,
+    "wof:lastmodified":1466324773,
     "wof:name":"Elaine Baptist Church",
     "wof:parent_id":85834075,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "churches-baptist"
     ]
 },
-  "bbox": [-90.855137,34.308049,-90.855137,34.308049],
+  "bbox": [
+    -90.855137,
+    34.308049,
+    -90.855137,
+    34.308049
+],
   "geometry": {"coordinates":[-90.855137,34.308049],"type":"Point"}
 }

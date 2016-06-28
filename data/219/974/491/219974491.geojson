@@ -2,13 +2,14 @@
   "id": 219974491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.134693,36.335073,-94.134693,36.335073",
     "geom:latitude":36.335073,
     "geom:longitude":-94.134693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 N 13th St",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219974491,
-    "wof:lastmodified":1449073448,
+    "wof:lastmodified":1466325229,
     "wof:name":"Shaw R E Dr Chiropractic Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.134693,36.335073,-94.134693,36.335073],
+  "bbox": [
+    -94.134693,
+    36.335073,
+    -94.134693,
+    36.335073
+],
   "geometry": {"coordinates":[-94.134693,36.335073],"type":"Point"}
 }

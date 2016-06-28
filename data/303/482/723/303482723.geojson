@@ -2,13 +2,14 @@
   "id": 303482723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.52782,36.178548,-94.52782,36.178548",
     "geom:latitude":36.178548,
     "geom:longitude":-94.52782,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"707 S Lincoln St",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303482723,
-    "wof:lastmodified":1448998987,
+    "wof:lastmodified":1466320491,
     "wof:name":"Revenue Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "revenue"
     ]
 },
-  "bbox": [-94.52782,36.178548,-94.52782,36.178548],
-  "geometry": {"coordinates":[-94.52782,36.178548],"type":"Point"}
+  "bbox": [
+    -94.52782,
+    36.178548,
+    -94.52782,
+    36.178548
+],
+  "geometry": {"coordinates":[-94.52782000000001,36.178548],"type":"Point"}
 }

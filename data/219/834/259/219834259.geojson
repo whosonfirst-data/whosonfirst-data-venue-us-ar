@@ -2,13 +2,14 @@
   "id": 219834259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.160592,36.062531,-94.160592,36.062531",
     "geom:latitude":36.062531,
     "geom:longitude":-94.160592,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 S Block Ave Ste 101",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219834259,
-    "wof:lastmodified":1449070716,
+    "wof:lastmodified":1466325002,
     "wof:name":"Kfaa Tv Channel 51",
     "wof:parent_id":85885459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "representative"
     ]
 },
-  "bbox": [-94.160592,36.062531,-94.160592,36.062531],
-  "geometry": {"coordinates":[-94.160592,36.062531],"type":"Point"}
+  "bbox": [
+    -94.160592,
+    36.062531,
+    -94.160592,
+    36.062531
+],
+  "geometry": {"coordinates":[-94.16059199999999,36.062531],"type":"Point"}
 }

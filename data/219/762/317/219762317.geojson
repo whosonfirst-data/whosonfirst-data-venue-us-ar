@@ -2,13 +2,14 @@
   "id": 219762317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.103656,36.239856,-93.103656,36.239856",
     "geom:latitude":36.239856,
     "geom:longitude":-93.103656,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"912 Highway 62 65 N",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219762317,
-    "wof:lastmodified":1449072889,
+    "wof:lastmodified":1466324917,
     "wof:name":"Printing More For Less",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lithographer"
     ]
 },
-  "bbox": [-93.103656,36.239856,-93.103656,36.239856],
+  "bbox": [
+    -93.103656,
+    36.239856,
+    -93.103656,
+    36.239856
+],
   "geometry": {"coordinates":[-93.103656,36.239856],"type":"Point"}
 }

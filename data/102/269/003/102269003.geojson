@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102269003",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.336413,34.718586,-92.336413,34.718586",
     "geom:latitude":34.718586,
     "geom:longitude":-92.336413,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5801 Asher Ave",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85821445,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85821445
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":"102269003",
-    "wof:lastmodified":1449069273,
+    "wof:lastmodified":1466322261,
     "wof:name":"Turner Holdings LLC",
     "wof:parent_id":85821445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.336413,34.718586,-92.336413,34.718586],
-  "geometry": {"coordinates":[-92.336413,34.718586],"type":"Point"}
+  "bbox": [
+    -92.336413,
+    34.718586,
+    -92.336413,
+    34.718586
+],
+  "geometry": {"coordinates":[-92.33641299999999,34.718586],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219879547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.1875,36.335098,-94.1875,36.335098",
     "geom:latitude":36.335098,
     "geom:longitude":-94.1875,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2900 Medical Center Pkwy",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219879547,
-    "wof:lastmodified":1449070403,
+    "wof:lastmodified":1466325064,
     "wof:name":"Northwest Internal Medicine-Bentonville",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "internal"
     ]
 },
-  "bbox": [-94.1875,36.335098,-94.1875,36.335098],
+  "bbox": [
+    -94.1875,
+    36.335098,
+    -94.1875,
+    36.335098
+],
   "geometry": {"coordinates":[-94.1875,36.335098],"type":"Point"}
 }

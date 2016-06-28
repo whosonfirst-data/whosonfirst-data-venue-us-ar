@@ -2,13 +2,14 @@
   "id": 219421075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.404902,35.225931,-92.404902,35.225931",
     "geom:latitude":35.225931,
     "geom:longitude":-92.404902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"80 Weston Cir",
     "sg:city":"Greenbrier",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219421075,
-    "wof:lastmodified":1449072624,
+    "wof:lastmodified":1466323029,
     "wof:name":"Taz Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "park"
     ]
 },
-  "bbox": [-92.404902,35.225931,-92.404902,35.225931],
-  "geometry": {"coordinates":[-92.404902,35.225931],"type":"Point"}
+  "bbox": [
+    -92.404902,
+    35.225931,
+    -92.404902,
+    35.225931
+],
+  "geometry": {"coordinates":[-92.40490200000001,35.225931],"type":"Point"}
 }

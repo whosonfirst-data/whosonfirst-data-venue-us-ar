@@ -2,13 +2,14 @@
   "id": 219472501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.72237,35.150599,-92.72237,35.150599",
     "geom:latitude":35.150599,
     "geom:longitude":-92.72237,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Ward Dr",
     "sg:city":"Morrilton",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":219472501,
-    "wof:lastmodified":1449070666,
+    "wof:lastmodified":1466323609,
     "wof:name":"McGee Monument Co Inc",
     "wof:parent_id":85814069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mausoleum"
     ]
 },
-  "bbox": [-92.72237,35.150599,-92.72237,35.150599],
+  "bbox": [
+    -92.72237,
+    35.150599,
+    -92.72237,
+    35.150599
+],
   "geometry": {"coordinates":[-92.72237,35.150599],"type":"Point"}
 }

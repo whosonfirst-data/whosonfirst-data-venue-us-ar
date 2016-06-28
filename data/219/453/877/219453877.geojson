@@ -2,13 +2,14 @@
   "id": 219453877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.371337,34.637028,-92.371337,34.637028",
     "geom:latitude":34.637028,
     "geom:longitude":-92.371337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8300 Bunch Rd",
     "sg:city":"Mabelvale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219453877,
-    "wof:lastmodified":1449073053,
+    "wof:lastmodified":1466323420,
     "wof:name":"Cycle Shack",
     "wof:parent_id":85833155,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-92.371337,34.637028,-92.371337,34.637028],
+  "bbox": [
+    -92.371337,
+    34.637028,
+    -92.371337,
+    34.637028
+],
   "geometry": {"coordinates":[-92.371337,34.637028],"type":"Point"}
 }

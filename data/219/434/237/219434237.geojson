@@ -2,13 +2,14 @@
   "id": 219434237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.12571,34.872391,-92.12571,34.872391",
     "geom:latitude":34.872391,
     "geom:longitude":-92.12571,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1409 Braden St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219434237,
-    "wof:lastmodified":1449071158,
+    "wof:lastmodified":1466323134,
     "wof:name":"Daugherty, Joe D",
     "wof:parent_id":85852337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-92.12571,34.872391,-92.12571,34.872391],
+  "bbox": [
+    -92.12571,
+    34.872391,
+    -92.12571,
+    34.872391
+],
   "geometry": {"coordinates":[-92.12571,34.872391],"type":"Point"}
 }

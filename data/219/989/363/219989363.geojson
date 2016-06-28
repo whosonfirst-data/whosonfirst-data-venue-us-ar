@@ -2,13 +2,14 @@
   "id": 219989363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.186811,36.309856,-94.186811,36.309856",
     "geom:latitude":36.309856,
     "geom:longitude":-94.186811,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2522 Pinnacle Hills Pkwy Ste 210",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219989363,
-    "wof:lastmodified":1449072992,
+    "wof:lastmodified":1466325436,
     "wof:name":"Great Southern Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.186811,36.309856,-94.186811,36.309856],
-  "geometry": {"coordinates":[-94.186811,36.309856],"type":"Point"}
+  "bbox": [
+    -94.186811,
+    36.309856,
+    -94.186811,
+    36.309856
+],
+  "geometry": {"coordinates":[-94.18681100000001,36.309856],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102357147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.274059,34.774907,-92.274059,34.774907",
     "geom:latitude":34.774907,
     "geom:longitude":-92.274059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2001 Allen St",
     "sg:city":"N Little Rock",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837877,
+        85688549,
         85633793,
         85921255,
         102082497,
-        85688549
+        85837877
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":102357147,
-    "wof:lastmodified":1449069886,
+    "wof:lastmodified":1466324158,
     "wof:name":"Valley Services Inc",
     "wof:parent_id":85837877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.274059,34.774907,-92.274059,34.774907],
-  "geometry": {"coordinates":[-92.274059,34.774907],"type":"Point"}
+  "bbox": [
+    -92.274059,
+    34.774907,
+    -92.274059,
+    34.774907
+],
+  "geometry": {"coordinates":[-92.27405899999999,34.774907],"type":"Point"}
 }

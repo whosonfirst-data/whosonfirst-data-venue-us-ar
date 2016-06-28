@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102430301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.98565,34.460543,-92.98565,34.460543",
     "geom:latitude":34.460543,
     "geom:longitude":-92.98565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"137 Vincent Ln",
     "sg:city":"Hot Springs National",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102430301,
-    "wof:lastmodified":1449069301,
+    "wof:lastmodified":1466325504,
     "wof:name":"Haight Trucking Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.98565,34.460543,-92.98565,34.460543],
-  "geometry": {"coordinates":[-92.98565,34.460543],"type":"Point"}
+  "bbox": [
+    -92.98565,
+    34.460543,
+    -92.98565,
+    34.460543
+],
+  "geometry": {"coordinates":[-92.98565000000001,34.460543],"type":"Point"}
 }

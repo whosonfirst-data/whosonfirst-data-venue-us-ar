@@ -2,13 +2,14 @@
   "id": 219271697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.99704,33.484409,-93.99704,33.484409",
     "geom:latitude":33.484409,
     "geom:longitude":-93.99704,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6400 Northern Hills Dr",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":219271697,
-    "wof:lastmodified":1449072232,
+    "wof:lastmodified":1466321497,
     "wof:name":"Lacy, Nancy & Lacy Family Inves",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investing"
     ]
 },
-  "bbox": [-93.99704,33.484409,-93.99704,33.484409],
+  "bbox": [
+    -93.99704,
+    33.484409,
+    -93.99704,
+    33.484409
+],
   "geometry": {"coordinates":[-93.99704,33.484409],"type":"Point"}
 }

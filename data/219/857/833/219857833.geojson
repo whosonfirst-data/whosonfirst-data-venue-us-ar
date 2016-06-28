@@ -2,13 +2,14 @@
   "id": 219857833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.135016,36.10772,-94.135016,36.10772",
     "geom:latitude":36.10772,
     "geom:longitude":-94.135016,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1843 E Cortland St",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":219857833,
-    "wof:lastmodified":1449072672,
+    "wof:lastmodified":1466325041,
     "wof:name":"Alliance Shippers Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "trucking"
     ]
 },
-  "bbox": [-94.135016,36.10772,-94.135016,36.10772],
-  "geometry": {"coordinates":[-94.135016,36.10772],"type":"Point"}
+  "bbox": [
+    -94.135016,
+    36.10772,
+    -94.135016,
+    36.10772
+],
+  "geometry": {"coordinates":[-94.13501599999999,36.10772],"type":"Point"}
 }

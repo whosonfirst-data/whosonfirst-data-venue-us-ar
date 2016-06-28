@@ -2,13 +2,14 @@
   "id": 219804339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.223381,36.356702,-93.223381,36.356702",
     "geom:latitude":36.356702,
     "geom:longitude":-93.223381,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12138 Elmwood Springs Rd",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219804339,
-    "wof:lastmodified":1449072850,
+    "wof:lastmodified":1466324958,
     "wof:name":"Cobb Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.223381,36.356702,-93.223381,36.356702],
+  "bbox": [
+    -93.223381,
+    36.356702,
+    -93.223381,
+    36.356702
+],
   "geometry": {"coordinates":[-93.223381,36.356702],"type":"Point"}
 }

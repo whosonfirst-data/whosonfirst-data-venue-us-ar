@@ -2,13 +2,14 @@
   "id": 219931153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.800922,36.119313,-93.800922,36.119313",
     "geom:latitude":36.119313,
     "geom:longitude":-93.800922,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Madison 7805",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219931153,
-    "wof:lastmodified":1449073603,
+    "wof:lastmodified":1466325219,
     "wof:name":"Presley Engineering Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "engineer"
     ]
 },
-  "bbox": [-93.800922,36.119313,-93.800922,36.119313],
+  "bbox": [
+    -93.800922,
+    36.119313,
+    -93.800922,
+    36.119313
+],
   "geometry": {"coordinates":[-93.800922,36.119313],"type":"Point"}
 }

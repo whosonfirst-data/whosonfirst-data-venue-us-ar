@@ -2,13 +2,14 @@
   "id": 219167765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.795273,33.629302,-91.795273,33.629302",
     "geom:latitude":33.629302,
     "geom:longitude":-91.795273,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"580 W Gaines St",
     "sg:city":"Monticello",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":219167765,
-    "wof:lastmodified":1449072221,
+    "wof:lastmodified":1466320533,
     "wof:name":"The Village Bakery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "wedding"
     ]
 },
-  "bbox": [-91.795273,33.629302,-91.795273,33.629302],
-  "geometry": {"coordinates":[-91.795273,33.629302],"type":"Point"}
+  "bbox": [
+    -91.795273,
+    33.629302,
+    -91.795273,
+    33.629302
+],
+  "geometry": {"coordinates":[-91.79527299999999,33.629302],"type":"Point"}
 }

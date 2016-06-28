@@ -2,13 +2,14 @@
   "id": 219993931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.160474,36.318795,-94.160474,36.318795",
     "geom:latitude":36.318795,
     "geom:longitude":-94.160474,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1606 S 27th Pl",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219993931,
-    "wof:lastmodified":1449071961,
+    "wof:lastmodified":1466325248,
     "wof:name":"The Wayfarer Photography",
     "wof:parent_id":85895851,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographers-portrait"
     ]
 },
-  "bbox": [-94.160474,36.318795,-94.160474,36.318795],
-  "geometry": {"coordinates":[-94.160474,36.318795],"type":"Point"}
+  "bbox": [
+    -94.160474,
+    36.318795,
+    -94.160474,
+    36.318795
+],
+  "geometry": {"coordinates":[-94.16047399999999,36.318795],"type":"Point"}
 }

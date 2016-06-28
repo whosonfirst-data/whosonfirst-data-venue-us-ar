@@ -2,13 +2,14 @@
   "id": 303719241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.541462,36.177992,-94.541462,36.177992",
     "geom:latitude":36.177992,
     "geom:longitude":-94.541462,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"802 S Mount Olive St",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303719241,
-    "wof:lastmodified":1448998436,
+    "wof:lastmodified":1466320572,
     "wof:name":"Heaven Sent Gift Baskets",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "parcel"
     ]
 },
-  "bbox": [-94.541462,36.177992,-94.541462,36.177992],
+  "bbox": [
+    -94.541462,
+    36.177992,
+    -94.541462,
+    36.177992
+],
   "geometry": {"coordinates":[-94.541462,36.177992],"type":"Point"}
 }

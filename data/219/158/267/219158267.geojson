@@ -2,13 +2,14 @@
   "id": 219158267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.314367,33.428682,-92.314367,33.428682",
     "geom:latitude":33.428682,
     "geom:longitude":-92.314367,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1359 Highway 160 W",
     "sg:city":"Jersey",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219158267,
-    "wof:lastmodified":1449072742,
+    "wof:lastmodified":1466320455,
     "wof:name":"G M Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "trucking"
     ]
 },
-  "bbox": [-92.314367,33.428682,-92.314367,33.428682],
+  "bbox": [
+    -92.314367,
+    33.428682,
+    -92.314367,
+    33.428682
+],
   "geometry": {"coordinates":[-92.314367,33.428682],"type":"Point"}
 }

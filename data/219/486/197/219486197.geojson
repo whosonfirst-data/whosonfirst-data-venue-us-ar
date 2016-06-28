@@ -2,13 +2,14 @@
   "id": 219486197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.224573,34.836806,-92.224573,34.836806",
     "geom:latitude":34.836806,
     "geom:longitude":-92.224573,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9019 Barber St",
     "sg:city":"Sherwood",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219486197,
-    "wof:lastmodified":1449072343,
+    "wof:lastmodified":1466323771,
     "wof:name":"Ruth Accounting",
     "wof:parent_id":85851723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "public"
     ]
 },
-  "bbox": [-92.224573,34.836806,-92.224573,34.836806],
-  "geometry": {"coordinates":[-92.224573,34.836806],"type":"Point"}
+  "bbox": [
+    -92.224573,
+    34.836806,
+    -92.224573,
+    34.836806
+],
+  "geometry": {"coordinates":[-92.22457300000001,34.836806],"type":"Point"}
 }

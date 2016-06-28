@@ -2,13 +2,14 @@
   "id": 219871897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.214539,36.37463,-94.214539,36.37463",
     "geom:latitude":36.37463,
     "geom:longitude":-94.214539,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 NW D St",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219871897,
-    "wof:lastmodified":1449071555,
+    "wof:lastmodified":1466325054,
     "wof:name":"Royce Financial Service Ll",
     "wof:parent_id":85895827,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "planner"
     ]
 },
-  "bbox": [-94.214539,36.37463,-94.214539,36.37463],
+  "bbox": [
+    -94.214539,
+    36.37463,
+    -94.214539,
+    36.37463
+],
   "geometry": {"coordinates":[-94.214539,36.37463],"type":"Point"}
 }

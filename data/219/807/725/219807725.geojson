@@ -2,13 +2,14 @@
   "id": 219807725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.773093,36.491747,-92.773093,36.491747",
     "geom:latitude":36.491747,
     "geom:longitude":-92.773093,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 Wagon Wheel Ln",
     "sg:city":"Peel",
     "sg:classifiers":[
@@ -58,16 +59,22 @@
         }
     ],
     "wof:id":219807725,
-    "wof:lastmodified":1449071303,
+    "wof:lastmodified":1466324958,
     "wof:name":"Wagon Wheel Resort & Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lodging"
     ]
 },
-  "bbox": [-92.773093,36.491747,-92.773093,36.491747],
+  "bbox": [
+    -92.773093,
+    36.491747,
+    -92.773093,
+    36.491747
+],
   "geometry": {"coordinates":[-92.773093,36.491747],"type":"Point"}
 }

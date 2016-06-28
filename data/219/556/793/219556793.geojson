@@ -2,13 +2,14 @@
   "id": 219556793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.541272,34.500954,-91.541272,34.500954",
     "geom:latitude":34.500954,
     "geom:longitude":-91.541272,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1020 E 2nd St",
     "sg:city":"Stuttgart",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219556793,
-    "wof:lastmodified":1449071274,
+    "wof:lastmodified":1466324524,
     "wof:name":"Club Britney",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "bar"
     ]
 },
-  "bbox": [-91.541272,34.500954,-91.541272,34.500954],
-  "geometry": {"coordinates":[-91.541272,34.500954],"type":"Point"}
+  "bbox": [
+    -91.541272,
+    34.500954,
+    -91.541272,
+    34.500954
+],
+  "geometry": {"coordinates":[-91.54127200000001,34.500954],"type":"Point"}
 }

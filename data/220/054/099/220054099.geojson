@@ -2,13 +2,14 @@
   "id": 220054099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.110538,36.17705,-94.110538,36.17705",
     "geom:latitude":36.17705,
     "geom:longitude":-94.110538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1864 Ford Ave",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":220054099,
-    "wof:lastmodified":1449074400,
+    "wof:lastmodified":1466320805,
     "wof:name":"Modern Fence & Supply Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "contractor"
     ]
 },
-  "bbox": [-94.110538,36.17705,-94.110538,36.17705],
-  "geometry": {"coordinates":[-94.110538,36.17705],"type":"Point"}
+  "bbox": [
+    -94.110538,
+    36.17705,
+    -94.110538,
+    36.17705
+],
+  "geometry": {"coordinates":[-94.11053800000001,36.17705],"type":"Point"}
 }

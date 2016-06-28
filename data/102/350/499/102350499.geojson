@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102350499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.802855,35.821369,-90.802855,35.821369",
     "geom:latitude":35.821369,
     "geom:longitude":-90.802855,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2187 State Hwy 349",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102350499,
-    "wof:lastmodified":1449068970,
+    "wof:lastmodified":1466324049,
     "wof:name":"Oak Grove Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.802855,35.821369,-90.802855,35.821369],
-  "geometry": {"coordinates":[-90.802855,35.821369],"type":"Point"}
+  "bbox": [
+    -90.802855,
+    35.821369,
+    -90.802855,
+    35.821369
+],
+  "geometry": {"coordinates":[-90.80285499999999,35.821369],"type":"Point"}
 }

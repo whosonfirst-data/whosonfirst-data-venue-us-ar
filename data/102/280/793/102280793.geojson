@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102280793",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.97124,36.07487,-90.97124,36.07487",
     "geom:latitude":36.07487,
     "geom:longitude":-90.97124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 W Main St",
     "sg:city":"Walnut Ridge",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102280793",
-    "wof:lastmodified":1449068939,
+    "wof:lastmodified":1466322686,
     "wof:name":"American Homepatient",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.97124,36.07487,-90.97124,36.07487],
-  "geometry": {"coordinates":[-90.97124,36.07487],"type":"Point"}
+  "bbox": [
+    -90.97124,
+    36.07487,
+    -90.97124,
+    36.07487
+],
+  "geometry": {"coordinates":[-90.97123999999999,36.07487],"type":"Point"}
 }

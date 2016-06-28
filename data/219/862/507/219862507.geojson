@@ -2,13 +2,14 @@
   "id": 219862507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.197093,36.057726,-94.197093,36.057726",
     "geom:latitude":36.057726,
     "geom:longitude":-94.197093,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"523 S Shiloh Dr",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219862507,
-    "wof:lastmodified":1449074016,
+    "wof:lastmodified":1466325140,
     "wof:name":"Travelodge Inn And Suites Fayetteville",
     "wof:parent_id":85885441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lodging"
     ]
 },
-  "bbox": [-94.197093,36.057726,-94.197093,36.057726],
+  "bbox": [
+    -94.197093,
+    36.057726,
+    -94.197093,
+    36.057726
+],
   "geometry": {"coordinates":[-94.197093,36.057726],"type":"Point"}
 }

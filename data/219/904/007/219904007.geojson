@@ -2,13 +2,14 @@
   "id": 219904007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.235981,36.335941,-94.235981,36.335941",
     "geom:latitude":36.335941,
     "geom:longitude":-94.235981,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2003 SW Regional Airport Blvd # 15",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219904007,
-    "wof:lastmodified":1449074010,
+    "wof:lastmodified":1466325193,
     "wof:name":"Brightwood Grill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "bar"
     ]
 },
-  "bbox": [-94.235981,36.335941,-94.235981,36.335941],
+  "bbox": [
+    -94.235981,
+    36.335941,
+    -94.235981,
+    36.335941
+],
   "geometry": {"coordinates":[-94.235981,36.335941],"type":"Point"}
 }

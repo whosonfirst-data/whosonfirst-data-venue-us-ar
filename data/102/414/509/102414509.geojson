@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102414509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.651857,35.772534,-91.651857,35.772534",
     "geom:latitude":35.772534,
     "geom:longitude":-91.651857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"499 Water St",
     "sg:city":"Batesville",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851415,
+        85688549,
         85633793,
         85920683,
         102083875,
-        85688549
+        85851415
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102414509,
-    "wof:lastmodified":1449068892,
+    "wof:lastmodified":1466325337,
     "wof:name":"Brads Vacuum & Sewing Center",
     "wof:parent_id":85851415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.651857,35.772534,-91.651857,35.772534],
-  "geometry": {"coordinates":[-91.651857,35.772534],"type":"Point"}
+  "bbox": [
+    -91.651857,
+    35.772534,
+    -91.651857,
+    35.772534
+],
+  "geometry": {"coordinates":[-91.65185700000001,35.772534],"type":"Point"}
 }

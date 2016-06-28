@@ -2,13 +2,14 @@
   "id": 220073821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.433126,35.072347,-93.433126,35.072347",
     "geom:latitude":35.072347,
     "geom:longitude":-93.433126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10094 Orchard Ln",
     "sg:city":"Belleville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220073821,
-    "wof:lastmodified":1449074140,
+    "wof:lastmodified":1466321426,
     "wof:name":"River Valley Sports & Pawn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pawnbroker"
     ]
 },
-  "bbox": [-93.433126,35.072347,-93.433126,35.072347],
+  "bbox": [
+    -93.433126,
+    35.072347,
+    -93.433126,
+    35.072347
+],
   "geometry": {"coordinates":[-93.433126,35.072347],"type":"Point"}
 }

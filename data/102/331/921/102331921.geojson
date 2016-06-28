@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102331921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.453496,36.422236,-94.453496,36.422236",
     "geom:latitude":36.422236,
     "geom:longitude":-94.453496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 Main St SW",
     "sg:city":"Gravette",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102331921,
-    "wof:lastmodified":1449069210,
+    "wof:lastmodified":1466323742,
     "wof:name":"Gravette News Herald",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.453496,36.422236,-94.453496,36.422236],
+  "bbox": [
+    -94.453496,
+    36.422236,
+    -94.453496,
+    36.422236
+],
   "geometry": {"coordinates":[-94.453496,36.422236],"type":"Point"}
 }

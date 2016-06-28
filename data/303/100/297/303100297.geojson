@@ -2,13 +2,14 @@
   "id": 303100297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.25129,34.589357,-94.25129,34.589357",
     "geom:latitude":34.589357,
     "geom:longitude":-94.25129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"161 Polk St N",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303100297,
-    "wof:lastmodified":1448999931,
+    "wof:lastmodified":1466323452,
     "wof:name":"D J Woodcraft LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-94.25129,34.589357,-94.25129,34.589357],
+  "bbox": [
+    -94.25129,
+    34.589357,
+    -94.25129,
+    34.589357
+],
   "geometry": {"coordinates":[-94.25129,34.589357],"type":"Point"}
 }

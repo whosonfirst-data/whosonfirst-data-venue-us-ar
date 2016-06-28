@@ -2,13 +2,14 @@
   "id": 353886683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.769156,36.57897,-94.769156,36.57897",
     "geom:latitude":36.57897,
     "geom:longitude":-94.769156,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2115 S Main St",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353886683,
-    "wof:lastmodified":1449019670,
+    "wof:lastmodified":1466320538,
     "wof:name":"Smart Style",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-94.769156,36.57897,-94.769156,36.57897],
+  "bbox": [
+    -94.769156,
+    36.57897,
+    -94.769156,
+    36.57897
+],
   "geometry": {"coordinates":[-94.769156,36.57897],"type":"Point"}
 }

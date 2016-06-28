@@ -2,13 +2,14 @@
   "id": 220063929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.143031,35.281734,-93.143031,35.281734",
     "geom:latitude":35.281734,
     "geom:longitude":-93.143031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1106 W B St",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220063929,
-    "wof:lastmodified":1449074095,
+    "wof:lastmodified":1466321120,
     "wof:name":"Mountain Top Disposal",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chiropractic"
     ]
 },
-  "bbox": [-93.143031,35.281734,-93.143031,35.281734],
-  "geometry": {"coordinates":[-93.143031,35.281734],"type":"Point"}
+  "bbox": [
+    -93.143031,
+    35.281734,
+    -93.143031,
+    35.281734
+],
+  "geometry": {"coordinates":[-93.14303099999999,35.281734],"type":"Point"}
 }

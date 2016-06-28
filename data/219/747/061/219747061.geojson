@@ -2,13 +2,14 @@
   "id": 219747061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.44207,35.696159,-91.44207,35.696159",
     "geom:latitude":35.696159,
     "geom:longitude":-91.44207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Maple St",
     "sg:city":"Newark",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219747061,
-    "wof:lastmodified":1449071037,
+    "wof:lastmodified":1466324982,
     "wof:name":"James E Mc Coy",
     "wof:parent_id":85808231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [-91.44207,35.696159,-91.44207,35.696159],
+  "bbox": [
+    -91.44207,
+    35.696159,
+    -91.44207,
+    35.696159
+],
   "geometry": {"coordinates":[-91.44207,35.696159],"type":"Point"}
 }

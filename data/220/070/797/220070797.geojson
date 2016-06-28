@@ -2,13 +2,14 @@
   "id": 220070797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.08274,35.321809,-93.08274,35.321809",
     "geom:latitude":35.321809,
     "geom:longitude":-93.08274,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"535 Ridgeview Ln",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220070797,
-    "wof:lastmodified":1449074413,
+    "wof:lastmodified":1466321372,
     "wof:name":"Amsco Advertising",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "specialty"
     ]
 },
-  "bbox": [-93.08274,35.321809,-93.08274,35.321809],
+  "bbox": [
+    -93.08274,
+    35.321809,
+    -93.08274,
+    35.321809
+],
   "geometry": {"coordinates":[-93.08274,35.321809],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219486119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.214802,34.810557,-92.214802,34.810557",
     "geom:latitude":34.810557,
     "geom:longitude":-92.214802,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1203 Dyson Dr",
     "sg:city":"Sherwood",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219486119,
-    "wof:lastmodified":1449072341,
+    "wof:lastmodified":1466323770,
     "wof:name":"Little Tot Tunes",
     "wof:parent_id":85852263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "label"
     ]
 },
-  "bbox": [-92.214802,34.810557,-92.214802,34.810557],
-  "geometry": {"coordinates":[-92.214802,34.810557],"type":"Point"}
+  "bbox": [
+    -92.214802,
+    34.810557,
+    -92.214802,
+    34.810557
+],
+  "geometry": {"coordinates":[-92.21480200000001,34.810557],"type":"Point"}
 }

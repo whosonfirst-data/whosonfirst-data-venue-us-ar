@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102403867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.005271,34.229536,-92.005271,34.229536",
     "geom:latitude":34.229536,
     "geom:longitude":-92.005271,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"213 W Barraque St",
     "sg:city":"Pine Bluff",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102403867,
-    "wof:lastmodified":1449069838,
+    "wof:lastmodified":1466324804,
     "wof:name":"Reeds TV",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.005271,34.229536,-92.005271,34.229536],
-  "geometry": {"coordinates":[-92.005271,34.229536],"type":"Point"}
+  "bbox": [
+    -92.005271,
+    34.229536,
+    -92.005271,
+    34.229536
+],
+  "geometry": {"coordinates":[-92.00527099999999,34.229536],"type":"Point"}
 }

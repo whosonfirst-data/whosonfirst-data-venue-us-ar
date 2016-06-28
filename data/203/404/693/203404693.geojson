@@ -2,13 +2,14 @@
   "id": 203404693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.965981,33.115471,-91.965981,33.115471",
     "geom:latitude":33.115471,
     "geom:longitude":-91.965981,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Brentwood Cir",
     "sg:city":"Crossett",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":203404693,
-    "wof:lastmodified":1449026234,
+    "wof:lastmodified":1466320522,
     "wof:name":"Southern Fire & Safety",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "system"
     ]
 },
-  "bbox": [-91.965981,33.115471,-91.965981,33.115471],
+  "bbox": [
+    -91.965981,
+    33.115471,
+    -91.965981,
+    33.115471
+],
   "geometry": {"coordinates":[-91.965981,33.115471],"type":"Point"}
 }

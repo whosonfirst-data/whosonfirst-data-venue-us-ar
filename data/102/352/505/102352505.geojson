@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102352505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.433714,35.529853,-90.433714,35.529853",
     "geom:latitude":35.529853,
     "geom:longitude":-90.433714,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 Cypress St",
     "sg:city":"Marked Tree",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102352505,
-    "wof:lastmodified":1449069238,
+    "wof:lastmodified":1466324069,
     "wof:name":"Straceners Interiors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.433714,35.529853,-90.433714,35.529853],
-  "geometry": {"coordinates":[-90.433714,35.529853],"type":"Point"}
+  "bbox": [
+    -90.433714,
+    35.529853,
+    -90.433714,
+    35.529853
+],
+  "geometry": {"coordinates":[-90.43371399999999,35.529853],"type":"Point"}
 }

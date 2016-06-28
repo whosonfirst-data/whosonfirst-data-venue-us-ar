@@ -2,13 +2,14 @@
   "id": 220104163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.850033,35.157636,-93.850033,35.157636",
     "geom:latitude":35.157636,
     "geom:longitude":-93.850033,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 Lowder Rd",
     "sg:city":"Booneville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":220104163,
-    "wof:lastmodified":1449074370,
+    "wof:lastmodified":1466322299,
     "wof:name":"Kaylyns Pet Boutique",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "boutique"
     ]
 },
-  "bbox": [-93.850033,35.157636,-93.850033,35.157636],
+  "bbox": [
+    -93.850033,
+    35.157636,
+    -93.850033,
+    35.157636
+],
   "geometry": {"coordinates":[-93.850033,35.157636],"type":"Point"}
 }

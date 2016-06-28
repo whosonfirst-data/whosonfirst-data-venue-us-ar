@@ -2,13 +2,14 @@
   "id": 219675841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.413332,36.052458,-90.413332,36.052458",
     "geom:latitude":36.052458,
     "geom:longitude":-90.413332,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5108 Highway 412 W",
     "sg:city":"Paragould",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219675841,
-    "wof:lastmodified":1449072177,
+    "wof:lastmodified":1466324835,
     "wof:name":"Betty's Family Haircare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.413332,36.052458,-90.413332,36.052458],
+  "bbox": [
+    -90.413332,
+    36.052458,
+    -90.413332,
+    36.052458
+],
   "geometry": {"coordinates":[-90.413332,36.052458],"type":"Point"}
 }

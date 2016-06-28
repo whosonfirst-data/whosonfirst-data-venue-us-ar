@@ -2,13 +2,14 @@
   "id": 219198607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.410337,33.824214,-92.410337,33.824214",
     "geom:latitude":33.824214,
     "geom:longitude":-92.410337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1208 Moro St",
     "sg:city":"Fordyce",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":219198607,
-    "wof:lastmodified":1449071670,
+    "wof:lastmodified":1466320854,
     "wof:name":"H & W Glass Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-92.410337,33.824214,-92.410337,33.824214],
+  "bbox": [
+    -92.410337,
+    33.824214,
+    -92.410337,
+    33.824214
+],
   "geometry": {"coordinates":[-92.410337,33.824214],"type":"Point"}
 }

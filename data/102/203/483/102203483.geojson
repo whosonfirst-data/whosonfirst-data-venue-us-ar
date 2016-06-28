@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102203483",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.221069,34.843905,-92.221069,34.843905",
     "geom:latitude":34.843905,
     "geom:longitude":-92.221069,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"903 E Woodruff Ave",
     "sg:city":"North Little Rock",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851723,
+        85688549,
         85633793,
         85921251,
         102082497,
-        85688549
+        85851723
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102203483",
-    "wof:lastmodified":1449068841,
+    "wof:lastmodified":1466320773,
     "wof:name":"Mirror Images",
     "wof:parent_id":85851723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.221069,34.843905,-92.221069,34.843905],
+  "bbox": [
+    -92.221069,
+    34.843905,
+    -92.221069,
+    34.843905
+],
   "geometry": {"coordinates":[-92.221069,34.843905],"type":"Point"}
 }

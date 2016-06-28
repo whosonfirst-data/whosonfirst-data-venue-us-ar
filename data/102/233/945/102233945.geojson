@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102233945",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.077024,34.495534,-93.077024,34.495534",
     "geom:latitude":34.495534,
     "geom:longitude":-93.077024,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 Albert Pike Rd",
     "sg:city":"Hot Springs",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102233945",
-    "wof:lastmodified":1449070252,
+    "wof:lastmodified":1466321588,
     "wof:name":"Tobacco Junction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.077024,34.495534,-93.077024,34.495534],
-  "geometry": {"coordinates":[-93.077024,34.495534],"type":"Point"}
+  "bbox": [
+    -93.077024,
+    34.495534,
+    -93.077024,
+    34.495534
+],
+  "geometry": {"coordinates":[-93.07702399999999,34.495534],"type":"Point"}
 }

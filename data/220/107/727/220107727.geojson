@@ -2,13 +2,14 @@
   "id": 220107727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.375125,35.553945,-94.375125,35.553945",
     "geom:latitude":35.553945,
     "geom:longitude":-94.375125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8904 N Highway 59",
     "sg:city":"Cedarville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220107727,
-    "wof:lastmodified":1449074064,
+    "wof:lastmodified":1466322345,
     "wof:name":"USPS - United States Post Office - Cedarville Main Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.375125,35.553945,-94.375125,35.553945],
+  "bbox": [
+    -94.375125,
+    35.553945,
+    -94.375125,
+    35.553945
+],
   "geometry": {"coordinates":[-94.375125,35.553945],"type":"Point"}
 }

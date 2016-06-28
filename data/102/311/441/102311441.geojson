@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102311441",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.401609,34.306738,-92.401609,34.306738",
     "geom:latitude":34.306738,
     "geom:longitude":-92.401609,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 S Oak St",
     "sg:city":"Sheridan",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102311441",
-    "wof:lastmodified":1449068358,
+    "wof:lastmodified":1466323271,
     "wof:name":"Take 2 Tanning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.401609,34.306738,-92.401609,34.306738],
-  "geometry": {"coordinates":[-92.401609,34.306738],"type":"Point"}
+  "bbox": [
+    -92.401609,
+    34.306738,
+    -92.401609,
+    34.306738
+],
+  "geometry": {"coordinates":[-92.40160899999999,34.306738],"type":"Point"}
 }

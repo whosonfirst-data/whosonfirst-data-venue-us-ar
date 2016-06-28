@@ -2,13 +2,14 @@
   "id": 219815321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.160548,36.0638,-94.160548,36.0638",
     "geom:latitude":36.0638,
     "geom:longitude":-94.160548,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 N Block Ave",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":219815321,
-    "wof:lastmodified":1449072102,
+    "wof:lastmodified":1466324888,
     "wof:name":"Arsaga's Block Street Bakery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "espresso"
     ]
 },
-  "bbox": [-94.160548,36.0638,-94.160548,36.0638],
-  "geometry": {"coordinates":[-94.160548,36.0638],"type":"Point"}
+  "bbox": [
+    -94.160548,
+    36.0638,
+    -94.160548,
+    36.0638
+],
+  "geometry": {"coordinates":[-94.16054800000001,36.0638],"type":"Point"}
 }

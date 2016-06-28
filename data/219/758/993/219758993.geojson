@@ -2,13 +2,14 @@
   "id": 219758993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.130623,36.233959,-93.130623,36.233959",
     "geom:latitude":36.233959,
     "geom:longitude":-93.130623,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1800 Capps Rd",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":219758993,
-    "wof:lastmodified":1449071466,
+    "wof:lastmodified":1466324916,
     "wof:name":"Red X Express Markets",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.130623,36.233959,-93.130623,36.233959],
+  "bbox": [
+    -93.130623,
+    36.233959,
+    -93.130623,
+    36.233959
+],
   "geometry": {"coordinates":[-93.130623,36.233959],"type":"Point"}
 }

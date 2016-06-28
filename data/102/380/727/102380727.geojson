@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102380727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.900855,35.936509,-89.900855,35.936509",
     "geom:latitude":35.936509,
     "geom:longitude":-89.900855,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"216 E Moultrie Dr",
     "sg:city":"Blytheville",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102380727,
-    "wof:lastmodified":1449068881,
+    "wof:lastmodified":1466322239,
     "wof:name":"Blytheville Intermediate Schl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.900855,35.936509,-89.900855,35.936509],
-  "geometry": {"coordinates":[-89.900855,35.936509],"type":"Point"}
+  "bbox": [
+    -89.900855,
+    35.936509,
+    -89.900855,
+    35.936509
+],
+  "geometry": {"coordinates":[-89.90085500000001,35.936509],"type":"Point"}
 }

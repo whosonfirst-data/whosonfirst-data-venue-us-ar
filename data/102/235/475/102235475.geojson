@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102235475",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.488504,36.267528,-94.488504,36.267528",
     "geom:latitude":36.267528,
     "geom:longitude":-94.488504,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 W Main St",
     "sg:city":"Gentry",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102235475",
-    "wof:lastmodified":1449068227,
+    "wof:lastmodified":1466321537,
     "wof:name":"Main Street Express Mart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.488504,36.267528,-94.488504,36.267528],
-  "geometry": {"coordinates":[-94.488504,36.267528],"type":"Point"}
+  "bbox": [
+    -94.488504,
+    36.267528,
+    -94.488504,
+    36.267528
+],
+  "geometry": {"coordinates":[-94.48850400000001,36.267528],"type":"Point"}
 }

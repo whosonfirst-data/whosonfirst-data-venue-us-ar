@@ -2,13 +2,14 @@
   "id": 219495441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.742948,35.068608,-92.742948,35.068608",
     "geom:latitude":35.068608,
     "geom:longitude":-92.742948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"478 W Perry County Rd",
     "sg:city":"Perry",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219495441,
-    "wof:lastmodified":1449071944,
+    "wof:lastmodified":1466323907,
     "wof:name":"Canant Construction Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-92.742948,35.068608,-92.742948,35.068608],
+  "bbox": [
+    -92.742948,
+    35.068608,
+    -92.742948,
+    35.068608
+],
   "geometry": {"coordinates":[-92.742948,35.068608],"type":"Point"}
 }

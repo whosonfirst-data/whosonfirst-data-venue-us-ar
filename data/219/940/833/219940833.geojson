@@ -2,13 +2,14 @@
   "id": 219940833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.057727,36.222115,-94.057727,36.222115",
     "geom:latitude":36.222115,
     "geom:longitude":-94.057727,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13662 Alto Rd",
     "sg:city":"Lowell",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219940833,
-    "wof:lastmodified":1449071255,
+    "wof:lastmodified":1466325172,
     "wof:name":"Robert M Mosesso",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "benefit"
     ]
 },
-  "bbox": [-94.057727,36.222115,-94.057727,36.222115],
+  "bbox": [
+    -94.057727,
+    36.222115,
+    -94.057727,
+    36.222115
+],
   "geometry": {"coordinates":[-94.057727,36.222115],"type":"Point"}
 }

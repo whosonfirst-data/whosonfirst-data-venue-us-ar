@@ -2,13 +2,14 @@
   "id": 220094619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.530773,35.360691,-93.530773,35.360691",
     "geom:latitude":35.360691,
     "geom:longitude":-93.530773,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 Main St",
     "sg:city":"Scranton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220094619,
-    "wof:lastmodified":1449074545,
+    "wof:lastmodified":1466322047,
     "wof:name":"Tim Willems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dump"
     ]
 },
-  "bbox": [-93.530773,35.360691,-93.530773,35.360691],
+  "bbox": [
+    -93.530773,
+    35.360691,
+    -93.530773,
+    35.360691
+],
   "geometry": {"coordinates":[-93.530773,35.360691],"type":"Point"}
 }

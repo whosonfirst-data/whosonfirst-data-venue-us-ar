@@ -2,13 +2,14 @@
   "id": 219361665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.031426,34.979285,-92.031426,34.979285",
     "geom:latitude":34.979285,
     "geom:longitude":-92.031426,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1106 W Highway 89",
     "sg:city":"Cabot",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219361665,
-    "wof:lastmodified":1449072972,
+    "wof:lastmodified":1466322431,
     "wof:name":"Owen Orthodontics",
     "wof:parent_id":85839277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "dentists-orthodontists"
     ]
 },
-  "bbox": [-92.031426,34.979285,-92.031426,34.979285],
+  "bbox": [
+    -92.031426,
+    34.979285,
+    -92.031426,
+    34.979285
+],
   "geometry": {"coordinates":[-92.031426,34.979285],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320740027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.629485,36.655201,-94.629485,36.655201",
     "geom:latitude":36.655201,
     "geom:longitude":-94.629485,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24500 S 697 Rd",
     "sg:city":"Wyandotte",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320740027,
-    "wof:lastmodified":1449012944,
+    "wof:lastmodified":1466320636,
     "wof:name":"Daci Farm",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.629485,36.655201,-94.629485,36.655201],
+  "bbox": [
+    -94.629485,
+    36.655201,
+    -94.629485,
+    36.655201
+],
   "geometry": {"coordinates":[-94.629485,36.655201],"type":"Point"}
 }

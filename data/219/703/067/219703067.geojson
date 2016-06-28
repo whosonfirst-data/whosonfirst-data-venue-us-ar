@@ -2,13 +2,14 @@
   "id": 219703067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.506205,36.052824,-90.506205,36.052824",
     "geom:latitude":36.052824,
     "geom:longitude":-90.506205,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1601 W Kingshighway",
     "sg:city":"Paragould",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219703067,
-    "wof:lastmodified":1449071467,
+    "wof:lastmodified":1466324778,
     "wof:name":"Vail Pearson Incorporated",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "appliances-small"
     ]
 },
-  "bbox": [-90.506205,36.052824,-90.506205,36.052824],
-  "geometry": {"coordinates":[-90.506205,36.052824],"type":"Point"}
+  "bbox": [
+    -90.506205,
+    36.052824,
+    -90.506205,
+    36.052824
+],
+  "geometry": {"coordinates":[-90.50620499999999,36.052824],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219403573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.415129,35.010152,-92.415129,35.010152",
     "geom:latitude":35.010152,
     "geom:longitude":-92.415129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"416 Sturgis Rd",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219403573,
-    "wof:lastmodified":1449073418,
+    "wof:lastmodified":1466322878,
     "wof:name":"Choosing To Excel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "coach"
     ]
 },
-  "bbox": [-92.415129,35.010152,-92.415129,35.010152],
-  "geometry": {"coordinates":[-92.415129,35.010152],"type":"Point"}
+  "bbox": [
+    -92.415129,
+    35.010152,
+    -92.415129,
+    35.010152
+],
+  "geometry": {"coordinates":[-92.41512899999999,35.010152],"type":"Point"}
 }

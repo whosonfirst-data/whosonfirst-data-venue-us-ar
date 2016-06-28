@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102415253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.690199,34.058321,-93.690199,34.058321",
     "geom:latitude":34.058321,
     "geom:longitude":-93.690199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"618 S Washington Ave",
     "sg:city":"Murfreesboro",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102415253,
-    "wof:lastmodified":1449069537,
+    "wof:lastmodified":1466325297,
     "wof:name":"Pepperl + Fuchs Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.690199,34.058321,-93.690199,34.058321],
-  "geometry": {"coordinates":[-93.690199,34.058321],"type":"Point"}
+  "bbox": [
+    -93.690199,
+    34.058321,
+    -93.690199,
+    34.058321
+],
+  "geometry": {"coordinates":[-93.69019900000001,34.058321],"type":"Point"}
 }

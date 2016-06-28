@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102373905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.998415,34.221708,-91.998415,34.221708",
     "geom:latitude":34.221708,
     "geom:longitude":-91.998415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 E 8th Ave",
     "sg:city":"Pine Bluff",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102373905,
-    "wof:lastmodified":1449068990,
+    "wof:lastmodified":1466320818,
     "wof:name":"Pine Bluff Convention Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.998415,34.221708,-91.998415,34.221708],
-  "geometry": {"coordinates":[-91.998415,34.221708],"type":"Point"}
+  "bbox": [
+    -91.998415,
+    34.221708,
+    -91.998415,
+    34.221708
+],
+  "geometry": {"coordinates":[-91.99841499999999,34.221708],"type":"Point"}
 }

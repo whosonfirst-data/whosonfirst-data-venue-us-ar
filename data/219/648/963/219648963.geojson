@@ -2,13 +2,14 @@
   "id": 219648963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.691298,35.7912,-90.691298,35.7912",
     "geom:latitude":35.7912,
     "geom:longitude":-90.691298,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1010 Brownstone Dr",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":219648963,
-    "wof:lastmodified":1449071368,
+    "wof:lastmodified":1466324715,
     "wof:name":"G & D Truck And Enterprises, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "car"
     ]
 },
-  "bbox": [-90.691298,35.7912,-90.691298,35.7912],
+  "bbox": [
+    -90.691298,
+    35.7912,
+    -90.691298,
+    35.7912
+],
   "geometry": {"coordinates":[-90.691298,35.7912],"type":"Point"}
 }

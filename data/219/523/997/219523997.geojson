@@ -2,13 +2,14 @@
   "id": 219523997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.708572,35.252789,-91.708572,35.252789",
     "geom:latitude":35.252789,
     "geom:longitude":-91.708572,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"407 Llama Dr Ste 101",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":219523997,
-    "wof:lastmodified":1449072414,
+    "wof:lastmodified":1466324135,
     "wof:name":"Bolding Becky",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dental"
     ]
 },
-  "bbox": [-91.708572,35.252789,-91.708572,35.252789],
+  "bbox": [
+    -91.708572,
+    35.252789,
+    -91.708572,
+    35.252789
+],
   "geometry": {"coordinates":[-91.708572,35.252789],"type":"Point"}
 }

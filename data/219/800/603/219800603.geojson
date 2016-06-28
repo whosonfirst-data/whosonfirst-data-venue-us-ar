@@ -2,13 +2,14 @@
   "id": 219800603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.695428,35.712262,-92.695428,35.712262",
     "geom:latitude":35.712262,
     "geom:longitude":-92.695428,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 Express Ln",
     "sg:city":"Leslie",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":219800603,
-    "wof:lastmodified":1449070670,
+    "wof:lastmodified":1466325025,
     "wof:name":"Express Forestry Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "forester"
     ]
 },
-  "bbox": [-92.695428,35.712262,-92.695428,35.712262],
-  "geometry": {"coordinates":[-92.695428,35.712262],"type":"Point"}
+  "bbox": [
+    -92.695428,
+    35.712262,
+    -92.695428,
+    35.712262
+],
+  "geometry": {"coordinates":[-92.69542800000001,35.712262],"type":"Point"}
 }

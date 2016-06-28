@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102420159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.268912,34.745892,-92.268912,34.745892",
     "geom:latitude":34.745892,
     "geom:longitude":-92.268912,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 E 3rd St",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -34,10 +35,10 @@
     "sg:website":"www.arkansashistory.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102082497,
-        85633793,
         85688549,
-        85878757
+        85633793,
+        85878757,
+        102082497
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":102420159,
-    "wof:lastmodified":1449068923,
+    "wof:lastmodified":1466325274,
     "wof:name":"Arkansas Historic Museum",
     "wof:parent_id":85878757,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.268912,34.745892,-92.268912,34.745892],
+  "bbox": [
+    -92.268912,
+    34.745892,
+    -92.268912,
+    34.745892
+],
   "geometry": {"coordinates":[-92.268912,34.745892],"type":"Point"}
 }

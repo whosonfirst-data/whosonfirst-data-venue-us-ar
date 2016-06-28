@@ -2,13 +2,14 @@
   "id": 219941641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.136747,36.248886,-94.136747,36.248886",
     "geom:latitude":36.248886,
     "geom:longitude":-94.136747,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"609 S Bloomington St",
     "sg:city":"Lowell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219941641,
-    "wof:lastmodified":1449072496,
+    "wof:lastmodified":1466325176,
     "wof:name":"Boats 4 You",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "boating"
     ]
 },
-  "bbox": [-94.136747,36.248886,-94.136747,36.248886],
+  "bbox": [
+    -94.136747,
+    36.248886,
+    -94.136747,
+    36.248886
+],
   "geometry": {"coordinates":[-94.136747,36.248886],"type":"Point"}
 }

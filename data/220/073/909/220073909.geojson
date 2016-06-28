@@ -2,13 +2,14 @@
   "id": 220073909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.411176,35.106804,-93.411176,35.106804",
     "geom:latitude":35.106804,
     "geom:longitude":-93.411176,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14947 W Old Belleville Rd",
     "sg:city":"Belleville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":220073909,
-    "wof:lastmodified":1449074140,
+    "wof:lastmodified":1466321429,
     "wof:name":"R&J Poultry & Livestock Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.411176,35.106804,-93.411176,35.106804],
+  "bbox": [
+    -93.411176,
+    35.106804,
+    -93.411176,
+    35.106804
+],
   "geometry": {"coordinates":[-93.411176,35.106804],"type":"Point"}
 }

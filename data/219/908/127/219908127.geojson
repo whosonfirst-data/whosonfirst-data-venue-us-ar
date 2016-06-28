@@ -2,13 +2,14 @@
   "id": 219908127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.292618,36.358596,-94.292618,36.358596",
     "geom:latitude":36.358596,
     "geom:longitude":-94.292618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"770 W Centerton Blvd",
     "sg:city":"Centerton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219908127,
-    "wof:lastmodified":1449072384,
+    "wof:lastmodified":1466325114,
     "wof:name":"Bank Bentonville Centerton Br",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.292618,36.358596,-94.292618,36.358596],
+  "bbox": [
+    -94.292618,
+    36.358596,
+    -94.292618,
+    36.358596
+],
   "geometry": {"coordinates":[-94.292618,36.358596],"type":"Point"}
 }

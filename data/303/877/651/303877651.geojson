@@ -2,13 +2,14 @@
   "id": 303877651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.523415,36.185088,-94.523415,36.185088",
     "geom:latitude":36.185088,
     "geom:longitude":-94.523415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"130 N Country Club Rd",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303877651,
-    "wof:lastmodified":1448999835,
+    "wof:lastmodified":1466320624,
     "wof:name":"C K Rooter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-94.523415,36.185088,-94.523415,36.185088],
+  "bbox": [
+    -94.523415,
+    36.185088,
+    -94.523415,
+    36.185088
+],
   "geometry": {"coordinates":[-94.523415,36.185088],"type":"Point"}
 }

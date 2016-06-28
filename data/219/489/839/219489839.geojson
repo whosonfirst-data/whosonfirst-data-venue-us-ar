@@ -2,13 +2,14 @@
   "id": 219489839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.226325,34.854697,-92.226325,34.854697",
     "geom:latitude":34.854697,
     "geom:longitude":-92.226325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Amber Oaks Dr",
     "sg:city":"Sherwood",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219489839,
-    "wof:lastmodified":1449072305,
+    "wof:lastmodified":1466323841,
     "wof:name":"Ruby Heat And Air",
     "wof:parent_id":85851723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-92.226325,34.854697,-92.226325,34.854697],
+  "bbox": [
+    -92.226325,
+    34.854697,
+    -92.226325,
+    34.854697
+],
   "geometry": {"coordinates":[-92.226325,34.854697],"type":"Point"}
 }

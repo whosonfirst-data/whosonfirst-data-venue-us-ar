@@ -2,13 +2,14 @@
   "id": 337295873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.262138,35.08226,-94.262138,35.08226",
     "geom:latitude":35.08226,
     "geom:longitude":-94.262138,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 E Broadway St",
     "sg:city":"Huntington",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":337295873,
-    "wof:lastmodified":1449027256,
+    "wof:lastmodified":1466322198,
     "wof:name":"Special Moments Flowers & Gift Shop",
     "wof:parent_id":85808359,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-94.262138,35.08226,-94.262138,35.08226],
-  "geometry": {"coordinates":[-94.262138,35.08226],"type":"Point"}
+  "bbox": [
+    -94.262138,
+    35.08226,
+    -94.262138,
+    35.08226
+],
+  "geometry": {"coordinates":[-94.26213799999999,35.08226],"type":"Point"}
 }

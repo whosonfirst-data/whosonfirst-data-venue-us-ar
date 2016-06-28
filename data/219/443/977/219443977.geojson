@@ -2,13 +2,14 @@
   "id": 219443977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.684692,35.270889,-91.684692,35.270889",
     "geom:latitude":35.270889,
     "geom:longitude":-91.684692,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"348 Cw Rd.",
     "sg:city":"Judsonia",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219443977,
-    "wof:lastmodified":1449073277,
+    "wof:lastmodified":1466323298,
     "wof:name":"tj's tanning & hair salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "salon"
     ]
 },
-  "bbox": [-91.684692,35.270889,-91.684692,35.270889],
+  "bbox": [
+    -91.684692,
+    35.270889,
+    -91.684692,
+    35.270889
+],
   "geometry": {"coordinates":[-91.684692,35.270889],"type":"Point"}
 }

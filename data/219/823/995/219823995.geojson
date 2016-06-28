@@ -2,13 +2,14 @@
   "id": 219823995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.049918,35.863292,-94.049918,35.863292",
     "geom:latitude":35.863292,
     "geom:longitude":-94.049918,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16339 S Whitehouse Rd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219823995,
-    "wof:lastmodified":1449073882,
+    "wof:lastmodified":1466324995,
     "wof:name":"Hughes Rentals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "store"
     ]
 },
-  "bbox": [-94.049918,35.863292,-94.049918,35.863292],
-  "geometry": {"coordinates":[-94.049918,35.863292],"type":"Point"}
+  "bbox": [
+    -94.049918,
+    35.863292,
+    -94.049918,
+    35.863292
+],
+  "geometry": {"coordinates":[-94.04991800000001,35.863292],"type":"Point"}
 }

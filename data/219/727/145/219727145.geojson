@@ -2,13 +2,14 @@
   "id": 219727145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.598681,35.694053,-91.598681,35.694053",
     "geom:latitude":35.694053,
     "geom:longitude":-91.598681,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"810 Newport Rd",
     "sg:city":"Batesville",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":219727145,
-    "wof:lastmodified":1449070924,
+    "wof:lastmodified":1466324968,
     "wof:name":"Bill Davis Trucking, Inc.",
     "wof:parent_id":85808231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "trucking"
     ]
 },
-  "bbox": [-91.598681,35.694053,-91.598681,35.694053],
+  "bbox": [
+    -91.598681,
+    35.694053,
+    -91.598681,
+    35.694053
+],
   "geometry": {"coordinates":[-91.598681,35.694053],"type":"Point"}
 }

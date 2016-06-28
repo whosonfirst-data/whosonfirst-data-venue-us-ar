@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102209173",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.585983,34.78044,-91.585983,34.78044",
     "geom:latitude":34.78044,
     "geom:longitude":-91.585983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 S Charles",
     "sg:city":"Hazen",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102209173",
-    "wof:lastmodified":1449069933,
+    "wof:lastmodified":1466320825,
     "wof:name":"Hazen Police Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.585983,34.78044,-91.585983,34.78044],
+  "bbox": [
+    -91.585983,
+    34.78044,
+    -91.585983,
+    34.78044
+],
   "geometry": {"coordinates":[-91.585983,34.78044],"type":"Point"}
 }

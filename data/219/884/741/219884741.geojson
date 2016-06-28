@@ -2,13 +2,14 @@
   "id": 219884741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.264961,36.329169,-94.264961,36.329169",
     "geom:latitude":36.329169,
     "geom:longitude":-94.264961,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4680 W Rainbow Farm Rd",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219884741,
-    "wof:lastmodified":1449073248,
+    "wof:lastmodified":1466325166,
     "wof:name":"Rainbow Farm Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inn"
     ]
 },
-  "bbox": [-94.264961,36.329169,-94.264961,36.329169],
+  "bbox": [
+    -94.264961,
+    36.329169,
+    -94.264961,
+    36.329169
+],
   "geometry": {"coordinates":[-94.264961,36.329169],"type":"Point"}
 }

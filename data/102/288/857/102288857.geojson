@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102288857",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.150672,36.055712,-94.150672,36.055712",
     "geom:latitude":36.055712,
     "geom:longitude":-94.150672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"649 E Huntsville Rd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885459,
+        85688549,
         85633793,
         85919609,
         102082007,
-        85688549
+        85885459
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102288857",
-    "wof:lastmodified":1449068049,
+    "wof:lastmodified":1466322885,
     "wof:name":"Pitchy Patch",
     "wof:parent_id":85885459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.150672,36.055712,-94.150672,36.055712],
+  "bbox": [
+    -94.150672,
+    36.055712,
+    -94.150672,
+    36.055712
+],
   "geometry": {"coordinates":[-94.150672,36.055712],"type":"Point"}
 }

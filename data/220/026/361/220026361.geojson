@@ -2,13 +2,14 @@
   "id": 220026361,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.151501,36.206711,-94.151501,36.206711",
     "geom:latitude":36.206711,
     "geom:longitude":-94.151501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2079 Tall Tree Ln",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220026361,
-    "wof:lastmodified":1449074518,
+    "wof:lastmodified":1466320500,
     "wof:name":"Bryan Snells Lawn Service",
     "wof:parent_id":85885491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-94.151501,36.206711,-94.151501,36.206711],
+  "bbox": [
+    -94.151501,
+    36.206711,
+    -94.151501,
+    36.206711
+],
   "geometry": {"coordinates":[-94.151501,36.206711],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353565831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.526523,36.00788,-94.526523,36.00788",
     "geom:latitude":36.00788,
     "geom:longitude":-94.526523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24185 Mill Rd",
     "sg:city":"Summers",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":353565831,
-    "wof:lastmodified":1449020580,
+    "wof:lastmodified":1466320446,
     "wof:name":"Arkansas Egg Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "eggs"
     ]
 },
-  "bbox": [-94.526523,36.00788,-94.526523,36.00788],
+  "bbox": [
+    -94.526523,
+    36.00788,
+    -94.526523,
+    36.00788
+],
   "geometry": {"coordinates":[-94.526523,36.00788],"type":"Point"}
 }

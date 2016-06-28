@@ -2,13 +2,14 @@
   "id": 219720155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.50413,35.671435,-90.50413,35.671435",
     "geom:latitude":35.671435,
     "geom:longitude":-90.50413,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"351 S Campbell Ave",
     "sg:city":"Trumann",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219720155,
-    "wof:lastmodified":1449071238,
+    "wof:lastmodified":1466324963,
     "wof:name":"Senior Trumann Activity Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "citizen"
     ]
 },
-  "bbox": [-90.50413,35.671435,-90.50413,35.671435],
+  "bbox": [
+    -90.50413,
+    35.671435,
+    -90.50413,
+    35.671435
+],
   "geometry": {"coordinates":[-90.50413,35.671435],"type":"Point"}
 }

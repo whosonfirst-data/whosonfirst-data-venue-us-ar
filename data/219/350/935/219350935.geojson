@@ -2,13 +2,14 @@
   "id": 219350935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.59201,34.57421,-92.59201,34.57421",
     "geom:latitude":34.57421,
     "geom:longitude":-92.59201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1215 Highway 35 N",
     "sg:city":"Benton",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":219350935,
-    "wof:lastmodified":1449072184,
+    "wof:lastmodified":1466322288,
     "wof:name":"American National",
     "wof:parent_id":85817531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "business"
     ]
 },
-  "bbox": [-92.59201,34.57421,-92.59201,34.57421],
+  "bbox": [
+    -92.59201,
+    34.57421,
+    -92.59201,
+    34.57421
+],
   "geometry": {"coordinates":[-92.59201,34.57421],"type":"Point"}
 }

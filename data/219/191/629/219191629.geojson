@@ -2,13 +2,14 @@
   "id": 219191629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.825272,33.542298,-92.825272,33.542298",
     "geom:latitude":33.542298,
     "geom:longitude":-92.825272,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"952 S Adams Ave",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219191629,
-    "wof:lastmodified":1449072534,
+    "wof:lastmodified":1466320769,
     "wof:name":"Gaudalajara Mexican Restaurant",
     "wof:parent_id":85813169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"
     ]
 },
-  "bbox": [-92.825272,33.542298,-92.825272,33.542298],
+  "bbox": [
+    -92.825272,
+    33.542298,
+    -92.825272,
+    33.542298
+],
   "geometry": {"coordinates":[-92.825272,33.542298],"type":"Point"}
 }

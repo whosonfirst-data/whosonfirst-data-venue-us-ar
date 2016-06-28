@@ -2,13 +2,14 @@
   "id": 219384577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.368151,35.128635,-92.368151,35.128635",
     "geom:latitude":35.128635,
     "geom:longitude":-92.368151,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Oak Creek Dr",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219384577,
-    "wof:lastmodified":1449070835,
+    "wof:lastmodified":1466322714,
     "wof:name":"Rushing Wind Products",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cat"
     ]
 },
-  "bbox": [-92.368151,35.128635,-92.368151,35.128635],
+  "bbox": [
+    -92.368151,
+    35.128635,
+    -92.368151,
+    35.128635
+],
   "geometry": {"coordinates":[-92.368151,35.128635],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102434847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.72164,35.831681,-90.72164,35.831681",
     "geom:latitude":35.831681,
     "geom:longitude":-90.72164,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1203 Nettleton Cir",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102434847,
-    "wof:lastmodified":1449068314,
+    "wof:lastmodified":1466325643,
     "wof:name":"Datafix Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.72164,35.831681,-90.72164,35.831681],
-  "geometry": {"coordinates":[-90.72164,35.831681],"type":"Point"}
+  "bbox": [
+    -90.72164,
+    35.831681,
+    -90.72164,
+    35.831681
+],
+  "geometry": {"coordinates":[-90.72163999999999,35.831681],"type":"Point"}
 }

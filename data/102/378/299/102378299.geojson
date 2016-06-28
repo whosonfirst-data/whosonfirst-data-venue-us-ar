@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102378299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.675796,35.830294,-90.675796,35.830294",
     "geom:latitude":35.830294,
     "geom:longitude":-90.675796,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1303 Stone St",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102378299,
-    "wof:lastmodified":1449069419,
+    "wof:lastmodified":1466321740,
     "wof:name":"National Medtest",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.675796,35.830294,-90.675796,35.830294],
-  "geometry": {"coordinates":[-90.675796,35.830294],"type":"Point"}
+  "bbox": [
+    -90.675796,
+    35.830294,
+    -90.675796,
+    35.830294
+],
+  "geometry": {"coordinates":[-90.67579600000001,35.830294],"type":"Point"}
 }

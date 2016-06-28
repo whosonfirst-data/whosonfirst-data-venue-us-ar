@@ -2,13 +2,14 @@
   "id": 219937601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.478329,35.951551,-94.478329,35.951551",
     "geom:latitude":35.951551,
     "geom:longitude":-94.478329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12391 Petal Rd Wc3404",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219937601,
-    "wof:lastmodified":1449071059,
+    "wof:lastmodified":1466325170,
     "wof:name":"Meltons Metal Roofing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-94.478329,35.951551,-94.478329,35.951551],
+  "bbox": [
+    -94.478329,
+    35.951551,
+    -94.478329,
+    35.951551
+],
   "geometry": {"coordinates":[-94.478329,35.951551],"type":"Point"}
 }

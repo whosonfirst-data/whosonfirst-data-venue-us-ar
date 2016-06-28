@@ -2,13 +2,14 @@
   "id": 337295251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.138222,36.195474,-94.138222,36.195474",
     "geom:latitude":36.195474,
     "geom:longitude":-94.138222,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1300 N Thompson St",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337295251,
-    "wof:lastmodified":1449027256,
+    "wof:lastmodified":1466322187,
     "wof:name":"Arkansas Stat Emplmnt Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "opportunity"
     ]
 },
-  "bbox": [-94.138222,36.195474,-94.138222,36.195474],
+  "bbox": [
+    -94.138222,
+    36.195474,
+    -94.138222,
+    36.195474
+],
   "geometry": {"coordinates":[-94.138222,36.195474],"type":"Point"}
 }

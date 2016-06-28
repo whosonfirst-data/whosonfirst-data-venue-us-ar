@@ -2,13 +2,14 @@
   "id": 219364337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.056549,34.944079,-92.056549,34.944079",
     "geom:latitude":34.944079,
     "geom:longitude":-92.056549,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Nalley Rd",
     "sg:city":"Cabot",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":219364337,
-    "wof:lastmodified":1449072357,
+    "wof:lastmodified":1466322479,
     "wof:name":"Young Tire & Auto",
     "wof:parent_id":85811577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "brake"
     ]
 },
-  "bbox": [-92.056549,34.944079,-92.056549,34.944079],
+  "bbox": [
+    -92.056549,
+    34.944079,
+    -92.056549,
+    34.944079
+],
   "geometry": {"coordinates":[-92.056549,34.944079],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219761861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.211892,36.239455,-93.211892,36.239455",
     "geom:latitude":36.239455,
     "geom:longitude":-93.211892,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7866 Highway 392 W",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219761861,
-    "wof:lastmodified":1449073092,
+    "wof:lastmodified":1466325000,
     "wof:name":"Hawks Holdings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "holding"
     ]
 },
-  "bbox": [-93.211892,36.239455,-93.211892,36.239455],
-  "geometry": {"coordinates":[-93.211892,36.239455],"type":"Point"}
+  "bbox": [
+    -93.211892,
+    36.239455,
+    -93.211892,
+    36.239455
+],
+  "geometry": {"coordinates":[-93.21189200000001,36.239455],"type":"Point"}
 }

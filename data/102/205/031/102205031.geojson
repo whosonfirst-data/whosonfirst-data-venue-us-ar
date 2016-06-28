@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102205031",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.198157,34.824704,-92.198157,34.824704",
     "geom:latitude":34.824704,
     "geom:longitude":-92.198157,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1020 Lantrip Rd",
     "sg:city":"Sherwood",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837729,
+        85688549,
         85633793,
         85921251,
         102082497,
-        85688549
+        85837729
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102205031",
-    "wof:lastmodified":1449069196,
+    "wof:lastmodified":1466320696,
     "wof:name":"Us Govt Aphis",
     "wof:parent_id":85837729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.198157,34.824704,-92.198157,34.824704],
-  "geometry": {"coordinates":[-92.198157,34.824704],"type":"Point"}
+  "bbox": [
+    -92.198157,
+    34.824704,
+    -92.198157,
+    34.824704
+],
+  "geometry": {"coordinates":[-92.19815699999999,34.824704],"type":"Point"}
 }

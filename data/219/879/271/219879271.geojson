@@ -2,13 +2,14 @@
   "id": 219879271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.172112,36.357208,-94.172112,36.357208",
     "geom:latitude":36.357208,
     "geom:longitude":-94.172112,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"130 College Dr Ste B",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":219879271,
-    "wof:lastmodified":1449070404,
+    "wof:lastmodified":1466325062,
     "wof:name":"Spencer Bail Bonding Service",
     "wof:parent_id":85895823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "bond"
     ]
 },
-  "bbox": [-94.172112,36.357208,-94.172112,36.357208],
+  "bbox": [
+    -94.172112,
+    36.357208,
+    -94.172112,
+    36.357208
+],
   "geometry": {"coordinates":[-94.172112,36.357208],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102354065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.179145,33.984563,-93.179145,33.984563",
     "geom:latitude":33.984563,
     "geom:longitude":-93.179145,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"554 Stevenson Rd",
     "sg:city":"Gurdon",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102354065,
-    "wof:lastmodified":1449069919,
+    "wof:lastmodified":1466324059,
     "wof:name":"Bar G Bar Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.179145,33.984563,-93.179145,33.984563],
-  "geometry": {"coordinates":[-93.179145,33.984563],"type":"Point"}
+  "bbox": [
+    -93.179145,
+    33.984563,
+    -93.179145,
+    33.984563
+],
+  "geometry": {"coordinates":[-93.17914500000001,33.984563],"type":"Point"}
 }

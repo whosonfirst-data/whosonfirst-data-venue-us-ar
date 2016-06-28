@@ -2,13 +2,14 @@
   "id": 219155219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.867878,33.170138,-91.867878,33.170138",
     "geom:latitude":33.170138,
     "geom:longitude":-91.867878,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"175 Ashley Road 427",
     "sg:city":"Hamburg",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219155219,
-    "wof:lastmodified":1449073311,
+    "wof:lastmodified":1466320430,
     "wof:name":"Ronald D Tucker Jr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "business"
     ]
 },
-  "bbox": [-91.867878,33.170138,-91.867878,33.170138],
+  "bbox": [
+    -91.867878,
+    33.170138,
+    -91.867878,
+    33.170138
+],
   "geometry": {"coordinates":[-91.867878,33.170138],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219379773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.411804,35.093289,-92.411804,35.093289",
     "geom:latitude":35.093289,
     "geom:longitude":-92.411804,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1060 Pats Ln",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -70,10 +71,11 @@
         }
     ],
     "wof:id":219379773,
-    "wof:lastmodified":1449072431,
+    "wof:lastmodified":1466322672,
     "wof:name":"Allstate Insurance Company - Shawn D Evans Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -85,6 +87,11 @@
         "renter"
     ]
 },
-  "bbox": [-92.411804,35.093289,-92.411804,35.093289],
+  "bbox": [
+    -92.411804,
+    35.093289,
+    -92.411804,
+    35.093289
+],
   "geometry": {"coordinates":[-92.411804,35.093289],"type":"Point"}
 }

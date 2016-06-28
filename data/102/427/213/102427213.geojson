@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102427213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.616532,35.464872,-91.616532,35.464872",
     "geom:latitude":35.464872,
     "geom:longitude":-91.616532,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 Peacock Rd",
     "sg:city":"Bradford",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102427213,
-    "wof:lastmodified":1449068499,
+    "wof:lastmodified":1466325530,
     "wof:name":"Hanney Sandblasting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.616532,35.464872,-91.616532,35.464872],
-  "geometry": {"coordinates":[-91.616532,35.464872],"type":"Point"}
+  "bbox": [
+    -91.616532,
+    35.464872,
+    -91.616532,
+    35.464872
+],
+  "geometry": {"coordinates":[-91.61653200000001,35.464872],"type":"Point"}
 }

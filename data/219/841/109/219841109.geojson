@@ -2,13 +2,14 @@
   "id": 219841109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.100489,36.105141,-94.100489,36.105141",
     "geom:latitude":36.105141,
     "geom:longitude":-94.100489,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3048 N Oakland Zion Rd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219841109,
-    "wof:lastmodified":1449071134,
+    "wof:lastmodified":1466325018,
     "wof:name":"Cowden Appraisal & Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "appraiser"
     ]
 },
-  "bbox": [-94.100489,36.105141,-94.100489,36.105141],
+  "bbox": [
+    -94.100489,
+    36.105141,
+    -94.100489,
+    36.105141
+],
   "geometry": {"coordinates":[-94.100489,36.105141],"type":"Point"}
 }

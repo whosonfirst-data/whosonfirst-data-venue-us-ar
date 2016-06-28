@@ -2,13 +2,14 @@
   "id": 320329311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.706752,36.655308,-94.706752,36.655308",
     "geom:latitude":36.655308,
     "geom:longitude":-94.706752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24871 S 655 Rd",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320329311,
-    "wof:lastmodified":1449012295,
+    "wof:lastmodified":1466320513,
     "wof:name":"Frankies Marine Repair",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-94.706752,36.655308,-94.706752,36.655308],
-  "geometry": {"coordinates":[-94.706752,36.655308],"type":"Point"}
+  "bbox": [
+    -94.706752,
+    36.655308,
+    -94.706752,
+    36.655308
+],
+  "geometry": {"coordinates":[-94.70675199999999,36.655308],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219857757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.166839,36.086578,-94.166839,36.086578",
     "geom:latitude":36.086578,
     "geom:longitude":-94.166839,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 W Ash St",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -71,10 +72,11 @@
         }
     ],
     "wof:id":219857757,
-    "wof:lastmodified":1449072675,
+    "wof:lastmodified":1466325131,
     "wof:name":"Kitchen Distributors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -91,6 +93,11 @@
         "kitchen"
     ]
 },
-  "bbox": [-94.166839,36.086578,-94.166839,36.086578],
+  "bbox": [
+    -94.166839,
+    36.086578,
+    -94.166839,
+    36.086578
+],
   "geometry": {"coordinates":[-94.166839,36.086578],"type":"Point"}
 }

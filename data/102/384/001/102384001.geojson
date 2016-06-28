@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102384001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.353541,34.17496,-92.353541,34.17496",
     "geom:latitude":34.17496,
     "geom:longitude":-92.353541,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2963 Grant County Rd 16",
     "sg:city":"Grapevine",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102384001,
-    "wof:lastmodified":1449068108,
+    "wof:lastmodified":1466322916,
     "wof:name":"Paul Pendergrass",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.353541,34.17496,-92.353541,34.17496],
-  "geometry": {"coordinates":[-92.353541,34.17496],"type":"Point"}
+  "bbox": [
+    -92.353541,
+    34.17496,
+    -92.353541,
+    34.17496
+],
+  "geometry": {"coordinates":[-92.35354100000001,34.17496],"type":"Point"}
 }

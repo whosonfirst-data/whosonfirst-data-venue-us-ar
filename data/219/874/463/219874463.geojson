@@ -2,13 +2,14 @@
   "id": 219874463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.31483,36.315544,-94.31483,36.315544",
     "geom:latitude":36.315544,
     "geom:longitude":-94.31483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7449 Vaughn Rd",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219874463,
-    "wof:lastmodified":1449073682,
+    "wof:lastmodified":1466325056,
     "wof:name":"Southwest Roofing",
     "wof:parent_id":85853527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-94.31483,36.315544,-94.31483,36.315544],
+  "bbox": [
+    -94.31483,
+    36.315544,
+    -94.31483,
+    36.315544
+],
   "geometry": {"coordinates":[-94.31483,36.315544],"type":"Point"}
 }

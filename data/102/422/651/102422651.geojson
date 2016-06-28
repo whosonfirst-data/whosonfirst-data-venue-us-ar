@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102422651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.345525,35.085513,-92.345525,35.085513",
     "geom:latitude":35.085513,
     "geom:longitude":-92.345525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"348 Hwy 64 E",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102422651,
-    "wof:lastmodified":1449067957,
+    "wof:lastmodified":1466325526,
     "wof:name":"Trans Tech",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.345525,35.085513,-92.345525,35.085513],
-  "geometry": {"coordinates":[-92.345525,35.085513],"type":"Point"}
+  "bbox": [
+    -92.345525,
+    35.085513,
+    -92.345525,
+    35.085513
+],
+  "geometry": {"coordinates":[-92.34552499999999,35.085513],"type":"Point"}
 }

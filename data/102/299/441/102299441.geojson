@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102299441",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.42289,35.330359,-94.42289,35.330359",
     "geom:latitude":35.330359,
     "geom:longitude":-94.42289,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5703 Towson Ave",
     "sg:city":"Fort Smith",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834235,
+        85688549,
         85633793,
         85921431,
         102082025,
-        85688549
+        85834235
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102299441",
-    "wof:lastmodified":1449068400,
+    "wof:lastmodified":1466323011,
     "wof:name":"Triple R Freight Store Inc",
     "wof:parent_id":85834235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.42289,35.330359,-94.42289,35.330359],
+  "bbox": [
+    -94.42289,
+    35.330359,
+    -94.42289,
+    35.330359
+],
   "geometry": {"coordinates":[-94.42289,35.330359],"type":"Point"}
 }

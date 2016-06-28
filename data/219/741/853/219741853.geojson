@@ -2,13 +2,14 @@
   "id": 219741853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.494626,36.314366,-91.494626,36.314366",
     "geom:latitude":36.314366,
     "geom:longitude":-91.494626,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1627 Highway 62 412",
     "sg:city":"Highland",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219741853,
-    "wof:lastmodified":1449070567,
+    "wof:lastmodified":1466324905,
     "wof:name":"Highland Public School Dst",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.494626,36.314366,-91.494626,36.314366],
+  "bbox": [
+    -91.494626,
+    36.314366,
+    -91.494626,
+    36.314366
+],
   "geometry": {"coordinates":[-91.494626,36.314366],"type":"Point"}
 }

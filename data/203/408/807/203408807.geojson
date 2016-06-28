@@ -2,13 +2,14 @@
   "id": 203408807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.973808,33.135193,-91.973808,33.135193",
     "geom:latitude":33.135193,
     "geom:longitude":-91.973808,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 N Tennessee St",
     "sg:city":"Crossett",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":203408807,
-    "wof:lastmodified":1449025181,
+    "wof:lastmodified":1466320535,
     "wof:name":"Kingdom Builders Outreach Mini",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "denomination"
     ]
 },
-  "bbox": [-91.973808,33.135193,-91.973808,33.135193],
-  "geometry": {"coordinates":[-91.973808,33.135193],"type":"Point"}
+  "bbox": [
+    -91.973808,
+    33.135193,
+    -91.973808,
+    33.135193
+],
+  "geometry": {"coordinates":[-91.97380800000001,33.135193],"type":"Point"}
 }

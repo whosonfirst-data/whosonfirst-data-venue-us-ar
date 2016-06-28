@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102275465",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.248973,34.794675,-92.248973,34.794675",
     "geom:latitude":34.794675,
     "geom:longitude":-92.248973,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4301 Lochridge Rd",
     "sg:city":"N Little Rock",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852263,
+        85688549,
         85633793,
         85921255,
         102082497,
-        85688549
+        85852263
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102275465",
-    "wof:lastmodified":1449068565,
+    "wof:lastmodified":1466322501,
     "wof:name":"Joe P Stanley MD",
     "wof:parent_id":85852263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.248973,34.794675,-92.248973,34.794675],
-  "geometry": {"coordinates":[-92.248973,34.794675],"type":"Point"}
+  "bbox": [
+    -92.248973,
+    34.794675,
+    -92.248973,
+    34.794675
+],
+  "geometry": {"coordinates":[-92.24897300000001,34.794675],"type":"Point"}
 }

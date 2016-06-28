@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102271811",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.120812,34.885792,-92.120812,34.885792",
     "geom:latitude":34.885792,
     "geom:longitude":-92.120812,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1904 McArthur Dr",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852337,
+        85688549,
         85633793,
         85921275,
         102082497,
-        85688549
+        85852337
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102271811",
-    "wof:lastmodified":1449069010,
+    "wof:lastmodified":1466322473,
     "wof:name":"Hope Lutheran Elementary Schl",
     "wof:parent_id":85852337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.120812,34.885792,-92.120812,34.885792],
+  "bbox": [
+    -92.120812,
+    34.885792,
+    -92.120812,
+    34.885792
+],
   "geometry": {"coordinates":[-92.120812,34.885792],"type":"Point"}
 }

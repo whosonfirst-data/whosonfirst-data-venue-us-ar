@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102401021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.765798,35.082547,-90.765798,35.082547",
     "geom:latitude":35.082547,
     "geom:longitude":-90.765798,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Hill Ct",
     "sg:city":"Forrest City",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102401021,
-    "wof:lastmodified":1449069813,
+    "wof:lastmodified":1466324659,
     "wof:name":"Ho Ho Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.765798,35.082547,-90.765798,35.082547],
+  "bbox": [
+    -90.765798,
+    35.082547,
+    -90.765798,
+    35.082547
+],
   "geometry": {"coordinates":[-90.765798,35.082547],"type":"Point"}
 }

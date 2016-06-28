@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102349497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.225219,36.46625,-92.225219,36.46625",
     "geom:latitude":36.46625,
     "geom:longitude":-92.225219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7621 State Hwy 101",
     "sg:city":"Gamaliel",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":102349497,
-    "wof:lastmodified":1449068695,
+    "wof:lastmodified":1466324037,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.225219,36.46625,-92.225219,36.46625],
+  "bbox": [
+    -92.225219,
+    36.46625,
+    -92.225219,
+    36.46625
+],
   "geometry": {"coordinates":[-92.225219,36.46625],"type":"Point"}
 }

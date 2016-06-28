@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102206515",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.38295,33.349643,-93.38295,33.349643",
     "geom:latitude":33.349643,
     "geom:longitude":-93.38295,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"60 State Hwy 344",
     "sg:city":"Waldo",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":"102206515",
-    "wof:lastmodified":1449069429,
+    "wof:lastmodified":1466320820,
     "wof:name":"Burnie Sharp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.38295,33.349643,-93.38295,33.349643],
-  "geometry": {"coordinates":[-93.38295,33.349643],"type":"Point"}
+  "bbox": [
+    -93.38295,
+    33.349643,
+    -93.38295,
+    33.349643
+],
+  "geometry": {"coordinates":[-93.38294999999999,33.349643],"type":"Point"}
 }

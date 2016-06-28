@@ -2,13 +2,14 @@
   "id": 219386983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.412782,35.085863,-92.412782,35.085863",
     "geom:latitude":35.085863,
     "geom:longitude":-92.412782,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"650 Elsinger Blvd",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -76,10 +77,11 @@
         }
     ],
     "wof:id":219386983,
-    "wof:lastmodified":1449072237,
+    "wof:lastmodified":1466322735,
     "wof:name":"PetSmart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -91,6 +93,11 @@
         "store"
     ]
 },
-  "bbox": [-92.412782,35.085863,-92.412782,35.085863],
-  "geometry": {"coordinates":[-92.412782,35.085863],"type":"Point"}
+  "bbox": [
+    -92.412782,
+    35.085863,
+    -92.412782,
+    35.085863
+],
+  "geometry": {"coordinates":[-92.41278200000001,35.085863],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320389825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.729477,36.608223,-94.729477,36.608223",
     "geom:latitude":36.608223,
     "geom:longitude":-94.729477,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2107 Industrial",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320389825,
-    "wof:lastmodified":1449014199,
+    "wof:lastmodified":1466320534,
     "wof:name":"Grand Lake Countertops",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "counter"
     ]
 },
-  "bbox": [-94.729477,36.608223,-94.729477,36.608223],
+  "bbox": [
+    -94.729477,
+    36.608223,
+    -94.729477,
+    36.608223
+],
   "geometry": {"coordinates":[-94.729477,36.608223],"type":"Point"}
 }

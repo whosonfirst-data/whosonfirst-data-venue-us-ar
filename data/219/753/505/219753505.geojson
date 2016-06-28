@@ -2,13 +2,14 @@
   "id": 219753505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.103925,36.240232,-93.103925,36.240232",
     "geom:latitude":36.240232,
     "geom:longitude":-93.103925,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"926 Highway 62 65 N",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219753505,
-    "wof:lastmodified":1449070805,
+    "wof:lastmodified":1466324910,
     "wof:name":"Dryfork Data Svc. Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "bureau"
     ]
 },
-  "bbox": [-93.103925,36.240232,-93.103925,36.240232],
+  "bbox": [
+    -93.103925,
+    36.240232,
+    -93.103925,
+    36.240232
+],
   "geometry": {"coordinates":[-93.103925,36.240232],"type":"Point"}
 }

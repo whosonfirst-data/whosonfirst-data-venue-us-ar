@@ -2,13 +2,14 @@
   "id": 219190913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.830783,33.583863,-92.830783,33.583863",
     "geom:latitude":33.583863,
     "geom:longitude":-92.830783,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 Jackson St SW",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219190913,
-    "wof:lastmodified":1449073684,
+    "wof:lastmodified":1466320756,
     "wof:name":"Vora, Shailesh C",
     "wof:parent_id":85813169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-92.830783,33.583863,-92.830783,33.583863],
+  "bbox": [
+    -92.830783,
+    33.583863,
+    -92.830783,
+    33.583863
+],
   "geometry": {"coordinates":[-92.830783,33.583863],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220092511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.735224,35.28896,-93.735224,35.28896",
     "geom:latitude":35.28896,
     "geom:longitude":-93.735224,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"508 W Grober St",
     "sg:city":"Paris",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":220092511,
-    "wof:lastmodified":1449074697,
+    "wof:lastmodified":1466321974,
     "wof:name":"Evercom Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.735224,35.28896,-93.735224,35.28896],
+  "bbox": [
+    -93.735224,
+    35.28896,
+    -93.735224,
+    35.28896
+],
   "geometry": {"coordinates":[-93.735224,35.28896],"type":"Point"}
 }

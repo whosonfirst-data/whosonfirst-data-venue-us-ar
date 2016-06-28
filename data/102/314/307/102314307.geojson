@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102314307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.397356,34.790722,-92.397356,34.790722",
     "geom:latitude":34.790722,
     "geom:longitude":-92.397356,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4208 N Rodney Parham Rd",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858725,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85858725
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102314307,
-    "wof:lastmodified":1449070107,
+    "wof:lastmodified":1466323311,
     "wof:name":"Little Rock Family Practice",
     "wof:parent_id":85858725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.397356,34.790722,-92.397356,34.790722],
+  "bbox": [
+    -92.397356,
+    34.790722,
+    -92.397356,
+    34.790722
+],
   "geometry": {"coordinates":[-92.397356,34.790722],"type":"Point"}
 }

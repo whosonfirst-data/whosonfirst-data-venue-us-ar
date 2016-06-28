@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102400905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.181049,35.149446,-90.181049,35.149446",
     "geom:latitude":35.149446,
     "geom:longitude":-90.181049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 Graham St",
     "sg:city":"West Memphis",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102400905,
-    "wof:lastmodified":1449068028,
+    "wof:lastmodified":1466324810,
     "wof:name":"Kids Care & Development Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.181049,35.149446,-90.181049,35.149446],
+  "bbox": [
+    -90.181049,
+    35.149446,
+    -90.181049,
+    35.149446
+],
   "geometry": {"coordinates":[-90.181049,35.149446],"type":"Point"}
 }

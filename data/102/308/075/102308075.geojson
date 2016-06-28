@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102308075",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.790224,35.254124,-90.790224,35.254124",
     "geom:latitude":35.254124,
     "geom:longitude":-90.790224,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"219 US Hwy 64 W",
     "sg:city":"Wynne",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102308075",
-    "wof:lastmodified":1449070271,
+    "wof:lastmodified":1466323136,
     "wof:name":"Vector Disease Control",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.790224,35.254124,-90.790224,35.254124],
-  "geometry": {"coordinates":[-90.790224,35.254124],"type":"Point"}
+  "bbox": [
+    -90.790224,
+    35.254124,
+    -90.790224,
+    35.254124
+],
+  "geometry": {"coordinates":[-90.79022399999999,35.254124],"type":"Point"}
 }

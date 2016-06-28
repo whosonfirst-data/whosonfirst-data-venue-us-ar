@@ -2,13 +2,14 @@
   "id": 219782073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.216448,36.147996,-93.216448,36.147996",
     "geom:latitude":36.147996,
     "geom:longitude":-93.216448,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10383 Post Office Dr",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219782073,
-    "wof:lastmodified":1449070363,
+    "wof:lastmodified":1466324935,
     "wof:name":"Erwin Semintal Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.216448,36.147996,-93.216448,36.147996],
+  "bbox": [
+    -93.216448,
+    36.147996,
+    -93.216448,
+    36.147996
+],
   "geometry": {"coordinates":[-93.216448,36.147996],"type":"Point"}
 }

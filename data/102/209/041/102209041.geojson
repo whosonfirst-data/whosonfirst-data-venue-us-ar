@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102209041",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.965617,34.983744,-91.965617,34.983744",
     "geom:latitude":34.983744,
     "geom:longitude":-91.965617,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3735 Hwy 38",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102082027,
-        85633793,
         85688549,
-        85839277
+        85633793,
+        85839277,
+        102082027
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102209041",
-    "wof:lastmodified":1449069932,
+    "wof:lastmodified":1466320796,
     "wof:name":"Andrew's Auto Restoration",
     "wof:parent_id":85839277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.965617,34.983744,-91.965617,34.983744],
-  "geometry": {"coordinates":[-91.965617,34.983744],"type":"Point"}
+  "bbox": [
+    -91.965617,
+    34.983744,
+    -91.965617,
+    34.983744
+],
+  "geometry": {"coordinates":[-91.96561699999999,34.983744],"type":"Point"}
 }

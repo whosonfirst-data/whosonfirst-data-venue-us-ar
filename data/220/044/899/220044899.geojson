@@ -2,13 +2,14 @@
   "id": 220044899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.122664,36.174229,-94.122664,36.174229",
     "geom:latitude":36.174229,
     "geom:longitude":-94.122664,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"802 Airport Ave",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220044899,
-    "wof:lastmodified":1449074458,
+    "wof:lastmodified":1466320577,
     "wof:name":"Alpha Aviation Moc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "consultant"
     ]
 },
-  "bbox": [-94.122664,36.174229,-94.122664,36.174229],
+  "bbox": [
+    -94.122664,
+    36.174229,
+    -94.122664,
+    36.174229
+],
   "geometry": {"coordinates":[-94.122664,36.174229],"type":"Point"}
 }

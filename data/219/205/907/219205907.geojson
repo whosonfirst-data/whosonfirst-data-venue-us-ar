@@ -2,13 +2,14 @@
   "id": 219205907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.248276,33.289688,-93.248276,33.289688",
     "geom:latitude":33.289688,
     "geom:longitude":-93.248276,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2322 N Vine",
     "sg:city":"Magnolia",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219205907,
-    "wof:lastmodified":1449072530,
+    "wof:lastmodified":1466320921,
     "wof:name":"Dixie Mart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.248276,33.289688,-93.248276,33.289688],
+  "bbox": [
+    -93.248276,
+    33.289688,
+    -93.248276,
+    33.289688
+],
   "geometry": {"coordinates":[-93.248276,33.289688],"type":"Point"}
 }

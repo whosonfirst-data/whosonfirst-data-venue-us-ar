@@ -2,13 +2,14 @@
   "id": 336950363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.621536,35.236162,-94.621536,35.236162",
     "geom:latitude":35.236162,
     "geom:longitude":-94.621536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 SW 6th St",
     "sg:city":"Spiro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336950363,
-    "wof:lastmodified":1448997377,
+    "wof:lastmodified":1466320481,
     "wof:name":"Kibois Head Start",
     "wof:parent_id":85809847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "school"
     ]
 },
-  "bbox": [-94.621536,35.236162,-94.621536,35.236162],
-  "geometry": {"coordinates":[-94.621536,35.236162],"type":"Point"}
+  "bbox": [
+    -94.621536,
+    35.236162,
+    -94.621536,
+    35.236162
+],
+  "geometry": {"coordinates":[-94.62153600000001,35.236162],"type":"Point"}
 }

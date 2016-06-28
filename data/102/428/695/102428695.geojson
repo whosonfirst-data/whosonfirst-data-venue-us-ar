@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102428695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.381098,33.791327,-93.381098,33.791327",
     "geom:latitude":33.791327,
     "geom:longitude":-93.381098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"508 Martin",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102428695,
-    "wof:lastmodified":1449070024,
+    "wof:lastmodified":1466325265,
     "wof:name":"Martin Place II Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.381098,33.791327,-93.381098,33.791327],
-  "geometry": {"coordinates":[-93.381098,33.791327],"type":"Point"}
+  "bbox": [
+    -93.381098,
+    33.791327,
+    -93.381098,
+    33.791327
+],
+  "geometry": {"coordinates":[-93.38109799999999,33.791327],"type":"Point"}
 }

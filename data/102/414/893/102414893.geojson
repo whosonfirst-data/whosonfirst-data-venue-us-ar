@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102414893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.380697,34.708129,-92.380697,34.708129",
     "geom:latitude":34.708129,
     "geom:longitude":-92.380697,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4816 Stagecoach Rd",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851771,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85851771
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102414893,
-    "wof:lastmodified":1449068899,
+    "wof:lastmodified":1466325415,
     "wof:name":"Farmers' Association",
     "wof:parent_id":85851771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.380697,34.708129,-92.380697,34.708129],
+  "bbox": [
+    -92.380697,
+    34.708129,
+    -92.380697,
+    34.708129
+],
   "geometry": {"coordinates":[-92.380697,34.708129],"type":"Point"}
 }

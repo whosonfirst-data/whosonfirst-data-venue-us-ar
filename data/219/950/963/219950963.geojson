@@ -2,13 +2,14 @@
   "id": 219950963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.117119,36.335209,-94.117119,36.335209",
     "geom:latitude":36.335209,
     "geom:longitude":-94.117119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 N 2nd St",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -68,10 +69,11 @@
         }
     ],
     "wof:id":219950963,
-    "wof:lastmodified":1449071762,
+    "wof:lastmodified":1466325241,
     "wof:name":"Mangold Burris Architecture",
     "wof:parent_id":85895845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -84,6 +86,11 @@
         "builder"
     ]
 },
-  "bbox": [-94.117119,36.335209,-94.117119,36.335209],
+  "bbox": [
+    -94.117119,
+    36.335209,
+    -94.117119,
+    36.335209
+],
   "geometry": {"coordinates":[-94.117119,36.335209],"type":"Point"}
 }

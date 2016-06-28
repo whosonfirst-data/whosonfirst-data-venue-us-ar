@@ -2,13 +2,14 @@
   "id": 219543493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.399132,34.305801,-92.399132,34.305801",
     "geom:latitude":34.305801,
     "geom:longitude":-92.399132,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 E Pine St",
     "sg:city":"Sheridan",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":219543493,
-    "wof:lastmodified":1449071084,
+    "wof:lastmodified":1466324282,
     "wof:name":"H&R Block",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "bookkeeping"
     ]
 },
-  "bbox": [-92.399132,34.305801,-92.399132,34.305801],
-  "geometry": {"coordinates":[-92.399132,34.305801],"type":"Point"}
+  "bbox": [
+    -92.399132,
+    34.305801,
+    -92.399132,
+    34.305801
+],
+  "geometry": {"coordinates":[-92.39913199999999,34.305801],"type":"Point"}
 }

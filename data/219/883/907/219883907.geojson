@@ -2,13 +2,14 @@
   "id": 219883907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.183768,36.345687,-94.183768,36.345687",
     "geom:latitude":36.345687,
     "geom:longitude":-94.183768,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2501 Moberly Ln",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":219883907,
-    "wof:lastmodified":1449073101,
+    "wof:lastmodified":1466325164,
     "wof:name":"Landers Mclarty Nissan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "new"
     ]
 },
-  "bbox": [-94.183768,36.345687,-94.183768,36.345687],
+  "bbox": [
+    -94.183768,
+    36.345687,
+    -94.183768,
+    36.345687
+],
   "geometry": {"coordinates":[-94.183768,36.345687],"type":"Point"}
 }

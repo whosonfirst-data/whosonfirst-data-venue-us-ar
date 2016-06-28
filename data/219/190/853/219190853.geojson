@@ -2,13 +2,14 @@
   "id": 219190853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.854532,33.591848,-92.854532,33.591848",
     "geom:latitude":33.591848,
     "geom:longitude":-92.854532,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"518 Sharp Ave",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219190853,
-    "wof:lastmodified":1449073684,
+    "wof:lastmodified":1466320754,
     "wof:name":"Meraco Inc",
     "wof:parent_id":85813169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-92.854532,33.591848,-92.854532,33.591848],
-  "geometry": {"coordinates":[-92.854532,33.591848],"type":"Point"}
+  "bbox": [
+    -92.854532,
+    33.591848,
+    -92.854532,
+    33.591848
+],
+  "geometry": {"coordinates":[-92.85453200000001,33.591848],"type":"Point"}
 }

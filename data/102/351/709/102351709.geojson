@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102351709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.351041,34.72183,-92.351041,34.72183",
     "geom:latitude":34.72183,
     "geom:longitude":-92.351041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3301 S Bryant St",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85815039,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85815039
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102351709,
-    "wof:lastmodified":1449069806,
+    "wof:lastmodified":1466324102,
     "wof:name":"Gag Builders Inc",
     "wof:parent_id":85815039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.351041,34.72183,-92.351041,34.72183],
+  "bbox": [
+    -92.351041,
+    34.72183,
+    -92.351041,
+    34.72183
+],
   "geometry": {"coordinates":[-92.351041,34.72183],"type":"Point"}
 }

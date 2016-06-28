@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102238081",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.004646,33.435345,-94.004646,33.435345",
     "geom:latitude":33.435345,
     "geom:longitude":-94.004646,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1225 L E Gilliland Dr",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102238081",
-    "wof:lastmodified":1449068679,
+    "wof:lastmodified":1466321537,
     "wof:name":"Commercial Motors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.004646,33.435345,-94.004646,33.435345],
-  "geometry": {"coordinates":[-94.004646,33.435345],"type":"Point"}
+  "bbox": [
+    -94.004646,
+    33.435345,
+    -94.004646,
+    33.435345
+],
+  "geometry": {"coordinates":[-94.00464599999999,33.435345],"type":"Point"}
 }

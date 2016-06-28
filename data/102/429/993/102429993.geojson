@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102429993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.119143,34.858886,-92.119143,34.858886",
     "geom:latitude":34.858886,
     "geom:longitude":-92.119143,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1011 S James St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102429993,
-    "wof:lastmodified":1449070071,
+    "wof:lastmodified":1466325477,
     "wof:name":"Eastwood Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.119143,34.858886,-92.119143,34.858886],
-  "geometry": {"coordinates":[-92.119143,34.858886],"type":"Point"}
+  "bbox": [
+    -92.119143,
+    34.858886,
+    -92.119143,
+    34.858886
+],
+  "geometry": {"coordinates":[-92.11914299999999,34.858886],"type":"Point"}
 }

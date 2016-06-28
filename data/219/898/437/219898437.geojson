@@ -2,13 +2,14 @@
   "id": 219898437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.210809,36.347859,-94.210809,36.347859",
     "geom:latitude":36.347859,
     "geom:longitude":-94.210809,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2300 S Walton Blvd",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":219898437,
-    "wof:lastmodified":1449070306,
+    "wof:lastmodified":1466325099,
     "wof:name":"First Security Bank Benton County Banking Cent",
     "wof:parent_id":85895825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "saving"
     ]
 },
-  "bbox": [-94.210809,36.347859,-94.210809,36.347859],
+  "bbox": [
+    -94.210809,
+    36.347859,
+    -94.210809,
+    36.347859
+],
   "geometry": {"coordinates":[-94.210809,36.347859],"type":"Point"}
 }

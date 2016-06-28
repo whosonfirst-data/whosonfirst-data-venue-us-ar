@@ -2,13 +2,14 @@
   "id": 219366781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.052658,34.9629,-92.052658,34.9629",
     "geom:latitude":34.9629,
     "geom:longitude":-92.052658,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"460 Grayhawk Cir",
     "sg:city":"Cabot",
     "sg:classifiers":[
@@ -76,10 +77,11 @@
         }
     ],
     "wof:id":219366781,
-    "wof:lastmodified":1449072977,
+    "wof:lastmodified":1466322524,
     "wof:name":"Alltel Wireless",
     "wof:parent_id":85811577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -90,6 +92,11 @@
         "supply"
     ]
 },
-  "bbox": [-92.052658,34.9629,-92.052658,34.9629],
-  "geometry": {"coordinates":[-92.052658,34.9629],"type":"Point"}
+  "bbox": [
+    -92.052658,
+    34.9629,
+    -92.052658,
+    34.9629
+],
+  "geometry": {"coordinates":[-92.05265799999999,34.9629],"type":"Point"}
 }

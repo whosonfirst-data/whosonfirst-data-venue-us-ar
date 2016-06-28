@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102256815",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.374083,34.719135,-92.374083,34.719135",
     "geom:latitude":34.719135,
     "geom:longitude":-92.374083,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3723 Ludwig St",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878761,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85878761
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102256815",
-    "wof:lastmodified":1449069615,
+    "wof:lastmodified":1466322103,
     "wof:name":"Livingword Christian Church",
     "wof:parent_id":85878761,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.374083,34.719135,-92.374083,34.719135],
+  "bbox": [
+    -92.374083,
+    34.719135,
+    -92.374083,
+    34.719135
+],
   "geometry": {"coordinates":[-92.374083,34.719135],"type":"Point"}
 }

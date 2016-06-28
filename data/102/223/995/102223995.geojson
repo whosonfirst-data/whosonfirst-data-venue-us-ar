@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102223995",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.105787,36.184478,-94.105787,36.184478",
     "geom:latitude":36.184478,
     "geom:longitude":-94.105787,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2156 E Emma Ave",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102223995",
-    "wof:lastmodified":1449067955,
+    "wof:lastmodified":1466321357,
     "wof:name":"Bill Gray Racing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.105787,36.184478,-94.105787,36.184478],
-  "geometry": {"coordinates":[-94.105787,36.184478],"type":"Point"}
+  "bbox": [
+    -94.105787,
+    36.184478,
+    -94.105787,
+    36.184478
+],
+  "geometry": {"coordinates":[-94.10578700000001,36.184478],"type":"Point"}
 }

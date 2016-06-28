@@ -2,13 +2,14 @@
   "id": 219505817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.557668,34.840202,-92.557668,34.840202",
     "geom:latitude":34.840202,
     "geom:longitude":-92.557668,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26901 Highway 10",
     "sg:city":"Roland",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219505817,
-    "wof:lastmodified":1449073335,
+    "wof:lastmodified":1466323993,
     "wof:name":"Hearnsberger Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "contractor"
     ]
 },
-  "bbox": [-92.557668,34.840202,-92.557668,34.840202],
-  "geometry": {"coordinates":[-92.557668,34.840202],"type":"Point"}
+  "bbox": [
+    -92.557668,
+    34.840202,
+    -92.557668,
+    34.840202
+],
+  "geometry": {"coordinates":[-92.55766800000001,34.840202],"type":"Point"}
 }

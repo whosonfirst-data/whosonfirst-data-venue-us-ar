@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102254897",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.27507,34.779317,-92.27507,34.779317",
     "geom:latitude":34.779317,
     "geom:longitude":-92.27507,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"406 W Pershing Blvd",
     "sg:city":"N Little Rock",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837877,
+        85688549,
         85633793,
         85921255,
         102082497,
-        85688549
+        85837877
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102254897",
-    "wof:lastmodified":1449069458,
+    "wof:lastmodified":1466322066,
     "wof:name":"Larry Carpenter Jr",
     "wof:parent_id":85837877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.27507,34.779317,-92.27507,34.779317],
+  "bbox": [
+    -92.27507,
+    34.779317,
+    -92.27507,
+    34.779317
+],
   "geometry": {"coordinates":[-92.27507,34.779317],"type":"Point"}
 }

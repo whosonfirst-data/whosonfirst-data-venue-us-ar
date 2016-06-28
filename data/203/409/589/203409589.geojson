@@ -2,13 +2,14 @@
   "id": 203409589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.949554,33.11234,-91.949554,33.11234",
     "geom:latitude":33.11234,
     "geom:longitude":-91.949554,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 Waterwell Rd",
     "sg:city":"Crossett",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203409589,
-    "wof:lastmodified":1449025702,
+    "wof:lastmodified":1466320537,
     "wof:name":"Crossett Water Commission",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-91.949554,33.11234,-91.949554,33.11234],
-  "geometry": {"coordinates":[-91.949554,33.11234],"type":"Point"}
+  "bbox": [
+    -91.949554,
+    33.11234,
+    -91.949554,
+    33.11234
+],
+  "geometry": {"coordinates":[-91.94955400000001,33.11234],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102409593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.890062,34.405584,-91.890062,34.405584",
     "geom:latitude":34.405584,
     "geom:longitude":-91.890062,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5801 Cantrell Rd",
     "sg:city":"Altheimer",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102409593,
-    "wof:lastmodified":1449068766,
+    "wof:lastmodified":1466325213,
     "wof:name":"Mississippi River Transmission",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.890062,34.405584,-91.890062,34.405584],
+  "bbox": [
+    -91.890062,
+    34.405584,
+    -91.890062,
+    34.405584
+],
   "geometry": {"coordinates":[-91.890062,34.405584],"type":"Point"}
 }

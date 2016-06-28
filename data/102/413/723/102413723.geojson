@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102413723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.332012,35.97566,-94.332012,35.97566",
     "geom:latitude":35.97566,
     "geom:longitude":-94.332012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Lollipop Ln",
     "sg:city":"Prairie Grove",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102413723,
-    "wof:lastmodified":1449068182,
+    "wof:lastmodified":1466325261,
     "wof:name":"Lincoln Candy Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.332012,35.97566,-94.332012,35.97566],
-  "geometry": {"coordinates":[-94.332012,35.97566],"type":"Point"}
+  "bbox": [
+    -94.332012,
+    35.97566,
+    -94.332012,
+    35.97566
+],
+  "geometry": {"coordinates":[-94.33201200000001,35.97566],"type":"Point"}
 }

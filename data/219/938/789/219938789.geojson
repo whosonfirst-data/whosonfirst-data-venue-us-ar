@@ -2,13 +2,14 @@
   "id": 219938789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.430479,35.950312,-94.430479,35.950312",
     "geom:latitude":35.950312,
     "geom:longitude":-94.430479,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"718 W Pridemore Dr",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":219938789,
-    "wof:lastmodified":1449073031,
+    "wof:lastmodified":1466325173,
     "wof:name":"Harp's Food Store 193",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "market"
     ]
 },
-  "bbox": [-94.430479,35.950312,-94.430479,35.950312],
-  "geometry": {"coordinates":[-94.430479,35.950312],"type":"Point"}
+  "bbox": [
+    -94.430479,
+    35.950312,
+    -94.430479,
+    35.950312
+],
+  "geometry": {"coordinates":[-94.43047900000001,35.950312],"type":"Point"}
 }

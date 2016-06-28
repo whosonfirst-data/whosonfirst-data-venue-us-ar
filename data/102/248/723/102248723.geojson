@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102248723",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.080255,34.125217,-93.080255,34.125217",
     "geom:latitude":34.125217,
     "geom:longitude":-93.080255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 N 26th St",
     "sg:city":"Arkadelphia",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":"102248723",
-    "wof:lastmodified":1449069063,
+    "wof:lastmodified":1466321889,
     "wof:name":"Community Counseling Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.080255,34.125217,-93.080255,34.125217],
-  "geometry": {"coordinates":[-93.080255,34.125217],"type":"Point"}
+  "bbox": [
+    -93.080255,
+    34.125217,
+    -93.080255,
+    34.125217
+],
+  "geometry": {"coordinates":[-93.08025499999999,34.125217],"type":"Point"}
 }

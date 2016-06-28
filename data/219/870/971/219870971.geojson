@@ -2,13 +2,14 @@
   "id": 219870971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.222988,36.383946,-94.222988,36.383946",
     "geom:latitude":36.383946,
     "geom:longitude":-94.222988,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1008 NW J St",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219870971,
-    "wof:lastmodified":1449071327,
+    "wof:lastmodified":1466325146,
     "wof:name":"Altitudes Ultrabronze Tanning & Massage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "salon"
     ]
 },
-  "bbox": [-94.222988,36.383946,-94.222988,36.383946],
+  "bbox": [
+    -94.222988,
+    36.383946,
+    -94.222988,
+    36.383946
+],
   "geometry": {"coordinates":[-94.222988,36.383946],"type":"Point"}
 }

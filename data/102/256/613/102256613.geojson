@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102256613",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.394211,34.744738,-92.394211,34.744738",
     "geom:latitude":34.744738,
     "geom:longitude":-92.394211,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 S Shackleford Rd",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85833895,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85833895
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102256613",
-    "wof:lastmodified":1449069616,
+    "wof:lastmodified":1466322061,
     "wof:name":"LA-Z-Boy Furniture Galleries",
     "wof:parent_id":85833895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.394211,34.744738,-92.394211,34.744738],
+  "bbox": [
+    -92.394211,
+    34.744738,
+    -92.394211,
+    34.744738
+],
   "geometry": {"coordinates":[-92.394211,34.744738],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220008481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.152932,36.319863,-94.152932,36.319863",
     "geom:latitude":36.319863,
     "geom:longitude":-94.152932,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1202 S 24th St",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220008481,
-    "wof:lastmodified":1449074276,
+    "wof:lastmodified":1466320469,
     "wof:name":"Nw Arkansas Property Management Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "services-household"
     ]
 },
-  "bbox": [-94.152932,36.319863,-94.152932,36.319863],
-  "geometry": {"coordinates":[-94.152932,36.319863],"type":"Point"}
+  "bbox": [
+    -94.152932,
+    36.319863,
+    -94.152932,
+    36.319863
+],
+  "geometry": {"coordinates":[-94.15293200000001,36.319863],"type":"Point"}
 }

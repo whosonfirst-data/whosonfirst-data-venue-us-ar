@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102360541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.420994,35.948748,-94.420994,35.948748",
     "geom:latitude":35.948748,
     "geom:longitude":-94.420994,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 E Park St",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102360541,
-    "wof:lastmodified":1449069637,
+    "wof:lastmodified":1466324264,
     "wof:name":"Veterans of Foreign Wars",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.420994,35.948748,-94.420994,35.948748],
-  "geometry": {"coordinates":[-94.420994,35.948748],"type":"Point"}
+  "bbox": [
+    -94.420994,
+    35.948748,
+    -94.420994,
+    35.948748
+],
+  "geometry": {"coordinates":[-94.42099399999999,35.948748],"type":"Point"}
 }

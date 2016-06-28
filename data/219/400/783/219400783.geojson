@@ -2,13 +2,14 @@
   "id": 219400783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.467756,35.077729,-92.467756,35.077729",
     "geom:latitude":35.077729,
     "geom:longitude":-92.467756,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2759 Carl Stuart St",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219400783,
-    "wof:lastmodified":1449070735,
+    "wof:lastmodified":1466322854,
     "wof:name":"Hog Wild Products",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fix-it"
     ]
 },
-  "bbox": [-92.467756,35.077729,-92.467756,35.077729],
-  "geometry": {"coordinates":[-92.467756,35.077729],"type":"Point"}
+  "bbox": [
+    -92.467756,
+    35.077729,
+    -92.467756,
+    35.077729
+],
+  "geometry": {"coordinates":[-92.46775599999999,35.077729],"type":"Point"}
 }

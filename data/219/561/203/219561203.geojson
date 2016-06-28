@@ -2,13 +2,14 @@
   "id": 219561203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.229414,35.089351,-92.229414,35.089351",
     "geom:latitude":35.089351,
     "geom:longitude":-92.229414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Saye St",
     "sg:city":"Vilonia",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219561203,
-    "wof:lastmodified":1449072903,
+    "wof:lastmodified":1466324526,
     "wof:name":"Porter Vaughan Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.229414,35.089351,-92.229414,35.089351],
-  "geometry": {"coordinates":[-92.229414,35.089351],"type":"Point"}
+  "bbox": [
+    -92.229414,
+    35.089351,
+    -92.229414,
+    35.089351
+],
+  "geometry": {"coordinates":[-92.22941400000001,35.089351],"type":"Point"}
 }

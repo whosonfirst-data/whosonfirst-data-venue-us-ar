@@ -2,13 +2,14 @@
   "id": 219853741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.144936,36.125519,-94.144936,36.125519",
     "geom:latitude":36.125519,
     "geom:longitude":-94.144936,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4075 N College Ave",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219853741,
-    "wof:lastmodified":1449071810,
+    "wof:lastmodified":1466325124,
     "wof:name":"Perry's Jewelry & Fine Gifts",
     "wof:parent_id":85885433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jeweler"
     ]
 },
-  "bbox": [-94.144936,36.125519,-94.144936,36.125519],
+  "bbox": [
+    -94.144936,
+    36.125519,
+    -94.144936,
+    36.125519
+],
   "geometry": {"coordinates":[-94.144936,36.125519],"type":"Point"}
 }

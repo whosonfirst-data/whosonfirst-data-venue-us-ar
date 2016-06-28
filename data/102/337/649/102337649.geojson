@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102337649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.02872,35.491477,-92.02872,35.491477",
     "geom:latitude":35.491477,
     "geom:longitude":-92.02872,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 Wilburn Rd",
     "sg:city":"Heber Springs",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102337649,
-    "wof:lastmodified":1449068902,
+    "wof:lastmodified":1466323850,
     "wof:name":"Sink House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.02872,35.491477,-92.02872,35.491477],
-  "geometry": {"coordinates":[-92.02872,35.491477],"type":"Point"}
+  "bbox": [
+    -92.02872,
+    35.491477,
+    -92.02872,
+    35.491477
+],
+  "geometry": {"coordinates":[-92.02872000000001,35.491477],"type":"Point"}
 }

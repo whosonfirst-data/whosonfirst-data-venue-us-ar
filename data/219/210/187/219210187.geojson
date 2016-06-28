@@ -2,13 +2,14 @@
   "id": 219210187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.239233,33.271168,-93.239233,33.271168",
     "geom:latitude":33.271168,
     "geom:longitude":-93.239233,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 N Jackson",
     "sg:city":"Magnolia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219210187,
-    "wof:lastmodified":1449071596,
+    "wof:lastmodified":1466320960,
     "wof:name":"The Peoples Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commercial"
     ]
 },
-  "bbox": [-93.239233,33.271168,-93.239233,33.271168],
+  "bbox": [
+    -93.239233,
+    33.271168,
+    -93.239233,
+    33.271168
+],
   "geometry": {"coordinates":[-93.239233,33.271168],"type":"Point"}
 }

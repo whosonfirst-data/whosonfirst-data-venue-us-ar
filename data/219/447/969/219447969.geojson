@@ -2,13 +2,14 @@
   "id": 219447969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.022068,34.801151,-92.022068,34.801151",
     "geom:latitude":34.801151,
     "geom:longitude":-92.022068,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Helen Dr",
     "sg:city":"Lonoke",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":219447969,
-    "wof:lastmodified":1449072879,
+    "wof:lastmodified":1466323341,
     "wof:name":"Mr Honey Do",
     "wof:parent_id":85811577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "services-labor"
     ]
 },
-  "bbox": [-92.022068,34.801151,-92.022068,34.801151],
+  "bbox": [
+    -92.022068,
+    34.801151,
+    -92.022068,
+    34.801151
+],
   "geometry": {"coordinates":[-92.022068,34.801151],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219174727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.484124,33.229675,-91.484124,33.229675",
     "geom:latitude":33.229675,
     "geom:longitude":-91.484124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"506 Highway 160 E",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219174727,
-    "wof:lastmodified":1449070875,
+    "wof:lastmodified":1466320588,
     "wof:name":"Wilmont",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractors-commercial"
     ]
 },
-  "bbox": [-91.484124,33.229675,-91.484124,33.229675],
-  "geometry": {"coordinates":[-91.484124,33.229675],"type":"Point"}
+  "bbox": [
+    -91.484124,
+    33.229675,
+    -91.484124,
+    33.229675
+],
+  "geometry": {"coordinates":[-91.48412399999999,33.229675],"type":"Point"}
 }

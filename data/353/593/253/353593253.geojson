@@ -2,13 +2,14 @@
   "id": 353593253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.540452,36.172505,-94.540452,36.172505",
     "geom:latitude":36.172505,
     "geom:longitude":-94.540452,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 Hwy 412 E",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353593253,
-    "wof:lastmodified":1449019941,
+    "wof:lastmodified":1466320457,
     "wof:name":"Cellular 2000 Plus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cellular"
     ]
 },
-  "bbox": [-94.540452,36.172505,-94.540452,36.172505],
+  "bbox": [
+    -94.540452,
+    36.172505,
+    -94.540452,
+    36.172505
+],
   "geometry": {"coordinates":[-94.540452,36.172505],"type":"Point"}
 }

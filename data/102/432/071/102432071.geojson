@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102432071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.130934,34.727752,-92.130934,34.727752",
     "geom:latitude":34.727752,
     "geom:longitude":-92.130934,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11690 Willow Beach Rd",
     "sg:city":"Scott",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102432071,
-    "wof:lastmodified":1449067728,
+    "wof:lastmodified":1466325633,
     "wof:name":"Willow Beach Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.130934,34.727752,-92.130934,34.727752],
+  "bbox": [
+    -92.130934,
+    34.727752,
+    -92.130934,
+    34.727752
+],
   "geometry": {"coordinates":[-92.130934,34.727752],"type":"Point"}
 }

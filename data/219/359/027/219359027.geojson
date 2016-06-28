@@ -2,13 +2,14 @@
   "id": 219359027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.511657,34.617821,-92.511657,34.617821",
     "geom:latitude":34.617821,
     "geom:longitude":-92.511657,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4000 Highway 5 N",
     "sg:city":"Bryant",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219359027,
-    "wof:lastmodified":1449070326,
+    "wof:lastmodified":1466322379,
     "wof:name":"Realty Title",
     "wof:parent_id":85817531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "broker"
     ]
 },
-  "bbox": [-92.511657,34.617821,-92.511657,34.617821],
+  "bbox": [
+    -92.511657,
+    34.617821,
+    -92.511657,
+    34.617821
+],
   "geometry": {"coordinates":[-92.511657,34.617821],"type":"Point"}
 }

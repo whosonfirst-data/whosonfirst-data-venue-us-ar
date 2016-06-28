@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102404263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.393414,35.409754,-94.393414,35.409754",
     "geom:latitude":35.409754,
     "geom:longitude":-94.393414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3205 Midland Blvd",
     "sg:city":"Fort Smith",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102404263,
-    "wof:lastmodified":1449069384,
+    "wof:lastmodified":1466324893,
     "wof:name":"Yasin's Used Cars",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.393414,35.409754,-94.393414,35.409754],
-  "geometry": {"coordinates":[-94.393414,35.409754],"type":"Point"}
+  "bbox": [
+    -94.393414,
+    35.409754,
+    -94.393414,
+    35.409754
+],
+  "geometry": {"coordinates":[-94.39341400000001,35.409754],"type":"Point"}
 }

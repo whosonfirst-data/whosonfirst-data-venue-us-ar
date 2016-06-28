@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102411085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.4039,33.63791,-91.4039,33.63791",
     "geom:latitude":33.63791,
     "geom:longitude":-91.4039,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 N 3rd St",
     "sg:city":"Mc Gehee",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102411085,
-    "wof:lastmodified":1449067890,
+    "wof:lastmodified":1466325082,
     "wof:name":"McGehee Boys Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.4039,33.63791,-91.4039,33.63791],
-  "geometry": {"coordinates":[-91.4039,33.63791],"type":"Point"}
+  "bbox": [
+    -91.4039,
+    33.63791,
+    -91.4039,
+    33.63791
+],
+  "geometry": {"coordinates":[-91.40389999999999,33.63791],"type":"Point"}
 }

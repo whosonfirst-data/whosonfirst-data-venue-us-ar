@@ -2,13 +2,14 @@
   "id": 219925505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.337223,36.36515,-94.337223,36.36515",
     "geom:latitude":36.36515,
     "geom:longitude":-94.337223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9990 Kitty Rd",
     "sg:city":"Gravette",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219925505,
-    "wof:lastmodified":1449070403,
+    "wof:lastmodified":1466325058,
     "wof:name":"Neal's Vending",
     "wof:parent_id":85853527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-94.337223,36.36515,-94.337223,36.36515],
-  "geometry": {"coordinates":[-94.337223,36.36515],"type":"Point"}
+  "bbox": [
+    -94.337223,
+    36.36515,
+    -94.337223,
+    36.36515
+],
+  "geometry": {"coordinates":[-94.33722299999999,36.36515],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219837503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.1501,36.099958,-94.1501,36.099958",
     "geom:latitude":36.099958,
     "geom:longitude":-94.1501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2718 N College Ave",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":219837503,
-    "wof:lastmodified":1449070942,
+    "wof:lastmodified":1466325012,
     "wof:name":"Enterprise Rent-A-Car",
     "wof:parent_id":85885431,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "car"
     ]
 },
-  "bbox": [-94.1501,36.099958,-94.1501,36.099958],
-  "geometry": {"coordinates":[-94.1501,36.099958],"type":"Point"}
+  "bbox": [
+    -94.1501,
+    36.099958,
+    -94.1501,
+    36.099958
+],
+  "geometry": {"coordinates":[-94.15009999999999,36.099958],"type":"Point"}
 }

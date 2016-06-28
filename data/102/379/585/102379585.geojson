@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102379585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.36168,34.669783,-92.36168,34.669783",
     "geom:latitude":34.669783,
     "geom:longitude":-92.36168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7412 Baseline Rd",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85833869,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85833869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102379585,
-    "wof:lastmodified":1449069144,
+    "wof:lastmodified":1466322004,
     "wof:name":"The Cut",
     "wof:parent_id":85833869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.36168,34.669783,-92.36168,34.669783],
-  "geometry": {"coordinates":[-92.36168,34.669783],"type":"Point"}
+  "bbox": [
+    -92.36168,
+    34.669783,
+    -92.36168,
+    34.669783
+],
+  "geometry": {"coordinates":[-92.36168000000001,34.669783],"type":"Point"}
 }

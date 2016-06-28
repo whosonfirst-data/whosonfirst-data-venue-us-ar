@@ -2,13 +2,14 @@
   "id": 219490783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.23136,34.82207,-92.23136,34.82207",
     "geom:latitude":34.82207,
     "geom:longitude":-92.23136,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7603 Highway 107",
     "sg:city":"Sherwood",
     "sg:classifiers":[
@@ -69,10 +70,11 @@
         }
     ],
     "wof:id":219490783,
-    "wof:lastmodified":1449073559,
+    "wof:lastmodified":1466323857,
     "wof:name":"State Farm Insurance Agent-Marsha Trammell",
     "wof:parent_id":85851723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "benefit"
     ]
 },
-  "bbox": [-92.23136,34.82207,-92.23136,34.82207],
+  "bbox": [
+    -92.23136,
+    34.82207,
+    -92.23136,
+    34.82207
+],
   "geometry": {"coordinates":[-92.23136,34.82207],"type":"Point"}
 }

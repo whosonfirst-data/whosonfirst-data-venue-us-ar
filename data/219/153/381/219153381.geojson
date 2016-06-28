@@ -2,13 +2,14 @@
   "id": 219153381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.7976,33.225751,-91.7976,33.225751",
     "geom:latitude":33.225751,
     "geom:longitude":-91.7976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 W Lincoln St",
     "sg:city":"Hamburg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219153381,
-    "wof:lastmodified":1449072814,
+    "wof:lastmodified":1466320415,
     "wof:name":"Senyah Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.7976,33.225751,-91.7976,33.225751],
+  "bbox": [
+    -91.7976,
+    33.225751,
+    -91.7976,
+    33.225751
+],
   "geometry": {"coordinates":[-91.7976,33.225751],"type":"Point"}
 }

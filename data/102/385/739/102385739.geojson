@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102385739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.024999,34.420417,-93.024999,34.420417",
     "geom:latitude":34.420417,
     "geom:longitude":-93.024999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Red Oak Dr",
     "sg:city":"Hot Springs National Park",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":102385739,
-    "wof:lastmodified":1449069174,
+    "wof:lastmodified":1466323276,
     "wof:name":"Red Oak Missionary Baptis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.024999,34.420417,-93.024999,34.420417],
-  "geometry": {"coordinates":[-93.024999,34.420417],"type":"Point"}
+  "bbox": [
+    -93.024999,
+    34.420417,
+    -93.024999,
+    34.420417
+],
+  "geometry": {"coordinates":[-93.02499899999999,34.420417],"type":"Point"}
 }

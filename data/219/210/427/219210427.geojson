@@ -2,13 +2,14 @@
   "id": 219210427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.232851,33.272022,-93.232851,33.272022",
     "geom:latitude":33.272022,
     "geom:longitude":-93.232851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"605 N Dudney Rd",
     "sg:city":"Magnolia",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219210427,
-    "wof:lastmodified":1449071597,
+    "wof:lastmodified":1466320961,
     "wof:name":"Lyn's Tax Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "preparation-business"
     ]
 },
-  "bbox": [-93.232851,33.272022,-93.232851,33.272022],
+  "bbox": [
+    -93.232851,
+    33.272022,
+    -93.232851,
+    33.272022
+],
   "geometry": {"coordinates":[-93.232851,33.272022],"type":"Point"}
 }

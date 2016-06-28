@@ -2,13 +2,14 @@
   "id": 303363573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.890215,36.630345,-94.890215,36.630345",
     "geom:latitude":36.630345,
     "geom:longitude":-94.890215,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"55251 E Hwy 85A",
     "sg:city":"Afton",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":303363573,
-    "wof:lastmodified":1449000271,
+    "wof:lastmodified":1466320454,
     "wof:name":"National Rod & Custom Car Hall",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.890215,36.630345,-94.890215,36.630345],
+  "bbox": [
+    -94.890215,
+    36.630345,
+    -94.890215,
+    36.630345
+],
   "geometry": {"coordinates":[-94.890215,36.630345],"type":"Point"}
 }

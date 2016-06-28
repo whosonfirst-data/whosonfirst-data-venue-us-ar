@@ -2,13 +2,14 @@
   "id": 219867897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.256994,36.068584,-94.256994,36.068584",
     "geom:latitude":36.068584,
     "geom:longitude":-94.256994,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"312 N Durango Pl",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219867897,
-    "wof:lastmodified":1449071913,
+    "wof:lastmodified":1466325146,
     "wof:name":"Home Inspection Service",
     "wof:parent_id":85885449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-94.256994,36.068584,-94.256994,36.068584],
-  "geometry": {"coordinates":[-94.256994,36.068584],"type":"Point"}
+  "bbox": [
+    -94.256994,
+    36.068584,
+    -94.256994,
+    36.068584
+],
+  "geometry": {"coordinates":[-94.25699400000001,36.068584],"type":"Point"}
 }

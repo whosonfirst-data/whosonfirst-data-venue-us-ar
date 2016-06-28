@@ -2,13 +2,14 @@
   "id": 219348809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.792353,34.57139,-92.792353,34.57139",
     "geom:latitude":34.57139,
     "geom:longitude":-92.792353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1927 Ira Williams Rd",
     "sg:city":"Benton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219348809,
-    "wof:lastmodified":1449070526,
+    "wof:lastmodified":1466322247,
     "wof:name":"Double S Excavating",
     "wof:parent_id":85817531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-92.792353,34.57139,-92.792353,34.57139],
-  "geometry": {"coordinates":[-92.792353,34.57139],"type":"Point"}
+  "bbox": [
+    -92.792353,
+    34.57139,
+    -92.792353,
+    34.57139
+],
+  "geometry": {"coordinates":[-92.79235300000001,34.57139],"type":"Point"}
 }

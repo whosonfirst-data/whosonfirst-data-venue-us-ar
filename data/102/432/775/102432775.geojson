@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102432775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.562857,35.745548,-90.562857,35.745548",
     "geom:latitude":35.745548,
     "geom:longitude":-90.562857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Central Ave",
     "sg:city":"Bay",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102432775,
-    "wof:lastmodified":1449067731,
+    "wof:lastmodified":1466325609,
     "wof:name":"First Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.562857,35.745548,-90.562857,35.745548],
-  "geometry": {"coordinates":[-90.562857,35.745548],"type":"Point"}
+  "bbox": [
+    -90.562857,
+    35.745548,
+    -90.562857,
+    35.745548
+],
+  "geometry": {"coordinates":[-90.56285699999999,35.745548],"type":"Point"}
 }

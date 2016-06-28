@@ -2,13 +2,14 @@
   "id": 219463969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.81296,34.363063,-92.81296,34.363063",
     "geom:latitude":34.363063,
     "geom:longitude":-92.81296,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 S Main St",
     "sg:city":"Malvern",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219463969,
-    "wof:lastmodified":1449072843,
+    "wof:lastmodified":1466323499,
     "wof:name":"Julie's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "frame"
     ]
 },
-  "bbox": [-92.81296,34.363063,-92.81296,34.363063],
+  "bbox": [
+    -92.81296,
+    34.363063,
+    -92.81296,
+    34.363063
+],
   "geometry": {"coordinates":[-92.81296,34.363063],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353525251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.208801,34.644285,-94.208801,34.644285",
     "geom:latitude":34.644285,
     "geom:longitude":-94.208801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 US Hwy 270",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":353525251,
-    "wof:lastmodified":1449020289,
+    "wof:lastmodified":1466320436,
     "wof:name":"Straight Up Tattoo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tattooing"
     ]
 },
-  "bbox": [-94.208801,34.644285,-94.208801,34.644285],
-  "geometry": {"coordinates":[-94.208801,34.644285],"type":"Point"}
+  "bbox": [
+    -94.208801,
+    34.644285,
+    -94.208801,
+    34.644285
+],
+  "geometry": {"coordinates":[-94.20880099999999,34.644285],"type":"Point"}
 }

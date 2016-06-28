@@ -2,13 +2,14 @@
   "id": 219222797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.32625,33.205402,-92.32625,33.205402",
     "geom:latitude":33.205402,
     "geom:longitude":-92.32625,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2920 Phelps Rd",
     "sg:city":"Strong",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219222797,
-    "wof:lastmodified":1449072749,
+    "wof:lastmodified":1466321071,
     "wof:name":"George E Watts Memorial Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "investment"
     ]
 },
-  "bbox": [-92.32625,33.205402,-92.32625,33.205402],
+  "bbox": [
+    -92.32625,
+    33.205402,
+    -92.32625,
+    33.205402
+],
   "geometry": {"coordinates":[-92.32625,33.205402],"type":"Point"}
 }

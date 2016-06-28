@@ -2,13 +2,14 @@
   "id": 220128593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.956489,34.782226,-93.956489,34.782226",
     "geom:latitude":34.782226,
     "geom:longitude":-93.956489,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12786 Frost Ln",
     "sg:city":"Parks",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":220128593,
-    "wof:lastmodified":1449074345,
+    "wof:lastmodified":1466322761,
     "wof:name":"South Parks Ranch Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.956489,34.782226,-93.956489,34.782226],
+  "bbox": [
+    -93.956489,
+    34.782226,
+    -93.956489,
+    34.782226
+],
   "geometry": {"coordinates":[-93.956489,34.782226],"type":"Point"}
 }

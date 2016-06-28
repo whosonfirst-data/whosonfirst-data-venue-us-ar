@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102408843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.752535,35.777916,-90.752535,35.777916",
     "geom:latitude":35.777916,
     "geom:longitude":-90.752535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5411 Southwest Dr",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102408843,
-    "wof:lastmodified":1449068104,
+    "wof:lastmodified":1466325163,
     "wof:name":"Deb's Place",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.752535,35.777916,-90.752535,35.777916],
-  "geometry": {"coordinates":[-90.752535,35.777916],"type":"Point"}
+  "bbox": [
+    -90.752535,
+    35.777916,
+    -90.752535,
+    35.777916
+],
+  "geometry": {"coordinates":[-90.75253499999999,35.777916],"type":"Point"}
 }

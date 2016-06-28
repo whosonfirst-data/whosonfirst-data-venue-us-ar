@@ -2,13 +2,14 @@
   "id": 220063559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.920037,36.027567,-93.920037,36.027567",
     "geom:latitude":36.027567,
     "geom:longitude":-93.920037,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"129 Madison 7880",
     "sg:city":"Wesley",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":220063559,
-    "wof:lastmodified":1449074095,
+    "wof:lastmodified":1466321110,
     "wof:name":"Wesley Volunteer Fire Department",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-93.920037,36.027567,-93.920037,36.027567],
-  "geometry": {"coordinates":[-93.920037,36.027567],"type":"Point"}
+  "bbox": [
+    -93.920037,
+    36.027567,
+    -93.920037,
+    36.027567
+],
+  "geometry": {"coordinates":[-93.92003699999999,36.027567],"type":"Point"}
 }

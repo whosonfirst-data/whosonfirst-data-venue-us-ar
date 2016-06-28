@@ -2,13 +2,14 @@
   "id": 219750109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.753342,36.302329,-91.753342,36.302329",
     "geom:latitude":36.302329,
     "geom:longitude":-91.753342,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"79 Gold Dust Trl",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219750109,
-    "wof:lastmodified":1449072522,
+    "wof:lastmodified":1466324983,
     "wof:name":"Dawson's Septic Pumping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "supply"
     ]
 },
-  "bbox": [-91.753342,36.302329,-91.753342,36.302329],
+  "bbox": [
+    -91.753342,
+    36.302329,
+    -91.753342,
+    36.302329
+],
   "geometry": {"coordinates":[-91.753342,36.302329],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219736627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.734359,36.413717,-91.734359,36.413717",
     "geom:latitude":36.413717,
     "geom:longitude":-91.734359,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5864 Highway 9 N",
     "sg:city":"Camp",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219736627,
-    "wof:lastmodified":1449073872,
+    "wof:lastmodified":1466324897,
     "wof:name":"Raines Towing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "service-automotive"
     ]
 },
-  "bbox": [-91.734359,36.413717,-91.734359,36.413717],
+  "bbox": [
+    -91.734359,
+    36.413717,
+    -91.734359,
+    36.413717
+],
   "geometry": {"coordinates":[-91.734359,36.413717],"type":"Point"}
 }

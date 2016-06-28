@@ -2,13 +2,14 @@
   "id": 219880491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.177901,36.384033,-94.177901,36.384033",
     "geom:latitude":36.384033,
     "geom:longitude":-94.177901,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3005 NE 11th St",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219880491,
-    "wof:lastmodified":1449073952,
+    "wof:lastmodified":1466325068,
     "wof:name":"The Vendor Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.177901,36.384033,-94.177901,36.384033],
-  "geometry": {"coordinates":[-94.177901,36.384033],"type":"Point"}
+  "bbox": [
+    -94.177901,
+    36.384033,
+    -94.177901,
+    36.384033
+],
+  "geometry": {"coordinates":[-94.17790100000001,36.384033],"type":"Point"}
 }

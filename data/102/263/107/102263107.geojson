@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102263107",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.601124,33.662212,-93.601124,33.662212",
     "geom:latitude":33.662212,
     "geom:longitude":-93.601124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"915 W 6th St",
     "sg:city":"Hope",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806015,
+        85688549,
         85633793,
         85920547,
         102083213,
-        85688549
+        85806015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102263107",
-    "wof:lastmodified":1449070140,
+    "wof:lastmodified":1466322124,
     "wof:name":"Julies Mane Attraction",
     "wof:parent_id":85806015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.601124,33.662212,-93.601124,33.662212],
+  "bbox": [
+    -93.601124,
+    33.662212,
+    -93.601124,
+    33.662212
+],
   "geometry": {"coordinates":[-93.601124,33.662212],"type":"Point"}
 }

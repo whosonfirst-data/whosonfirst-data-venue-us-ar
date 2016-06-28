@@ -2,13 +2,14 @@
   "id": 203411563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.954815,33.11303,-91.954815,33.11303",
     "geom:latitude":33.11303,
     "geom:longitude":-91.954815,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"137 Dogwood Dr",
     "sg:city":"Crossett",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203411563,
-    "wof:lastmodified":1449025039,
+    "wof:lastmodified":1466320541,
     "wof:name":"Bobby K Keen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "vehicle"
     ]
 },
-  "bbox": [-91.954815,33.11303,-91.954815,33.11303],
+  "bbox": [
+    -91.954815,
+    33.11303,
+    -91.954815,
+    33.11303
+],
   "geometry": {"coordinates":[-91.954815,33.11303],"type":"Point"}
 }

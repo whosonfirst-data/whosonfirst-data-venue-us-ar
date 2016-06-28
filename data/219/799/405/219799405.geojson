@@ -2,13 +2,14 @@
   "id": 219799405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.533403,36.370119,-92.533403,36.370119",
     "geom:latitude":36.370119,
     "geom:longitude":-92.533403,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"662 Trimble Flats Rd",
     "sg:city":"Lakeview",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219799405,
-    "wof:lastmodified":1449073940,
+    "wof:lastmodified":1466324950,
     "wof:name":"Cooper Sewer & Drain Serv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "plumbing-drain"
     ]
 },
-  "bbox": [-92.533403,36.370119,-92.533403,36.370119],
-  "geometry": {"coordinates":[-92.533403,36.370119],"type":"Point"}
+  "bbox": [
+    -92.533403,
+    36.370119,
+    -92.533403,
+    36.370119
+],
+  "geometry": {"coordinates":[-92.53340300000001,36.370119],"type":"Point"}
 }

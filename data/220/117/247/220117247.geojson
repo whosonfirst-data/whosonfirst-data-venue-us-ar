@@ -2,13 +2,14 @@
   "id": 220117247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.273055,35.051019,-94.273055,35.051019",
     "geom:latitude":35.051019,
     "geom:longitude":-94.273055,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1029 Railway Dr",
     "sg:city":"Mansfield",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":220117247,
-    "wof:lastmodified":1449074603,
+    "wof:lastmodified":1466322529,
     "wof:name":"Rbm Asset Management Inc",
     "wof:parent_id":85808359,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-94.273055,35.051019,-94.273055,35.051019],
+  "bbox": [
+    -94.273055,
+    35.051019,
+    -94.273055,
+    35.051019
+],
   "geometry": {"coordinates":[-94.273055,35.051019],"type":"Point"}
 }

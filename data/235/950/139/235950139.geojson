@@ -2,13 +2,14 @@
   "id": 235950139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.769476,36.572862,-94.769476,36.572862",
     "geom:latitude":36.572862,
     "geom:longitude":-94.769476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2230 S Main St",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":235950139,
-    "wof:lastmodified":1449008389,
+    "wof:lastmodified":1466320438,
     "wof:name":"Midco Clothes and More",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "store"
     ]
 },
-  "bbox": [-94.769476,36.572862,-94.769476,36.572862],
+  "bbox": [
+    -94.769476,
+    36.572862,
+    -94.769476,
+    36.572862
+],
   "geometry": {"coordinates":[-94.769476,36.572862],"type":"Point"}
 }

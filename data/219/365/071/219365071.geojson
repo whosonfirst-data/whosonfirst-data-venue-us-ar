@@ -2,13 +2,14 @@
   "id": 219365071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.025898,34.961746,-92.025898,34.961746",
     "geom:latitude":34.961746,
     "geom:longitude":-92.025898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Pheasant Run Dr",
     "sg:city":"Cabot",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":219365071,
-    "wof:lastmodified":1449070955,
+    "wof:lastmodified":1466322492,
     "wof:name":"Dial-A-Trip",
     "wof:parent_id":85839277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "public"
     ]
 },
-  "bbox": [-92.025898,34.961746,-92.025898,34.961746],
+  "bbox": [
+    -92.025898,
+    34.961746,
+    -92.025898,
+    34.961746
+],
   "geometry": {"coordinates":[-92.025898,34.961746],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219639081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.704933,35.840328,-90.704933,35.840328",
     "geom:latitude":35.840328,
     "geom:longitude":-90.704933,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 E Huntington Ave Ste B",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":219639081,
-    "wof:lastmodified":1449073895,
+    "wof:lastmodified":1466324634,
     "wof:name":"Goad & Company",
     "wof:parent_id":85836541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "public"
     ]
 },
-  "bbox": [-90.704933,35.840328,-90.704933,35.840328],
+  "bbox": [
+    -90.704933,
+    35.840328,
+    -90.704933,
+    35.840328
+],
   "geometry": {"coordinates":[-90.704933,35.840328],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102337049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.525872,34.899554,-92.525872,34.899554",
     "geom:latitude":34.899554,
     "geom:longitude":-92.525872,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23000 Roland Cutoff Rd",
     "sg:city":"Roland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102337049,
-    "wof:lastmodified":1449068902,
+    "wof:lastmodified":1466323726,
     "wof:name":"Coffee Storehouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.525872,34.899554,-92.525872,34.899554],
-  "geometry": {"coordinates":[-92.525872,34.899554],"type":"Point"}
+  "bbox": [
+    -92.525872,
+    34.899554,
+    -92.525872,
+    34.899554
+],
+  "geometry": {"coordinates":[-92.52587200000001,34.899554],"type":"Point"}
 }

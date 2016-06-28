@@ -2,13 +2,14 @@
   "id": 219528197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.703316,35.232868,-91.703316,35.232868",
     "geom:latitude":35.232868,
     "geom:longitude":-91.703316,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2206 Taylor St",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219528197,
-    "wof:lastmodified":1449071352,
+    "wof:lastmodified":1466324168,
     "wof:name":"Cameron",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "decorating"
     ]
 },
-  "bbox": [-91.703316,35.232868,-91.703316,35.232868],
+  "bbox": [
+    -91.703316,
+    35.232868,
+    -91.703316,
+    35.232868
+],
   "geometry": {"coordinates":[-91.703316,35.232868],"type":"Point"}
 }

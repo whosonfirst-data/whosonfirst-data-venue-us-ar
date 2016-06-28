@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102429487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.075446,35.109202,-92.075446,35.109202",
     "geom:latitude":35.109202,
     "geom:longitude":-92.075446,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1820 Hwy 64 W",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102429487,
-    "wof:lastmodified":1449070071,
+    "wof:lastmodified":1466325392,
     "wof:name":"McDonalds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.075446,35.109202,-92.075446,35.109202],
+  "bbox": [
+    -92.075446,
+    35.109202,
+    -92.075446,
+    35.109202
+],
   "geometry": {"coordinates":[-92.075446,35.109202],"type":"Point"}
 }

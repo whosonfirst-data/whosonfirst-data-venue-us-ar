@@ -2,13 +2,14 @@
   "id": 219621235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.784782,35.233101,-90.784782,35.233101",
     "geom:latitude":35.233101,
     "geom:longitude":-90.784782,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1210 Falls Blvd N",
     "sg:city":"Wynne",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":219621235,
-    "wof:lastmodified":1449073498,
+    "wof:lastmodified":1466324611,
     "wof:name":"Wynne Flower Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tuxedo"
     ]
 },
-  "bbox": [-90.784782,35.233101,-90.784782,35.233101],
-  "geometry": {"coordinates":[-90.784782,35.233101],"type":"Point"}
+  "bbox": [
+    -90.784782,
+    35.233101,
+    -90.784782,
+    35.233101
+],
+  "geometry": {"coordinates":[-90.78478200000001,35.233101],"type":"Point"}
 }

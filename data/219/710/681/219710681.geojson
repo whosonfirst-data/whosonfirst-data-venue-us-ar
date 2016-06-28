@@ -2,13 +2,14 @@
   "id": 219710681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.957929,36.241486,-90.957929,36.241486",
     "geom:latitude":36.241486,
     "geom:longitude":-90.957929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2303 Highway 67 S",
     "sg:city":"Pocahontas",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":219710681,
-    "wof:lastmodified":1449070601,
+    "wof:lastmodified":1466324809,
     "wof:name":"SONIC Drive-In",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "american"
     ]
 },
-  "bbox": [-90.957929,36.241486,-90.957929,36.241486],
-  "geometry": {"coordinates":[-90.957929,36.241486],"type":"Point"}
+  "bbox": [
+    -90.957929,
+    36.241486,
+    -90.957929,
+    36.241486
+],
+  "geometry": {"coordinates":[-90.95792899999999,36.241486],"type":"Point"}
 }

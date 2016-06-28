@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102345527,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.73747,36.403513,-93.73747,36.403513",
     "geom:latitude":36.403513,
     "geom:longitude":-93.73747,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Spring St",
     "sg:city":"Eureka Springs",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102345527,
-    "wof:lastmodified":1449070001,
+    "wof:lastmodified":1466323974,
     "wof:name":"Bart Rockett Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.73747,36.403513,-93.73747,36.403513],
+  "bbox": [
+    -93.73747,
+    36.403513,
+    -93.73747,
+    36.403513
+],
   "geometry": {"coordinates":[-93.73747,36.403513],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219909895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.315943,36.37705,-94.315943,36.37705",
     "geom:latitude":36.37705,
     "geom:longitude":-94.315943,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13052 Seba Rd",
     "sg:city":"Centerton",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219909895,
-    "wof:lastmodified":1449073058,
+    "wof:lastmodified":1466325199,
     "wof:name":"Lyles Accounting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bookkeeping"
     ]
 },
-  "bbox": [-94.315943,36.37705,-94.315943,36.37705],
+  "bbox": [
+    -94.315943,
+    36.37705,
+    -94.315943,
+    36.37705
+],
   "geometry": {"coordinates":[-94.315943,36.37705],"type":"Point"}
 }

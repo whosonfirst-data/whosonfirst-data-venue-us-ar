@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102372089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.624602,35.769484,-91.624602,35.769484",
     "geom:latitude":35.769484,
     "geom:longitude":-91.624602,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2513 Harrison St",
     "sg:city":"Batesville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85808231,
+        85688549,
         85633793,
         85920683,
         102083875,
-        85688549
+        85808231
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102372089,
-    "wof:lastmodified":1449069204,
+    "wof:lastmodified":1466320426,
     "wof:name":"P J's Nu Energy Weight Control",
     "wof:parent_id":85808231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.624602,35.769484,-91.624602,35.769484],
+  "bbox": [
+    -91.624602,
+    35.769484,
+    -91.624602,
+    35.769484
+],
   "geometry": {"coordinates":[-91.624602,35.769484],"type":"Point"}
 }

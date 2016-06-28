@@ -2,13 +2,14 @@
   "id": 219235891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.045607,34.062112,-94.045607,34.062112",
     "geom:latitude":34.062112,
     "geom:longitude":-94.045607,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"829 Oak Hill Rd",
     "sg:city":"Dierks",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219235891,
-    "wof:lastmodified":1449071002,
+    "wof:lastmodified":1466321225,
     "wof:name":"Toms Auto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.045607,34.062112,-94.045607,34.062112],
+  "bbox": [
+    -94.045607,
+    34.062112,
+    -94.045607,
+    34.062112
+],
   "geometry": {"coordinates":[-94.045607,34.062112],"type":"Point"}
 }

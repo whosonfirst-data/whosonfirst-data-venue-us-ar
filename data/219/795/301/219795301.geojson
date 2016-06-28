@@ -2,13 +2,14 @@
   "id": 219795301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.588548,36.277583,-92.588548,36.277583",
     "geom:latitude":36.277583,
     "geom:longitude":-92.588548,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"704 E Main St",
     "sg:city":"Flippin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219795301,
-    "wof:lastmodified":1449072474,
+    "wof:lastmodified":1466324949,
     "wof:name":"Snappy Mart 10",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.588548,36.277583,-92.588548,36.277583],
+  "bbox": [
+    -92.588548,
+    36.277583,
+    -92.588548,
+    36.277583
+],
   "geometry": {"coordinates":[-92.588548,36.277583],"type":"Point"}
 }

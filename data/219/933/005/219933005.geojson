@@ -2,13 +2,14 @@
   "id": 219933005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.797311,36.23391,-93.797311,36.23391",
     "geom:latitude":36.23391,
     "geom:longitude":-93.797311,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"279 Madison 8615",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219933005,
-    "wof:lastmodified":1449071119,
+    "wof:lastmodified":1466325219,
     "wof:name":"Todd's Service Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.797311,36.23391,-93.797311,36.23391],
-  "geometry": {"coordinates":[-93.797311,36.23391],"type":"Point"}
+  "bbox": [
+    -93.797311,
+    36.23391,
+    -93.797311,
+    36.23391
+],
+  "geometry": {"coordinates":[-93.79731099999999,36.23391],"type":"Point"}
 }

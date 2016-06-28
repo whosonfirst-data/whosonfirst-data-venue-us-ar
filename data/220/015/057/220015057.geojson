@@ -2,13 +2,14 @@
   "id": 220015057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.220178,36.175976,-94.220178,36.175976",
     "geom:latitude":36.175976,
     "geom:longitude":-94.220178,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"831 E Henri de Tonti Blvd",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":220015057,
-    "wof:lastmodified":1449074230,
+    "wof:lastmodified":1466320481,
     "wof:name":"Tontitown Flea Mkt.",
     "wof:parent_id":85885477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "market"
     ]
 },
-  "bbox": [-94.220178,36.175976,-94.220178,36.175976],
+  "bbox": [
+    -94.220178,
+    36.175976,
+    -94.220178,
+    36.175976
+],
   "geometry": {"coordinates":[-94.220178,36.175976],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219284681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.886525,34.038676,-92.886525,34.038676",
     "geom:latitude":34.038676,
     "geom:longitude":-92.886525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Dallas 307",
     "sg:city":"Arkadelphia",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":219284681,
-    "wof:lastmodified":1449072590,
+    "wof:lastmodified":1466321607,
     "wof:name":"Terrell, David Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hay"
     ]
 },
-  "bbox": [-92.886525,34.038676,-92.886525,34.038676],
-  "geometry": {"coordinates":[-92.886525,34.038676],"type":"Point"}
+  "bbox": [
+    -92.886525,
+    34.038676,
+    -92.886525,
+    34.038676
+],
+  "geometry": {"coordinates":[-92.88652500000001,34.038676],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219506143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.065307,34.764564,-92.065307,34.764564",
     "geom:latitude":34.764564,
     "geom:longitude":-92.065307,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11102 Highway 70 W",
     "sg:city":"Scott",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219506143,
-    "wof:lastmodified":1449070446,
+    "wof:lastmodified":1466323995,
     "wof:name":"Kayco Leasing Inc",
     "wof:parent_id":85811577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "store"
     ]
 },
-  "bbox": [-92.065307,34.764564,-92.065307,34.764564],
+  "bbox": [
+    -92.065307,
+    34.764564,
+    -92.065307,
+    34.764564
+],
   "geometry": {"coordinates":[-92.065307,34.764564],"type":"Point"}
 }

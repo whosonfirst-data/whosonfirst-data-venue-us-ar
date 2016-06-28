@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102322879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.157906,36.063629,-94.157906,36.063629",
     "geom:latitude":36.063629,
     "geom:longitude":-94.157906,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 N College Ave",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.garrisonfinancial.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885459,
+        85688549,
         85633793,
         85919609,
         102082007,
-        85688549
+        85885459
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102322879,
-    "wof:lastmodified":1449067741,
+    "wof:lastmodified":1466323564,
     "wof:name":"Garrison Management",
     "wof:parent_id":85885459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.157906,36.063629,-94.157906,36.063629],
+  "bbox": [
+    -94.157906,
+    36.063629,
+    -94.157906,
+    36.063629
+],
   "geometry": {"coordinates":[-94.157906,36.063629],"type":"Point"}
 }

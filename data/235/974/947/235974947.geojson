@@ -2,13 +2,14 @@
   "id": 235974947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.614774,35.241072,-94.614774,35.241072",
     "geom:latitude":35.241072,
     "geom:longitude":-94.614774,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"702 W Broadway St",
     "sg:city":"Spiro",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":235974947,
-    "wof:lastmodified":1449008559,
+    "wof:lastmodified":1466320466,
     "wof:name":"Spiro Family Medical Clinic",
     "wof:parent_id":85809847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "family"
     ]
 },
-  "bbox": [-94.614774,35.241072,-94.614774,35.241072],
+  "bbox": [
+    -94.614774,
+    35.241072,
+    -94.614774,
+    35.241072
+],
   "geometry": {"coordinates":[-94.614774,35.241072],"type":"Point"}
 }

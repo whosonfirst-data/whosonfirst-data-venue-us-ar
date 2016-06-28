@@ -2,13 +2,14 @@
   "id": 219387187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.424521,35.090455,-92.424521,35.090455",
     "geom:latitude":35.090455,
     "geom:longitude":-92.424521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"809 4th Ave",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":219387187,
-    "wof:lastmodified":1449073434,
+    "wof:lastmodified":1466322737,
     "wof:name":"Patricia Knott Md Pa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-92.424521,35.090455,-92.424521,35.090455],
+  "bbox": [
+    -92.424521,
+    35.090455,
+    -92.424521,
+    35.090455
+],
   "geometry": {"coordinates":[-92.424521,35.090455],"type":"Point"}
 }

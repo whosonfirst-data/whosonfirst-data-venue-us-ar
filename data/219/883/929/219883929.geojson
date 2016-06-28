@@ -2,13 +2,14 @@
   "id": 219883929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.164698,36.367654,-94.164698,36.367654",
     "geom:latitude":36.367654,
     "geom:longitude":-94.164698,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 SE Eaton",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219883929,
-    "wof:lastmodified":1449073099,
+    "wof:lastmodified":1466325164,
     "wof:name":"MClark Photos",
     "wof:parent_id":85895823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "videography"
     ]
 },
-  "bbox": [-94.164698,36.367654,-94.164698,36.367654],
+  "bbox": [
+    -94.164698,
+    36.367654,
+    -94.164698,
+    36.367654
+],
   "geometry": {"coordinates":[-94.164698,36.367654],"type":"Point"}
 }

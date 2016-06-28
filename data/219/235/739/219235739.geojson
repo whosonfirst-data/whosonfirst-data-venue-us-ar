@@ -2,13 +2,14 @@
   "id": 219235739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.016672,34.120293,-94.016672,34.120293",
     "geom:latitude":34.120293,
     "geom:longitude":-94.016672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 E 4th St",
     "sg:city":"Dierks",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":219235739,
-    "wof:lastmodified":1449071002,
+    "wof:lastmodified":1466321223,
     "wof:name":"Dierks United Methodist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "churches-methodist"
     ]
 },
-  "bbox": [-94.016672,34.120293,-94.016672,34.120293],
+  "bbox": [
+    -94.016672,
+    34.120293,
+    -94.016672,
+    34.120293
+],
   "geometry": {"coordinates":[-94.016672,34.120293],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219791253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.567726,36.365257,-93.567726,36.365257",
     "geom:latitude":36.365257,
     "geom:longitude":-93.567726,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 N Main St",
     "sg:city":"Berryville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219791253,
-    "wof:lastmodified":1449073117,
+    "wof:lastmodified":1466324946,
     "wof:name":"Harp Insurance Agency",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.567726,36.365257,-93.567726,36.365257],
-  "geometry": {"coordinates":[-93.567726,36.365257],"type":"Point"}
+  "bbox": [
+    -93.567726,
+    36.365257,
+    -93.567726,
+    36.365257
+],
+  "geometry": {"coordinates":[-93.56772599999999,36.365257],"type":"Point"}
 }

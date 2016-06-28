@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102254937",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.336577,34.743036,-92.336577,34.743036",
     "geom:latitude":34.743036,
     "geom:longitude":-92.336577,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5600 W 10th St",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85838647,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85838647
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":"102254937",
-    "wof:lastmodified":1449069455,
+    "wof:lastmodified":1466322074,
     "wof:name":"Arkansas Refrigeration Inc",
     "wof:parent_id":85838647,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.336577,34.743036,-92.336577,34.743036],
-  "geometry": {"coordinates":[-92.336577,34.743036],"type":"Point"}
+  "bbox": [
+    -92.336577,
+    34.743036,
+    -92.336577,
+    34.743036
+],
+  "geometry": {"coordinates":[-92.33657700000001,34.743036],"type":"Point"}
 }

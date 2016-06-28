@@ -2,13 +2,14 @@
   "id": 219785909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.546577,36.143674,-93.546577,36.143674",
     "geom:latitude":36.143674,
     "geom:longitude":-93.546577,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 County Road 729",
     "sg:city":"Berryville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219785909,
-    "wof:lastmodified":1449073318,
+    "wof:lastmodified":1466324939,
     "wof:name":"Custom War Paint",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-93.546577,36.143674,-93.546577,36.143674],
+  "bbox": [
+    -93.546577,
+    36.143674,
+    -93.546577,
+    36.143674
+],
   "geometry": {"coordinates":[-93.546577,36.143674],"type":"Point"}
 }

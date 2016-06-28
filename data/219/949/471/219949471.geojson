@@ -2,13 +2,14 @@
   "id": 219949471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.000589,36.386954,-94.000589,36.386954",
     "geom:latitude":36.386954,
     "geom:longitude":-94.000589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17225 Posy Mountain Rd",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219949471,
-    "wof:lastmodified":1449072585,
+    "wof:lastmodified":1466325239,
     "wof:name":"Morgan Millworks",
     "wof:parent_id":85895837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "millwork"
     ]
 },
-  "bbox": [-94.000589,36.386954,-94.000589,36.386954],
-  "geometry": {"coordinates":[-94.000589,36.386954],"type":"Point"}
+  "bbox": [
+    -94.000589,
+    36.386954,
+    -94.000589,
+    36.386954
+],
+  "geometry": {"coordinates":[-94.00058900000001,36.386954],"type":"Point"}
 }

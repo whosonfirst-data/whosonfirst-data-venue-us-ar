@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102352759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.445597,35.109321,-92.445597,35.109321",
     "geom:latitude":35.109321,
     "geom:longitude":-92.445597,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2301 Washington Ave",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":102352759,
-    "wof:lastmodified":1449069239,
+    "wof:lastmodified":1466324122,
     "wof:name":"C Hager Jewelers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.445597,35.109321,-92.445597,35.109321],
-  "geometry": {"coordinates":[-92.445597,35.109321],"type":"Point"}
+  "bbox": [
+    -92.445597,
+    35.109321,
+    -92.445597,
+    35.109321
+],
+  "geometry": {"coordinates":[-92.44559700000001,35.109321],"type":"Point"}
 }

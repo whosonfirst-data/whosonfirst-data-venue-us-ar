@@ -2,13 +2,14 @@
   "id": 219806933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.229288,36.374294,-93.229288,36.374294",
     "geom:latitude":36.374294,
     "geom:longitude":-93.229288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11445 Cedarwood Dr",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219806933,
-    "wof:lastmodified":1449070366,
+    "wof:lastmodified":1466324964,
     "wof:name":"Burlington Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "churches-baptist"
     ]
 },
-  "bbox": [-93.229288,36.374294,-93.229288,36.374294],
+  "bbox": [
+    -93.229288,
+    36.374294,
+    -93.229288,
+    36.374294
+],
   "geometry": {"coordinates":[-93.229288,36.374294],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102408693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.791295,35.015207,-90.791295,35.015207",
     "geom:latitude":35.015207,
     "geom:longitude":-90.791295,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"711 N Gorman St",
     "sg:city":"Forrest City",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":102408693,
-    "wof:lastmodified":1449068102,
+    "wof:lastmodified":1466325214,
     "wof:name":"Zachary Elderly Foundation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.791295,35.015207,-90.791295,35.015207],
-  "geometry": {"coordinates":[-90.791295,35.015207],"type":"Point"}
+  "bbox": [
+    -90.791295,
+    35.015207,
+    -90.791295,
+    35.015207
+],
+  "geometry": {"coordinates":[-90.79129500000001,35.015207],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220046515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.131414,36.180729,-94.131414,36.180729",
     "geom:latitude":36.180729,
     "geom:longitude":-94.131414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"529 Holcomb St",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":220046515,
-    "wof:lastmodified":1449074497,
+    "wof:lastmodified":1466320585,
     "wof:name":"Real Estate Online",
     "wof:parent_id":85885481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "broker"
     ]
 },
-  "bbox": [-94.131414,36.180729,-94.131414,36.180729],
-  "geometry": {"coordinates":[-94.131414,36.180729],"type":"Point"}
+  "bbox": [
+    -94.131414,
+    36.180729,
+    -94.131414,
+    36.180729
+],
+  "geometry": {"coordinates":[-94.13141400000001,36.180729],"type":"Point"}
 }

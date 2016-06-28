@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102279629",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.184131,34.874659,-92.184131,34.874659",
     "geom:latitude":34.874659,
     "geom:longitude":-92.184131,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Greenhaven Pl",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837729,
+        85688549,
         85633793,
         85921251,
         102082497,
-        85688549
+        85837729
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102279629",
-    "wof:lastmodified":1449068876,
+    "wof:lastmodified":1466322640,
     "wof:name":"Treasure Chest Gift Shop",
     "wof:parent_id":85837729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.184131,34.874659,-92.184131,34.874659],
-  "geometry": {"coordinates":[-92.184131,34.874659],"type":"Point"}
+  "bbox": [
+    -92.184131,
+    34.874659,
+    -92.184131,
+    34.874659
+],
+  "geometry": {"coordinates":[-92.18413099999999,34.874659],"type":"Point"}
 }

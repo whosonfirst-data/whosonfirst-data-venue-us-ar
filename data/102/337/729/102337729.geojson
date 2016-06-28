@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102337729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.794255,33.627967,-91.794255,33.627967",
     "geom:latitude":33.627967,
     "geom:longitude":-91.794255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 S Boyd St",
     "sg:city":"Monticello",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102337729,
-    "wof:lastmodified":1449068902,
+    "wof:lastmodified":1466323867,
     "wof:name":"Seed Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.794255,33.627967,-91.794255,33.627967],
-  "geometry": {"coordinates":[-91.794255,33.627967],"type":"Point"}
+  "bbox": [
+    -91.794255,
+    33.627967,
+    -91.794255,
+    33.627967
+],
+  "geometry": {"coordinates":[-91.79425500000001,33.627967],"type":"Point"}
 }

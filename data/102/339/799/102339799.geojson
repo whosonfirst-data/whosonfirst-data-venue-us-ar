@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102339799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.130558,34.866223,-92.130558,34.866223",
     "geom:latitude":34.866223,
     "geom:longitude":-92.130558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"140 Municipal Dr",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102339799,
-    "wof:lastmodified":1449068844,
+    "wof:lastmodified":1466323893,
     "wof:name":"Industrial Mill & Mntnc Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.130558,34.866223,-92.130558,34.866223],
-  "geometry": {"coordinates":[-92.130558,34.866223],"type":"Point"}
+  "bbox": [
+    -92.130558,
+    34.866223,
+    -92.130558,
+    34.866223
+],
+  "geometry": {"coordinates":[-92.13055799999999,34.866223],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219977189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.098407,36.344569,-94.098407,36.344569",
     "geom:latitude":36.344569,
     "geom:longitude":-94.098407,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1202 Timber Top Dr",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219977189,
-    "wof:lastmodified":1449074015,
+    "wof:lastmodified":1466325293,
     "wof:name":"John Whiteley Real Estate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "broker"
     ]
 },
-  "bbox": [-94.098407,36.344569,-94.098407,36.344569],
-  "geometry": {"coordinates":[-94.098407,36.344569],"type":"Point"}
+  "bbox": [
+    -94.098407,
+    36.344569,
+    -94.098407,
+    36.344569
+],
+  "geometry": {"coordinates":[-94.09840699999999,36.344569],"type":"Point"}
 }

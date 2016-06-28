@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102336197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.816584,36.362279,-91.816584,36.362279",
     "geom:latitude":36.362279,
     "geom:longitude":-91.816584,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"234 Hwy 62 E",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102336197,
-    "wof:lastmodified":1449067725,
+    "wof:lastmodified":1466323754,
     "wof:name":"Salem Fuel Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.816584,36.362279,-91.816584,36.362279],
-  "geometry": {"coordinates":[-91.816584,36.362279],"type":"Point"}
+  "bbox": [
+    -91.816584,
+    36.362279,
+    -91.816584,
+    36.362279
+],
+  "geometry": {"coordinates":[-91.81658400000001,36.362279],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219749237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.836361,36.37252,-91.836361,36.37252",
     "geom:latitude":36.37252,
     "geom:longitude":-91.836361,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"633 Highway 62 W",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":219749237,
-    "wof:lastmodified":1449071411,
+    "wof:lastmodified":1466324983,
     "wof:name":"Rusty's Oil & Lube",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-91.836361,36.37252,-91.836361,36.37252],
+  "bbox": [
+    -91.836361,
+    36.37252,
+    -91.836361,
+    36.37252
+],
   "geometry": {"coordinates":[-91.836361,36.37252],"type":"Point"}
 }

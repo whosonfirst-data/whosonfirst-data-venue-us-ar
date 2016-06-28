@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102415191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.451349,35.064876,-92.451349,35.064876",
     "geom:latitude":35.064876,
     "geom:longitude":-92.451349,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1985 Woodland Springs Dr",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102415191,
-    "wof:lastmodified":1449069537,
+    "wof:lastmodified":1466325289,
     "wof:name":"Paul Ford",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.451349,35.064876,-92.451349,35.064876],
-  "geometry": {"coordinates":[-92.451349,35.064876],"type":"Point"}
+  "bbox": [
+    -92.451349,
+    35.064876,
+    -92.451349,
+    35.064876
+],
+  "geometry": {"coordinates":[-92.45134899999999,35.064876],"type":"Point"}
 }

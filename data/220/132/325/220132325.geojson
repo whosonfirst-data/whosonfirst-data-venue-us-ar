@@ -2,13 +2,14 @@
   "id": 220132325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.045662,34.914845,-94.045662,34.914845",
     "geom:latitude":34.914845,
     "geom:longitude":-94.045662,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1724 New Brook Rd",
     "sg:city":"Waldron",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":220132325,
-    "wof:lastmodified":1449074415,
+    "wof:lastmodified":1466322860,
     "wof:name":"Sr Michael D Davis Sr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.045662,34.914845,-94.045662,34.914845],
-  "geometry": {"coordinates":[-94.045662,34.914845],"type":"Point"}
+  "bbox": [
+    -94.045662,
+    34.914845,
+    -94.045662,
+    34.914845
+],
+  "geometry": {"coordinates":[-94.04566199999999,34.914845],"type":"Point"}
 }

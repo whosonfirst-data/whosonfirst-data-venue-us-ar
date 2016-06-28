@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102217013",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.049535,34.214729,-92.049535,34.214729",
     "geom:latitude":34.214729,
     "geom:longitude":-92.049535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4411 W 15th Ave",
     "sg:city":"Pine Bluff",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102217013",
-    "wof:lastmodified":1449070046,
+    "wof:lastmodified":1466321000,
     "wof:name":"Ds Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.049535,34.214729,-92.049535,34.214729],
-  "geometry": {"coordinates":[-92.049535,34.214729],"type":"Point"}
+  "bbox": [
+    -92.049535,
+    34.214729,
+    -92.049535,
+    34.214729
+],
+  "geometry": {"coordinates":[-92.04953500000001,34.214729],"type":"Point"}
 }

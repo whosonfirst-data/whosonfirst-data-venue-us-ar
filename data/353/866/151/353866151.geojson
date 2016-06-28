@@ -2,13 +2,14 @@
   "id": 353866151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.519154,36.180052,-94.519154,36.180052",
     "geom:latitude":36.180052,
     "geom:longitude":-94.519154,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1995 Hwy 412 E",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353866151,
-    "wof:lastmodified":1449019474,
+    "wof:lastmodified":1466320531,
     "wof:name":"Extreme Styles",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.519154,36.180052,-94.519154,36.180052],
+  "bbox": [
+    -94.519154,
+    36.180052,
+    -94.519154,
+    36.180052
+],
   "geometry": {"coordinates":[-94.519154,36.180052],"type":"Point"}
 }

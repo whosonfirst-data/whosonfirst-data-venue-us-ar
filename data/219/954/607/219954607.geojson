@@ -2,13 +2,14 @@
   "id": 219954607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.152358,36.342244,-94.152358,36.342244",
     "geom:latitude":36.342244,
     "geom:longitude":-94.152358,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"806 N 24th St",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219954607,
-    "wof:lastmodified":1449073458,
+    "wof:lastmodified":1466325198,
     "wof:name":"Little India",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "indian"
     ]
 },
-  "bbox": [-94.152358,36.342244,-94.152358,36.342244],
-  "geometry": {"coordinates":[-94.152358,36.342244],"type":"Point"}
+  "bbox": [
+    -94.152358,
+    36.342244,
+    -94.152358,
+    36.342244
+],
+  "geometry": {"coordinates":[-94.15235800000001,36.342244],"type":"Point"}
 }

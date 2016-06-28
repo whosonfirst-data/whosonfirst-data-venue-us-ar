@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102395053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.168856,35.870169,-92.168856,35.870169",
     "geom:latitude":35.870169,
     "geom:longitude":-92.168856,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17068 Hwy 66",
     "sg:city":"Mountain View",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102395053,
-    "wof:lastmodified":1449069818,
+    "wof:lastmodified":1466324659,
     "wof:name":"St Mary's Catholic Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.168856,35.870169,-92.168856,35.870169],
-  "geometry": {"coordinates":[-92.168856,35.870169],"type":"Point"}
+  "bbox": [
+    -92.168856,
+    35.870169,
+    -92.168856,
+    35.870169
+],
+  "geometry": {"coordinates":[-92.16885600000001,35.870169],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102308151",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.351694,34.680176,-92.351694,34.680176",
     "geom:latitude":34.680176,
     "geom:longitude":-92.351694,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6701 Young Rd",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102308151",
-    "wof:lastmodified":1449070270,
+    "wof:lastmodified":1466323153,
     "wof:name":"Nex Air",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.351694,34.680176,-92.351694,34.680176],
-  "geometry": {"coordinates":[-92.351694,34.680176],"type":"Point"}
+  "bbox": [
+    -92.351694,
+    34.680176,
+    -92.351694,
+    34.680176
+],
+  "geometry": {"coordinates":[-92.35169399999999,34.680176],"type":"Point"}
 }

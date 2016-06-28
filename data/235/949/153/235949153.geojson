@@ -2,13 +2,14 @@
   "id": 235949153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.770934,36.593426,-94.770934,36.593426",
     "geom:latitude":36.593426,
     "geom:longitude":-94.770934,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 W 3rd St",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":235949153,
-    "wof:lastmodified":1449008462,
+    "wof:lastmodified":1466320431,
     "wof:name":"Grove Beauty Supply",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "supply"
     ]
 },
-  "bbox": [-94.770934,36.593426,-94.770934,36.593426],
+  "bbox": [
+    -94.770934,
+    36.593426,
+    -94.770934,
+    36.593426
+],
   "geometry": {"coordinates":[-94.770934,36.593426],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220112931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.279938,35.221866,-94.279938,35.221866",
     "geom:latitude":35.221866,
     "geom:longitude":-94.279938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1485 E Center St",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":220112931,
-    "wof:lastmodified":1449074390,
+    "wof:lastmodified":1466322463,
     "wof:name":"Forest Oaks Apartments",
     "wof:parent_id":85808359,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "listing"
     ]
 },
-  "bbox": [-94.279938,35.221866,-94.279938,35.221866],
+  "bbox": [
+    -94.279938,
+    35.221866,
+    -94.279938,
+    35.221866
+],
   "geometry": {"coordinates":[-94.279938,35.221866],"type":"Point"}
 }

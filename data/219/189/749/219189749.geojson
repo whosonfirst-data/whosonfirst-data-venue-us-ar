@@ -2,13 +2,14 @@
   "id": 219189749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.903591,33.540318,-92.903591,33.540318",
     "geom:latitude":33.540318,
     "geom:longitude":-92.903591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2569 Highway 79 S",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":219189749,
-    "wof:lastmodified":1449072894,
+    "wof:lastmodified":1466320734,
     "wof:name":"Jay's Country Store",
     "wof:parent_id":85813169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-92.903591,33.540318,-92.903591,33.540318],
-  "geometry": {"coordinates":[-92.903591,33.540318],"type":"Point"}
+  "bbox": [
+    -92.903591,
+    33.540318,
+    -92.903591,
+    33.540318
+],
+  "geometry": {"coordinates":[-92.90359100000001,33.540318],"type":"Point"}
 }

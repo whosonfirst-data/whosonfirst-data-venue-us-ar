@@ -2,13 +2,14 @@
   "id": 219183375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.064382,33.602528,-92.064382,33.602528",
     "geom:latitude":33.602528,
     "geom:longitude":-92.064382,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1006 Brown St",
     "sg:city":"Warren",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219183375,
-    "wof:lastmodified":1449072273,
+    "wof:lastmodified":1466320660,
     "wof:name":"Sandra Brown",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "psychologist"
     ]
 },
-  "bbox": [-92.064382,33.602528,-92.064382,33.602528],
-  "geometry": {"coordinates":[-92.064382,33.602528],"type":"Point"}
+  "bbox": [
+    -92.064382,
+    33.602528,
+    -92.064382,
+    33.602528
+],
+  "geometry": {"coordinates":[-92.06438199999999,33.602528],"type":"Point"}
 }

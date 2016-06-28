@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102335763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.088045,34.866864,-92.088045,34.866864",
     "geom:latitude":34.866864,
     "geom:longitude":-92.088045,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2101 Graham Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102335763,
-    "wof:lastmodified":1449069370,
+    "wof:lastmodified":1466323816,
     "wof:name":"A Class Limosenes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.088045,34.866864,-92.088045,34.866864],
-  "geometry": {"coordinates":[-92.088045,34.866864],"type":"Point"}
+  "bbox": [
+    -92.088045,
+    34.866864,
+    -92.088045,
+    34.866864
+],
+  "geometry": {"coordinates":[-92.08804499999999,34.866864],"type":"Point"}
 }

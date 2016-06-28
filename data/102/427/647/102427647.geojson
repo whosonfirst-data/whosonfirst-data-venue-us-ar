@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102427647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.19083,34.707079,-92.19083,34.707079",
     "geom:latitude":34.707079,
     "geom:longitude":-92.19083,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8100 Frazier Pike",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102427647,
-    "wof:lastmodified":1449068503,
+    "wof:lastmodified":1466325506,
     "wof:name":"O'Neal Steel Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.19083,34.707079,-92.19083,34.707079],
-  "geometry": {"coordinates":[-92.19083,34.707079],"type":"Point"}
+  "bbox": [
+    -92.19083,
+    34.707079,
+    -92.19083,
+    34.707079
+],
+  "geometry": {"coordinates":[-92.19083000000001,34.707079],"type":"Point"}
 }

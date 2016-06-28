@@ -2,13 +2,14 @@
   "id": 220025793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.162996,36.18926,-94.162996,36.18926",
     "geom:latitude":36.18926,
     "geom:longitude":-94.162996,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2964 W Huntsville Ave Ste H",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":220025793,
-    "wof:lastmodified":1449074732,
+    "wof:lastmodified":1466320506,
     "wof:name":"Mdr Global Logistics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "shipping"
     ]
 },
-  "bbox": [-94.162996,36.18926,-94.162996,36.18926],
-  "geometry": {"coordinates":[-94.162996,36.18926],"type":"Point"}
+  "bbox": [
+    -94.162996,
+    36.18926,
+    -94.162996,
+    36.18926
+],
+  "geometry": {"coordinates":[-94.16299600000001,36.18926],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 319823113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.768065,36.593461,-94.768065,36.593461",
     "geom:latitude":36.593461,
     "geom:longitude":-94.768065,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 E 3rd St",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":319823113,
-    "wof:lastmodified":1449024876,
+    "wof:lastmodified":1466324500,
     "wof:name":"Soltow Business Supplies",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-94.768065,36.593461,-94.768065,36.593461],
-  "geometry": {"coordinates":[-94.768065,36.593461],"type":"Point"}
+  "bbox": [
+    -94.768065,
+    36.593461,
+    -94.768065,
+    36.593461
+],
+  "geometry": {"coordinates":[-94.76806500000001,36.593461],"type":"Point"}
 }

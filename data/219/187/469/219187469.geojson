@@ -2,13 +2,14 @@
   "id": 219187469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.94887,33.447227,-91.94887,33.447227",
     "geom:latitude":33.447227,
     "geom:longitude":-91.94887,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"324 Longview Rd",
     "sg:city":"Wilmar",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219187469,
-    "wof:lastmodified":1449070915,
+    "wof:lastmodified":1466320694,
     "wof:name":"Double J Logging Of Wilmar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "logging"
     ]
 },
-  "bbox": [-91.94887,33.447227,-91.94887,33.447227],
+  "bbox": [
+    -91.94887,
+    33.447227,
+    -91.94887,
+    33.447227
+],
   "geometry": {"coordinates":[-91.94887,33.447227],"type":"Point"}
 }

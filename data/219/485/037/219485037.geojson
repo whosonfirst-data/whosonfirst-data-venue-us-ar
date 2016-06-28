@@ -2,13 +2,14 @@
   "id": 219485037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.407107,34.837001,-92.407107,34.837001",
     "geom:latitude":34.837001,
     "geom:longitude":-92.407107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Powder Cv",
     "sg:city":"Maumelle",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":219485037,
-    "wof:lastmodified":1449072547,
+    "wof:lastmodified":1466323747,
     "wof:name":"Northwest Congregation Of",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "witness"
     ]
 },
-  "bbox": [-92.407107,34.837001,-92.407107,34.837001],
+  "bbox": [
+    -92.407107,
+    34.837001,
+    -92.407107,
+    34.837001
+],
   "geometry": {"coordinates":[-92.407107,34.837001],"type":"Point"}
 }

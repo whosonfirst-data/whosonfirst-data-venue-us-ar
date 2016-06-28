@@ -2,13 +2,14 @@
   "id": 320190115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.520005,36.226016,-94.520005,36.226016",
     "geom:latitude":36.226016,
     "geom:longitude":-94.520005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13980 Turnberry Ln",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":320190115,
-    "wof:lastmodified":1449014718,
+    "wof:lastmodified":1466320471,
     "wof:name":"Dawn Hill Golf & Racquet Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "golf"
     ]
 },
-  "bbox": [-94.520005,36.226016,-94.520005,36.226016],
+  "bbox": [
+    -94.520005,
+    36.226016,
+    -94.520005,
+    36.226016
+],
   "geometry": {"coordinates":[-94.520005,36.226016],"type":"Point"}
 }

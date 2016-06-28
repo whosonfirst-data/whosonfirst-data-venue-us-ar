@@ -2,13 +2,14 @@
   "id": 219738599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.196807,36.32532,-92.196807,36.32532",
     "geom:latitude":36.32532,
     "geom:longitude":-92.196807,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4012 Hand Cove Rd",
     "sg:city":"Elizabeth",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219738599,
-    "wof:lastmodified":1449072989,
+    "wof:lastmodified":1466324900,
     "wof:name":"Holiday Hills Grocery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.196807,36.32532,-92.196807,36.32532],
-  "geometry": {"coordinates":[-92.196807,36.32532],"type":"Point"}
+  "bbox": [
+    -92.196807,
+    36.32532,
+    -92.196807,
+    36.32532
+],
+  "geometry": {"coordinates":[-92.19680700000001,36.32532],"type":"Point"}
 }

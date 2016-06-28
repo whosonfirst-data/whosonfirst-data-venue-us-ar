@@ -2,13 +2,14 @@
   "id": 219719793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.698826,36.463931,-90.698826,36.463931",
     "geom:latitude":36.463931,
     "geom:longitude":-90.698826,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"278 County Road 178",
     "sg:city":"Success",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219719793,
-    "wof:lastmodified":1449070851,
+    "wof:lastmodified":1466324884,
     "wof:name":"Todd Smith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.698826,36.463931,-90.698826,36.463931],
+  "bbox": [
+    -90.698826,
+    36.463931,
+    -90.698826,
+    36.463931
+],
   "geometry": {"coordinates":[-90.698826,36.463931],"type":"Point"}
 }

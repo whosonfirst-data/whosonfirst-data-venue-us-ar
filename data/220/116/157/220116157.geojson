@@ -2,13 +2,14 @@
   "id": 220116157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.179164,35.322596,-94.179164,35.322596",
     "geom:latitude":35.322596,
     "geom:longitude":-94.179164,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 Nixon Rd",
     "sg:city":"Lavaca",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220116157,
-    "wof:lastmodified":1449074148,
+    "wof:lastmodified":1466322513,
     "wof:name":"Cunningham Farm And Tile",
     "wof:parent_id":85832863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tile-contractors"
     ]
 },
-  "bbox": [-94.179164,35.322596,-94.179164,35.322596],
+  "bbox": [
+    -94.179164,
+    35.322596,
+    -94.179164,
+    35.322596
+],
   "geometry": {"coordinates":[-94.179164,35.322596],"type":"Point"}
 }

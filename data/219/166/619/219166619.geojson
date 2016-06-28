@@ -2,13 +2,14 @@
   "id": 219166619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.803328,33.637859,-91.803328,33.637859",
     "geom:latitude":33.637859,
     "geom:longitude":-91.803328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"146 Dearman Dr",
     "sg:city":"Monticello",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":219166619,
-    "wof:lastmodified":1449072344,
+    "wof:lastmodified":1466320522,
     "wof:name":"Holiday Inn Express Monticello",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "hall"
     ]
 },
-  "bbox": [-91.803328,33.637859,-91.803328,33.637859],
-  "geometry": {"coordinates":[-91.803328,33.637859],"type":"Point"}
+  "bbox": [
+    -91.803328,
+    33.637859,
+    -91.803328,
+    33.637859
+],
+  "geometry": {"coordinates":[-91.80332799999999,33.637859],"type":"Point"}
 }

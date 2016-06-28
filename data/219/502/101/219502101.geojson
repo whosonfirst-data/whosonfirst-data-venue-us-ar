@@ -2,13 +2,14 @@
   "id": 219502101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.209288,35.385186,-92.209288,35.385186",
     "geom:latitude":35.385186,
     "geom:longitude":-92.209288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6189 Heber Springs Rd W",
     "sg:city":"Quitman",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219502101,
-    "wof:lastmodified":1449072014,
+    "wof:lastmodified":1466323960,
     "wof:name":"Leona C Kemper Dds Pa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.209288,35.385186,-92.209288,35.385186],
+  "bbox": [
+    -92.209288,
+    35.385186,
+    -92.209288,
+    35.385186
+],
   "geometry": {"coordinates":[-92.209288,35.385186],"type":"Point"}
 }

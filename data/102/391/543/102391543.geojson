@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102391543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.263477,33.268847,-93.263477,33.268847",
     "geom:latitude":33.268847,
     "geom:longitude":-93.263477,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"219 Hwy 371 S",
     "sg:city":"Magnolia",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102391543,
-    "wof:lastmodified":1449069306,
+    "wof:lastmodified":1466324448,
     "wof:name":"Charles F Jones Asphalt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.263477,33.268847,-93.263477,33.268847],
-  "geometry": {"coordinates":[-93.263477,33.268847],"type":"Point"}
+  "bbox": [
+    -93.263477,
+    33.268847,
+    -93.263477,
+    33.268847
+],
+  "geometry": {"coordinates":[-93.26347699999999,33.268847],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320382145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.403698,34.562838,-94.403698,34.562838",
     "geom:latitude":34.562838,
     "geom:longitude":-94.403698,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"377 Polk Road 88",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":320382145,
-    "wof:lastmodified":1449012252,
+    "wof:lastmodified":1466320532,
     "wof:name":"Queen Wilhelmina State Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "park"
     ]
 },
-  "bbox": [-94.403698,34.562838,-94.403698,34.562838],
-  "geometry": {"coordinates":[-94.403698,34.562838],"type":"Point"}
+  "bbox": [
+    -94.403698,
+    34.562838,
+    -94.403698,
+    34.562838
+],
+  "geometry": {"coordinates":[-94.40369800000001,34.562838],"type":"Point"}
 }

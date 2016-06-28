@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102314603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.089499,34.467106,-93.089499,34.467106",
     "geom:latitude":34.467106,
     "geom:longitude":-93.089499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 Bolivar St",
     "sg:city":"Hot Springs National Park",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102314603,
-    "wof:lastmodified":1449070111,
+    "wof:lastmodified":1466323371,
     "wof:name":"International Reading Assn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.089499,34.467106,-93.089499,34.467106],
+  "bbox": [
+    -93.089499,
+    34.467106,
+    -93.089499,
+    34.467106
+],
   "geometry": {"coordinates":[-93.089499,34.467106],"type":"Point"}
 }

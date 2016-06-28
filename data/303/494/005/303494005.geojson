@@ -2,13 +2,14 @@
   "id": 303494005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.621092,35.240944,-94.621092,35.240944",
     "geom:latitude":35.240944,
     "geom:longitude":-94.621092,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 S Main St",
     "sg:city":"Spiro",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303494005,
-    "wof:lastmodified":1449000300,
+    "wof:lastmodified":1466320496,
     "wof:name":"Kim's Tax & Bookkeeping Svc",
     "wof:parent_id":85809847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "filing"
     ]
 },
-  "bbox": [-94.621092,35.240944,-94.621092,35.240944],
+  "bbox": [
+    -94.621092,
+    35.240944,
+    -94.621092,
+    35.240944
+],
   "geometry": {"coordinates":[-94.621092,35.240944],"type":"Point"}
 }

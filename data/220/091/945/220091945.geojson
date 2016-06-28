@@ -2,13 +2,14 @@
   "id": 220091945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.891495,35.250882,-93.891495,35.250882",
     "geom:latitude":35.250882,
     "geom:longitude":-93.891495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"471 Bee Mountain Rd",
     "sg:city":"Paris",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":220091945,
-    "wof:lastmodified":1449074107,
+    "wof:lastmodified":1466321953,
     "wof:name":"Environmental Proffesiona",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "academic"
     ]
 },
-  "bbox": [-93.891495,35.250882,-93.891495,35.250882],
-  "geometry": {"coordinates":[-93.891495,35.250882],"type":"Point"}
+  "bbox": [
+    -93.891495,
+    35.250882,
+    -93.891495,
+    35.250882
+],
+  "geometry": {"coordinates":[-93.89149500000001,35.250882],"type":"Point"}
 }

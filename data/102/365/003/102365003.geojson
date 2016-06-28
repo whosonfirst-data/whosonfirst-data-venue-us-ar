@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102365003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.443796,35.959501,-94.443796,35.959501",
     "geom:latitude":35.959501,
     "geom:longitude":-94.443796,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20248 US Hwy 62 Scn",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":102365003,
-    "wof:lastmodified":1449068187,
+    "wof:lastmodified":1466324520,
     "wof:name":"J RS Diecast Car Collectables",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.443796,35.959501,-94.443796,35.959501],
-  "geometry": {"coordinates":[-94.443796,35.959501],"type":"Point"}
+  "bbox": [
+    -94.443796,
+    35.959501,
+    -94.443796,
+    35.959501
+],
+  "geometry": {"coordinates":[-94.44379600000001,35.959501],"type":"Point"}
 }

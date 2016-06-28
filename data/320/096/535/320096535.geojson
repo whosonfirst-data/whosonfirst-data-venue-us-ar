@@ -2,13 +2,14 @@
   "id": 320096535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.53474,36.192249,-94.53474,36.192249",
     "geom:latitude":36.192249,
     "geom:longitude":-94.53474,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1050 N Britt St",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320096535,
-    "wof:lastmodified":1449012481,
+    "wof:lastmodified":1466320437,
     "wof:name":"Remington Park Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-94.53474,36.192249,-94.53474,36.192249],
+  "bbox": [
+    -94.53474,
+    36.192249,
+    -94.53474,
+    36.192249
+],
   "geometry": {"coordinates":[-94.53474,36.192249],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219545251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.393388,34.342529,-92.393388,34.342529",
     "geom:latitude":34.342529,
     "geom:longitude":-92.393388,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3260 Highway 167 N",
     "sg:city":"Sheridan",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":219545251,
-    "wof:lastmodified":1449071244,
+    "wof:lastmodified":1466324293,
     "wof:name":"Action Mobile Home Moving & Set Up",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "transporting"
     ]
 },
-  "bbox": [-92.393388,34.342529,-92.393388,34.342529],
+  "bbox": [
+    -92.393388,
+    34.342529,
+    -92.393388,
+    34.342529
+],
   "geometry": {"coordinates":[-92.393388,34.342529],"type":"Point"}
 }

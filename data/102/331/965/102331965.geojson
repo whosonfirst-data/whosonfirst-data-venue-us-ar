@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102331965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.336162,34.770192,-92.336162,34.770192",
     "geom:latitude":34.770192,
     "geom:longitude":-92.336162,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5601 Kavanaugh Blvd",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878751,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85878751
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102331965,
-    "wof:lastmodified":1449069211,
+    "wof:lastmodified":1466323750,
     "wof:name":"One National Bank",
     "wof:parent_id":85878751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.336162,34.770192,-92.336162,34.770192],
+  "bbox": [
+    -92.336162,
+    34.770192,
+    -92.336162,
+    34.770192
+],
   "geometry": {"coordinates":[-92.336162,34.770192],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219349427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.526703,34.618111,-92.526703,34.618111",
     "geom:latitude":34.618111,
     "geom:longitude":-92.526703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5916 Worth Ave E",
     "sg:city":"Benton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219349427,
-    "wof:lastmodified":1449071722,
+    "wof:lastmodified":1466322258,
     "wof:name":"Arkansas Auto Cosmetics",
     "wof:parent_id":85817531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-92.526703,34.618111,-92.526703,34.618111],
+  "bbox": [
+    -92.526703,
+    34.618111,
+    -92.526703,
+    34.618111
+],
   "geometry": {"coordinates":[-92.526703,34.618111],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219381945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.402021,35.125129,-92.402021,35.125129",
     "geom:latitude":35.125129,
     "geom:longitude":-92.402021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Gapview Rd",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219381945,
-    "wof:lastmodified":1449070675,
+    "wof:lastmodified":1466322691,
     "wof:name":"Pickle Barrel Fudge Factory",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "confectionery"
     ]
 },
-  "bbox": [-92.402021,35.125129,-92.402021,35.125129],
+  "bbox": [
+    -92.402021,
+    35.125129,
+    -92.402021,
+    35.125129
+],
   "geometry": {"coordinates":[-92.402021,35.125129],"type":"Point"}
 }

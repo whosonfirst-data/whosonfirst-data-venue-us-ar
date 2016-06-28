@@ -2,13 +2,14 @@
   "id": 219163389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.785861,33.62869,-91.785861,33.62869",
     "geom:latitude":33.62869,
     "geom:longitude":-91.785861,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"412 E Gaines St",
     "sg:city":"Monticello",
     "sg:classifiers":[
@@ -67,10 +68,11 @@
         }
     ],
     "wof:id":219163389,
-    "wof:lastmodified":1449073836,
+    "wof:lastmodified":1466320497,
     "wof:name":"Saw Jackson Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "saws-sharpen"
     ]
 },
-  "bbox": [-91.785861,33.62869,-91.785861,33.62869],
+  "bbox": [
+    -91.785861,
+    33.62869,
+    -91.785861,
+    33.62869
+],
   "geometry": {"coordinates":[-91.785861,33.62869],"type":"Point"}
 }

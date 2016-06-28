@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102389393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.407176,34.783502,-92.407176,34.783502",
     "geom:latitude":34.783502,
     "geom:longitude":-92.407176,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"36 Inverness Cir",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858725,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85858725
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102389393,
-    "wof:lastmodified":1449069689,
+    "wof:lastmodified":1466324021,
     "wof:name":"Licon Services",
     "wof:parent_id":85858725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.407176,34.783502,-92.407176,34.783502],
-  "geometry": {"coordinates":[-92.407176,34.783502],"type":"Point"}
+  "bbox": [
+    -92.407176,
+    34.783502,
+    -92.407176,
+    34.783502
+],
+  "geometry": {"coordinates":[-92.40717600000001,34.783502],"type":"Point"}
 }

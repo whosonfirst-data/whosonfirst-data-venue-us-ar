@@ -2,13 +2,14 @@
   "id": 219713135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.971238,36.261566,-90.971238,36.261566",
     "geom:latitude":36.261566,
     "geom:longitude":-90.971238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 N Van Bibber St",
     "sg:city":"Pocahontas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219713135,
-    "wof:lastmodified":1449073588,
+    "wof:lastmodified":1466324871,
     "wof:name":"Star Herald Publishing Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "book"
     ]
 },
-  "bbox": [-90.971238,36.261566,-90.971238,36.261566],
+  "bbox": [
+    -90.971238,
+    36.261566,
+    -90.971238,
+    36.261566
+],
   "geometry": {"coordinates":[-90.971238,36.261566],"type":"Point"}
 }

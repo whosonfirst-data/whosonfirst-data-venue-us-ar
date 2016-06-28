@@ -2,13 +2,14 @@
   "id": 219287809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.054909,34.120313,-93.054909,34.120313",
     "geom:latitude":34.120313,
     "geom:longitude":-93.054909,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"716 Clinton St",
     "sg:city":"Arkadelphia",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219287809,
-    "wof:lastmodified":1449070597,
+    "wof:lastmodified":1466321633,
     "wof:name":"Better Bedding Bureau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-93.054909,34.120313,-93.054909,34.120313],
-  "geometry": {"coordinates":[-93.054909,34.120313],"type":"Point"}
+  "bbox": [
+    -93.054909,
+    34.120313,
+    -93.054909,
+    34.120313
+],
+  "geometry": {"coordinates":[-93.05490899999999,34.120313],"type":"Point"}
 }

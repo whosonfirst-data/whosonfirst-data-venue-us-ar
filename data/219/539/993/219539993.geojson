@@ -2,13 +2,14 @@
   "id": 219539993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.399143,34.30476,-92.399143,34.30476",
     "geom:latitude":34.30476,
     "geom:longitude":-92.399143,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 S Rock St Ste C",
     "sg:city":"Sheridan",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219539993,
-    "wof:lastmodified":1449074001,
+    "wof:lastmodified":1466324257,
     "wof:name":"Rea Graves Dds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.399143,34.30476,-92.399143,34.30476],
+  "bbox": [
+    -92.399143,
+    34.30476,
+    -92.399143,
+    34.30476
+],
   "geometry": {"coordinates":[-92.399143,34.30476],"type":"Point"}
 }

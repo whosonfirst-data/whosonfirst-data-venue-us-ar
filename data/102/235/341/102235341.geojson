@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102235341",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.120426,36.26206,-93.120426,36.26206",
     "geom:latitude":36.26206,
     "geom:longitude":-93.120426,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 W Watts St",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102235341",
-    "wof:lastmodified":1449068227,
+    "wof:lastmodified":1466321510,
     "wof:name":"Ron Stewart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.120426,36.26206,-93.120426,36.26206],
-  "geometry": {"coordinates":[-93.120426,36.26206],"type":"Point"}
+  "bbox": [
+    -93.120426,
+    36.26206,
+    -93.120426,
+    36.26206
+],
+  "geometry": {"coordinates":[-93.12042599999999,36.26206],"type":"Point"}
 }

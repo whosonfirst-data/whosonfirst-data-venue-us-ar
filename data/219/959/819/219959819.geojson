@@ -2,13 +2,14 @@
   "id": 219959819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.161729,36.334288,-94.161729,36.334288",
     "geom:latitude":36.334288,
     "geom:longitude":-94.161729,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2810 W Walnut St",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219959819,
-    "wof:lastmodified":1449073565,
+    "wof:lastmodified":1466325257,
     "wof:name":"Replay Entertainment Exchange",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "video"
     ]
 },
-  "bbox": [-94.161729,36.334288,-94.161729,36.334288],
-  "geometry": {"coordinates":[-94.161729,36.334288],"type":"Point"}
+  "bbox": [
+    -94.161729,
+    36.334288,
+    -94.161729,
+    36.334288
+],
+  "geometry": {"coordinates":[-94.16172899999999,36.334288],"type":"Point"}
 }

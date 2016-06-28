@@ -2,13 +2,14 @@
   "id": 303789727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.543358,36.195077,-94.543358,36.195077",
     "geom:latitude":36.195077,
     "geom:longitude":-94.543358,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"407 Glenwood Pl",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303789727,
-    "wof:lastmodified":1448999221,
+    "wof:lastmodified":1466320598,
     "wof:name":"Welding & Woodworks Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-94.543358,36.195077,-94.543358,36.195077],
+  "bbox": [
+    -94.543358,
+    36.195077,
+    -94.543358,
+    36.195077
+],
   "geometry": {"coordinates":[-94.543358,36.195077],"type":"Point"}
 }

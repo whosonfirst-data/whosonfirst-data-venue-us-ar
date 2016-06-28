@@ -2,13 +2,14 @@
   "id": 219535863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.704432,35.251262,-91.704432,35.251262",
     "geom:latitude":35.251262,
     "geom:longitude":-91.704432,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"603 Marion St",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219535863,
-    "wof:lastmodified":1449071034,
+    "wof:lastmodified":1466324226,
     "wof:name":"In Any Event",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "store"
     ]
 },
-  "bbox": [-91.704432,35.251262,-91.704432,35.251262],
+  "bbox": [
+    -91.704432,
+    35.251262,
+    -91.704432,
+    35.251262
+],
   "geometry": {"coordinates":[-91.704432,35.251262],"type":"Point"}
 }

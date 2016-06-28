@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102316541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.387065,33.800086,-93.387065,33.800086",
     "geom:latitude":33.800086,
     "geom:longitude":-93.387065,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"615 W 3rd St S",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102316541,
-    "wof:lastmodified":1449069423,
+    "wof:lastmodified":1466323415,
     "wof:name":"Hawthorne Apts Ofc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.387065,33.800086,-93.387065,33.800086],
-  "geometry": {"coordinates":[-93.387065,33.800086],"type":"Point"}
+  "bbox": [
+    -93.387065,
+    33.800086,
+    -93.387065,
+    33.800086
+],
+  "geometry": {"coordinates":[-93.38706500000001,33.800086],"type":"Point"}
 }

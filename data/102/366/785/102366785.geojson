@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102366785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.2114,36.361181,-94.2114,36.361181",
     "geom:latitude":36.361181,
     "geom:longitude":-94.2114,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 SW 11th St",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895807,
+        85688549,
         85633793,
         85921509,
         102083255,
-        85688549
+        85895807
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102366785,
-    "wof:lastmodified":1449069560,
+    "wof:lastmodified":1466324472,
     "wof:name":"Treasure Chest On Square",
     "wof:parent_id":85895807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.2114,36.361181,-94.2114,36.361181],
+  "bbox": [
+    -94.2114,
+    36.361181,
+    -94.2114,
+    36.361181
+],
   "geometry": {"coordinates":[-94.2114,36.361181],"type":"Point"}
 }

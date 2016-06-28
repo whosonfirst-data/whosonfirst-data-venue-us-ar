@@ -2,13 +2,14 @@
   "id": 219422335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.388245,35.224106,-92.388245,35.224106",
     "geom:latitude":35.224106,
     "geom:longitude":-92.388245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"57 S Broadview St Ste 102",
     "sg:city":"Greenbrier",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":219422335,
-    "wof:lastmodified":1449070633,
+    "wof:lastmodified":1466323039,
     "wof:name":"H&R Block",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "bookkeeping"
     ]
 },
-  "bbox": [-92.388245,35.224106,-92.388245,35.224106],
+  "bbox": [
+    -92.388245,
+    35.224106,
+    -92.388245,
+    35.224106
+],
   "geometry": {"coordinates":[-92.388245,35.224106],"type":"Point"}
 }

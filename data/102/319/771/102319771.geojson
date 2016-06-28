@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102319771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.030245,33.420052,-94.030245,33.420052",
     "geom:latitude":33.420052,
     "geom:longitude":-94.030245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1217 Dudley St",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102319771,
-    "wof:lastmodified":1449068756,
+    "wof:lastmodified":1466323487,
     "wof:name":"Brads Transmission",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.030245,33.420052,-94.030245,33.420052],
-  "geometry": {"coordinates":[-94.030245,33.420052],"type":"Point"}
+  "bbox": [
+    -94.030245,
+    33.420052,
+    -94.030245,
+    33.420052
+],
+  "geometry": {"coordinates":[-94.03024499999999,33.420052],"type":"Point"}
 }

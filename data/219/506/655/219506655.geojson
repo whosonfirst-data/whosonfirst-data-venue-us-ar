@@ -2,13 +2,14 @@
   "id": 219506655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.574079,35.505334,-92.574079,35.505334",
     "geom:latitude":35.505334,
     "geom:longitude":-92.574079,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2968 Scotland Formosa Rd",
     "sg:city":"Scotland",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219506655,
-    "wof:lastmodified":1449070445,
+    "wof:lastmodified":1466324002,
     "wof:name":"Donnie Morris Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.574079,35.505334,-92.574079,35.505334],
+  "bbox": [
+    -92.574079,
+    35.505334,
+    -92.574079,
+    35.505334
+],
   "geometry": {"coordinates":[-92.574079,35.505334],"type":"Point"}
 }

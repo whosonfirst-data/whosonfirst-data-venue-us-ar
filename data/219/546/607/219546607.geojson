@@ -2,13 +2,14 @@
   "id": 219546607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.997407,34.295128,-91.997407,34.295128",
     "geom:latitude":34.295128,
     "geom:longitude":-91.997407,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9010 Trulock Bay Rd",
     "sg:city":"Sherrill",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219546607,
-    "wof:lastmodified":1449070371,
+    "wof:lastmodified":1466324304,
     "wof:name":"Malexco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.997407,34.295128,-91.997407,34.295128],
+  "bbox": [
+    -91.997407,
+    34.295128,
+    -91.997407,
+    34.295128
+],
   "geometry": {"coordinates":[-91.997407,34.295128],"type":"Point"}
 }

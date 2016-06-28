@@ -2,13 +2,14 @@
   "id": 219423309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.378615,35.265776,-92.378615,35.265776",
     "geom:latitude":35.265776,
     "geom:longitude":-92.378615,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Shady Oak Dr",
     "sg:city":"Greenbrier",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219423309,
-    "wof:lastmodified":1449070968,
+    "wof:lastmodified":1466323045,
     "wof:name":"Hannahs Baskets",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "baskets-wholesale"
     ]
 },
-  "bbox": [-92.378615,35.265776,-92.378615,35.265776],
+  "bbox": [
+    -92.378615,
+    35.265776,
+    -92.378615,
+    35.265776
+],
   "geometry": {"coordinates":[-92.378615,35.265776],"type":"Point"}
 }

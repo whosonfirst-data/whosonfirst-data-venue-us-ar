@@ -2,13 +2,14 @@
   "id": 287223549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.552523,36.174326,-94.552523,36.174326",
     "geom:latitude":36.174326,
     "geom:longitude":-94.552523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"904 W Kenwood St",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":287223549,
-    "wof:lastmodified":1449000720,
+    "wof:lastmodified":1466320471,
     "wof:name":"Jim Brown Video",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "tape"
     ]
 },
-  "bbox": [-94.552523,36.174326,-94.552523,36.174326],
-  "geometry": {"coordinates":[-94.552523,36.174326],"type":"Point"}
+  "bbox": [
+    -94.552523,
+    36.174326,
+    -94.552523,
+    36.174326
+],
+  "geometry": {"coordinates":[-94.55252299999999,36.174326],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220014899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.21047,36.186724,-94.21047,36.186724",
     "geom:latitude":36.186724,
     "geom:longitude":-94.21047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Jones Rd",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220014899,
-    "wof:lastmodified":1449074426,
+    "wof:lastmodified":1466320486,
     "wof:name":"Springdale Public Schools",
     "wof:parent_id":85885477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "elementary"
     ]
 },
-  "bbox": [-94.21047,36.186724,-94.21047,36.186724],
+  "bbox": [
+    -94.21047,
+    36.186724,
+    -94.21047,
+    36.186724
+],
   "geometry": {"coordinates":[-94.21047,36.186724],"type":"Point"}
 }

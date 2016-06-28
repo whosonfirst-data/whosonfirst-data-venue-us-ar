@@ -2,13 +2,14 @@
   "id": 219676343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.522849,36.08173,-90.522849,36.08173",
     "geom:latitude":36.08173,
     "geom:longitude":-90.522849,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2904 Fairview Rd",
     "sg:city":"Paragould",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219676343,
-    "wof:lastmodified":1449072646,
+    "wof:lastmodified":1466324886,
     "wof:name":"Peace Tabernacle Apostolic Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "churches-pentecostal"
     ]
 },
-  "bbox": [-90.522849,36.08173,-90.522849,36.08173],
-  "geometry": {"coordinates":[-90.522849,36.08173],"type":"Point"}
+  "bbox": [
+    -90.522849,
+    36.08173,
+    -90.522849,
+    36.08173
+],
+  "geometry": {"coordinates":[-90.52284899999999,36.08173],"type":"Point"}
 }

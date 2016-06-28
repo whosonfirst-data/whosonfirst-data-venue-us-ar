@@ -2,13 +2,14 @@
   "id": 219824615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.166723,36.066742,-94.166723,36.066742",
     "geom:latitude":36.066742,
     "geom:longitude":-94.166723,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 N Gregg Ave",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219824615,
-    "wof:lastmodified":1449071646,
+    "wof:lastmodified":1466324995,
     "wof:name":"Berger Acquisition Company",
     "wof:parent_id":85885451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "advisory"
     ]
 },
-  "bbox": [-94.166723,36.066742,-94.166723,36.066742],
+  "bbox": [
+    -94.166723,
+    36.066742,
+    -94.166723,
+    36.066742
+],
   "geometry": {"coordinates":[-94.166723,36.066742],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219644277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.775768,35.81404,-90.775768,35.81404",
     "geom:latitude":35.81404,
     "geom:longitude":-90.775768,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2201 Ridgepointe Dr",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219644277,
-    "wof:lastmodified":1449072396,
+    "wof:lastmodified":1466324681,
     "wof:name":"Len-Wil Farms Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rice"
     ]
 },
-  "bbox": [-90.775768,35.81404,-90.775768,35.81404],
+  "bbox": [
+    -90.775768,
+    35.81404,
+    -90.775768,
+    35.81404
+],
   "geometry": {"coordinates":[-90.775768,35.81404],"type":"Point"}
 }

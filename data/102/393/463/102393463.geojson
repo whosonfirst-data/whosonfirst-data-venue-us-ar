@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102393463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.76385,35.294293,-91.76385,35.294293",
     "geom:latitude":35.294293,
     "geom:longitude":-91.76385,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 Keith Rd",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":102393463,
-    "wof:lastmodified":1449068539,
+    "wof:lastmodified":1466324614,
     "wof:name":"Arkansas Craftsmith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.76385,35.294293,-91.76385,35.294293],
-  "geometry": {"coordinates":[-91.76385,35.294293],"type":"Point"}
+  "bbox": [
+    -91.76385,
+    35.294293,
+    -91.76385,
+    35.294293
+],
+  "geometry": {"coordinates":[-91.76385000000001,35.294293],"type":"Point"}
 }

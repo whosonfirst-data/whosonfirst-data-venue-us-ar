@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102208933",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.111955,34.49245,-93.111955,34.49245",
     "geom:latitude":34.49245,
     "geom:longitude":-93.111955,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2460 Albert Pike Rd",
     "sg:city":"Hot Springs",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102208933",
-    "wof:lastmodified":1449068081,
+    "wof:lastmodified":1466320967,
     "wof:name":"Ideal Bread",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.111955,34.49245,-93.111955,34.49245],
-  "geometry": {"coordinates":[-93.111955,34.49245],"type":"Point"}
+  "bbox": [
+    -93.111955,
+    34.49245,
+    -93.111955,
+    34.49245
+],
+  "geometry": {"coordinates":[-93.11195499999999,34.49245],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219464137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.819504,34.357244,-92.819504,34.357244",
     "geom:latitude":34.357244,
     "geom:longitude":-92.819504,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1303 Stanley St",
     "sg:city":"Malvern",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":219464137,
-    "wof:lastmodified":1449071355,
+    "wof:lastmodified":1466323501,
     "wof:name":"Malvern Tire Co.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-92.819504,34.357244,-92.819504,34.357244],
-  "geometry": {"coordinates":[-92.819504,34.357244],"type":"Point"}
+  "bbox": [
+    -92.819504,
+    34.357244,
+    -92.819504,
+    34.357244
+],
+  "geometry": {"coordinates":[-92.81950399999999,34.357244],"type":"Point"}
 }

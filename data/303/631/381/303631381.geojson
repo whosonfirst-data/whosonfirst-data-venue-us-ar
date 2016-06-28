@@ -2,13 +2,14 @@
   "id": 303631381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.37966,35.325455,-94.37966,35.325455",
     "geom:latitude":35.325455,
     "geom:longitude":-94.37966,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4300 Regions Park Dr",
     "sg:city":"Fort Smith",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303631381,
-    "wof:lastmodified":1448998871,
+    "wof:lastmodified":1466320538,
     "wof:name":"Cooper Clinic Occupational Med",
     "wof:parent_id":85849681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-94.37966,35.325455,-94.37966,35.325455],
+  "bbox": [
+    -94.37966,
+    35.325455,
+    -94.37966,
+    35.325455
+],
   "geometry": {"coordinates":[-94.37966,35.325455],"type":"Point"}
 }

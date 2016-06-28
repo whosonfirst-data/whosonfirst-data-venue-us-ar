@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102392231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.601548,33.696386,-93.601548,33.696386",
     "geom:latitude":33.696386,
     "geom:longitude":-93.601548,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2801 N Hazel St",
     "sg:city":"Hope",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102392231,
-    "wof:lastmodified":1449069708,
+    "wof:lastmodified":1466324581,
     "wof:name":"Millwood Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.601548,33.696386,-93.601548,33.696386],
-  "geometry": {"coordinates":[-93.601548,33.696386],"type":"Point"}
+  "bbox": [
+    -93.601548,
+    33.696386,
+    -93.601548,
+    33.696386
+],
+  "geometry": {"coordinates":[-93.60154799999999,33.696386],"type":"Point"}
 }

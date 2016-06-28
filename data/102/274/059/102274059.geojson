@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102274059",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.372313,34.737834,-92.372313,34.737834",
     "geom:latitude":34.737834,
     "geom:longitude":-92.372313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1709 John Barrow Rd",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85808177,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85808177
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102274059",
-    "wof:lastmodified":1449068097,
+    "wof:lastmodified":1466322386,
     "wof:name":"Second Baptist Christian Acad",
     "wof:parent_id":85808177,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.372313,34.737834,-92.372313,34.737834],
-  "geometry": {"coordinates":[-92.372313,34.737834],"type":"Point"}
+  "bbox": [
+    -92.372313,
+    34.737834,
+    -92.372313,
+    34.737834
+],
+  "geometry": {"coordinates":[-92.37231300000001,34.737834],"type":"Point"}
 }

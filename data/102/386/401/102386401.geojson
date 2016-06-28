@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102386401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.135153,36.184382,-94.135153,36.184382",
     "geom:latitude":36.184382,
     "geom:longitude":-94.135153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"416 W Meadow Ave",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885481,
+        85688549,
         85633793,
         85919623,
         102082007,
-        85688549
+        85885481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102386401,
-    "wof:lastmodified":1449069016,
+    "wof:lastmodified":1466323413,
     "wof:name":"John Casablancas M T M",
     "wof:parent_id":85885481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.135153,36.184382,-94.135153,36.184382],
+  "bbox": [
+    -94.135153,
+    36.184382,
+    -94.135153,
+    36.184382
+],
   "geometry": {"coordinates":[-94.135153,36.184382],"type":"Point"}
 }

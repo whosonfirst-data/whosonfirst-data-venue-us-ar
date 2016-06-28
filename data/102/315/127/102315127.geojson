@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102315127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.396447,35.909143,-94.396447,35.909143",
     "geom:latitude":35.909143,
     "geom:longitude":-94.396447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14355 State Hwy 45",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102315127,
-    "wof:lastmodified":1449070078,
+    "wof:lastmodified":1466323310,
     "wof:name":"Cane Hill Car Lot",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.396447,35.909143,-94.396447,35.909143],
-  "geometry": {"coordinates":[-94.396447,35.909143],"type":"Point"}
+  "bbox": [
+    -94.396447,
+    35.909143,
+    -94.396447,
+    35.909143
+],
+  "geometry": {"coordinates":[-94.39644699999999,35.909143],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219306055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.232941,34.587312,-94.232941,34.587312",
     "geom:latitude":34.587312,
     "geom:longitude":-94.232941,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"95 Maple Ave",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219306055,
-    "wof:lastmodified":1449073751,
+    "wof:lastmodified":1466321781,
     "wof:name":"Gulliver Mobile Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "bureau"
     ]
 },
-  "bbox": [-94.232941,34.587312,-94.232941,34.587312],
+  "bbox": [
+    -94.232941,
+    34.587312,
+    -94.232941,
+    34.587312
+],
   "geometry": {"coordinates":[-94.232941,34.587312],"type":"Point"}
 }

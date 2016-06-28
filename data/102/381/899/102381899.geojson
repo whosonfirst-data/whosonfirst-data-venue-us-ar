@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102381899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.439838,35.090871,-92.439838,35.090871",
     "geom:latitude":35.090871,
     "geom:longitude":-92.439838,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1117 Oak St",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102381899,
-    "wof:lastmodified":1449067995,
+    "wof:lastmodified":1466322481,
     "wof:name":"AAA Alterations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.439838,35.090871,-92.439838,35.090871],
-  "geometry": {"coordinates":[-92.439838,35.090871],"type":"Point"}
+  "bbox": [
+    -92.439838,
+    35.090871,
+    -92.439838,
+    35.090871
+],
+  "geometry": {"coordinates":[-92.43983799999999,35.090871],"type":"Point"}
 }

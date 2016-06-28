@@ -2,13 +2,14 @@
   "id": 220055971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.137587,36.195525,-94.137587,36.195525",
     "geom:latitude":36.195525,
     "geom:longitude":-94.137587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 Sanders Ave",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -77,10 +78,11 @@
         }
     ],
     "wof:id":220055971,
-    "wof:lastmodified":1449074217,
+    "wof:lastmodified":1466320846,
     "wof:name":"Marmic Fire & Safety Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -98,6 +100,11 @@
         "clothing"
     ]
 },
-  "bbox": [-94.137587,36.195525,-94.137587,36.195525],
+  "bbox": [
+    -94.137587,
+    36.195525,
+    -94.137587,
+    36.195525
+],
   "geometry": {"coordinates":[-94.137587,36.195525],"type":"Point"}
 }

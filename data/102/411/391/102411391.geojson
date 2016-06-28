@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102411391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.396038,34.764681,-92.396038,34.764681",
     "geom:latitude":34.764681,
     "geom:longitude":-92.396038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1324 N Shackleford Rd",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85843659,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85843659
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102411391,
-    "wof:lastmodified":1449067893,
+    "wof:lastmodified":1466325114,
     "wof:name":"Fire Station No 9",
     "wof:parent_id":85843659,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.396038,34.764681,-92.396038,34.764681],
+  "bbox": [
+    -92.396038,
+    34.764681,
+    -92.396038,
+    34.764681
+],
   "geometry": {"coordinates":[-92.396038,34.764681],"type":"Point"}
 }

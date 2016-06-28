@@ -2,13 +2,14 @@
   "id": 219915029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.228891,36.045788,-94.228891,36.045788",
     "geom:latitude":36.045788,
     "geom:longitude":-94.228891,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"283 E Main St",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219915029,
-    "wof:lastmodified":1449073874,
+    "wof:lastmodified":1466325200,
     "wof:name":"8 Counts Boutique",
     "wof:parent_id":85885421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "boutique"
     ]
 },
-  "bbox": [-94.228891,36.045788,-94.228891,36.045788],
+  "bbox": [
+    -94.228891,
+    36.045788,
+    -94.228891,
+    36.045788
+],
   "geometry": {"coordinates":[-94.228891,36.045788],"type":"Point"}
 }

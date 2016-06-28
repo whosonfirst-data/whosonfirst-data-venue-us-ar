@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102382525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.337809,34.954862,-90.337809,34.954862",
     "geom:latitude":34.954862,
     "geom:longitude":-90.337809,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15025 State Hwy 147",
     "sg:city":"Hughes",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102382525,
-    "wof:lastmodified":1449068428,
+    "wof:lastmodified":1466322611,
     "wof:name":"Levi's Motor Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.337809,34.954862,-90.337809,34.954862],
-  "geometry": {"coordinates":[-90.337809,34.954862],"type":"Point"}
+  "bbox": [
+    -90.337809,
+    34.954862,
+    -90.337809,
+    34.954862
+],
+  "geometry": {"coordinates":[-90.33780899999999,34.954862],"type":"Point"}
 }

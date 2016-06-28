@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102410297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.282762,34.72084,-92.282762,34.72084",
     "geom:latitude":34.72084,
     "geom:longitude":-92.282762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2820 S State St",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -34,11 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85818657,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85818657
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":102410297,
-    "wof:lastmodified":1449067794,
+    "wof:lastmodified":1466325116,
     "wof:name":"Arkansas Conference Men's Hse",
     "wof:parent_id":85818657,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.282762,34.72084,-92.282762,34.72084],
-  "geometry": {"coordinates":[-92.282762,34.72084],"type":"Point"}
+  "bbox": [
+    -92.282762,
+    34.72084,
+    -92.282762,
+    34.72084
+],
+  "geometry": {"coordinates":[-92.28276200000001,34.72084],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219226561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.587886,33.656193,-93.587886,33.656193",
     "geom:latitude":33.656193,
     "geom:longitude":-93.587886,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1420 S Main St Ste 3",
     "sg:city":"Hope",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219226561,
-    "wof:lastmodified":1449072961,
+    "wof:lastmodified":1466321129,
     "wof:name":"National Wide Insurance",
     "wof:parent_id":85806015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.587886,33.656193,-93.587886,33.656193],
+  "bbox": [
+    -93.587886,
+    33.656193,
+    -93.587886,
+    33.656193
+],
   "geometry": {"coordinates":[-93.587886,33.656193],"type":"Point"}
 }

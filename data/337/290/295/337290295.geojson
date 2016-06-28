@@ -2,13 +2,14 @@
   "id": 337290295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.527094,33.971919,-93.527094,33.971919",
     "geom:latitude":33.971919,
     "geom:longitude":-93.527094,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1636 Highway 195 S",
     "sg:city":"Delight",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":337290295,
-    "wof:lastmodified":1449027289,
+    "wof:lastmodified":1466322030,
     "wof:name":"Commercial Service A C",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "bureau"
     ]
 },
-  "bbox": [-93.527094,33.971919,-93.527094,33.971919],
-  "geometry": {"coordinates":[-93.527094,33.971919],"type":"Point"}
+  "bbox": [
+    -93.527094,
+    33.971919,
+    -93.527094,
+    33.971919
+],
+  "geometry": {"coordinates":[-93.52709400000001,33.971919],"type":"Point"}
 }

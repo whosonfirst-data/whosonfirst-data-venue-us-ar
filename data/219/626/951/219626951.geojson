@@ -2,13 +2,14 @@
   "id": 219626951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.717162,35.825295,-90.717162,35.825295",
     "geom:latitude":35.825295,
     "geom:longitude":-90.717162,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1014 Neville St",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219626951,
-    "wof:lastmodified":1449073915,
+    "wof:lastmodified":1466324618,
     "wof:name":"American West Flooring",
     "wof:parent_id":85836541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "material"
     ]
 },
-  "bbox": [-90.717162,35.825295,-90.717162,35.825295],
+  "bbox": [
+    -90.717162,
+    35.825295,
+    -90.717162,
+    35.825295
+],
   "geometry": {"coordinates":[-90.717162,35.825295],"type":"Point"}
 }

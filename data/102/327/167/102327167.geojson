@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102327167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.408976,34.711072,-92.408976,34.711072",
     "geom:latitude":34.711072,
     "geom:longitude":-92.408976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11900 Colonel Glenn Rd",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851771,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85851771
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102327167,
-    "wof:lastmodified":1449067972,
+    "wof:lastmodified":1466323549,
     "wof:name":"Baptist Health Hm Health Ntwrk",
     "wof:parent_id":85851771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.408976,34.711072,-92.408976,34.711072],
+  "bbox": [
+    -92.408976,
+    34.711072,
+    -92.408976,
+    34.711072
+],
   "geometry": {"coordinates":[-92.408976,34.711072],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102404825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.136333,35.275937,-93.136333,35.275937",
     "geom:latitude":35.275937,
     "geom:longitude":-93.136333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"318 S Commerce Ave",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837141,
+        85688549,
         85633793,
         85919515,
         102082511,
-        85688549
+        85837141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102404825,
-    "wof:lastmodified":1449069381,
+    "wof:lastmodified":1466324923,
     "wof:name":"Youth House",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.136333,35.275937,-93.136333,35.275937],
-  "geometry": {"coordinates":[-93.136333,35.275937],"type":"Point"}
+  "bbox": [
+    -93.136333,
+    35.275937,
+    -93.136333,
+    35.275937
+],
+  "geometry": {"coordinates":[-93.13633299999999,35.275937],"type":"Point"}
 }

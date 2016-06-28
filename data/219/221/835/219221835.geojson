@@ -2,13 +2,14 @@
   "id": 219221835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.056501,33.437821,-93.056501,33.437821",
     "geom:latitude":33.437821,
     "geom:longitude":-93.056501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1808 N 1st St",
     "sg:city":"Stephens",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219221835,
-    "wof:lastmodified":1449071943,
+    "wof:lastmodified":1466321064,
     "wof:name":"Browns Services",
     "wof:parent_id":85813169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "contractor"
     ]
 },
-  "bbox": [-93.056501,33.437821,-93.056501,33.437821],
+  "bbox": [
+    -93.056501,
+    33.437821,
+    -93.056501,
+    33.437821
+],
   "geometry": {"coordinates":[-93.056501,33.437821],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337290749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.966919,34.544788,-91.966919,34.544788",
     "geom:latitude":34.544788,
     "geom:longitude":-91.966919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 E Fordyce St",
     "sg:city":"England",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":337290749,
-    "wof:lastmodified":1449027288,
+    "wof:lastmodified":1466322037,
     "wof:name":"Tucker's Furniture Inc",
     "wof:parent_id":85811577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "store"
     ]
 },
-  "bbox": [-91.966919,34.544788,-91.966919,34.544788],
+  "bbox": [
+    -91.966919,
+    34.544788,
+    -91.966919,
+    34.544788
+],
   "geometry": {"coordinates":[-91.966919,34.544788],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219266657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.020659,33.460681,-94.020659,33.460681",
     "geom:latitude":33.460681,
     "geom:longitude":-94.020659,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2012 Arkansas Blvd",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219266657,
-    "wof:lastmodified":1449070477,
+    "wof:lastmodified":1466321458,
     "wof:name":"Griffin Realtors- GMAC Real Estate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.020659,33.460681,-94.020659,33.460681],
-  "geometry": {"coordinates":[-94.020659,33.460681],"type":"Point"}
+  "bbox": [
+    -94.020659,
+    33.460681,
+    -94.020659,
+    33.460681
+],
+  "geometry": {"coordinates":[-94.02065899999999,33.460681],"type":"Point"}
 }

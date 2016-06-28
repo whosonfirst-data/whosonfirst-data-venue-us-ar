@@ -2,13 +2,14 @@
   "id": 219916951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.29505,36.007469,-94.29505,36.007469",
     "geom:latitude":36.007469,
     "geom:longitude":-94.29505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11310 Shumate Crossing Rd",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219916951,
-    "wof:lastmodified":1449072307,
+    "wof:lastmodified":1466325130,
     "wof:name":"Valencia Construction",
     "wof:parent_id":85885467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "contractor"
     ]
 },
-  "bbox": [-94.29505,36.007469,-94.29505,36.007469],
+  "bbox": [
+    -94.29505,
+    36.007469,
+    -94.29505,
+    36.007469
+],
   "geometry": {"coordinates":[-94.29505,36.007469],"type":"Point"}
 }

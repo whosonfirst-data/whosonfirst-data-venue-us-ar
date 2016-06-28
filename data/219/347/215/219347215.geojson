@@ -2,13 +2,14 @@
   "id": 219347215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.652579,34.924695,-92.652579,34.924695",
     "geom:latitude":34.924695,
     "geom:longitude":-92.652579,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Underwood Rd",
     "sg:city":"Bigelow",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219347215,
-    "wof:lastmodified":1449072100,
+    "wof:lastmodified":1466322217,
     "wof:name":"Frazier Communications Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "seminar"
     ]
 },
-  "bbox": [-92.652579,34.924695,-92.652579,34.924695],
+  "bbox": [
+    -92.652579,
+    34.924695,
+    -92.652579,
+    34.924695
+],
   "geometry": {"coordinates":[-92.652579,34.924695],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219622861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.783639,35.238296,-90.783639,35.238296",
     "geom:latitude":35.238296,
     "geom:longitude":-90.783639,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1512 Falls Blvd N",
     "sg:city":"Wynne",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219622861,
-    "wof:lastmodified":1449073282,
+    "wof:lastmodified":1466324613,
     "wof:name":"Dixie Furniture Company Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "store"
     ]
 },
-  "bbox": [-90.783639,35.238296,-90.783639,35.238296],
-  "geometry": {"coordinates":[-90.783639,35.238296],"type":"Point"}
+  "bbox": [
+    -90.783639,
+    35.238296,
+    -90.783639,
+    35.238296
+],
+  "geometry": {"coordinates":[-90.78363899999999,35.238296],"type":"Point"}
 }

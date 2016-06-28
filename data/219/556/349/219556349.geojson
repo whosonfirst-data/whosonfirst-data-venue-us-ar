@@ -2,13 +2,14 @@
   "id": 219556349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.557701,34.50956,-91.557701,34.50956",
     "geom:latitude":34.50956,
     "geom:longitude":-91.557701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"903 N Buerkle St",
     "sg:city":"Stuttgart",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219556349,
-    "wof:lastmodified":1449071273,
+    "wof:lastmodified":1466324523,
     "wof:name":"Newkirk, John",
     "wof:parent_id":85838089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [-91.557701,34.50956,-91.557701,34.50956],
-  "geometry": {"coordinates":[-91.557701,34.50956],"type":"Point"}
+  "bbox": [
+    -91.557701,
+    34.50956,
+    -91.557701,
+    34.50956
+],
+  "geometry": {"coordinates":[-91.55770099999999,34.50956],"type":"Point"}
 }

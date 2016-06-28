@@ -2,13 +2,14 @@
   "id": 219475475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.266371,35.608161,-91.266371,35.608161",
     "geom:latitude":35.608161,
     "geom:longitude":-91.266371,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1117 Mclain St Ste 300",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":219475475,
-    "wof:lastmodified":1449071851,
+    "wof:lastmodified":1466323638,
     "wof:name":"Hon Poon Md",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-91.266371,35.608161,-91.266371,35.608161],
-  "geometry": {"coordinates":[-91.266371,35.608161],"type":"Point"}
+  "bbox": [
+    -91.266371,
+    35.608161,
+    -91.266371,
+    35.608161
+],
+  "geometry": {"coordinates":[-91.26637100000001,35.608161],"type":"Point"}
 }

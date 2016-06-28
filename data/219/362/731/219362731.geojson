@@ -2,13 +2,14 @@
   "id": 219362731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.033142,34.956846,-92.033142,34.956846",
     "geom:latitude":34.956846,
     "geom:longitude":-92.033142,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Newcastle Dr",
     "sg:city":"Cabot",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219362731,
-    "wof:lastmodified":1449072665,
+    "wof:lastmodified":1466322448,
     "wof:name":"Bonnie Hatcher",
     "wof:parent_id":85839277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "trucking"
     ]
 },
-  "bbox": [-92.033142,34.956846,-92.033142,34.956846],
+  "bbox": [
+    -92.033142,
+    34.956846,
+    -92.033142,
+    34.956846
+],
   "geometry": {"coordinates":[-92.033142,34.956846],"type":"Point"}
 }

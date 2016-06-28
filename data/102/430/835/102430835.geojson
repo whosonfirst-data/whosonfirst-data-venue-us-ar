@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102430835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.734957,35.777588,-90.734957,35.777588",
     "geom:latitude":35.777588,
     "geom:longitude":-90.734957,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1707 Valley View Dr",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102430835,
-    "wof:lastmodified":1449069303,
+    "wof:lastmodified":1466325566,
     "wof:name":"Valleyridge Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.734957,35.777588,-90.734957,35.777588],
-  "geometry": {"coordinates":[-90.734957,35.777588],"type":"Point"}
+  "bbox": [
+    -90.734957,
+    35.777588,
+    -90.734957,
+    35.777588
+],
+  "geometry": {"coordinates":[-90.73495699999999,35.777588],"type":"Point"}
 }

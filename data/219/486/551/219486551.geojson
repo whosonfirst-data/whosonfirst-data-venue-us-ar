@@ -2,13 +2,14 @@
   "id": 219486551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.242794,34.833514,-92.242794,34.833514",
     "geom:latitude":34.833514,
     "geom:longitude":-92.242794,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1106 W Kiehl Ave",
     "sg:city":"Sherwood",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219486551,
-    "wof:lastmodified":1449072339,
+    "wof:lastmodified":1466323777,
     "wof:name":"Crim's Family Day Care",
     "wof:parent_id":85851793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "day"
     ]
 },
-  "bbox": [-92.242794,34.833514,-92.242794,34.833514],
+  "bbox": [
+    -92.242794,
+    34.833514,
+    -92.242794,
+    34.833514
+],
   "geometry": {"coordinates":[-92.242794,34.833514],"type":"Point"}
 }

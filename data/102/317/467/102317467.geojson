@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102317467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.422497,35.373406,-94.422497,35.373406",
     "geom:latitude":35.373406,
     "geom:longitude":-94.422497,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1205 S 11th St",
     "sg:city":"Fort Smith",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102317467,
-    "wof:lastmodified":1449068865,
+    "wof:lastmodified":1466323407,
     "wof:name":"B & B Detail",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.422497,35.373406,-94.422497,35.373406],
-  "geometry": {"coordinates":[-94.422497,35.373406],"type":"Point"}
+  "bbox": [
+    -94.422497,
+    35.373406,
+    -94.422497,
+    35.373406
+],
+  "geometry": {"coordinates":[-94.42249700000001,35.373406],"type":"Point"}
 }

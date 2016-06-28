@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102391663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.790613,35.20685,-93.790613,35.20685",
     "geom:latitude":35.20685,
     "geom:longitude":-93.790613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3493 State Hwy 109",
     "sg:city":"Magazine",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":102391663,
-    "wof:lastmodified":1449069312,
+    "wof:lastmodified":1466324541,
     "wof:name":"Gregorys Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.790613,35.20685,-93.790613,35.20685],
-  "geometry": {"coordinates":[-93.790613,35.20685],"type":"Point"}
+  "bbox": [
+    -93.790613,
+    35.20685,
+    -93.790613,
+    35.20685
+],
+  "geometry": {"coordinates":[-93.79061299999999,35.20685],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102360485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.151035,36.159745,-94.151035,36.159745",
     "geom:latitude":36.159745,
     "geom:longitude":-94.151035,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1707 Arapaho Ave",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102360485,
-    "wof:lastmodified":1449069643,
+    "wof:lastmodified":1466324252,
     "wof:name":"I Manage LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.151035,36.159745,-94.151035,36.159745],
-  "geometry": {"coordinates":[-94.151035,36.159745],"type":"Point"}
+  "bbox": [
+    -94.151035,
+    36.159745,
+    -94.151035,
+    36.159745
+],
+  "geometry": {"coordinates":[-94.15103499999999,36.159745],"type":"Point"}
 }

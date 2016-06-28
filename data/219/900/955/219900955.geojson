@@ -2,13 +2,14 @@
   "id": 219900955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.217458,36.410186,-94.217458,36.410186",
     "geom:latitude":36.410186,
     "geom:longitude":-94.217458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3103 N Walton Blvd",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219900955,
-    "wof:lastmodified":1449071909,
+    "wof:lastmodified":1466325101,
     "wof:name":"Chiropractic One",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chiropractic"
     ]
 },
-  "bbox": [-94.217458,36.410186,-94.217458,36.410186],
-  "geometry": {"coordinates":[-94.217458,36.410186],"type":"Point"}
+  "bbox": [
+    -94.217458,
+    36.410186,
+    -94.217458,
+    36.410186
+],
+  "geometry": {"coordinates":[-94.21745799999999,36.410186],"type":"Point"}
 }

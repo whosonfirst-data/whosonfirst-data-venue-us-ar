@@ -2,13 +2,14 @@
   "id": 219824151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.162254,36.061937,-94.162254,36.061937",
     "geom:latitude":36.061937,
     "geom:longitude":-94.162254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"231 W Mountain St",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219824151,
-    "wof:lastmodified":1449071644,
+    "wof:lastmodified":1466324989,
     "wof:name":"Young, Wayne, Attorney At Law",
     "wof:parent_id":85885459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practice"
     ]
 },
-  "bbox": [-94.162254,36.061937,-94.162254,36.061937],
+  "bbox": [
+    -94.162254,
+    36.061937,
+    -94.162254,
+    36.061937
+],
   "geometry": {"coordinates":[-94.162254,36.061937],"type":"Point"}
 }

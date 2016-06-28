@@ -2,13 +2,14 @@
   "id": 219193267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.826385,33.535786,-92.826385,33.535786",
     "geom:latitude":33.535786,
     "geom:longitude":-92.826385,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1115 Fairview Rd SW",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219193267,
-    "wof:lastmodified":1449070958,
+    "wof:lastmodified":1466320801,
     "wof:name":"Christian Health Center",
     "wof:parent_id":85813169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-92.826385,33.535786,-92.826385,33.535786],
+  "bbox": [
+    -92.826385,
+    33.535786,
+    -92.826385,
+    33.535786
+],
   "geometry": {"coordinates":[-92.826385,33.535786],"type":"Point"}
 }

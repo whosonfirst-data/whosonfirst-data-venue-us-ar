@@ -2,13 +2,14 @@
   "id": 219325407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.583446,34.672763,-92.583446,34.672763",
     "geom:latitude":34.672763,
     "geom:longitude":-92.583446,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11700 Congo Ferndale Rd",
     "sg:city":"Alexander",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219325407,
-    "wof:lastmodified":1449071774,
+    "wof:lastmodified":1466321940,
     "wof:name":"Vick Pannell",
     "wof:parent_id":85817531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "products-wholesale"
     ]
 },
-  "bbox": [-92.583446,34.672763,-92.583446,34.672763],
+  "bbox": [
+    -92.583446,
+    34.672763,
+    -92.583446,
+    34.672763
+],
   "geometry": {"coordinates":[-92.583446,34.672763],"type":"Point"}
 }

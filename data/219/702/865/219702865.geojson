@@ -2,13 +2,14 @@
   "id": 219702865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.446108,36.052601,-90.446108,36.052601",
     "geom:latitude":36.052601,
     "geom:longitude":-90.446108,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3011 E Kingshighway",
     "sg:city":"Paragould",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":219702865,
-    "wof:lastmodified":1449072143,
+    "wof:lastmodified":1466324777,
     "wof:name":"U-Haul Neighborhood Dealer - 7 Acres Flea Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "trailer"
     ]
 },
-  "bbox": [-90.446108,36.052601,-90.446108,36.052601],
+  "bbox": [
+    -90.446108,
+    36.052601,
+    -90.446108,
+    36.052601
+],
   "geometry": {"coordinates":[-90.446108,36.052601],"type":"Point"}
 }

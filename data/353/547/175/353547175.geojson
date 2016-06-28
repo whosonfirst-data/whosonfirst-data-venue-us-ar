@@ -2,13 +2,14 @@
   "id": 353547175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.011729,33.467922,-94.011729,33.467922",
     "geom:latitude":33.467922,
     "geom:longitude":-94.011729,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4705 Sanderson Ln",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353547175,
-    "wof:lastmodified":1449018523,
+    "wof:lastmodified":1466320441,
     "wof:name":"Caring Hearts Senior Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-94.011729,33.467922,-94.011729,33.467922],
+  "bbox": [
+    -94.011729,
+    33.467922,
+    -94.011729,
+    33.467922
+],
   "geometry": {"coordinates":[-94.011729,33.467922],"type":"Point"}
 }

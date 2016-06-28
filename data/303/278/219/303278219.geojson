@@ -2,13 +2,14 @@
   "id": 303278219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.773277,36.553903,-94.773277,36.553903",
     "geom:latitude":36.553903,
     "geom:longitude":-94.773277,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"62101 E 320 Rd",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303278219,
-    "wof:lastmodified":1448999473,
+    "wof:lastmodified":1466320422,
     "wof:name":"McGhee Excavating",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "work"
     ]
 },
-  "bbox": [-94.773277,36.553903,-94.773277,36.553903],
-  "geometry": {"coordinates":[-94.773277,36.553903],"type":"Point"}
+  "bbox": [
+    -94.773277,
+    36.553903,
+    -94.773277,
+    36.553903
+],
+  "geometry": {"coordinates":[-94.77327699999999,36.553903],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219474635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.264465,35.620771,-91.264465,35.620771",
     "geom:latitude":35.620771,
     "geom:longitude":-91.264465,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1507 N Pecan St",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -67,10 +68,11 @@
         }
     ],
     "wof:id":219474635,
-    "wof:lastmodified":1449070522,
+    "wof:lastmodified":1466323633,
     "wof:name":"Health Resources of Arkansas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -84,6 +86,11 @@
         "counselor"
     ]
 },
-  "bbox": [-91.264465,35.620771,-91.264465,35.620771],
+  "bbox": [
+    -91.264465,
+    35.620771,
+    -91.264465,
+    35.620771
+],
   "geometry": {"coordinates":[-91.264465,35.620771],"type":"Point"}
 }

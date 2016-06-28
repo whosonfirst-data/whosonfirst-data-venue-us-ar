@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102309469",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.358412,34.78062,-92.358412,34.78062",
     "geom:latitude":34.78062,
     "geom:longitude":-92.358412,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Foxhunt Trl",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878753,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85878753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102309469",
-    "wof:lastmodified":1449068329,
+    "wof:lastmodified":1466323226,
     "wof:name":"Tsm Properties LLC",
     "wof:parent_id":85878753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.358412,34.78062,-92.358412,34.78062],
+  "bbox": [
+    -92.358412,
+    34.78062,
+    -92.358412,
+    34.78062
+],
   "geometry": {"coordinates":[-92.358412,34.78062],"type":"Point"}
 }

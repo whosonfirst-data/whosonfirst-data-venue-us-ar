@@ -2,13 +2,14 @@
   "id": 219914147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.989242,35.999777,-93.989242,35.999777",
     "geom:latitude":35.999777,
     "geom:longitude":-93.989242,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11190 Long Tate Rd Wc308",
     "sg:city":"Elkins",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":219914147,
-    "wof:lastmodified":1449071739,
+    "wof:lastmodified":1466325116,
     "wof:name":"Lynn Kelly Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "contractor"
     ]
 },
-  "bbox": [-93.989242,35.999777,-93.989242,35.999777],
+  "bbox": [
+    -93.989242,
+    35.999777,
+    -93.989242,
+    35.999777
+],
   "geometry": {"coordinates":[-93.989242,35.999777],"type":"Point"}
 }

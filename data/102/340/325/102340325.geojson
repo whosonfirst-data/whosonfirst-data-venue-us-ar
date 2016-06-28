@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102340325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.881566,33.926911,-93.881566,33.926911",
     "geom:latitude":33.926911,
     "geom:longitude":-93.881566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"823 Mission Dr",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102340325,
-    "wof:lastmodified":1449069646,
+    "wof:lastmodified":1466323809,
     "wof:name":"Hostetler Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.881566,33.926911,-93.881566,33.926911],
-  "geometry": {"coordinates":[-93.881566,33.926911],"type":"Point"}
+  "bbox": [
+    -93.881566,
+    33.926911,
+    -93.881566,
+    33.926911
+],
+  "geometry": {"coordinates":[-93.88156600000001,33.926911],"type":"Point"}
 }

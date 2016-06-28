@@ -2,13 +2,14 @@
   "id": 219564339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.846191,35.00953,-91.846191,35.00953",
     "geom:latitude":35.00953,
     "geom:longitude":-91.846191,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1190 Bland Chapel Rd",
     "sg:city":"Ward",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219564339,
-    "wof:lastmodified":1449073701,
+    "wof:lastmodified":1466324436,
     "wof:name":"Jack Of All Trades",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise-wholesale"
     ]
 },
-  "bbox": [-91.846191,35.00953,-91.846191,35.00953],
+  "bbox": [
+    -91.846191,
+    35.00953,
+    -91.846191,
+    35.00953
+],
   "geometry": {"coordinates":[-91.846191,35.00953],"type":"Point"}
 }

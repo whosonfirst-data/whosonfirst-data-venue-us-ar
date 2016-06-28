@@ -2,13 +2,14 @@
   "id": 219329845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.838896,34.323324,-91.838896,34.323324",
     "geom:latitude":34.323324,
     "geom:longitude":-91.838896,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1002 E 2nd St",
     "sg:city":"Altheimer",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":219329845,
-    "wof:lastmodified":1449071384,
+    "wof:lastmodified":1466321988,
     "wof:name":"Mason Temple Church Of God",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "churches-pentecostal"
     ]
 },
-  "bbox": [-91.838896,34.323324,-91.838896,34.323324],
-  "geometry": {"coordinates":[-91.838896,34.323324],"type":"Point"}
+  "bbox": [
+    -91.838896,
+    34.323324,
+    -91.838896,
+    34.323324
+],
+  "geometry": {"coordinates":[-91.83889600000001,34.323324],"type":"Point"}
 }

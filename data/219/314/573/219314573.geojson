@@ -2,13 +2,14 @@
   "id": 219314573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.709093,34.142568,-93.709093,34.142568",
     "geom:latitude":34.142568,
     "geom:longitude":-93.709093,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2859 Highway 19 N",
     "sg:city":"Murfreesboro",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219314573,
-    "wof:lastmodified":1449073764,
+    "wof:lastmodified":1466321853,
     "wof:name":"Narrows Power Plant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "government-united"
     ]
 },
-  "bbox": [-93.709093,34.142568,-93.709093,34.142568],
+  "bbox": [
+    -93.709093,
+    34.142568,
+    -93.709093,
+    34.142568
+],
   "geometry": {"coordinates":[-93.709093,34.142568],"type":"Point"}
 }

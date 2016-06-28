@@ -2,13 +2,14 @@
   "id": 219650137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.702188,35.795295,-90.702188,35.795295",
     "geom:latitude":35.795295,
     "geom:longitude":-90.702188,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"511 Clay Dr",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219650137,
-    "wof:lastmodified":1449072550,
+    "wof:lastmodified":1466324717,
     "wof:name":"Fred Yawn S Golf Club Repair",
     "wof:parent_id":85836541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "handyman"
     ]
 },
-  "bbox": [-90.702188,35.795295,-90.702188,35.795295],
-  "geometry": {"coordinates":[-90.702188,35.795295],"type":"Point"}
+  "bbox": [
+    -90.702188,
+    35.795295,
+    -90.702188,
+    35.795295
+],
+  "geometry": {"coordinates":[-90.70218800000001,35.795295],"type":"Point"}
 }

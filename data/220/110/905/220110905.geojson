@@ -2,13 +2,14 @@
   "id": 220110905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.267104,35.215389,-94.267104,35.215389",
     "geom:latitude":35.215389,
     "geom:longitude":-94.267104,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"739 W Center St",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":220110905,
-    "wof:lastmodified":1449074280,
+    "wof:lastmodified":1466322404,
     "wof:name":"Custom Spray Insulation",
     "wof:parent_id":85808359,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "contractor"
     ]
 },
-  "bbox": [-94.267104,35.215389,-94.267104,35.215389],
+  "bbox": [
+    -94.267104,
+    35.215389,
+    -94.267104,
+    35.215389
+],
   "geometry": {"coordinates":[-94.267104,35.215389],"type":"Point"}
 }

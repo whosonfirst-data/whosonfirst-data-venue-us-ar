@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102256521",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.829345,33.580003,-92.829345,33.580003",
     "geom:latitude":33.580003,
     "geom:longitude":-92.829345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"257 Center St SW",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102256521",
-    "wof:lastmodified":1449069620,
+    "wof:lastmodified":1466322043,
     "wof:name":"City Of Refuge Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.829345,33.580003,-92.829345,33.580003],
+  "bbox": [
+    -92.829345,
+    33.580003,
+    -92.829345,
+    33.580003
+],
   "geometry": {"coordinates":[-92.829345,33.580003],"type":"Point"}
 }

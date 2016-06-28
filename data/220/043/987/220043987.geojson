@@ -2,13 +2,14 @@
   "id": 220043987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.137497,36.184898,-94.137497,36.184898",
     "geom:latitude":36.184898,
     "geom:longitude":-94.137497,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"814 W Emma Ave Ste A",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":220043987,
-    "wof:lastmodified":1449074645,
+    "wof:lastmodified":1466320567,
     "wof:name":"Keen & Co Cpas Pllc",
     "wof:parent_id":85885481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "public"
     ]
 },
-  "bbox": [-94.137497,36.184898,-94.137497,36.184898],
+  "bbox": [
+    -94.137497,
+    36.184898,
+    -94.137497,
+    36.184898
+],
   "geometry": {"coordinates":[-94.137497,36.184898],"type":"Point"}
 }

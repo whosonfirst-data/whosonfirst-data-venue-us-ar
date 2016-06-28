@@ -2,13 +2,14 @@
   "id": 220134863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.091586,34.892768,-94.091586,34.892768",
     "geom:latitude":34.892768,
     "geom:longitude":-94.091586,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 W 8th St",
     "sg:city":"Waldron",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220134863,
-    "wof:lastmodified":1449074843,
+    "wof:lastmodified":1466322884,
     "wof:name":"Savannah Park Of Waldron",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-94.091586,34.892768,-94.091586,34.892768],
-  "geometry": {"coordinates":[-94.091586,34.892768],"type":"Point"}
+  "bbox": [
+    -94.091586,
+    34.892768,
+    -94.091586,
+    34.892768
+],
+  "geometry": {"coordinates":[-94.09158600000001,34.892768],"type":"Point"}
 }

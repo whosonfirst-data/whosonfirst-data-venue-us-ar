@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102415729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.815981,33.66034,-91.815981,33.66034",
     "geom:latitude":33.66034,
     "geom:longitude":-91.815981,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"160 Baywood Ln",
     "sg:city":"Monticello",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102415729,
-    "wof:lastmodified":1449069536,
+    "wof:lastmodified":1466325368,
     "wof:name":"Blagg Farms Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.815981,33.66034,-91.815981,33.66034],
-  "geometry": {"coordinates":[-91.815981,33.66034],"type":"Point"}
+  "bbox": [
+    -91.815981,
+    33.66034,
+    -91.815981,
+    33.66034
+],
+  "geometry": {"coordinates":[-91.81598099999999,33.66034],"type":"Point"}
 }

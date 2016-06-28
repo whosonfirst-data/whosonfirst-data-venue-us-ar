@@ -2,13 +2,14 @@
   "id": 219177633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.014265,33.774315,-92.014265,33.774315",
     "geom:latitude":33.774315,
     "geom:longitude":-92.014265,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1390 Gavin Ln",
     "sg:city":"Rison",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219177633,
-    "wof:lastmodified":1449073915,
+    "wof:lastmodified":1466320608,
     "wof:name":"Kimbrell Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.014265,33.774315,-92.014265,33.774315],
-  "geometry": {"coordinates":[-92.014265,33.774315],"type":"Point"}
+  "bbox": [
+    -92.014265,
+    33.774315,
+    -92.014265,
+    33.774315
+],
+  "geometry": {"coordinates":[-92.01426499999999,33.774315],"type":"Point"}
 }

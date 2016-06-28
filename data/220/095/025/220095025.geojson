@@ -2,13 +2,14 @@
   "id": 220095025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.58315,35.336472,-93.58315,35.336472",
     "geom:latitude":35.336472,
     "geom:longitude":-93.58315,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1134 E State Highway 288",
     "sg:city":"Scranton",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":220095025,
-    "wof:lastmodified":1449074445,
+    "wof:lastmodified":1466324476,
     "wof:name":"Kaye Wilson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "business"
     ]
 },
-  "bbox": [-93.58315,35.336472,-93.58315,35.336472],
+  "bbox": [
+    -93.58315,
+    35.336472,
+    -93.58315,
+    35.336472
+],
   "geometry": {"coordinates":[-93.58315,35.336472],"type":"Point"}
 }

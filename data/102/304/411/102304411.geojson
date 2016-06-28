@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102304411",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.160305,35.218195,-90.160305,35.218195",
     "geom:latitude":35.218195,
     "geom:longitude":-90.160305,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3251 Marion Lake Rd",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":"102304411",
-    "wof:lastmodified":1449069588,
+    "wof:lastmodified":1466323126,
     "wof:name":"Triple R Ranch Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.160305,35.218195,-90.160305,35.218195],
-  "geometry": {"coordinates":[-90.160305,35.218195],"type":"Point"}
+  "bbox": [
+    -90.160305,
+    35.218195,
+    -90.160305,
+    35.218195
+],
+  "geometry": {"coordinates":[-90.16030499999999,35.218195],"type":"Point"}
 }

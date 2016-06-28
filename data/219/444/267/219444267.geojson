@@ -2,13 +2,14 @@
   "id": 219444267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.696565,35.330247,-91.696565,35.330247",
     "geom:latitude":35.330247,
     "geom:longitude":-91.696565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Hoofman Rd",
     "sg:city":"Judsonia",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219444267,
-    "wof:lastmodified":1449073430,
+    "wof:lastmodified":1466323301,
     "wof:name":"Goslin Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.696565,35.330247,-91.696565,35.330247],
-  "geometry": {"coordinates":[-91.696565,35.330247],"type":"Point"}
+  "bbox": [
+    -91.696565,
+    35.330247,
+    -91.696565,
+    35.330247
+],
+  "geometry": {"coordinates":[-91.69656500000001,35.330247],"type":"Point"}
 }

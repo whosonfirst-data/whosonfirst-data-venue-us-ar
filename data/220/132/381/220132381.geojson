@@ -2,13 +2,14 @@
   "id": 220132381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.913889,34.926806,-93.913889,34.926806",
     "geom:latitude":34.926806,
     "geom:longitude":-93.913889,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2896 Pine Log Ln",
     "sg:city":"Waldron",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220132381,
-    "wof:lastmodified":1449074416,
+    "wof:lastmodified":1466322862,
     "wof:name":"Connie S Cox",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cleaners-interior"
     ]
 },
-  "bbox": [-93.913889,34.926806,-93.913889,34.926806],
+  "bbox": [
+    -93.913889,
+    34.926806,
+    -93.913889,
+    34.926806
+],
   "geometry": {"coordinates":[-93.913889,34.926806],"type":"Point"}
 }

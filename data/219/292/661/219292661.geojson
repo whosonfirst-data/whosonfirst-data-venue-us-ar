@@ -2,13 +2,14 @@
   "id": 219292661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.327947,34.420554,-94.327947,34.420554",
     "geom:latitude":34.420554,
     "geom:longitude":-94.327947,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"216 Knighten Ln",
     "sg:city":"Cove",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219292661,
-    "wof:lastmodified":1449070686,
+    "wof:lastmodified":1466321670,
     "wof:name":"Lbt Enterprises Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-94.327947,34.420554,-94.327947,34.420554],
-  "geometry": {"coordinates":[-94.327947,34.420554],"type":"Point"}
+  "bbox": [
+    -94.327947,
+    34.420554,
+    -94.327947,
+    34.420554
+],
+  "geometry": {"coordinates":[-94.32794699999999,34.420554],"type":"Point"}
 }

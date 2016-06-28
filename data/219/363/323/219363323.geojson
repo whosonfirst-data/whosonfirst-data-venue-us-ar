@@ -2,13 +2,14 @@
   "id": 219363323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.965447,34.952414,-91.965447,34.952414",
     "geom:latitude":34.952414,
     "geom:longitude":-91.965447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2973 Campground Rd",
     "sg:city":"Cabot",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219363323,
-    "wof:lastmodified":1449073490,
+    "wof:lastmodified":1466322459,
     "wof:name":"Natural State Brokers",
     "wof:parent_id":85839277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "business"
     ]
 },
-  "bbox": [-91.965447,34.952414,-91.965447,34.952414],
+  "bbox": [
+    -91.965447,
+    34.952414,
+    -91.965447,
+    34.952414
+],
   "geometry": {"coordinates":[-91.965447,34.952414],"type":"Point"}
 }

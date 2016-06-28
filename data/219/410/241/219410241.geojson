@@ -2,13 +2,14 @@
   "id": 219410241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.442986,35.087524,-92.442986,35.087524",
     "geom:latitude":35.087524,
     "geom:longitude":-92.442986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"702 Grove St",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219410241,
-    "wof:lastmodified":1449070423,
+    "wof:lastmodified":1466322936,
     "wof:name":"Allen Waters Attorney At Law",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "bankruptcy"
     ]
 },
-  "bbox": [-92.442986,35.087524,-92.442986,35.087524],
+  "bbox": [
+    -92.442986,
+    35.087524,
+    -92.442986,
+    35.087524
+],
   "geometry": {"coordinates":[-92.442986,35.087524],"type":"Point"}
 }

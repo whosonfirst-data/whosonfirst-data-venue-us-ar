@@ -2,13 +2,14 @@
   "id": 219287987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.084244,34.128109,-93.084244,34.128109",
     "geom:latitude":34.128109,
     "geom:longitude":-93.084244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"805 Brentwood Dr",
     "sg:city":"Arkadelphia",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219287987,
-    "wof:lastmodified":1449070596,
+    "wof:lastmodified":1466321634,
     "wof:name":"Two River Divers Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "diver"
     ]
 },
-  "bbox": [-93.084244,34.128109,-93.084244,34.128109],
+  "bbox": [
+    -93.084244,
+    34.128109,
+    -93.084244,
+    34.128109
+],
   "geometry": {"coordinates":[-93.084244,34.128109],"type":"Point"}
 }

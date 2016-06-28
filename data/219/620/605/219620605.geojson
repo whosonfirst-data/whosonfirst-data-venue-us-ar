@@ -2,13 +2,14 @@
   "id": 219620605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.791378,35.215087,-90.791378,35.215087",
     "geom:latitude":35.215087,
     "geom:longitude":-90.791378,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"323 Mildred Dr E",
     "sg:city":"Wynne",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219620605,
-    "wof:lastmodified":1449073614,
+    "wof:lastmodified":1466324614,
     "wof:name":"Chrissy's Candles",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-90.791378,35.215087,-90.791378,35.215087],
-  "geometry": {"coordinates":[-90.791378,35.215087],"type":"Point"}
+  "bbox": [
+    -90.791378,
+    35.215087,
+    -90.791378,
+    35.215087
+],
+  "geometry": {"coordinates":[-90.79137799999999,35.215087],"type":"Point"}
 }

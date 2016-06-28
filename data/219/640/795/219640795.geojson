@@ -2,13 +2,14 @@
   "id": 219640795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.624345,35.814505,-90.624345,35.814505",
     "geom:latitude":35.814505,
     "geom:longitude":-90.624345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2501 Commerce Dr",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":219640795,
-    "wof:lastmodified":1449071922,
+    "wof:lastmodified":1466324644,
     "wof:name":"Abc Supply",
     "wof:parent_id":85836541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -85,6 +87,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-90.624345,35.814505,-90.624345,35.814505],
-  "geometry": {"coordinates":[-90.624345,35.814505],"type":"Point"}
+  "bbox": [
+    -90.624345,
+    35.814505,
+    -90.624345,
+    35.814505
+],
+  "geometry": {"coordinates":[-90.62434500000001,35.814505],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102252671",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.191818,36.344721,-94.191818,36.344721",
     "geom:latitude":36.344721,
     "geom:longitude":-94.191818,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2709 SE Otis Corley",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895815,
+        85688549,
         85633793,
         85921509,
         102083255,
-        85688549
+        85895815
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102252671",
-    "wof:lastmodified":1449068118,
+    "wof:lastmodified":1466321973,
     "wof:name":"A B Express",
     "wof:parent_id":85895815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.191818,36.344721,-94.191818,36.344721],
+  "bbox": [
+    -94.191818,
+    36.344721,
+    -94.191818,
+    36.344721
+],
   "geometry": {"coordinates":[-94.191818,36.344721],"type":"Point"}
 }

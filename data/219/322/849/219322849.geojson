@@ -2,13 +2,14 @@
   "id": 219322849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.29907,34.516652,-93.29907,34.516652",
     "geom:latitude":34.516652,
     "geom:longitude":-93.29907,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7920 Albert Pike Rd",
     "sg:city":"Royal",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219322849,
-    "wof:lastmodified":1449070341,
+    "wof:lastmodified":1466321916,
     "wof:name":"Free & Accepted Masons Of Arkansas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.29907,34.516652,-93.29907,34.516652],
+  "bbox": [
+    -93.29907,
+    34.516652,
+    -93.29907,
+    34.516652
+],
   "geometry": {"coordinates":[-93.29907,34.516652],"type":"Point"}
 }

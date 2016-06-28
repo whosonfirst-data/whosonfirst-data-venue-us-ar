@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102402133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.77371,34.665198,-93.77371,34.665198",
     "geom:latitude":34.665198,
     "geom:longitude":-93.77371,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4998 US Hwy 270",
     "sg:city":"Pencil Bluff",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102402133,
-    "wof:lastmodified":1449068560,
+    "wof:lastmodified":1466324728,
     "wof:name":"Dobbs Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.77371,34.665198,-93.77371,34.665198],
-  "geometry": {"coordinates":[-93.77371,34.665198],"type":"Point"}
+  "bbox": [
+    -93.77371,
+    34.665198,
+    -93.77371,
+    34.665198
+],
+  "geometry": {"coordinates":[-93.77370999999999,34.665198],"type":"Point"}
 }

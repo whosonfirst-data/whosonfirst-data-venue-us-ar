@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102202939",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.259628,35.083169,-94.259628,35.083169",
     "geom:latitude":35.083169,
     "geom:longitude":-94.259628,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 N Clayton Ave",
     "sg:city":"Huntington",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102202939",
-    "wof:lastmodified":1449069861,
+    "wof:lastmodified":1466320822,
     "wof:name":"Deal Tile Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.259628,35.083169,-94.259628,35.083169],
-  "geometry": {"coordinates":[-94.259628,35.083169],"type":"Point"}
+  "bbox": [
+    -94.259628,
+    35.083169,
+    -94.259628,
+    35.083169
+],
+  "geometry": {"coordinates":[-94.25962800000001,35.083169],"type":"Point"}
 }

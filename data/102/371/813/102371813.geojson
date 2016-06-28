@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102371813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.435169,35.704581,-91.435169,35.704581",
     "geom:latitude":35.704581,
     "geom:longitude":-91.435169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"411 E 9th St",
     "sg:city":"Newark",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102371813,
-    "wof:lastmodified":1449069647,
+    "wof:lastmodified":1466324555,
     "wof:name":"Kendall Cash",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.435169,35.704581,-91.435169,35.704581],
+  "bbox": [
+    -91.435169,
+    35.704581,
+    -91.435169,
+    35.704581
+],
   "geometry": {"coordinates":[-91.435169,35.704581],"type":"Point"}
 }

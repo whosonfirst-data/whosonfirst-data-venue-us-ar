@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102427283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.632173,35.775517,-91.632173,35.775517",
     "geom:latitude":35.775517,
     "geom:longitude":-91.632173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1940 E Boswell St",
     "sg:city":"Batesville",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102083875,
-        85633793,
         85688549,
-        85845643
+        85633793,
+        85845643,
+        102083875
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102427283,
-    "wof:lastmodified":1449068504,
+    "wof:lastmodified":1466325534,
     "wof:name":"Green Services",
     "wof:parent_id":85845643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.632173,35.775517,-91.632173,35.775517],
-  "geometry": {"coordinates":[-91.632173,35.775517],"type":"Point"}
+  "bbox": [
+    -91.632173,
+    35.775517,
+    -91.632173,
+    35.775517
+],
+  "geometry": {"coordinates":[-91.63217299999999,35.775517],"type":"Point"}
 }

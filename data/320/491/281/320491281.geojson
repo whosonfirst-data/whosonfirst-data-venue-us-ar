@@ -2,13 +2,14 @@
   "id": 320491281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.873345,36.615077,-94.873345,36.615077",
     "geom:latitude":36.615077,
     "geom:longitude":-94.873345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27600 S Hwy 125",
     "sg:city":"Afton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320491281,
-    "wof:lastmodified":1449011198,
+    "wof:lastmodified":1466320562,
     "wof:name":"Burris & Rathke Ltd",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.873345,36.615077,-94.873345,36.615077],
+  "bbox": [
+    -94.873345,
+    36.615077,
+    -94.873345,
+    36.615077
+],
   "geometry": {"coordinates":[-94.873345,36.615077],"type":"Point"}
 }

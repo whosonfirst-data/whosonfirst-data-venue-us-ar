@@ -2,13 +2,14 @@
   "id": 219219117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.223824,33.286789,-93.223824,33.286789",
     "geom:latitude":33.286789,
     "geom:longitude":-93.223824,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2201 Pearce",
     "sg:city":"Magnolia",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219219117,
-    "wof:lastmodified":1449073771,
+    "wof:lastmodified":1466321036,
     "wof:name":"Sunsational Tanning Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "salon"
     ]
 },
-  "bbox": [-93.223824,33.286789,-93.223824,33.286789],
-  "geometry": {"coordinates":[-93.223824,33.286789],"type":"Point"}
+  "bbox": [
+    -93.223824,
+    33.286789,
+    -93.223824,
+    33.286789
+],
+  "geometry": {"coordinates":[-93.22382399999999,33.286789],"type":"Point"}
 }

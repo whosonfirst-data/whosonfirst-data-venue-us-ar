@@ -2,13 +2,14 @@
   "id": 219723783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.525181,35.671113,-90.525181,35.671113",
     "geom:latitude":35.671113,
     "geom:longitude":-90.525181,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 S Crest Ave",
     "sg:city":"Trumann",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":219723783,
-    "wof:lastmodified":1449072445,
+    "wof:lastmodified":1466324967,
     "wof:name":"Liberty Deli & Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delicatessen"
     ]
 },
-  "bbox": [-90.525181,35.671113,-90.525181,35.671113],
+  "bbox": [
+    -90.525181,
+    35.671113,
+    -90.525181,
+    35.671113
+],
   "geometry": {"coordinates":[-90.525181,35.671113],"type":"Point"}
 }

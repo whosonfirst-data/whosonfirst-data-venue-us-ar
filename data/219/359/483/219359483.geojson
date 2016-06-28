@@ -2,13 +2,14 @@
   "id": 219359483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.489124,34.59591,-92.489124,34.59591",
     "geom:latitude":34.59591,
     "geom:longitude":-92.489124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Boone Rd",
     "sg:city":"Bryant",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219359483,
-    "wof:lastmodified":1449070332,
+    "wof:lastmodified":1466322388,
     "wof:name":"Jamie's Dog Grooming",
     "wof:parent_id":85844395,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cat"
     ]
 },
-  "bbox": [-92.489124,34.59591,-92.489124,34.59591],
+  "bbox": [
+    -92.489124,
+    34.59591,
+    -92.489124,
+    34.59591
+],
   "geometry": {"coordinates":[-92.489124,34.59591],"type":"Point"}
 }

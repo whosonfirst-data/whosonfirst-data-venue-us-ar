@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102367371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.373546,34.754438,-92.373546,34.754438",
     "geom:latitude":34.754438,
     "geom:longitude":-92.373546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 Brookside Dr",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85808177,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85808177
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102367371,
-    "wof:lastmodified":1449069169,
+    "wof:lastmodified":1466324405,
     "wof:name":"Brown & Dinger Properties LLC",
     "wof:parent_id":85808177,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.373546,34.754438,-92.373546,34.754438],
+  "bbox": [
+    -92.373546,
+    34.754438,
+    -92.373546,
+    34.754438
+],
   "geometry": {"coordinates":[-92.373546,34.754438],"type":"Point"}
 }

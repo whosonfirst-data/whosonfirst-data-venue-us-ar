@@ -2,13 +2,14 @@
   "id": 219517319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.685002,35.251595,-91.685002,35.251595",
     "geom:latitude":35.251595,
     "geom:longitude":-91.685002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3660 Ferren Trl",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":219517319,
-    "wof:lastmodified":1449072393,
+    "wof:lastmodified":1466324086,
     "wof:name":"Holiday Inn Express Hotel & Suites Searcy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "hall"
     ]
 },
-  "bbox": [-91.685002,35.251595,-91.685002,35.251595],
+  "bbox": [
+    -91.685002,
+    35.251595,
+    -91.685002,
+    35.251595
+],
   "geometry": {"coordinates":[-91.685002,35.251595],"type":"Point"}
 }

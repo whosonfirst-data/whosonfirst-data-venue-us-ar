@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102227587",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.377513,34.76151,-92.377513,34.76151",
     "geom:latitude":34.76151,
     "geom:longitude":-92.377513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Towne Park Ct",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85807173,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85807173
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102227587",
-    "wof:lastmodified":1449068318,
+    "wof:lastmodified":1466321374,
     "wof:name":"Shenell's House Cleaning Svc",
     "wof:parent_id":85807173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.377513,34.76151,-92.377513,34.76151],
-  "geometry": {"coordinates":[-92.377513,34.76151],"type":"Point"}
+  "bbox": [
+    -92.377513,
+    34.76151,
+    -92.377513,
+    34.76151
+],
+  "geometry": {"coordinates":[-92.37751299999999,34.76151],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219676609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.488617,36.056221,-90.488617,36.056221",
     "geom:latitude":36.056221,
     "geom:longitude":-90.488617,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 W Court St",
     "sg:city":"Paragould",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":219676609,
-    "wof:lastmodified":1449072644,
+    "wof:lastmodified":1466324834,
     "wof:name":"Paragould Police Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "village"
     ]
 },
-  "bbox": [-90.488617,36.056221,-90.488617,36.056221],
+  "bbox": [
+    -90.488617,
+    36.056221,
+    -90.488617,
+    36.056221
+],
   "geometry": {"coordinates":[-90.488617,36.056221],"type":"Point"}
 }

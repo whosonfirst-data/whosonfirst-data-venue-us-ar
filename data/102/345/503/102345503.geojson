@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102345503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.318666,35.104134,-92.318666,35.104134",
     "geom:latitude":35.104134,
     "geom:longitude":-92.318666,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"64 Eagle Crest Dr",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":102345503,
-    "wof:lastmodified":1449070004,
+    "wof:lastmodified":1466323969,
     "wof:name":"J Square Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.318666,35.104134,-92.318666,35.104134],
-  "geometry": {"coordinates":[-92.318666,35.104134],"type":"Point"}
+  "bbox": [
+    -92.318666,
+    35.104134,
+    -92.318666,
+    35.104134
+],
+  "geometry": {"coordinates":[-92.31866599999999,35.104134],"type":"Point"}
 }

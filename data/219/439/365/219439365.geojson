@@ -2,13 +2,14 @@
   "id": 219439365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.106548,34.878577,-92.106548,34.878577",
     "geom:latitude":34.878577,
     "geom:longitude":-92.106548,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"402 Stonewall Dr",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219439365,
-    "wof:lastmodified":1449071375,
+    "wof:lastmodified":1466323230,
     "wof:name":"Kci Cleaning",
     "wof:parent_id":85852337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "house"
     ]
 },
-  "bbox": [-92.106548,34.878577,-92.106548,34.878577],
+  "bbox": [
+    -92.106548,
+    34.878577,
+    -92.106548,
+    34.878577
+],
   "geometry": {"coordinates":[-92.106548,34.878577],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353941175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.534537,36.184024,-94.534537,36.184024",
     "geom:latitude":36.184024,
     "geom:longitude":-94.534537,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"816 E Main St",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353941175,
-    "wof:lastmodified":1449019799,
+    "wof:lastmodified":1466320554,
     "wof:name":"Thompson Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-94.534537,36.184024,-94.534537,36.184024],
+  "bbox": [
+    -94.534537,
+    36.184024,
+    -94.534537,
+    36.184024
+],
   "geometry": {"coordinates":[-94.534537,36.184024],"type":"Point"}
 }

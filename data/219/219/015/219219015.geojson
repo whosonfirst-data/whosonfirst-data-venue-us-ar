@@ -2,13 +2,14 @@
   "id": 219219015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.236423,33.27934,-93.236423,33.27934",
     "geom:latitude":33.27934,
     "geom:longitude":-93.236423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1411 N Jackson",
     "sg:city":"Magnolia",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":219219015,
-    "wof:lastmodified":1449073766,
+    "wof:lastmodified":1466321035,
     "wof:name":"Magnolia Dialysis Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "nephrology"
     ]
 },
-  "bbox": [-93.236423,33.27934,-93.236423,33.27934],
+  "bbox": [
+    -93.236423,
+    33.27934,
+    -93.236423,
+    33.27934
+],
   "geometry": {"coordinates":[-93.236423,33.27934],"type":"Point"}
 }

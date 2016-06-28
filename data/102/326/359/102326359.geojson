@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102326359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.605601,36.302084,-90.605601,36.302084",
     "geom:latitude":36.302084,
     "geom:longitude":-90.605601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1762 Co Rd 216",
     "sg:city":"Knobel",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102326359,
-    "wof:lastmodified":1449068785,
+    "wof:lastmodified":1466323584,
     "wof:name":"Tc Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.605601,36.302084,-90.605601,36.302084],
-  "geometry": {"coordinates":[-90.605601,36.302084],"type":"Point"}
+  "bbox": [
+    -90.605601,
+    36.302084,
+    -90.605601,
+    36.302084
+],
+  "geometry": {"coordinates":[-90.60560099999999,36.302084],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353868495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.541485,36.172531,-94.541485,36.172531",
     "geom:latitude":36.172531,
     "geom:longitude":-94.541485,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Hwy 412 E",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353868495,
-    "wof:lastmodified":1449018357,
+    "wof:lastmodified":1466320532,
     "wof:name":"Flash Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.541485,36.172531,-94.541485,36.172531],
-  "geometry": {"coordinates":[-94.541485,36.172531],"type":"Point"}
+  "bbox": [
+    -94.541485,
+    36.172531,
+    -94.541485,
+    36.172531
+],
+  "geometry": {"coordinates":[-94.54148499999999,36.172531],"type":"Point"}
 }

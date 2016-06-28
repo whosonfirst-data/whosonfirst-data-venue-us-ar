@@ -2,13 +2,14 @@
   "id": 219762757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.979937,36.160793,-92.979937,36.160793",
     "geom:latitude":36.160793,
     "geom:longitude":-92.979937,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9279 Maxie Camp Rd",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":219762757,
-    "wof:lastmodified":1449072890,
+    "wof:lastmodified":1466324918,
     "wof:name":"Chris' Photography",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "darkroom"
     ]
 },
-  "bbox": [-92.979937,36.160793,-92.979937,36.160793],
-  "geometry": {"coordinates":[-92.979937,36.160793],"type":"Point"}
+  "bbox": [
+    -92.979937,
+    36.160793,
+    -92.979937,
+    36.160793
+],
+  "geometry": {"coordinates":[-92.97993700000001,36.160793],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219662553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.725029,35.56398,-90.725029,35.56398",
     "geom:latitude":35.56398,
     "geom:longitude":-90.725029,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Normal Ave",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":219662553,
-    "wof:lastmodified":1449072772,
+    "wof:lastmodified":1466324780,
     "wof:name":"JR Custom PC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "data"
     ]
 },
-  "bbox": [-90.725029,35.56398,-90.725029,35.56398],
-  "geometry": {"coordinates":[-90.725029,35.56398],"type":"Point"}
+  "bbox": [
+    -90.725029,
+    35.56398,
+    -90.725029,
+    35.56398
+],
+  "geometry": {"coordinates":[-90.72502900000001,35.56398],"type":"Point"}
 }

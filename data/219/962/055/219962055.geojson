@@ -2,13 +2,14 @@
   "id": 219962055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.151987,36.355802,-94.151987,36.355802",
     "geom:latitude":36.355802,
     "geom:longitude":-94.151987,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2403 W Hudson Rd",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -77,10 +78,11 @@
         }
     ],
     "wof:id":219962055,
-    "wof:lastmodified":1449072460,
+    "wof:lastmodified":1466325141,
     "wof:name":"UDI Inc.",
     "wof:parent_id":85895823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -97,6 +99,11 @@
         "frames"
     ]
 },
-  "bbox": [-94.151987,36.355802,-94.151987,36.355802],
-  "geometry": {"coordinates":[-94.151987,36.355802],"type":"Point"}
+  "bbox": [
+    -94.151987,
+    36.355802,
+    -94.151987,
+    36.355802
+],
+  "geometry": {"coordinates":[-94.15198700000001,36.355802],"type":"Point"}
 }

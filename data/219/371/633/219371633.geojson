@@ -2,13 +2,14 @@
   "id": 219371633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.307393,34.69253,-91.307393,34.69253",
     "geom:latitude":34.69253,
     "geom:longitude":-91.307393,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"649 Madison St",
     "sg:city":"Clarendon",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219371633,
-    "wof:lastmodified":1449073152,
+    "wof:lastmodified":1466322597,
     "wof:name":"Dancer Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "trucking"
     ]
 },
-  "bbox": [-91.307393,34.69253,-91.307393,34.69253],
+  "bbox": [
+    -91.307393,
+    34.69253,
+    -91.307393,
+    34.69253
+],
   "geometry": {"coordinates":[-91.307393,34.69253],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102392029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.413212,35.351689,-94.413212,35.351689",
     "geom:latitude":35.351689,
     "geom:longitude":-94.413212,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3205 Jenny Lind Rd",
     "sg:city":"Fort Smith",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.fssc.k12.ar.us",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834235,
+        85688549,
         85633793,
         85921431,
         102082025,
-        85688549
+        85834235
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102392029,
-    "wof:lastmodified":1449069708,
+    "wof:lastmodified":1466324763,
     "wof:name":"Fort Smith Public Schools",
     "wof:parent_id":85834235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.413212,35.351689,-94.413212,35.351689],
+  "bbox": [
+    -94.413212,
+    35.351689,
+    -94.413212,
+    35.351689
+],
   "geometry": {"coordinates":[-94.413212,35.351689],"type":"Point"}
 }

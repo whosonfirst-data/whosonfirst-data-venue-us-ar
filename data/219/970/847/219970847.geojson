@@ -2,13 +2,14 @@
   "id": 219970847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.116148,36.332848,-94.116148,36.332848",
     "geom:latitude":36.332848,
     "geom:longitude":-94.116148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 S 1st St",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219970847,
-    "wof:lastmodified":1449073851,
+    "wof:lastmodified":1466325281,
     "wof:name":"Poor Richard's Art",
     "wof:parent_id":85895849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-94.116148,36.332848,-94.116148,36.332848],
+  "bbox": [
+    -94.116148,
+    36.332848,
+    -94.116148,
+    36.332848
+],
   "geometry": {"coordinates":[-94.116148,36.332848],"type":"Point"}
 }

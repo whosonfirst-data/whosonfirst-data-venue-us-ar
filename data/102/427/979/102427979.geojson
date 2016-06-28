@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102427979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.214286,36.356986,-94.214286,36.356986",
     "geom:latitude":36.356986,
     "geom:longitude":-94.214286,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"513 SW 14th St",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -32,11 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895807,
+        85688549,
         85633793,
         85921509,
         102083255,
-        85688549
+        85895807
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":102427979,
-    "wof:lastmodified":1449068504,
+    "wof:lastmodified":1466325562,
     "wof:name":"J E Bonding Inc",
     "wof:parent_id":85895807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.214286,36.356986,-94.214286,36.356986],
+  "bbox": [
+    -94.214286,
+    36.356986,
+    -94.214286,
+    36.356986
+],
   "geometry": {"coordinates":[-94.214286,36.356986],"type":"Point"}
 }

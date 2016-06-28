@@ -2,13 +2,14 @@
   "id": 303329035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.527917,36.181138,-94.527917,36.181138",
     "geom:latitude":36.181138,
     "geom:longitude":-94.527917,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"524 S Lincoln St",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303329035,
-    "wof:lastmodified":1448998792,
+    "wof:lastmodified":1466320445,
     "wof:name":"DMT Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.527917,36.181138,-94.527917,36.181138],
+  "bbox": [
+    -94.527917,
+    36.181138,
+    -94.527917,
+    36.181138
+],
   "geometry": {"coordinates":[-94.527917,36.181138],"type":"Point"}
 }

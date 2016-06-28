@@ -2,13 +2,14 @@
   "id": 219225419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.589697,33.661533,-93.589697,33.661533",
     "geom:latitude":33.661533,
     "geom:longitude":-93.589697,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"718 S Main St",
     "sg:city":"Hope",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219225419,
-    "wof:lastmodified":1449071497,
+    "wof:lastmodified":1466321108,
     "wof:name":"Accelerated Technologies",
     "wof:parent_id":85806015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-93.589697,33.661533,-93.589697,33.661533],
+  "bbox": [
+    -93.589697,
+    33.661533,
+    -93.589697,
+    33.661533
+],
   "geometry": {"coordinates":[-93.589697,33.661533],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219428213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.639502,34.809639,-91.639502,34.809639",
     "geom:latitude":34.809639,
     "geom:longitude":-91.639502,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"726 S Anderson Rd",
     "sg:city":"Hazen",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219428213,
-    "wof:lastmodified":1449073664,
+    "wof:lastmodified":1466323086,
     "wof:name":"Long Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "contractor"
     ]
 },
-  "bbox": [-91.639502,34.809639,-91.639502,34.809639],
-  "geometry": {"coordinates":[-91.639502,34.809639],"type":"Point"}
+  "bbox": [
+    -91.639502,
+    34.809639,
+    -91.639502,
+    34.809639
+],
+  "geometry": {"coordinates":[-91.63950199999999,34.809639],"type":"Point"}
 }

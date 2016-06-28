@@ -2,13 +2,14 @@
   "id": 219469479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.730942,35.152,-92.730942,35.152",
     "geom:latitude":35.152,
     "geom:longitude":-92.730942,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1119 E Broadway St",
     "sg:city":"Morrilton",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":219469479,
-    "wof:lastmodified":1449074021,
+    "wof:lastmodified":1466323546,
     "wof:name":"Coop Service Center",
     "wof:parent_id":85814069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-92.730942,35.152,-92.730942,35.152],
+  "bbox": [
+    -92.730942,
+    35.152,
+    -92.730942,
+    35.152
+],
   "geometry": {"coordinates":[-92.730942,35.152],"type":"Point"}
 }

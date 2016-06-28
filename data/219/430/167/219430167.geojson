@@ -2,13 +2,14 @@
   "id": 219430167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.260245,34.552901,-92.260245,34.552901",
     "geom:latitude":34.552901,
     "geom:longitude":-92.260245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21691 Acacia Dr",
     "sg:city":"Hensley",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219430167,
-    "wof:lastmodified":1449072632,
+    "wof:lastmodified":1466323100,
     "wof:name":"Gmj Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "trucking"
     ]
 },
-  "bbox": [-92.260245,34.552901,-92.260245,34.552901],
+  "bbox": [
+    -92.260245,
+    34.552901,
+    -92.260245,
+    34.552901
+],
   "geometry": {"coordinates":[-92.260245,34.552901],"type":"Point"}
 }

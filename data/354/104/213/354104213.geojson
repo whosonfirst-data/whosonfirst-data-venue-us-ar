@@ -2,13 +2,14 @@
   "id": 354104213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.224792,34.580221,-94.224792,34.580221",
     "geom:latitude":34.580221,
     "geom:longitude":-94.224792,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"709 Petros Ave",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354104213,
-    "wof:lastmodified":1449066621,
+    "wof:lastmodified":1466324508,
     "wof:name":"J V's Auto & Truck Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "general"
     ]
 },
-  "bbox": [-94.224792,34.580221,-94.224792,34.580221],
-  "geometry": {"coordinates":[-94.224792,34.580221],"type":"Point"}
+  "bbox": [
+    -94.224792,
+    34.580221,
+    -94.224792,
+    34.580221
+],
+  "geometry": {"coordinates":[-94.22479199999999,34.580221],"type":"Point"}
 }

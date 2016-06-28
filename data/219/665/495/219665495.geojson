@@ -2,13 +2,14 @@
   "id": 219665495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.722851,35.571471,-90.722851,35.571471",
     "geom:latitude":35.571471,
     "geom:longitude":-90.722851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 Catherine St",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":219665495,
-    "wof:lastmodified":1449071475,
+    "wof:lastmodified":1466324790,
     "wof:name":"Woodbriar Nursing Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "assisted"
     ]
 },
-  "bbox": [-90.722851,35.571471,-90.722851,35.571471],
-  "geometry": {"coordinates":[-90.722851,35.571471],"type":"Point"}
+  "bbox": [
+    -90.722851,
+    35.571471,
+    -90.722851,
+    35.571471
+],
+  "geometry": {"coordinates":[-90.72285100000001,35.571471],"type":"Point"}
 }

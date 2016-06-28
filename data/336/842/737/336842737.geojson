@@ -2,13 +2,14 @@
   "id": 336842737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.54231,36.186953,-94.54231,36.186953",
     "geom:latitude":36.186953,
     "geom:longitude":-94.54231,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 W Ashley St",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336842737,
-    "wof:lastmodified":1448997007,
+    "wof:lastmodified":1466320448,
     "wof:name":"Deja Vu Coffee House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "eating"
     ]
 },
-  "bbox": [-94.54231,36.186953,-94.54231,36.186953],
+  "bbox": [
+    -94.54231,
+    36.186953,
+    -94.54231,
+    36.186953
+],
   "geometry": {"coordinates":[-94.54231,36.186953],"type":"Point"}
 }

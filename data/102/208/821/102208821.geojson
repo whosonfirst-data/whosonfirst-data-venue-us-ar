@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102208821",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.385264,36.336048,-92.385264,36.336048",
     "geom:latitude":36.336048,
     "geom:longitude":-92.385264,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"507 S Main St",
     "sg:city":"Mountain Home",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102208821",
-    "wof:lastmodified":1449068081,
+    "wof:lastmodified":1466320943,
     "wof:name":"National Medtest Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.385264,36.336048,-92.385264,36.336048],
-  "geometry": {"coordinates":[-92.385264,36.336048],"type":"Point"}
+  "bbox": [
+    -92.385264,
+    36.336048,
+    -92.385264,
+    36.336048
+],
+  "geometry": {"coordinates":[-92.38526400000001,36.336048],"type":"Point"}
 }

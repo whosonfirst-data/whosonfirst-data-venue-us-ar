@@ -2,13 +2,14 @@
   "id": 220029405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.1511,36.192299,-94.1511,36.192299",
     "geom:latitude":36.192299,
     "geom:longitude":-94.1511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"404 Elmdale Ln",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220029405,
-    "wof:lastmodified":1449074381,
+    "wof:lastmodified":1466320511,
     "wof:name":"Noark Mobile Wash",
     "wof:parent_id":85885491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.1511,36.192299,-94.1511,36.192299],
+  "bbox": [
+    -94.1511,
+    36.192299,
+    -94.1511,
+    36.192299
+],
   "geometry": {"coordinates":[-94.1511,36.192299],"type":"Point"}
 }

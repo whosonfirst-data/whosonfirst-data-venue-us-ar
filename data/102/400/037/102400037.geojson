@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102400037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.962921,33.132314,-91.962921,33.132314",
     "geom:latitude":33.132314,
     "geom:longitude":-91.962921,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 N Alabama St",
     "sg:city":"Crossett",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102400037,
-    "wof:lastmodified":1449068030,
+    "wof:lastmodified":1466324655,
     "wof:name":"Phoenix Youth & Family Svcs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.962921,33.132314,-91.962921,33.132314],
-  "geometry": {"coordinates":[-91.962921,33.132314],"type":"Point"}
+  "bbox": [
+    -91.962921,
+    33.132314,
+    -91.962921,
+    33.132314
+],
+  "geometry": {"coordinates":[-91.96292099999999,33.132314],"type":"Point"}
 }

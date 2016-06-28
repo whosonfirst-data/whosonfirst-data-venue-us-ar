@@ -2,13 +2,14 @@
   "id": 219604145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.212119,35.214549,-90.212119,35.214549",
     "geom:latitude":35.214549,
     "geom:longitude":-90.212119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"327 Dozier Cir",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219604145,
-    "wof:lastmodified":1449073507,
+    "wof:lastmodified":1466324585,
     "wof:name":"Competitor's Edge Lures",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tackle"
     ]
 },
-  "bbox": [-90.212119,35.214549,-90.212119,35.214549],
+  "bbox": [
+    -90.212119,
+    35.214549,
+    -90.212119,
+    35.214549
+],
   "geometry": {"coordinates":[-90.212119,35.214549],"type":"Point"}
 }

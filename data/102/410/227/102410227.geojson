@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102410227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.692109,33.769312,-93.692109,33.769312",
     "geom:latitude":33.769312,
     "geom:longitude":-93.692109,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Franklin St",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102410227,
-    "wof:lastmodified":1449067792,
+    "wof:lastmodified":1466325109,
     "wof:name":"Dukes General Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.692109,33.769312,-93.692109,33.769312],
+  "bbox": [
+    -93.692109,
+    33.769312,
+    -93.692109,
+    33.769312
+],
   "geometry": {"coordinates":[-93.692109,33.769312],"type":"Point"}
 }

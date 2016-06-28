@@ -2,13 +2,14 @@
   "id": 220122253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.089675,35.51058,-94.089675,35.51058",
     "geom:latitude":35.51058,
     "geom:longitude":-94.089675,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2334 Mulberry Highway 64 W",
     "sg:city":"Mulberry",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":220122253,
-    "wof:lastmodified":1449074510,
+    "wof:lastmodified":1466322646,
     "wof:name":"Jcg Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "trucking"
     ]
 },
-  "bbox": [-94.089675,35.51058,-94.089675,35.51058],
+  "bbox": [
+    -94.089675,
+    35.51058,
+    -94.089675,
+    35.51058
+],
   "geometry": {"coordinates":[-94.089675,35.51058],"type":"Point"}
 }

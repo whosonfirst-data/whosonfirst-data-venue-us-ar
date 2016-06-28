@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102417917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.421884,35.358319,-94.421884,35.358319",
     "geom:latitude":35.358319,
     "geom:longitude":-94.421884,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2701 Towson Ave",
     "sg:city":"Fort Smith",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834235,
+        85688549,
         85633793,
         85921431,
         102082025,
-        85688549
+        85834235
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102417917,
-    "wof:lastmodified":1449068759,
+    "wof:lastmodified":1466325420,
     "wof:name":"Sports & Imports Inc",
     "wof:parent_id":85834235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.421884,35.358319,-94.421884,35.358319],
-  "geometry": {"coordinates":[-94.421884,35.358319],"type":"Point"}
+  "bbox": [
+    -94.421884,
+    35.358319,
+    -94.421884,
+    35.358319
+],
+  "geometry": {"coordinates":[-94.42188400000001,35.358319],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186298593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.034858,33.445552,-94.034858,33.445552",
     "geom:latitude":33.445552,
     "geom:longitude":-94.034858,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2302 Locust St",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186298593,
-    "wof:lastmodified":1449051111,
+    "wof:lastmodified":1466324425,
     "wof:name":"County Line Deer Club Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "membership"
     ]
 },
-  "bbox": [-94.034858,33.445552,-94.034858,33.445552],
+  "bbox": [
+    -94.034858,
+    33.445552,
+    -94.034858,
+    33.445552
+],
   "geometry": {"coordinates":[-94.034858,33.445552],"type":"Point"}
 }

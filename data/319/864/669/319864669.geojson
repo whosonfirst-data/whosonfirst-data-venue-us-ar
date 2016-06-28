@@ -2,13 +2,14 @@
   "id": 319864669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.41559,36.322987,-94.41559,36.322987",
     "geom:latitude":36.322987,
     "geom:longitude":-94.41559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17481 Little John Rd",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":319864669,
-    "wof:lastmodified":1449024885,
+    "wof:lastmodified":1466324511,
     "wof:name":"Heaven Bound Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "broadcast"
     ]
 },
-  "bbox": [-94.41559,36.322987,-94.41559,36.322987],
-  "geometry": {"coordinates":[-94.41559,36.322987],"type":"Point"}
+  "bbox": [
+    -94.41559,
+    36.322987,
+    -94.41559,
+    36.322987
+],
+  "geometry": {"coordinates":[-94.41558999999999,36.322987],"type":"Point"}
 }

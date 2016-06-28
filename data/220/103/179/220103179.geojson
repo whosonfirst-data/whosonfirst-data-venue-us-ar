@@ -2,13 +2,14 @@
   "id": 220103179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.92107,35.137026,-93.92107,35.137026",
     "geom:latitude":35.137026,
     "geom:longitude":-93.92107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"134 S Sharpe Ave",
     "sg:city":"Booneville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220103179,
-    "wof:lastmodified":1449074543,
+    "wof:lastmodified":1466322272,
     "wof:name":"Trisas Family Haircare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "stylist"
     ]
 },
-  "bbox": [-93.92107,35.137026,-93.92107,35.137026],
+  "bbox": [
+    -93.92107,
+    35.137026,
+    -93.92107,
+    35.137026
+],
   "geometry": {"coordinates":[-93.92107,35.137026],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220031105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.185493,36.167091,-94.185493,36.167091",
     "geom:latitude":36.167091,
     "geom:longitude":-94.185493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2070 Mckenzie Rd",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220031105,
-    "wof:lastmodified":1449074333,
+    "wof:lastmodified":1466320509,
     "wof:name":"Technisource/Intellimark",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-94.185493,36.167091,-94.185493,36.167091],
-  "geometry": {"coordinates":[-94.185493,36.167091],"type":"Point"}
+  "bbox": [
+    -94.185493,
+    36.167091,
+    -94.185493,
+    36.167091
+],
+  "geometry": {"coordinates":[-94.18549299999999,36.167091],"type":"Point"}
 }

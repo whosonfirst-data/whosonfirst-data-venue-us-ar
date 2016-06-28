@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102229539",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.08043,34.122212,-93.08043,34.122212",
     "geom:latitude":34.122212,
     "geom:longitude":-93.08043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 N 26th St",
     "sg:city":"Arkadelphia",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102229539",
-    "wof:lastmodified":1449069697,
+    "wof:lastmodified":1466321419,
     "wof:name":"Lasting Impression",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.08043,34.122212,-93.08043,34.122212],
-  "geometry": {"coordinates":[-93.08043,34.122212],"type":"Point"}
+  "bbox": [
+    -93.08043,
+    34.122212,
+    -93.08043,
+    34.122212
+],
+  "geometry": {"coordinates":[-93.08043000000001,34.122212],"type":"Point"}
 }

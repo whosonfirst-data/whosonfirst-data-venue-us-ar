@@ -2,13 +2,14 @@
   "id": 220032627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.143652,36.166037,-94.143652,36.166037",
     "geom:latitude":36.166037,
     "geom:longitude":-94.143652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2004 S Pleasant St",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":220032627,
-    "wof:lastmodified":1449074422,
+    "wof:lastmodified":1466320518,
     "wof:name":"Arkansas Eye Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "optometric"
     ]
 },
-  "bbox": [-94.143652,36.166037,-94.143652,36.166037],
+  "bbox": [
+    -94.143652,
+    36.166037,
+    -94.143652,
+    36.166037
+],
   "geometry": {"coordinates":[-94.143652,36.166037],"type":"Point"}
 }

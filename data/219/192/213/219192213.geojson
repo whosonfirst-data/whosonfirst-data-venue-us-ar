@@ -2,13 +2,14 @@
   "id": 219192213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.840746,33.592024,-92.840746,33.592024",
     "geom:latitude":33.592024,
     "geom:longitude":-92.840746,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"563 Pearl St NW",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219192213,
-    "wof:lastmodified":1449072894,
+    "wof:lastmodified":1466320780,
     "wof:name":"Westside Grocery",
     "wof:parent_id":85813169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.840746,33.592024,-92.840746,33.592024],
+  "bbox": [
+    -92.840746,
+    33.592024,
+    -92.840746,
+    33.592024
+],
   "geometry": {"coordinates":[-92.840746,33.592024],"type":"Point"}
 }

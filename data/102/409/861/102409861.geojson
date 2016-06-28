@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102409861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.493304,35.084329,-92.493304,35.084329",
     "geom:latitude":35.084329,
     "geom:longitude":-92.493304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 Shock Loop",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102409861,
-    "wof:lastmodified":1449068766,
+    "wof:lastmodified":1466325229,
     "wof:name":"Lee W Hodge D C P A",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.493304,35.084329,-92.493304,35.084329],
-  "geometry": {"coordinates":[-92.493304,35.084329],"type":"Point"}
+  "bbox": [
+    -92.493304,
+    35.084329,
+    -92.493304,
+    35.084329
+],
+  "geometry": {"coordinates":[-92.49330399999999,35.084329],"type":"Point"}
 }

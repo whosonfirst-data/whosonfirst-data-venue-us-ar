@@ -2,13 +2,14 @@
   "id": 220030455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.234598,36.206082,-94.234598,36.206082",
     "geom:latitude":36.206082,
     "geom:longitude":-94.234598,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 School Ave",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220030455,
-    "wof:lastmodified":1449074326,
+    "wof:lastmodified":1466320513,
     "wof:name":"Rogers Public Schools",
     "wof:parent_id":85885477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "elementary"
     ]
 },
-  "bbox": [-94.234598,36.206082,-94.234598,36.206082],
-  "geometry": {"coordinates":[-94.234598,36.206082],"type":"Point"}
+  "bbox": [
+    -94.234598,
+    36.206082,
+    -94.234598,
+    36.206082
+],
+  "geometry": {"coordinates":[-94.23459800000001,36.206082],"type":"Point"}
 }

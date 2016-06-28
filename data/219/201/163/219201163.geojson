@@ -2,13 +2,14 @@
   "id": 219201163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.153444,33.921634,-93.153444,33.921634",
     "geom:latitude":33.921634,
     "geom:longitude":-93.153444,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 W Walnut Loop",
     "sg:city":"Gurdon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219201163,
-    "wof:lastmodified":1449073439,
+    "wof:lastmodified":1466320874,
     "wof:name":"Cabe Public Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.153444,33.921634,-93.153444,33.921634],
-  "geometry": {"coordinates":[-93.153444,33.921634],"type":"Point"}
+  "bbox": [
+    -93.153444,
+    33.921634,
+    -93.153444,
+    33.921634
+],
+  "geometry": {"coordinates":[-93.15344399999999,33.921634],"type":"Point"}
 }

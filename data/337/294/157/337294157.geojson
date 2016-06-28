@@ -2,13 +2,14 @@
   "id": 337294157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.048509,36.43093,-94.048509,36.43093",
     "geom:latitude":36.43093,
     "geom:longitude":-94.048509,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14960 E Highway 62",
     "sg:city":"Garfield",
     "sg:classifiers":[
@@ -97,10 +98,11 @@
         }
     ],
     "wof:id":337294157,
-    "wof:lastmodified":1449027529,
+    "wof:lastmodified":1466322158,
     "wof:name":"Beaver Lake Distribution",
     "wof:parent_id":85895835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -118,6 +120,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-94.048509,36.43093,-94.048509,36.43093],
+  "bbox": [
+    -94.048509,
+    36.43093,
+    -94.048509,
+    36.43093
+],
   "geometry": {"coordinates":[-94.048509,36.43093],"type":"Point"}
 }

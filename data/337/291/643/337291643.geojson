@@ -2,13 +2,14 @@
   "id": 337291643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.740609,35.250869,-91.740609,35.250869",
     "geom:latitude":35.250869,
     "geom:longitude":-91.740609,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"407 N Elm St",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337291643,
-    "wof:lastmodified":1449027193,
+    "wof:lastmodified":1466322088,
     "wof:name":"Arkansas State Board Of Optometry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "government-state"
     ]
 },
-  "bbox": [-91.740609,35.250869,-91.740609,35.250869],
-  "geometry": {"coordinates":[-91.740609,35.250869],"type":"Point"}
+  "bbox": [
+    -91.740609,
+    35.250869,
+    -91.740609,
+    35.250869
+],
+  "geometry": {"coordinates":[-91.74060900000001,35.250869],"type":"Point"}
 }

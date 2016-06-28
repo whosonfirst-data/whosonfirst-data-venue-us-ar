@@ -2,13 +2,14 @@
   "id": 354028043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.243605,34.572963,-94.243605,34.572963",
     "geom:latitude":34.572963,
     "geom:longitude":-94.243605,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1603 US Hwy 71",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354028043,
-    "wof:lastmodified":1449066861,
+    "wof:lastmodified":1466324490,
     "wof:name":"Mena Ranger District",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "conservation"
     ]
 },
-  "bbox": [-94.243605,34.572963,-94.243605,34.572963],
+  "bbox": [
+    -94.243605,
+    34.572963,
+    -94.243605,
+    34.572963
+],
   "geometry": {"coordinates":[-94.243605,34.572963],"type":"Point"}
 }

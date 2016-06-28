@@ -2,13 +2,14 @@
   "id": 219604677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.203869,35.212973,-90.203869,35.212973",
     "geom:latitude":35.212973,
     "geom:longitude":-90.203869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"384 Military Rd",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -68,10 +69,11 @@
         }
     ],
     "wof:id":219604677,
-    "wof:lastmodified":1449073507,
+    "wof:lastmodified":1466324817,
     "wof:name":"Edward Jones - Financial Advisor: TOM DEMATTI",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -85,6 +87,11 @@
         "stock"
     ]
 },
-  "bbox": [-90.203869,35.212973,-90.203869,35.212973],
+  "bbox": [
+    -90.203869,
+    35.212973,
+    -90.203869,
+    35.212973
+],
   "geometry": {"coordinates":[-90.203869,35.212973],"type":"Point"}
 }

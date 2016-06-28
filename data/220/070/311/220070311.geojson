@@ -2,13 +2,14 @@
   "id": 220070311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.079892,35.300471,-93.079892,35.300471",
     "geom:latitude":35.300471,
     "geom:longitude":-93.079892,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"131 Upper Mcguire Loop",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":220070311,
-    "wof:lastmodified":1449074411,
+    "wof:lastmodified":1466321364,
     "wof:name":"Just Plane Maintenance",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "cleaners-interior"
     ]
 },
-  "bbox": [-93.079892,35.300471,-93.079892,35.300471],
+  "bbox": [
+    -93.079892,
+    35.300471,
+    -93.079892,
+    35.300471
+],
   "geometry": {"coordinates":[-93.079892,35.300471],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219398299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.4652,35.097192,-92.4652,35.097192",
     "geom:latitude":35.097192,
     "geom:longitude":-92.4652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Morningside Dr",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219398299,
-    "wof:lastmodified":1449070673,
+    "wof:lastmodified":1466322833,
     "wof:name":"American Hvac Services Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-92.4652,35.097192,-92.4652,35.097192],
+  "bbox": [
+    -92.4652,
+    35.097192,
+    -92.4652,
+    35.097192
+],
   "geometry": {"coordinates":[-92.4652,35.097192],"type":"Point"}
 }

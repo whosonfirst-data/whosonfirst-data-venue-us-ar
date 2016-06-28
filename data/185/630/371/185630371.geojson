@@ -2,13 +2,14 @@
   "id": 185630371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.042636,33.425814,-94.042636,33.425814",
     "geom:latitude":33.425814,
     "geom:longitude":-94.042636,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"504 Wood St",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185630371,
-    "wof:lastmodified":1449007164,
+    "wof:lastmodified":1466320409,
     "wof:name":"Pro Sat",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "system"
     ]
 },
-  "bbox": [-94.042636,33.425814,-94.042636,33.425814],
+  "bbox": [
+    -94.042636,
+    33.425814,
+    -94.042636,
+    33.425814
+],
   "geometry": {"coordinates":[-94.042636,33.425814],"type":"Point"}
 }

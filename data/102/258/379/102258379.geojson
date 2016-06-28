@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102258379",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.094512,36.047225,-94.094512,36.047225",
     "geom:latitude":36.047225,
     "geom:longitude":-94.094512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4450 E Huntsville Rd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102258379",
-    "wof:lastmodified":1449069687,
+    "wof:lastmodified":1466322057,
     "wof:name":"Wfj Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.094512,36.047225,-94.094512,36.047225],
-  "geometry": {"coordinates":[-94.094512,36.047225],"type":"Point"}
+  "bbox": [
+    -94.094512,
+    36.047225,
+    -94.094512,
+    36.047225
+],
+  "geometry": {"coordinates":[-94.09451199999999,36.047225],"type":"Point"}
 }

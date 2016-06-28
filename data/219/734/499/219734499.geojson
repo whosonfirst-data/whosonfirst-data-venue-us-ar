@@ -2,13 +2,14 @@
   "id": 219734499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.538785,35.811959,-91.538785,35.811959",
     "geom:latitude":35.811959,
     "geom:longitude":-91.538785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"195 Hix Ln",
     "sg:city":"Batesville",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219734499,
-    "wof:lastmodified":1449073467,
+    "wof:lastmodified":1466324899,
     "wof:name":"Hix Plumbing",
     "wof:parent_id":85808231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "contractors-commercial"
     ]
 },
-  "bbox": [-91.538785,35.811959,-91.538785,35.811959],
+  "bbox": [
+    -91.538785,
+    35.811959,
+    -91.538785,
+    35.811959
+],
   "geometry": {"coordinates":[-91.538785,35.811959],"type":"Point"}
 }

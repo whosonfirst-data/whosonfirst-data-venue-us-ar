@@ -2,13 +2,14 @@
   "id": 219841203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.159737,36.095376,-94.159737,36.095376",
     "geom:latitude":36.095376,
     "geom:longitude":-94.159737,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 W Township St",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -76,10 +77,11 @@
         }
     ],
     "wof:id":219841203,
-    "wof:lastmodified":1449071135,
+    "wof:lastmodified":1466325019,
     "wof:name":"The Hardware Store",
     "wof:parent_id":85885445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -95,6 +97,11 @@
         "store"
     ]
 },
-  "bbox": [-94.159737,36.095376,-94.159737,36.095376],
-  "geometry": {"coordinates":[-94.159737,36.095376],"type":"Point"}
+  "bbox": [
+    -94.159737,
+    36.095376,
+    -94.159737,
+    36.095376
+],
+  "geometry": {"coordinates":[-94.15973700000001,36.095376],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 235948045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.764439,36.597951,-94.764439,36.597951",
     "geom:latitude":36.597951,
     "geom:longitude":-94.764439,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"407 W 3rd St",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":235948045,
-    "wof:lastmodified":1449008528,
+    "wof:lastmodified":1466320418,
     "wof:name":"Ltd Motors",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "new"
     ]
 },
-  "bbox": [-94.764439,36.597951,-94.764439,36.597951],
+  "bbox": [
+    -94.764439,
+    36.597951,
+    -94.764439,
+    36.597951
+],
   "geometry": {"coordinates":[-94.764439,36.597951],"type":"Point"}
 }

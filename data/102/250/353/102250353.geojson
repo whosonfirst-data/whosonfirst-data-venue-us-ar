@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102250353",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.113014,36.173091,-94.113014,36.173091",
     "geom:latitude":36.173091,
     "geom:longitude":-94.113014,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1211 Esi Dr",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102250353",
-    "wof:lastmodified":1449069118,
+    "wof:lastmodified":1466321881,
     "wof:name":"Bearing Headquarters Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.113014,36.173091,-94.113014,36.173091],
-  "geometry": {"coordinates":[-94.113014,36.173091],"type":"Point"}
+  "bbox": [
+    -94.113014,
+    36.173091,
+    -94.113014,
+    36.173091
+],
+  "geometry": {"coordinates":[-94.11301400000001,36.173091],"type":"Point"}
 }

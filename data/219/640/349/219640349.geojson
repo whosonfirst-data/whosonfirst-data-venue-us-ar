@@ -2,13 +2,14 @@
   "id": 219640349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.704849,35.842106,-90.704849,35.842106",
     "geom:latitude":35.842106,
     "geom:longitude":-90.704849,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 S Main St",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219640349,
-    "wof:lastmodified":1449071920,
+    "wof:lastmodified":1466324638,
     "wof:name":"Cregeen's Of Jonesboro",
     "wof:parent_id":85836541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.704849,35.842106,-90.704849,35.842106],
+  "bbox": [
+    -90.704849,
+    35.842106,
+    -90.704849,
+    35.842106
+],
   "geometry": {"coordinates":[-90.704849,35.842106],"type":"Point"}
 }

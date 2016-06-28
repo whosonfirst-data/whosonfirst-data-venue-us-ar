@@ -2,13 +2,14 @@
   "id": 219804743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.191238,36.44949,-93.191238,36.44949",
     "geom:latitude":36.44949,
     "geom:longitude":-93.191238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Pine St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219804743,
-    "wof:lastmodified":1449072850,
+    "wof:lastmodified":1466324961,
     "wof:name":"Huston Surveying",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "engineer"
     ]
 },
-  "bbox": [-93.191238,36.44949,-93.191238,36.44949],
+  "bbox": [
+    -93.191238,
+    36.44949,
+    -93.191238,
+    36.44949
+],
   "geometry": {"coordinates":[-93.191238,36.44949],"type":"Point"}
 }

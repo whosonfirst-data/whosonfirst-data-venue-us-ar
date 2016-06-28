@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102423683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.372591,34.734821,-92.372591,34.734821",
     "geom:latitude":34.734821,
     "geom:longitude":-92.372591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1920 John Barrow Rd",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85808177,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85808177
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102423683,
-    "wof:lastmodified":1449068203,
+    "wof:lastmodified":1466325528,
     "wof:name":"Accessibility Specialties Inc",
     "wof:parent_id":85808177,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.372591,34.734821,-92.372591,34.734821],
+  "bbox": [
+    -92.372591,
+    34.734821,
+    -92.372591,
+    34.734821
+],
   "geometry": {"coordinates":[-92.372591,34.734821],"type":"Point"}
 }

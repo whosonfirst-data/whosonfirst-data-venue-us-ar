@@ -2,13 +2,14 @@
   "id": 320436433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.251254,34.590335,-94.251254,34.590335",
     "geom:latitude":34.590335,
     "geom:longitude":-94.251254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"469 Polk St N",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320436433,
-    "wof:lastmodified":1449014605,
+    "wof:lastmodified":1466320546,
     "wof:name":"Heath Delton Janitorial Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-94.251254,34.590335,-94.251254,34.590335],
+  "bbox": [
+    -94.251254,
+    34.590335,
+    -94.251254,
+    34.590335
+],
   "geometry": {"coordinates":[-94.251254,34.590335],"type":"Point"}
 }

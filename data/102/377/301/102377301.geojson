@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102377301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.183774,36.371021,-94.183774,36.371021",
     "geom:latitude":36.371021,
     "geom:longitude":-94.183774,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2005 E Central Ave",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895817,
+        85688549,
         85633793,
         85921509,
         102083255,
-        85688549
+        85895817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":102377301,
-    "wof:lastmodified":1449068683,
+    "wof:lastmodified":1466321536,
     "wof:name":"Gracious Living Interiors",
     "wof:parent_id":85895817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.183774,36.371021,-94.183774,36.371021],
+  "bbox": [
+    -94.183774,
+    36.371021,
+    -94.183774,
+    36.371021
+],
   "geometry": {"coordinates":[-94.183774,36.371021],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102415799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.171331,36.382201,-94.171331,36.382201",
     "geom:latitude":36.382201,
     "geom:longitude":-94.171331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1008 Beau Terre Dr",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102415799,
-    "wof:lastmodified":1449069537,
+    "wof:lastmodified":1466325382,
     "wof:name":"General Mills",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.171331,36.382201,-94.171331,36.382201],
+  "bbox": [
+    -94.171331,
+    36.382201,
+    -94.171331,
+    36.382201
+],
   "geometry": {"coordinates":[-94.171331,36.382201],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102226863",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.094339,34.913416,-94.094339,34.913416",
     "geom:latitude":34.913416,
     "geom:longitude":-94.094339,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"777 US Hwy 71 Bus",
     "sg:city":"Waldron",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":"102226863",
-    "wof:lastmodified":1449069548,
+    "wof:lastmodified":1466321391,
     "wof:name":"Waldron Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.094339,34.913416,-94.094339,34.913416],
-  "geometry": {"coordinates":[-94.094339,34.913416],"type":"Point"}
+  "bbox": [
+    -94.094339,
+    34.913416,
+    -94.094339,
+    34.913416
+],
+  "geometry": {"coordinates":[-94.09433900000001,34.913416],"type":"Point"}
 }

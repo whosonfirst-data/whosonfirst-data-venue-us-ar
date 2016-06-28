@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102314231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.085985,34.8886,-94.085985,34.8886",
     "geom:latitude":34.8886,
     "geom:longitude":-94.085985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1073 Featherston St",
     "sg:city":"Waldron",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102314231,
-    "wof:lastmodified":1449070107,
+    "wof:lastmodified":1466323294,
     "wof:name":"New Attitude",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.085985,34.8886,-94.085985,34.8886],
-  "geometry": {"coordinates":[-94.085985,34.8886],"type":"Point"}
+  "bbox": [
+    -94.085985,
+    34.8886,
+    -94.085985,
+    34.8886
+],
+  "geometry": {"coordinates":[-94.08598499999999,34.8886],"type":"Point"}
 }

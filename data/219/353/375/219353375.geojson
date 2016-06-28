@@ -2,13 +2,14 @@
   "id": 219353375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.193599,34.899681,-91.193599,34.899681",
     "geom:latitude":34.899681,
     "geom:longitude":-91.193599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 W 3rd St",
     "sg:city":"Brinkley",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":219353375,
-    "wof:lastmodified":1449071420,
+    "wof:lastmodified":1466322308,
     "wof:name":"H&R Block",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "bookkeeping"
     ]
 },
-  "bbox": [-91.193599,34.899681,-91.193599,34.899681],
-  "geometry": {"coordinates":[-91.193599,34.899681],"type":"Point"}
+  "bbox": [
+    -91.193599,
+    34.899681,
+    -91.193599,
+    34.899681
+],
+  "geometry": {"coordinates":[-91.19359900000001,34.899681],"type":"Point"}
 }

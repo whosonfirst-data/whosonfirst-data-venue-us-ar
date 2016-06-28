@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102415541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.004309,34.228601,-92.004309,34.228601",
     "geom:latitude":34.228601,
     "geom:longitude":-92.004309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 S Pine St",
     "sg:city":"Pine Bluff",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102415541,
-    "wof:lastmodified":1449069535,
+    "wof:lastmodified":1466325329,
     "wof:name":"Wilson & Associates Pllc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.004309,34.228601,-92.004309,34.228601],
-  "geometry": {"coordinates":[-92.004309,34.228601],"type":"Point"}
+  "bbox": [
+    -92.004309,
+    34.228601,
+    -92.004309,
+    34.228601
+],
+  "geometry": {"coordinates":[-92.00430900000001,34.228601],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219627353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.677795,35.824413,-90.677795,35.824413",
     "geom:latitude":35.824413,
     "geom:longitude":-90.677795,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1720 S Caraway Rd # 3000",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219627353,
-    "wof:lastmodified":1449074003,
+    "wof:lastmodified":1466324621,
     "wof:name":"Oscar Lilly Insurance",
     "wof:parent_id":85836541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-90.677795,35.824413,-90.677795,35.824413],
+  "bbox": [
+    -90.677795,
+    35.824413,
+    -90.677795,
+    35.824413
+],
   "geometry": {"coordinates":[-90.677795,35.824413],"type":"Point"}
 }

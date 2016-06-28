@@ -2,13 +2,14 @@
   "id": 220006427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.173718,36.280455,-94.173718,36.280455",
     "geom:latitude":36.280455,
     "geom:longitude":-94.173718,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4062 West Dr",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":220006427,
-    "wof:lastmodified":1449074682,
+    "wof:lastmodified":1466320464,
     "wof:name":"Cook's Towing And Auto Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "service-automotive"
     ]
 },
-  "bbox": [-94.173718,36.280455,-94.173718,36.280455],
-  "geometry": {"coordinates":[-94.173718,36.280455],"type":"Point"}
+  "bbox": [
+    -94.173718,
+    36.280455,
+    -94.173718,
+    36.280455
+],
+  "geometry": {"coordinates":[-94.17371799999999,36.280455],"type":"Point"}
 }

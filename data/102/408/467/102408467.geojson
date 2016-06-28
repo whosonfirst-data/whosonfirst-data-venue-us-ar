@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102408467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.217385,36.392751,-94.217385,36.392751",
     "geom:latitude":36.392751,
     "geom:longitude":-94.217385,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1606 Oakwood Ave",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102408467,
-    "wof:lastmodified":1449068105,
+    "wof:lastmodified":1466325126,
     "wof:name":"Galleon Brinton",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.217385,36.392751,-94.217385,36.392751],
-  "geometry": {"coordinates":[-94.217385,36.392751],"type":"Point"}
+  "bbox": [
+    -94.217385,
+    36.392751,
+    -94.217385,
+    36.392751
+],
+  "geometry": {"coordinates":[-94.21738499999999,36.392751],"type":"Point"}
 }

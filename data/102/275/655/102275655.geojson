@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102275655",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.422119,35.355781,-94.422119,35.355781",
     "geom:latitude":35.355781,
     "geom:longitude":-94.422119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2920 Towson Ave",
     "sg:city":"Fort Smith",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834235,
+        85688549,
         85633793,
         85921431,
         102082025,
-        85688549
+        85834235
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102275655",
-    "wof:lastmodified":1449068562,
+    "wof:lastmodified":1466322540,
     "wof:name":"Select Imports LLC",
     "wof:parent_id":85834235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.422119,35.355781,-94.422119,35.355781],
+  "bbox": [
+    -94.422119,
+    35.355781,
+    -94.422119,
+    35.355781
+],
   "geometry": {"coordinates":[-94.422119,35.355781],"type":"Point"}
 }

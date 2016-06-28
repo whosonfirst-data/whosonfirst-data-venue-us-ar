@@ -2,13 +2,14 @@
   "id": 220057473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.141128,36.174583,-94.141128,36.174583",
     "geom:latitude":36.174583,
     "geom:longitude":-94.141128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1084 W Sunset Ave",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220057473,
-    "wof:lastmodified":1449074426,
+    "wof:lastmodified":1466320915,
     "wof:name":"Las Palmas Mexican Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"
     ]
 },
-  "bbox": [-94.141128,36.174583,-94.141128,36.174583],
-  "geometry": {"coordinates":[-94.141128,36.174583],"type":"Point"}
+  "bbox": [
+    -94.141128,
+    36.174583,
+    -94.141128,
+    36.174583
+],
+  "geometry": {"coordinates":[-94.14112799999999,36.174583],"type":"Point"}
 }

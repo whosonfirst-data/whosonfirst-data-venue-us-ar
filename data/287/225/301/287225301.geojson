@@ -2,13 +2,14 @@
   "id": 287225301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.537458,36.183013,-94.537458,36.183013",
     "geom:latitude":36.183013,
     "geom:longitude":-94.537458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"540 E Twin Springs St",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":287225301,
-    "wof:lastmodified":1449000928,
+    "wof:lastmodified":1466324429,
     "wof:name":"Fellowship Bible Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-94.537458,36.183013,-94.537458,36.183013],
+  "bbox": [
+    -94.537458,
+    36.183013,
+    -94.537458,
+    36.183013
+],
   "geometry": {"coordinates":[-94.537458,36.183013],"type":"Point"}
 }

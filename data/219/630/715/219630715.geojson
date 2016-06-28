@@ -2,13 +2,14 @@
   "id": 219630715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.732337,35.817787,-90.732337,35.817787",
     "geom:latitude":35.817787,
     "geom:longitude":-90.732337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2516 Alexander Dr Ste A",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -73,10 +74,11 @@
         }
     ],
     "wof:id":219630715,
-    "wof:lastmodified":1449071653,
+    "wof:lastmodified":1466324842,
     "wof:name":"Edward Jones - TODD B PAYNTER",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -95,6 +97,11 @@
         "stock"
     ]
 },
-  "bbox": [-90.732337,35.817787,-90.732337,35.817787],
+  "bbox": [
+    -90.732337,
+    35.817787,
+    -90.732337,
+    35.817787
+],
   "geometry": {"coordinates":[-90.732337,35.817787],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219441263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.11093,34.883161,-92.11093,34.883161",
     "geom:latitude":34.883161,
     "geom:longitude":-92.11093,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1900 John Harden Dr",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219441263,
-    "wof:lastmodified":1449070661,
+    "wof:lastmodified":1466323263,
     "wof:name":"Centennial Bank Offices",
     "wof:parent_id":85852337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.11093,34.883161,-92.11093,34.883161],
+  "bbox": [
+    -92.11093,
+    34.883161,
+    -92.11093,
+    34.883161
+],
   "geometry": {"coordinates":[-92.11093,34.883161],"type":"Point"}
 }

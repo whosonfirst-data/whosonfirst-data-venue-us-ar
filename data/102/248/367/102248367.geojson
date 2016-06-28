@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102248367",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.265189,34.775835,-92.265189,34.775835",
     "geom:latitude":34.775835,
     "geom:longitude":-92.265189,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2200 N Poplar St",
     "sg:city":"N Little Rock",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.arkansaspta.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837877,
+        85688549,
         85633793,
         85921255,
         102082497,
-        85688549
+        85837877
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102248367",
-    "wof:lastmodified":1449069064,
+    "wof:lastmodified":1466321817,
     "wof:name":"Arkansas PTA",
     "wof:parent_id":85837877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.265189,34.775835,-92.265189,34.775835],
-  "geometry": {"coordinates":[-92.265189,34.775835],"type":"Point"}
+  "bbox": [
+    -92.265189,
+    34.775835,
+    -92.265189,
+    34.775835
+],
+  "geometry": {"coordinates":[-92.26518900000001,34.775835],"type":"Point"}
 }

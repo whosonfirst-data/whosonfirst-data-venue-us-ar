@@ -2,13 +2,14 @@
   "id": 219216703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.264787,33.266673,-93.264787,33.266673",
     "geom:latitude":33.266673,
     "geom:longitude":-93.264787,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"82 Columbia Road 300",
     "sg:city":"Magnolia",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219216703,
-    "wof:lastmodified":1449073516,
+    "wof:lastmodified":1466321017,
     "wof:name":"Drug & Alcohol Safety Education Program",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "addiction"
     ]
 },
-  "bbox": [-93.264787,33.266673,-93.264787,33.266673],
+  "bbox": [
+    -93.264787,
+    33.266673,
+    -93.264787,
+    33.266673
+],
   "geometry": {"coordinates":[-93.264787,33.266673],"type":"Point"}
 }

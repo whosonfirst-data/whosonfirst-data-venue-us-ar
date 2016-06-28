@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102401139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.072634,34.39806,-93.072634,34.39806",
     "geom:latitude":34.39806,
     "geom:longitude":-93.072634,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1099 Hwy 290",
     "sg:city":"Hot Springs",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":102401139,
-    "wof:lastmodified":1449069809,
+    "wof:lastmodified":1466324848,
     "wof:name":"Joshua Learning Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.072634,34.39806,-93.072634,34.39806],
-  "geometry": {"coordinates":[-93.072634,34.39806],"type":"Point"}
+  "bbox": [
+    -93.072634,
+    34.39806,
+    -93.072634,
+    34.39806
+],
+  "geometry": {"coordinates":[-93.07263399999999,34.39806],"type":"Point"}
 }

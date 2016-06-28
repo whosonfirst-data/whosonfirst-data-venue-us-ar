@@ -2,13 +2,14 @@
   "id": 219857095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.175874,36.085816,-94.175874,36.085816",
     "geom:latitude":36.085816,
     "geom:longitude":-94.175874,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1153 W Deane St",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219857095,
-    "wof:lastmodified":1449072673,
+    "wof:lastmodified":1466325127,
     "wof:name":"Current Key Llc Of Arkansas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lock"
     ]
 },
-  "bbox": [-94.175874,36.085816,-94.175874,36.085816],
-  "geometry": {"coordinates":[-94.175874,36.085816],"type":"Point"}
+  "bbox": [
+    -94.175874,
+    36.085816,
+    -94.175874,
+    36.085816
+],
+  "geometry": {"coordinates":[-94.17587399999999,36.085816],"type":"Point"}
 }

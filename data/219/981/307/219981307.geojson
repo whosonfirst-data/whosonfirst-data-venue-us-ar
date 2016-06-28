@@ -2,13 +2,14 @@
   "id": 219981307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.170868,36.346279,-94.170868,36.346279",
     "geom:latitude":36.346279,
     "geom:longitude":-94.170868,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 N Mallard Ln",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219981307,
-    "wof:lastmodified":1449073990,
+    "wof:lastmodified":1466325235,
     "wof:name":"Gina B Keller",
     "wof:parent_id":85895823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.170868,36.346279,-94.170868,36.346279],
+  "bbox": [
+    -94.170868,
+    36.346279,
+    -94.170868,
+    36.346279
+],
   "geometry": {"coordinates":[-94.170868,36.346279],"type":"Point"}
 }

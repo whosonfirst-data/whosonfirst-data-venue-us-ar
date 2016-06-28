@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102353277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.090973,35.267948,-92.090973,35.267948",
     "geom:latitude":35.267948,
     "geom:longitude":-92.090973,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"213 Nix Rd",
     "sg:city":"Mount Vernon",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":102353277,
-    "wof:lastmodified":1449068469,
+    "wof:lastmodified":1466324058,
     "wof:name":"Pallone Cattle Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.090973,35.267948,-92.090973,35.267948],
-  "geometry": {"coordinates":[-92.090973,35.267948],"type":"Point"}
+  "bbox": [
+    -92.090973,
+    35.267948,
+    -92.090973,
+    35.267948
+],
+  "geometry": {"coordinates":[-92.09097300000001,35.267948],"type":"Point"}
 }

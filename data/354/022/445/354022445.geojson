@@ -2,13 +2,14 @@
   "id": 354022445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.222292,34.586652,-94.222292,34.586652",
     "geom:latitude":34.586652,
     "geom:longitude":-94.222292,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"918 US Hwy 71",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354022445,
-    "wof:lastmodified":1449066477,
+    "wof:lastmodified":1466324489,
     "wof:name":"Fatman's Svc Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-94.222292,34.586652,-94.222292,34.586652],
+  "bbox": [
+    -94.222292,
+    34.586652,
+    -94.222292,
+    34.586652
+],
   "geometry": {"coordinates":[-94.222292,34.586652],"type":"Point"}
 }

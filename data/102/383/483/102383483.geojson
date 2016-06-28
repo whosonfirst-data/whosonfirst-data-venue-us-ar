@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102383483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.139147,36.17154,-94.139147,36.17154",
     "geom:latitude":36.17154,
     "geom:longitude":-94.139147,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1218 S Thompson St",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885481,
+        85688549,
         85633793,
         85919623,
         102082007,
-        85688549
+        85885481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102383483,
-    "wof:lastmodified":1449068780,
+    "wof:lastmodified":1466322810,
     "wof:name":"Discount Electronics & Sales",
     "wof:parent_id":85885481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.139147,36.17154,-94.139147,36.17154],
-  "geometry": {"coordinates":[-94.139147,36.17154],"type":"Point"}
+  "bbox": [
+    -94.139147,
+    36.17154,
+    -94.139147,
+    36.17154
+],
+  "geometry": {"coordinates":[-94.13914699999999,36.17154],"type":"Point"}
 }

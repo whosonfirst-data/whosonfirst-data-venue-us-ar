@@ -2,13 +2,14 @@
   "id": 219462871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.089864,34.325554,-93.089864,34.325554",
     "geom:latitude":34.325554,
     "geom:longitude":-93.089864,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30662 Highway 84",
     "sg:city":"Malvern",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219462871,
-    "wof:lastmodified":1449073777,
+    "wof:lastmodified":1466323490,
     "wof:name":"Edie Construction, Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractors-commercial"
     ]
 },
-  "bbox": [-93.089864,34.325554,-93.089864,34.325554],
-  "geometry": {"coordinates":[-93.089864,34.325554],"type":"Point"}
+  "bbox": [
+    -93.089864,
+    34.325554,
+    -93.089864,
+    34.325554
+],
+  "geometry": {"coordinates":[-93.08986400000001,34.325554],"type":"Point"}
 }

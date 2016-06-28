@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102435833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.319413,34.813219,-92.319413,34.813219",
     "geom:latitude":34.813219,
     "geom:longitude":-92.319413,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4721 Hillard Rd",
     "sg:city":"North Little Rock",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102082497,
-        85633793,
         85688549,
-        85803649
+        85633793,
+        85803649,
+        102082497
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102435833,
-    "wof:lastmodified":1449069969,
+    "wof:lastmodified":1466325642,
     "wof:name":"Poolkitscom",
     "wof:parent_id":85803649,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.319413,34.813219,-92.319413,34.813219],
+  "bbox": [
+    -92.319413,
+    34.813219,
+    -92.319413,
+    34.813219
+],
   "geometry": {"coordinates":[-92.319413,34.813219],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219431059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.318459,34.538929,-92.318459,34.538929",
     "geom:latitude":34.538929,
     "geom:longitude":-92.318459,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23000 N Springlake Rd",
     "sg:city":"Hensley",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219431059,
-    "wof:lastmodified":1449070872,
+    "wof:lastmodified":1466323106,
     "wof:name":"N Yo Heart Productions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "producer"
     ]
 },
-  "bbox": [-92.318459,34.538929,-92.318459,34.538929],
+  "bbox": [
+    -92.318459,
+    34.538929,
+    -92.318459,
+    34.538929
+],
   "geometry": {"coordinates":[-92.318459,34.538929],"type":"Point"}
 }

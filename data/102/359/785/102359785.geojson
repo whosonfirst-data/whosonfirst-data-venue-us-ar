@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102359785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.290011,36.090341,-94.290011,36.090341",
     "geom:latitude":36.090341,
     "geom:longitude":-94.290011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13516 Dogwood Dr",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102082007,
-        85633793,
         85688549,
-        85854961
+        85633793,
+        85854961,
+        102082007
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102359785,
-    "wof:lastmodified":1449067739,
+    "wof:lastmodified":1466324303,
     "wof:name":"Philco Energy Services Inc",
     "wof:parent_id":85854961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.290011,36.090341,-94.290011,36.090341],
-  "geometry": {"coordinates":[-94.290011,36.090341],"type":"Point"}
+  "bbox": [
+    -94.290011,
+    36.090341,
+    -94.290011,
+    36.090341
+],
+  "geometry": {"coordinates":[-94.29001100000001,36.090341],"type":"Point"}
 }

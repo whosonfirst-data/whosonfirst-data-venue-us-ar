@@ -2,13 +2,14 @@
   "id": 220070935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.129893,35.307681,-93.129893,35.307681",
     "geom:latitude":35.307681,
     "geom:longitude":-93.129893,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2806 N Greenwich Ave",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":220070935,
-    "wof:lastmodified":1449074412,
+    "wof:lastmodified":1466321376,
     "wof:name":"Buddy York Bail Bonds",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "bond"
     ]
 },
-  "bbox": [-93.129893,35.307681,-93.129893,35.307681],
+  "bbox": [
+    -93.129893,
+    35.307681,
+    -93.129893,
+    35.307681
+],
   "geometry": {"coordinates":[-93.129893,35.307681],"type":"Point"}
 }

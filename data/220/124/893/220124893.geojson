@@ -2,13 +2,14 @@
   "id": 220124893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.799182,35.494788,-93.799182,35.494788",
     "geom:latitude":35.494788,
     "geom:longitude":-93.799182,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8422 Timber Ridge Rd",
     "sg:city":"Ozark",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":220124893,
-    "wof:lastmodified":1449074825,
+    "wof:lastmodified":1466322681,
     "wof:name":"Linda Gail Millsap",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.799182,35.494788,-93.799182,35.494788],
+  "bbox": [
+    -93.799182,
+    35.494788,
+    -93.799182,
+    35.494788
+],
   "geometry": {"coordinates":[-93.799182,35.494788],"type":"Point"}
 }

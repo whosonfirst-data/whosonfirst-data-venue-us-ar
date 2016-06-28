@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102259545",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.180827,36.290828,-94.180827,36.290828",
     "geom:latitude":36.290828,
     "geom:longitude":-94.180827,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4507 Highland Knolls Rd",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895851,
+        85688549,
         85633793,
         85921535,
         102083255,
-        85688549
+        85895851
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102259545",
-    "wof:lastmodified":1449068340,
+    "wof:lastmodified":1466322134,
     "wof:name":"Daisy Brand",
     "wof:parent_id":85895851,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.180827,36.290828,-94.180827,36.290828],
-  "geometry": {"coordinates":[-94.180827,36.290828],"type":"Point"}
+  "bbox": [
+    -94.180827,
+    36.290828,
+    -94.180827,
+    36.290828
+],
+  "geometry": {"coordinates":[-94.18082699999999,36.290828],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219450953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.372658,34.650355,-92.372658,34.650355",
     "geom:latitude":34.650355,
     "geom:longitude":-92.372658,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10915 Appomattox Dr",
     "sg:city":"Mabelvale",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":219450953,
-    "wof:lastmodified":1449073369,
+    "wof:lastmodified":1466323386,
     "wof:name":"Advantage Insurance Agency, Inc.",
     "wof:parent_id":85833869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "boat"
     ]
 },
-  "bbox": [-92.372658,34.650355,-92.372658,34.650355],
+  "bbox": [
+    -92.372658,
+    34.650355,
+    -92.372658,
+    34.650355
+],
   "geometry": {"coordinates":[-92.372658,34.650355],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320217425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.542456,36.183442,-94.542456,36.183442",
     "geom:latitude":36.183442,
     "geom:longitude":-94.542456,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 S Wright St",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320217425,
-    "wof:lastmodified":1449014735,
+    "wof:lastmodified":1466320481,
     "wof:name":"Bright Beginnings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-94.542456,36.183442,-94.542456,36.183442],
+  "bbox": [
+    -94.542456,
+    36.183442,
+    -94.542456,
+    36.183442
+],
   "geometry": {"coordinates":[-94.542456,36.183442],"type":"Point"}
 }

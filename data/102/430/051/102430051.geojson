@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102430051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.348508,34.688015,-92.348508,34.688015",
     "geom:latitude":34.688015,
     "geom:longitude":-92.348508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6706 S University Ave",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102430051,
-    "wof:lastmodified":1449069301,
+    "wof:lastmodified":1466325486,
     "wof:name":"Wallace & Spencer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.348508,34.688015,-92.348508,34.688015],
+  "bbox": [
+    -92.348508,
+    34.688015,
+    -92.348508,
+    34.688015
+],
   "geometry": {"coordinates":[-92.348508,34.688015],"type":"Point"}
 }

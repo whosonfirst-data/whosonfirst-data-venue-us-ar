@@ -2,13 +2,14 @@
   "id": 219929809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.890989,36.055711,-93.890989,36.055711",
     "geom:latitude":36.055711,
     "geom:longitude":-93.890989,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1794 Madison 7750",
     "sg:city":"Hindsville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219929809,
-    "wof:lastmodified":1449071741,
+    "wof:lastmodified":1466325218,
     "wof:name":"Demand Engineering Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "engineer"
     ]
 },
-  "bbox": [-93.890989,36.055711,-93.890989,36.055711],
+  "bbox": [
+    -93.890989,
+    36.055711,
+    -93.890989,
+    36.055711
+],
   "geometry": {"coordinates":[-93.890989,36.055711],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219309691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.241511,34.570873,-94.241511,34.570873",
     "geom:latitude":34.570873,
     "geom:longitude":-94.241511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"914 Lakeside Dr",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":219309691,
-    "wof:lastmodified":1449071183,
+    "wof:lastmodified":1466321812,
     "wof:name":"Gary's Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "salon"
     ]
 },
-  "bbox": [-94.241511,34.570873,-94.241511,34.570873],
+  "bbox": [
+    -94.241511,
+    34.570873,
+    -94.241511,
+    34.570873
+],
   "geometry": {"coordinates":[-94.241511,34.570873],"type":"Point"}
 }

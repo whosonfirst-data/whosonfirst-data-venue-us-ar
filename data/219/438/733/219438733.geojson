@@ -2,13 +2,14 @@
   "id": 219438733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.172856,34.861473,-92.172856,34.861473",
     "geom:latitude":34.861473,
     "geom:longitude":-92.172856,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"913 Timberwolf Trl",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219438733,
-    "wof:lastmodified":1449071593,
+    "wof:lastmodified":1466323219,
     "wof:name":"Perfect Cleaning Services",
     "wof:parent_id":85837729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "window"
     ]
 },
-  "bbox": [-92.172856,34.861473,-92.172856,34.861473],
+  "bbox": [
+    -92.172856,
+    34.861473,
+    -92.172856,
+    34.861473
+],
   "geometry": {"coordinates":[-92.172856,34.861473],"type":"Point"}
 }

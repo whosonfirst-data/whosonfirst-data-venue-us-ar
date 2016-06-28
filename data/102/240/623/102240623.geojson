@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102240623",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.321199,36.318264,-91.321199,36.318264",
     "geom:latitude":36.318264,
     "geom:longitude":-91.321199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"749 Martin Creek Rd",
     "sg:city":"Williford",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102240623",
-    "wof:lastmodified":1449068041,
+    "wof:lastmodified":1466321674,
     "wof:name":"Martincreek Vlntr Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.321199,36.318264,-91.321199,36.318264],
-  "geometry": {"coordinates":[-91.321199,36.318264],"type":"Point"}
+  "bbox": [
+    -91.321199,
+    36.318264,
+    -91.321199,
+    36.318264
+],
+  "geometry": {"coordinates":[-91.32119899999999,36.318264],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219504065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.192499,34.440753,-92.192499,34.440753",
     "geom:latitude":34.440753,
     "geom:longitude":-92.192499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1024 Sheridan Rd",
     "sg:city":"Redfield",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219504065,
-    "wof:lastmodified":1449071013,
+    "wof:lastmodified":1466323976,
     "wof:name":"Cranford's Fresh World",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.192499,34.440753,-92.192499,34.440753],
+  "bbox": [
+    -92.192499,
+    34.440753,
+    -92.192499,
+    34.440753
+],
   "geometry": {"coordinates":[-92.192499,34.440753],"type":"Point"}
 }

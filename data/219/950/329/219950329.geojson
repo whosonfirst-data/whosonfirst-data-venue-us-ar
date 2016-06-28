@@ -2,13 +2,14 @@
   "id": 219950329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.119973,36.333362,-94.119973,36.333362",
     "geom:latitude":36.333362,
     "geom:longitude":-94.119973,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 W Walnut St",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219950329,
-    "wof:lastmodified":1449071762,
+    "wof:lastmodified":1466325240,
     "wof:name":"Northwest Arkansas Burial Assn",
     "wof:parent_id":85895845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "crematory"
     ]
 },
-  "bbox": [-94.119973,36.333362,-94.119973,36.333362],
+  "bbox": [
+    -94.119973,
+    36.333362,
+    -94.119973,
+    36.333362
+],
   "geometry": {"coordinates":[-94.119973,36.333362],"type":"Point"}
 }

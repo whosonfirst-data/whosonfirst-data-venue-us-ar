@@ -2,13 +2,14 @@
   "id": 219813493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.174902,36.070324,-94.174902,36.070324",
     "geom:latitude":36.070324,
     "geom:longitude":-94.174902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1045 W Maple St",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219813493,
-    "wof:lastmodified":1449071306,
+    "wof:lastmodified":1466324962,
     "wof:name":"Robert B Moberly",
     "wof:parent_id":85885453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "arbitration"
     ]
 },
-  "bbox": [-94.174902,36.070324,-94.174902,36.070324],
+  "bbox": [
+    -94.174902,
+    36.070324,
+    -94.174902,
+    36.070324
+],
   "geometry": {"coordinates":[-94.174902,36.070324],"type":"Point"}
 }

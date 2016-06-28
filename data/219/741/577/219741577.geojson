@@ -2,13 +2,14 @@
   "id": 219741577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.534315,36.258483,-91.534315,36.258483",
     "geom:latitude":36.258483,
     "geom:longitude":-91.534315,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Carolyn Dr",
     "sg:city":"Highland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219741577,
-    "wof:lastmodified":1449070572,
+    "wof:lastmodified":1466324904,
     "wof:name":"I Brian Day",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "day"
     ]
 },
-  "bbox": [-91.534315,36.258483,-91.534315,36.258483],
-  "geometry": {"coordinates":[-91.534315,36.258483],"type":"Point"}
+  "bbox": [
+    -91.534315,
+    36.258483,
+    -91.534315,
+    36.258483
+],
+  "geometry": {"coordinates":[-91.53431500000001,36.258483],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102385181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.293392,34.732129,-92.293392,34.732129",
     "geom:latitude":34.732129,
     "geom:longitude":-92.293392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1813 Wright Ave",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878755,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85878755
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102385181,
-    "wof:lastmodified":1449069175,
+    "wof:lastmodified":1466323160,
     "wof:name":"Little Rock Neighborhood Alert",
     "wof:parent_id":85878755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.293392,34.732129,-92.293392,34.732129],
+  "bbox": [
+    -92.293392,
+    34.732129,
+    -92.293392,
+    34.732129
+],
   "geometry": {"coordinates":[-92.293392,34.732129],"type":"Point"}
 }

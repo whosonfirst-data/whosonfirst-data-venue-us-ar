@@ -2,13 +2,14 @@
   "id": 219247975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.850868,33.956009,-93.850868,33.956009",
     "geom:latitude":33.956009,
     "geom:longitude":-93.850868,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Immanual St",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219247975,
-    "wof:lastmodified":1449072452,
+    "wof:lastmodified":1466321317,
     "wof:name":"Nashville Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "elementary"
     ]
 },
-  "bbox": [-93.850868,33.956009,-93.850868,33.956009],
-  "geometry": {"coordinates":[-93.850868,33.956009],"type":"Point"}
+  "bbox": [
+    -93.850868,
+    33.956009,
+    -93.850868,
+    33.956009
+],
+  "geometry": {"coordinates":[-93.85086800000001,33.956009],"type":"Point"}
 }

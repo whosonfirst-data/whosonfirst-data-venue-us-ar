@@ -2,13 +2,14 @@
   "id": 219157715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.243808,33.328206,-92.243808,33.328206",
     "geom:latitude":33.328206,
     "geom:longitude":-92.243808,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"437 Bradley Road 69",
     "sg:city":"Hermitage",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219157715,
-    "wof:lastmodified":1449073414,
+    "wof:lastmodified":1466320450,
     "wof:name":"Kerry Stanley Forestry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "consulting"
     ]
 },
-  "bbox": [-92.243808,33.328206,-92.243808,33.328206],
+  "bbox": [
+    -92.243808,
+    33.328206,
+    -92.243808,
+    33.328206
+],
   "geometry": {"coordinates":[-92.243808,33.328206],"type":"Point"}
 }

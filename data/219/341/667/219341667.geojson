@@ -2,13 +2,14 @@
   "id": 219341667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.588136,34.563643,-92.588136,34.563643",
     "geom:latitude":34.563643,
     "geom:longitude":-92.588136,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 N Market St",
     "sg:city":"Benton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219341667,
-    "wof:lastmodified":1449073760,
+    "wof:lastmodified":1466322121,
     "wof:name":"R & J Pawn and Loan",
     "wof:parent_id":85817531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "financing"
     ]
 },
-  "bbox": [-92.588136,34.563643,-92.588136,34.563643],
-  "geometry": {"coordinates":[-92.588136,34.563643],"type":"Point"}
+  "bbox": [
+    -92.588136,
+    34.563643,
+    -92.588136,
+    34.563643
+],
+  "geometry": {"coordinates":[-92.58813600000001,34.563643],"type":"Point"}
 }

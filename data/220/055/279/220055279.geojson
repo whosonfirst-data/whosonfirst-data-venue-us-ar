@@ -2,13 +2,14 @@
   "id": 220055279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.135781,36.142839,-94.135781,36.142839",
     "geom:latitude":36.142839,
     "geom:longitude":-94.135781,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 W Andrew Ave",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":220055279,
-    "wof:lastmodified":1449074218,
+    "wof:lastmodified":1466320839,
     "wof:name":"Johnco Sprinkler Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "supervisory"
     ]
 },
-  "bbox": [-94.135781,36.142839,-94.135781,36.142839],
-  "geometry": {"coordinates":[-94.135781,36.142839],"type":"Point"}
+  "bbox": [
+    -94.135781,
+    36.142839,
+    -94.135781,
+    36.142839
+],
+  "geometry": {"coordinates":[-94.13578099999999,36.142839],"type":"Point"}
 }

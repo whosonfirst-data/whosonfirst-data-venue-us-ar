@@ -2,13 +2,14 @@
   "id": 219878169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.263236,36.319879,-94.263236,36.319879",
     "geom:latitude":36.319879,
     "geom:longitude":-94.263236,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5801 SW Regional Airport Blvd",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":219878169,
-    "wof:lastmodified":1449072228,
+    "wof:lastmodified":1466325155,
     "wof:name":"Wal-Mart Distribution Center",
     "wof:parent_id":85895813,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.263236,36.319879,-94.263236,36.319879],
-  "geometry": {"coordinates":[-94.263236,36.319879],"type":"Point"}
+  "bbox": [
+    -94.263236,
+    36.319879,
+    -94.263236,
+    36.319879
+],
+  "geometry": {"coordinates":[-94.26323600000001,36.319879],"type":"Point"}
 }

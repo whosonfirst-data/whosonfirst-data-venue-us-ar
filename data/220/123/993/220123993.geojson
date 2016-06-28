@@ -2,13 +2,14 @@
   "id": 220123993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.910365,35.616395,-93.910365,35.616395",
     "geom:latitude":35.616395,
     "geom:longitude":-93.910365,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2550 Oak Ridge Rd",
     "sg:city":"Ozark",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":220123993,
-    "wof:lastmodified":1449074257,
+    "wof:lastmodified":1466322660,
     "wof:name":"Thenetmall.Net",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "online"
     ]
 },
-  "bbox": [-93.910365,35.616395,-93.910365,35.616395],
+  "bbox": [
+    -93.910365,
+    35.616395,
+    -93.910365,
+    35.616395
+],
   "geometry": {"coordinates":[-93.910365,35.616395],"type":"Point"}
 }

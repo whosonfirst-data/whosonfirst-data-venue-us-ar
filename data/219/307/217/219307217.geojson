@@ -2,13 +2,14 @@
   "id": 219307217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.204009,34.636678,-94.204009,34.636678",
     "geom:latitude":34.636678,
     "geom:longitude":-94.204009,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1510 Highway 71 N",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219307217,
-    "wof:lastmodified":1449071313,
+    "wof:lastmodified":1466321791,
     "wof:name":"Custom Critter Cuts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "cat"
     ]
 },
-  "bbox": [-94.204009,34.636678,-94.204009,34.636678],
+  "bbox": [
+    -94.204009,
+    34.636678,
+    -94.204009,
+    34.636678
+],
   "geometry": {"coordinates":[-94.204009,34.636678],"type":"Point"}
 }

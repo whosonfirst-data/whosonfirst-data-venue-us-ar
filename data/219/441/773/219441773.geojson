@@ -2,13 +2,14 @@
   "id": 219441773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.050136,34.832096,-92.050136,34.832096",
     "geom:latitude":34.832096,
     "geom:longitude":-92.050136,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1417 Robin Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219441773,
-    "wof:lastmodified":1449070655,
+    "wof:lastmodified":1466323275,
     "wof:name":"Great American Bar Bq",
     "wof:parent_id":85811577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "barbecue"
     ]
 },
-  "bbox": [-92.050136,34.832096,-92.050136,34.832096],
-  "geometry": {"coordinates":[-92.050136,34.832096],"type":"Point"}
+  "bbox": [
+    -92.050136,
+    34.832096,
+    -92.050136,
+    34.832096
+],
+  "geometry": {"coordinates":[-92.05013599999999,34.832096],"type":"Point"}
 }

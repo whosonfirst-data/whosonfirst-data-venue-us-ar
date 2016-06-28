@@ -2,13 +2,14 @@
   "id": 219292845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.50473,34.031721,-93.50473,34.031721",
     "geom:latitude":34.031721,
     "geom:longitude":-93.50473,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"236 E Antioch St",
     "sg:city":"Delight",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219292845,
-    "wof:lastmodified":1449070683,
+    "wof:lastmodified":1466321672,
     "wof:name":"Red-E-Mart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.50473,34.031721,-93.50473,34.031721],
+  "bbox": [
+    -93.50473,
+    34.031721,
+    -93.50473,
+    34.031721
+],
   "geometry": {"coordinates":[-93.50473,34.031721],"type":"Point"}
 }

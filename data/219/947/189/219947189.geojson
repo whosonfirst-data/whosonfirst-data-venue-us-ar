@@ -2,13 +2,14 @@
   "id": 219947189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.136589,36.256016,-94.136589,36.256016",
     "geom:latitude":36.256016,
     "geom:longitude":-94.136589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 N Bloomington St",
     "sg:city":"Lowell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219947189,
-    "wof:lastmodified":1449072959,
+    "wof:lastmodified":1466325235,
     "wof:name":"Cvm Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.136589,36.256016,-94.136589,36.256016],
+  "bbox": [
+    -94.136589,
+    36.256016,
+    -94.136589,
+    36.256016
+],
   "geometry": {"coordinates":[-94.136589,36.256016],"type":"Point"}
 }

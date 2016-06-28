@@ -2,13 +2,14 @@
   "id": 219800809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.5267,35.927123,-92.5267,35.927123",
     "geom:latitude":35.927123,
     "geom:longitude":-92.5267,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1597 Meers Creek Rd",
     "sg:city":"Leslie",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219800809,
-    "wof:lastmodified":1449070670,
+    "wof:lastmodified":1466325025,
     "wof:name":"Hoffmans Auto Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.5267,35.927123,-92.5267,35.927123],
-  "geometry": {"coordinates":[-92.5267,35.927123],"type":"Point"}
+  "bbox": [
+    -92.5267,
+    35.927123,
+    -92.5267,
+    35.927123
+],
+  "geometry": {"coordinates":[-92.52670000000001,35.927123],"type":"Point"}
 }

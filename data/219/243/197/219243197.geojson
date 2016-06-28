@@ -2,13 +2,14 @@
   "id": 219243197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.841687,33.932041,-93.841687,33.932041",
     "geom:latitude":33.932041,
     "geom:longitude":-93.841687,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1216 S Price St",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219243197,
-    "wof:lastmodified":1449071542,
+    "wof:lastmodified":1466321282,
     "wof:name":"Scroggins Appartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-93.841687,33.932041,-93.841687,33.932041],
-  "geometry": {"coordinates":[-93.841687,33.932041],"type":"Point"}
+  "bbox": [
+    -93.841687,
+    33.932041,
+    -93.841687,
+    33.932041
+],
+  "geometry": {"coordinates":[-93.84168699999999,33.932041],"type":"Point"}
 }

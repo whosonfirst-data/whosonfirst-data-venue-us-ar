@@ -2,13 +2,14 @@
   "id": 219610289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.903943,34.976248,-90.903943,34.976248",
     "geom:latitude":34.976248,
     "geom:longitude":-90.903943,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Christopher Pl",
     "sg:city":"Palestine",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219610289,
-    "wof:lastmodified":1449073859,
+    "wof:lastmodified":1466324597,
     "wof:name":"Christopher Homes Of Palestine Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "builder"
     ]
 },
-  "bbox": [-90.903943,34.976248,-90.903943,34.976248],
+  "bbox": [
+    -90.903943,
+    34.976248,
+    -90.903943,
+    34.976248
+],
   "geometry": {"coordinates":[-90.903943,34.976248],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102358977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.455447,35.084682,-92.455447,35.084682",
     "geom:latitude":35.084682,
     "geom:longitude":-92.455447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"327 Augusta Ave",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102358977,
-    "wof:lastmodified":1449068777,
+    "wof:lastmodified":1466324335,
     "wof:name":"Church Of Christ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.455447,35.084682,-92.455447,35.084682],
-  "geometry": {"coordinates":[-92.455447,35.084682],"type":"Point"}
+  "bbox": [
+    -92.455447,
+    35.084682,
+    -92.455447,
+    35.084682
+],
+  "geometry": {"coordinates":[-92.45544700000001,35.084682],"type":"Point"}
 }

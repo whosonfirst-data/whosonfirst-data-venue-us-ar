@@ -2,13 +2,14 @@
   "id": 219436643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.139048,34.876643,-92.139048,34.876643",
     "geom:latitude":34.876643,
     "geom:longitude":-92.139048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1300 N Redmond Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":219436643,
-    "wof:lastmodified":1449073582,
+    "wof:lastmodified":1466323178,
     "wof:name":"Let Industries Group Ltd",
     "wof:parent_id":85852337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "elevator"
     ]
 },
-  "bbox": [-92.139048,34.876643,-92.139048,34.876643],
+  "bbox": [
+    -92.139048,
+    34.876643,
+    -92.139048,
+    34.876643
+],
   "geometry": {"coordinates":[-92.139048,34.876643],"type":"Point"}
 }

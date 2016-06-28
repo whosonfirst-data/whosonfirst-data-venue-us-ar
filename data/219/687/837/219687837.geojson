@@ -2,13 +2,14 @@
   "id": 219687837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.522301,36.028851,-90.522301,36.028851",
     "geom:latitude":36.028851,
     "geom:longitude":-90.522301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2700 Linwood Dr",
     "sg:city":"Paragould",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":219687837,
-    "wof:lastmodified":1449071393,
+    "wof:lastmodified":1466324669,
     "wof:name":"Point Blank Performance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "racing"
     ]
 },
-  "bbox": [-90.522301,36.028851,-90.522301,36.028851],
+  "bbox": [
+    -90.522301,
+    36.028851,
+    -90.522301,
+    36.028851
+],
   "geometry": {"coordinates":[-90.522301,36.028851],"type":"Point"}
 }

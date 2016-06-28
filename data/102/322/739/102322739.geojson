@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102322739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.188521,35.513875,-94.188521,35.513875",
     "geom:latitude":35.513875,
     "geom:longitude":-94.188521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2815 Edwards Cutoff",
     "sg:city":"Alma",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":102322739,
-    "wof:lastmodified":1449067742,
+    "wof:lastmodified":1466323535,
     "wof:name":"Central Connections",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.188521,35.513875,-94.188521,35.513875],
-  "geometry": {"coordinates":[-94.188521,35.513875],"type":"Point"}
+  "bbox": [
+    -94.188521,
+    35.513875,
+    -94.188521,
+    35.513875
+],
+  "geometry": {"coordinates":[-94.18852099999999,35.513875],"type":"Point"}
 }

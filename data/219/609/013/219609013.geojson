@@ -2,13 +2,14 @@
   "id": 219609013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.972939,35.70895,-89.972939,35.70895",
     "geom:latitude":35.70895,
     "geom:longitude":-89.972939,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"501 Magnolia Dr",
     "sg:city":"Osceola",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":219609013,
-    "wof:lastmodified":1449071700,
+    "wof:lastmodified":1466324827,
     "wof:name":"Seminole Village",
     "wof:parent_id":85814753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "listing"
     ]
 },
-  "bbox": [-89.972939,35.70895,-89.972939,35.70895],
+  "bbox": [
+    -89.972939,
+    35.70895,
+    -89.972939,
+    35.70895
+],
   "geometry": {"coordinates":[-89.972939,35.70895],"type":"Point"}
 }

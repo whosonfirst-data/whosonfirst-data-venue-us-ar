@@ -2,13 +2,14 @@
   "id": 337566523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.537065,36.173831,-94.537065,36.173831",
     "geom:latitude":36.173831,
     "geom:longitude":-94.537065,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1024 S Washington St",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":337566523,
-    "wof:lastmodified":1449026948,
+    "wof:lastmodified":1466324507,
     "wof:name":"Thurman's Consignment Furn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "consignment"
     ]
 },
-  "bbox": [-94.537065,36.173831,-94.537065,36.173831],
+  "bbox": [
+    -94.537065,
+    36.173831,
+    -94.537065,
+    36.173831
+],
   "geometry": {"coordinates":[-94.537065,36.173831],"type":"Point"}
 }

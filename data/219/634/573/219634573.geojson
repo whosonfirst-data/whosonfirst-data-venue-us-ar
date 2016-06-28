@@ -2,13 +2,14 @@
   "id": 219634573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.706081,35.831385,-90.706081,35.831385",
     "geom:latitude":35.831385,
     "geom:longitude":-90.706081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"314 Union St",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219634573,
-    "wof:lastmodified":1449072078,
+    "wof:lastmodified":1466324641,
     "wof:name":"Triple FM Radio Group",
     "wof:parent_id":85836541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "film"
     ]
 },
-  "bbox": [-90.706081,35.831385,-90.706081,35.831385],
+  "bbox": [
+    -90.706081,
+    35.831385,
+    -90.706081,
+    35.831385
+],
   "geometry": {"coordinates":[-90.706081,35.831385],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102394533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.37615,34.791772,-92.37615,34.791772",
     "geom:latitude":34.791772,
     "geom:longitude":-92.37615,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"52 River Ridge Rd",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102082497,
-        85633793,
         85688549,
-        85844761
+        85633793,
+        85844761,
+        102082497
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102394533,
-    "wof:lastmodified":1449068271,
+    "wof:lastmodified":1466324606,
     "wof:name":"Steuri Family Foundation",
     "wof:parent_id":85844761,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.37615,34.791772,-92.37615,34.791772],
+  "bbox": [
+    -92.37615,
+    34.791772,
+    -92.37615,
+    34.791772
+],
   "geometry": {"coordinates":[-92.37615,34.791772],"type":"Point"}
 }

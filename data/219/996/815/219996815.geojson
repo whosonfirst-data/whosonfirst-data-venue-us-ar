@@ -2,13 +2,14 @@
   "id": 219996815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.181655,36.290412,-94.181655,36.290412",
     "geom:latitude":36.290412,
     "geom:longitude":-94.181655,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1715 S 46th St",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219996815,
-    "wof:lastmodified":1449071344,
+    "wof:lastmodified":1466325252,
     "wof:name":"Steak N Shake",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "burger"
     ]
 },
-  "bbox": [-94.181655,36.290412,-94.181655,36.290412],
-  "geometry": {"coordinates":[-94.181655,36.290412],"type":"Point"}
+  "bbox": [
+    -94.181655,
+    36.290412,
+    -94.181655,
+    36.290412
+],
+  "geometry": {"coordinates":[-94.18165500000001,36.290412],"type":"Point"}
 }

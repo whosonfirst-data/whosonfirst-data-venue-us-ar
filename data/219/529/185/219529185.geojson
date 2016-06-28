@@ -2,13 +2,14 @@
   "id": 219529185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.751909,35.246973,-91.751909,35.246973",
     "geom:latitude":35.246973,
     "geom:longitude":-91.751909,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1512 W Park Ave",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219529185,
-    "wof:lastmodified":1449071934,
+    "wof:lastmodified":1466324174,
     "wof:name":"The Good Samaritan Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "facility"
     ]
 },
-  "bbox": [-91.751909,35.246973,-91.751909,35.246973],
+  "bbox": [
+    -91.751909,
+    35.246973,
+    -91.751909,
+    35.246973
+],
   "geometry": {"coordinates":[-91.751909,35.246973],"type":"Point"}
 }

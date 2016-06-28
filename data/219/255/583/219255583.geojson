@@ -2,13 +2,14 @@
   "id": 219255583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.008111,33.430641,-94.008111,33.430641",
     "geom:latitude":33.430641,
     "geom:longitude":-94.008111,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3115 E 9th St",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219255583,
-    "wof:lastmodified":1449072004,
+    "wof:lastmodified":1466321373,
     "wof:name":"Stateline Fireworks Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-94.008111,33.430641,-94.008111,33.430641],
+  "bbox": [
+    -94.008111,
+    33.430641,
+    -94.008111,
+    33.430641
+],
   "geometry": {"coordinates":[-94.008111,33.430641],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102262125",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.275129,35.338657,-93.275129,35.338657",
     "geom:latitude":35.338657,
     "geom:longitude":-93.275129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 Georgetown Rd",
     "sg:city":"London",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":"102262125",
-    "wof:lastmodified":1449069257,
+    "wof:lastmodified":1466322117,
     "wof:name":"London Schl Aquatics & Dive Sp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.275129,35.338657,-93.275129,35.338657],
-  "geometry": {"coordinates":[-93.275129,35.338657],"type":"Point"}
+  "bbox": [
+    -93.275129,
+    35.338657,
+    -93.275129,
+    35.338657
+],
+  "geometry": {"coordinates":[-93.27512900000001,35.338657],"type":"Point"}
 }

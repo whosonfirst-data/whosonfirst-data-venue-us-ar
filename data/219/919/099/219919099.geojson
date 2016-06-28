@@ -2,13 +2,14 @@
   "id": 219919099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.041634,36.432652,-94.041634,36.432652",
     "geom:latitude":36.432652,
     "geom:longitude":-94.041634,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15239 Battlefield Rd",
     "sg:city":"Garfield",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219919099,
-    "wof:lastmodified":1449073070,
+    "wof:lastmodified":1466325131,
     "wof:name":"The Country Store",
     "wof:parent_id":85895837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.041634,36.432652,-94.041634,36.432652],
+  "bbox": [
+    -94.041634,
+    36.432652,
+    -94.041634,
+    36.432652
+],
   "geometry": {"coordinates":[-94.041634,36.432652],"type":"Point"}
 }

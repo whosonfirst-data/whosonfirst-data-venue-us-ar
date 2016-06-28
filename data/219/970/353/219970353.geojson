@@ -2,13 +2,14 @@
   "id": 219970353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.143415,36.341392,-94.143415,36.341392",
     "geom:latitude":36.341392,
     "geom:longitude":-94.143415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"811 N Dixieland Rd",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -71,10 +72,11 @@
         }
     ],
     "wof:id":219970353,
-    "wof:lastmodified":1449073851,
+    "wof:lastmodified":1466325224,
     "wof:name":"Rogers Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -86,6 +88,11 @@
         "analyst"
     ]
 },
-  "bbox": [-94.143415,36.341392,-94.143415,36.341392],
+  "bbox": [
+    -94.143415,
+    36.341392,
+    -94.143415,
+    36.341392
+],
   "geometry": {"coordinates":[-94.143415,36.341392],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102336801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.306239,35.421386,-94.306239,35.421386",
     "geom:latitude":35.421386,
     "geom:longitude":-94.306239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4421 Industrial Park Rd",
     "sg:city":"Van Buren",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102336801,
-    "wof:lastmodified":1449067725,
+    "wof:lastmodified":1466323879,
     "wof:name":"Rick's Lawn Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.306239,35.421386,-94.306239,35.421386],
-  "geometry": {"coordinates":[-94.306239,35.421386],"type":"Point"}
+  "bbox": [
+    -94.306239,
+    35.421386,
+    -94.306239,
+    35.421386
+],
+  "geometry": {"coordinates":[-94.30623900000001,35.421386],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102255767",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.608629,36.224039,-91.608629,36.224039",
     "geom:latitude":36.224039,
     "geom:longitude":-91.608629,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17 E Main St",
     "sg:city":"Ash Flat",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102255767",
-    "wof:lastmodified":1449068860,
+    "wof:lastmodified":1466322044,
     "wof:name":"Ozark Title Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.608629,36.224039,-91.608629,36.224039],
-  "geometry": {"coordinates":[-91.608629,36.224039],"type":"Point"}
+  "bbox": [
+    -91.608629,
+    36.224039,
+    -91.608629,
+    36.224039
+],
+  "geometry": {"coordinates":[-91.60862899999999,36.224039],"type":"Point"}
 }

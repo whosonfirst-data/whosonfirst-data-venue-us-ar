@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102349833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.244368,35.641325,-91.244368,35.641325",
     "geom:latitude":35.641325,
     "geom:longitude":-91.244368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3112 Sexton St",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102349833,
-    "wof:lastmodified":1449068694,
+    "wof:lastmodified":1466324105,
     "wof:name":"John's Refrigeration",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.244368,35.641325,-91.244368,35.641325],
-  "geometry": {"coordinates":[-91.244368,35.641325],"type":"Point"}
+  "bbox": [
+    -91.244368,
+    35.641325,
+    -91.244368,
+    35.641325
+],
+  "geometry": {"coordinates":[-91.24436799999999,35.641325],"type":"Point"}
 }

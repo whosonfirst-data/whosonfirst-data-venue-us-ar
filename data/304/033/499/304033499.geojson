@@ -2,13 +2,14 @@
   "id": 304033499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.477881,36.202172,-94.477881,36.202172",
     "geom:latitude":36.202172,
     "geom:longitude":-94.477881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15190 Russell Rd",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":304033499,
-    "wof:lastmodified":1449043674,
+    "wof:lastmodified":1466324441,
     "wof:name":"George's Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "processing"
     ]
 },
-  "bbox": [-94.477881,36.202172,-94.477881,36.202172],
+  "bbox": [
+    -94.477881,
+    36.202172,
+    -94.477881,
+    36.202172
+],
   "geometry": {"coordinates":[-94.477881,36.202172],"type":"Point"}
 }

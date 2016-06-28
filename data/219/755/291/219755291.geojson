@@ -2,13 +2,14 @@
   "id": 219755291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.106109,36.229774,-93.106109,36.229774",
     "geom:latitude":36.229774,
     "geom:longitude":-93.106109,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 N Walnut St",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219755291,
-    "wof:lastmodified":1449071402,
+    "wof:lastmodified":1466324986,
     "wof:name":"M & T Electronics, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "soundproofing"
     ]
 },
-  "bbox": [-93.106109,36.229774,-93.106109,36.229774],
+  "bbox": [
+    -93.106109,
+    36.229774,
+    -93.106109,
+    36.229774
+],
   "geometry": {"coordinates":[-93.106109,36.229774],"type":"Point"}
 }

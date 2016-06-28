@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102304227",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.528455,33.669813,-93.528455,33.669813",
     "geom:latitude":33.669813,
     "geom:longitude":-93.528455,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Hempstead 111 Rd",
     "sg:city":"Hope",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":"102304227",
-    "wof:lastmodified":1449069586,
+    "wof:lastmodified":1466323088,
     "wof:name":"Church Providence BMA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.528455,33.669813,-93.528455,33.669813],
-  "geometry": {"coordinates":[-93.528455,33.669813],"type":"Point"}
+  "bbox": [
+    -93.528455,
+    33.669813,
+    -93.528455,
+    33.669813
+],
+  "geometry": {"coordinates":[-93.52845499999999,33.669813],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102231931",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.085929,35.1096,-92.085929,35.1096",
     "geom:latitude":35.1096,
     "geom:longitude":-92.085929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1795 Hwy 64 W",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":"102231931",
-    "wof:lastmodified":1449068979,
+    "wof:lastmodified":1466321524,
     "wof:name":"Oakley Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.085929,35.1096,-92.085929,35.1096],
-  "geometry": {"coordinates":[-92.085929,35.1096],"type":"Point"}
+  "bbox": [
+    -92.085929,
+    35.1096,
+    -92.085929,
+    35.1096
+],
+  "geometry": {"coordinates":[-92.08592899999999,35.1096],"type":"Point"}
 }

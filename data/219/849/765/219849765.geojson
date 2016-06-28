@@ -2,13 +2,14 @@
   "id": 219849765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.156187,36.095222,-94.156187,36.095222",
     "geom:latitude":36.095222,
     "geom:longitude":-94.156187,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 W Township St",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -70,10 +71,11 @@
         }
     ],
     "wof:id":219849765,
-    "wof:lastmodified":1449071049,
+    "wof:lastmodified":1466325030,
     "wof:name":"Allstate Insurance Company - Fred Guley",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -85,6 +87,11 @@
         "renter"
     ]
 },
-  "bbox": [-94.156187,36.095222,-94.156187,36.095222],
+  "bbox": [
+    -94.156187,
+    36.095222,
+    -94.156187,
+    36.095222
+],
   "geometry": {"coordinates":[-94.156187,36.095222],"type":"Point"}
 }

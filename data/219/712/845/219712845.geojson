@@ -2,13 +2,14 @@
   "id": 219712845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.982423,36.272301,-90.982423,36.272301",
     "geom:latitude":36.272301,
     "geom:longitude":-90.982423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1902 Highland Blvd",
     "sg:city":"Pocahontas",
     "sg:classifiers":[
@@ -83,10 +84,11 @@
         }
     ],
     "wof:id":219712845,
-    "wof:lastmodified":1449071900,
+    "wof:lastmodified":1466324946,
     "wof:name":"Mary Jo's Bridal & Formal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -101,6 +103,11 @@
         "chapel"
     ]
 },
-  "bbox": [-90.982423,36.272301,-90.982423,36.272301],
+  "bbox": [
+    -90.982423,
+    36.272301,
+    -90.982423,
+    36.272301
+],
   "geometry": {"coordinates":[-90.982423,36.272301],"type":"Point"}
 }

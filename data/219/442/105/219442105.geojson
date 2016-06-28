@@ -2,13 +2,14 @@
   "id": 219442105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.176511,34.913892,-92.176511,34.913892",
     "geom:latitude":34.913892,
     "geom:longitude":-92.176511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5313 Opal Dr",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219442105,
-    "wof:lastmodified":1449071940,
+    "wof:lastmodified":1466323281,
     "wof:name":"Mel Smith Chimney Sweep",
     "wof:parent_id":85837729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chimney"
     ]
 },
-  "bbox": [-92.176511,34.913892,-92.176511,34.913892],
+  "bbox": [
+    -92.176511,
+    34.913892,
+    -92.176511,
+    34.913892
+],
   "geometry": {"coordinates":[-92.176511,34.913892],"type":"Point"}
 }

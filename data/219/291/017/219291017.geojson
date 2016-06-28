@@ -2,13 +2,14 @@
   "id": 219291017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.16102,34.314973,-93.16102,34.314973",
     "geom:latitude":34.314973,
     "geom:longitude":-93.16102,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"349 Seminole Rd",
     "sg:city":"Bismarck",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219291017,
-    "wof:lastmodified":1449071485,
+    "wof:lastmodified":1466321658,
     "wof:name":"Mobile Fleet Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "bureau"
     ]
 },
-  "bbox": [-93.16102,34.314973,-93.16102,34.314973],
-  "geometry": {"coordinates":[-93.16102,34.314973],"type":"Point"}
+  "bbox": [
+    -93.16102,
+    34.314973,
+    -93.16102,
+    34.314973
+],
+  "geometry": {"coordinates":[-93.16101999999999,34.314973],"type":"Point"}
 }

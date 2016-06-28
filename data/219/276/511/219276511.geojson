@@ -2,13 +2,14 @@
   "id": 219276511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.42033,33.194118,-93.42033,33.194118",
     "geom:latitude":33.194118,
     "geom:longitude":-93.42033,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"260 Columbia Road 234",
     "sg:city":"Stamps",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219276511,
-    "wof:lastmodified":1449070499,
+    "wof:lastmodified":1466321537,
     "wof:name":"Owen Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.42033,33.194118,-93.42033,33.194118],
-  "geometry": {"coordinates":[-93.42033,33.194118],"type":"Point"}
+  "bbox": [
+    -93.42033,
+    33.194118,
+    -93.42033,
+    33.194118
+],
+  "geometry": {"coordinates":[-93.42033000000001,33.194118],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 235944975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.765483,36.597935,-94.765483,36.597935",
     "geom:latitude":36.597935,
     "geom:longitude":-94.765483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"303 N 3rd St",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":235944975,
-    "wof:lastmodified":1449008421,
+    "wof:lastmodified":1466320425,
     "wof:name":"J R's Painting",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-94.765483,36.597935,-94.765483,36.597935],
+  "bbox": [
+    -94.765483,
+    36.597935,
+    -94.765483,
+    36.597935
+],
   "geometry": {"coordinates":[-94.765483,36.597935],"type":"Point"}
 }

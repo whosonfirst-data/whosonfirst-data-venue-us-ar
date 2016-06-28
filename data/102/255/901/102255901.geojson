@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102255901",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.200667,36.34274,-94.200667,36.34274",
     "geom:latitude":36.34274,
     "geom:longitude":-94.200667,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"909 SE 28th St",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895815,
+        85688549,
         85633793,
         85921509,
         102083255,
-        85688549
+        85895815
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102255901",
-    "wof:lastmodified":1449068859,
+    "wof:lastmodified":1466322072,
     "wof:name":"Essex Manufacturing",
     "wof:parent_id":85895815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.200667,36.34274,-94.200667,36.34274],
+  "bbox": [
+    -94.200667,
+    36.34274,
+    -94.200667,
+    36.34274
+],
   "geometry": {"coordinates":[-94.200667,36.34274],"type":"Point"}
 }

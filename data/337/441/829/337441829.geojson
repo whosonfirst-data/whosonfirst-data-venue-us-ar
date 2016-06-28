@@ -2,13 +2,14 @@
   "id": 337441829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.207076,34.586565,-94.207076,34.586565",
     "geom:latitude":34.586565,
     "geom:longitude":-94.207076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2207 US Hwy 71",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337441829,
-    "wof:lastmodified":1449027001,
+    "wof:lastmodified":1466322866,
     "wof:name":"Wagners Classic Cars",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "body"
     ]
 },
-  "bbox": [-94.207076,34.586565,-94.207076,34.586565],
+  "bbox": [
+    -94.207076,
+    34.586565,
+    -94.207076,
+    34.586565
+],
   "geometry": {"coordinates":[-94.207076,34.586565],"type":"Point"}
 }

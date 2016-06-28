@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102263333",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.35787,33.110382,-92.35787,33.110382",
     "geom:latitude":33.110382,
     "geom:longitude":-92.35787,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 Pine St",
     "sg:city":"Strong",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102263333",
-    "wof:lastmodified":1449070146,
+    "wof:lastmodified":1466322172,
     "wof:name":"Strong City Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.35787,33.110382,-92.35787,33.110382],
-  "geometry": {"coordinates":[-92.35787,33.110382],"type":"Point"}
+  "bbox": [
+    -92.35787,
+    33.110382,
+    -92.35787,
+    33.110382
+],
+  "geometry": {"coordinates":[-92.35787000000001,33.110382],"type":"Point"}
 }

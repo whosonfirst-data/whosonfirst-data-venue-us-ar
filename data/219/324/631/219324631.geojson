@@ -2,13 +2,14 @@
   "id": 219324631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.339417,34.303959,-94.339417,34.303959",
     "geom:latitude":34.303959,
     "geom:longitude":-94.339417,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Polk Road 485",
     "sg:city":"Wickes",
     "sg:classifiers":[
@@ -77,10 +78,11 @@
         }
     ],
     "wof:id":219324631,
-    "wof:lastmodified":1449072443,
+    "wof:lastmodified":1466321930,
     "wof:name":"Area Agency On Aging Home Health & Hospice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -93,6 +95,11 @@
         "eldercare-home"
     ]
 },
-  "bbox": [-94.339417,34.303959,-94.339417,34.303959],
+  "bbox": [
+    -94.339417,
+    34.303959,
+    -94.339417,
+    34.303959
+],
   "geometry": {"coordinates":[-94.339417,34.303959],"type":"Point"}
 }

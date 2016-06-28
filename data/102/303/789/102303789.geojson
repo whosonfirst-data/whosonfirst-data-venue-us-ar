@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102303789",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.718567,35.254887,-91.718567,35.254887",
     "geom:latitude":35.254887,
     "geom:longitude":-91.718567,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"604 N Moss St",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102303789",
-    "wof:lastmodified":1449067772,
+    "wof:lastmodified":1466323176,
     "wof:name":"Searcy Swimming Pool",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.718567,35.254887,-91.718567,35.254887],
-  "geometry": {"coordinates":[-91.718567,35.254887],"type":"Point"}
+  "bbox": [
+    -91.718567,
+    35.254887,
+    -91.718567,
+    35.254887
+],
+  "geometry": {"coordinates":[-91.71856699999999,35.254887],"type":"Point"}
 }

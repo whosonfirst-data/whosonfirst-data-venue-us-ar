@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102367295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.704445,35.253731,-91.704445,35.253731",
     "geom:latitude":35.253731,
     "geom:longitude":-91.704445,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"705 Marion St",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102367295,
-    "wof:lastmodified":1449069166,
+    "wof:lastmodified":1466324391,
     "wof:name":"Families Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.704445,35.253731,-91.704445,35.253731],
-  "geometry": {"coordinates":[-91.704445,35.253731],"type":"Point"}
+  "bbox": [
+    -91.704445,
+    35.253731,
+    -91.704445,
+    35.253731
+],
+  "geometry": {"coordinates":[-91.70444500000001,35.253731],"type":"Point"}
 }

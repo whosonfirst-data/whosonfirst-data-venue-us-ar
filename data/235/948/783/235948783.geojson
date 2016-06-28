@@ -2,13 +2,14 @@
   "id": 235948783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.76737,36.594508,-94.76737,36.594508",
     "geom:latitude":36.594508,
     "geom:longitude":-94.76737,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"145 E Odaniel Pkwy",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":235948783,
-    "wof:lastmodified":1449008525,
+    "wof:lastmodified":1466320435,
     "wof:name":"Pelivan Transit",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.76737,36.594508,-94.76737,36.594508],
+  "bbox": [
+    -94.76737,
+    36.594508,
+    -94.76737,
+    36.594508
+],
   "geometry": {"coordinates":[-94.76737,36.594508],"type":"Point"}
 }

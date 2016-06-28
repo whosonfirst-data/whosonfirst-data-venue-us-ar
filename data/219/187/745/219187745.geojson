@@ -2,13 +2,14 @@
   "id": 219187745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.589124,33.070922,-91.589124,33.070922",
     "geom:latitude":33.070922,
     "geom:longitude":-91.589124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"348 Highway 173",
     "sg:city":"Wilmot",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":219187745,
-    "wof:lastmodified":1449070914,
+    "wof:lastmodified":1466320698,
     "wof:name":"M & M Wheelers and Cycles",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "motor"
     ]
 },
-  "bbox": [-91.589124,33.070922,-91.589124,33.070922],
+  "bbox": [
+    -91.589124,
+    33.070922,
+    -91.589124,
+    33.070922
+],
   "geometry": {"coordinates":[-91.589124,33.070922],"type":"Point"}
 }

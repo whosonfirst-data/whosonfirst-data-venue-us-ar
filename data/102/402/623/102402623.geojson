@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102402623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.665394,33.232815,-92.665394,33.232815",
     "geom:latitude":33.232815,
     "geom:longitude":-92.665394,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1901 N West Ave",
     "sg:city":"El Dorado",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":102402623,
-    "wof:lastmodified":1449068561,
+    "wof:lastmodified":1466324827,
     "wof:name":"Maria's Hair Stop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.665394,33.232815,-92.665394,33.232815],
-  "geometry": {"coordinates":[-92.665394,33.232815],"type":"Point"}
+  "bbox": [
+    -92.665394,
+    33.232815,
+    -92.665394,
+    33.232815
+],
+  "geometry": {"coordinates":[-92.66539400000001,33.232815],"type":"Point"}
 }

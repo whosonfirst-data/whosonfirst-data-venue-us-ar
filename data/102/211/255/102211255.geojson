@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102211255",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.172238,34.879412,-92.172238,34.879412",
     "geom:latitude":34.879412,
     "geom:longitude":-92.172238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"721 Adams Dr",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102211255",
-    "wof:lastmodified":1449068378,
+    "wof:lastmodified":1466320900,
     "wof:name":"Mansion Landscape",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.172238,34.879412,-92.172238,34.879412],
-  "geometry": {"coordinates":[-92.172238,34.879412],"type":"Point"}
+  "bbox": [
+    -92.172238,
+    34.879412,
+    -92.172238,
+    34.879412
+],
+  "geometry": {"coordinates":[-92.17223799999999,34.879412],"type":"Point"}
 }

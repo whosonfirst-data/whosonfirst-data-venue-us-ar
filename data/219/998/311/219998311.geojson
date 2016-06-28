@@ -2,13 +2,14 @@
   "id": 219998311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.189949,36.312222,-94.189949,36.312222",
     "geom:latitude":36.312222,
     "geom:longitude":-94.189949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5501 Pinnacle Point Dr # 2",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219998311,
-    "wof:lastmodified":1449071563,
+    "wof:lastmodified":1466325449,
     "wof:name":"Packers Sanitation Services Incorporated",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-94.189949,36.312222,-94.189949,36.312222],
+  "bbox": [
+    -94.189949,
+    36.312222,
+    -94.189949,
+    36.312222
+],
   "geometry": {"coordinates":[-94.189949,36.312222],"type":"Point"}
 }

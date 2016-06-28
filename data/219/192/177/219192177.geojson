@@ -2,13 +2,14 @@
   "id": 219192177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.808379,33.510912,-92.808379,33.510912",
     "geom:latitude":33.510912,
     "geom:longitude":-92.808379,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"368 Ouachita 376",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219192177,
-    "wof:lastmodified":1449072901,
+    "wof:lastmodified":1466320779,
     "wof:name":"Allens Dirt & Dozier Service",
     "wof:parent_id":85813169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "topsoil"
     ]
 },
-  "bbox": [-92.808379,33.510912,-92.808379,33.510912],
+  "bbox": [
+    -92.808379,
+    33.510912,
+    -92.808379,
+    33.510912
+],
   "geometry": {"coordinates":[-92.808379,33.510912],"type":"Point"}
 }

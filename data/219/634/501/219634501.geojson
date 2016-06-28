@@ -2,13 +2,14 @@
   "id": 219634501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.648254,35.846238,-90.648254,35.846238",
     "geom:latitude":35.846238,
     "geom:longitude":-90.648254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4324 Aggie Rd",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219634501,
-    "wof:lastmodified":1449072079,
+    "wof:lastmodified":1466324641,
     "wof:name":"Mid-State Aftrmarket Bdy Parts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "accessory"
     ]
 },
-  "bbox": [-90.648254,35.846238,-90.648254,35.846238],
-  "geometry": {"coordinates":[-90.648254,35.846238],"type":"Point"}
+  "bbox": [
+    -90.648254,
+    35.846238,
+    -90.648254,
+    35.846238
+],
+  "geometry": {"coordinates":[-90.64825399999999,35.846238],"type":"Point"}
 }

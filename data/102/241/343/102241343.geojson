@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102241343",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.968205,35.541769,-91.968205,35.541769",
     "geom:latitude":35.541769,
     "geom:longitude":-91.968205,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2395 Heber Springs Rd N",
     "sg:city":"Tumbling Shoals",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102241343",
-    "wof:lastmodified":1449070148,
+    "wof:lastmodified":1466321662,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.968205,35.541769,-91.968205,35.541769],
+  "bbox": [
+    -91.968205,
+    35.541769,
+    -91.968205,
+    35.541769
+],
   "geometry": {"coordinates":[-91.968205,35.541769],"type":"Point"}
 }

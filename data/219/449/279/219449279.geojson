@@ -2,13 +2,14 @@
   "id": 219449279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.902713,34.782902,-91.902713,34.782902",
     "geom:latitude":34.782902,
     "geom:longitude":-91.902713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"319 W Ash St",
     "sg:city":"Lonoke",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219449279,
-    "wof:lastmodified":1449073649,
+    "wof:lastmodified":1466323366,
     "wof:name":"W T Fletcher Dds",
     "wof:parent_id":85811577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.902713,34.782902,-91.902713,34.782902],
-  "geometry": {"coordinates":[-91.902713,34.782902],"type":"Point"}
+  "bbox": [
+    -91.902713,
+    34.782902,
+    -91.902713,
+    34.782902
+],
+  "geometry": {"coordinates":[-91.90271300000001,34.782902],"type":"Point"}
 }

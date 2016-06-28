@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102354259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.038255,34.494618,-93.038255,34.494618",
     "geom:latitude":34.494618,
     "geom:longitude":-93.038255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Lowery St",
     "sg:city":"Hot Springs National",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102354259,
-    "wof:lastmodified":1449069918,
+    "wof:lastmodified":1466324098,
     "wof:name":"Indiandale Manor Apts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.038255,34.494618,-93.038255,34.494618],
-  "geometry": {"coordinates":[-93.038255,34.494618],"type":"Point"}
+  "bbox": [
+    -93.038255,
+    34.494618,
+    -93.038255,
+    34.494618
+],
+  "geometry": {"coordinates":[-93.03825500000001,34.494618],"type":"Point"}
 }

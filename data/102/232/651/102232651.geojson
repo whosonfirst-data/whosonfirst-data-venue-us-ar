@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102232651",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.839475,35.05671,-91.839475,35.05671",
     "geom:latitude":35.05671,
     "geom:longitude":-91.839475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"291 Jones Rd",
     "sg:city":"Beebe",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":"102232651",
-    "wof:lastmodified":1449068567,
+    "wof:lastmodified":1466321510,
     "wof:name":"Animal Sitters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.839475,35.05671,-91.839475,35.05671],
-  "geometry": {"coordinates":[-91.839475,35.05671],"type":"Point"}
+  "bbox": [
+    -91.839475,
+    35.05671,
+    -91.839475,
+    35.05671
+],
+  "geometry": {"coordinates":[-91.83947499999999,35.05671],"type":"Point"}
 }

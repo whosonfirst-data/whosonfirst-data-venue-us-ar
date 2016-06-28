@@ -2,13 +2,14 @@
   "id": 219952247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.179901,36.340599,-94.179901,36.340599",
     "geom:latitude":36.340599,
     "geom:longitude":-94.179901,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"528 N 47th St",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":219952247,
-    "wof:lastmodified":1449072942,
+    "wof:lastmodified":1466325106,
     "wof:name":"Applebee's Neighborhood Grill",
     "wof:parent_id":85895853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.179901,36.340599,-94.179901,36.340599],
+  "bbox": [
+    -94.179901,
+    36.340599,
+    -94.179901,
+    36.340599
+],
   "geometry": {"coordinates":[-94.179901,36.340599],"type":"Point"}
 }

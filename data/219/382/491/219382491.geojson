@@ -2,13 +2,14 @@
   "id": 219382491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.418854,35.093819,-92.418854,35.093819",
     "geom:latitude":35.093819,
     "geom:longitude":-92.418854,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 Museum Rd",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219382491,
-    "wof:lastmodified":1449071341,
+    "wof:lastmodified":1466322696,
     "wof:name":"Non-Profit Telemedia, Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "telemarketing"
     ]
 },
-  "bbox": [-92.418854,35.093819,-92.418854,35.093819],
+  "bbox": [
+    -92.418854,
+    35.093819,
+    -92.418854,
+    35.093819
+],
   "geometry": {"coordinates":[-92.418854,35.093819],"type":"Point"}
 }

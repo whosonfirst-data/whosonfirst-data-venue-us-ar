@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102390619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.465064,33.537833,-92.465064,33.537833",
     "geom:latitude":33.537833,
     "geom:longitude":-92.465064,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"419 Main",
     "sg:city":"Hampton",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102390619,
-    "wof:lastmodified":1449070240,
+    "wof:lastmodified":1466324271,
     "wof:name":"Hampton High School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.465064,33.537833,-92.465064,33.537833],
+  "bbox": [
+    -92.465064,
+    33.537833,
+    -92.465064,
+    33.537833
+],
   "geometry": {"coordinates":[-92.465064,33.537833],"type":"Point"}
 }

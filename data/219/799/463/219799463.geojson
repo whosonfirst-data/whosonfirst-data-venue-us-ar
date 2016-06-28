@@ -2,13 +2,14 @@
   "id": 219799463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.514826,36.387112,-92.514826,36.387112",
     "geom:latitude":36.387112,
     "geom:longitude":-92.514826,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3553 Highway 178 W",
     "sg:city":"Lakeview",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219799463,
-    "wof:lastmodified":1449073937,
+    "wof:lastmodified":1466325024,
     "wof:name":"Alb's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.514826,36.387112,-92.514826,36.387112],
+  "bbox": [
+    -92.514826,
+    36.387112,
+    -92.514826,
+    36.387112
+],
   "geometry": {"coordinates":[-92.514826,36.387112],"type":"Point"}
 }

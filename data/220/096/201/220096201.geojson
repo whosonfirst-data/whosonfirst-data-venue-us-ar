@@ -2,13 +2,14 @@
   "id": 220096201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.154039,35.469046,-94.154039,35.469046",
     "geom:latitude":35.469046,
     "geom:longitude":-94.154039,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5802 Red Hill Rd",
     "sg:city":"Alma",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":220096201,
-    "wof:lastmodified":1449074278,
+    "wof:lastmodified":1466322096,
     "wof:name":"K-B Land & Cattle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ranch"
     ]
 },
-  "bbox": [-94.154039,35.469046,-94.154039,35.469046],
+  "bbox": [
+    -94.154039,
+    35.469046,
+    -94.154039,
+    35.469046
+],
   "geometry": {"coordinates":[-94.154039,35.469046],"type":"Point"}
 }

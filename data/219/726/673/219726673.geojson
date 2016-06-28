@@ -2,13 +2,14 @@
   "id": 219726673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.906636,35.617644,-90.906636,35.617644",
     "geom:latitude":35.617644,
     "geom:longitude":-90.906636,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"537 Dudley St",
     "sg:city":"Weiner",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219726673,
-    "wof:lastmodified":1449072805,
+    "wof:lastmodified":1466324885,
     "wof:name":"R Keith Bise",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rice"
     ]
 },
-  "bbox": [-90.906636,35.617644,-90.906636,35.617644],
-  "geometry": {"coordinates":[-90.906636,35.617644],"type":"Point"}
+  "bbox": [
+    -90.906636,
+    35.617644,
+    -90.906636,
+    35.617644
+],
+  "geometry": {"coordinates":[-90.90663600000001,35.617644],"type":"Point"}
 }

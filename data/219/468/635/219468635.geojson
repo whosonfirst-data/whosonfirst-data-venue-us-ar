@@ -2,13 +2,14 @@
   "id": 219468635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.458628,34.96017,-92.458628,34.96017",
     "geom:latitude":34.96017,
     "geom:longitude":-92.458628,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Easterwood Point Rd",
     "sg:city":"Mayflower",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219468635,
-    "wof:lastmodified":1449072930,
+    "wof:lastmodified":1466323537,
     "wof:name":"Piece Maker",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "reproduction"
     ]
 },
-  "bbox": [-92.458628,34.96017,-92.458628,34.96017],
+  "bbox": [
+    -92.458628,
+    34.96017,
+    -92.458628,
+    34.96017
+],
   "geometry": {"coordinates":[-92.458628,34.96017],"type":"Point"}
 }

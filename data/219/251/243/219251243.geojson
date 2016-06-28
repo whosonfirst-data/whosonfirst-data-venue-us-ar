@@ -2,13 +2,14 @@
   "id": 219251243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.848124,33.958131,-93.848124,33.958131",
     "geom:latitude":33.958131,
     "geom:longitude":-93.848124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"221 Sipes St",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":219251243,
-    "wof:lastmodified":1449070433,
+    "wof:lastmodified":1466321340,
     "wof:name":"Truly Nolen of America",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "churches-methodist"
     ]
 },
-  "bbox": [-93.848124,33.958131,-93.848124,33.958131],
+  "bbox": [
+    -93.848124,
+    33.958131,
+    -93.848124,
+    33.958131
+],
   "geometry": {"coordinates":[-93.848124,33.958131],"type":"Point"}
 }

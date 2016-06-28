@@ -2,13 +2,14 @@
   "id": 219397501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.479388,35.08525,-92.479388,35.08525",
     "geom:latitude":35.08525,
     "geom:longitude":-92.479388,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3187 College Ave",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":219397501,
-    "wof:lastmodified":1449071795,
+    "wof:lastmodified":1466322826,
     "wof:name":"Turner Signs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "specialty"
     ]
 },
-  "bbox": [-92.479388,35.08525,-92.479388,35.08525],
+  "bbox": [
+    -92.479388,
+    35.08525,
+    -92.479388,
+    35.08525
+],
   "geometry": {"coordinates":[-92.479388,35.08525],"type":"Point"}
 }

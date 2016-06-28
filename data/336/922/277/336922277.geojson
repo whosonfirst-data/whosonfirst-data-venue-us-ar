@@ -2,13 +2,14 @@
   "id": 336922277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.541389,36.188677,-94.541389,36.188677",
     "geom:latitude":36.188677,
     "geom:longitude":-94.541389,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"510 N Mount Olive St",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336922277,
-    "wof:lastmodified":1448997028,
+    "wof:lastmodified":1466320472,
     "wof:name":"Production Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "studio"
     ]
 },
-  "bbox": [-94.541389,36.188677,-94.541389,36.188677],
+  "bbox": [
+    -94.541389,
+    36.188677,
+    -94.541389,
+    36.188677
+],
   "geometry": {"coordinates":[-94.541389,36.188677],"type":"Point"}
 }

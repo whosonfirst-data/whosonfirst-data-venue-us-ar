@@ -2,13 +2,14 @@
   "id": 219607919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.963299,35.696582,-89.963299,35.696582",
     "geom:latitude":35.696582,
     "geom:longitude":-89.963299,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"428 Elizabeth Ave",
     "sg:city":"Osceola",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219607919,
-    "wof:lastmodified":1449070865,
+    "wof:lastmodified":1466324603,
     "wof:name":"Mount Olive Mb Church",
     "wof:parent_id":85814753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-89.963299,35.696582,-89.963299,35.696582],
-  "geometry": {"coordinates":[-89.963299,35.696582],"type":"Point"}
+  "bbox": [
+    -89.963299,
+    35.696582,
+    -89.963299,
+    35.696582
+],
+  "geometry": {"coordinates":[-89.96329900000001,35.696582],"type":"Point"}
 }

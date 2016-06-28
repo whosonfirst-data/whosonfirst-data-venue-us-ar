@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102241353",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.66643,35.232971,-91.66643,35.232971",
     "geom:latitude":35.232971,
     "geom:longitude":-91.66643,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 NE 1st St",
     "sg:city":"Kensett",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102241353",
-    "wof:lastmodified":1449070147,
+    "wof:lastmodified":1466321664,
     "wof:name":"Simmons First Bank Of Searcy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.66643,35.232971,-91.66643,35.232971],
-  "geometry": {"coordinates":[-91.66643,35.232971],"type":"Point"}
+  "bbox": [
+    -91.66643,
+    35.232971,
+    -91.66643,
+    35.232971
+],
+  "geometry": {"coordinates":[-91.66643000000001,35.232971],"type":"Point"}
 }

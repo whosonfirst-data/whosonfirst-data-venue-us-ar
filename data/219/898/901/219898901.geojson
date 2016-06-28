@@ -2,13 +2,14 @@
   "id": 219898901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.219794,36.364271,-94.219794,36.364271",
     "geom:latitude":36.364271,
     "geom:longitude":-94.219794,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"820 S Walton Blvd",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219898901,
-    "wof:lastmodified":1449070306,
+    "wof:lastmodified":1466325100,
     "wof:name":"Maidenform",
     "wof:parent_id":85895819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "corset"
     ]
 },
-  "bbox": [-94.219794,36.364271,-94.219794,36.364271],
-  "geometry": {"coordinates":[-94.219794,36.364271],"type":"Point"}
+  "bbox": [
+    -94.219794,
+    36.364271,
+    -94.219794,
+    36.364271
+],
+  "geometry": {"coordinates":[-94.21979399999999,36.364271],"type":"Point"}
 }

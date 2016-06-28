@@ -2,13 +2,14 @@
   "id": 219596077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.780728,34.774749,-90.780728,34.774749",
     "geom:latitude":34.774749,
     "geom:longitude":-90.780728,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"689 W Chestnut St",
     "sg:city":"Marianna",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219596077,
-    "wof:lastmodified":1449072190,
+    "wof:lastmodified":1466324578,
     "wof:name":"Brock Laser Service & Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laser"
     ]
 },
-  "bbox": [-90.780728,34.774749,-90.780728,34.774749],
+  "bbox": [
+    -90.780728,
+    34.774749,
+    -90.780728,
+    34.774749
+],
   "geometry": {"coordinates":[-90.780728,34.774749],"type":"Point"}
 }

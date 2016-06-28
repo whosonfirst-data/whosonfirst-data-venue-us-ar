@@ -2,13 +2,14 @@
   "id": 219455815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.820953,34.362564,-92.820953,34.362564",
     "geom:latitude":34.362564,
     "geom:longitude":-92.820953,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"803 Cabe St",
     "sg:city":"Malvern",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219455815,
-    "wof:lastmodified":1449073349,
+    "wof:lastmodified":1466323435,
     "wof:name":"R A Grigsby Collection Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "coach"
     ]
 },
-  "bbox": [-92.820953,34.362564,-92.820953,34.362564],
+  "bbox": [
+    -92.820953,
+    34.362564,
+    -92.820953,
+    34.362564
+],
   "geometry": {"coordinates":[-92.820953,34.362564],"type":"Point"}
 }

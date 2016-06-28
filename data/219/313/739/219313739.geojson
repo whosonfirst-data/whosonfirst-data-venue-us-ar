@@ -2,13 +2,14 @@
   "id": 219313739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.66887,34.080917,-93.66887,34.080917",
     "geom:latitude":34.080917,
     "geom:longitude":-93.66887,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"905 Highway 27 N",
     "sg:city":"Murfreesboro",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219313739,
-    "wof:lastmodified":1449070472,
+    "wof:lastmodified":1466321846,
     "wof:name":"Rather Windshield Rep",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "windshield"
     ]
 },
-  "bbox": [-93.66887,34.080917,-93.66887,34.080917],
+  "bbox": [
+    -93.66887,
+    34.080917,
+    -93.66887,
+    34.080917
+],
   "geometry": {"coordinates":[-93.66887,34.080917],"type":"Point"}
 }

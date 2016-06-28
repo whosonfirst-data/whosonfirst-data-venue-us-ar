@@ -2,13 +2,14 @@
   "id": 219761615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.130603,36.23501,-93.130603,36.23501",
     "geom:latitude":36.23501,
     "geom:longitude":-93.130603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"407 Bella Vista St",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219761615,
-    "wof:lastmodified":1449073090,
+    "wof:lastmodified":1466324918,
     "wof:name":"Capps Road Church Of Christ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "christ"
     ]
 },
-  "bbox": [-93.130603,36.23501,-93.130603,36.23501],
-  "geometry": {"coordinates":[-93.130603,36.23501],"type":"Point"}
+  "bbox": [
+    -93.130603,
+    36.23501,
+    -93.130603,
+    36.23501
+],
+  "geometry": {"coordinates":[-93.13060299999999,36.23501],"type":"Point"}
 }

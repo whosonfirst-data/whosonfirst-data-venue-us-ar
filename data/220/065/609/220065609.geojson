@@ -2,13 +2,14 @@
   "id": 220065609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.139291,35.279623,-93.139291,35.279623",
     "geom:latitude":35.279623,
     "geom:longitude":-93.139291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"708 W Main St",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220065609,
-    "wof:lastmodified":1449074871,
+    "wof:lastmodified":1466321163,
     "wof:name":"Advertising & Promotions",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "specialty"
     ]
 },
-  "bbox": [-93.139291,35.279623,-93.139291,35.279623],
+  "bbox": [
+    -93.139291,
+    35.279623,
+    -93.139291,
+    35.279623
+],
   "geometry": {"coordinates":[-93.139291,35.279623],"type":"Point"}
 }

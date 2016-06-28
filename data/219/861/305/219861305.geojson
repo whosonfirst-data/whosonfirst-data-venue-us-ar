@@ -2,13 +2,14 @@
   "id": 219861305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.150579,36.114142,-94.150579,36.114142",
     "geom:latitude":36.114142,
     "geom:longitude":-94.150579,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"516 E Millsap Rd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219861305,
-    "wof:lastmodified":1449073886,
+    "wof:lastmodified":1466325043,
     "wof:name":"Daily & Woods, P",
     "wof:parent_id":85885431,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "plan"
     ]
 },
-  "bbox": [-94.150579,36.114142,-94.150579,36.114142],
-  "geometry": {"coordinates":[-94.150579,36.114142],"type":"Point"}
+  "bbox": [
+    -94.150579,
+    36.114142,
+    -94.150579,
+    36.114142
+],
+  "geometry": {"coordinates":[-94.15057899999999,36.114142],"type":"Point"}
 }

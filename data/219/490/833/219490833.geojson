@@ -2,13 +2,14 @@
   "id": 219490833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.230536,34.854182,-92.230536,34.854182",
     "geom:latitude":34.854182,
     "geom:longitude":-92.230536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1724 Hidden Creek Dr",
     "sg:city":"Sherwood",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219490833,
-    "wof:lastmodified":1449073558,
+    "wof:lastmodified":1466323857,
     "wof:name":"Sherwood Lawn & Landscaping",
     "wof:parent_id":85851723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-92.230536,34.854182,-92.230536,34.854182],
+  "bbox": [
+    -92.230536,
+    34.854182,
+    -92.230536,
+    34.854182
+],
   "geometry": {"coordinates":[-92.230536,34.854182],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219374867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.460286,35.592119,-92.460286,35.592119",
     "geom:latitude":35.592119,
     "geom:longitude":-92.460286,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 Yellowjacket Ln",
     "sg:city":"Clinton",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":219374867,
-    "wof:lastmodified":1449071924,
+    "wof:lastmodified":1466322630,
     "wof:name":"Kazi Excavation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "contractor"
     ]
 },
-  "bbox": [-92.460286,35.592119,-92.460286,35.592119],
+  "bbox": [
+    -92.460286,
+    35.592119,
+    -92.460286,
+    35.592119
+],
   "geometry": {"coordinates":[-92.460286,35.592119],"type":"Point"}
 }

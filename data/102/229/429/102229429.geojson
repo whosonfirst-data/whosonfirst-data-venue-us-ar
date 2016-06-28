@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102229429",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.418232,34.743645,-92.418232,34.743645",
     "geom:latitude":34.743645,
     "geom:longitude":-92.418232,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1225 Gamble Rd",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852265,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85852265
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102229429",
-    "wof:lastmodified":1449069699,
+    "wof:lastmodified":1466321396,
     "wof:name":"Westhampton By Cornerstone",
     "wof:parent_id":85852265,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.418232,34.743645,-92.418232,34.743645],
+  "bbox": [
+    -92.418232,
+    34.743645,
+    -92.418232,
+    34.743645
+],
   "geometry": {"coordinates":[-92.418232,34.743645],"type":"Point"}
 }

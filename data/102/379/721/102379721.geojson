@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102379721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.225901,36.381893,-94.225901,36.381893",
     "geom:latitude":36.381893,
     "geom:longitude":-94.225901,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"904 NW L St",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102379721,
-    "wof:lastmodified":1449069149,
+    "wof:lastmodified":1466322032,
     "wof:name":"Decorating Den",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.225901,36.381893,-94.225901,36.381893],
-  "geometry": {"coordinates":[-94.225901,36.381893],"type":"Point"}
+  "bbox": [
+    -94.225901,
+    36.381893,
+    -94.225901,
+    36.381893
+],
+  "geometry": {"coordinates":[-94.22590099999999,36.381893],"type":"Point"}
 }

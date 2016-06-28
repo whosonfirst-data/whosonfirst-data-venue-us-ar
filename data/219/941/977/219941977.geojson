@@ -2,13 +2,14 @@
   "id": 219941977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.137869,36.265218,-94.137869,36.265218",
     "geom:latitude":36.265218,
     "geom:longitude":-94.137869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"707 Jeffery Pl",
     "sg:city":"Lowell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219941977,
-    "wof:lastmodified":1449072495,
+    "wof:lastmodified":1466325176,
     "wof:name":"A & C Concrete",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-94.137869,36.265218,-94.137869,36.265218],
-  "geometry": {"coordinates":[-94.137869,36.265218],"type":"Point"}
+  "bbox": [
+    -94.137869,
+    36.265218,
+    -94.137869,
+    36.265218
+],
+  "geometry": {"coordinates":[-94.13786899999999,36.265218],"type":"Point"}
 }

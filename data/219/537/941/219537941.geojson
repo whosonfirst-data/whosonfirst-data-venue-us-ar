@@ -2,13 +2,14 @@
   "id": 219537941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.317436,34.333874,-92.317436,34.333874",
     "geom:latitude":34.333874,
     "geom:longitude":-92.317436,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1030 Grant 73",
     "sg:city":"Sheridan",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219537941,
-    "wof:lastmodified":1449071263,
+    "wof:lastmodified":1466324242,
     "wof:name":"D Harlon Henry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.317436,34.333874,-92.317436,34.333874],
+  "bbox": [
+    -92.317436,
+    34.333874,
+    -92.317436,
+    34.333874
+],
   "geometry": {"coordinates":[-92.317436,34.333874],"type":"Point"}
 }

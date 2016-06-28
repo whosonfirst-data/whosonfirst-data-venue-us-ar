@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102211395",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.954794,34.444357,-91.954794,34.444357",
     "geom:latitude":34.444357,
     "geom:longitude":-91.954794,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11112 State Hwy 15",
     "sg:city":"Tucker",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102211395",
-    "wof:lastmodified":1449068379,
+    "wof:lastmodified":1466320931,
     "wof:name":"Corner Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.954794,34.444357,-91.954794,34.444357],
-  "geometry": {"coordinates":[-91.954794,34.444357],"type":"Point"}
+  "bbox": [
+    -91.954794,
+    34.444357,
+    -91.954794,
+    34.444357
+],
+  "geometry": {"coordinates":[-91.95479400000001,34.444357],"type":"Point"}
 }

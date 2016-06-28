@@ -2,13 +2,14 @@
   "id": 220095529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.167327,35.536388,-94.167327,35.536388",
     "geom:latitude":35.536388,
     "geom:longitude":-94.167327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4819 Ridge Rd",
     "sg:city":"Alma",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":220095529,
-    "wof:lastmodified":1449074444,
+    "wof:lastmodified":1466322091,
     "wof:name":"Davis Handyman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "home"
     ]
 },
-  "bbox": [-94.167327,35.536388,-94.167327,35.536388],
+  "bbox": [
+    -94.167327,
+    35.536388,
+    -94.167327,
+    35.536388
+],
   "geometry": {"coordinates":[-94.167327,35.536388],"type":"Point"}
 }

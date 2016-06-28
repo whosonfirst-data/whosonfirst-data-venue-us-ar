@@ -2,13 +2,14 @@
   "id": 219488087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.198898,34.836368,-92.198898,34.836368",
     "geom:latitude":34.836368,
     "geom:longitude":-92.198898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"214 Cherrie Ave",
     "sg:city":"Sherwood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219488087,
-    "wof:lastmodified":1449073821,
+    "wof:lastmodified":1466323808,
     "wof:name":"Eileen Donnelly",
     "wof:parent_id":85837729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrician"
     ]
 },
-  "bbox": [-92.198898,34.836368,-92.198898,34.836368],
+  "bbox": [
+    -92.198898,
+    34.836368,
+    -92.198898,
+    34.836368
+],
   "geometry": {"coordinates":[-92.198898,34.836368],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203416013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.492451,33.887068,-91.492451,33.887068",
     "geom:latitude":33.887068,
     "geom:longitude":-91.492451,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"129 W Waterman St",
     "sg:city":"Dumas",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":203416013,
-    "wof:lastmodified":1449025763,
+    "wof:lastmodified":1466324457,
     "wof:name":"Dunn Van M Dr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contact"
     ]
 },
-  "bbox": [-91.492451,33.887068,-91.492451,33.887068],
+  "bbox": [
+    -91.492451,
+    33.887068,
+    -91.492451,
+    33.887068
+],
   "geometry": {"coordinates":[-91.492451,33.887068],"type":"Point"}
 }

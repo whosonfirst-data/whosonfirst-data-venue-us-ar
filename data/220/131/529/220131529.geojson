@@ -2,13 +2,14 @@
   "id": 220131529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.087136,34.900837,-94.087136,34.900837",
     "geom:latitude":34.900837,
     "geom:longitude":-94.087136,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Pine St",
     "sg:city":"Waldron",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220131529,
-    "wof:lastmodified":1449074258,
+    "wof:lastmodified":1466322832,
     "wof:name":"Fire Dept Waldron Rural",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-94.087136,34.900837,-94.087136,34.900837],
+  "bbox": [
+    -94.087136,
+    34.900837,
+    -94.087136,
+    34.900837
+],
   "geometry": {"coordinates":[-94.087136,34.900837],"type":"Point"}
 }

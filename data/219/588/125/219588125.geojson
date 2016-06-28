@@ -2,13 +2,14 @@
   "id": 219588125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.634071,34.517538,-90.634071,34.517538",
     "geom:latitude":34.517538,
     "geom:longitude":-90.634071,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 D Anna Pl",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":219588125,
-    "wof:lastmodified":1449073239,
+    "wof:lastmodified":1466324515,
     "wof:name":"Arkansas Department Of Human Services",
     "wof:parent_id":85834075,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "human"
     ]
 },
-  "bbox": [-90.634071,34.517538,-90.634071,34.517538],
-  "geometry": {"coordinates":[-90.634071,34.517538],"type":"Point"}
+  "bbox": [
+    -90.634071,
+    34.517538,
+    -90.634071,
+    34.517538
+],
+  "geometry": {"coordinates":[-90.63407100000001,34.517538],"type":"Point"}
 }

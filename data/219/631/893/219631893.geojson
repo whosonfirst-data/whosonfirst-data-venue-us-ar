@@ -2,13 +2,14 @@
   "id": 219631893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.7043,35.829056,-90.7043,35.829056",
     "geom:latitude":35.829056,
     "geom:longitude":-90.7043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2215 N Church St",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219631893,
-    "wof:lastmodified":1449071492,
+    "wof:lastmodified":1466324842,
     "wof:name":"Bethesda Missionary Baptist Church",
     "wof:parent_id":85836541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "churches-baptist"
     ]
 },
-  "bbox": [-90.7043,35.829056,-90.7043,35.829056],
+  "bbox": [
+    -90.7043,
+    35.829056,
+    -90.7043,
+    35.829056
+],
   "geometry": {"coordinates":[-90.7043,35.829056],"type":"Point"}
 }

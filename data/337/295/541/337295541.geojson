@@ -2,13 +2,14 @@
   "id": 337295541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.134025,35.292951,-93.134025,35.292951",
     "geom:latitude":35.292951,
     "geom:longitude":-93.134025,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1509 N Boulder Ave # 209",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337295541,
-    "wof:lastmodified":1449027256,
+    "wof:lastmodified":1466322191,
     "wof:name":"A T U Foundation",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trust"
     ]
 },
-  "bbox": [-93.134025,35.292951,-93.134025,35.292951],
-  "geometry": {"coordinates":[-93.134025,35.292951],"type":"Point"}
+  "bbox": [
+    -93.134025,
+    35.292951,
+    -93.134025,
+    35.292951
+],
+  "geometry": {"coordinates":[-93.13402499999999,35.292951],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219275175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.379879,33.801197,-93.379879,33.801197",
     "geom:latitude":33.801197,
     "geom:longitude":-93.379879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"122 E 2nd St S",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":219275175,
-    "wof:lastmodified":1449071532,
+    "wof:lastmodified":1466321526,
     "wof:name":"Barber , Barry D. - Mckenzie, Vasser & B",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "bankruptcy"
     ]
 },
-  "bbox": [-93.379879,33.801197,-93.379879,33.801197],
+  "bbox": [
+    -93.379879,
+    33.801197,
+    -93.379879,
+    33.801197
+],
   "geometry": {"coordinates":[-93.379879,33.801197],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219333571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.893575,35.078627,-91.893575,35.078627",
     "geom:latitude":35.078627,
     "geom:longitude":-91.893575,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 W Dewitt Henry Dr",
     "sg:city":"Beebe",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":219333571,
-    "wof:lastmodified":1449073658,
+    "wof:lastmodified":1466322035,
     "wof:name":"Fred's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.893575,35.078627,-91.893575,35.078627],
+  "bbox": [
+    -91.893575,
+    35.078627,
+    -91.893575,
+    35.078627
+],
   "geometry": {"coordinates":[-91.893575,35.078627],"type":"Point"}
 }

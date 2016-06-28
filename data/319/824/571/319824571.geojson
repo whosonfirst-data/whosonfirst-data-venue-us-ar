@@ -2,13 +2,14 @@
   "id": 319824571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.506517,36.040201,-94.506517,36.040201",
     "geom:latitude":36.040201,
     "geom:longitude":-94.506517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12700 Cincinnati Rd",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":319824571,
-    "wof:lastmodified":1449024348,
+    "wof:lastmodified":1466323222,
     "wof:name":"Cincinnati Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-94.506517,36.040201,-94.506517,36.040201],
+  "bbox": [
+    -94.506517,
+    36.040201,
+    -94.506517,
+    36.040201
+],
   "geometry": {"coordinates":[-94.506517,36.040201],"type":"Point"}
 }

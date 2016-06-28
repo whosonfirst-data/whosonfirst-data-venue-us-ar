@@ -2,13 +2,14 @@
   "id": 219737617,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.942455,35.63908,-91.942455,35.63908",
     "geom:latitude":35.63908,
     "geom:longitude":-91.942455,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6699 Heber Springs Rd N",
     "sg:city":"Drasco",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219737617,
-    "wof:lastmodified":1449071186,
+    "wof:lastmodified":1466324899,
     "wof:name":"Heber Springs State Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "commercial"
     ]
 },
-  "bbox": [-91.942455,35.63908,-91.942455,35.63908],
+  "bbox": [
+    -91.942455,
+    35.63908,
+    -91.942455,
+    35.63908
+],
   "geometry": {"coordinates":[-91.942455,35.63908],"type":"Point"}
 }

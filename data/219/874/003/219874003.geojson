@@ -2,13 +2,14 @@
   "id": 219874003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.2641,36.3225,-94.2641,36.3225",
     "geom:latitude":36.3225,
     "geom:longitude":-94.2641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5101 SW Villa St",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219874003,
-    "wof:lastmodified":1449073683,
+    "wof:lastmodified":1466324987,
     "wof:name":"Brownstone Villa Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-94.2641,36.3225,-94.2641,36.3225],
+  "bbox": [
+    -94.2641,
+    36.3225,
+    -94.2641,
+    36.3225
+],
   "geometry": {"coordinates":[-94.2641,36.3225],"type":"Point"}
 }

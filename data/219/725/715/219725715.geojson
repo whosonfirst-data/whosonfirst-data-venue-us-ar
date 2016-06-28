@@ -2,13 +2,14 @@
   "id": 219725715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.295046,35.750262,-91.295046,35.750262",
     "geom:latitude":35.750262,
     "geom:longitude":-91.295046,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18998 Highway 37 N",
     "sg:city":"Tuckerman",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219725715,
-    "wof:lastmodified":1449071256,
+    "wof:lastmodified":1466324884,
     "wof:name":"J & L Discoveries Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandising"
     ]
 },
-  "bbox": [-91.295046,35.750262,-91.295046,35.750262],
+  "bbox": [
+    -91.295046,
+    35.750262,
+    -91.295046,
+    35.750262
+],
   "geometry": {"coordinates":[-91.295046,35.750262],"type":"Point"}
 }

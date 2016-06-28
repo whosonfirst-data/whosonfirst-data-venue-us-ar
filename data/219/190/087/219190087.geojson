@@ -2,13 +2,14 @@
   "id": 219190087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.869818,33.599082,-92.869818,33.599082",
     "geom:latitude":33.599082,
     "geom:longitude":-92.869818,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2104 Maul Rd",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":219190087,
-    "wof:lastmodified":1449073685,
+    "wof:lastmodified":1466320740,
     "wof:name":"Camden Concrete & Charles Pickett Construction",
     "wof:parent_id":85813169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "contractor"
     ]
 },
-  "bbox": [-92.869818,33.599082,-92.869818,33.599082],
+  "bbox": [
+    -92.869818,
+    33.599082,
+    -92.869818,
+    33.599082
+],
   "geometry": {"coordinates":[-92.869818,33.599082],"type":"Point"}
 }

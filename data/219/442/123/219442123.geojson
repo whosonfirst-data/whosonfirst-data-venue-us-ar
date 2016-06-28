@@ -2,13 +2,14 @@
   "id": 219442123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.125855,34.869748,-92.125855,34.869748",
     "geom:latitude":34.869748,
     "geom:longitude":-92.125855,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 John Harden Dr",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -69,10 +70,11 @@
         }
     ],
     "wof:id":219442123,
-    "wof:lastmodified":1449071939,
+    "wof:lastmodified":1466323282,
     "wof:name":"Shelter Insurance - Todd Martin",
     "wof:parent_id":85852337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "homeowner"
     ]
 },
-  "bbox": [-92.125855,34.869748,-92.125855,34.869748],
+  "bbox": [
+    -92.125855,
+    34.869748,
+    -92.125855,
+    34.869748
+],
   "geometry": {"coordinates":[-92.125855,34.869748],"type":"Point"}
 }

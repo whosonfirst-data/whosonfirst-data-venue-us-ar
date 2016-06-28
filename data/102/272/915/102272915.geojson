@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102272915",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.195917,35.181056,-90.195917,35.181056",
     "geom:latitude":35.181056,
     "geom:longitude":-90.195917,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1096 I- 55",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102082505,
-        85633793,
         85688549,
-        85843083
+        85633793,
+        85843083,
+        102082505
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102272915",
-    "wof:lastmodified":1449070022,
+    "wof:lastmodified":1466322509,
     "wof:name":"Truck Trailers & Equipment Inc",
     "wof:parent_id":85843083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.195917,35.181056,-90.195917,35.181056],
-  "geometry": {"coordinates":[-90.195917,35.181056],"type":"Point"}
+  "bbox": [
+    -90.195917,
+    35.181056,
+    -90.195917,
+    35.181056
+],
+  "geometry": {"coordinates":[-90.19591699999999,35.181056],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219479011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.265373,35.608109,-91.265373,35.608109",
     "geom:latitude":35.608109,
     "geom:longitude":-91.265373,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 Mclain St Ste 8",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":219479011,
-    "wof:lastmodified":1449072802,
+    "wof:lastmodified":1466323667,
     "wof:name":"Ralph A Teed Dds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "oral"
     ]
 },
-  "bbox": [-91.265373,35.608109,-91.265373,35.608109],
+  "bbox": [
+    -91.265373,
+    35.608109,
+    -91.265373,
+    35.608109
+],
   "geometry": {"coordinates":[-91.265373,35.608109],"type":"Point"}
 }

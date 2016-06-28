@@ -2,13 +2,14 @@
   "id": 219657345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.569291,36.391188,-90.569291,36.391188",
     "geom:latitude":36.391188,
     "geom:longitude":-90.569291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"407 County Road 173",
     "sg:city":"Corning",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219657345,
-    "wof:lastmodified":1449070785,
+    "wof:lastmodified":1466324752,
     "wof:name":"Mike S Duncan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.569291,36.391188,-90.569291,36.391188],
-  "geometry": {"coordinates":[-90.569291,36.391188],"type":"Point"}
+  "bbox": [
+    -90.569291,
+    36.391188,
+    -90.569291,
+    36.391188
+],
+  "geometry": {"coordinates":[-90.56929100000001,36.391188],"type":"Point"}
 }

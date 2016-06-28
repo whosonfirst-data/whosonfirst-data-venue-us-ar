@@ -2,13 +2,14 @@
   "id": 219960075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.126207,36.314698,-94.126207,36.314698",
     "geom:latitude":36.314698,
     "geom:longitude":-94.126207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1806 S 8th St",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219960075,
-    "wof:lastmodified":1449072939,
+    "wof:lastmodified":1466325207,
     "wof:name":"Big Brothers Pawn",
     "wof:parent_id":85895849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pawnbroker"
     ]
 },
-  "bbox": [-94.126207,36.314698,-94.126207,36.314698],
-  "geometry": {"coordinates":[-94.126207,36.314698],"type":"Point"}
+  "bbox": [
+    -94.126207,
+    36.314698,
+    -94.126207,
+    36.314698
+],
+  "geometry": {"coordinates":[-94.12620699999999,36.314698],"type":"Point"}
 }

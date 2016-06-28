@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102332541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.403917,34.655296,-92.403917,34.655296",
     "geom:latitude":34.655296,
     "geom:longitude":-92.403917,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10909 Otter Creek East Blvd",
     "sg:city":"Mabelvale",
     "sg:classifiers":[
@@ -33,11 +34,11 @@
     "sg:website":"www.hsc-lr.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851969,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85851969
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":102332541,
-    "wof:lastmodified":1449069075,
+    "wof:lastmodified":1466323699,
     "wof:name":"Handling Systems & Conveyors",
     "wof:parent_id":85851969,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.403917,34.655296,-92.403917,34.655296],
-  "geometry": {"coordinates":[-92.403917,34.655296],"type":"Point"}
+  "bbox": [
+    -92.403917,
+    34.655296,
+    -92.403917,
+    34.655296
+],
+  "geometry": {"coordinates":[-92.40391700000001,34.655296],"type":"Point"}
 }

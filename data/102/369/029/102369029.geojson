@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102369029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.019123,34.119302,-94.019123,34.119302",
     "geom:latitude":34.119302,
     "geom:longitude":-94.019123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 W 3rd St",
     "sg:city":"Dierks",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102369029,
-    "wof:lastmodified":1449070081,
+    "wof:lastmodified":1466324355,
     "wof:name":"Dierks City Municipal Water",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.019123,34.119302,-94.019123,34.119302],
-  "geometry": {"coordinates":[-94.019123,34.119302],"type":"Point"}
+  "bbox": [
+    -94.019123,
+    34.119302,
+    -94.019123,
+    34.119302
+],
+  "geometry": {"coordinates":[-94.01912299999999,34.119302],"type":"Point"}
 }

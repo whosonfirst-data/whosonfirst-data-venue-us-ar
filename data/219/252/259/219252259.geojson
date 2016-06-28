@@ -2,13 +2,14 @@
   "id": 219252259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.928916,33.469524,-93.928916,33.469524",
     "geom:latitude":33.469524,
     "geom:longitude":-93.928916,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8229 Old Post Rd",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219252259,
-    "wof:lastmodified":1449070859,
+    "wof:lastmodified":1466321348,
     "wof:name":"Ritchie Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "contractor"
     ]
 },
-  "bbox": [-93.928916,33.469524,-93.928916,33.469524],
+  "bbox": [
+    -93.928916,
+    33.469524,
+    -93.928916,
+    33.469524
+],
   "geometry": {"coordinates":[-93.928916,33.469524],"type":"Point"}
 }

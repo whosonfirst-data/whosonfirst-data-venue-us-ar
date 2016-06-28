@@ -2,13 +2,14 @@
   "id": 219366509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.983555,34.868668,-91.983555,34.868668",
     "geom:latitude":34.868668,
     "geom:longitude":-91.983555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6809 Highway 89 S",
     "sg:city":"Cabot",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219366509,
-    "wof:lastmodified":1449072974,
+    "wof:lastmodified":1466322518,
     "wof:name":"Ampd",
     "wof:parent_id":85811577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-91.983555,34.868668,-91.983555,34.868668],
+  "bbox": [
+    -91.983555,
+    34.868668,
+    -91.983555,
+    34.868668
+],
   "geometry": {"coordinates":[-91.983555,34.868668],"type":"Point"}
 }

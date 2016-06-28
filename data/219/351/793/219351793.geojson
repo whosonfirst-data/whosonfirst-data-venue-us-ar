@@ -2,13 +2,14 @@
   "id": 219351793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.451575,35.426903,-91.451575,35.426903",
     "geom:latitude":35.426903,
     "geom:longitude":-91.451575,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 Gray St",
     "sg:city":"Bradford",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219351793,
-    "wof:lastmodified":1449073380,
+    "wof:lastmodified":1466322295,
     "wof:name":"Smith Auto Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.451575,35.426903,-91.451575,35.426903],
-  "geometry": {"coordinates":[-91.451575,35.426903],"type":"Point"}
+  "bbox": [
+    -91.451575,
+    35.426903,
+    -91.451575,
+    35.426903
+],
+  "geometry": {"coordinates":[-91.45157500000001,35.426903],"type":"Point"}
 }

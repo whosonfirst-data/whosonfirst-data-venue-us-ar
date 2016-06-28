@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102337527,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.551005,34.510279,-91.551005,34.510279",
     "geom:latitude":34.510279,
     "geom:longitude":-91.551005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"902 N College St",
     "sg:city":"Stuttgart",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85838089,
+        85688549,
         85633793,
         85919671,
         102082495,
-        85688549
+        85838089
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102337527,
-    "wof:lastmodified":1449068902,
+    "wof:lastmodified":1466323825,
     "wof:name":"Quick Change Oil & Lube",
     "wof:parent_id":85838089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.551005,34.510279,-91.551005,34.510279],
+  "bbox": [
+    -91.551005,
+    34.510279,
+    -91.551005,
+    34.510279
+],
   "geometry": {"coordinates":[-91.551005,34.510279],"type":"Point"}
 }

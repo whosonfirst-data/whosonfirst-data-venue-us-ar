@@ -2,13 +2,14 @@
   "id": 303966911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.873338,36.621679,-94.873338,36.621679",
     "geom:latitude":36.621679,
     "geom:longitude":-94.873338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27204 S Hwy 125",
     "sg:city":"Afton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303966911,
-    "wof:lastmodified":1448998134,
+    "wof:lastmodified":1466320654,
     "wof:name":"Service Master Restoration",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "damage"
     ]
 },
-  "bbox": [-94.873338,36.621679,-94.873338,36.621679],
+  "bbox": [
+    -94.873338,
+    36.621679,
+    -94.873338,
+    36.621679
+],
   "geometry": {"coordinates":[-94.873338,36.621679],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102400059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.481116,36.317964,-91.481116,36.317964",
     "geom:latitude":36.317964,
     "geom:longitude":-91.481116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 E 4th St",
     "sg:city":"Hardy",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102400059,
-    "wof:lastmodified":1449068028,
+    "wof:lastmodified":1466324660,
     "wof:name":"Southpaw Cable Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.481116,36.317964,-91.481116,36.317964],
+  "bbox": [
+    -91.481116,
+    36.317964,
+    -91.481116,
+    36.317964
+],
   "geometry": {"coordinates":[-91.481116,36.317964],"type":"Point"}
 }

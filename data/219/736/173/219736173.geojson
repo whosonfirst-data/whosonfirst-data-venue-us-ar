@@ -2,13 +2,14 @@
   "id": 219736173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.752969,35.874307,-91.752969,35.874307",
     "geom:latitude":35.874307,
     "geom:longitude":-91.752969,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6295 N Central Ave",
     "sg:city":"Batesville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219736173,
-    "wof:lastmodified":1449073869,
+    "wof:lastmodified":1466324893,
     "wof:name":"Cushman Florist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.752969,35.874307,-91.752969,35.874307],
-  "geometry": {"coordinates":[-91.752969,35.874307],"type":"Point"}
+  "bbox": [
+    -91.752969,
+    35.874307,
+    -91.752969,
+    35.874307
+],
+  "geometry": {"coordinates":[-91.75296899999999,35.874307],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337384821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.029497,33.456517,-94.029497,33.456517",
     "geom:latitude":33.456517,
     "geom:longitude":-94.029497,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1125 E 35th St",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337384821,
-    "wof:lastmodified":1449027036,
+    "wof:lastmodified":1466324482,
     "wof:name":"Hospice Alternatives",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hospice"
     ]
 },
-  "bbox": [-94.029497,33.456517,-94.029497,33.456517],
-  "geometry": {"coordinates":[-94.029497,33.456517],"type":"Point"}
+  "bbox": [
+    -94.029497,
+    33.456517,
+    -94.029497,
+    33.456517
+],
+  "geometry": {"coordinates":[-94.02949700000001,33.456517],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102355617,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.109795,36.235295,-93.109795,36.235295",
     "geom:latitude":36.235295,
     "geom:longitude":-93.109795,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"520 N Spring St",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102355617,
-    "wof:lastmodified":1449068450,
+    "wof:lastmodified":1466324201,
     "wof:name":"Family Doctors Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.109795,36.235295,-93.109795,36.235295],
-  "geometry": {"coordinates":[-93.109795,36.235295],"type":"Point"}
+  "bbox": [
+    -93.109795,
+    36.235295,
+    -93.109795,
+    36.235295
+],
+  "geometry": {"coordinates":[-93.10979500000001,36.235295],"type":"Point"}
 }

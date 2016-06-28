@@ -2,13 +2,14 @@
   "id": 219882025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.210228,36.370789,-94.210228,36.370789",
     "geom:latitude":36.370789,
     "geom:longitude":-94.210228,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 SW A St",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219882025,
-    "wof:lastmodified":1449071026,
+    "wof:lastmodified":1466325160,
     "wof:name":"Enterprise Technology Solution",
     "wof:parent_id":85895827,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "billing"
     ]
 },
-  "bbox": [-94.210228,36.370789,-94.210228,36.370789],
+  "bbox": [
+    -94.210228,
+    36.370789,
+    -94.210228,
+    36.370789
+],
   "geometry": {"coordinates":[-94.210228,36.370789],"type":"Point"}
 }

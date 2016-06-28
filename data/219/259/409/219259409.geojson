@@ -2,13 +2,14 @@
   "id": 219259409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.007668,33.469707,-94.007668,33.469707",
     "geom:latitude":33.469707,
     "geom:longitude":-94.007668,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4613 Loop 245",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219259409,
-    "wof:lastmodified":1449071197,
+    "wof:lastmodified":1466321402,
     "wof:name":"Pathway Christian Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "book"
     ]
 },
-  "bbox": [-94.007668,33.469707,-94.007668,33.469707],
+  "bbox": [
+    -94.007668,
+    33.469707,
+    -94.007668,
+    33.469707
+],
   "geometry": {"coordinates":[-94.007668,33.469707],"type":"Point"}
 }

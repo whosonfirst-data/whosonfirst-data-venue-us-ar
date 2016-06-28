@@ -2,13 +2,14 @@
   "id": 219438011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.103665,34.891101,-92.103665,34.891101",
     "geom:latitude":34.891101,
     "geom:longitude":-92.103665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2650 John Harden Dr Ste O",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219438011,
-    "wof:lastmodified":1449071595,
+    "wof:lastmodified":1466323206,
     "wof:name":"Elite Salon",
     "wof:parent_id":85852337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.103665,34.891101,-92.103665,34.891101],
-  "geometry": {"coordinates":[-92.103665,34.891101],"type":"Point"}
+  "bbox": [
+    -92.103665,
+    34.891101,
+    -92.103665,
+    34.891101
+],
+  "geometry": {"coordinates":[-92.10366500000001,34.891101],"type":"Point"}
 }

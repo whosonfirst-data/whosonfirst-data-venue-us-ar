@@ -2,13 +2,14 @@
   "id": 220107997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.372317,35.55677,-94.372317,35.55677",
     "geom:latitude":35.55677,
     "geom:longitude":-94.372317,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9019 N Highway 59",
     "sg:city":"Cedarville",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":220107997,
-    "wof:lastmodified":1449074067,
+    "wof:lastmodified":1466322350,
     "wof:name":"Charlie's Resale Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "hand"
     ]
 },
-  "bbox": [-94.372317,35.55677,-94.372317,35.55677],
+  "bbox": [
+    -94.372317,
+    35.55677,
+    -94.372317,
+    35.55677
+],
   "geometry": {"coordinates":[-94.372317,35.55677],"type":"Point"}
 }

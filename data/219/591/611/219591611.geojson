@@ -2,13 +2,14 @@
   "id": 219591611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.47129,34.94731,-90.47129,34.94731",
     "geom:latitude":34.94731,
     "geom:longitude":-90.47129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"321 Bush St",
     "sg:city":"Hughes",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219591611,
-    "wof:lastmodified":1449072267,
+    "wof:lastmodified":1466324574,
     "wof:name":"Hughes Villas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "listing"
     ]
 },
-  "bbox": [-90.47129,34.94731,-90.47129,34.94731],
+  "bbox": [
+    -90.47129,
+    34.94731,
+    -90.47129,
+    34.94731
+],
   "geometry": {"coordinates":[-90.47129,34.94731],"type":"Point"}
 }

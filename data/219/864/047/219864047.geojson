@@ -2,13 +2,14 @@
   "id": 219864047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.22525,36.089218,-94.22525,36.089218",
     "geom:latitude":36.089218,
     "geom:longitude":-94.22525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4540 W New Bridge Rd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219864047,
-    "wof:lastmodified":1449073971,
+    "wof:lastmodified":1466325045,
     "wof:name":"M L D Investments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "planner"
     ]
 },
-  "bbox": [-94.22525,36.089218,-94.22525,36.089218],
+  "bbox": [
+    -94.22525,
+    36.089218,
+    -94.22525,
+    36.089218
+],
   "geometry": {"coordinates":[-94.22525,36.089218],"type":"Point"}
 }

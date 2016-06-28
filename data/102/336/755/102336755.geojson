@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102336755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.906889,35.932359,-89.906889,35.932359",
     "geom:latitude":35.932359,
     "geom:longitude":-89.906889,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Park St",
     "sg:city":"Blytheville",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102336755,
-    "wof:lastmodified":1449067721,
+    "wof:lastmodified":1466323869,
     "wof:name":"Jack Goodman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.906889,35.932359,-89.906889,35.932359],
-  "geometry": {"coordinates":[-89.906889,35.932359],"type":"Point"}
+  "bbox": [
+    -89.906889,
+    35.932359,
+    -89.906889,
+    35.932359
+],
+  "geometry": {"coordinates":[-89.90688900000001,35.932359],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102399155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.706623,35.840275,-90.706623,35.840275",
     "geom:latitude":35.840275,
     "geom:longitude":-90.706623,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 W Huntington Ave",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102399155,
-    "wof:lastmodified":1449068241,
+    "wof:lastmodified":1466324679,
     "wof:name":"Silver Star",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.706623,35.840275,-90.706623,35.840275],
-  "geometry": {"coordinates":[-90.706623,35.840275],"type":"Point"}
+  "bbox": [
+    -90.706623,
+    35.840275,
+    -90.706623,
+    35.840275
+],
+  "geometry": {"coordinates":[-90.70662299999999,35.840275],"type":"Point"}
 }

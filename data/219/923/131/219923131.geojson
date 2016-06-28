@@ -2,13 +2,14 @@
   "id": 219923131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.35713,36.265598,-94.35713,36.265598",
     "geom:latitude":36.265598,
     "geom:longitude":-94.35713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11309 N Main St",
     "sg:city":"Gentry",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219923131,
-    "wof:lastmodified":1449073793,
+    "wof:lastmodified":1466325211,
     "wof:name":"Jeannas Personal Chef Serv",
     "wof:parent_id":85853527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bureau"
     ]
 },
-  "bbox": [-94.35713,36.265598,-94.35713,36.265598],
+  "bbox": [
+    -94.35713,
+    36.265598,
+    -94.35713,
+    36.265598
+],
   "geometry": {"coordinates":[-94.35713,36.265598],"type":"Point"}
 }

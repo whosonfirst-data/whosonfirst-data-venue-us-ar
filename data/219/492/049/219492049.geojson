@@ -2,13 +2,14 @@
   "id": 219492049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.224384,34.805407,-92.224384,34.805407",
     "geom:latitude":34.805407,
     "geom:longitude":-92.224384,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Campden Hill Rd",
     "sg:city":"Sherwood",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":219492049,
-    "wof:lastmodified":1449070376,
+    "wof:lastmodified":1466323878,
     "wof:name":"O'donovan School Of Irish Dance",
     "wof:parent_id":85852263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "fitness"
     ]
 },
-  "bbox": [-92.224384,34.805407,-92.224384,34.805407],
+  "bbox": [
+    -92.224384,
+    34.805407,
+    -92.224384,
+    34.805407
+],
   "geometry": {"coordinates":[-92.224384,34.805407],"type":"Point"}
 }

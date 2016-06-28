@@ -2,13 +2,14 @@
   "id": 219562795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.300908,35.097753,-92.300908,35.097753",
     "geom:latitude":35.097753,
     "geom:longitude":-92.300908,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Hamlett Dr",
     "sg:city":"Vilonia",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219562795,
-    "wof:lastmodified":1449072250,
+    "wof:lastmodified":1466324418,
     "wof:name":"Jerry Boyer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.300908,35.097753,-92.300908,35.097753],
-  "geometry": {"coordinates":[-92.300908,35.097753],"type":"Point"}
+  "bbox": [
+    -92.300908,
+    35.097753,
+    -92.300908,
+    35.097753
+],
+  "geometry": {"coordinates":[-92.30090800000001,35.097753],"type":"Point"}
 }

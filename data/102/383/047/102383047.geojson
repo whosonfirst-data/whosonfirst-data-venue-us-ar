@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102383047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.391967,33.307131,-91.391967,33.307131",
     "geom:latitude":33.307131,
     "geom:longitude":-91.391967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1416 US Hwy 82",
     "sg:city":"Lake Village",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":102383047,
-    "wof:lastmodified":1449068780,
+    "wof:lastmodified":1466322718,
     "wof:name":"La Terraza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.391967,33.307131,-91.391967,33.307131],
-  "geometry": {"coordinates":[-91.391967,33.307131],"type":"Point"}
+  "bbox": [
+    -91.391967,
+    33.307131,
+    -91.391967,
+    33.307131
+],
+  "geometry": {"coordinates":[-91.39196699999999,33.307131],"type":"Point"}
 }

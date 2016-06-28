@@ -2,13 +2,14 @@
   "id": 219860431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.133748,36.120811,-94.133748,36.120811",
     "geom:latitude":36.120811,
     "geom:longitude":-94.133748,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3873 N Parkview Dr",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219860431,
-    "wof:lastmodified":1449071966,
+    "wof:lastmodified":1466325133,
     "wof:name":"Physicians Surgery Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surgery"
     ]
 },
-  "bbox": [-94.133748,36.120811,-94.133748,36.120811],
+  "bbox": [
+    -94.133748,
+    36.120811,
+    -94.133748,
+    36.120811
+],
   "geometry": {"coordinates":[-94.133748,36.120811],"type":"Point"}
 }

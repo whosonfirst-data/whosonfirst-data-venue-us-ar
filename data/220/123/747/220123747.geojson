@@ -2,13 +2,14 @@
   "id": 220123747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.826311,35.48682,-93.826311,35.48682",
     "geom:latitude":35.48682,
     "geom:longitude":-93.826311,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 W Commercial St",
     "sg:city":"Ozark",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220123747,
-    "wof:lastmodified":1449074254,
+    "wof:lastmodified":1466322658,
     "wof:name":"Co Civil Defense",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "homeland"
     ]
 },
-  "bbox": [-93.826311,35.48682,-93.826311,35.48682],
+  "bbox": [
+    -93.826311,
+    35.48682,
+    -93.826311,
+    35.48682
+],
   "geometry": {"coordinates":[-93.826311,35.48682],"type":"Point"}
 }

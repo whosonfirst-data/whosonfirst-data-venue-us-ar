@@ -2,13 +2,14 @@
   "id": 219577531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.013131,35.952087,-90.013131,35.952087",
     "geom:latitude":35.952087,
     "geom:longitude":-90.013131,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"577 E County Road 122",
     "sg:city":"Blytheville",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219577531,
-    "wof:lastmodified":1449074040,
+    "wof:lastmodified":1466324552,
     "wof:name":"Mobile Welding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welder"
     ]
 },
-  "bbox": [-90.013131,35.952087,-90.013131,35.952087],
+  "bbox": [
+    -90.013131,
+    35.952087,
+    -90.013131,
+    35.952087
+],
   "geometry": {"coordinates":[-90.013131,35.952087],"type":"Point"}
 }

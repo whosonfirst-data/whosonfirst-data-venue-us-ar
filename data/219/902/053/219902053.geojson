@@ -2,13 +2,14 @@
   "id": 219902053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.221441,36.373119,-94.221441,36.373119",
     "geom:latitude":36.373119,
     "geom:longitude":-94.221441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 N Walton Blvd Ste 8",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219902053,
-    "wof:lastmodified":1449073018,
+    "wof:lastmodified":1466325193,
     "wof:name":"Kelly Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-94.221441,36.373119,-94.221441,36.373119],
+  "bbox": [
+    -94.221441,
+    36.373119,
+    -94.221441,
+    36.373119
+],
   "geometry": {"coordinates":[-94.221441,36.373119],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220084751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.232354,35.26072,-93.232354,35.26072",
     "geom:latitude":35.26072,
     "geom:longitude":-93.232354,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2001 State Highway 22 W",
     "sg:city":"Dardanelle",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":220084751,
-    "wof:lastmodified":1449074114,
+    "wof:lastmodified":1466321683,
     "wof:name":"Westside Citgo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.232354,35.26072,-93.232354,35.26072],
+  "bbox": [
+    -93.232354,
+    35.26072,
+    -93.232354,
+    35.26072
+],
   "geometry": {"coordinates":[-93.232354,35.26072],"type":"Point"}
 }

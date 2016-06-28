@@ -2,13 +2,14 @@
   "id": 219547477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.298413,35.622718,-92.298413,35.622718",
     "geom:latitude":35.622718,
     "geom:longitude":-92.298413,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12357 Highway 16 E",
     "sg:city":"Shirley",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219547477,
-    "wof:lastmodified":1449070746,
+    "wof:lastmodified":1466324310,
     "wof:name":"Parker Service Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-92.298413,35.622718,-92.298413,35.622718],
+  "bbox": [
+    -92.298413,
+    35.622718,
+    -92.298413,
+    35.622718
+],
   "geometry": {"coordinates":[-92.298413,35.622718],"type":"Point"}
 }

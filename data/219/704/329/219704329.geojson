@@ -2,13 +2,14 @@
   "id": 219704329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.194374,36.400839,-90.194374,36.400839",
     "geom:latitude":36.400839,
     "geom:longitude":-90.194374,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2150 N 4th Ave",
     "sg:city":"Piggott",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219704329,
-    "wof:lastmodified":1449071317,
+    "wof:lastmodified":1466324789,
     "wof:name":"Johnson Rb Hauling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "hauling"
     ]
 },
-  "bbox": [-90.194374,36.400839,-90.194374,36.400839],
+  "bbox": [
+    -90.194374,
+    36.400839,
+    -90.194374,
+    36.400839
+],
   "geometry": {"coordinates":[-90.194374,36.400839],"type":"Point"}
 }

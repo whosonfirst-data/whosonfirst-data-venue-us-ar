@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102202033",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.757812,33.635689,-91.757812,33.635689",
     "geom:latitude":33.635689,
     "geom:longitude":-91.757812,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"390 Airport Rd",
     "sg:city":"Monticello",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102202033",
-    "wof:lastmodified":1449069862,
+    "wof:lastmodified":1466320626,
     "wof:name":"Monticello Municipal Airport",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.757812,33.635689,-91.757812,33.635689],
+  "bbox": [
+    -91.757812,
+    33.635689,
+    -91.757812,
+    33.635689
+],
   "geometry": {"coordinates":[-91.757812,33.635689],"type":"Point"}
 }

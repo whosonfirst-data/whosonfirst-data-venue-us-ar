@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102325061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.316326,34.75418,-92.316326,34.75418",
     "geom:latitude":34.75418,
     "geom:longitude":-92.316326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"406 N Pine St",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85843255,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85843255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":102325061,
-    "wof:lastmodified":1449068706,
+    "wof:lastmodified":1466323504,
     "wof:name":"Georges Htg A & Regrigeration",
     "wof:parent_id":85843255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.316326,34.75418,-92.316326,34.75418],
+  "bbox": [
+    -92.316326,
+    34.75418,
+    -92.316326,
+    34.75418
+],
   "geometry": {"coordinates":[-92.316326,34.75418],"type":"Point"}
 }

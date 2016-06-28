@@ -2,13 +2,14 @@
   "id": 337486579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.533432,36.181907,-94.533432,36.181907",
     "geom:latitude":36.181907,
     "geom:longitude":-94.533432,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"419 S Gunter St",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337486579,
-    "wof:lastmodified":1449027401,
+    "wof:lastmodified":1466324498,
     "wof:name":"Pairs Welding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-94.533432,36.181907,-94.533432,36.181907],
+  "bbox": [
+    -94.533432,
+    36.181907,
+    -94.533432,
+    36.181907
+],
   "geometry": {"coordinates":[-94.533432,36.181907],"type":"Point"}
 }

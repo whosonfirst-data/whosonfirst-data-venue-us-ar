@@ -2,13 +2,14 @@
   "id": 219463469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.79947,34.456997,-92.79947,34.456997",
     "geom:latitude":34.456997,
     "geom:longitude":-92.79947,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1641 Military Cutoff Rd",
     "sg:city":"Malvern",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219463469,
-    "wof:lastmodified":1449072848,
+    "wof:lastmodified":1466323495,
     "wof:name":"Pilcher Logging Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "logging"
     ]
 },
-  "bbox": [-92.79947,34.456997,-92.79947,34.456997],
+  "bbox": [
+    -92.79947,
+    34.456997,
+    -92.79947,
+    34.456997
+],
   "geometry": {"coordinates":[-92.79947,34.456997],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219156977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.797977,33.216782,-91.797977,33.216782",
     "geom:latitude":33.216782,
     "geom:longitude":-91.797977,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"706 S Main St",
     "sg:city":"Hamburg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219156977,
-    "wof:lastmodified":1449071092,
+    "wof:lastmodified":1466320445,
     "wof:name":"Mid South Monuments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.797977,33.216782,-91.797977,33.216782],
+  "bbox": [
+    -91.797977,
+    33.216782,
+    -91.797977,
+    33.216782
+],
   "geometry": {"coordinates":[-91.797977,33.216782],"type":"Point"}
 }

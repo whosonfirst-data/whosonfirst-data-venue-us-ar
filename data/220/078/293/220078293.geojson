@@ -2,13 +2,14 @@
   "id": 220078293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.465372,35.47331,-93.465372,35.47331",
     "geom:latitude":35.47331,
     "geom:longitude":-93.465372,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 Walnut St",
     "sg:city":"Clarksville",
     "sg:classifiers":[
@@ -69,10 +70,11 @@
         }
     ],
     "wof:id":220078293,
-    "wof:lastmodified":1449074742,
+    "wof:lastmodified":1466321543,
     "wof:name":"Danny Weatherl - Farmers Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -82,6 +84,11 @@
         "homeowner"
     ]
 },
-  "bbox": [-93.465372,35.47331,-93.465372,35.47331],
+  "bbox": [
+    -93.465372,
+    35.47331,
+    -93.465372,
+    35.47331
+],
   "geometry": {"coordinates":[-93.465372,35.47331],"type":"Point"}
 }

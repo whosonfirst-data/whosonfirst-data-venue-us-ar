@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102301559",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.913598,35.310475,-91.913598,35.310475",
     "geom:latitude":35.310475,
     "geom:longitude":-91.913598,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"747 Georgia Ridge Rd",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":"102301559",
-    "wof:lastmodified":1449068409,
+    "wof:lastmodified":1466323087,
     "wof:name":"English Arena",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.913598,35.310475,-91.913598,35.310475],
-  "geometry": {"coordinates":[-91.913598,35.310475],"type":"Point"}
+  "bbox": [
+    -91.913598,
+    35.310475,
+    -91.913598,
+    35.310475
+],
+  "geometry": {"coordinates":[-91.91359799999999,35.310475],"type":"Point"}
 }

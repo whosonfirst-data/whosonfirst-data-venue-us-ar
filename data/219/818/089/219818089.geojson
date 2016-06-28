@@ -2,13 +2,14 @@
   "id": 219818089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.16335,36.062716,-94.16335,36.062716",
     "geom:latitude":36.062716,
     "geom:longitude":-94.16335,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"321 W Center St",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219818089,
-    "wof:lastmodified":1449072108,
+    "wof:lastmodified":1466324900,
     "wof:name":"Paddock, Jerome J Jr",
     "wof:parent_id":85885459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "plan"
     ]
 },
-  "bbox": [-94.16335,36.062716,-94.16335,36.062716],
-  "geometry": {"coordinates":[-94.16335,36.062716],"type":"Point"}
+  "bbox": [
+    -94.16335,
+    36.062716,
+    -94.16335,
+    36.062716
+],
+  "geometry": {"coordinates":[-94.16334999999999,36.062716],"type":"Point"}
 }

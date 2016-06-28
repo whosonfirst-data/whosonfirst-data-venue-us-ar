@@ -2,13 +2,14 @@
   "id": 219448437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.939517,34.909033,-91.939517,34.909033",
     "geom:latitude":34.909033,
     "geom:longitude":-91.939517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 Triple J Dr",
     "sg:city":"Lonoke",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219448437,
-    "wof:lastmodified":1449073743,
+    "wof:lastmodified":1466323350,
     "wof:name":"Whatley Coffee Service",
     "wof:parent_id":85811577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-91.939517,34.909033,-91.939517,34.909033],
+  "bbox": [
+    -91.939517,
+    34.909033,
+    -91.939517,
+    34.909033
+],
   "geometry": {"coordinates":[-91.939517,34.909033],"type":"Point"}
 }

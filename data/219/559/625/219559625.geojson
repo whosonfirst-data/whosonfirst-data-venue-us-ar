@@ -2,13 +2,14 @@
   "id": 219559625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.239291,35.078191,-92.239291,35.078191",
     "geom:latitude":35.078191,
     "geom:longitude":-92.239291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Weaver Cir",
     "sg:city":"Vilonia",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219559625,
-    "wof:lastmodified":1449073160,
+    "wof:lastmodified":1466324400,
     "wof:name":"Vilonia Church Of Christ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-92.239291,35.078191,-92.239291,35.078191],
-  "geometry": {"coordinates":[-92.239291,35.078191],"type":"Point"}
+  "bbox": [
+    -92.239291,
+    35.078191,
+    -92.239291,
+    35.078191
+],
+  "geometry": {"coordinates":[-92.23929099999999,35.078191],"type":"Point"}
 }

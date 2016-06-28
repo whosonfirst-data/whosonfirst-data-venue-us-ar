@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102437591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.493339,35.450602,-93.493339,35.450602",
     "geom:latitude":35.450602,
     "geom:longitude":-93.493339,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 W Country Club Rd",
     "sg:city":"Clarksville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102437591,
-    "wof:lastmodified":1449069539,
+    "wof:lastmodified":1466325585,
     "wof:name":"Clarksville Country Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.493339,35.450602,-93.493339,35.450602],
-  "geometry": {"coordinates":[-93.493339,35.450602],"type":"Point"}
+  "bbox": [
+    -93.493339,
+    35.450602,
+    -93.493339,
+    35.450602
+],
+  "geometry": {"coordinates":[-93.49333900000001,35.450602],"type":"Point"}
 }

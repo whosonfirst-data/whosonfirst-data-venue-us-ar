@@ -2,13 +2,14 @@
   "id": 219290421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.139526,34.302898,-93.139526,34.302898",
     "geom:latitude":34.302898,
     "geom:longitude":-93.139526,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1225 Fendley Rd",
     "sg:city":"Bismarck",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219290421,
-    "wof:lastmodified":1449071905,
+    "wof:lastmodified":1466321653,
     "wof:name":"Extreme Mowing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-93.139526,34.302898,-93.139526,34.302898],
+  "bbox": [
+    -93.139526,
+    34.302898,
+    -93.139526,
+    34.302898
+],
   "geometry": {"coordinates":[-93.139526,34.302898],"type":"Point"}
 }

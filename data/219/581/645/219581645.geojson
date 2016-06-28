@@ -2,13 +2,14 @@
   "id": 219581645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.89978,35.926479,-89.89978,35.926479",
     "geom:latitude":35.926479,
     "geom:longitude":-89.89978,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 S Lake St",
     "sg:city":"Blytheville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219581645,
-    "wof:lastmodified":1449071137,
+    "wof:lastmodified":1466324745,
     "wof:name":"Holy Tabernacle Church of The Lord Jesus Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-89.89978,35.926479,-89.89978,35.926479],
-  "geometry": {"coordinates":[-89.89978,35.926479],"type":"Point"}
+  "bbox": [
+    -89.89978,
+    35.926479,
+    -89.89978,
+    35.926479
+],
+  "geometry": {"coordinates":[-89.89978000000001,35.926479],"type":"Point"}
 }

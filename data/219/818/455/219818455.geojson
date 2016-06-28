@@ -2,13 +2,14 @@
   "id": 219818455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.19426,36.056363,-94.19426,36.056363",
     "geom:latitude":36.056363,
     "geom:longitude":-94.19426,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2425 W Old Farmington Rd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":219818455,
-    "wof:lastmodified":1449072110,
+    "wof:lastmodified":1466324980,
     "wof:name":"Sines Body Shop",
     "wof:parent_id":85885441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "automobile"
     ]
 },
-  "bbox": [-94.19426,36.056363,-94.19426,36.056363],
+  "bbox": [
+    -94.19426,
+    36.056363,
+    -94.19426,
+    36.056363
+],
   "geometry": {"coordinates":[-94.19426,36.056363],"type":"Point"}
 }

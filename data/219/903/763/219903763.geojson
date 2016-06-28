@@ -2,13 +2,14 @@
   "id": 219903763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.206623,36.335313,-94.206623,36.335313",
     "geom:latitude":36.335313,
     "geom:longitude":-94.206623,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 SE Walton Blvd",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":219903763,
-    "wof:lastmodified":1449070594,
+    "wof:lastmodified":1466325107,
     "wof:name":"Metropolitan National Bank Nearby & Neighborly",
     "wof:parent_id":85895821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.206623,36.335313,-94.206623,36.335313],
-  "geometry": {"coordinates":[-94.206623,36.335313],"type":"Point"}
+  "bbox": [
+    -94.206623,
+    36.335313,
+    -94.206623,
+    36.335313
+],
+  "geometry": {"coordinates":[-94.20662299999999,36.335313],"type":"Point"}
 }

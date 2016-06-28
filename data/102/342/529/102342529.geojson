@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102342529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.01936,34.971779,-92.01936,34.971779",
     "geom:latitude":34.971779,
     "geom:longitude":-92.01936,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 S 2nd St",
     "sg:city":"Cabot",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102342529,
-    "wof:lastmodified":1449070008,
+    "wof:lastmodified":1466323868,
     "wof:name":"Professional Pawn Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.01936,34.971779,-92.01936,34.971779],
-  "geometry": {"coordinates":[-92.01936,34.971779],"type":"Point"}
+  "bbox": [
+    -92.01936,
+    34.971779,
+    -92.01936,
+    34.971779
+],
+  "geometry": {"coordinates":[-92.01936000000001,34.971779],"type":"Point"}
 }

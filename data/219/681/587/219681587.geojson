@@ -2,13 +2,14 @@
   "id": 219681587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.492964,36.052459,-90.492964,36.052459",
     "geom:latitude":36.052459,
     "geom:longitude":-90.492964,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"623 W Kingshighway",
     "sg:city":"Paragould",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219681587,
-    "wof:lastmodified":1449072553,
+    "wof:lastmodified":1466324628,
     "wof:name":"New Life Auto Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "equipment-service"
     ]
 },
-  "bbox": [-90.492964,36.052459,-90.492964,36.052459],
+  "bbox": [
+    -90.492964,
+    36.052459,
+    -90.492964,
+    36.052459
+],
   "geometry": {"coordinates":[-90.492964,36.052459],"type":"Point"}
 }

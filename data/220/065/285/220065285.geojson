@@ -2,13 +2,14 @@
   "id": 220065285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.133614,35.281261,-93.133614,35.281261",
     "geom:latitude":35.281261,
     "geom:longitude":-93.133614,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 N Arkansas Ave",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":220065285,
-    "wof:lastmodified":1449074871,
+    "wof:lastmodified":1466321157,
     "wof:name":"Liberty Bank Of Arkansas",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-93.133614,35.281261,-93.133614,35.281261],
-  "geometry": {"coordinates":[-93.133614,35.281261],"type":"Point"}
+  "bbox": [
+    -93.133614,
+    35.281261,
+    -93.133614,
+    35.281261
+],
+  "geometry": {"coordinates":[-93.13361399999999,35.281261],"type":"Point"}
 }

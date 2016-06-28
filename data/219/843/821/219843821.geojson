@@ -2,13 +2,14 @@
   "id": 219843821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.134862,36.120099,-94.134862,36.120099",
     "geom:latitude":36.120099,
     "geom:longitude":-94.134862,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1792 E Joyce Blvd Ste 3",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219843821,
-    "wof:lastmodified":1449070698,
+    "wof:lastmodified":1466325097,
     "wof:name":"Integrated Health Associates",
     "wof:parent_id":85885433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-94.134862,36.120099,-94.134862,36.120099],
+  "bbox": [
+    -94.134862,
+    36.120099,
+    -94.134862,
+    36.120099
+],
   "geometry": {"coordinates":[-94.134862,36.120099],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102347371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.143403,36.173616,-94.143403,36.173616",
     "geom:latitude":36.173616,
     "geom:longitude":-94.143403,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1003 S Pleasant St",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885485,
+        85688549,
         85633793,
         85919623,
         102082007,
-        85688549
+        85885485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102347371,
-    "wof:lastmodified":1449068934,
+    "wof:lastmodified":1466323999,
     "wof:name":"Rose Stop",
     "wof:parent_id":85885485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.143403,36.173616,-94.143403,36.173616],
-  "geometry": {"coordinates":[-94.143403,36.173616],"type":"Point"}
+  "bbox": [
+    -94.143403,
+    36.173616,
+    -94.143403,
+    36.173616
+],
+  "geometry": {"coordinates":[-94.14340300000001,36.173616],"type":"Point"}
 }

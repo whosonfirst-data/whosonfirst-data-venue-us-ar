@@ -2,13 +2,14 @@
   "id": 219986765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.167901,36.284128,-94.167901,36.284128",
     "geom:latitude":36.284128,
     "geom:longitude":-94.167901,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3450 W Pleasant Grove Rd",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219986765,
-    "wof:lastmodified":1449073247,
+    "wof:lastmodified":1466325314,
     "wof:name":"Christian Soldiers Preschool",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "kindergarten"
     ]
 },
-  "bbox": [-94.167901,36.284128,-94.167901,36.284128],
+  "bbox": [
+    -94.167901,
+    36.284128,
+    -94.167901,
+    36.284128
+],
   "geometry": {"coordinates":[-94.167901,36.284128],"type":"Point"}
 }

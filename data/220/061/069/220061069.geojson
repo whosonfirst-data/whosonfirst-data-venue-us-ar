@@ -2,13 +2,14 @@
   "id": 220061069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.118948,36.149311,-94.118948,36.149311",
     "geom:latitude":36.149311,
     "geom:longitude":-94.118948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3924 S Old Missouri Rd",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":220061069,
-    "wof:lastmodified":1449074633,
+    "wof:lastmodified":1466321028,
     "wof:name":"Walnut Grove Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "household"
     ]
 },
-  "bbox": [-94.118948,36.149311,-94.118948,36.149311],
+  "bbox": [
+    -94.118948,
+    36.149311,
+    -94.118948,
+    36.149311
+],
   "geometry": {"coordinates":[-94.118948,36.149311],"type":"Point"}
 }

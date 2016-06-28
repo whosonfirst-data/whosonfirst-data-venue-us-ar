@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102393267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.217245,34.755142,-92.217245,34.755142",
     "geom:latitude":34.755142,
     "geom:longitude":-92.217245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4300 Haywood St",
     "sg:city":"North Little Rock",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845849,
+        85688549,
         85633793,
         85921255,
         102082497,
-        85688549
+        85845849
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102393267,
-    "wof:lastmodified":1449068540,
+    "wof:lastmodified":1466324815,
     "wof:name":"Pulaski County Adult Center",
     "wof:parent_id":85845849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.217245,34.755142,-92.217245,34.755142],
-  "geometry": {"coordinates":[-92.217245,34.755142],"type":"Point"}
+  "bbox": [
+    -92.217245,
+    34.755142,
+    -92.217245,
+    34.755142
+],
+  "geometry": {"coordinates":[-92.21724500000001,34.755142],"type":"Point"}
 }

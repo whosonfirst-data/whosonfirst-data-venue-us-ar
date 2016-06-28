@@ -2,13 +2,14 @@
   "id": 219966917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.11454,36.359734,-94.11454,36.359734",
     "geom:latitude":36.359734,
     "geom:longitude":-94.11454,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"132 W Kelley Dr",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219966917,
-    "wof:lastmodified":1449070397,
+    "wof:lastmodified":1466325161,
     "wof:name":"Advanced Consulting Engineers Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "engineer"
     ]
 },
-  "bbox": [-94.11454,36.359734,-94.11454,36.359734],
-  "geometry": {"coordinates":[-94.11454,36.359734],"type":"Point"}
+  "bbox": [
+    -94.11454,
+    36.359734,
+    -94.11454,
+    36.359734
+],
+  "geometry": {"coordinates":[-94.11454000000001,36.359734],"type":"Point"}
 }

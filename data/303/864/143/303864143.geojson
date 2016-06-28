@@ -2,13 +2,14 @@
   "id": 303864143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.542422,36.188598,-94.542422,36.188598",
     "geom:latitude":36.188598,
     "geom:longitude":-94.542422,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"404 N Wright St",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303864143,
-    "wof:lastmodified":1449000597,
+    "wof:lastmodified":1466320622,
     "wof:name":"Ss Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-94.542422,36.188598,-94.542422,36.188598],
+  "bbox": [
+    -94.542422,
+    36.188598,
+    -94.542422,
+    36.188598
+],
   "geometry": {"coordinates":[-94.542422,36.188598],"type":"Point"}
 }

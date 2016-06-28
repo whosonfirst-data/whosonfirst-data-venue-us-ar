@@ -2,13 +2,14 @@
   "id": 219777499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.10365,36.239848,-93.10365,36.239848",
     "geom:latitude":36.239848,
     "geom:longitude":-93.10365,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"902 Highway 62 65 N",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219777499,
-    "wof:lastmodified":1449072238,
+    "wof:lastmodified":1466324930,
     "wof:name":"Meek's-The Builder's Choice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "contractor"
     ]
 },
-  "bbox": [-93.10365,36.239848,-93.10365,36.239848],
+  "bbox": [
+    -93.10365,
+    36.239848,
+    -93.10365,
+    36.239848
+],
   "geometry": {"coordinates":[-93.10365,36.239848],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102415931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.053103,34.499204,-93.053103,34.499204",
     "geom:latitude":34.499204,
     "geom:longitude":-93.053103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Shadow Ter",
     "sg:city":"Hot Springs",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102415931,
-    "wof:lastmodified":1449069537,
+    "wof:lastmodified":1466325410,
     "wof:name":"Corner Stone Church God",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.053103,34.499204,-93.053103,34.499204],
-  "geometry": {"coordinates":[-93.053103,34.499204],"type":"Point"}
+  "bbox": [
+    -93.053103,
+    34.499204,
+    -93.053103,
+    34.499204
+],
+  "geometry": {"coordinates":[-93.05310299999999,34.499204],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102415335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.340061,35.105501,-92.340061,35.105501",
     "geom:latitude":35.105501,
     "geom:longitude":-92.340061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Rolling Creek Cir",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102415335,
-    "wof:lastmodified":1449069537,
+    "wof:lastmodified":1466325511,
     "wof:name":"Maglievaz Photography",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.340061,35.105501,-92.340061,35.105501],
-  "geometry": {"coordinates":[-92.340061,35.105501],"type":"Point"}
+  "bbox": [
+    -92.340061,
+    35.105501,
+    -92.340061,
+    35.105501
+],
+  "geometry": {"coordinates":[-92.34006100000001,35.105501],"type":"Point"}
 }

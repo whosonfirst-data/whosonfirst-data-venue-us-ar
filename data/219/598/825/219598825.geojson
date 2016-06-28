@@ -2,13 +2,14 @@
   "id": 219598825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.773263,34.774582,-90.773263,34.774582",
     "geom:latitude":34.774582,
     "geom:longitude":-90.773263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"531 Highway 79 W",
     "sg:city":"Marianna",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219598825,
-    "wof:lastmodified":1449070563,
+    "wof:lastmodified":1466324579,
     "wof:name":"Discount A G Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "beverages-distributors"
     ]
 },
-  "bbox": [-90.773263,34.774582,-90.773263,34.774582],
+  "bbox": [
+    -90.773263,
+    34.774582,
+    -90.773263,
+    34.774582
+],
   "geometry": {"coordinates":[-90.773263,34.774582],"type":"Point"}
 }

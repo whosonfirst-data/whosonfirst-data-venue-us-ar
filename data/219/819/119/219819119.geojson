@@ -2,13 +2,14 @@
   "id": 219819119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.116608,36.07531,-94.116608,36.07531",
     "geom:latitude":36.07531,
     "geom:longitude":-94.116608,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1018 N Canterbury Rd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219819119,
-    "wof:lastmodified":1449071235,
+    "wof:lastmodified":1466325045,
     "wof:name":"Jim S Razorback Pizza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pizza"
     ]
 },
-  "bbox": [-94.116608,36.07531,-94.116608,36.07531],
+  "bbox": [
+    -94.116608,
+    36.07531,
+    -94.116608,
+    36.07531
+],
   "geometry": {"coordinates":[-94.116608,36.07531],"type":"Point"}
 }

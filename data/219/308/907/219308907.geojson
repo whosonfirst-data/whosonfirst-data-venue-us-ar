@@ -2,13 +2,14 @@
   "id": 219308907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.24537,34.584355,-94.24537,34.584355",
     "geom:latitude":34.584355,
     "geom:longitude":-94.24537,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1202 Hickory Ave",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219308907,
-    "wof:lastmodified":1449074028,
+    "wof:lastmodified":1466321805,
     "wof:name":"Delton's Janitorial & Carpet Cleaning Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "carpet"
     ]
 },
-  "bbox": [-94.24537,34.584355,-94.24537,34.584355],
-  "geometry": {"coordinates":[-94.24537,34.584355],"type":"Point"}
+  "bbox": [
+    -94.24537,
+    34.584355,
+    -94.24537,
+    34.584355
+],
+  "geometry": {"coordinates":[-94.24536999999999,34.584355],"type":"Point"}
 }

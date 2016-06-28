@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102312911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.089964,35.225724,-92.089964,35.225724",
     "geom:latitude":35.225724,
     "geom:longitude":-92.089964,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"129 Brooklan Ln",
     "sg:city":"Mount Vernon",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":102312911,
-    "wof:lastmodified":1449068969,
+    "wof:lastmodified":1466323298,
     "wof:name":"Red Rock Exec Search Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.089964,35.225724,-92.089964,35.225724],
-  "geometry": {"coordinates":[-92.089964,35.225724],"type":"Point"}
+  "bbox": [
+    -92.089964,
+    35.225724,
+    -92.089964,
+    35.225724
+],
+  "geometry": {"coordinates":[-92.08996399999999,35.225724],"type":"Point"}
 }

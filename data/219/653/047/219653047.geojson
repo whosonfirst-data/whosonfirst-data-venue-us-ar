@@ -2,13 +2,14 @@
   "id": 219653047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.813379,35.930508,-90.813379,35.930508",
     "geom:latitude":35.930508,
     "geom:longitude":-90.813379,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9762 Highway 63 N",
     "sg:city":"Bono",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219653047,
-    "wof:lastmodified":1449070643,
+    "wof:lastmodified":1466324852,
     "wof:name":"Bono Tire & Welding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "tire"
     ]
 },
-  "bbox": [-90.813379,35.930508,-90.813379,35.930508],
+  "bbox": [
+    -90.813379,
+    35.930508,
+    -90.813379,
+    35.930508
+],
   "geometry": {"coordinates":[-90.813379,35.930508],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220130679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.444136,35.584044,-94.444136,35.584044",
     "geom:latitude":35.584044,
     "geom:longitude":-94.444136,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9941 Uniontown Hwy",
     "sg:city":"Uniontown",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":220130679,
-    "wof:lastmodified":1449074291,
+    "wof:lastmodified":1466322805,
     "wof:name":"Uniontown Grocery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.444136,35.584044,-94.444136,35.584044],
+  "bbox": [
+    -94.444136,
+    35.584044,
+    -94.444136,
+    35.584044
+],
   "geometry": {"coordinates":[-94.444136,35.584044],"type":"Point"}
 }

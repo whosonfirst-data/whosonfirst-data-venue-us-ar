@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102400439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.113943,35.394078,-93.113943,35.394078",
     "geom:latitude":35.394078,
     "geom:longitude":-93.113943,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8952 Market St",
     "sg:city":"Dover",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102400439,
-    "wof:lastmodified":1449068027,
+    "wof:lastmodified":1466324731,
     "wof:name":"C W Gallery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.113943,35.394078,-93.113943,35.394078],
-  "geometry": {"coordinates":[-93.113943,35.394078],"type":"Point"}
+  "bbox": [
+    -93.113943,
+    35.394078,
+    -93.113943,
+    35.394078
+],
+  "geometry": {"coordinates":[-93.11394300000001,35.394078],"type":"Point"}
 }

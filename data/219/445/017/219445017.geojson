@@ -2,13 +2,14 @@
   "id": 219445017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.636751,35.28305,-91.636751,35.28305",
     "geom:latitude":35.28305,
     "geom:longitude":-91.636751,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"848 Highway 367 N",
     "sg:city":"Judsonia",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":219445017,
-    "wof:lastmodified":1449070868,
+    "wof:lastmodified":1466323305,
     "wof:name":"Bolding Grocery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.636751,35.28305,-91.636751,35.28305],
+  "bbox": [
+    -91.636751,
+    35.28305,
+    -91.636751,
+    35.28305
+],
   "geometry": {"coordinates":[-91.636751,35.28305],"type":"Point"}
 }

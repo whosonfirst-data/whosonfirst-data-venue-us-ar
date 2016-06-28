@@ -2,13 +2,14 @@
   "id": 219564007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.934272,34.991015,-91.934272,34.991015",
     "geom:latitude":34.991015,
     "geom:longitude":-91.934272,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"225 Stacey Lynn Ter",
     "sg:city":"Ward",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219564007,
-    "wof:lastmodified":1449073702,
+    "wof:lastmodified":1466324434,
     "wof:name":"Buckeye Marketing",
     "wof:parent_id":85839277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "consultant"
     ]
 },
-  "bbox": [-91.934272,34.991015,-91.934272,34.991015],
-  "geometry": {"coordinates":[-91.934272,34.991015],"type":"Point"}
+  "bbox": [
+    -91.934272,
+    34.991015,
+    -91.934272,
+    34.991015
+],
+  "geometry": {"coordinates":[-91.93427200000001,34.991015],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102237683",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.81852,33.337058,-91.81852,33.337058",
     "geom:latitude":33.337058,
     "geom:longitude":-91.81852,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 Ashley Rd 81",
     "sg:city":"Hamburg",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":"102237683",
-    "wof:lastmodified":1449067827,
+    "wof:lastmodified":1466321613,
     "wof:name":"Martinville Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.81852,33.337058,-91.81852,33.337058],
-  "geometry": {"coordinates":[-91.81852,33.337058],"type":"Point"}
+  "bbox": [
+    -91.81852,
+    33.337058,
+    -91.81852,
+    33.337058
+],
+  "geometry": {"coordinates":[-91.81852000000001,33.337058],"type":"Point"}
 }

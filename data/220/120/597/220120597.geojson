@@ -2,13 +2,14 @@
   "id": 220120597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.048382,35.502479,-94.048382,35.502479",
     "geom:latitude":35.502479,
     "geom:longitude":-94.048382,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 Mulberry Hwy 64 E",
     "sg:city":"Mulberry",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220120597,
-    "wof:lastmodified":1449074758,
+    "wof:lastmodified":1466322587,
     "wof:name":"David White Cpa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "accountants-certified"
     ]
 },
-  "bbox": [-94.048382,35.502479,-94.048382,35.502479],
+  "bbox": [
+    -94.048382,
+    35.502479,
+    -94.048382,
+    35.502479
+],
   "geometry": {"coordinates":[-94.048382,35.502479],"type":"Point"}
 }

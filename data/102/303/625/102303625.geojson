@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102303625",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.637724,35.737502,-91.637724,35.737502",
     "geom:latitude":35.737502,
     "geom:longitude":-91.637724,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"49 Allen Chapel Rd",
     "sg:city":"Batesville",
     "sg:classifiers":[
@@ -36,11 +37,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85808231,
+        85688549,
         85633793,
         85920683,
         102083875,
-        85688549
+        85808231
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":"102303625",
-    "wof:lastmodified":1449067780,
+    "wof:lastmodified":1466323142,
     "wof:name":"Stewart Services Inc",
     "wof:parent_id":85808231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.637724,35.737502,-91.637724,35.737502],
-  "geometry": {"coordinates":[-91.637724,35.737502],"type":"Point"}
+  "bbox": [
+    -91.637724,
+    35.737502,
+    -91.637724,
+    35.737502
+],
+  "geometry": {"coordinates":[-91.63772400000001,35.737502],"type":"Point"}
 }

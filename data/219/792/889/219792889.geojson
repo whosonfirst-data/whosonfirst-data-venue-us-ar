@@ -2,13 +2,14 @@
   "id": 219792889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.967926,36.191933,-92.967926,36.191933",
     "geom:latitude":36.191933,
     "geom:longitude":-92.967926,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5757 Old Olvey Rd",
     "sg:city":"Everton",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219792889,
-    "wof:lastmodified":1449071153,
+    "wof:lastmodified":1466324949,
     "wof:name":"Morris Roger Auctioneer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "auctioneer"
     ]
 },
-  "bbox": [-92.967926,36.191933,-92.967926,36.191933],
-  "geometry": {"coordinates":[-92.967926,36.191933],"type":"Point"}
+  "bbox": [
+    -92.967926,
+    36.191933,
+    -92.967926,
+    36.191933
+],
+  "geometry": {"coordinates":[-92.96792600000001,36.191933],"type":"Point"}
 }

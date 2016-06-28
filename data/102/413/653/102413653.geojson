@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102413653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.592025,33.667961,-93.592025,33.667961",
     "geom:latitude":33.667961,
     "geom:longitude":-93.592025,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 W 2nd St",
     "sg:city":"Hope",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806015,
+        85688549,
         85633793,
         85920547,
         102083213,
-        85688549
+        85806015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102413653,
-    "wof:lastmodified":1449068181,
+    "wof:lastmodified":1466325260,
     "wof:name":"Thoroughbred Fashions & Gifts",
     "wof:parent_id":85806015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.592025,33.667961,-93.592025,33.667961],
-  "geometry": {"coordinates":[-93.592025,33.667961],"type":"Point"}
+  "bbox": [
+    -93.592025,
+    33.667961,
+    -93.592025,
+    33.667961
+],
+  "geometry": {"coordinates":[-93.59202500000001,33.667961],"type":"Point"}
 }

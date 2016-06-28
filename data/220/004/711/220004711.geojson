@@ -2,13 +2,14 @@
   "id": 220004711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.146161,36.331956,-94.146161,36.331956",
     "geom:latitude":36.331956,
     "geom:longitude":-94.146161,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 S 20th St",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":220004711,
-    "wof:lastmodified":1449074322,
+    "wof:lastmodified":1466320460,
     "wof:name":"Midsouth Conference",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "bearings-wholesale"
     ]
 },
-  "bbox": [-94.146161,36.331956,-94.146161,36.331956],
-  "geometry": {"coordinates":[-94.146161,36.331956],"type":"Point"}
+  "bbox": [
+    -94.146161,
+    36.331956,
+    -94.146161,
+    36.331956
+],
+  "geometry": {"coordinates":[-94.14616100000001,36.331956],"type":"Point"}
 }

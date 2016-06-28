@@ -2,13 +2,14 @@
   "id": 219884765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.202147,36.342629,-94.202147,36.342629",
     "geom:latitude":36.342629,
     "geom:longitude":-94.202147,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"903 SE 28th St",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219884765,
-    "wof:lastmodified":1449073249,
+    "wof:lastmodified":1466325167,
     "wof:name":"Capital Structures",
     "wof:parent_id":85895815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trusses-construction"
     ]
 },
-  "bbox": [-94.202147,36.342629,-94.202147,36.342629],
+  "bbox": [
+    -94.202147,
+    36.342629,
+    -94.202147,
+    36.342629
+],
   "geometry": {"coordinates":[-94.202147,36.342629],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219271121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.043111,33.460661,-94.043111,33.460661",
     "geom:latitude":33.460661,
     "geom:longitude":-94.043111,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4012 N State Line Ave",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219271121,
-    "wof:lastmodified":1449072231,
+    "wof:lastmodified":1466321493,
     "wof:name":"Days Inn Texarkana",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lodging"
     ]
 },
-  "bbox": [-94.043111,33.460661,-94.043111,33.460661],
+  "bbox": [
+    -94.043111,
+    33.460661,
+    -94.043111,
+    33.460661
+],
   "geometry": {"coordinates":[-94.043111,33.460661],"type":"Point"}
 }

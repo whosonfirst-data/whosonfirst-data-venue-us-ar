@@ -2,13 +2,14 @@
   "id": 220123169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.97265,35.490828,-93.97265,35.490828",
     "geom:latitude":35.490828,
     "geom:longitude":-93.97265,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9022 White Oak Rd",
     "sg:city":"Mulberry",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":220123169,
-    "wof:lastmodified":1449074257,
+    "wof:lastmodified":1466322654,
     "wof:name":"Daves Hobby Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-93.97265,35.490828,-93.97265,35.490828],
+  "bbox": [
+    -93.97265,
+    35.490828,
+    -93.97265,
+    35.490828
+],
   "geometry": {"coordinates":[-93.97265,35.490828],"type":"Point"}
 }

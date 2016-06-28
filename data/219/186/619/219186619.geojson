@@ -2,13 +2,14 @@
   "id": 219186619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.073686,33.604346,-92.073686,33.604346",
     "geom:latitude":33.604346,
     "geom:longitude":-92.073686,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"611 N Martin St",
     "sg:city":"Warren",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219186619,
-    "wof:lastmodified":1449073161,
+    "wof:lastmodified":1466320687,
     "wof:name":"S Trotter Learning Academy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.073686,33.604346,-92.073686,33.604346],
+  "bbox": [
+    -92.073686,
+    33.604346,
+    -92.073686,
+    33.604346
+],
   "geometry": {"coordinates":[-92.073686,33.604346],"type":"Point"}
 }

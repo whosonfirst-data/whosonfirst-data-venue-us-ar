@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102425635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.580802,33.631052,-93.580802,33.631052",
     "geom:latitude":33.631052,
     "geom:longitude":-93.580802,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"514 Town Dr",
     "sg:city":"Hope",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102425635,
-    "wof:lastmodified":1449068632,
+    "wof:lastmodified":1466325447,
     "wof:name":"David Rogers Heating & Air",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.580802,33.631052,-93.580802,33.631052],
-  "geometry": {"coordinates":[-93.580802,33.631052],"type":"Point"}
+  "bbox": [
+    -93.580802,
+    33.631052,
+    -93.580802,
+    33.631052
+],
+  "geometry": {"coordinates":[-93.58080200000001,33.631052],"type":"Point"}
 }

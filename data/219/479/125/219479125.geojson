@@ -2,13 +2,14 @@
   "id": 219479125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.257053,35.608281,-91.257053,35.608281",
     "geom:latitude":35.608281,
     "geom:longitude":-91.257053,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2000 Mclain St",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219479125,
-    "wof:lastmodified":1449072804,
+    "wof:lastmodified":1466323669,
     "wof:name":"Ashley, John D Jr Md Pa Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "surgeons"
     ]
 },
-  "bbox": [-91.257053,35.608281,-91.257053,35.608281],
+  "bbox": [
+    -91.257053,
+    35.608281,
+    -91.257053,
+    35.608281
+],
   "geometry": {"coordinates":[-91.257053,35.608281],"type":"Point"}
 }

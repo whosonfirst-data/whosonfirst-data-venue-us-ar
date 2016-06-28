@@ -2,13 +2,14 @@
   "id": 219472599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.735237,35.177605,-92.735237,35.177605",
     "geom:latitude":35.177605,
     "geom:longitude":-92.735237,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 Shady Ln",
     "sg:city":"Morrilton",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219472599,
-    "wof:lastmodified":1449070664,
+    "wof:lastmodified":1466323611,
     "wof:name":"Foshee, Marchelle",
     "wof:parent_id":85850611,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "public"
     ]
 },
-  "bbox": [-92.735237,35.177605,-92.735237,35.177605],
+  "bbox": [
+    -92.735237,
+    35.177605,
+    -92.735237,
+    35.177605
+],
   "geometry": {"coordinates":[-92.735237,35.177605],"type":"Point"}
 }

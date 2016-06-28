@@ -2,13 +2,14 @@
   "id": 219536939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.691644,35.250784,-91.691644,35.250784",
     "geom:latitude":35.250784,
     "geom:longitude":-91.691644,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 S Poplar St",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219536939,
-    "wof:lastmodified":1449072490,
+    "wof:lastmodified":1466324235,
     "wof:name":"Comfort Suites Searcy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.691644,35.250784,-91.691644,35.250784],
+  "bbox": [
+    -91.691644,
+    35.250784,
+    -91.691644,
+    35.250784
+],
   "geometry": {"coordinates":[-91.691644,35.250784],"type":"Point"}
 }

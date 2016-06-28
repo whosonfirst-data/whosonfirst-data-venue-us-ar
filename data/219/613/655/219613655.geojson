@@ -2,13 +2,14 @@
   "id": 219613655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.112419,34.91143,-91.112419,34.91143",
     "geom:latitude":34.91143,
     "geom:longitude":-91.112419,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"133 Dennis St",
     "sg:city":"Wheatley",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219613655,
-    "wof:lastmodified":1449072039,
+    "wof:lastmodified":1466324600,
     "wof:name":"Wheatley Grain",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "grain"
     ]
 },
-  "bbox": [-91.112419,34.91143,-91.112419,34.91143],
+  "bbox": [
+    -91.112419,
+    34.91143,
+    -91.112419,
+    34.91143
+],
   "geometry": {"coordinates":[-91.112419,34.91143],"type":"Point"}
 }

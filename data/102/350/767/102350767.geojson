@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102350767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.44872,34.797594,-92.44872,34.797594",
     "geom:latitude":34.797594,
     "geom:longitude":-92.44872,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4815 Gooch Dr",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85847659,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85847659
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102350767,
-    "wof:lastmodified":1449068972,
+    "wof:lastmodified":1466324104,
     "wof:name":"Excel Splicing Inc",
     "wof:parent_id":85847659,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.44872,34.797594,-92.44872,34.797594],
-  "geometry": {"coordinates":[-92.44872,34.797594],"type":"Point"}
+  "bbox": [
+    -92.44872,
+    34.797594,
+    -92.44872,
+    34.797594
+],
+  "geometry": {"coordinates":[-92.44871999999999,34.797594],"type":"Point"}
 }

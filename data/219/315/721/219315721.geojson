@@ -2,13 +2,14 @@
   "id": 219315721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.925173,34.219387,-93.925173,34.219387",
     "geom:latitude":34.219387,
     "geom:longitude":-93.925173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"67 Mcbay Rd",
     "sg:city":"Newhope",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219315721,
-    "wof:lastmodified":1449073726,
+    "wof:lastmodified":1466321862,
     "wof:name":"Mcbay Farms Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.925173,34.219387,-93.925173,34.219387],
+  "bbox": [
+    -93.925173,
+    34.219387,
+    -93.925173,
+    34.219387
+],
   "geometry": {"coordinates":[-93.925173,34.219387],"type":"Point"}
 }

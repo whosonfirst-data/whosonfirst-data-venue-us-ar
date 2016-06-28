@@ -2,13 +2,14 @@
   "id": 219719051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.27118,36.022272,-91.27118,36.022272",
     "geom:latitude":36.022272,
     "geom:longitude":-91.27118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"183 Lawrence Road 280",
     "sg:city":"Smithville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219719051,
-    "wof:lastmodified":1449070852,
+    "wof:lastmodified":1466324880,
     "wof:name":"Holm Trucking Incorporated",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "truck"
     ]
 },
-  "bbox": [-91.27118,36.022272,-91.27118,36.022272],
+  "bbox": [
+    -91.27118,
+    36.022272,
+    -91.27118,
+    36.022272
+],
   "geometry": {"coordinates":[-91.27118,36.022272],"type":"Point"}
 }

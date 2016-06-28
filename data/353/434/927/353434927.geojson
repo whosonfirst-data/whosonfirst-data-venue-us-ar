@@ -2,13 +2,14 @@
   "id": 353434927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.563633,36.182574,-94.563633,36.182574",
     "geom:latitude":36.182574,
     "geom:longitude":-94.563633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 Rodric Cir",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353434927,
-    "wof:lastmodified":1449018820,
+    "wof:lastmodified":1466320415,
     "wof:name":"Indian Valley Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "item"
     ]
 },
-  "bbox": [-94.563633,36.182574,-94.563633,36.182574],
+  "bbox": [
+    -94.563633,
+    36.182574,
+    -94.563633,
+    36.182574
+],
   "geometry": {"coordinates":[-94.563633,36.182574],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219233959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.18254,33.706642,-94.18254,33.706642",
     "geom:latitude":33.706642,
     "geom:longitude":-94.18254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 Little River 387",
     "sg:city":"Ashdown",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219233959,
-    "wof:lastmodified":1449073985,
+    "wof:lastmodified":1466321209,
     "wof:name":"John Timothy Mcrae",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-94.18254,33.706642,-94.18254,33.706642],
+  "bbox": [
+    -94.18254,
+    33.706642,
+    -94.18254,
+    33.706642
+],
   "geometry": {"coordinates":[-94.18254,33.706642],"type":"Point"}
 }

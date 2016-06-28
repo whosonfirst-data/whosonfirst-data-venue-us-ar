@@ -2,13 +2,14 @@
   "id": 219743167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.482577,36.315624,-91.482577,36.315624",
     "geom:latitude":36.315624,
     "geom:longitude":-91.482577,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 E Main St",
     "sg:city":"Hardy",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219743167,
-    "wof:lastmodified":1449073891,
+    "wof:lastmodified":1466324979,
     "wof:name":"Video Real Estate Agency, Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "broker"
     ]
 },
-  "bbox": [-91.482577,36.315624,-91.482577,36.315624],
-  "geometry": {"coordinates":[-91.482577,36.315624],"type":"Point"}
+  "bbox": [
+    -91.482577,
+    36.315624,
+    -91.482577,
+    36.315624
+],
+  "geometry": {"coordinates":[-91.48257700000001,36.315624],"type":"Point"}
 }

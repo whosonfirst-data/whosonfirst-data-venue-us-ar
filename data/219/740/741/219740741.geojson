@@ -2,13 +2,14 @@
   "id": 219740741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.5185,36.26401,-91.5185,36.26401",
     "geom:latitude":36.26401,
     "geom:longitude":-91.5185,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2985 Highway 62 412",
     "sg:city":"Highland",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219740741,
-    "wof:lastmodified":1449071995,
+    "wof:lastmodified":1466324901,
     "wof:name":"Rusty Fork Antiques & Collectibles",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.5185,36.26401,-91.5185,36.26401],
+  "bbox": [
+    -91.5185,
+    36.26401,
+    -91.5185,
+    36.26401
+],
   "geometry": {"coordinates":[-91.5185,36.26401],"type":"Point"}
 }

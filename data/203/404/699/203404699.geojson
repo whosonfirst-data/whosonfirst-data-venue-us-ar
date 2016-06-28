@@ -2,13 +2,14 @@
   "id": 203404699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.950681,33.115786,-91.950681,33.115786",
     "geom:latitude":33.115786,
     "geom:longitude":-91.950681,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1416 Chestnut St",
     "sg:city":"Crossett",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203404699,
-    "wof:lastmodified":1449026238,
+    "wof:lastmodified":1466320522,
     "wof:name":"James Stinson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.950681,33.115786,-91.950681,33.115786],
+  "bbox": [
+    -91.950681,
+    33.115786,
+    -91.950681,
+    33.115786
+],
   "geometry": {"coordinates":[-91.950681,33.115786],"type":"Point"}
 }

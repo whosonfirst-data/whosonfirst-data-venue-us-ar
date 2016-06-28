@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102435965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.33558,34.29485,-91.33558,34.29485",
     "geom:latitude":34.29485,
     "geom:longitude":-91.33558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"304 Court Sq",
     "sg:city":"De Witt",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102435965,
-    "wof:lastmodified":1449069969,
+    "wof:lastmodified":1466325697,
     "wof:name":"De WITT Chamber Of Commerce",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.33558,34.29485,-91.33558,34.29485],
-  "geometry": {"coordinates":[-91.33558,34.29485],"type":"Point"}
+  "bbox": [
+    -91.33558,
+    34.29485,
+    -91.33558,
+    34.29485
+],
+  "geometry": {"coordinates":[-91.33557999999999,34.29485],"type":"Point"}
 }

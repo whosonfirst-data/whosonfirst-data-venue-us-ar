@@ -2,13 +2,14 @@
   "id": 219873281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.202091,36.342629,-94.202091,36.342629",
     "geom:latitude":36.342629,
     "geom:longitude":-94.202091,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"905 S.E. 28th St. Ste, #11",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219873281,
-    "wof:lastmodified":1449071132,
+    "wof:lastmodified":1466325056,
     "wof:name":"Instant Beauty",
     "wof:parent_id":85895815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "make-up"
     ]
 },
-  "bbox": [-94.202091,36.342629,-94.202091,36.342629],
+  "bbox": [
+    -94.202091,
+    36.342629,
+    -94.202091,
+    36.342629
+],
   "geometry": {"coordinates":[-94.202091,36.342629],"type":"Point"}
 }

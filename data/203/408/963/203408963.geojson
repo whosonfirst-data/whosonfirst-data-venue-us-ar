@@ -2,13 +2,14 @@
   "id": 203408963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.943852,33.165734,-91.943852,33.165734",
     "geom:latitude":33.165734,
     "geom:longitude":-91.943852,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"221 W Pierce St",
     "sg:city":"Crossett",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":203408963,
-    "wof:lastmodified":1449025181,
+    "wof:lastmodified":1466320537,
     "wof:name":"Faith Ministries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "churches-pentecostal"
     ]
 },
-  "bbox": [-91.943852,33.165734,-91.943852,33.165734],
-  "geometry": {"coordinates":[-91.943852,33.165734],"type":"Point"}
+  "bbox": [
+    -91.943852,
+    33.165734,
+    -91.943852,
+    33.165734
+],
+  "geometry": {"coordinates":[-91.94385200000001,33.165734],"type":"Point"}
 }

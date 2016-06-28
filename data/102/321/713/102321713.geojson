@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102321713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.523339,35.681924,-90.523339,35.681924",
     "geom:latitude":35.681924,
     "geom:longitude":-90.523339,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1205 1st Ave",
     "sg:city":"Trumann",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102321713,
-    "wof:lastmodified":1449067825,
+    "wof:lastmodified":1466323492,
     "wof:name":"Larry Tribble",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.523339,35.681924,-90.523339,35.681924],
-  "geometry": {"coordinates":[-90.523339,35.681924],"type":"Point"}
+  "bbox": [
+    -90.523339,
+    35.681924,
+    -90.523339,
+    35.681924
+],
+  "geometry": {"coordinates":[-90.52333900000001,35.681924],"type":"Point"}
 }

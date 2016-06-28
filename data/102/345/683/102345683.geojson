@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102345683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.998596,33.141041,-91.998596,33.141041",
     "geom:latitude":33.141041,
     "geom:longitude":-91.998596,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 N Laney Rd",
     "sg:city":"Crossett",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102345683,
-    "wof:lastmodified":1449070001,
+    "wof:lastmodified":1466324006,
     "wof:name":"C D's Auto Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.998596,33.141041,-91.998596,33.141041],
-  "geometry": {"coordinates":[-91.998596,33.141041],"type":"Point"}
+  "bbox": [
+    -91.998596,
+    33.141041,
+    -91.998596,
+    33.141041
+],
+  "geometry": {"coordinates":[-91.99859600000001,33.141041],"type":"Point"}
 }

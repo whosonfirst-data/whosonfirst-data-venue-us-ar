@@ -2,13 +2,14 @@
   "id": 219425051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.324347,35.27529,-92.324347,35.27529",
     "geom:latitude":35.27529,
     "geom:longitude":-92.324347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"69A Longbow Mountain Rd",
     "sg:city":"Greenbrier",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":219425051,
-    "wof:lastmodified":1449071634,
+    "wof:lastmodified":1466323059,
     "wof:name":"Arkansas Professional Inspections",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-92.324347,35.27529,-92.324347,35.27529],
+  "bbox": [
+    -92.324347,
+    35.27529,
+    -92.324347,
+    35.27529
+],
   "geometry": {"coordinates":[-92.324347,35.27529],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219489797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.231195,34.842723,-92.231195,34.842723",
     "geom:latitude":34.842723,
     "geom:longitude":-92.231195,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Cardinal Ln",
     "sg:city":"Sherwood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219489797,
-    "wof:lastmodified":1449072306,
+    "wof:lastmodified":1466323840,
     "wof:name":"Nicholas Electric",
     "wof:parent_id":85851723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrician"
     ]
 },
-  "bbox": [-92.231195,34.842723,-92.231195,34.842723],
+  "bbox": [
+    -92.231195,
+    34.842723,
+    -92.231195,
+    34.842723
+],
   "geometry": {"coordinates":[-92.231195,34.842723],"type":"Point"}
 }

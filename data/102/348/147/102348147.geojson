@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102348147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.847135,33.93805,-93.847135,33.93805",
     "geom:latitude":33.93805,
     "geom:longitude":-93.847135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"614 S Main St",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102348147,
-    "wof:lastmodified":1449067890,
+    "wof:lastmodified":1466323960,
     "wof:name":"Freds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.847135,33.93805,-93.847135,33.93805],
-  "geometry": {"coordinates":[-93.847135,33.93805],"type":"Point"}
+  "bbox": [
+    -93.847135,
+    33.93805,
+    -93.847135,
+    33.93805
+],
+  "geometry": {"coordinates":[-93.84713499999999,33.93805],"type":"Point"}
 }

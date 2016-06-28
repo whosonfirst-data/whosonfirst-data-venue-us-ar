@@ -2,13 +2,14 @@
   "id": 219814751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.121391,36.083934,-94.121391,36.083934",
     "geom:latitude":36.083934,
     "geom:longitude":-94.121391,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1757 N Crossover Rd Ste 5",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -67,10 +68,11 @@
         }
     ],
     "wof:id":219814751,
-    "wof:lastmodified":1449071039,
+    "wof:lastmodified":1466324885,
     "wof:name":"Shelter Insurance - Drew Trucks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "homeowner"
     ]
 },
-  "bbox": [-94.121391,36.083934,-94.121391,36.083934],
+  "bbox": [
+    -94.121391,
+    36.083934,
+    -94.121391,
+    36.083934
+],
   "geometry": {"coordinates":[-94.121391,36.083934],"type":"Point"}
 }

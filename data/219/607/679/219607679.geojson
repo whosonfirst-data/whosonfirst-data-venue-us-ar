@@ -2,13 +2,14 @@
   "id": 219607679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.987885,35.6926,-89.987885,35.6926",
     "geom:latitude":35.6926,
     "geom:longitude":-89.987885,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 E Cheryl St",
     "sg:city":"Osceola",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219607679,
-    "wof:lastmodified":1449070864,
+    "wof:lastmodified":1466324600,
     "wof:name":"Jane Bell",
     "wof:parent_id":85814753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.987885,35.6926,-89.987885,35.6926],
-  "geometry": {"coordinates":[-89.987885,35.6926],"type":"Point"}
+  "bbox": [
+    -89.987885,
+    35.6926,
+    -89.987885,
+    35.6926
+],
+  "geometry": {"coordinates":[-89.98788500000001,35.6926],"type":"Point"}
 }

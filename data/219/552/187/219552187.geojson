@@ -2,13 +2,14 @@
   "id": 219552187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.552421,34.502188,-91.552421,34.502188",
     "geom:latitude":34.502188,
     "geom:longitude":-91.552421,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 E 1st St",
     "sg:city":"Stuttgart",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219552187,
-    "wof:lastmodified":1449071861,
+    "wof:lastmodified":1466324351,
     "wof:name":"Stuttgart Rice Division",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "rice"
     ]
 },
-  "bbox": [-91.552421,34.502188,-91.552421,34.502188],
+  "bbox": [
+    -91.552421,
+    34.502188,
+    -91.552421,
+    34.502188
+],
   "geometry": {"coordinates":[-91.552421,34.502188],"type":"Point"}
 }

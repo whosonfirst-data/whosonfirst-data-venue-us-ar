@@ -2,13 +2,14 @@
   "id": 219227255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.640379,33.5238,-93.640379,33.5238",
     "geom:latitude":33.5238,
     "geom:longitude":-93.640379,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"343 Hempstead 161 W",
     "sg:city":"Hope",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219227255,
-    "wof:lastmodified":1449071176,
+    "wof:lastmodified":1466321141,
     "wof:name":"Cecil & Catherine Burns",
     "wof:parent_id":85806015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ranch"
     ]
 },
-  "bbox": [-93.640379,33.5238,-93.640379,33.5238],
+  "bbox": [
+    -93.640379,
+    33.5238,
+    -93.640379,
+    33.5238
+],
   "geometry": {"coordinates":[-93.640379,33.5238],"type":"Point"}
 }

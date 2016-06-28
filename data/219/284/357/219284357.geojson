@@ -2,13 +2,14 @@
   "id": 219284357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.052467,34.118099,-93.052467,34.118099",
     "geom:latitude":34.118099,
     "geom:longitude":-93.052467,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"501 Crittenden St",
     "sg:city":"Arkadelphia",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219284357,
-    "wof:lastmodified":1449072591,
+    "wof:lastmodified":1466321604,
     "wof:name":"Arnold Batson Turner and Turner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "referral"
     ]
 },
-  "bbox": [-93.052467,34.118099,-93.052467,34.118099],
-  "geometry": {"coordinates":[-93.052467,34.118099],"type":"Point"}
+  "bbox": [
+    -93.052467,
+    34.118099,
+    -93.052467,
+    34.118099
+],
+  "geometry": {"coordinates":[-93.05246699999999,34.118099],"type":"Point"}
 }

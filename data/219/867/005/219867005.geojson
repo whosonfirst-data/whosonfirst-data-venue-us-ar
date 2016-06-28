@@ -2,13 +2,14 @@
   "id": 219867005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.229183,36.072256,-94.229183,36.072256",
     "geom:latitude":36.072256,
     "geom:longitude":-94.229183,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4766 W Soapstone Dr",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219867005,
-    "wof:lastmodified":1449071913,
+    "wof:lastmodified":1466325142,
     "wof:name":"M Larson Inc",
     "wof:parent_id":85885449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "forwarding"
     ]
 },
-  "bbox": [-94.229183,36.072256,-94.229183,36.072256],
-  "geometry": {"coordinates":[-94.229183,36.072256],"type":"Point"}
+  "bbox": [
+    -94.229183,
+    36.072256,
+    -94.229183,
+    36.072256
+],
+  "geometry": {"coordinates":[-94.22918300000001,36.072256],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219287481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.019596,34.116915,-93.019596,34.116915",
     "geom:latitude":34.116915,
     "geom:longitude":-93.019596,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"253 Highway 51 N",
     "sg:city":"Arkadelphia",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219287481,
-    "wof:lastmodified":1449070598,
+    "wof:lastmodified":1466321632,
     "wof:name":"Demorrow Instruments Ltd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-93.019596,34.116915,-93.019596,34.116915],
-  "geometry": {"coordinates":[-93.019596,34.116915],"type":"Point"}
+  "bbox": [
+    -93.019596,
+    34.116915,
+    -93.019596,
+    34.116915
+],
+  "geometry": {"coordinates":[-93.01959600000001,34.116915],"type":"Point"}
 }

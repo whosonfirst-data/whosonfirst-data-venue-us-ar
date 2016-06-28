@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102356337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.974148,36.262575,-90.974148,36.262575",
     "geom:latitude":36.262575,
     "geom:longitude":-90.974148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1002 Convent St",
     "sg:city":"Pocahontas",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85816685,
+        85688549,
         85633793,
         85919829,
         102082011,
-        85688549
+        85816685
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102356337,
-    "wof:lastmodified":1449069739,
+    "wof:lastmodified":1466324197,
     "wof:name":"Saint Pauls Church",
     "wof:parent_id":85816685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.974148,36.262575,-90.974148,36.262575],
+  "bbox": [
+    -90.974148,
+    36.262575,
+    -90.974148,
+    36.262575
+],
   "geometry": {"coordinates":[-90.974148,36.262575],"type":"Point"}
 }

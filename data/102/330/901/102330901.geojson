@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102330901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.400951,35.40904,-94.400951,35.40904",
     "geom:latitude":35.40904,
     "geom:longitude":-94.400951,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2919 N 6th St",
     "sg:city":"Fort Smith",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102330901,
-    "wof:lastmodified":1449068954,
+    "wof:lastmodified":1466323727,
     "wof:name":"Vina Auto Repair & Body",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.400951,35.40904,-94.400951,35.40904],
-  "geometry": {"coordinates":[-94.400951,35.40904],"type":"Point"}
+  "bbox": [
+    -94.400951,
+    35.40904,
+    -94.400951,
+    35.40904
+],
+  "geometry": {"coordinates":[-94.40095100000001,35.40904],"type":"Point"}
 }

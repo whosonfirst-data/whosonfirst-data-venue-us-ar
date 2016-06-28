@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102361297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.130483,35.281259,-93.130483,35.281259",
     "geom:latitude":35.281259,
     "geom:longitude":-93.130483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"317 E Parkway Dr",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837141,
+        85688549,
         85633793,
         85919515,
         102082511,
-        85688549
+        85837141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102361297,
-    "wof:lastmodified":1449069557,
+    "wof:lastmodified":1466324224,
     "wof:name":"Daiber Vision Care",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.130483,35.281259,-93.130483,35.281259],
+  "bbox": [
+    -93.130483,
+    35.281259,
+    -93.130483,
+    35.281259
+],
   "geometry": {"coordinates":[-93.130483,35.281259],"type":"Point"}
 }

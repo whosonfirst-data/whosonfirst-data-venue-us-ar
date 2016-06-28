@@ -2,13 +2,14 @@
   "id": 303250115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.688356,36.640786,-94.688356,36.640786",
     "geom:latitude":36.640786,
     "geom:longitude":-94.688356,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25850 S 664 Rd",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303250115,
-    "wof:lastmodified":1448999515,
+    "wof:lastmodified":1466320416,
     "wof:name":"B G & F Inc",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-94.688356,36.640786,-94.688356,36.640786],
+  "bbox": [
+    -94.688356,
+    36.640786,
+    -94.688356,
+    36.640786
+],
   "geometry": {"coordinates":[-94.688356,36.640786],"type":"Point"}
 }

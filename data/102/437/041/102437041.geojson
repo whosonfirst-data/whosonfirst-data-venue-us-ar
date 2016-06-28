@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102437041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.810657,34.358088,-92.810657,34.358088",
     "geom:latitude":34.358088,
     "geom:longitude":-92.810657,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 E Sullenberger Ave",
     "sg:city":"Malvern",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102437041,
-    "wof:lastmodified":1449069539,
+    "wof:lastmodified":1466325570,
     "wof:name":"Charles Butler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.810657,34.358088,-92.810657,34.358088],
-  "geometry": {"coordinates":[-92.810657,34.358088],"type":"Point"}
+  "bbox": [
+    -92.810657,
+    34.358088,
+    -92.810657,
+    34.358088
+],
+  "geometry": {"coordinates":[-92.81065700000001,34.358088],"type":"Point"}
 }

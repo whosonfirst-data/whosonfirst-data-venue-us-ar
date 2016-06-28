@@ -2,13 +2,14 @@
   "id": 353915715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.54068,36.184999,-94.54068,36.184999",
     "geom:latitude":36.184999,
     "geom:longitude":-94.54068,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 S Broadway St",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353915715,
-    "wof:lastmodified":1449020755,
+    "wof:lastmodified":1466320546,
     "wof:name":"Grace Bible Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.54068,36.184999,-94.54068,36.184999],
-  "geometry": {"coordinates":[-94.54068,36.184999],"type":"Point"}
+  "bbox": [
+    -94.54068,
+    36.184999,
+    -94.54068,
+    36.184999
+],
+  "geometry": {"coordinates":[-94.54067999999999,36.184999],"type":"Point"}
 }

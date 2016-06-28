@@ -2,13 +2,14 @@
   "id": 219160549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.792651,33.617342,-91.792651,33.617342",
     "geom:latitude":33.617342,
     "geom:longitude":-91.792651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"184 Glenwood Dr",
     "sg:city":"Monticello",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219160549,
-    "wof:lastmodified":1449073352,
+    "wof:lastmodified":1466320474,
     "wof:name":"Vaughn Jessica Atty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "practice"
     ]
 },
-  "bbox": [-91.792651,33.617342,-91.792651,33.617342],
-  "geometry": {"coordinates":[-91.792651,33.617342],"type":"Point"}
+  "bbox": [
+    -91.792651,
+    33.617342,
+    -91.792651,
+    33.617342
+],
+  "geometry": {"coordinates":[-91.79265100000001,33.617342],"type":"Point"}
 }

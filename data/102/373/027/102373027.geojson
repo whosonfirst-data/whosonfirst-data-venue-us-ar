@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102373027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.728972,35.30299,-93.728972,35.30299",
     "geom:latitude":35.30299,
     "geom:longitude":-93.728972,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Logan Dr",
     "sg:city":"Paris",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102373027,
-    "wof:lastmodified":1449068990,
+    "wof:lastmodified":1466320627,
     "wof:name":"Paris Housing Authority City",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.728972,35.30299,-93.728972,35.30299],
+  "bbox": [
+    -93.728972,
+    35.30299,
+    -93.728972,
+    35.30299
+],
   "geometry": {"coordinates":[-93.728972,35.30299],"type":"Point"}
 }

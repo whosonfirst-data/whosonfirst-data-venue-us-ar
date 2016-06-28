@@ -2,13 +2,14 @@
   "id": 220117789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.249258,35.063744,-94.249258,35.063744",
     "geom:latitude":35.063744,
     "geom:longitude":-94.249258,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 S Highway 71 E",
     "sg:city":"Mansfield",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220117789,
-    "wof:lastmodified":1449074602,
+    "wof:lastmodified":1466322534,
     "wof:name":"Patron Mexican Grill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"
     ]
 },
-  "bbox": [-94.249258,35.063744,-94.249258,35.063744],
+  "bbox": [
+    -94.249258,
+    35.063744,
+    -94.249258,
+    35.063744
+],
   "geometry": {"coordinates":[-94.249258,35.063744],"type":"Point"}
 }

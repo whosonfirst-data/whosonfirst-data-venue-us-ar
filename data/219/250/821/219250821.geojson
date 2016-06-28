@@ -2,13 +2,14 @@
   "id": 219250821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.857182,33.955991,-93.857182,33.955991",
     "geom:latitude":33.955991,
     "geom:longitude":-93.857182,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"907 Ash St",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219250821,
-    "wof:lastmodified":1449072390,
+    "wof:lastmodified":1466321338,
     "wof:name":"Technical Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "bureau"
     ]
 },
-  "bbox": [-93.857182,33.955991,-93.857182,33.955991],
-  "geometry": {"coordinates":[-93.857182,33.955991],"type":"Point"}
+  "bbox": [
+    -93.857182,
+    33.955991,
+    -93.857182,
+    33.955991
+],
+  "geometry": {"coordinates":[-93.85718199999999,33.955991],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102423833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.529947,36.294512,-91.529947,36.294512",
     "geom:latitude":36.294512,
     "geom:longitude":-91.529947,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"145 W Lakeshore Dr",
     "sg:city":"Cherokee Village",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102423833,
-    "wof:lastmodified":1449068198,
+    "wof:lastmodified":1466325536,
     "wof:name":"Hardy Creations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.529947,36.294512,-91.529947,36.294512],
-  "geometry": {"coordinates":[-91.529947,36.294512],"type":"Point"}
+  "bbox": [
+    -91.529947,
+    36.294512,
+    -91.529947,
+    36.294512
+],
+  "geometry": {"coordinates":[-91.52994700000001,36.294512],"type":"Point"}
 }

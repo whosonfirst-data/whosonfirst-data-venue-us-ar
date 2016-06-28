@@ -2,13 +2,14 @@
   "id": 303197145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.272672,34.561888,-94.272672,34.561888",
     "geom:latitude":34.561888,
     "geom:longitude":-94.272672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3183 US Hwy 71",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303197145,
-    "wof:lastmodified":1449000258,
+    "wof:lastmodified":1466324520,
     "wof:name":"Mena USBC Assn Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.272672,34.561888,-94.272672,34.561888],
+  "bbox": [
+    -94.272672,
+    34.561888,
+    -94.272672,
+    34.561888
+],
   "geometry": {"coordinates":[-94.272672,34.561888],"type":"Point"}
 }

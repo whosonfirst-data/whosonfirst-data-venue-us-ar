@@ -2,13 +2,14 @@
   "id": 219193243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.869486,33.599268,-92.869486,33.599268",
     "geom:latitude":33.599268,
     "geom:longitude":-92.869486,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1275 Maul Rd",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -70,10 +71,11 @@
         }
     ],
     "wof:id":219193243,
-    "wof:lastmodified":1449070957,
+    "wof:lastmodified":1466320800,
     "wof:name":"First Assembly Of God-Camden",
     "wof:parent_id":85813169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -83,6 +85,11 @@
         "churches-assemblies"
     ]
 },
-  "bbox": [-92.869486,33.599268,-92.869486,33.599268],
-  "geometry": {"coordinates":[-92.869486,33.599268],"type":"Point"}
+  "bbox": [
+    -92.869486,
+    33.599268,
+    -92.869486,
+    33.599268
+],
+  "geometry": {"coordinates":[-92.86948599999999,33.599268],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219379503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.412225,35.094202,-92.412225,35.094202",
     "geom:latitude":35.094202,
     "geom:longitude":-92.412225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1170 Pats Ln",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219379503,
-    "wof:lastmodified":1449072434,
+    "wof:lastmodified":1466322670,
     "wof:name":"Home Motors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "cars-wholesale"
     ]
 },
-  "bbox": [-92.412225,35.094202,-92.412225,35.094202],
-  "geometry": {"coordinates":[-92.412225,35.094202],"type":"Point"}
+  "bbox": [
+    -92.412225,
+    35.094202,
+    -92.412225,
+    35.094202
+],
+  "geometry": {"coordinates":[-92.41222500000001,35.094202],"type":"Point"}
 }

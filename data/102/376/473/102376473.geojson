@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102376473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.34157,34.037724,-94.34157,34.037724",
     "geom:latitude":34.037724,
     "geom:longitude":-94.34157,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 N 4th St",
     "sg:city":"De Queen",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102376473,
-    "wof:lastmodified":1449068616,
+    "wof:lastmodified":1466321365,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.34157,34.037724,-94.34157,34.037724],
+  "bbox": [
+    -94.34157,
+    34.037724,
+    -94.34157,
+    34.037724
+],
   "geometry": {"coordinates":[-94.34157,34.037724],"type":"Point"}
 }

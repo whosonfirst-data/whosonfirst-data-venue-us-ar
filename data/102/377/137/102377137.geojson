@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102377137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.734603,35.239979,-91.734603,35.239979",
     "geom:latitude":35.239979,
     "geom:longitude":-91.734603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 E Lincoln Ave",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102377137,
-    "wof:lastmodified":1449068684,
+    "wof:lastmodified":1466321502,
     "wof:name":"Quattlebaum Surveying",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.734603,35.239979,-91.734603,35.239979],
-  "geometry": {"coordinates":[-91.734603,35.239979],"type":"Point"}
+  "bbox": [
+    -91.734603,
+    35.239979,
+    -91.734603,
+    35.239979
+],
+  "geometry": {"coordinates":[-91.73460300000001,35.239979],"type":"Point"}
 }

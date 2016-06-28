@@ -2,13 +2,14 @@
   "id": 219734393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.641228,35.756903,-91.641228,35.756903",
     "geom:latitude":35.756903,
     "geom:longitude":-91.641228,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"773 Batesville Blvd",
     "sg:city":"Batesville",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":219734393,
-    "wof:lastmodified":1449073468,
+    "wof:lastmodified":1466324976,
     "wof:name":"Best Western Scenic Motor Inn",
     "wof:parent_id":85808231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lodging"
     ]
 },
-  "bbox": [-91.641228,35.756903,-91.641228,35.756903],
+  "bbox": [
+    -91.641228,
+    35.756903,
+    -91.641228,
+    35.756903
+],
   "geometry": {"coordinates":[-91.641228,35.756903],"type":"Point"}
 }

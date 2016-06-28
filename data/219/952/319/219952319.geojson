@@ -2,13 +2,14 @@
   "id": 219952319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.179253,36.340919,-94.179253,36.340919",
     "geom:latitude":36.340919,
     "geom:longitude":-94.179253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4601 W Rozell St",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":219952319,
-    "wof:lastmodified":1449072942,
+    "wof:lastmodified":1466325194,
     "wof:name":"Candlewood Suites Rogers/Bentonville",
     "wof:parent_id":85895853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "hall"
     ]
 },
-  "bbox": [-94.179253,36.340919,-94.179253,36.340919],
+  "bbox": [
+    -94.179253,
+    36.340919,
+    -94.179253,
+    36.340919
+],
   "geometry": {"coordinates":[-94.179253,36.340919],"type":"Point"}
 }

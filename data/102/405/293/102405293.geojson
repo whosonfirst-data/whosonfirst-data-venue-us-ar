@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102405293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.827542,33.573421,-92.827542,33.573421",
     "geom:latitude":33.573421,
     "geom:longitude":-92.827542,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"764 S Adams Ave",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102405293,
-    "wof:lastmodified":1449069993,
+    "wof:lastmodified":1466325029,
     "wof:name":"Red Bird Taxi Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.827542,33.573421,-92.827542,33.573421],
-  "geometry": {"coordinates":[-92.827542,33.573421],"type":"Point"}
+  "bbox": [
+    -92.827542,
+    33.573421,
+    -92.827542,
+    33.573421
+],
+  "geometry": {"coordinates":[-92.82754199999999,33.573421],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219242841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.174677,33.963008,-94.174677,33.963008",
     "geom:latitude":33.963008,
     "geom:longitude":-94.174677,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"172 S Park Ave",
     "sg:city":"Lockesburg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219242841,
-    "wof:lastmodified":1449073503,
+    "wof:lastmodified":1466321276,
     "wof:name":"Nash Electronics Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "engineer"
     ]
 },
-  "bbox": [-94.174677,33.963008,-94.174677,33.963008],
+  "bbox": [
+    -94.174677,
+    33.963008,
+    -94.174677,
+    33.963008
+],
   "geometry": {"coordinates":[-94.174677,33.963008],"type":"Point"}
 }

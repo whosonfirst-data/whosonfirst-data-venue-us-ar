@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102400135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.34362,34.68344,-92.34362,34.68344",
     "geom:latitude":34.68344,
     "geom:longitude":-92.34362,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7301 Geyer Springs Rd",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102400135,
-    "wof:lastmodified":1449068028,
+    "wof:lastmodified":1466324672,
     "wof:name":"Steves Speed & Truck ACC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.34362,34.68344,-92.34362,34.68344],
+  "bbox": [
+    -92.34362,
+    34.68344,
+    -92.34362,
+    34.68344
+],
   "geometry": {"coordinates":[-92.34362,34.68344],"type":"Point"}
 }

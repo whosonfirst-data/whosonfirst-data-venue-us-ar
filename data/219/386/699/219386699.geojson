@@ -2,13 +2,14 @@
   "id": 219386699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.375886,35.129896,-92.375886,35.129896",
     "geom:latitude":35.129896,
     "geom:longitude":-92.375886,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Beaver Ridge Rd",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219386699,
-    "wof:lastmodified":1449072234,
+    "wof:lastmodified":1466322732,
     "wof:name":"Gene Martin Refrigeration",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "engineer"
     ]
 },
-  "bbox": [-92.375886,35.129896,-92.375886,35.129896],
-  "geometry": {"coordinates":[-92.375886,35.129896],"type":"Point"}
+  "bbox": [
+    -92.375886,
+    35.129896,
+    -92.375886,
+    35.129896
+],
+  "geometry": {"coordinates":[-92.37588599999999,35.129896],"type":"Point"}
 }

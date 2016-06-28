@@ -2,13 +2,14 @@
   "id": 219536445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.737681,35.24965,-91.737681,35.24965",
     "geom:latitude":35.24965,
     "geom:longitude":-91.737681,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 W Market Ave",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":219536445,
-    "wof:lastmodified":1449072491,
+    "wof:lastmodified":1466324230,
     "wof:name":"Steven B Jordan Pa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "law"
     ]
 },
-  "bbox": [-91.737681,35.24965,-91.737681,35.24965],
-  "geometry": {"coordinates":[-91.737681,35.24965],"type":"Point"}
+  "bbox": [
+    -91.737681,
+    35.24965,
+    -91.737681,
+    35.24965
+],
+  "geometry": {"coordinates":[-91.73768099999999,35.24965],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220046489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.132617,36.203002,-94.132617,36.203002",
     "geom:latitude":36.203002,
     "geom:longitude":-94.132617,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"414 W Randall Wobbe Ln",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":220046489,
-    "wof:lastmodified":1449074500,
+    "wof:lastmodified":1466320584,
     "wof:name":"Rds Carpet Cleaning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "house"
     ]
 },
-  "bbox": [-94.132617,36.203002,-94.132617,36.203002],
+  "bbox": [
+    -94.132617,
+    36.203002,
+    -94.132617,
+    36.203002
+],
   "geometry": {"coordinates":[-94.132617,36.203002],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102381785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.40583,34.834465,-92.40583,34.834465",
     "geom:latitude":34.834465,
     "geom:longitude":-92.40583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Suwannee Cove",
     "sg:city":"Maumelle",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102082497,
-        85633793,
         85688549,
-        85809209
+        85633793,
+        85809209,
+        102082497
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102381785,
-    "wof:lastmodified":1449067995,
+    "wof:lastmodified":1466322457,
     "wof:name":"PI Roof Maintenance Inc",
     "wof:parent_id":85809209,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.40583,34.834465,-92.40583,34.834465],
-  "geometry": {"coordinates":[-92.40583,34.834465],"type":"Point"}
+  "bbox": [
+    -92.40583,
+    34.834465,
+    -92.40583,
+    34.834465
+],
+  "geometry": {"coordinates":[-92.40582999999999,34.834465],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219634871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.682352,35.816909,-90.682352,35.816909",
     "geom:latitude":35.816909,
     "geom:longitude":-90.682352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2207 Fowler Ave",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":219634871,
-    "wof:lastmodified":1449072079,
+    "wof:lastmodified":1466324645,
     "wof:name":"Lenders Title Company",
     "wof:parent_id":85836541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "escrow"
     ]
 },
-  "bbox": [-90.682352,35.816909,-90.682352,35.816909],
-  "geometry": {"coordinates":[-90.682352,35.816909],"type":"Point"}
+  "bbox": [
+    -90.682352,
+    35.816909,
+    -90.682352,
+    35.816909
+],
+  "geometry": {"coordinates":[-90.68235199999999,35.816909],"type":"Point"}
 }

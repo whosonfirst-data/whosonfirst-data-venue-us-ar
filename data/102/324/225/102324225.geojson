@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102324225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.1111,36.229549,-93.1111,36.229549",
     "geom:latitude":36.229549,
     "geom:longitude":-93.1111,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"122 S Pine St",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102324225,
-    "wof:lastmodified":1449069148,
+    "wof:lastmodified":1466323499,
     "wof:name":"Topstitch Embroidery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.1111,36.229549,-93.1111,36.229549],
-  "geometry": {"coordinates":[-93.1111,36.229549],"type":"Point"}
+  "bbox": [
+    -93.1111,
+    36.229549,
+    -93.1111,
+    36.229549
+],
+  "geometry": {"coordinates":[-93.11109999999999,36.229549],"type":"Point"}
 }

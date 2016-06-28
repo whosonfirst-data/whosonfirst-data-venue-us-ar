@@ -2,13 +2,14 @@
   "id": 219260811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.031593,33.42725,-94.031593,33.42725",
     "geom:latitude":33.42725,
     "geom:longitude":-94.031593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 E Broad St",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219260811,
-    "wof:lastmodified":1449070974,
+    "wof:lastmodified":1466321412,
     "wof:name":"J N Dansby Jr Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.031593,33.42725,-94.031593,33.42725],
+  "bbox": [
+    -94.031593,
+    33.42725,
+    -94.031593,
+    33.42725
+],
   "geometry": {"coordinates":[-94.031593,33.42725],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102409611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.311631,35.464857,-93.311631,35.464857",
     "geom:latitude":35.464857,
     "geom:longitude":-93.311631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1416 Co Rd 2790",
     "sg:city":"Lamar",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":102409611,
-    "wof:lastmodified":1449068766,
+    "wof:lastmodified":1466325215,
     "wof:name":"Steven Cotts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.311631,35.464857,-93.311631,35.464857],
-  "geometry": {"coordinates":[-93.311631,35.464857],"type":"Point"}
+  "bbox": [
+    -93.311631,
+    35.464857,
+    -93.311631,
+    35.464857
+],
+  "geometry": {"coordinates":[-93.31163100000001,35.464857],"type":"Point"}
 }

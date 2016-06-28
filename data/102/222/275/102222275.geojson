@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102222275",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.331201,34.296674,-91.331201,34.296674",
     "geom:latitude":34.296674,
     "geom:longitude":-91.331201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 N Cedar St",
     "sg:city":"De Witt",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102222275",
-    "wof:lastmodified":1449069396,
+    "wof:lastmodified":1466321183,
     "wof:name":"P & B Cedar St Grocery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.331201,34.296674,-91.331201,34.296674],
-  "geometry": {"coordinates":[-91.331201,34.296674],"type":"Point"}
+  "bbox": [
+    -91.331201,
+    34.296674,
+    -91.331201,
+    34.296674
+],
+  "geometry": {"coordinates":[-91.33120099999999,34.296674],"type":"Point"}
 }

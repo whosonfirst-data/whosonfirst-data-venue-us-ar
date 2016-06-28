@@ -2,13 +2,14 @@
   "id": 219669673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.145946,35.989212,-90.145946,35.989212",
     "geom:latitude":35.989212,
     "geom:longitude":-90.145946,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2679 W County Road 38",
     "sg:city":"Leachville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219669673,
-    "wof:lastmodified":1449070791,
+    "wof:lastmodified":1466324584,
     "wof:name":"Bucks Point Farms",
     "wof:parent_id":85814753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.145946,35.989212,-90.145946,35.989212],
+  "bbox": [
+    -90.145946,
+    35.989212,
+    -90.145946,
+    35.989212
+],
   "geometry": {"coordinates":[-90.145946,35.989212],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219904779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.217537,36.344791,-94.217537,36.344791",
     "geom:latitude":36.344791,
     "geom:longitude":-94.217537,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2501 Aviation Dr",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219904779,
-    "wof:lastmodified":1449074007,
+    "wof:lastmodified":1466325109,
     "wof:name":"Stanley Works",
     "wof:parent_id":85895825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hand"
     ]
 },
-  "bbox": [-94.217537,36.344791,-94.217537,36.344791],
-  "geometry": {"coordinates":[-94.217537,36.344791],"type":"Point"}
+  "bbox": [
+    -94.217537,
+    36.344791,
+    -94.217537,
+    36.344791
+],
+  "geometry": {"coordinates":[-94.21753699999999,36.344791],"type":"Point"}
 }

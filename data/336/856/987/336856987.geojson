@@ -2,13 +2,14 @@
   "id": 336856987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.5282,36.170072,-94.5282,36.170072",
     "geom:latitude":36.170072,
     "geom:longitude":-94.5282,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1700 S Lincoln St",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336856987,
-    "wof:lastmodified":1448997257,
+    "wof:lastmodified":1466320452,
     "wof:name":"Pipelife Jet Stream Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pipe"
     ]
 },
-  "bbox": [-94.5282,36.170072,-94.5282,36.170072],
+  "bbox": [
+    -94.5282,
+    36.170072,
+    -94.5282,
+    36.170072
+],
   "geometry": {"coordinates":[-94.5282,36.170072],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219471009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.72544,35.177481,-92.72544,35.177481",
     "geom:latitude":35.177481,
     "geom:longitude":-92.72544,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Middle St",
     "sg:city":"Morrilton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219471009,
-    "wof:lastmodified":1449071805,
+    "wof:lastmodified":1466323577,
     "wof:name":"Curves Of Morrilton",
     "wof:parent_id":85850611,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "health"
     ]
 },
-  "bbox": [-92.72544,35.177481,-92.72544,35.177481],
-  "geometry": {"coordinates":[-92.72544,35.177481],"type":"Point"}
+  "bbox": [
+    -92.72544,
+    35.177481,
+    -92.72544,
+    35.177481
+],
+  "geometry": {"coordinates":[-92.72544000000001,35.177481],"type":"Point"}
 }

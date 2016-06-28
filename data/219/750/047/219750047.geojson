@@ -2,13 +2,14 @@
   "id": 219750047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.824944,36.368035,-91.824944,36.368035",
     "geom:latitude":36.368035,
     "geom:longitude":-91.824944,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"313 Highway 62 E Suite 4",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219750047,
-    "wof:lastmodified":1449072522,
+    "wof:lastmodified":1466324982,
     "wof:name":"Salem Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "elementary"
     ]
 },
-  "bbox": [-91.824944,36.368035,-91.824944,36.368035],
+  "bbox": [
+    -91.824944,
+    36.368035,
+    -91.824944,
+    36.368035
+],
   "geometry": {"coordinates":[-91.824944,36.368035],"type":"Point"}
 }

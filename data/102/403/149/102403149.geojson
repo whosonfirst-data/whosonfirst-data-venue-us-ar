@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102403149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.968066,35.702917,-89.968066,35.702917",
     "geom:latitude":35.702917,
     "geom:longitude":-89.968066,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 E Hale Ave",
     "sg:city":"Osceola",
     "sg:classifiers":[
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":102403149,
-    "wof:lastmodified":1449069834,
+    "wof:lastmodified":1466324847,
     "wof:name":"Newcomb Billing & Data Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.968066,35.702917,-89.968066,35.702917],
-  "geometry": {"coordinates":[-89.968066,35.702917],"type":"Point"}
+  "bbox": [
+    -89.968066,
+    35.702917,
+    -89.968066,
+    35.702917
+],
+  "geometry": {"coordinates":[-89.96806599999999,35.702917],"type":"Point"}
 }

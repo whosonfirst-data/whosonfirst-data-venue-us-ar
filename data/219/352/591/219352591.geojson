@@ -2,13 +2,14 @@
   "id": 219352591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.606041,35.471859,-91.606041,35.471859",
     "geom:latitude":35.471859,
     "geom:longitude":-91.606041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"175 Eads Rd",
     "sg:city":"Bradford",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219352591,
-    "wof:lastmodified":1449072566,
+    "wof:lastmodified":1466322301,
     "wof:name":"J T M Mobile Home Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "homes-repair"
     ]
 },
-  "bbox": [-91.606041,35.471859,-91.606041,35.471859],
+  "bbox": [
+    -91.606041,
+    35.471859,
+    -91.606041,
+    35.471859
+],
   "geometry": {"coordinates":[-91.606041,35.471859],"type":"Point"}
 }

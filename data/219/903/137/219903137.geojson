@@ -2,13 +2,14 @@
   "id": 219903137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.199649,36.342852,-94.199649,36.342852",
     "geom:latitude":36.342852,
     "geom:longitude":-94.199649,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2717 SE I St",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219903137,
-    "wof:lastmodified":1449070594,
+    "wof:lastmodified":1466325103,
     "wof:name":"Earl Kevin S MD",
     "wof:parent_id":85895815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "family"
     ]
 },
-  "bbox": [-94.199649,36.342852,-94.199649,36.342852],
-  "geometry": {"coordinates":[-94.199649,36.342852],"type":"Point"}
+  "bbox": [
+    -94.199649,
+    36.342852,
+    -94.199649,
+    36.342852
+],
+  "geometry": {"coordinates":[-94.19964899999999,36.342852],"type":"Point"}
 }

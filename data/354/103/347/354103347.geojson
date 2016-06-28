@@ -2,13 +2,14 @@
   "id": 354103347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.546025,36.169053,-94.546025,36.169053",
     "geom:latitude":36.169053,
     "geom:longitude":-94.546025,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2104 S Elm St",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354103347,
-    "wof:lastmodified":1449067013,
+    "wof:lastmodified":1466324508,
     "wof:name":"Lance Appraisals LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.546025,36.169053,-94.546025,36.169053],
+  "bbox": [
+    -94.546025,
+    36.169053,
+    -94.546025,
+    36.169053
+],
   "geometry": {"coordinates":[-94.546025,36.169053],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219693791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.534219,36.023573,-90.534219,36.023573",
     "geom:latitude":36.023573,
     "geom:longitude":-90.534219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3607 Mcdaniel Rd",
     "sg:city":"Paragould",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219693791,
-    "wof:lastmodified":1449070584,
+    "wof:lastmodified":1466324717,
     "wof:name":"Earthling Creative Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "bureau"
     ]
 },
-  "bbox": [-90.534219,36.023573,-90.534219,36.023573],
-  "geometry": {"coordinates":[-90.534219,36.023573],"type":"Point"}
+  "bbox": [
+    -90.534219,
+    36.023573,
+    -90.534219,
+    36.023573
+],
+  "geometry": {"coordinates":[-90.53421899999999,36.023573],"type":"Point"}
 }

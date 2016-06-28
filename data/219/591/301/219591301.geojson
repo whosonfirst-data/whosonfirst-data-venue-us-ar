@@ -2,13 +2,14 @@
   "id": 219591301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.332413,34.940136,-90.332413,34.940136",
     "geom:latitude":34.940136,
     "geom:longitude":-90.332413,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"59 Bass Rd",
     "sg:city":"Hughes",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219591301,
-    "wof:lastmodified":1449072265,
+    "wof:lastmodified":1466324798,
     "wof:name":"Kamp Karefree",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.332413,34.940136,-90.332413,34.940136],
+  "bbox": [
+    -90.332413,
+    34.940136,
+    -90.332413,
+    34.940136
+],
   "geometry": {"coordinates":[-90.332413,34.940136],"type":"Point"}
 }

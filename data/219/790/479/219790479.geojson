@@ -2,13 +2,14 @@
   "id": 219790479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.558973,36.418057,-93.558973,36.418057",
     "geom:latitude":36.418057,
     "geom:longitude":-93.558973,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2249 Highway 221 N",
     "sg:city":"Berryville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219790479,
-    "wof:lastmodified":1449073109,
+    "wof:lastmodified":1466324943,
     "wof:name":"Sccrc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.558973,36.418057,-93.558973,36.418057],
-  "geometry": {"coordinates":[-93.558973,36.418057],"type":"Point"}
+  "bbox": [
+    -93.558973,
+    36.418057,
+    -93.558973,
+    36.418057
+],
+  "geometry": {"coordinates":[-93.55897299999999,36.418057],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219180271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.066598,33.611692,-92.066598,33.611692",
     "geom:latitude":33.611692,
     "geom:longitude":-92.066598,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 Turner St",
     "sg:city":"Warren",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":219180271,
-    "wof:lastmodified":1449070511,
+    "wof:lastmodified":1466320632,
     "wof:name":"First United Methodist Church Associates Parson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "churches-methodist"
     ]
 },
-  "bbox": [-92.066598,33.611692,-92.066598,33.611692],
+  "bbox": [
+    -92.066598,
+    33.611692,
+    -92.066598,
+    33.611692
+],
   "geometry": {"coordinates":[-92.066598,33.611692],"type":"Point"}
 }

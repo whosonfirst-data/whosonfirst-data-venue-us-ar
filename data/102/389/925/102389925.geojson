@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102389925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.621525,35.9089,-90.621525,35.9089",
     "geom:latitude":35.9089,
     "geom:longitude":-90.621525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5244 Co Rd 745",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102389925,
-    "wof:lastmodified":1449069689,
+    "wof:lastmodified":1466324129,
     "wof:name":"Presleys Drive Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.621525,35.9089,-90.621525,35.9089],
-  "geometry": {"coordinates":[-90.621525,35.9089],"type":"Point"}
+  "bbox": [
+    -90.621525,
+    35.9089,
+    -90.621525,
+    35.9089
+],
+  "geometry": {"coordinates":[-90.62152500000001,35.9089],"type":"Point"}
 }

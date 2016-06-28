@@ -2,13 +2,14 @@
   "id": 219202449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.46975,33.537662,-92.46975,33.537662",
     "geom:latitude":33.537662,
     "geom:longitude":-92.46975,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 N Lee St",
     "sg:city":"Hampton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219202449,
-    "wof:lastmodified":1449073457,
+    "wof:lastmodified":1466320888,
     "wof:name":"Rick's Tire Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "tire"
     ]
 },
-  "bbox": [-92.46975,33.537662,-92.46975,33.537662],
+  "bbox": [
+    -92.46975,
+    33.537662,
+    -92.46975,
+    33.537662
+],
   "geometry": {"coordinates":[-92.46975,33.537662],"type":"Point"}
 }

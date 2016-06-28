@@ -2,13 +2,14 @@
   "id": 219278635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.375041,34.28778,-93.375041,34.28778",
     "geom:latitude":34.28778,
     "geom:longitude":-93.375041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Cleatous Rd",
     "sg:city":"Amity",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219278635,
-    "wof:lastmodified":1449072324,
+    "wof:lastmodified":1466321556,
     "wof:name":"Donald Wayne Lambert",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.375041,34.28778,-93.375041,34.28778],
+  "bbox": [
+    -93.375041,
+    34.28778,
+    -93.375041,
+    34.28778
+],
   "geometry": {"coordinates":[-93.375041,34.28778],"type":"Point"}
 }

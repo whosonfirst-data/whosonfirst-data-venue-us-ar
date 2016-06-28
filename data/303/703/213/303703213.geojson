@@ -2,13 +2,14 @@
   "id": 303703213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.222292,34.586652,-94.222292,34.586652",
     "geom:latitude":34.586652,
     "geom:longitude":-94.222292,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"918 US Hwy 71",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303703213,
-    "wof:lastmodified":1448998858,
+    "wof:lastmodified":1466320567,
     "wof:name":"Fatmans Wreaker Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-94.222292,34.586652,-94.222292,34.586652],
+  "bbox": [
+    -94.222292,
+    34.586652,
+    -94.222292,
+    34.586652
+],
   "geometry": {"coordinates":[-94.222292,34.586652],"type":"Point"}
 }

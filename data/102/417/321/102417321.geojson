@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102417321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.659512,33.221836,-92.659512,33.221836",
     "geom:latitude":33.221836,
     "geom:longitude":-92.659512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"520 E 5th St",
     "sg:city":"El Dorado",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102417321,
-    "wof:lastmodified":1449068756,
+    "wof:lastmodified":1466325514,
     "wof:name":"Mecca Healthcare Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.659512,33.221836,-92.659512,33.221836],
-  "geometry": {"coordinates":[-92.659512,33.221836],"type":"Point"}
+  "bbox": [
+    -92.659512,
+    33.221836,
+    -92.659512,
+    33.221836
+],
+  "geometry": {"coordinates":[-92.65951200000001,33.221836],"type":"Point"}
 }

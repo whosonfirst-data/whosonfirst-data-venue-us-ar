@@ -2,13 +2,14 @@
   "id": 219687289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.59117,35.984616,-90.59117,35.984616",
     "geom:latitude":35.984616,
     "geom:longitude":-90.59117,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1867 Greene Road 733",
     "sg:city":"Paragould",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219687289,
-    "wof:lastmodified":1449071395,
+    "wof:lastmodified":1466324846,
     "wof:name":"C & D Roming",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-90.59117,35.984616,-90.59117,35.984616],
-  "geometry": {"coordinates":[-90.59117,35.984616],"type":"Point"}
+  "bbox": [
+    -90.59117,
+    35.984616,
+    -90.59117,
+    35.984616
+],
+  "geometry": {"coordinates":[-90.59117000000001,35.984616],"type":"Point"}
 }

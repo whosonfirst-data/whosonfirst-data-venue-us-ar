@@ -2,13 +2,14 @@
   "id": 219631133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.704915,35.840048,-90.704915,35.840048",
     "geom:latitude":35.840048,
     "geom:longitude":-90.704915,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"322 S Main St",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":219631133,
-    "wof:lastmodified":1449071492,
+    "wof:lastmodified":1466324626,
     "wof:name":"Junior Fowler Investment Group Inc.",
     "wof:parent_id":85836541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-90.704915,35.840048,-90.704915,35.840048],
+  "bbox": [
+    -90.704915,
+    35.840048,
+    -90.704915,
+    35.840048
+],
   "geometry": {"coordinates":[-90.704915,35.840048],"type":"Point"}
 }

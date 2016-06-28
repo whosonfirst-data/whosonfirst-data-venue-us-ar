@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102339003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.244567,33.280116,-93.244567,33.280116",
     "geom:latitude":33.280116,
     "geom:longitude":-93.244567,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1506 N Vine St",
     "sg:city":"Magnolia",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102339003,
-    "wof:lastmodified":1449068845,
+    "wof:lastmodified":1466323728,
     "wof:name":"Morton Buildings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.244567,33.280116,-93.244567,33.280116],
+  "bbox": [
+    -93.244567,
+    33.280116,
+    -93.244567,
+    33.280116
+],
   "geometry": {"coordinates":[-93.244567,33.280116],"type":"Point"}
 }

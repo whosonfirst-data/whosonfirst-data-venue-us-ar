@@ -2,13 +2,14 @@
   "id": 219332269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.438151,34.514571,-92.438151,34.514571",
     "geom:latitude":34.514571,
     "geom:longitude":-92.438151,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13724 Childress Rd",
     "sg:city":"Bauxite",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219332269,
-    "wof:lastmodified":1449072335,
+    "wof:lastmodified":1466322021,
     "wof:name":"B And B Lawn Care",
     "wof:parent_id":85844395,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-92.438151,34.514571,-92.438151,34.514571],
+  "bbox": [
+    -92.438151,
+    34.514571,
+    -92.438151,
+    34.514571
+],
   "geometry": {"coordinates":[-92.438151,34.514571],"type":"Point"}
 }

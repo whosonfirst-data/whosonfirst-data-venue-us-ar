@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102211761",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.476295,35.722146,-91.476295,35.722146",
     "geom:latitude":35.722146,
     "geom:longitude":-91.476295,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"620 Cleghorn Chapel Rd",
     "sg:city":"Batesville",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102211761",
-    "wof:lastmodified":1449068380,
+    "wof:lastmodified":1466321009,
     "wof:name":"Industrial Fire and Safety",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.476295,35.722146,-91.476295,35.722146],
-  "geometry": {"coordinates":[-91.476295,35.722146],"type":"Point"}
+  "bbox": [
+    -91.476295,
+    35.722146,
+    -91.476295,
+    35.722146
+],
+  "geometry": {"coordinates":[-91.47629499999999,35.722146],"type":"Point"}
 }

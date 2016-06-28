@@ -2,13 +2,14 @@
   "id": 219806763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.204746,36.390946,-93.204746,36.390946",
     "geom:latitude":36.390946,
     "geom:longitude":-93.204746,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11379A Edwards Ln",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219806763,
-    "wof:lastmodified":1449070370,
+    "wof:lastmodified":1466324962,
     "wof:name":"Collins Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.204746,36.390946,-93.204746,36.390946],
+  "bbox": [
+    -93.204746,
+    36.390946,
+    -93.204746,
+    36.390946
+],
   "geometry": {"coordinates":[-93.204746,36.390946],"type":"Point"}
 }

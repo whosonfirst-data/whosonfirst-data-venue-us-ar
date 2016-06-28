@@ -2,13 +2,14 @@
   "id": 219448817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.002866,34.814695,-92.002866,34.814695",
     "geom:latitude":34.814695,
     "geom:longitude":-92.002866,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1421 Lingo Rd",
     "sg:city":"Lonoke",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219448817,
-    "wof:lastmodified":1449073742,
+    "wof:lastmodified":1466323358,
     "wof:name":"Country Air Flight Training",
     "wof:parent_id":85811577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "school"
     ]
 },
-  "bbox": [-92.002866,34.814695,-92.002866,34.814695],
+  "bbox": [
+    -92.002866,
+    34.814695,
+    -92.002866,
+    34.814695
+],
   "geometry": {"coordinates":[-92.002866,34.814695],"type":"Point"}
 }

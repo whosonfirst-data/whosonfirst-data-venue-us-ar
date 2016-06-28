@@ -2,13 +2,14 @@
   "id": 219193747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.675019,33.768958,-92.675019,33.768958",
     "geom:latitude":33.768958,
     "geom:longitude":-92.675019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"770 Ouachita Road 95",
     "sg:city":"Bearden",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219193747,
-    "wof:lastmodified":1449070957,
+    "wof:lastmodified":1466320810,
     "wof:name":"Clemons Construction",
     "wof:parent_id":85813169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractors-commercial"
     ]
 },
-  "bbox": [-92.675019,33.768958,-92.675019,33.768958],
-  "geometry": {"coordinates":[-92.675019,33.768958],"type":"Point"}
+  "bbox": [
+    -92.675019,
+    33.768958,
+    -92.675019,
+    33.768958
+],
+  "geometry": {"coordinates":[-92.67501900000001,33.768958],"type":"Point"}
 }

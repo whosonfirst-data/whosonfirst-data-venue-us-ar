@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102256711",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.240775,34.792573,-92.240775,34.792573",
     "geom:latitude":34.792573,
     "geom:longitude":-92.240775,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23 E Lake Dr",
     "sg:city":"North Little Rock",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852263,
+        85688549,
         85633793,
         85921255,
         102082497,
-        85688549
+        85852263
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102256711",
-    "wof:lastmodified":1449069619,
+    "wof:lastmodified":1466322082,
     "wof:name":"Eason Laroche Holdings Inc",
     "wof:parent_id":85852263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.240775,34.792573,-92.240775,34.792573],
+  "bbox": [
+    -92.240775,
+    34.792573,
+    -92.240775,
+    34.792573
+],
   "geometry": {"coordinates":[-92.240775,34.792573],"type":"Point"}
 }

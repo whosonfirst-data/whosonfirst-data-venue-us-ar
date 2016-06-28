@@ -2,13 +2,14 @@
   "id": 219358245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.498488,34.610685,-92.498488,34.610685",
     "geom:latitude":34.610685,
     "geom:longitude":-92.498488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"507 Prickett Rd",
     "sg:city":"Bryant",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":219358245,
-    "wof:lastmodified":1449071872,
+    "wof:lastmodified":1466322364,
     "wof:name":"The Learning Center Of Little Rock Inc",
     "wof:parent_id":85817531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "kindergarten"
     ]
 },
-  "bbox": [-92.498488,34.610685,-92.498488,34.610685],
-  "geometry": {"coordinates":[-92.498488,34.610685],"type":"Point"}
+  "bbox": [
+    -92.498488,
+    34.610685,
+    -92.498488,
+    34.610685
+],
+  "geometry": {"coordinates":[-92.49848799999999,34.610685],"type":"Point"}
 }

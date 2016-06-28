@@ -2,13 +2,14 @@
   "id": 404030689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.054856,35.140953,-90.054856,35.140953",
     "geom:latitude":35.140953,
     "geom:longitude":-90.054856,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Peabody Pl",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404030689,
-    "wof:lastmodified":1449039471,
+    "wof:lastmodified":1466324520,
     "wof:name":"Thompson Baker & Berry",
     "wof:parent_id":85867183,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "counselor"
     ]
 },
-  "bbox": [-90.054856,35.140953,-90.054856,35.140953],
+  "bbox": [
+    -90.054856,
+    35.140953,
+    -90.054856,
+    35.140953
+],
   "geometry": {"coordinates":[-90.054856,35.140953],"type":"Point"}
 }

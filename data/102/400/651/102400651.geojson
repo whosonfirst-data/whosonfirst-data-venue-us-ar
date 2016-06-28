@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102400651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.707546,34.252747,-93.707546,34.252747",
     "geom:latitude":34.252747,
     "geom:longitude":-93.707546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"179 Bar 2 Rd",
     "sg:city":"Kirby",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":102400651,
-    "wof:lastmodified":1449068027,
+    "wof:lastmodified":1466324861,
     "wof:name":"Jeff & Penny R White",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.707546,34.252747,-93.707546,34.252747],
-  "geometry": {"coordinates":[-93.707546,34.252747],"type":"Point"}
+  "bbox": [
+    -93.707546,
+    34.252747,
+    -93.707546,
+    34.252747
+],
+  "geometry": {"coordinates":[-93.70754599999999,34.252747],"type":"Point"}
 }

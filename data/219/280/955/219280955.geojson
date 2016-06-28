@@ -2,13 +2,14 @@
   "id": 219280955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.09494,34.118463,-93.09494,34.118463",
     "geom:latitude":34.118463,
     "geom:longitude":-93.09494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 Wp Malone Dr Ste F",
     "sg:city":"Arkadelphia",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":219280955,
-    "wof:lastmodified":1449072119,
+    "wof:lastmodified":1466321575,
     "wof:name":"H&R Block",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "bookkeeping"
     ]
 },
-  "bbox": [-93.09494,34.118463,-93.09494,34.118463],
-  "geometry": {"coordinates":[-93.09494,34.118463],"type":"Point"}
+  "bbox": [
+    -93.09494,
+    34.118463,
+    -93.09494,
+    34.118463
+],
+  "geometry": {"coordinates":[-93.09493999999999,34.118463],"type":"Point"}
 }

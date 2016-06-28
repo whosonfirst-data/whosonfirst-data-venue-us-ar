@@ -2,13 +2,14 @@
   "id": 220020023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.18898,36.179741,-94.18898,36.179741",
     "geom:latitude":36.179741,
     "geom:longitude":-94.18898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5301 Bleaux Ave Ste A",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220020023,
-    "wof:lastmodified":1449074397,
+    "wof:lastmodified":1466324437,
     "wof:name":"Motion Industries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "industrial"
     ]
 },
-  "bbox": [-94.18898,36.179741,-94.18898,36.179741],
+  "bbox": [
+    -94.18898,
+    36.179741,
+    -94.18898,
+    36.179741
+],
   "geometry": {"coordinates":[-94.18898,36.179741],"type":"Point"}
 }

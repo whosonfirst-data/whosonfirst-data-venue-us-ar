@@ -2,13 +2,14 @@
   "id": 219630161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.641286,35.818844,-90.641286,35.818844",
     "geom:latitude":35.818844,
     "geom:longitude":-90.641286,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2201 Industrial Dr",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219630161,
-    "wof:lastmodified":1449071653,
+    "wof:lastmodified":1466324840,
     "wof:name":"Motion Industries",
     "wof:parent_id":85836541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "industrial"
     ]
 },
-  "bbox": [-90.641286,35.818844,-90.641286,35.818844],
-  "geometry": {"coordinates":[-90.641286,35.818844],"type":"Point"}
+  "bbox": [
+    -90.641286,
+    35.818844,
+    -90.641286,
+    35.818844
+],
+  "geometry": {"coordinates":[-90.64128599999999,35.818844],"type":"Point"}
 }

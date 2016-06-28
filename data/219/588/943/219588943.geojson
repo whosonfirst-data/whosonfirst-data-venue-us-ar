@@ -2,13 +2,14 @@
   "id": 219588943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.661273,34.516852,-90.661273,34.516852",
     "geom:latitude":34.516852,
     "geom:longitude":-90.661273,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"92 Phillips 328",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219588943,
-    "wof:lastmodified":1449073237,
+    "wof:lastmodified":1466324571,
     "wof:name":"Mayville & Son Diesel Repair",
     "wof:parent_id":85834075,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truck"
     ]
 },
-  "bbox": [-90.661273,34.516852,-90.661273,34.516852],
-  "geometry": {"coordinates":[-90.661273,34.516852],"type":"Point"}
+  "bbox": [
+    -90.661273,
+    34.516852,
+    -90.661273,
+    34.516852
+],
+  "geometry": {"coordinates":[-90.66127299999999,34.516852],"type":"Point"}
 }

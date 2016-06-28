@@ -2,13 +2,14 @@
   "id": 220044769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.134087,36.18512,-94.134087,36.18512",
     "geom:latitude":36.18512,
     "geom:longitude":-94.134087,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 S Shiloh St",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220044769,
-    "wof:lastmodified":1449074455,
+    "wof:lastmodified":1466320575,
     "wof:name":"Dolores Beauty Salon",
     "wof:parent_id":85885481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "stylist"
     ]
 },
-  "bbox": [-94.134087,36.18512,-94.134087,36.18512],
-  "geometry": {"coordinates":[-94.134087,36.18512],"type":"Point"}
+  "bbox": [
+    -94.134087,
+    36.18512,
+    -94.134087,
+    36.18512
+],
+  "geometry": {"coordinates":[-94.13408699999999,36.18512],"type":"Point"}
 }

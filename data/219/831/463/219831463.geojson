@@ -2,13 +2,14 @@
   "id": 219831463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.167418,36.066505,-94.167418,36.066505",
     "geom:latitude":36.066505,
     "geom:longitude":-94.167418,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"628 W Dickson St",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219831463,
-    "wof:lastmodified":1449072455,
+    "wof:lastmodified":1466325063,
     "wof:name":"Monroe Boutique",
     "wof:parent_id":85885451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "boutique"
     ]
 },
-  "bbox": [-94.167418,36.066505,-94.167418,36.066505],
+  "bbox": [
+    -94.167418,
+    36.066505,
+    -94.167418,
+    36.066505
+],
   "geometry": {"coordinates":[-94.167418,36.066505],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219466711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.817321,34.378969,-92.817321,34.378969",
     "geom:latitude":34.378969,
     "geom:longitude":-92.817321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1215 Industrial Ln",
     "sg:city":"Malvern",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219466711,
-    "wof:lastmodified":1449071458,
+    "wof:lastmodified":1466323522,
     "wof:name":"Sterling Plumbing Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractors-commercial"
     ]
 },
-  "bbox": [-92.817321,34.378969,-92.817321,34.378969],
-  "geometry": {"coordinates":[-92.817321,34.378969],"type":"Point"}
+  "bbox": [
+    -92.817321,
+    34.378969,
+    -92.817321,
+    34.378969
+],
+  "geometry": {"coordinates":[-92.81732100000001,34.378969],"type":"Point"}
 }

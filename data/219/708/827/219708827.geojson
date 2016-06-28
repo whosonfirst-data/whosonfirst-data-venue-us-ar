@@ -2,13 +2,14 @@
   "id": 219708827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.970673,36.26123,-90.970673,36.26123",
     "geom:latitude":36.26123,
     "geom:longitude":-90.970673,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 E Broadway St Ste A",
     "sg:city":"Pocahontas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219708827,
-    "wof:lastmodified":1449070945,
+    "wof:lastmodified":1466324873,
     "wof:name":"County Of Randolph",
     "wof:parent_id":85816685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "government-county"
     ]
 },
-  "bbox": [-90.970673,36.26123,-90.970673,36.26123],
-  "geometry": {"coordinates":[-90.970673,36.26123],"type":"Point"}
+  "bbox": [
+    -90.970673,
+    36.26123,
+    -90.970673,
+    36.26123
+],
+  "geometry": {"coordinates":[-90.97067300000001,36.26123],"type":"Point"}
 }

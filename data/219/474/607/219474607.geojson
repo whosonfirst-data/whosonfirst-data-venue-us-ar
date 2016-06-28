@@ -2,13 +2,14 @@
   "id": 219474607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.281731,35.606049,-91.281731,35.606049",
     "geom:latitude":35.606049,
     "geom:longitude":-91.281731,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Hazel St",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219474607,
-    "wof:lastmodified":1449070519,
+    "wof:lastmodified":1466323632,
     "wof:name":"Chamber of Commerce",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commerce"
     ]
 },
-  "bbox": [-91.281731,35.606049,-91.281731,35.606049],
-  "geometry": {"coordinates":[-91.281731,35.606049],"type":"Point"}
+  "bbox": [
+    -91.281731,
+    35.606049,
+    -91.281731,
+    35.606049
+],
+  "geometry": {"coordinates":[-91.28173099999999,35.606049],"type":"Point"}
 }

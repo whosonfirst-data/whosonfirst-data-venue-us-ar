@@ -2,13 +2,14 @@
   "id": 220096365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.222442,35.434088,-94.222442,35.434088",
     "geom:latitude":35.434088,
     "geom:longitude":-94.222442,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 N Kibler Hwy",
     "sg:city":"Alma",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":220096365,
-    "wof:lastmodified":1449074277,
+    "wof:lastmodified":1466322097,
     "wof:name":"Starving Pilgrim Productions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mover"
     ]
 },
-  "bbox": [-94.222442,35.434088,-94.222442,35.434088],
+  "bbox": [
+    -94.222442,
+    35.434088,
+    -94.222442,
+    35.434088
+],
   "geometry": {"coordinates":[-94.222442,35.434088],"type":"Point"}
 }

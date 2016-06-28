@@ -2,13 +2,14 @@
   "id": 219424269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.439018,35.162215,-92.439018,35.162215",
     "geom:latitude":35.162215,
     "geom:longitude":-92.439018,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Dedication Dr",
     "sg:city":"Greenbrier",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219424269,
-    "wof:lastmodified":1449073691,
+    "wof:lastmodified":1466323053,
     "wof:name":"Scribner Therapy Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "therapist"
     ]
 },
-  "bbox": [-92.439018,35.162215,-92.439018,35.162215],
+  "bbox": [
+    -92.439018,
+    35.162215,
+    -92.439018,
+    35.162215
+],
   "geometry": {"coordinates":[-92.439018,35.162215],"type":"Point"}
 }

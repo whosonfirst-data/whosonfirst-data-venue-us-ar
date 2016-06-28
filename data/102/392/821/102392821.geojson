@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102392821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.622501,35.756524,-91.622501,35.756524",
     "geom:latitude":35.756524,
     "geom:longitude":-91.622501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Pioneer Dr",
     "sg:city":"Batesville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85808231,
+        85688549,
         85633793,
         85920683,
         102083875,
-        85688549
+        85808231
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102392821,
-    "wof:lastmodified":1449069710,
+    "wof:lastmodified":1466324659,
     "wof:name":"Batesville Junior High School",
     "wof:parent_id":85808231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.622501,35.756524,-91.622501,35.756524],
+  "bbox": [
+    -91.622501,
+    35.756524,
+    -91.622501,
+    35.756524
+],
   "geometry": {"coordinates":[-91.622501,35.756524],"type":"Point"}
 }

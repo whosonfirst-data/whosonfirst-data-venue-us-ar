@@ -2,13 +2,14 @@
   "id": 219676849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.624379,36.0185,-90.624379,36.0185",
     "geom:latitude":36.0185,
     "geom:longitude":-90.624379,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 Greene Road 767",
     "sg:city":"Paragould",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":219676849,
-    "wof:lastmodified":1449072644,
+    "wof:lastmodified":1466324889,
     "wof:name":"Perry Denham",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-90.624379,36.0185,-90.624379,36.0185],
+  "bbox": [
+    -90.624379,
+    36.0185,
+    -90.624379,
+    36.0185
+],
   "geometry": {"coordinates":[-90.624379,36.0185],"type":"Point"}
 }

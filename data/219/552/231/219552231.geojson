@@ -2,13 +2,14 @@
   "id": 219552231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.547367,34.479282,-91.547367,34.479282",
     "geom:latitude":34.479282,
     "geom:longitude":-91.547367,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"620 E 22nd St Ste 206",
     "sg:city":"Stuttgart",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219552231,
-    "wof:lastmodified":1449071862,
+    "wof:lastmodified":1466324351,
     "wof:name":"Five Oaks Wildlife Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "bureau"
     ]
 },
-  "bbox": [-91.547367,34.479282,-91.547367,34.479282],
-  "geometry": {"coordinates":[-91.547367,34.479282],"type":"Point"}
+  "bbox": [
+    -91.547367,
+    34.479282,
+    -91.547367,
+    34.479282
+],
+  "geometry": {"coordinates":[-91.54736699999999,34.479282],"type":"Point"}
 }

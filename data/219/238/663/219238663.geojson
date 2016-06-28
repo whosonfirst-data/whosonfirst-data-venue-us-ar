@@ -2,13 +2,14 @@
   "id": 219238663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.470796,33.667355,-94.470796,33.667355",
     "geom:latitude":33.667355,
     "geom:longitude":-94.470796,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4457 Highway 108 W",
     "sg:city":"Foreman",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219238663,
-    "wof:lastmodified":1449071712,
+    "wof:lastmodified":1466321245,
     "wof:name":"Foreman Plant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-94.470796,33.667355,-94.470796,33.667355],
-  "geometry": {"coordinates":[-94.470796,33.667355],"type":"Point"}
+  "bbox": [
+    -94.470796,
+    33.667355,
+    -94.470796,
+    33.667355
+],
+  "geometry": {"coordinates":[-94.47079600000001,33.667355],"type":"Point"}
 }

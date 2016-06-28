@@ -2,13 +2,14 @@
   "id": 219506747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.062935,34.643871,-92.062935,34.643871",
     "geom:latitude":34.643871,
     "geom:longitude":-92.062935,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Toltec Mounds Rd",
     "sg:city":"Scott",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219506747,
-    "wof:lastmodified":1449070444,
+    "wof:lastmodified":1466324003,
     "wof:name":"Toltec Mounds Archeological State Park",
     "wof:parent_id":85811577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "government-state"
     ]
 },
-  "bbox": [-92.062935,34.643871,-92.062935,34.643871],
+  "bbox": [
+    -92.062935,
+    34.643871,
+    -92.062935,
+    34.643871
+],
   "geometry": {"coordinates":[-92.062935,34.643871],"type":"Point"}
 }

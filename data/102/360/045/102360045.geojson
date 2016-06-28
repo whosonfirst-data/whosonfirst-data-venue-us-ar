@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102360045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.347968,36.357026,-92.347968,36.357026",
     "geom:latitude":36.357026,
     "geom:longitude":-92.347968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1817 Hwy 62 E",
     "sg:city":"Mountain Home",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":102360045,
-    "wof:lastmodified":1449069644,
+    "wof:lastmodified":1466324161,
     "wof:name":"Still Stylin' Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.347968,36.357026,-92.347968,36.357026],
-  "geometry": {"coordinates":[-92.347968,36.357026],"type":"Point"}
+  "bbox": [
+    -92.347968,
+    36.357026,
+    -92.347968,
+    36.357026
+],
+  "geometry": {"coordinates":[-92.34796799999999,36.357026],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219869363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.180654,36.099103,-94.180654,36.099103",
     "geom:latitude":36.099103,
     "geom:longitude":-94.180654,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2733 N Mcconnell Ave Suite 9",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -84,10 +85,11 @@
         }
     ],
     "wof:id":219869363,
-    "wof:lastmodified":1449073634,
+    "wof:lastmodified":1466325144,
     "wof:name":"Signs Now",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -102,6 +104,11 @@
         "painting"
     ]
 },
-  "bbox": [-94.180654,36.099103,-94.180654,36.099103],
+  "bbox": [
+    -94.180654,
+    36.099103,
+    -94.180654,
+    36.099103
+],
   "geometry": {"coordinates":[-94.180654,36.099103],"type":"Point"}
 }

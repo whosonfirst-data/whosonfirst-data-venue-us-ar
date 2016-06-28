@@ -2,13 +2,14 @@
   "id": 303767177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.532261,36.177489,-94.532261,36.177489",
     "geom:latitude":36.177489,
     "geom:longitude":-94.532261,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1017 E Tulsa St",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303767177,
-    "wof:lastmodified":1448998812,
+    "wof:lastmodified":1466320589,
     "wof:name":"Siloam Springs Head Start",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "school"
     ]
 },
-  "bbox": [-94.532261,36.177489,-94.532261,36.177489],
-  "geometry": {"coordinates":[-94.532261,36.177489],"type":"Point"}
+  "bbox": [
+    -94.532261,
+    36.177489,
+    -94.532261,
+    36.177489
+],
+  "geometry": {"coordinates":[-94.53226100000001,36.177489],"type":"Point"}
 }

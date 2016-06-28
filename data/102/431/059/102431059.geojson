@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102431059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.05303,34.538746,-93.05303,34.538746",
     "geom:latitude":34.538746,
     "geom:longitude":-93.05303,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"132 Clubb St",
     "sg:city":"Hot Springs",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102431059,
-    "wof:lastmodified":1449068129,
+    "wof:lastmodified":1466325598,
     "wof:name":"Beasley Brothers Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.05303,34.538746,-93.05303,34.538746],
-  "geometry": {"coordinates":[-93.05303,34.538746],"type":"Point"}
+  "bbox": [
+    -93.05303,
+    34.538746,
+    -93.05303,
+    34.538746
+],
+  "geometry": {"coordinates":[-93.05303000000001,34.538746],"type":"Point"}
 }

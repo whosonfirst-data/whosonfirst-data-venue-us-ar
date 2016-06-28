@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102247915",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.888788,36.058554,-91.888788,36.058554",
     "geom:latitude":36.058554,
     "geom:longitude":-91.888788,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"912 Main St",
     "sg:city":"Melbourne",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102247915",
-    "wof:lastmodified":1449069158,
+    "wof:lastmodified":1466321910,
     "wof:name":"Truck Country",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.888788,36.058554,-91.888788,36.058554],
-  "geometry": {"coordinates":[-91.888788,36.058554],"type":"Point"}
+  "bbox": [
+    -91.888788,
+    36.058554,
+    -91.888788,
+    36.058554
+],
+  "geometry": {"coordinates":[-91.88878800000001,36.058554],"type":"Point"}
 }

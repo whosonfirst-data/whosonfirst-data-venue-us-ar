@@ -2,13 +2,14 @@
   "id": 219224293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.588242,33.65382,-93.588242,33.65382",
     "geom:latitude":33.65382,
     "geom:longitude":-93.588242,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 S Elm St",
     "sg:city":"Hope",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219224293,
-    "wof:lastmodified":1449072979,
+    "wof:lastmodified":1466321085,
     "wof:name":"Radio Station K T P A",
     "wof:parent_id":85806015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "broadcast"
     ]
 },
-  "bbox": [-93.588242,33.65382,-93.588242,33.65382],
-  "geometry": {"coordinates":[-93.588242,33.65382],"type":"Point"}
+  "bbox": [
+    -93.588242,
+    33.65382,
+    -93.588242,
+    33.65382
+],
+  "geometry": {"coordinates":[-93.58824199999999,33.65382],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220131503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.064432,34.898318,-94.064432,34.898318",
     "geom:latitude":34.898318,
     "geom:longitude":-94.064432,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"694 Ammons St",
     "sg:city":"Waldron",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":220131503,
-    "wof:lastmodified":1449074260,
+    "wof:lastmodified":1466322831,
     "wof:name":"Comfort Cuts By Linda Lea",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.064432,34.898318,-94.064432,34.898318],
+  "bbox": [
+    -94.064432,
+    34.898318,
+    -94.064432,
+    34.898318
+],
   "geometry": {"coordinates":[-94.064432,34.898318],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219302927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.280221,34.559716,-94.280221,34.559716",
     "geom:latitude":34.559716,
     "geom:longitude":-94.280221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2611 Highway 71 S",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":219302927,
-    "wof:lastmodified":1449071593,
+    "wof:lastmodified":1466321755,
     "wof:name":"Select Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.280221,34.559716,-94.280221,34.559716],
+  "bbox": [
+    -94.280221,
+    34.559716,
+    -94.280221,
+    34.559716
+],
   "geometry": {"coordinates":[-94.280221,34.559716],"type":"Point"}
 }

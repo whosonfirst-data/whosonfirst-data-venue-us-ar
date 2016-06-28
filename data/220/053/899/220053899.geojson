@@ -2,13 +2,14 @@
   "id": 220053899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.136902,36.190399,-94.136902,36.190399",
     "geom:latitude":36.190399,
     "geom:longitude":-94.136902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"605 Harris St",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":220053899,
-    "wof:lastmodified":1449074193,
+    "wof:lastmodified":1466320785,
     "wof:name":"Dean Elect Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-94.136902,36.190399,-94.136902,36.190399],
-  "geometry": {"coordinates":[-94.136902,36.190399],"type":"Point"}
+  "bbox": [
+    -94.136902,
+    36.190399,
+    -94.136902,
+    36.190399
+],
+  "geometry": {"coordinates":[-94.13690200000001,36.190399],"type":"Point"}
 }

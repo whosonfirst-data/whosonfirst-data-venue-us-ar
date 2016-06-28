@@ -2,13 +2,14 @@
   "id": 219259877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.00996,33.440635,-94.00996,33.440635",
     "geom:latitude":33.440635,
     "geom:longitude":-94.00996,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3100 E 19th St",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":219259877,
-    "wof:lastmodified":1449071197,
+    "wof:lastmodified":1466321405,
     "wof:name":"Con-Way Freight Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "trucking"
     ]
 },
-  "bbox": [-94.00996,33.440635,-94.00996,33.440635],
-  "geometry": {"coordinates":[-94.00996,33.440635],"type":"Point"}
+  "bbox": [
+    -94.00996,
+    33.440635,
+    -94.00996,
+    33.440635
+],
+  "geometry": {"coordinates":[-94.00996000000001,33.440635],"type":"Point"}
 }

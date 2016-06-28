@@ -2,13 +2,14 @@
   "id": 219541915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.403372,34.301643,-92.403372,34.301643",
     "geom:latitude":34.301643,
     "geom:longitude":-92.403372,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"41 Ridgeway Dr",
     "sg:city":"Sheridan",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219541915,
-    "wof:lastmodified":1449070782,
+    "wof:lastmodified":1466324270,
     "wof:name":"Landmark Missionary Baptist Ch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "churches-baptist"
     ]
 },
-  "bbox": [-92.403372,34.301643,-92.403372,34.301643],
+  "bbox": [
+    -92.403372,
+    34.301643,
+    -92.403372,
+    34.301643
+],
   "geometry": {"coordinates":[-92.403372,34.301643],"type":"Point"}
 }

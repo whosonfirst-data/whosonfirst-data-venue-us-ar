@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102265365",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.171488,36.148584,-94.171488,36.148584",
     "geom:latitude":36.148584,
     "geom:longitude":-94.171488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3947 Savannah Ln",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885471,
+        85688549,
         85633793,
         85919595,
         102082007,
-        85688549
+        85885471
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102265365",
-    "wof:lastmodified":1449068610,
+    "wof:lastmodified":1466322217,
     "wof:name":"Bear Lake Enterprises Inc",
     "wof:parent_id":85885471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.171488,36.148584,-94.171488,36.148584],
+  "bbox": [
+    -94.171488,
+    36.148584,
+    -94.171488,
+    36.148584
+],
   "geometry": {"coordinates":[-94.171488,36.148584],"type":"Point"}
 }

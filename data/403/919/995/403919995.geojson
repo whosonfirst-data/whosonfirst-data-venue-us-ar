@@ -2,13 +2,14 @@
   "id": 403919995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.052237,35.140437,-90.052237,35.140437",
     "geom:latitude":35.140437,
     "geom:longitude":-90.052237,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 Peabody Pl",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403919995,
-    "wof:lastmodified":1449055641,
+    "wof:lastmodified":1466320413,
     "wof:name":"Texas De Brazil Memphis Corp",
     "wof:parent_id":85867183,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-90.052237,35.140437,-90.052237,35.140437],
-  "geometry": {"coordinates":[-90.052237,35.140437],"type":"Point"}
+  "bbox": [
+    -90.052237,
+    35.140437,
+    -90.052237,
+    35.140437
+],
+  "geometry": {"coordinates":[-90.05223700000001,35.140437],"type":"Point"}
 }

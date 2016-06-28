@@ -2,13 +2,14 @@
   "id": 235944361,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.773815,36.564415,-94.773815,36.564415",
     "geom:latitude":36.564415,
     "geom:longitude":-94.773815,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11601 Highway 59 N",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":235944361,
-    "wof:lastmodified":1449008421,
+    "wof:lastmodified":1466320416,
     "wof:name":"Ballerina Pier 59 Park Home Community Resort & Marina",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "park"
     ]
 },
-  "bbox": [-94.773815,36.564415,-94.773815,36.564415],
+  "bbox": [
+    -94.773815,
+    36.564415,
+    -94.773815,
+    36.564415
+],
   "geometry": {"coordinates":[-94.773815,36.564415],"type":"Point"}
 }

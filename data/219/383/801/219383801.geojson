@@ -2,13 +2,14 @@
   "id": 219383801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.338956,35.111244,-92.338956,35.111244",
     "geom:latitude":35.111244,
     "geom:longitude":-92.338956,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"189 Sunny Gap Rd",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219383801,
-    "wof:lastmodified":1449071880,
+    "wof:lastmodified":1466322707,
     "wof:name":"Cullum Chainsaw Sharpening & Small Engine Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "exchange"
     ]
 },
-  "bbox": [-92.338956,35.111244,-92.338956,35.111244],
+  "bbox": [
+    -92.338956,
+    35.111244,
+    -92.338956,
+    35.111244
+],
   "geometry": {"coordinates":[-92.338956,35.111244],"type":"Point"}
 }

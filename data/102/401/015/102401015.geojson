@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102401015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.822739,36.371651,-91.822739,36.371651",
     "geom:latitude":36.371651,
     "geom:longitude":-91.822739,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 N Main St",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102401015,
-    "wof:lastmodified":1449069808,
+    "wof:lastmodified":1466324659,
     "wof:name":"Salem Water & Sewer Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.822739,36.371651,-91.822739,36.371651],
+  "bbox": [
+    -91.822739,
+    36.371651,
+    -91.822739,
+    36.371651
+],
   "geometry": {"coordinates":[-91.822739,36.371651],"type":"Point"}
 }

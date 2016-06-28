@@ -2,13 +2,14 @@
   "id": 219835883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.117608,36.086328,-94.117608,36.086328",
     "geom:latitude":36.086328,
     "geom:longitude":-94.117608,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1898 N Hunters Rdg",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219835883,
-    "wof:lastmodified":1449070902,
+    "wof:lastmodified":1466325007,
     "wof:name":"Gray Jesse DDS, MS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentists-orthodontists"
     ]
 },
-  "bbox": [-94.117608,36.086328,-94.117608,36.086328],
+  "bbox": [
+    -94.117608,
+    36.086328,
+    -94.117608,
+    36.086328
+],
   "geometry": {"coordinates":[-94.117608,36.086328],"type":"Point"}
 }

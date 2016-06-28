@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102394735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.153197,36.06797,-94.153197,36.06797",
     "geom:latitude":36.06797,
     "geom:longitude":-94.153197,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"345 N Walnut Ave",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885459,
+        85688549,
         85633793,
         85919609,
         102082007,
-        85688549
+        85885459
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102394735,
-    "wof:lastmodified":1449068273,
+    "wof:lastmodified":1466324538,
     "wof:name":"Cap Media",
     "wof:parent_id":85885459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.153197,36.06797,-94.153197,36.06797],
-  "geometry": {"coordinates":[-94.153197,36.06797],"type":"Point"}
+  "bbox": [
+    -94.153197,
+    36.06797,
+    -94.153197,
+    36.06797
+],
+  "geometry": {"coordinates":[-94.15319700000001,36.06797],"type":"Point"}
 }

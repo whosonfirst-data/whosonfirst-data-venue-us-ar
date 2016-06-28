@@ -2,13 +2,14 @@
   "id": 219937223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.414147,35.951492,-94.414147,35.951492",
     "geom:latitude":35.951492,
     "geom:longitude":-94.414147,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"810 E North St",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219937223,
-    "wof:lastmodified":1449071057,
+    "wof:lastmodified":1466325168,
     "wof:name":"Orcutt John",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-94.414147,35.951492,-94.414147,35.951492],
+  "bbox": [
+    -94.414147,
+    35.951492,
+    -94.414147,
+    35.951492
+],
   "geometry": {"coordinates":[-94.414147,35.951492],"type":"Point"}
 }

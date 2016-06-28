@@ -2,13 +2,14 @@
   "id": 219880221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.197094,36.356709,-94.197094,36.356709",
     "geom:latitude":36.356709,
     "geom:longitude":-94.197094,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1003 SE 14th St Ste 9",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219880221,
-    "wof:lastmodified":1449073954,
+    "wof:lastmodified":1466325065,
     "wof:name":"First Realtors of Bentonville",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.197094,36.356709,-94.197094,36.356709],
-  "geometry": {"coordinates":[-94.197094,36.356709],"type":"Point"}
+  "bbox": [
+    -94.197094,
+    36.356709,
+    -94.197094,
+    36.356709
+],
+  "geometry": {"coordinates":[-94.19709400000001,36.356709],"type":"Point"}
 }

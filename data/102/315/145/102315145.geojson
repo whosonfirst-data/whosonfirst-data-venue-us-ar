@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102315145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.409016,34.436002,-94.409016,34.436002",
     "geom:latitude":34.436002,
     "geom:longitude":-94.409016,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 N Middle St",
     "sg:city":"Cove",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102315145,
-    "wof:lastmodified":1449070077,
+    "wof:lastmodified":1466323314,
     "wof:name":"First Baptist Church Cove",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.409016,34.436002,-94.409016,34.436002],
-  "geometry": {"coordinates":[-94.409016,34.436002],"type":"Point"}
+  "bbox": [
+    -94.409016,
+    34.436002,
+    -94.409016,
+    34.436002
+],
+  "geometry": {"coordinates":[-94.40901599999999,34.436002],"type":"Point"}
 }

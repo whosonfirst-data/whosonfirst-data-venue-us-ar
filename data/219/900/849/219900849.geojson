@@ -2,13 +2,14 @@
   "id": 219900849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.173741,36.383508,-94.173741,36.383508",
     "geom:latitude":36.383508,
     "geom:longitude":-94.173741,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3209 NE 11th St",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219900849,
-    "wof:lastmodified":1449071909,
+    "wof:lastmodified":1466325101,
     "wof:name":"House of Brews",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "brew"
     ]
 },
-  "bbox": [-94.173741,36.383508,-94.173741,36.383508],
-  "geometry": {"coordinates":[-94.173741,36.383508],"type":"Point"}
+  "bbox": [
+    -94.173741,
+    36.383508,
+    -94.173741,
+    36.383508
+],
+  "geometry": {"coordinates":[-94.17374100000001,36.383508],"type":"Point"}
 }

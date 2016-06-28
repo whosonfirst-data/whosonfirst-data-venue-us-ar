@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102368811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.057628,36.202057,-94.057628,36.202057",
     "geom:latitude":36.202057,
     "geom:longitude":-94.057628,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22541 E Monitor Rd",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102368811,
-    "wof:lastmodified":1449068346,
+    "wof:lastmodified":1466324477,
     "wof:name":"Richard & Sons Small Engine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.057628,36.202057,-94.057628,36.202057],
-  "geometry": {"coordinates":[-94.057628,36.202057],"type":"Point"}
+  "bbox": [
+    -94.057628,
+    36.202057,
+    -94.057628,
+    36.202057
+],
+  "geometry": {"coordinates":[-94.05762799999999,36.202057],"type":"Point"}
 }

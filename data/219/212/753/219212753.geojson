@@ -2,13 +2,14 @@
   "id": 219212753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.053568,33.263481,-93.053568,33.263481",
     "geom:latitude":33.263481,
     "geom:longitude":-93.053568,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6091 Columbia Road 36",
     "sg:city":"Magnolia",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219212753,
-    "wof:lastmodified":1449072666,
+    "wof:lastmodified":1466320983,
     "wof:name":"B & C Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-93.053568,33.263481,-93.053568,33.263481],
+  "bbox": [
+    -93.053568,
+    33.263481,
+    -93.053568,
+    33.263481
+],
   "geometry": {"coordinates":[-93.053568,33.263481],"type":"Point"}
 }

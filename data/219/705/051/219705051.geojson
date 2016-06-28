@@ -2,13 +2,14 @@
   "id": 219705051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.192139,36.381748,-90.192139,36.381748",
     "geom:latitude":36.381748,
     "geom:longitude":-90.192139,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"198 S 2nd Ave",
     "sg:city":"Piggott",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219705051,
-    "wof:lastmodified":1449073942,
+    "wof:lastmodified":1466324935,
     "wof:name":"Silas Pest Control",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.192139,36.381748,-90.192139,36.381748],
+  "bbox": [
+    -90.192139,
+    36.381748,
+    -90.192139,
+    36.381748
+],
   "geometry": {"coordinates":[-90.192139,36.381748],"type":"Point"}
 }

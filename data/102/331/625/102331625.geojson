@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102331625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.437779,35.087105,-92.437779,35.087105",
     "geom:latitude":35.087105,
     "geom:longitude":-92.437779,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"572 Chestnut St",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102331625,
-    "wof:lastmodified":1449069213,
+    "wof:lastmodified":1466323679,
     "wof:name":"Pictures Et Cetera",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.437779,35.087105,-92.437779,35.087105],
-  "geometry": {"coordinates":[-92.437779,35.087105],"type":"Point"}
+  "bbox": [
+    -92.437779,
+    35.087105,
+    -92.437779,
+    35.087105
+],
+  "geometry": {"coordinates":[-92.43777900000001,35.087105],"type":"Point"}
 }

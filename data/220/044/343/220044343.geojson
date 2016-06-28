@@ -2,13 +2,14 @@
   "id": 220044343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.138931,36.177132,-94.138931,36.177132",
     "geom:latitude":36.177132,
     "geom:longitude":-94.138931,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"806 S Thompson St Ste B",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -75,10 +76,11 @@
         }
     ],
     "wof:id":220044343,
-    "wof:lastmodified":1449074456,
+    "wof:lastmodified":1466320569,
     "wof:name":"Emerson Monument Co Inc",
     "wof:parent_id":85885485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -88,6 +90,11 @@
         "supply"
     ]
 },
-  "bbox": [-94.138931,36.177132,-94.138931,36.177132],
+  "bbox": [
+    -94.138931,
+    36.177132,
+    -94.138931,
+    36.177132
+],
   "geometry": {"coordinates":[-94.138931,36.177132],"type":"Point"}
 }

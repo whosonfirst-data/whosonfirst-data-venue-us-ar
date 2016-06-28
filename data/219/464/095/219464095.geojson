@@ -2,13 +2,14 @@
   "id": 219464095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.799323,34.361672,-92.799323,34.361672",
     "geom:latitude":34.361672,
     "geom:longitude":-92.799323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1105 Pine Bluff St",
     "sg:city":"Malvern",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219464095,
-    "wof:lastmodified":1449071353,
+    "wof:lastmodified":1466323500,
     "wof:name":"Brewster Christopher",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-92.799323,34.361672,-92.799323,34.361672],
+  "bbox": [
+    -92.799323,
+    34.361672,
+    -92.799323,
+    34.361672
+],
   "geometry": {"coordinates":[-92.799323,34.361672],"type":"Point"}
 }

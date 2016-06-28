@@ -2,13 +2,14 @@
   "id": 220110511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.232333,35.210548,-94.232333,35.210548",
     "geom:latitude":35.210548,
     "geom:longitude":-94.232333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1718 Plumbark Dr",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220110511,
-    "wof:lastmodified":1449074282,
+    "wof:lastmodified":1466322395,
     "wof:name":"Partin Equipment Co Inc",
     "wof:parent_id":85832863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "industrial"
     ]
 },
-  "bbox": [-94.232333,35.210548,-94.232333,35.210548],
+  "bbox": [
+    -94.232333,
+    35.210548,
+    -94.232333,
+    35.210548
+],
   "geometry": {"coordinates":[-94.232333,35.210548],"type":"Point"}
 }

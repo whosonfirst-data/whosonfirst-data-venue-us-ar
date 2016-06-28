@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102315021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.056776,34.505203,-93.056776,34.505203",
     "geom:latitude":34.505203,
     "geom:longitude":-93.056776,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"128 Woodbine St",
     "sg:city":"Hot Springs",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102315021,
-    "wof:lastmodified":1449070077,
+    "wof:lastmodified":1466323288,
     "wof:name":"Postell Enterprise",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.056776,34.505203,-93.056776,34.505203],
+  "bbox": [
+    -93.056776,
+    34.505203,
+    -93.056776,
+    34.505203
+],
   "geometry": {"coordinates":[-93.056776,34.505203],"type":"Point"}
 }

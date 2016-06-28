@@ -2,13 +2,14 @@
   "id": 219502015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.217613,35.382,-92.217613,35.382",
     "geom:latitude":35.382,
     "geom:longitude":-92.217613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 2nd St",
     "sg:city":"Quitman",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":219502015,
-    "wof:lastmodified":1449072013,
+    "wof:lastmodified":1466323959,
     "wof:name":"City Of Quitman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "village"
     ]
 },
-  "bbox": [-92.217613,35.382,-92.217613,35.382],
+  "bbox": [
+    -92.217613,
+    35.382,
+    -92.217613,
+    35.382
+],
   "geometry": {"coordinates":[-92.217613,35.382],"type":"Point"}
 }

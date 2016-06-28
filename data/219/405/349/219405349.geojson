@@ -2,13 +2,14 @@
   "id": 219405349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.492119,35.06833,-92.492119,35.06833",
     "geom:latitude":35.06833,
     "geom:longitude":-92.492119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 Mcnutt Rd",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219405349,
-    "wof:lastmodified":1449073626,
+    "wof:lastmodified":1466322893,
     "wof:name":"Service Master Action Building Maintenance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "cleaners-interior"
     ]
 },
-  "bbox": [-92.492119,35.06833,-92.492119,35.06833],
+  "bbox": [
+    -92.492119,
+    35.06833,
+    -92.492119,
+    35.06833
+],
   "geometry": {"coordinates":[-92.492119,35.06833],"type":"Point"}
 }

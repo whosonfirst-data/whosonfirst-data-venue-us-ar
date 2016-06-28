@@ -2,13 +2,14 @@
   "id": 219929397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.867621,36.127781,-93.867621,36.127781",
     "geom:latitude":36.127781,
     "geom:longitude":-93.867621,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2870 Madison 7325",
     "sg:city":"Hindsville",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219929397,
-    "wof:lastmodified":1449071739,
+    "wof:lastmodified":1466325154,
     "wof:name":"Kreb",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "broadcast"
     ]
 },
-  "bbox": [-93.867621,36.127781,-93.867621,36.127781],
+  "bbox": [
+    -93.867621,
+    36.127781,
+    -93.867621,
+    36.127781
+],
   "geometry": {"coordinates":[-93.867621,36.127781],"type":"Point"}
 }

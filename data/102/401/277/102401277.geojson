@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102401277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.396409,33.629139,-91.396409,33.629139",
     "geom:latitude":33.629139,
     "geom:longitude":-91.396409,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 W Oak St",
     "sg:city":"Mc Gehee",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102401277,
-    "wof:lastmodified":1449069810,
+    "wof:lastmodified":1466324710,
     "wof:name":"Desha County Health Unit",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.396409,33.629139,-91.396409,33.629139],
-  "geometry": {"coordinates":[-91.396409,33.629139],"type":"Point"}
+  "bbox": [
+    -91.396409,
+    33.629139,
+    -91.396409,
+    33.629139
+],
+  "geometry": {"coordinates":[-91.39640900000001,33.629139],"type":"Point"}
 }

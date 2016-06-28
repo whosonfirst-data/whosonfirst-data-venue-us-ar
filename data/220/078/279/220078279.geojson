@@ -2,13 +2,14 @@
   "id": 220078279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.457256,35.447657,-93.457256,35.447657",
     "geom:latitude":35.447657,
     "geom:longitude":-93.457256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1228 E Market St",
     "sg:city":"Clarksville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220078279,
-    "wof:lastmodified":1449074745,
+    "wof:lastmodified":1466321542,
     "wof:name":"Murphy Oil Usa, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.457256,35.447657,-93.457256,35.447657],
+  "bbox": [
+    -93.457256,
+    35.447657,
+    -93.457256,
+    35.447657
+],
   "geometry": {"coordinates":[-93.457256,35.447657],"type":"Point"}
 }

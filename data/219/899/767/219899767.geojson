@@ -2,13 +2,14 @@
   "id": 219899767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.18382,36.343115,-94.18382,36.343115",
     "geom:latitude":36.343115,
     "geom:longitude":-94.18382,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2707 SE Moberly Ln",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":219899767,
-    "wof:lastmodified":1449073732,
+    "wof:lastmodified":1466325193,
     "wof:name":"Buffalo Wild Wings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "wing"
     ]
 },
-  "bbox": [-94.18382,36.343115,-94.18382,36.343115],
+  "bbox": [
+    -94.18382,
+    36.343115,
+    -94.18382,
+    36.343115
+],
   "geometry": {"coordinates":[-94.18382,36.343115],"type":"Point"}
 }

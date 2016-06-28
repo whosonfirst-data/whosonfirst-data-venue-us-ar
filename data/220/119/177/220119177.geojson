@@ -2,13 +2,14 @@
   "id": 220119177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.170096,35.627531,-94.170096,35.627531",
     "geom:latitude":35.627531,
     "geom:longitude":-94.170096,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"702 Oak St",
     "sg:city":"Mountainburg",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":220119177,
-    "wof:lastmodified":1449074625,
+    "wof:lastmodified":1466322554,
     "wof:name":"Mountain Mex Cafe'",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "espresso"
     ]
 },
-  "bbox": [-94.170096,35.627531,-94.170096,35.627531],
+  "bbox": [
+    -94.170096,
+    35.627531,
+    -94.170096,
+    35.627531
+],
   "geometry": {"coordinates":[-94.170096,35.627531],"type":"Point"}
 }

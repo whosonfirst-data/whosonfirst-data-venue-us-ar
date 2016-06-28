@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102420131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.237265,33.256866,-93.237265,33.256866",
     "geom:latitude":33.256866,
     "geom:longitude":-93.237265,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"329 Legion Dr",
     "sg:city":"Magnolia",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102420131,
-    "wof:lastmodified":1449068923,
+    "wof:lastmodified":1466325272,
     "wof:name":"Storerooms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.237265,33.256866,-93.237265,33.256866],
-  "geometry": {"coordinates":[-93.237265,33.256866],"type":"Point"}
+  "bbox": [
+    -93.237265,
+    33.256866,
+    -93.237265,
+    33.256866
+],
+  "geometry": {"coordinates":[-93.23726499999999,33.256866],"type":"Point"}
 }

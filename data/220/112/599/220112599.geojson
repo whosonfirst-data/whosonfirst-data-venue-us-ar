@@ -2,13 +2,14 @@
   "id": 220112599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.31222,35.24853,-94.31222,35.24853",
     "geom:latitude":35.24853,
     "geom:longitude":-94.31222,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3405 Whittingslow Rd",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":220112599,
-    "wof:lastmodified":1449074387,
+    "wof:lastmodified":1466322457,
     "wof:name":"Jim Wolfe Entps U Car Dealers",
     "wof:parent_id":85808359,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "new"
     ]
 },
-  "bbox": [-94.31222,35.24853,-94.31222,35.24853],
+  "bbox": [
+    -94.31222,
+    35.24853,
+    -94.31222,
+    35.24853
+],
   "geometry": {"coordinates":[-94.31222,35.24853],"type":"Point"}
 }

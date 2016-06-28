@@ -2,13 +2,14 @@
   "id": 219983357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.053931,36.367241,-94.053931,36.367241",
     "geom:latitude":36.367241,
     "geom:longitude":-94.053931,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10311 Clancys Rd",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219983357,
-    "wof:lastmodified":1449073624,
+    "wof:lastmodified":1466325304,
     "wof:name":"Boat Dock Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "bureau"
     ]
 },
-  "bbox": [-94.053931,36.367241,-94.053931,36.367241],
-  "geometry": {"coordinates":[-94.053931,36.367241],"type":"Point"}
+  "bbox": [
+    -94.053931,
+    36.367241,
+    -94.053931,
+    36.367241
+],
+  "geometry": {"coordinates":[-94.05393100000001,36.367241],"type":"Point"}
 }

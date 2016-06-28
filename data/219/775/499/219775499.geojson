@@ -2,13 +2,14 @@
   "id": 219775499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.141228,36.267767,-93.141228,36.267767",
     "geom:latitude":36.267767,
     "geom:longitude":-93.141228,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Kenilworth St",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219775499,
-    "wof:lastmodified":1449073011,
+    "wof:lastmodified":1466324931,
     "wof:name":"Franks Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "trucking"
     ]
 },
-  "bbox": [-93.141228,36.267767,-93.141228,36.267767],
+  "bbox": [
+    -93.141228,
+    36.267767,
+    -93.141228,
+    36.267767
+],
   "geometry": {"coordinates":[-93.141228,36.267767],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337294887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.16376,36.189273,-94.16376,36.189273",
     "geom:latitude":36.189273,
     "geom:longitude":-94.16376,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2988 W Huntsville Ave",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":337294887,
-    "wof:lastmodified":1449027529,
+    "wof:lastmodified":1466322169,
     "wof:name":"Heritage Monuments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mausoleum"
     ]
 },
-  "bbox": [-94.16376,36.189273,-94.16376,36.189273],
+  "bbox": [
+    -94.16376,
+    36.189273,
+    -94.16376,
+    36.189273
+],
   "geometry": {"coordinates":[-94.16376,36.189273],"type":"Point"}
 }

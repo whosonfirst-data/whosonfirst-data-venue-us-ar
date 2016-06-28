@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102358509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.888737,35.341219,-91.888737,35.341219",
     "geom:latitude":35.341219,
     "geom:longitude":-91.888737,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 Pickens Chapel Rd",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":102358509,
-    "wof:lastmodified":1449068769,
+    "wof:lastmodified":1466324241,
     "wof:name":"Mid-South Forest Seed",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.888737,35.341219,-91.888737,35.341219],
-  "geometry": {"coordinates":[-91.888737,35.341219],"type":"Point"}
+  "bbox": [
+    -91.888737,
+    35.341219,
+    -91.888737,
+    35.341219
+],
+  "geometry": {"coordinates":[-91.88873700000001,35.341219],"type":"Point"}
 }

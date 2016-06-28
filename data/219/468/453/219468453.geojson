@@ -2,13 +2,14 @@
   "id": 219468453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.450036,34.913652,-92.450036,34.913652",
     "geom:latitude":34.913652,
     "geom:longitude":-92.450036,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 River Ter",
     "sg:city":"Mayflower",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219468453,
-    "wof:lastmodified":1449072931,
+    "wof:lastmodified":1466323535,
     "wof:name":"Ronnie Jones Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "business"
     ]
 },
-  "bbox": [-92.450036,34.913652,-92.450036,34.913652],
+  "bbox": [
+    -92.450036,
+    34.913652,
+    -92.450036,
+    34.913652
+],
   "geometry": {"coordinates":[-92.450036,34.913652],"type":"Point"}
 }

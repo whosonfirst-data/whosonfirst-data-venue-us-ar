@@ -2,13 +2,14 @@
   "id": 220086575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.006807,35.450705,-93.006807,35.450705",
     "geom:latitude":35.450705,
     "geom:longitude":-93.006807,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11442 Sr 27",
     "sg:city":"Hector",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220086575,
-    "wof:lastmodified":1449074593,
+    "wof:lastmodified":1466321804,
     "wof:name":"Digital Communications",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.006807,35.450705,-93.006807,35.450705],
-  "geometry": {"coordinates":[-93.006807,35.450705],"type":"Point"}
+  "bbox": [
+    -93.006807,
+    35.450705,
+    -93.006807,
+    35.450705
+],
+  "geometry": {"coordinates":[-93.00680699999999,35.450705],"type":"Point"}
 }

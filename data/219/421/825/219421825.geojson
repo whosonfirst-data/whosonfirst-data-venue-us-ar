@@ -2,13 +2,14 @@
   "id": 219421825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.388245,35.223337,-92.388245,35.223337",
     "geom:latitude":35.223337,
     "geom:longitude":-92.388245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"61 S Broadview St",
     "sg:city":"Greenbrier",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":219421825,
-    "wof:lastmodified":1449072622,
+    "wof:lastmodified":1466323034,
     "wof:name":"Pumps Foodmart 5",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "super"
     ]
 },
-  "bbox": [-92.388245,35.223337,-92.388245,35.223337],
+  "bbox": [
+    -92.388245,
+    35.223337,
+    -92.388245,
+    35.223337
+],
   "geometry": {"coordinates":[-92.388245,35.223337],"type":"Point"}
 }

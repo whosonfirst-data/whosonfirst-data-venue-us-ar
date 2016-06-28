@@ -2,13 +2,14 @@
   "id": 219433965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.720818,35.047192,-92.720818,35.047192",
     "geom:latitude":35.047192,
     "geom:longitude":-92.720818,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"362 Copperas Gap Rd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219433965,
-    "wof:lastmodified":1449070795,
+    "wof:lastmodified":1466323131,
     "wof:name":"Carl's Green House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "seed"
     ]
 },
-  "bbox": [-92.720818,35.047192,-92.720818,35.047192],
-  "geometry": {"coordinates":[-92.720818,35.047192],"type":"Point"}
+  "bbox": [
+    -92.720818,
+    35.047192,
+    -92.720818,
+    35.047192
+],
+  "geometry": {"coordinates":[-92.72081799999999,35.047192],"type":"Point"}
 }

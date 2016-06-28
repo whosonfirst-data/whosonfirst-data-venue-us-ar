@@ -2,13 +2,14 @@
   "id": 220014803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.222206,36.173161,-94.222206,36.173161",
     "geom:latitude":36.173161,
     "geom:longitude":-94.222206,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"252 Industrial Cir W",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220014803,
-    "wof:lastmodified":1449074426,
+    "wof:lastmodified":1466320484,
     "wof:name":"Midstate Aftermarket",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "part"
     ]
 },
-  "bbox": [-94.222206,36.173161,-94.222206,36.173161],
+  "bbox": [
+    -94.222206,
+    36.173161,
+    -94.222206,
+    36.173161
+],
   "geometry": {"coordinates":[-94.222206,36.173161],"type":"Point"}
 }

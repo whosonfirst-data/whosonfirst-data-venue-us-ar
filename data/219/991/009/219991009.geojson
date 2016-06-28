@@ -2,13 +2,14 @@
   "id": 219991009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.1912,36.310299,-94.1912,36.310299",
     "geom:latitude":36.310299,
     "geom:longitude":-94.1912,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5514 Walsh Dr",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219991009,
-    "wof:lastmodified":1449071506,
+    "wof:lastmodified":1466325437,
     "wof:name":"Ayson Foot & Ankle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "podiatrist"
     ]
 },
-  "bbox": [-94.1912,36.310299,-94.1912,36.310299],
-  "geometry": {"coordinates":[-94.1912,36.310299],"type":"Point"}
+  "bbox": [
+    -94.1912,
+    36.310299,
+    -94.1912,
+    36.310299
+],
+  "geometry": {"coordinates":[-94.19119999999999,36.310299],"type":"Point"}
 }

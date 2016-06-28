@@ -2,13 +2,14 @@
   "id": 219723951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.506126,35.67085,-90.506126,35.67085",
     "geom:latitude":35.67085,
     "geom:longitude":-90.506126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 S Melton Ave",
     "sg:city":"Trumann",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":219723951,
-    "wof:lastmodified":1449072444,
+    "wof:lastmodified":1466324967,
     "wof:name":"Winfield Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.506126,35.67085,-90.506126,35.67085],
-  "geometry": {"coordinates":[-90.506126,35.67085],"type":"Point"}
+  "bbox": [
+    -90.506126,
+    35.67085,
+    -90.506126,
+    35.67085
+],
+  "geometry": {"coordinates":[-90.50612599999999,35.67085],"type":"Point"}
 }

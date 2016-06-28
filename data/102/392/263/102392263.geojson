@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102392263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.675345,33.231953,-92.675345,33.231953",
     "geom:latitude":33.231953,
     "geom:longitude":-92.675345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"828 W 14th St",
     "sg:city":"El Dorado",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102392263,
-    "wof:lastmodified":1449069708,
+    "wof:lastmodified":1466324586,
     "wof:name":"Hansen's Body Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.675345,33.231953,-92.675345,33.231953],
-  "geometry": {"coordinates":[-92.675345,33.231953],"type":"Point"}
+  "bbox": [
+    -92.675345,
+    33.231953,
+    -92.675345,
+    33.231953
+],
+  "geometry": {"coordinates":[-92.67534499999999,33.231953],"type":"Point"}
 }

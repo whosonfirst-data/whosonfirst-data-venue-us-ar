@@ -2,13 +2,14 @@
   "id": 320742105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.721943,36.510467,-94.721943,36.510467",
     "geom:latitude":36.510467,
     "geom:longitude":-94.721943,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"64551 E 350 Rd",
     "sg:city":"Jay",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320742105,
-    "wof:lastmodified":1449011491,
+    "wof:lastmodified":1466320637,
     "wof:name":"Lake Country Machine & Design",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-94.721943,36.510467,-94.721943,36.510467],
+  "bbox": [
+    -94.721943,
+    36.510467,
+    -94.721943,
+    36.510467
+],
   "geometry": {"coordinates":[-94.721943,36.510467],"type":"Point"}
 }

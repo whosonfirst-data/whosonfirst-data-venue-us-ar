@@ -2,13 +2,14 @@
   "id": 219824303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.161919,36.062681,-94.161919,36.062681",
     "geom:latitude":36.062681,
     "geom:longitude":-94.161919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 W Center St",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":219824303,
-    "wof:lastmodified":1449071643,
+    "wof:lastmodified":1466324993,
     "wof:name":"David Horne Law Office",
     "wof:parent_id":85885459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-94.161919,36.062681,-94.161919,36.062681],
+  "bbox": [
+    -94.161919,
+    36.062681,
+    -94.161919,
+    36.062681
+],
   "geometry": {"coordinates":[-94.161919,36.062681],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219364255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.072067,34.970648,-92.072067,34.970648",
     "geom:latitude":34.970648,
     "geom:longitude":-92.072067,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11519 Highway 5",
     "sg:city":"Cabot",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219364255,
-    "wof:lastmodified":1449072356,
+    "wof:lastmodified":1466322478,
     "wof:name":"Classics Unlimited",
     "wof:parent_id":85811577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "cars-wholesale"
     ]
 },
-  "bbox": [-92.072067,34.970648,-92.072067,34.970648],
+  "bbox": [
+    -92.072067,
+    34.970648,
+    -92.072067,
+    34.970648
+],
   "geometry": {"coordinates":[-92.072067,34.970648],"type":"Point"}
 }

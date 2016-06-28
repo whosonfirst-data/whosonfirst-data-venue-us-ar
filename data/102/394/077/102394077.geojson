@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102394077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.06373,34.123567,-93.06373,34.123567",
     "geom:latitude":34.123567,
     "geom:longitude":-93.06373,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"251 N 14th St",
     "sg:city":"Arkadelphia",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102394077,
-    "wof:lastmodified":1449068272,
+    "wof:lastmodified":1466324513,
     "wof:name":"St Mary's Catholic Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.06373,34.123567,-93.06373,34.123567],
-  "geometry": {"coordinates":[-93.06373,34.123567],"type":"Point"}
+  "bbox": [
+    -93.06373,
+    34.123567,
+    -93.06373,
+    34.123567
+],
+  "geometry": {"coordinates":[-93.06373000000001,34.123567],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102205963",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.795662,35.885246,-90.795662,35.885246",
     "geom:latitude":35.885246,
     "geom:longitude":-90.795662,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 Co Rd 129",
     "sg:city":"Bono",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102205963",
-    "wof:lastmodified":1449069195,
+    "wof:lastmodified":1466320901,
     "wof:name":"Steve Watkins",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.795662,35.885246,-90.795662,35.885246],
-  "geometry": {"coordinates":[-90.795662,35.885246],"type":"Point"}
+  "bbox": [
+    -90.795662,
+    35.885246,
+    -90.795662,
+    35.885246
+],
+  "geometry": {"coordinates":[-90.79566199999999,35.885246],"type":"Point"}
 }

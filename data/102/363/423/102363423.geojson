@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102363423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.236151,33.279913,-93.236151,33.279913",
     "geom:latitude":33.279913,
     "geom:longitude":-93.236151,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1321 N Jackson St",
     "sg:city":"Magnolia",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102363423,
-    "wof:lastmodified":1449069888,
+    "wof:lastmodified":1466324297,
     "wof:name":"V & C Vacuum Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.236151,33.279913,-93.236151,33.279913],
-  "geometry": {"coordinates":[-93.236151,33.279913],"type":"Point"}
+  "bbox": [
+    -93.236151,
+    33.279913,
+    -93.236151,
+    33.279913
+],
+  "geometry": {"coordinates":[-93.23615100000001,33.279913],"type":"Point"}
 }

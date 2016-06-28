@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102380449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.586762,34.564312,-92.586762,34.564312",
     "geom:latitude":34.564312,
     "geom:longitude":-92.586762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 N Main St",
     "sg:city":"Benton",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102380449,
-    "wof:lastmodified":1449068883,
+    "wof:lastmodified":1466322182,
     "wof:name":"Bird & Bear Medical Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.586762,34.564312,-92.586762,34.564312],
-  "geometry": {"coordinates":[-92.586762,34.564312],"type":"Point"}
+  "bbox": [
+    -92.586762,
+    34.564312,
+    -92.586762,
+    34.564312
+],
+  "geometry": {"coordinates":[-92.58676199999999,34.564312],"type":"Point"}
 }

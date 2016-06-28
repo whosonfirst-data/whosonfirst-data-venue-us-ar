@@ -2,13 +2,14 @@
   "id": 219586575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.468701,35.285076,-90.468701,35.285076",
     "geom:latitude":35.285076,
     "geom:longitude":-90.468701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"556 State Highway 149 N",
     "sg:city":"Earle",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219586575,
-    "wof:lastmodified":1449073512,
+    "wof:lastmodified":1466324564,
     "wof:name":"Greater Mt Moriah Mb Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-90.468701,35.285076,-90.468701,35.285076],
+  "bbox": [
+    -90.468701,
+    35.285076,
+    -90.468701,
+    35.285076
+],
   "geometry": {"coordinates":[-90.468701,35.285076],"type":"Point"}
 }

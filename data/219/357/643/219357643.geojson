@@ -2,13 +2,14 @@
   "id": 219357643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.494391,34.589716,-92.494391,34.589716",
     "geom:latitude":34.589716,
     "geom:longitude":-92.494391,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 Bryant Meadows Dr",
     "sg:city":"Bryant",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219357643,
-    "wof:lastmodified":1449073487,
+    "wof:lastmodified":1466322353,
     "wof:name":"Arkansas Irrigation Association",
     "wof:parent_id":85844395,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "system"
     ]
 },
-  "bbox": [-92.494391,34.589716,-92.494391,34.589716],
-  "geometry": {"coordinates":[-92.494391,34.589716],"type":"Point"}
+  "bbox": [
+    -92.494391,
+    34.589716,
+    -92.494391,
+    34.589716
+],
+  "geometry": {"coordinates":[-92.49439099999999,34.589716],"type":"Point"}
 }

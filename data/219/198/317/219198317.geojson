@@ -2,13 +2,14 @@
   "id": 219198317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.415616,33.806961,-92.415616,33.806961",
     "geom:latitude":33.806961,
     "geom:longitude":-92.415616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"622 W 6th St",
     "sg:city":"Fordyce",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219198317,
-    "wof:lastmodified":1449071670,
+    "wof:lastmodified":1466320849,
     "wof:name":"Transitech Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "supply"
     ]
 },
-  "bbox": [-92.415616,33.806961,-92.415616,33.806961],
+  "bbox": [
+    -92.415616,
+    33.806961,
+    -92.415616,
+    33.806961
+],
   "geometry": {"coordinates":[-92.415616,33.806961],"type":"Point"}
 }

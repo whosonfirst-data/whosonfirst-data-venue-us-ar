@@ -2,13 +2,14 @@
   "id": 219471753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.720348,35.170001,-92.720348,35.170001",
     "geom:latitude":35.170001,
     "geom:longitude":-92.720348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1812 E Harding St",
     "sg:city":"Morrilton",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":219471753,
-    "wof:lastmodified":1449071803,
+    "wof:lastmodified":1466323593,
     "wof:name":"Subway",
     "wof:parent_id":85850611,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "take"
     ]
 },
-  "bbox": [-92.720348,35.170001,-92.720348,35.170001],
+  "bbox": [
+    -92.720348,
+    35.170001,
+    -92.720348,
+    35.170001
+],
   "geometry": {"coordinates":[-92.720348,35.170001],"type":"Point"}
 }

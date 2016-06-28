@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102311841",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.690678,36.184459,-93.690678,36.184459",
     "geom:latitude":36.184459,
     "geom:longitude":-93.690678,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"509 Madison 1400",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102311841",
-    "wof:lastmodified":1449068358,
+    "wof:lastmodified":1466323354,
     "wof:name":"R W Machine Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.690678,36.184459,-93.690678,36.184459],
-  "geometry": {"coordinates":[-93.690678,36.184459],"type":"Point"}
+  "bbox": [
+    -93.690678,
+    36.184459,
+    -93.690678,
+    36.184459
+],
+  "geometry": {"coordinates":[-93.69067800000001,36.184459],"type":"Point"}
 }

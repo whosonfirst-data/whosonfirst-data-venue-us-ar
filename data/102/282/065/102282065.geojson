@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102282065",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.244481,33.279803,-93.244481,33.279803",
     "geom:latitude":33.279803,
     "geom:longitude":-93.244481,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1326 N Vine St",
     "sg:city":"Magnolia",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102282065",
-    "wof:lastmodified":1449069270,
+    "wof:lastmodified":1466322575,
     "wof:name":"Fred's Car Town",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.244481,33.279803,-93.244481,33.279803],
-  "geometry": {"coordinates":[-93.244481,33.279803],"type":"Point"}
+  "bbox": [
+    -93.244481,
+    33.279803,
+    -93.244481,
+    33.279803
+],
+  "geometry": {"coordinates":[-93.24448099999999,33.279803],"type":"Point"}
 }

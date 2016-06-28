@@ -2,13 +2,14 @@
   "id": 219928729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.3488,36.368511,-94.3488,36.368511",
     "geom:latitude":36.368511,
     "geom:longitude":-94.3488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10107 Noah Rd",
     "sg:city":"Gravette",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219928729,
-    "wof:lastmodified":1449073418,
+    "wof:lastmodified":1466325217,
     "wof:name":"Jimmy R Martin",
     "wof:parent_id":85853527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ranch"
     ]
 },
-  "bbox": [-94.3488,36.368511,-94.3488,36.368511],
+  "bbox": [
+    -94.3488,
+    36.368511,
+    -94.3488,
+    36.368511
+],
   "geometry": {"coordinates":[-94.3488,36.368511],"type":"Point"}
 }

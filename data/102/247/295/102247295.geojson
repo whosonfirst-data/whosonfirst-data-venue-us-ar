@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102247295",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.735464,36.408378,-93.735464,36.408378",
     "geom:latitude":36.408378,
     "geom:longitude":-93.735464,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"44 King St",
     "sg:city":"Eureka Springs",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102247295",
-    "wof:lastmodified":1449069154,
+    "wof:lastmodified":1466321784,
     "wof:name":"Eureka Springs Public Schools",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.735464,36.408378,-93.735464,36.408378],
-  "geometry": {"coordinates":[-93.735464,36.408378],"type":"Point"}
+  "bbox": [
+    -93.735464,
+    36.408378,
+    -93.735464,
+    36.408378
+],
+  "geometry": {"coordinates":[-93.73546399999999,36.408378],"type":"Point"}
 }

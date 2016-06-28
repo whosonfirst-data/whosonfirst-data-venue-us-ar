@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102249265",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.243051,34.045746,-94.243051,34.045746",
     "geom:latitude":34.045746,
     "geom:longitude":-94.243051,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 Farm To Market Rd",
     "sg:city":"De Queen",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":"102249265",
-    "wof:lastmodified":1449067903,
+    "wof:lastmodified":1466321820,
     "wof:name":"Marvin Smith Lime Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.243051,34.045746,-94.243051,34.045746],
-  "geometry": {"coordinates":[-94.243051,34.045746],"type":"Point"}
+  "bbox": [
+    -94.243051,
+    34.045746,
+    -94.243051,
+    34.045746
+],
+  "geometry": {"coordinates":[-94.24305099999999,34.045746],"type":"Point"}
 }

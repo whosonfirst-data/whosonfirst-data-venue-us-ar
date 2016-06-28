@@ -2,13 +2,14 @@
   "id": 219192927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.854132,33.596928,-92.854132,33.596928",
     "geom:latitude":33.596928,
     "geom:longitude":-92.854132,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"907 Sharp Ave",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":219192927,
-    "wof:lastmodified":1449072900,
+    "wof:lastmodified":1466320794,
     "wof:name":"Gilchrist Bag Company Inc",
     "wof:parent_id":85813169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "bags-specialty"
     ]
 },
-  "bbox": [-92.854132,33.596928,-92.854132,33.596928],
-  "geometry": {"coordinates":[-92.854132,33.596928],"type":"Point"}
+  "bbox": [
+    -92.854132,
+    33.596928,
+    -92.854132,
+    33.596928
+],
+  "geometry": {"coordinates":[-92.85413200000001,33.596928],"type":"Point"}
 }

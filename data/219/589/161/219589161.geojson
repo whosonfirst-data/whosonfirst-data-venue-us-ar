@@ -2,13 +2,14 @@
   "id": 219589161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.615693,34.500655,-90.615693,34.500655",
     "geom:latitude":34.500655,
     "geom:longitude":-90.615693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 Sears Ln",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":219589161,
-    "wof:lastmodified":1449072263,
+    "wof:lastmodified":1466324572,
     "wof:name":"M & W Electric",
     "wof:parent_id":85838649,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "motors-used"
     ]
 },
-  "bbox": [-90.615693,34.500655,-90.615693,34.500655],
-  "geometry": {"coordinates":[-90.615693,34.500655],"type":"Point"}
+  "bbox": [
+    -90.615693,
+    34.500655,
+    -90.615693,
+    34.500655
+],
+  "geometry": {"coordinates":[-90.61569299999999,34.500655],"type":"Point"}
 }

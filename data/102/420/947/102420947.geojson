@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102420947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.807629,35.653675,-91.807629,35.653675",
     "geom:latitude":35.653675,
     "geom:longitude":-91.807629,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"464 Banner Loop",
     "sg:city":"Concord",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102420947,
-    "wof:lastmodified":1449068924,
+    "wof:lastmodified":1466325244,
     "wof:name":"Concord Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.807629,35.653675,-91.807629,35.653675],
-  "geometry": {"coordinates":[-91.807629,35.653675],"type":"Point"}
+  "bbox": [
+    -91.807629,
+    35.653675,
+    -91.807629,
+    35.653675
+],
+  "geometry": {"coordinates":[-91.80762900000001,35.653675],"type":"Point"}
 }

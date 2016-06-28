@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102327059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.227596,33.266898,-93.227596,33.266898",
     "geom:latitude":33.266898,
     "geom:longitude":-93.227596,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1016 E Main St",
     "sg:city":"Magnolia",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102327059,
-    "wof:lastmodified":1449067972,
+    "wof:lastmodified":1466323527,
     "wof:name":"Fire Ball Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.227596,33.266898,-93.227596,33.266898],
-  "geometry": {"coordinates":[-93.227596,33.266898],"type":"Point"}
+  "bbox": [
+    -93.227596,
+    33.266898,
+    -93.227596,
+    33.266898
+],
+  "geometry": {"coordinates":[-93.22759600000001,33.266898],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102302313",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.100304,36.314337,-94.100304,36.314337",
     "geom:latitude":36.314337,
     "geom:longitude":-94.100304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 Longview Dr",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102302313",
-    "wof:lastmodified":1449068597,
+    "wof:lastmodified":1466323047,
     "wof:name":"Blueberry Patch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.100304,36.314337,-94.100304,36.314337],
-  "geometry": {"coordinates":[-94.100304,36.314337],"type":"Point"}
+  "bbox": [
+    -94.100304,
+    36.314337,
+    -94.100304,
+    36.314337
+],
+  "geometry": {"coordinates":[-94.10030399999999,36.314337],"type":"Point"}
 }

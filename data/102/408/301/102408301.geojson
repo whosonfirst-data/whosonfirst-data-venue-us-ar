@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102408301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.258534,33.131078,-91.258534,33.131078",
     "geom:latitude":33.131078,
     "geom:longitude":-91.258534,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2018 US Hwy 65",
     "sg:city":"Eudora",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102408301,
-    "wof:lastmodified":1449068104,
+    "wof:lastmodified":1466325099,
     "wof:name":"Eudora Livestock Auction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.258534,33.131078,-91.258534,33.131078],
+  "bbox": [
+    -91.258534,
+    33.131078,
+    -91.258534,
+    33.131078
+],
   "geometry": {"coordinates":[-91.258534,33.131078],"type":"Point"}
 }

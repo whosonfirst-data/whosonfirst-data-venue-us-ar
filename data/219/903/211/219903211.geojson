@@ -2,13 +2,14 @@
   "id": 219903211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.165744,36.36648,-94.165744,36.36648",
     "geom:latitude":36.36648,
     "geom:longitude":-94.165744,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"510 College Pl",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219903211,
-    "wof:lastmodified":1449070593,
+    "wof:lastmodified":1466325104,
     "wof:name":"All Calls Plumbing",
     "wof:parent_id":85895823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractors-commercial"
     ]
 },
-  "bbox": [-94.165744,36.36648,-94.165744,36.36648],
+  "bbox": [
+    -94.165744,
+    36.36648,
+    -94.165744,
+    36.36648
+],
   "geometry": {"coordinates":[-94.165744,36.36648],"type":"Point"}
 }

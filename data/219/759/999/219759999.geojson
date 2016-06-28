@@ -2,13 +2,14 @@
   "id": 219759999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.21095,36.247556,-93.21095,36.247556",
     "geom:latitude":36.247556,
     "geom:longitude":-93.21095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7423 Estes Rd",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":219759999,
-    "wof:lastmodified":1449073979,
+    "wof:lastmodified":1466324918,
     "wof:name":"Batavia Country Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-93.21095,36.247556,-93.21095,36.247556],
+  "bbox": [
+    -93.21095,
+    36.247556,
+    -93.21095,
+    36.247556
+],
   "geometry": {"coordinates":[-93.21095,36.247556],"type":"Point"}
 }

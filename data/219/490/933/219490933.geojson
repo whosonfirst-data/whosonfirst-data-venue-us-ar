@@ -2,13 +2,14 @@
   "id": 219490933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.223743,34.916122,-92.223743,34.916122",
     "geom:latitude":34.916122,
     "geom:longitude":-92.223743,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5319 Batesville Pike",
     "sg:city":"Sherwood",
     "sg:classifiers":[
@@ -70,10 +71,11 @@
         }
     ],
     "wof:id":219490933,
-    "wof:lastmodified":1449073559,
+    "wof:lastmodified":1466323859,
     "wof:name":"Cornerstone Plus Service Co",
     "wof:parent_id":85837729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -88,6 +90,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-92.223743,34.916122,-92.223743,34.916122],
+  "bbox": [
+    -92.223743,
+    34.916122,
+    -92.223743,
+    34.916122
+],
   "geometry": {"coordinates":[-92.223743,34.916122],"type":"Point"}
 }

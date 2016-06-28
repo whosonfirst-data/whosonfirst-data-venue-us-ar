@@ -2,13 +2,14 @@
   "id": 203410599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.954358,33.148915,-91.954358,33.148915",
     "geom:latitude":33.148915,
     "geom:longitude":-91.954358,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"820 Fairview Rd",
     "sg:city":"Crossett",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203410599,
-    "wof:lastmodified":1449024968,
+    "wof:lastmodified":1466320541,
     "wof:name":"Jim Dixon Roofing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-91.954358,33.148915,-91.954358,33.148915],
+  "bbox": [
+    -91.954358,
+    33.148915,
+    -91.954358,
+    33.148915
+],
   "geometry": {"coordinates":[-91.954358,33.148915],"type":"Point"}
 }

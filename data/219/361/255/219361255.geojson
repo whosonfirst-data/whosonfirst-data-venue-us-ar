@@ -2,13 +2,14 @@
   "id": 219361255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.973903,34.976006,-91.973903,34.976006",
     "geom:latitude":34.976006,
     "geom:longitude":-91.973903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 Leaning Pines Rd",
     "sg:city":"Cabot",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219361255,
-    "wof:lastmodified":1449072971,
+    "wof:lastmodified":1466322422,
     "wof:name":"Powder Puff Lawn Care",
     "wof:parent_id":85839277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-91.973903,34.976006,-91.973903,34.976006],
-  "geometry": {"coordinates":[-91.973903,34.976006],"type":"Point"}
+  "bbox": [
+    -91.973903,
+    34.976006,
+    -91.973903,
+    34.976006
+],
+  "geometry": {"coordinates":[-91.97390300000001,34.976006],"type":"Point"}
 }

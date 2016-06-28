@@ -2,13 +2,14 @@
   "id": 219563977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.908509,34.966173,-91.908509,34.966173",
     "geom:latitude":34.966173,
     "geom:longitude":-91.908509,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1962 Covington Rd",
     "sg:city":"Ward",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219563977,
-    "wof:lastmodified":1449070426,
+    "wof:lastmodified":1466324531,
     "wof:name":"4 H Custom Embroidery",
     "wof:parent_id":85839277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "hemstitching"
     ]
 },
-  "bbox": [-91.908509,34.966173,-91.908509,34.966173],
+  "bbox": [
+    -91.908509,
+    34.966173,
+    -91.908509,
+    34.966173
+],
   "geometry": {"coordinates":[-91.908509,34.966173],"type":"Point"}
 }

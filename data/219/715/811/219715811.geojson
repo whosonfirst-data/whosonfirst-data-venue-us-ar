@@ -2,13 +2,14 @@
   "id": 219715811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.07135,36.088081,-91.07135,36.088081",
     "geom:latitude":36.088081,
     "geom:longitude":-91.07135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 W Front St",
     "sg:city":"Portia",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":219715811,
-    "wof:lastmodified":1449073222,
+    "wof:lastmodified":1466324818,
     "wof:name":"Latham's Grocery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocers-specialty"
     ]
 },
-  "bbox": [-91.07135,36.088081,-91.07135,36.088081],
+  "bbox": [
+    -91.07135,
+    36.088081,
+    -91.07135,
+    36.088081
+],
   "geometry": {"coordinates":[-91.07135,36.088081],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220097541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.148497,35.532115,-94.148497,35.532115",
     "geom:latitude":35.532115,
     "geom:longitude":-94.148497,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5015 Georgia Ridge Est",
     "sg:city":"Alma",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":220097541,
-    "wof:lastmodified":1449074347,
+    "wof:lastmodified":1466322125,
     "wof:name":"Kline Engineering Pa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "engineer"
     ]
 },
-  "bbox": [-94.148497,35.532115,-94.148497,35.532115],
-  "geometry": {"coordinates":[-94.148497,35.532115],"type":"Point"}
+  "bbox": [
+    -94.148497,
+    35.532115,
+    -94.148497,
+    35.532115
+],
+  "geometry": {"coordinates":[-94.14849700000001,35.532115],"type":"Point"}
 }

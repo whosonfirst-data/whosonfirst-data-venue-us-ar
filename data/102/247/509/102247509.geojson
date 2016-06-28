@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102247509",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.153321,33.988559,-93.153321,33.988559",
     "geom:latitude":33.988559,
     "geom:longitude":-93.153321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46 Thaxton Rd",
     "sg:city":"Gurdon",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":"102247509",
-    "wof:lastmodified":1449069153,
+    "wof:lastmodified":1466321828,
     "wof:name":"Barry A Woolf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.153321,33.988559,-93.153321,33.988559],
-  "geometry": {"coordinates":[-93.153321,33.988559],"type":"Point"}
+  "bbox": [
+    -93.153321,
+    33.988559,
+    -93.153321,
+    33.988559
+],
+  "geometry": {"coordinates":[-93.15332100000001,33.988559],"type":"Point"}
 }

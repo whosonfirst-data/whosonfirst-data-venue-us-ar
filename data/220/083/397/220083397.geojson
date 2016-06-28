@@ -2,13 +2,14 @@
   "id": 220083397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.39349,35.054794,-93.39349,35.054794",
     "geom:latitude":35.054794,
     "geom:longitude":-93.39349,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"702 Main St",
     "sg:city":"Danville",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":220083397,
-    "wof:lastmodified":1449074403,
+    "wof:lastmodified":1466321652,
     "wof:name":"Alco Discount",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.39349,35.054794,-93.39349,35.054794],
+  "bbox": [
+    -93.39349,
+    35.054794,
+    -93.39349,
+    35.054794
+],
   "geometry": {"coordinates":[-93.39349,35.054794],"type":"Point"}
 }

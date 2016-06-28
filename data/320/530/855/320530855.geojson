@@ -2,13 +2,14 @@
   "id": 320530855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.0533,34.582784,-94.0533,34.582784",
     "geom:latitude":34.582784,
     "geom:longitude":-94.0533,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4148 State Hwy 88",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":320530855,
-    "wof:lastmodified":1449013251,
+    "wof:lastmodified":1466320576,
     "wof:name":"Frank's Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "contractor"
     ]
 },
-  "bbox": [-94.0533,34.582784,-94.0533,34.582784],
-  "geometry": {"coordinates":[-94.0533,34.582784],"type":"Point"}
+  "bbox": [
+    -94.0533,
+    34.582784,
+    -94.0533,
+    34.582784
+],
+  "geometry": {"coordinates":[-94.05329999999999,34.582784],"type":"Point"}
 }

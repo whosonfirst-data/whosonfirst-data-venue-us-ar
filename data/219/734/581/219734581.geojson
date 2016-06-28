@@ -2,13 +2,14 @@
   "id": 219734581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.577123,35.785404,-91.577123,35.785404",
     "geom:latitude":35.785404,
     "geom:longitude":-91.577123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3220 White Dr",
     "sg:city":"Batesville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219734581,
-    "wof:lastmodified":1449073468,
+    "wof:lastmodified":1466324978,
     "wof:name":"Shorts Campground Cemetery",
     "wof:parent_id":85808231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "vehicle"
     ]
 },
-  "bbox": [-91.577123,35.785404,-91.577123,35.785404],
+  "bbox": [
+    -91.577123,
+    35.785404,
+    -91.577123,
+    35.785404
+],
   "geometry": {"coordinates":[-91.577123,35.785404],"type":"Point"}
 }

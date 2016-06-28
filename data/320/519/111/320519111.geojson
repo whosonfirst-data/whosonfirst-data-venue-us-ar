@@ -2,13 +2,14 @@
   "id": 320519111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.204091,34.554099,-94.204091,34.554099",
     "geom:latitude":34.554099,
     "geom:longitude":-94.204091,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"132 Flight Ln",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":320519111,
-    "wof:lastmodified":1449014714,
+    "wof:lastmodified":1466320572,
     "wof:name":"Reebaire Aircraft Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-94.204091,34.554099,-94.204091,34.554099],
-  "geometry": {"coordinates":[-94.204091,34.554099],"type":"Point"}
+  "bbox": [
+    -94.204091,
+    34.554099,
+    -94.204091,
+    34.554099
+],
+  "geometry": {"coordinates":[-94.20409100000001,34.554099],"type":"Point"}
 }

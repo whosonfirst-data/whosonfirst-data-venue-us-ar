@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102409739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.951276,33.160365,-91.951276,33.160365",
     "geom:latitude":33.160365,
     "geom:longitude":-91.951276,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1333 Mimosa St",
     "sg:city":"Crossett",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102409739,
-    "wof:lastmodified":1449068763,
+    "wof:lastmodified":1466325164,
     "wof:name":"Cynthia Barnett",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.951276,33.160365,-91.951276,33.160365],
-  "geometry": {"coordinates":[-91.951276,33.160365],"type":"Point"}
+  "bbox": [
+    -91.951276,
+    33.160365,
+    -91.951276,
+    33.160365
+],
+  "geometry": {"coordinates":[-91.95127599999999,33.160365],"type":"Point"}
 }

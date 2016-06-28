@@ -2,13 +2,14 @@
   "id": 203422447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.562019,33.987129,-91.562019,33.987129",
     "geom:latitude":33.987129,
     "geom:longitude":-91.562019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 W Star St",
     "sg:city":"Gould",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203422447,
-    "wof:lastmodified":1449025076,
+    "wof:lastmodified":1466320669,
     "wof:name":"Cliffs Carwash",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.562019,33.987129,-91.562019,33.987129],
-  "geometry": {"coordinates":[-91.562019,33.987129],"type":"Point"}
+  "bbox": [
+    -91.562019,
+    33.987129,
+    -91.562019,
+    33.987129
+],
+  "geometry": {"coordinates":[-91.56201900000001,33.987129],"type":"Point"}
 }

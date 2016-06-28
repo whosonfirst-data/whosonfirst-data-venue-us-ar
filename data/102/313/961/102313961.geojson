@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102313961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.724235,35.120413,-90.724235,35.120413",
     "geom:latitude":35.120413,
     "geom:longitude":-90.724235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8830 State Hwy 284",
     "sg:city":"Forrest City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102313961,
-    "wof:lastmodified":1449067844,
+    "wof:lastmodified":1466323420,
     "wof:name":"Richard Boren Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.724235,35.120413,-90.724235,35.120413],
-  "geometry": {"coordinates":[-90.724235,35.120413],"type":"Point"}
+  "bbox": [
+    -90.724235,
+    35.120413,
+    -90.724235,
+    35.120413
+],
+  "geometry": {"coordinates":[-90.72423499999999,35.120413],"type":"Point"}
 }

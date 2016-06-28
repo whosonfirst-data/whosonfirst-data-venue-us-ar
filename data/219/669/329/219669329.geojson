@@ -2,13 +2,14 @@
   "id": 219669329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.259398,35.928989,-90.259398,35.928989",
     "geom:latitude":35.928989,
     "geom:longitude":-90.259398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 W 9th St",
     "sg:city":"Leachville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219669329,
-    "wof:lastmodified":1449070791,
+    "wof:lastmodified":1466324579,
     "wof:name":"Poe's Upholstery",
     "wof:parent_id":85814753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "upholsterer"
     ]
 },
-  "bbox": [-90.259398,35.928989,-90.259398,35.928989],
+  "bbox": [
+    -90.259398,
+    35.928989,
+    -90.259398,
+    35.928989
+],
   "geometry": {"coordinates":[-90.259398,35.928989],"type":"Point"}
 }

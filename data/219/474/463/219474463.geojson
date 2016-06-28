@@ -2,13 +2,14 @@
   "id": 219474463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.246978,35.608926,-91.246978,35.608926",
     "geom:latitude":35.608926,
     "geom:longitude":-91.246978,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"416 Marchand St",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219474463,
-    "wof:lastmodified":1449070523,
+    "wof:lastmodified":1466323628,
     "wof:name":"Richard M Morris",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.246978,35.608926,-91.246978,35.608926],
+  "bbox": [
+    -91.246978,
+    35.608926,
+    -91.246978,
+    35.608926
+],
   "geometry": {"coordinates":[-91.246978,35.608926],"type":"Point"}
 }

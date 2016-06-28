@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102380395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.539223,34.531988,-93.539223,34.531988",
     "geom:latitude":34.531988,
     "geom:longitude":-93.539223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2317 US Hwy 270",
     "sg:city":"Mt Ida",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102380395,
-    "wof:lastmodified":1449068883,
+    "wof:lastmodified":1466322170,
     "wof:name":"Inter Pacific Group LTD Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.539223,34.531988,-93.539223,34.531988],
-  "geometry": {"coordinates":[-93.539223,34.531988],"type":"Point"}
+  "bbox": [
+    -93.539223,
+    34.531988,
+    -93.539223,
+    34.531988
+],
+  "geometry": {"coordinates":[-93.53922300000001,34.531988],"type":"Point"}
 }

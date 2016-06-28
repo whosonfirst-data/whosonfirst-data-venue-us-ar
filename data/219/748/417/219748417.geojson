@@ -2,13 +2,14 @@
   "id": 219748417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.852159,36.313682,-91.852159,36.313682",
     "geom:latitude":36.313682,
     "geom:longitude":-91.852159,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"696 Whipporwill",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219748417,
-    "wof:lastmodified":1449073046,
+    "wof:lastmodified":1466324985,
     "wof:name":"Awnings and Canvas by DHK Mfg.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "canopy"
     ]
 },
-  "bbox": [-91.852159,36.313682,-91.852159,36.313682],
+  "bbox": [
+    -91.852159,
+    36.313682,
+    -91.852159,
+    36.313682
+],
   "geometry": {"coordinates":[-91.852159,36.313682],"type":"Point"}
 }

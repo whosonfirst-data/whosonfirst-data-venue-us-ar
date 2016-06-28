@@ -2,13 +2,14 @@
   "id": 219418747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.364311,35.208221,-92.364311,35.208221",
     "geom:latitude":35.208221,
     "geom:longitude":-92.364311,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Autumn Hills Rd",
     "sg:city":"Greenbrier",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219418747,
-    "wof:lastmodified":1449073166,
+    "wof:lastmodified":1466323011,
     "wof:name":"Sandy's Bookeeping Serv Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "billing"
     ]
 },
-  "bbox": [-92.364311,35.208221,-92.364311,35.208221],
+  "bbox": [
+    -92.364311,
+    35.208221,
+    -92.364311,
+    35.208221
+],
   "geometry": {"coordinates":[-92.364311,35.208221],"type":"Point"}
 }

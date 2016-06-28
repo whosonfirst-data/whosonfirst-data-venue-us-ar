@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102249569",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.450212,36.337193,-93.450212,36.337193",
     "geom:latitude":36.337193,
     "geom:longitude":-93.450212,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 W Main St",
     "sg:city":"Green Forest",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102249569",
-    "wof:lastmodified":1449067906,
+    "wof:lastmodified":1466321883,
     "wof:name":"Smith Cycle Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.450212,36.337193,-93.450212,36.337193],
-  "geometry": {"coordinates":[-93.450212,36.337193],"type":"Point"}
+  "bbox": [
+    -93.450212,
+    36.337193,
+    -93.450212,
+    36.337193
+],
+  "geometry": {"coordinates":[-93.45021199999999,36.337193],"type":"Point"}
 }

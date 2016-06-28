@@ -2,13 +2,14 @@
   "id": 220085967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.097634,35.424637,-93.097634,35.424637",
     "geom:latitude":35.424637,
     "geom:longitude":-93.097634,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1653 Pine Hill Rd",
     "sg:city":"Dover",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":220085967,
-    "wof:lastmodified":1449074236,
+    "wof:lastmodified":1466321765,
     "wof:name":"Quality Siding Of Russelville",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "improvement"
     ]
 },
-  "bbox": [-93.097634,35.424637,-93.097634,35.424637],
+  "bbox": [
+    -93.097634,
+    35.424637,
+    -93.097634,
+    35.424637
+],
   "geometry": {"coordinates":[-93.097634,35.424637],"type":"Point"}
 }

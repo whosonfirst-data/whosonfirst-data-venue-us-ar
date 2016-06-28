@@ -2,13 +2,14 @@
   "id": 219652721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.752255,36.064491,-90.752255,36.064491",
     "geom:latitude":36.064491,
     "geom:longitude":-90.752255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"507 Highway 228",
     "sg:city":"Bono",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219652721,
-    "wof:lastmodified":1449072661,
+    "wof:lastmodified":1466324552,
     "wof:name":"Semstream",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-90.752255,36.064491,-90.752255,36.064491],
-  "geometry": {"coordinates":[-90.752255,36.064491],"type":"Point"}
+  "bbox": [
+    -90.752255,
+    36.064491,
+    -90.752255,
+    36.064491
+],
+  "geometry": {"coordinates":[-90.75225500000001,36.064491],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219864451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.331239,36.090791,-94.331239,36.090791",
     "geom:latitude":36.090791,
     "geom:longitude":-94.331239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15241 W Highway 16",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219864451,
-    "wof:lastmodified":1449073968,
+    "wof:lastmodified":1466325046,
     "wof:name":"Bill Purser Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-94.331239,36.090791,-94.331239,36.090791],
+  "bbox": [
+    -94.331239,
+    36.090791,
+    -94.331239,
+    36.090791
+],
   "geometry": {"coordinates":[-94.331239,36.090791],"type":"Point"}
 }

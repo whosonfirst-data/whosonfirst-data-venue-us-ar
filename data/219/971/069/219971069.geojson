@@ -2,13 +2,14 @@
   "id": 219971069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.123815,36.412153,-94.123815,36.412153",
     "geom:latitude":36.412153,
     "geom:longitude":-94.123815,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"818 Wildflower Ln",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219971069,
-    "wof:lastmodified":1449072170,
+    "wof:lastmodified":1466325167,
     "wof:name":"Noahs Ark Animal Rescue Inc",
     "wof:parent_id":85895841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "specialty"
     ]
 },
-  "bbox": [-94.123815,36.412153,-94.123815,36.412153],
-  "geometry": {"coordinates":[-94.123815,36.412153],"type":"Point"}
+  "bbox": [
+    -94.123815,
+    36.412153,
+    -94.123815,
+    36.412153
+],
+  "geometry": {"coordinates":[-94.12381499999999,36.412153],"type":"Point"}
 }

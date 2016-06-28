@@ -2,13 +2,14 @@
   "id": 236975083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.016065,33.430672,-94.016065,33.430672",
     "geom:latitude":33.430672,
     "geom:longitude":-94.016065,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2502 E 9th St",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236975083,
-    "wof:lastmodified":1449004696,
+    "wof:lastmodified":1466324430,
     "wof:name":"Paradise Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-94.016065,33.430672,-94.016065,33.430672],
+  "bbox": [
+    -94.016065,
+    33.430672,
+    -94.016065,
+    33.430672
+],
   "geometry": {"coordinates":[-94.016065,33.430672],"type":"Point"}
 }

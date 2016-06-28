@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102347125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.42118,35.393084,-94.42118,35.393084",
     "geom:latitude":35.393084,
     "geom:longitude":-94.42118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"623 N 5th St",
     "sg:city":"Fort Smith",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102347125,
-    "wof:lastmodified":1449068934,
+    "wof:lastmodified":1466323947,
     "wof:name":"M Guen Wright PHD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.42118,35.393084,-94.42118,35.393084],
-  "geometry": {"coordinates":[-94.42118,35.393084],"type":"Point"}
+  "bbox": [
+    -94.42118,
+    35.393084,
+    -94.42118,
+    35.393084
+],
+  "geometry": {"coordinates":[-94.42118000000001,35.393084],"type":"Point"}
 }

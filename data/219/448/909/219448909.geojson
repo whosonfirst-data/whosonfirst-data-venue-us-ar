@@ -2,13 +2,14 @@
   "id": 219448909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.888602,34.80138,-91.888602,34.80138",
     "geom:latitude":34.80138,
     "geom:longitude":-91.888602,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 Frontage Rd",
     "sg:city":"Lonoke",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":219448909,
-    "wof:lastmodified":1449073742,
+    "wof:lastmodified":1466323359,
     "wof:name":"Perry's Motel",
     "wof:parent_id":85811577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hotels-apartment"
     ]
 },
-  "bbox": [-91.888602,34.80138,-91.888602,34.80138],
-  "geometry": {"coordinates":[-91.888602,34.80138],"type":"Point"}
+  "bbox": [
+    -91.888602,
+    34.80138,
+    -91.888602,
+    34.80138
+],
+  "geometry": {"coordinates":[-91.88860200000001,34.80138],"type":"Point"}
 }

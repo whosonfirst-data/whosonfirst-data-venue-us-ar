@@ -2,13 +2,14 @@
   "id": 203421849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.270116,33.207112,-91.270116,33.207112",
     "geom:latitude":33.207112,
     "geom:longitude":-91.270116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"248 Portland Rd",
     "sg:city":"Eudora",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":203421849,
-    "wof:lastmodified":1449026175,
+    "wof:lastmodified":1466320619,
     "wof:name":"Commtronix",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "supply"
     ]
 },
-  "bbox": [-91.270116,33.207112,-91.270116,33.207112],
+  "bbox": [
+    -91.270116,
+    33.207112,
+    -91.270116,
+    33.207112
+],
   "geometry": {"coordinates":[-91.270116,33.207112],"type":"Point"}
 }

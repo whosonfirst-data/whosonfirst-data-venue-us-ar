@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102342743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.388905,35.232122,-92.388905,35.232122",
     "geom:latitude":35.232122,
     "geom:longitude":-92.388905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13 School Dr",
     "sg:city":"Greenbrier",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102342743,
-    "wof:lastmodified":1449070013,
+    "wof:lastmodified":1466323912,
     "wof:name":"Greenbrier Middle School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.388905,35.232122,-92.388905,35.232122],
-  "geometry": {"coordinates":[-92.388905,35.232122],"type":"Point"}
+  "bbox": [
+    -92.388905,
+    35.232122,
+    -92.388905,
+    35.232122
+],
+  "geometry": {"coordinates":[-92.38890499999999,35.232122],"type":"Point"}
 }

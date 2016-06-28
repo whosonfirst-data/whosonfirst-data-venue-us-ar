@@ -2,13 +2,14 @@
   "id": 219448029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.914729,34.782038,-91.914729,34.782038",
     "geom:latitude":34.782038,
     "geom:longitude":-91.914729,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1355 W Front St",
     "sg:city":"Lonoke",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":219448029,
-    "wof:lastmodified":1449073742,
+    "wof:lastmodified":1466323342,
     "wof:name":"Jazzercise Lonoke Community Center",
     "wof:parent_id":85811577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "fitness"
     ]
 },
-  "bbox": [-91.914729,34.782038,-91.914729,34.782038],
-  "geometry": {"coordinates":[-91.914729,34.782038],"type":"Point"}
+  "bbox": [
+    -91.914729,
+    34.782038,
+    -91.914729,
+    34.782038
+],
+  "geometry": {"coordinates":[-91.91472899999999,34.782038],"type":"Point"}
 }

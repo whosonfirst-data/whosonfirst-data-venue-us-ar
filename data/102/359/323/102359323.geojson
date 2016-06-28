@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102359323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.908301,34.269265,-90.908301,34.269265",
     "geom:latitude":34.269265,
     "geom:longitude":-90.908301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27803 State Hwy 44",
     "sg:city":"Elaine",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":102359323,
-    "wof:lastmodified":1449067736,
+    "wof:lastmodified":1466324208,
     "wof:name":"Tyler Farms Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.908301,34.269265,-90.908301,34.269265],
-  "geometry": {"coordinates":[-90.908301,34.269265],"type":"Point"}
+  "bbox": [
+    -90.908301,
+    34.269265,
+    -90.908301,
+    34.269265
+],
+  "geometry": {"coordinates":[-90.90830099999999,34.269265],"type":"Point"}
 }

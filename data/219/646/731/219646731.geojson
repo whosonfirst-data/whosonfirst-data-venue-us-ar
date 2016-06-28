@@ -2,13 +2,14 @@
   "id": 219646731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.660463,35.799612,-90.660463,35.799612",
     "geom:latitude":35.799612,
     "geom:longitude":-90.660463,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4319 Richardson Dr",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219646731,
-    "wof:lastmodified":1449070294,
+    "wof:lastmodified":1466324701,
     "wof:name":"Trisha's Cafe",
     "wof:parent_id":85836541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "breakfast"
     ]
 },
-  "bbox": [-90.660463,35.799612,-90.660463,35.799612],
-  "geometry": {"coordinates":[-90.660463,35.799612],"type":"Point"}
+  "bbox": [
+    -90.660463,
+    35.799612,
+    -90.660463,
+    35.799612
+],
+  "geometry": {"coordinates":[-90.66046299999999,35.799612],"type":"Point"}
 }

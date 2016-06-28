@@ -2,13 +2,14 @@
   "id": 219815393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.098106,36.083623,-94.098106,36.083623",
     "geom:latitude":36.083623,
     "geom:longitude":-94.098106,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1677 N Hunter Dr",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":219815393,
-    "wof:lastmodified":1449072103,
+    "wof:lastmodified":1466324971,
     "wof:name":"Williams, John",
     "wof:parent_id":85885455,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.098106,36.083623,-94.098106,36.083623],
+  "bbox": [
+    -94.098106,
+    36.083623,
+    -94.098106,
+    36.083623
+],
   "geometry": {"coordinates":[-94.098106,36.083623],"type":"Point"}
 }

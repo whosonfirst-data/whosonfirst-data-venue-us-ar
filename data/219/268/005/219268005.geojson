@@ -2,13 +2,14 @@
   "id": 219268005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.038416,33.434873,-94.038416,33.434873",
     "geom:latitude":33.434873,
     "geom:longitude":-94.038416,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1224 County Ave",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":219268005,
-    "wof:lastmodified":1449072387,
+    "wof:lastmodified":1466321468,
     "wof:name":"Holiday Dry Cleaning & Laundry Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "carpet"
     ]
 },
-  "bbox": [-94.038416,33.434873,-94.038416,33.434873],
+  "bbox": [
+    -94.038416,
+    33.434873,
+    -94.038416,
+    33.434873
+],
   "geometry": {"coordinates":[-94.038416,33.434873],"type":"Point"}
 }

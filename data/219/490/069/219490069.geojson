@@ -2,13 +2,14 @@
   "id": 219490069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.172546,34.834221,-92.172546,34.834221",
     "geom:latitude":34.834221,
     "geom:longitude":-92.172546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9107 Warden Rd",
     "sg:city":"Sherwood",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":219490069,
-    "wof:lastmodified":1449073563,
+    "wof:lastmodified":1466323845,
     "wof:name":"Mauldin Machine",
     "wof:parent_id":85837729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "machine"
     ]
 },
-  "bbox": [-92.172546,34.834221,-92.172546,34.834221],
+  "bbox": [
+    -92.172546,
+    34.834221,
+    -92.172546,
+    34.834221
+],
   "geometry": {"coordinates":[-92.172546,34.834221],"type":"Point"}
 }

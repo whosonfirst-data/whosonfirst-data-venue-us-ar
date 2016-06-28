@@ -2,13 +2,14 @@
   "id": 220009353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.186972,36.317456,-94.186972,36.317456",
     "geom:latitude":36.317456,
     "geom:longitude":-94.186972,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5206 Village Pkwy",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":220009353,
-    "wof:lastmodified":1449074862,
+    "wof:lastmodified":1466320469,
     "wof:name":"Zuzu's Petals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.186972,36.317456,-94.186972,36.317456],
+  "bbox": [
+    -94.186972,
+    36.317456,
+    -94.186972,
+    36.317456
+],
   "geometry": {"coordinates":[-94.186972,36.317456],"type":"Point"}
 }

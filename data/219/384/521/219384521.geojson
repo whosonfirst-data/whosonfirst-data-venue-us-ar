@@ -2,13 +2,14 @@
   "id": 219384521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.43991,35.093479,-92.43991,35.093479",
     "geom:latitude":35.093479,
     "geom:longitude":-92.43991,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1104 Markham St",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":219384521,
-    "wof:lastmodified":1449070835,
+    "wof:lastmodified":1466322713,
     "wof:name":"Welltec",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "gas"
     ]
 },
-  "bbox": [-92.43991,35.093479,-92.43991,35.093479],
+  "bbox": [
+    -92.43991,
+    35.093479,
+    -92.43991,
+    35.093479
+],
   "geometry": {"coordinates":[-92.43991,35.093479],"type":"Point"}
 }

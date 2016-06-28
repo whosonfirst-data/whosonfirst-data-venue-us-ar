@@ -2,13 +2,14 @@
   "id": 219209415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.224529,33.265322,-93.224529,33.265322",
     "geom:latitude":33.265322,
     "geom:longitude":-93.224529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"232 S Fredrick",
     "sg:city":"Magnolia",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219209415,
-    "wof:lastmodified":1449073544,
+    "wof:lastmodified":1466320953,
     "wof:name":"Metal Restorations Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "vinyl"
     ]
 },
-  "bbox": [-93.224529,33.265322,-93.224529,33.265322],
+  "bbox": [
+    -93.224529,
+    33.265322,
+    -93.224529,
+    33.265322
+],
   "geometry": {"coordinates":[-93.224529,33.265322],"type":"Point"}
 }

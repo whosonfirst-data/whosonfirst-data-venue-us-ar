@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102346795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.015391,34.209055,-92.015391,34.209055",
     "geom:latitude":34.209055,
     "geom:longitude":-92.015391,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 W 20th Ave",
     "sg:city":"Pine Bluff",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102346795,
-    "wof:lastmodified":1449067757,
+    "wof:lastmodified":1466324084,
     "wof:name":"Tolbert Tours",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.015391,34.209055,-92.015391,34.209055],
-  "geometry": {"coordinates":[-92.015391,34.209055],"type":"Point"}
+  "bbox": [
+    -92.015391,
+    34.209055,
+    -92.015391,
+    34.209055
+],
+  "geometry": {"coordinates":[-92.01539099999999,34.209055],"type":"Point"}
 }

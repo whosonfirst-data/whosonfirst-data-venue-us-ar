@@ -2,13 +2,14 @@
   "id": 219775627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.133412,36.228197,-93.133412,36.228197",
     "geom:latitude":36.228197,
     "geom:longitude":-93.133412,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 Oxford Ln",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219775627,
-    "wof:lastmodified":1449073014,
+    "wof:lastmodified":1466325009,
     "wof:name":"Bill S Tile",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tile-contractors"
     ]
 },
-  "bbox": [-93.133412,36.228197,-93.133412,36.228197],
-  "geometry": {"coordinates":[-93.133412,36.228197],"type":"Point"}
+  "bbox": [
+    -93.133412,
+    36.228197,
+    -93.133412,
+    36.228197
+],
+  "geometry": {"coordinates":[-93.13341200000001,36.228197],"type":"Point"}
 }

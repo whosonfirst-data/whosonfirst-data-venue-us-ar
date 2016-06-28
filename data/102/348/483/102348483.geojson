@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102348483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.263433,33.126108,-91.263433,33.126108",
     "geom:latitude":33.126108,
     "geom:longitude":-91.263433,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"262 W Peebles St",
     "sg:city":"Eudora",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102348483,
-    "wof:lastmodified":1449067889,
+    "wof:lastmodified":1466324028,
     "wof:name":"Homeys Touch Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.263433,33.126108,-91.263433,33.126108],
-  "geometry": {"coordinates":[-91.263433,33.126108],"type":"Point"}
+  "bbox": [
+    -91.263433,
+    33.126108,
+    -91.263433,
+    33.126108
+],
+  "geometry": {"coordinates":[-91.26343300000001,33.126108],"type":"Point"}
 }

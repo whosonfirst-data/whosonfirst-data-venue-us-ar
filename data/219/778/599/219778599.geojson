@@ -2,13 +2,14 @@
   "id": 219778599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.100773,36.233571,-93.100773,36.233571",
     "geom:latitude":36.233571,
     "geom:longitude":-93.100773,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"415 N Robinson St",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219778599,
-    "wof:lastmodified":1449070436,
+    "wof:lastmodified":1466324932,
     "wof:name":"Randy Thorson Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractors-commercial"
     ]
 },
-  "bbox": [-93.100773,36.233571,-93.100773,36.233571],
+  "bbox": [
+    -93.100773,
+    36.233571,
+    -93.100773,
+    36.233571
+],
   "geometry": {"coordinates":[-93.100773,36.233571],"type":"Point"}
 }

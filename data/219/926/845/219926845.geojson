@@ -2,13 +2,14 @@
   "id": 219926845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.462774,36.422325,-94.462774,36.422325",
     "geom:latitude":36.422325,
     "geom:longitude":-94.462774,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1300 Main St SW",
     "sg:city":"Gravette",
     "sg:classifiers":[
@@ -67,10 +68,11 @@
         }
     ],
     "wof:id":219926845,
-    "wof:lastmodified":1449071625,
+    "wof:lastmodified":1466325155,
     "wof:name":"Corder's Granite & Marble",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -83,6 +85,11 @@
         "refinishing"
     ]
 },
-  "bbox": [-94.462774,36.422325,-94.462774,36.422325],
+  "bbox": [
+    -94.462774,
+    36.422325,
+    -94.462774,
+    36.422325
+],
   "geometry": {"coordinates":[-94.462774,36.422325],"type":"Point"}
 }

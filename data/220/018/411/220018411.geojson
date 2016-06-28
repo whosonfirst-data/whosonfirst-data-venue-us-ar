@@ -2,13 +2,14 @@
   "id": 220018411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.174545,36.179125,-94.174545,36.179125",
     "geom:latitude":36.179125,
     "geom:longitude":-94.174545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"770 S 40th St Apt F104",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220018411,
-    "wof:lastmodified":1449074438,
+    "wof:lastmodified":1466320488,
     "wof:name":"Mclain Marketing Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "bureau"
     ]
 },
-  "bbox": [-94.174545,36.179125,-94.174545,36.179125],
-  "geometry": {"coordinates":[-94.174545,36.179125],"type":"Point"}
+  "bbox": [
+    -94.174545,
+    36.179125,
+    -94.174545,
+    36.179125
+],
+  "geometry": {"coordinates":[-94.17454499999999,36.179125],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 235945427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.773419,36.5311,-94.773419,36.5311",
     "geom:latitude":36.5311,
     "geom:longitude":-94.773419,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33640 S 620 Ln",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":235945427,
-    "wof:lastmodified":1449008307,
+    "wof:lastmodified":1466320423,
     "wof:name":"Cut Rate Plumbing",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractors-commercial"
     ]
 },
-  "bbox": [-94.773419,36.5311,-94.773419,36.5311],
+  "bbox": [
+    -94.773419,
+    36.5311,
+    -94.773419,
+    36.5311
+],
   "geometry": {"coordinates":[-94.773419,36.5311],"type":"Point"}
 }

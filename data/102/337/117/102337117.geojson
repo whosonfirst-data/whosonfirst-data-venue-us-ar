@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102337117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.544202,36.259847,-91.544202,36.259847",
     "geom:latitude":36.259847,
     "geom:longitude":-91.544202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1587 Hwy 62-412",
     "sg:city":"Hardy",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102337117,
-    "wof:lastmodified":1449068902,
+    "wof:lastmodified":1466323741,
     "wof:name":"Highway Department",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.544202,36.259847,-91.544202,36.259847],
+  "bbox": [
+    -91.544202,
+    36.259847,
+    -91.544202,
+    36.259847
+],
   "geometry": {"coordinates":[-91.544202,36.259847],"type":"Point"}
 }

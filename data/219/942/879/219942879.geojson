@@ -2,13 +2,14 @@
   "id": 219942879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.138298,36.252701,-94.138298,36.252701",
     "geom:latitude":36.252701,
     "geom:longitude":-94.138298,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 Parkwood St",
     "sg:city":"Lowell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219942879,
-    "wof:lastmodified":1449072003,
+    "wof:lastmodified":1466325229,
     "wof:name":"Benham Companies Inc the",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.138298,36.252701,-94.138298,36.252701],
-  "geometry": {"coordinates":[-94.138298,36.252701],"type":"Point"}
+  "bbox": [
+    -94.138298,
+    36.252701,
+    -94.138298,
+    36.252701
+],
+  "geometry": {"coordinates":[-94.13829800000001,36.252701],"type":"Point"}
 }

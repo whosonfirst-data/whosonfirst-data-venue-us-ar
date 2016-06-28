@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102356569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.534163,34.327305,-93.534163,34.327305",
     "geom:latitude":34.327305,
     "geom:longitude":-93.534163,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Baker Rd",
     "sg:city":"Glenwood",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102356569,
-    "wof:lastmodified":1449069741,
+    "wof:lastmodified":1466324245,
     "wof:name":"B T Smith Distributing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.534163,34.327305,-93.534163,34.327305],
-  "geometry": {"coordinates":[-93.534163,34.327305],"type":"Point"}
+  "bbox": [
+    -93.534163,
+    34.327305,
+    -93.534163,
+    34.327305
+],
+  "geometry": {"coordinates":[-93.53416300000001,34.327305],"type":"Point"}
 }

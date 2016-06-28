@@ -2,13 +2,14 @@
   "id": 219440633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.147311,34.867697,-92.147311,34.867697",
     "geom:latitude":34.867697,
     "geom:longitude":-92.147311,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3513 N Ridge Dr",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219440633,
-    "wof:lastmodified":1449071641,
+    "wof:lastmodified":1466323253,
     "wof:name":"J&L Asian Cuisine",
     "wof:parent_id":85837729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.147311,34.867697,-92.147311,34.867697],
+  "bbox": [
+    -92.147311,
+    34.867697,
+    -92.147311,
+    34.867697
+],
   "geometry": {"coordinates":[-92.147311,34.867697],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219996643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.147972,36.3195,-94.147972,36.3195",
     "geom:latitude":36.3195,
     "geom:longitude":-94.147972,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2100 Countryside Ln",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219996643,
-    "wof:lastmodified":1449071345,
+    "wof:lastmodified":1466325446,
     "wof:name":"Midland Financial Estate Plan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "planner"
     ]
 },
-  "bbox": [-94.147972,36.3195,-94.147972,36.3195],
+  "bbox": [
+    -94.147972,
+    36.3195,
+    -94.147972,
+    36.3195
+],
   "geometry": {"coordinates":[-94.147972,36.3195],"type":"Point"}
 }

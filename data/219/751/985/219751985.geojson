@@ -2,13 +2,14 @@
   "id": 219751985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.866148,36.38596,-91.866148,36.38596",
     "geom:latitude":36.38596,
     "geom:longitude":-91.866148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2419 Highway 62 W",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":219751985,
-    "wof:lastmodified":1449070579,
+    "wof:lastmodified":1466324909,
     "wof:name":"Poor Boy Truck & Auto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "engines-diesel-fuel"
     ]
 },
-  "bbox": [-91.866148,36.38596,-91.866148,36.38596],
+  "bbox": [
+    -91.866148,
+    36.38596,
+    -91.866148,
+    36.38596
+],
   "geometry": {"coordinates":[-91.866148,36.38596],"type":"Point"}
 }

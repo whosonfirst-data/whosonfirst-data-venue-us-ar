@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102246505",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.280791,34.763639,-92.280791,34.763639",
     "geom:latitude":34.763639,
     "geom:longitude":-92.280791,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 Parker St",
     "sg:city":"N Little Rock",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.youthandfamilies.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837877,
+        85688549,
         85633793,
         85921255,
         102082497,
-        85688549
+        85837877
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102246505",
-    "wof:lastmodified":1449067948,
+    "wof:lastmodified":1466321786,
     "wof:name":"Centers For Youth & Families",
     "wof:parent_id":85837877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.280791,34.763639,-92.280791,34.763639],
-  "geometry": {"coordinates":[-92.280791,34.763639],"type":"Point"}
+  "bbox": [
+    -92.280791,
+    34.763639,
+    -92.280791,
+    34.763639
+],
+  "geometry": {"coordinates":[-92.28079099999999,34.763639],"type":"Point"}
 }

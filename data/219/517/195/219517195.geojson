@@ -2,13 +2,14 @@
   "id": 219517195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.706135,35.238765,-91.706135,35.238765",
     "geom:latitude":35.238765,
     "geom:longitude":-91.706135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2315 W Beebe Capps Expy",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219517195,
-    "wof:lastmodified":1449072394,
+    "wof:lastmodified":1466324084,
     "wof:name":"Whistlestop Bbq",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "barbecue"
     ]
 },
-  "bbox": [-91.706135,35.238765,-91.706135,35.238765],
+  "bbox": [
+    -91.706135,
+    35.238765,
+    -91.706135,
+    35.238765
+],
   "geometry": {"coordinates":[-91.706135,35.238765],"type":"Point"}
 }

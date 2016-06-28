@@ -2,13 +2,14 @@
   "id": 219876109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.207478,36.359217,-94.207478,36.359217",
     "geom:latitude":36.359217,
     "geom:longitude":-94.207478,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 SE 12th St",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219876109,
-    "wof:lastmodified":1449071109,
+    "wof:lastmodified":1466325153,
     "wof:name":"All Season's Lawn Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-94.207478,36.359217,-94.207478,36.359217],
-  "geometry": {"coordinates":[-94.207478,36.359217],"type":"Point"}
+  "bbox": [
+    -94.207478,
+    36.359217,
+    -94.207478,
+    36.359217
+],
+  "geometry": {"coordinates":[-94.20747799999999,36.359217],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102380653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.393769,34.655539,-92.393769,34.655539",
     "geom:latitude":34.655539,
     "geom:longitude":-92.393769,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10225 Mabelvale West Rd",
     "sg:city":"Mabelvale",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848409,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85848409
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102380653,
-    "wof:lastmodified":1449068881,
+    "wof:lastmodified":1466322224,
     "wof:name":"Heral Packaging",
     "wof:parent_id":85848409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.393769,34.655539,-92.393769,34.655539],
-  "geometry": {"coordinates":[-92.393769,34.655539],"type":"Point"}
+  "bbox": [
+    -92.393769,
+    34.655539,
+    -92.393769,
+    34.655539
+],
+  "geometry": {"coordinates":[-92.39376900000001,34.655539],"type":"Point"}
 }

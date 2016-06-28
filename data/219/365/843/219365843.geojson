@@ -2,13 +2,14 @@
   "id": 219365843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.008343,34.965075,-92.008343,34.965075",
     "geom:latitude":34.965075,
     "geom:longitude":-92.008343,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 S Pine St",
     "sg:city":"Cabot",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":219365843,
-    "wof:lastmodified":1449070953,
+    "wof:lastmodified":1466322506,
     "wof:name":"The Wardrobe",
     "wof:parent_id":85839277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "hand"
     ]
 },
-  "bbox": [-92.008343,34.965075,-92.008343,34.965075],
+  "bbox": [
+    -92.008343,
+    34.965075,
+    -92.008343,
+    34.965075
+],
   "geometry": {"coordinates":[-92.008343,34.965075],"type":"Point"}
 }

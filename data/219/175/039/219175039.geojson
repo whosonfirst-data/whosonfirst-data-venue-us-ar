@@ -2,13 +2,14 @@
   "id": 219175039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.216056,33.984351,-92.216056,33.984351",
     "geom:latitude":33.984351,
     "geom:longitude":-92.216056,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1080 Moores Church Rd",
     "sg:city":"Rison",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219175039,
-    "wof:lastmodified":1449072840,
+    "wof:lastmodified":1466320590,
     "wof:name":"Aaa Stump Removal Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "bureau"
     ]
 },
-  "bbox": [-92.216056,33.984351,-92.216056,33.984351],
-  "geometry": {"coordinates":[-92.216056,33.984351],"type":"Point"}
+  "bbox": [
+    -92.216056,
+    33.984351,
+    -92.216056,
+    33.984351
+],
+  "geometry": {"coordinates":[-92.21605599999999,33.984351],"type":"Point"}
 }

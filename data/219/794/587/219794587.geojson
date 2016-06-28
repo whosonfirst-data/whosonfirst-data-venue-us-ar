@@ -2,13 +2,14 @@
   "id": 219794587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.592042,36.284297,-92.592042,36.284297",
     "geom:latitude":36.284297,
     "geom:longitude":-92.592042,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Cemetery Rd",
     "sg:city":"Flippin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219794587,
-    "wof:lastmodified":1449072084,
+    "wof:lastmodified":1466324947,
     "wof:name":"Westco Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "electric"
     ]
 },
-  "bbox": [-92.592042,36.284297,-92.592042,36.284297],
-  "geometry": {"coordinates":[-92.592042,36.284297],"type":"Point"}
+  "bbox": [
+    -92.592042,
+    36.284297,
+    -92.592042,
+    36.284297
+],
+  "geometry": {"coordinates":[-92.59204200000001,36.284297],"type":"Point"}
 }

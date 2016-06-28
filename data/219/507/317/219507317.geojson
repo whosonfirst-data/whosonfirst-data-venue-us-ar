@@ -2,13 +2,14 @@
   "id": 219507317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.079926,34.739639,-92.079926,34.739639",
     "geom:latitude":34.739639,
     "geom:longitude":-92.079926,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 Walkers Corner Rd",
     "sg:city":"Scott",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219507317,
-    "wof:lastmodified":1449072198,
+    "wof:lastmodified":1466324005,
     "wof:name":"Tankersley's Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "truck"
     ]
 },
-  "bbox": [-92.079926,34.739639,-92.079926,34.739639],
+  "bbox": [
+    -92.079926,
+    34.739639,
+    -92.079926,
+    34.739639
+],
   "geometry": {"coordinates":[-92.079926,34.739639],"type":"Point"}
 }

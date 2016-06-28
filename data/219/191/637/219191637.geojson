@@ -2,13 +2,14 @@
   "id": 219191637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.84424,33.596192,-92.84424,33.596192",
     "geom:latitude":33.596192,
     "geom:longitude":-92.84424,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"860 Crestwood Rd",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219191637,
-    "wof:lastmodified":1449072529,
+    "wof:lastmodified":1466320770,
     "wof:name":"B.Rogers Photography",
     "wof:parent_id":85813169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "wedding"
     ]
 },
-  "bbox": [-92.84424,33.596192,-92.84424,33.596192],
+  "bbox": [
+    -92.84424,
+    33.596192,
+    -92.84424,
+    33.596192
+],
   "geometry": {"coordinates":[-92.84424,33.596192],"type":"Point"}
 }

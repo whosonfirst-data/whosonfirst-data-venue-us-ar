@@ -2,13 +2,14 @@
   "id": 320561105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.778326,36.532184,-94.778326,36.532184",
     "geom:latitude":36.532184,
     "geom:longitude":-94.778326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"61801 E 335 Ln",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320561105,
-    "wof:lastmodified":1449013910,
+    "wof:lastmodified":1466320584,
     "wof:name":"Jack Caudill Farms",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-94.778326,36.532184,-94.778326,36.532184],
-  "geometry": {"coordinates":[-94.778326,36.532184],"type":"Point"}
+  "bbox": [
+    -94.778326,
+    36.532184,
+    -94.778326,
+    36.532184
+],
+  "geometry": {"coordinates":[-94.77832600000001,36.532184],"type":"Point"}
 }

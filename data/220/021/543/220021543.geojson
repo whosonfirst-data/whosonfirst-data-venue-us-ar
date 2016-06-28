@@ -2,13 +2,14 @@
   "id": 220021543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.156758,36.1892,-94.156758,36.1892",
     "geom:latitude":36.1892,
     "geom:longitude":-94.156758,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 Thomas Blvd",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220021543,
-    "wof:lastmodified":1449074553,
+    "wof:lastmodified":1466320498,
     "wof:name":"La Sirena Restaurant",
     "wof:parent_id":85885491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"
     ]
 },
-  "bbox": [-94.156758,36.1892,-94.156758,36.1892],
+  "bbox": [
+    -94.156758,
+    36.1892,
+    -94.156758,
+    36.1892
+],
   "geometry": {"coordinates":[-94.156758,36.1892],"type":"Point"}
 }

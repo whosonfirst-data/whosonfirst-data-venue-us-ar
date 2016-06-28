@@ -2,13 +2,14 @@
   "id": 219633139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.632717,35.849789,-90.632717,35.849789",
     "geom:latitude":35.849789,
     "geom:longitude":-90.632717,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5305 Prospect Rd",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":219633139,
-    "wof:lastmodified":1449073882,
+    "wof:lastmodified":1466324843,
     "wof:name":"R. & R. Amusements",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "rental"
     ]
 },
-  "bbox": [-90.632717,35.849789,-90.632717,35.849789],
+  "bbox": [
+    -90.632717,
+    35.849789,
+    -90.632717,
+    35.849789
+],
   "geometry": {"coordinates":[-90.632717,35.849789],"type":"Point"}
 }

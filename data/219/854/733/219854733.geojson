@@ -2,13 +2,14 @@
   "id": 219854733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.154549,36.12748,-94.154549,36.12748",
     "geom:latitude":36.12748,
     "geom:longitude":-94.154549,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4155 N Steele Blvd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219854733,
-    "wof:lastmodified":1449073784,
+    "wof:lastmodified":1466325126,
     "wof:name":"Value Cleaners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "house"
     ]
 },
-  "bbox": [-94.154549,36.12748,-94.154549,36.12748],
+  "bbox": [
+    -94.154549,
+    36.12748,
+    -94.154549,
+    36.12748
+],
   "geometry": {"coordinates":[-94.154549,36.12748],"type":"Point"}
 }

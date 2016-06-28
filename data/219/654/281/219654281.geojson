@@ -2,13 +2,14 @@
   "id": 219654281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.322632,35.757244,-90.322632,35.757244",
     "geom:latitude":35.757244,
     "geom:longitude":-90.322632,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"261 S New York Ave",
     "sg:city":"Caraway",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219654281,
-    "wof:lastmodified":1449071585,
+    "wof:lastmodified":1466324554,
     "wof:name":"Tri State Carpets",
     "wof:parent_id":85836541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-90.322632,35.757244,-90.322632,35.757244],
+  "bbox": [
+    -90.322632,
+    35.757244,
+    -90.322632,
+    35.757244
+],
   "geometry": {"coordinates":[-90.322632,35.757244],"type":"Point"}
 }

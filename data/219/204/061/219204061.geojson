@@ -2,13 +2,14 @@
   "id": 219204061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.215282,33.26419,-93.215282,33.26419",
     "geom:latitude":33.26419,
     "geom:longitude":-93.215282,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7 Highway 82 Byp W",
     "sg:city":"Magnolia",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219204061,
-    "wof:lastmodified":1449074035,
+    "wof:lastmodified":1466320901,
     "wof:name":"Charles Hayes Dvm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "specialty"
     ]
 },
-  "bbox": [-93.215282,33.26419,-93.215282,33.26419],
+  "bbox": [
+    -93.215282,
+    33.26419,
+    -93.215282,
+    33.26419
+],
   "geometry": {"coordinates":[-93.215282,33.26419],"type":"Point"}
 }

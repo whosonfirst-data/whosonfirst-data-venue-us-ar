@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102352529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.364084,36.085472,-94.364084,36.085472",
     "geom:latitude":36.085472,
     "geom:longitude":-94.364084,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15710 Lake Weddington Entry Rd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102352529,
-    "wof:lastmodified":1449069238,
+    "wof:lastmodified":1466324074,
     "wof:name":"Lake Wedington Recreation Area",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.364084,36.085472,-94.364084,36.085472],
-  "geometry": {"coordinates":[-94.364084,36.085472],"type":"Point"}
+  "bbox": [
+    -94.364084,
+    36.085472,
+    -94.364084,
+    36.085472
+],
+  "geometry": {"coordinates":[-94.36408400000001,36.085472],"type":"Point"}
 }

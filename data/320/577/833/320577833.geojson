@@ -2,13 +2,14 @@
   "id": 320577833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.440405,34.514361,-94.440405,34.514361",
     "geom:latitude":34.514361,
     "geom:longitude":-94.440405,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"164 Polk Road 151",
     "sg:city":"Hatfield",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":320577833,
-    "wof:lastmodified":1449015070,
+    "wof:lastmodified":1466320590,
     "wof:name":"Tyson Chicken Farmer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "eating"
     ]
 },
-  "bbox": [-94.440405,34.514361,-94.440405,34.514361],
+  "bbox": [
+    -94.440405,
+    34.514361,
+    -94.440405,
+    34.514361
+],
   "geometry": {"coordinates":[-94.440405,34.514361],"type":"Point"}
 }

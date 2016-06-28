@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102383259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.065581,34.18935,-92.065581,34.18935",
     "geom:latitude":34.18935,
     "geom:longitude":-92.065581,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4214 S Camden Rd",
     "sg:city":"Pine Bluff",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102383259,
-    "wof:lastmodified":1449068780,
+    "wof:lastmodified":1466322762,
     "wof:name":"U-Lock It Mini Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.065581,34.18935,-92.065581,34.18935],
-  "geometry": {"coordinates":[-92.065581,34.18935],"type":"Point"}
+  "bbox": [
+    -92.065581,
+    34.18935,
+    -92.065581,
+    34.18935
+],
+  "geometry": {"coordinates":[-92.06558099999999,34.18935],"type":"Point"}
 }

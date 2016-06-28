@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102305941",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.328618,34.751925,-92.328618,34.751925",
     "geom:latitude":34.751925,
     "geom:longitude":-92.328618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4942 W Markham St",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     "sg:website":"www.arkansasliteracy.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85838647,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85838647
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":"102305941",
-    "wof:lastmodified":1449068168,
+    "wof:lastmodified":1466323270,
     "wof:name":"Arkansas Literacy Councils Inc",
     "wof:parent_id":85838647,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.328618,34.751925,-92.328618,34.751925],
-  "geometry": {"coordinates":[-92.328618,34.751925],"type":"Point"}
+  "bbox": [
+    -92.328618,
+    34.751925,
+    -92.328618,
+    34.751925
+],
+  "geometry": {"coordinates":[-92.32861800000001,34.751925],"type":"Point"}
 }

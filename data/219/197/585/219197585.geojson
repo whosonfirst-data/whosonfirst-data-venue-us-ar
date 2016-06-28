@@ -2,13 +2,14 @@
   "id": 219197585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.4091,33.832643,-92.4091,33.832643",
     "geom:latitude":33.832643,
     "geom:longitude":-92.4091,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"522 Moore St",
     "sg:city":"Fordyce",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219197585,
-    "wof:lastmodified":1449073475,
+    "wof:lastmodified":1466320843,
     "wof:name":"Pilgrim Rest Baptist Chur",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "churches-baptist"
     ]
 },
-  "bbox": [-92.4091,33.832643,-92.4091,33.832643],
+  "bbox": [
+    -92.4091,
+    33.832643,
+    -92.4091,
+    33.832643
+],
   "geometry": {"coordinates":[-92.4091,33.832643],"type":"Point"}
 }

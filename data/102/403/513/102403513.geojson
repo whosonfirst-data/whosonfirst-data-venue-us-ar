@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102403513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.692777,35.494082,-93.692777,35.494082",
     "geom:latitude":35.494082,
     "geom:longitude":-93.692777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2188 Co Rd 3020",
     "sg:city":"Altus",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102403513,
-    "wof:lastmodified":1449069837,
+    "wof:lastmodified":1466324854,
     "wof:name":"Daniel Motors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.692777,35.494082,-93.692777,35.494082],
-  "geometry": {"coordinates":[-93.692777,35.494082],"type":"Point"}
+  "bbox": [
+    -93.692777,
+    35.494082,
+    -93.692777,
+    35.494082
+],
+  "geometry": {"coordinates":[-93.69277700000001,35.494082],"type":"Point"}
 }

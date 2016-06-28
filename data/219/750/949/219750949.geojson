@@ -2,13 +2,14 @@
   "id": 219750949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.820379,36.469158,-91.820379,36.469158",
     "geom:latitude":36.469158,
     "geom:longitude":-91.820379,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"130 Huskie Ln",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219750949,
-    "wof:lastmodified":1449072522,
+    "wof:lastmodified":1466324984,
     "wof:name":"Alan Bassham Construction & Hauling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "hauling"
     ]
 },
-  "bbox": [-91.820379,36.469158,-91.820379,36.469158],
+  "bbox": [
+    -91.820379,
+    36.469158,
+    -91.820379,
+    36.469158
+],
   "geometry": {"coordinates":[-91.820379,36.469158],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219812249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.12138,36.084209,-94.12138,36.084209",
     "geom:latitude":36.084209,
     "geom:longitude":-94.12138,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1826 N Crossover Rd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219812249,
-    "wof:lastmodified":1449070463,
+    "wof:lastmodified":1466324958,
     "wof:name":"Driver Michael Business",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-94.12138,36.084209,-94.12138,36.084209],
+  "bbox": [
+    -94.12138,
+    36.084209,
+    -94.12138,
+    36.084209
+],
   "geometry": {"coordinates":[-94.12138,36.084209],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219872599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.200623,36.34848,-94.200623,36.34848",
     "geom:latitude":36.34848,
     "geom:longitude":-94.200623,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 SE Village Loop",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -69,10 +70,11 @@
         }
     ],
     "wof:id":219872599,
-    "wof:lastmodified":1449070705,
+    "wof:lastmodified":1466325148,
     "wof:name":"Graphic Packaging International",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -83,6 +85,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-94.200623,36.34848,-94.200623,36.34848],
-  "geometry": {"coordinates":[-94.200623,36.34848],"type":"Point"}
+  "bbox": [
+    -94.200623,
+    36.34848,
+    -94.200623,
+    36.34848
+],
+  "geometry": {"coordinates":[-94.20062299999999,36.34848],"type":"Point"}
 }

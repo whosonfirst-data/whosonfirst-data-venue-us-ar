@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102314489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.940293,35.927288,-91.940293,35.927288",
     "geom:latitude":35.927288,
     "geom:longitude":-91.940293,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 2nd St",
     "sg:city":"Guion",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102314489,
-    "wof:lastmodified":1449070107,
+    "wof:lastmodified":1466323348,
     "wof:name":"Town Of Guion",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.940293,35.927288,-91.940293,35.927288],
+  "bbox": [
+    -91.940293,
+    35.927288,
+    -91.940293,
+    35.927288
+],
   "geometry": {"coordinates":[-91.940293,35.927288],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102435137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.60599,34.56192,-92.60599,34.56192",
     "geom:latitude":34.56192,
     "geom:longitude":-92.60599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"620 Airlane Dr",
     "sg:city":"Benton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102435137,
-    "wof:lastmodified":1449069972,
+    "wof:lastmodified":1466325653,
     "wof:name":"Salem Water Users Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.60599,34.56192,-92.60599,34.56192],
-  "geometry": {"coordinates":[-92.60599,34.56192],"type":"Point"}
+  "bbox": [
+    -92.60599,
+    34.56192,
+    -92.60599,
+    34.56192
+],
+  "geometry": {"coordinates":[-92.60599000000001,34.56192],"type":"Point"}
 }

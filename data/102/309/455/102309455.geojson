@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102309455",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.396149,35.404022,-94.396149,35.404022",
     "geom:latitude":35.404022,
     "geom:longitude":-94.396149,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3122 Kelley Hwy",
     "sg:city":"Fort Smith",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102309455",
-    "wof:lastmodified":1449068329,
+    "wof:lastmodified":1466323223,
     "wof:name":"Beautiful Image",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.396149,35.404022,-94.396149,35.404022],
-  "geometry": {"coordinates":[-94.396149,35.404022],"type":"Point"}
+  "bbox": [
+    -94.396149,
+    35.404022,
+    -94.396149,
+    35.404022
+],
+  "geometry": {"coordinates":[-94.39614899999999,35.404022],"type":"Point"}
 }

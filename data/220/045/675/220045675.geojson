@@ -2,13 +2,14 @@
   "id": 220045675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.13884,36.178871,-94.13884,36.178871",
     "geom:latitude":36.178871,
     "geom:longitude":-94.13884,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 S Thompson St",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220045675,
-    "wof:lastmodified":1449074780,
+    "wof:lastmodified":1466320580,
     "wof:name":"Cernas Italian & Mexican Rest",
     "wof:parent_id":85885485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"
     ]
 },
-  "bbox": [-94.13884,36.178871,-94.13884,36.178871],
+  "bbox": [
+    -94.13884,
+    36.178871,
+    -94.13884,
+    36.178871
+],
   "geometry": {"coordinates":[-94.13884,36.178871],"type":"Point"}
 }

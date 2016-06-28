@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102283073",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.239432,33.262896,-93.239432,33.262896",
     "geom:latitude":33.262896,
     "geom:longitude":-93.239432,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Taylor St",
     "sg:city":"Magnolia",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102283073",
-    "wof:lastmodified":1449068486,
+    "wof:lastmodified":1466322605,
     "wof:name":"Magnolia TV Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.239432,33.262896,-93.239432,33.262896],
-  "geometry": {"coordinates":[-93.239432,33.262896],"type":"Point"}
+  "bbox": [
+    -93.239432,
+    33.262896,
+    -93.239432,
+    33.262896
+],
+  "geometry": {"coordinates":[-93.23943199999999,33.262896],"type":"Point"}
 }

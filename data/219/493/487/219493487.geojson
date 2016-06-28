@@ -2,13 +2,14 @@
   "id": 219493487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.828168,35.421346,-91.828168,35.421346",
     "geom:latitude":35.421346,
     "geom:longitude":-91.828168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1323 Clay Rd",
     "sg:city":"Pangburn",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219493487,
-    "wof:lastmodified":1449071515,
+    "wof:lastmodified":1466323892,
     "wof:name":"Steve Bell Logging",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "logging"
     ]
 },
-  "bbox": [-91.828168,35.421346,-91.828168,35.421346],
-  "geometry": {"coordinates":[-91.828168,35.421346],"type":"Point"}
+  "bbox": [
+    -91.828168,
+    35.421346,
+    -91.828168,
+    35.421346
+],
+  "geometry": {"coordinates":[-91.82816800000001,35.421346],"type":"Point"}
 }

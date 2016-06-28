@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102265459",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.126689,35.273843,-93.126689,35.273843",
     "geom:latitude":35.273843,
     "geom:longitude":-93.126689,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"620 E 5th St",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837141,
+        85688549,
         85633793,
         85919515,
         102082511,
-        85688549
+        85837141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102265459",
-    "wof:lastmodified":1449068609,
+    "wof:lastmodified":1466322236,
     "wof:name":"Church Of Christ",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.126689,35.273843,-93.126689,35.273843],
+  "bbox": [
+    -93.126689,
+    35.273843,
+    -93.126689,
+    35.273843
+],
   "geometry": {"coordinates":[-93.126689,35.273843],"type":"Point"}
 }

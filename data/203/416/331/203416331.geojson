@@ -2,13 +2,14 @@
   "id": 203416331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.49204,33.887887,-91.49204,33.887887",
     "geom:latitude":33.887887,
     "geom:longitude":-91.49204,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"153 S Main St",
     "sg:city":"Dumas",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":203416331,
-    "wof:lastmodified":1449025764,
+    "wof:lastmodified":1466320558,
     "wof:name":"Gill Furniture & Appliance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-91.49204,33.887887,-91.49204,33.887887],
+  "bbox": [
+    -91.49204,
+    33.887887,
+    -91.49204,
+    33.887887
+],
   "geometry": {"coordinates":[-91.49204,33.887887],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102425393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.092637,36.224318,-93.092637,36.224318",
     "geom:latitude":36.224318,
     "geom:longitude":-93.092637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"506 Troy St",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102425393,
-    "wof:lastmodified":1449068631,
+    "wof:lastmodified":1466325402,
     "wof:name":"Robert W Harris",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.092637,36.224318,-93.092637,36.224318],
+  "bbox": [
+    -93.092637,
+    36.224318,
+    -93.092637,
+    36.224318
+],
   "geometry": {"coordinates":[-93.092637,36.224318],"type":"Point"}
 }

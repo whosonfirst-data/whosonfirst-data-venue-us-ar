@@ -2,13 +2,14 @@
   "id": 219262795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.036695,33.427006,-94.036695,33.427006",
     "geom:latitude":33.427006,
     "geom:longitude":-94.036695,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"422 Beech St",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219262795,
-    "wof:lastmodified":1449072581,
+    "wof:lastmodified":1466321428,
     "wof:name":"Blankenship Mike",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "family"
     ]
 },
-  "bbox": [-94.036695,33.427006,-94.036695,33.427006],
-  "geometry": {"coordinates":[-94.036695,33.427006],"type":"Point"}
+  "bbox": [
+    -94.036695,
+    33.427006,
+    -94.036695,
+    33.427006
+],
+  "geometry": {"coordinates":[-94.03669499999999,33.427006],"type":"Point"}
 }

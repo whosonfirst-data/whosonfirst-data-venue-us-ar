@@ -2,13 +2,14 @@
   "id": 219840373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.158095,36.097982,-94.158095,36.097982",
     "geom:latitude":36.097982,
     "geom:longitude":-94.158095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"54 W Sunbridge Dr",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219840373,
-    "wof:lastmodified":1449073136,
+    "wof:lastmodified":1466325019,
     "wof:name":"Health Partners Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "employer"
     ]
 },
-  "bbox": [-94.158095,36.097982,-94.158095,36.097982],
+  "bbox": [
+    -94.158095,
+    36.097982,
+    -94.158095,
+    36.097982
+],
   "geometry": {"coordinates":[-94.158095,36.097982],"type":"Point"}
 }

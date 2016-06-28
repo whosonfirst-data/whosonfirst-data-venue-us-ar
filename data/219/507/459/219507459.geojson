@@ -2,13 +2,14 @@
   "id": 219507459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.138465,34.639071,-92.138465,34.639071",
     "geom:latitude":34.639071,
     "geom:longitude":-92.138465,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11629 Patia Cv",
     "sg:city":"Scott",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219507459,
-    "wof:lastmodified":1449072197,
+    "wof:lastmodified":1466324008,
     "wof:name":"Elton Chartrand",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "practice"
     ]
 },
-  "bbox": [-92.138465,34.639071,-92.138465,34.639071],
+  "bbox": [
+    -92.138465,
+    34.639071,
+    -92.138465,
+    34.639071
+],
   "geometry": {"coordinates":[-92.138465,34.639071],"type":"Point"}
 }

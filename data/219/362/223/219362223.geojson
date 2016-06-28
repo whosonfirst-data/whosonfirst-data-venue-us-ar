@@ -2,13 +2,14 @@
   "id": 219362223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.150641,34.958348,-92.150641,34.958348",
     "geom:latitude":34.958348,
     "geom:longitude":-92.150641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27205 Highway 107",
     "sg:city":"Cabot",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":219362223,
-    "wof:lastmodified":1449072661,
+    "wof:lastmodified":1466322438,
     "wof:name":"Duty Unlimited",
     "wof:parent_id":85852337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-92.150641,34.958348,-92.150641,34.958348],
-  "geometry": {"coordinates":[-92.150641,34.958348],"type":"Point"}
+  "bbox": [
+    -92.150641,
+    34.958348,
+    -92.150641,
+    34.958348
+],
+  "geometry": {"coordinates":[-92.15064099999999,34.958348],"type":"Point"}
 }

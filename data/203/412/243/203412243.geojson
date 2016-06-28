@@ -2,13 +2,14 @@
   "id": 203412243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.443338,33.519155,-91.443338,33.519155",
     "geom:latitude":33.519155,
     "geom:longitude":-91.443338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 W Gaines St",
     "sg:city":"Dermott",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":203412243,
-    "wof:lastmodified":1449025320,
+    "wof:lastmodified":1466324455,
     "wof:name":"Uam College Of Technology",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "trade"
     ]
 },
-  "bbox": [-91.443338,33.519155,-91.443338,33.519155],
+  "bbox": [
+    -91.443338,
+    33.519155,
+    -91.443338,
+    33.519155
+],
   "geometry": {"coordinates":[-91.443338,33.519155],"type":"Point"}
 }

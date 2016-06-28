@@ -2,13 +2,14 @@
   "id": 219217465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.221374,33.223694,-93.221374,33.223694",
     "geom:latitude":33.223694,
     "geom:longitude":-93.221374,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 Airport 980",
     "sg:city":"Magnolia",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219217465,
-    "wof:lastmodified":1449073696,
+    "wof:lastmodified":1466321024,
     "wof:name":"American Airlines",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.221374,33.223694,-93.221374,33.223694],
+  "bbox": [
+    -93.221374,
+    33.223694,
+    -93.221374,
+    33.223694
+],
   "geometry": {"coordinates":[-93.221374,33.223694],"type":"Point"}
 }

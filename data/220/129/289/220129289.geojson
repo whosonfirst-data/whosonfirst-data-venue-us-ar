@@ -2,13 +2,14 @@
   "id": 220129289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.882857,35.304407,-93.882857,35.304407",
     "geom:latitude":35.304407,
     "geom:longitude":-93.882857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 S Wilson Ave",
     "sg:city":"Ratcliff",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220129289,
-    "wof:lastmodified":1449074688,
+    "wof:lastmodified":1466322771,
     "wof:name":"Ratcliff Water Works Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-93.882857,35.304407,-93.882857,35.304407],
+  "bbox": [
+    -93.882857,
+    35.304407,
+    -93.882857,
+    35.304407
+],
   "geometry": {"coordinates":[-93.882857,35.304407],"type":"Point"}
 }

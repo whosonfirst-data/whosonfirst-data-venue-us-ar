@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102263253",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.663314,35.774789,-91.663314,35.774789",
     "geom:latitude":35.774789,
     "geom:longitude":-91.663314,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"351 W Ross St",
     "sg:city":"Batesville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851415,
+        85688549,
         85633793,
         85920683,
         102083875,
-        85688549
+        85851415
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102263253",
-    "wof:lastmodified":1449070147,
+    "wof:lastmodified":1466322155,
     "wof:name":"White River Regl Housing Auth",
     "wof:parent_id":85851415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.663314,35.774789,-91.663314,35.774789],
+  "bbox": [
+    -91.663314,
+    35.774789,
+    -91.663314,
+    35.774789
+],
   "geometry": {"coordinates":[-91.663314,35.774789],"type":"Point"}
 }

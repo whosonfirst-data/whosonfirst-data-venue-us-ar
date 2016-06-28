@@ -2,13 +2,14 @@
   "id": 203402181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.015266,33.141287,-92.015266,33.141287",
     "geom:latitude":33.141287,
     "geom:longitude":-92.015266,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2717 Highway 82 W",
     "sg:city":"Crossett",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":203402181,
-    "wof:lastmodified":1449025519,
+    "wof:lastmodified":1466320513,
     "wof:name":"Motion Industries, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "power"
     ]
 },
-  "bbox": [-92.015266,33.141287,-92.015266,33.141287],
+  "bbox": [
+    -92.015266,
+    33.141287,
+    -92.015266,
+    33.141287
+],
   "geometry": {"coordinates":[-92.015266,33.141287],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102235051",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.924704,35.140334,-93.924704,35.140334",
     "geom:latitude":35.140334,
     "geom:longitude":-93.924704,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"292 W Main St",
     "sg:city":"Booneville",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102235051",
-    "wof:lastmodified":1449068226,
+    "wof:lastmodified":1466321450,
     "wof:name":"Bus Depot-Booneville",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.924704,35.140334,-93.924704,35.140334],
-  "geometry": {"coordinates":[-93.924704,35.140334],"type":"Point"}
+  "bbox": [
+    -93.924704,
+    35.140334,
+    -93.924704,
+    35.140334
+],
+  "geometry": {"coordinates":[-93.92470400000001,35.140334],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219293887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.997106,34.229997,-92.997106,34.229997",
     "geom:latitude":34.229997,
     "geom:longitude":-92.997106,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"558 Harper Sheehy Rd",
     "sg:city":"Donaldson",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219293887,
-    "wof:lastmodified":1449071088,
+    "wof:lastmodified":1466321679,
     "wof:name":"Carl E Draper",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "treatment"
     ]
 },
-  "bbox": [-92.997106,34.229997,-92.997106,34.229997],
+  "bbox": [
+    -92.997106,
+    34.229997,
+    -92.997106,
+    34.229997
+],
   "geometry": {"coordinates":[-92.997106,34.229997],"type":"Point"}
 }

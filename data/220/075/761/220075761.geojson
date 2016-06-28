@@ -2,13 +2,14 @@
   "id": 220075761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.480829,35.471605,-93.480829,35.471605",
     "geom:latitude":35.471605,
     "geom:longitude":-93.480829,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1619 W Main St Ste A",
     "sg:city":"Clarksville",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":220075761,
-    "wof:lastmodified":1449074492,
+    "wof:lastmodified":1466321466,
     "wof:name":"Tim Ward DMD PLC Family Dentristry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "oral"
     ]
 },
-  "bbox": [-93.480829,35.471605,-93.480829,35.471605],
+  "bbox": [
+    -93.480829,
+    35.471605,
+    -93.480829,
+    35.471605
+],
   "geometry": {"coordinates":[-93.480829,35.471605],"type":"Point"}
 }

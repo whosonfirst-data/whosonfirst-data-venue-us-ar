@@ -2,13 +2,14 @@
   "id": 220017445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.205333,36.17573,-94.205333,36.17573",
     "geom:latitude":36.17573,
     "geom:longitude":-94.205333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6706 W Sunset Ave",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220017445,
-    "wof:lastmodified":1449074474,
+    "wof:lastmodified":1466320488,
     "wof:name":"Metropolitan National Bank Har-Ber Meadows Loc",
     "wof:parent_id":85885477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commercial"
     ]
 },
-  "bbox": [-94.205333,36.17573,-94.205333,36.17573],
+  "bbox": [
+    -94.205333,
+    36.17573,
+    -94.205333,
+    36.17573
+],
   "geometry": {"coordinates":[-94.205333,36.17573],"type":"Point"}
 }

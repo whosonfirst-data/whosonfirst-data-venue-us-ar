@@ -2,13 +2,14 @@
   "id": 220081921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.4263,35.466473,-93.4263,35.466473",
     "geom:latitude":35.466473,
     "geom:longitude":-93.4263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2210 E Main St",
     "sg:city":"Clarksville",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":220081921,
-    "wof:lastmodified":1449074269,
+    "wof:lastmodified":1466321631,
     "wof:name":"Mize Auto Body",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "repairing"
     ]
 },
-  "bbox": [-93.4263,35.466473,-93.4263,35.466473],
+  "bbox": [
+    -93.4263,
+    35.466473,
+    -93.4263,
+    35.466473
+],
   "geometry": {"coordinates":[-93.4263,35.466473],"type":"Point"}
 }

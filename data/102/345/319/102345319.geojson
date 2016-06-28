@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102345319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.115766,33.669868,-94.115766,33.669868",
     "geom:latitude":33.669868,
     "geom:longitude":-94.115766,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"250 S Taylor St",
     "sg:city":"Ashdown",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102345319,
-    "wof:lastmodified":1449070001,
+    "wof:lastmodified":1466323930,
     "wof:name":"Claude E Jeans",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.115766,33.669868,-94.115766,33.669868],
-  "geometry": {"coordinates":[-94.115766,33.669868],"type":"Point"}
+  "bbox": [
+    -94.115766,
+    33.669868,
+    -94.115766,
+    33.669868
+],
+  "geometry": {"coordinates":[-94.11576599999999,33.669868],"type":"Point"}
 }

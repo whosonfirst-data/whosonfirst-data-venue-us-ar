@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102309001",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.21352,35.711109,-91.21352,35.711109",
     "geom:latitude":35.711109,
     "geom:longitude":-91.21352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 Waters St",
     "sg:city":"Tuckerman",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102309001",
-    "wof:lastmodified":1449068325,
+    "wof:lastmodified":1466324498,
     "wof:name":"R & D Fire Protection",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.21352,35.711109,-91.21352,35.711109],
+  "bbox": [
+    -91.21352,
+    35.711109,
+    -91.21352,
+    35.711109
+],
   "geometry": {"coordinates":[-91.21352,35.711109],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102356049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.390561,34.631328,-92.390561,34.631328",
     "geom:latitude":34.631328,
     "geom:longitude":-92.390561,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12902 Sardis Rd",
     "sg:city":"Mabelvale",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102356049,
-    "wof:lastmodified":1449069740,
+    "wof:lastmodified":1466324137,
     "wof:name":"Farmers Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.390561,34.631328,-92.390561,34.631328],
-  "geometry": {"coordinates":[-92.390561,34.631328],"type":"Point"}
+  "bbox": [
+    -92.390561,
+    34.631328,
+    -92.390561,
+    34.631328
+],
+  "geometry": {"coordinates":[-92.39056100000001,34.631328],"type":"Point"}
 }

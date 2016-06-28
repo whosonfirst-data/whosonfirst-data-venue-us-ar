@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102308941",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.140262,36.097458,-94.140262,36.097458",
     "geom:latitude":36.097458,
     "geom:longitude":-94.140262,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2536 N Elizabeth Ave",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885431,
+        85688549,
         85633793,
         85919609,
         102082007,
-        85688549
+        85885431
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102308941",
-    "wof:lastmodified":1449070271,
+    "wof:lastmodified":1466323314,
     "wof:name":"Budhi Kling",
     "wof:parent_id":85885431,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.140262,36.097458,-94.140262,36.097458],
-  "geometry": {"coordinates":[-94.140262,36.097458],"type":"Point"}
+  "bbox": [
+    -94.140262,
+    36.097458,
+    -94.140262,
+    36.097458
+],
+  "geometry": {"coordinates":[-94.14026200000001,36.097458],"type":"Point"}
 }

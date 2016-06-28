@@ -2,13 +2,14 @@
   "id": 219457245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.827715,34.382304,-92.827715,34.382304",
     "geom:latitude":34.382304,
     "geom:longitude":-92.827715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1601 Highway 270 W",
     "sg:city":"Malvern",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219457245,
-    "wof:lastmodified":1449072758,
+    "wof:lastmodified":1466323445,
     "wof:name":"Computers and Stuff",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment"
     ]
 },
-  "bbox": [-92.827715,34.382304,-92.827715,34.382304],
+  "bbox": [
+    -92.827715,
+    34.382304,
+    -92.827715,
+    34.382304
+],
   "geometry": {"coordinates":[-92.827715,34.382304],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220089647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.412209,35.690268,-93.412209,35.690268",
     "geom:latitude":35.690268,
     "geom:longitude":-93.412209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"179 County Road 5550",
     "sg:city":"Ozone",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":220089647,
-    "wof:lastmodified":1449074203,
+    "wof:lastmodified":1466321877,
     "wof:name":"Justice Roofing Service I",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-93.412209,35.690268,-93.412209,35.690268],
+  "bbox": [
+    -93.412209,
+    35.690268,
+    -93.412209,
+    35.690268
+],
   "geometry": {"coordinates":[-93.412209,35.690268],"type":"Point"}
 }

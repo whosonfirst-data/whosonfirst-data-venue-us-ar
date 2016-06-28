@@ -2,13 +2,14 @@
   "id": 219850087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.133163,36.104031,-94.133163,36.104031",
     "geom:latitude":36.104031,
     "geom:longitude":-94.133163,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2863 N Old Missouri Rd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":219850087,
-    "wof:lastmodified":1449072424,
+    "wof:lastmodified":1466325111,
     "wof:name":"Dawn Egan Attorney at Law",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "dwi"
     ]
 },
-  "bbox": [-94.133163,36.104031,-94.133163,36.104031],
+  "bbox": [
+    -94.133163,
+    36.104031,
+    -94.133163,
+    36.104031
+],
   "geometry": {"coordinates":[-94.133163,36.104031],"type":"Point"}
 }

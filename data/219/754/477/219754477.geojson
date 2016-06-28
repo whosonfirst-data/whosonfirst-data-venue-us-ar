@@ -2,13 +2,14 @@
   "id": 219754477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.114387,36.24698,-93.114387,36.24698",
     "geom:latitude":36.24698,
     "geom:longitude":-93.114387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1416 Highway 62 65 N 65 N Ste 3",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -73,10 +74,11 @@
         }
     ],
     "wof:id":219754477,
-    "wof:lastmodified":1449072694,
+    "wof:lastmodified":1466324988,
     "wof:name":"Raymond James Financial Services - Diana Rogers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -95,6 +97,11 @@
         "pension"
     ]
 },
-  "bbox": [-93.114387,36.24698,-93.114387,36.24698],
-  "geometry": {"coordinates":[-93.114387,36.24698],"type":"Point"}
+  "bbox": [
+    -93.114387,
+    36.24698,
+    -93.114387,
+    36.24698
+],
+  "geometry": {"coordinates":[-93.11438699999999,36.24698],"type":"Point"}
 }

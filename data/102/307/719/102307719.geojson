@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102307719",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.989325,35.069072,-91.989325,35.069072",
     "geom:latitude":35.069072,
     "geom:longitude":-91.989325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"513 Arthur Kirk Rd",
     "sg:city":"Beebe",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102307719",
-    "wof:lastmodified":1449068410,
+    "wof:lastmodified":1466323252,
     "wof:name":"Guthrie Used Cars",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.989325,35.069072,-91.989325,35.069072],
-  "geometry": {"coordinates":[-91.989325,35.069072],"type":"Point"}
+  "bbox": [
+    -91.989325,
+    35.069072,
+    -91.989325,
+    35.069072
+],
+  "geometry": {"coordinates":[-91.98932499999999,35.069072],"type":"Point"}
 }

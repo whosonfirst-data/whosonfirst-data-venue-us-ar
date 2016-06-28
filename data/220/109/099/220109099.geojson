@@ -2,13 +2,14 @@
   "id": 220109099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.124212,35.291822,-94.124212,35.291822",
     "geom:latitude":35.291822,
     "geom:longitude":-94.124212,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29004 Highway 22",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220109099,
-    "wof:lastmodified":1449074294,
+    "wof:lastmodified":1466322363,
     "wof:name":"William S Walter",
     "wof:parent_id":85832863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-94.124212,35.291822,-94.124212,35.291822],
+  "bbox": [
+    -94.124212,
+    35.291822,
+    -94.124212,
+    35.291822
+],
   "geometry": {"coordinates":[-94.124212,35.291822],"type":"Point"}
 }

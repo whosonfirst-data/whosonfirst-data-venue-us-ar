@@ -2,13 +2,14 @@
   "id": 219877685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.184018,36.379541,-94.184018,36.379541",
     "geom:latitude":36.379541,
     "geom:longitude":-94.184018,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Roberts Pl",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":219877685,
-    "wof:lastmodified":1449072878,
+    "wof:lastmodified":1466325159,
     "wof:name":"Paragon Remodeling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "remodeling"
     ]
 },
-  "bbox": [-94.184018,36.379541,-94.184018,36.379541],
-  "geometry": {"coordinates":[-94.184018,36.379541],"type":"Point"}
+  "bbox": [
+    -94.184018,
+    36.379541,
+    -94.184018,
+    36.379541
+],
+  "geometry": {"coordinates":[-94.18401799999999,36.379541],"type":"Point"}
 }

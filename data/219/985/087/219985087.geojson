@@ -2,13 +2,14 @@
   "id": 219985087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.188946,36.309914,-94.188946,36.309914",
     "geom:latitude":36.309914,
     "geom:longitude":-94.188946,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5430 Walsh Ln",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219985087,
-    "wof:lastmodified":1449072132,
+    "wof:lastmodified":1466325310,
     "wof:name":"Warner Publisher Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "publishers-periodical"
     ]
 },
-  "bbox": [-94.188946,36.309914,-94.188946,36.309914],
+  "bbox": [
+    -94.188946,
+    36.309914,
+    -94.188946,
+    36.309914
+],
   "geometry": {"coordinates":[-94.188946,36.309914],"type":"Point"}
 }

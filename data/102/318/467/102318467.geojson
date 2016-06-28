@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102318467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.175218,36.078292,-94.175218,36.078292",
     "geom:latitude":36.078292,
     "geom:longitude":-94.175218,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1130 N Garland Ave",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885453,
+        85688549,
         85633793,
         85919609,
         102082007,
-        85688549
+        85885453
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102318467,
-    "wof:lastmodified":1449068325,
+    "wof:lastmodified":1466323413,
     "wof:name":"Oakley's Corner",
     "wof:parent_id":85885453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.175218,36.078292,-94.175218,36.078292],
+  "bbox": [
+    -94.175218,
+    36.078292,
+    -94.175218,
+    36.078292
+],
   "geometry": {"coordinates":[-94.175218,36.078292],"type":"Point"}
 }

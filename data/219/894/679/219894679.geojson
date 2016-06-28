@@ -2,13 +2,14 @@
   "id": 219894679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.183167,36.370941,-94.183167,36.370941",
     "geom:latitude":36.370941,
     "geom:longitude":-94.183167,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2501 E Central Ave",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219894679,
-    "wof:lastmodified":1449071843,
+    "wof:lastmodified":1466325184,
     "wof:name":"White Oak Station No 28",
     "wof:parent_id":85895817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "hotspot"
     ]
 },
-  "bbox": [-94.183167,36.370941,-94.183167,36.370941],
+  "bbox": [
+    -94.183167,
+    36.370941,
+    -94.183167,
+    36.370941
+],
   "geometry": {"coordinates":[-94.183167,36.370941],"type":"Point"}
 }

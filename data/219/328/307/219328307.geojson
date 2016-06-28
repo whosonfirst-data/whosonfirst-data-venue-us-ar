@@ -2,13 +2,14 @@
   "id": 219328307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.425965,34.641063,-92.425965,34.641063",
     "geom:latitude":34.641063,
     "geom:longitude":-92.425965,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13201 Alexander Rd",
     "sg:city":"Alexander",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219328307,
-    "wof:lastmodified":1449072463,
+    "wof:lastmodified":1466321976,
     "wof:name":"Multi-Kraft Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractors-commercial"
     ]
 },
-  "bbox": [-92.425965,34.641063,-92.425965,34.641063],
-  "geometry": {"coordinates":[-92.425965,34.641063],"type":"Point"}
+  "bbox": [
+    -92.425965,
+    34.641063,
+    -92.425965,
+    34.641063
+],
+  "geometry": {"coordinates":[-92.42596500000001,34.641063],"type":"Point"}
 }

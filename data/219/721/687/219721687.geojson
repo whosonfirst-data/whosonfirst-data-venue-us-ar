@@ -2,13 +2,14 @@
   "id": 219721687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.500032,35.671589,-90.500032,35.671589",
     "geom:latitude":35.671589,
     "geom:longitude":-90.500032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30145 Thorn Rd",
     "sg:city":"Trumann",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219721687,
-    "wof:lastmodified":1449073906,
+    "wof:lastmodified":1466324966,
     "wof:name":"Dennis Penter Farms Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cotton"
     ]
 },
-  "bbox": [-90.500032,35.671589,-90.500032,35.671589],
+  "bbox": [
+    -90.500032,
+    35.671589,
+    -90.500032,
+    35.671589
+],
   "geometry": {"coordinates":[-90.500032,35.671589],"type":"Point"}
 }

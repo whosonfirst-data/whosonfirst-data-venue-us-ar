@@ -2,13 +2,14 @@
   "id": 220087279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.977533,35.481353,-92.977533,35.481353",
     "geom:latitude":35.481353,
     "geom:longitude":-92.977533,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"184 George Rd",
     "sg:city":"Hector",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":220087279,
-    "wof:lastmodified":1449074393,
+    "wof:lastmodified":1466321812,
     "wof:name":"R And B Trucking",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "trucking"
     ]
 },
-  "bbox": [-92.977533,35.481353,-92.977533,35.481353],
-  "geometry": {"coordinates":[-92.977533,35.481353],"type":"Point"}
+  "bbox": [
+    -92.977533,
+    35.481353,
+    -92.977533,
+    35.481353
+],
+  "geometry": {"coordinates":[-92.97753299999999,35.481353],"type":"Point"}
 }

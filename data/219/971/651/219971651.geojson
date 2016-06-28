@@ -2,13 +2,14 @@
   "id": 219971651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.154187,36.368155,-94.154187,36.368155",
     "geom:latitude":36.368155,
     "geom:longitude":-94.154187,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2431 Little Flock Dr",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219971651,
-    "wof:lastmodified":1449072168,
+    "wof:lastmodified":1466325173,
     "wof:name":"Gene Long",
     "wof:parent_id":85895823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-94.154187,36.368155,-94.154187,36.368155],
-  "geometry": {"coordinates":[-94.154187,36.368155],"type":"Point"}
+  "bbox": [
+    -94.154187,
+    36.368155,
+    -94.154187,
+    36.368155
+],
+  "geometry": {"coordinates":[-94.15418699999999,36.368155],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220087669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.90414,35.443432,-92.90414,35.443432",
     "geom:latitude":35.443432,
     "geom:longitude":-92.90414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4957 Pine St",
     "sg:city":"Hector",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":220087669,
-    "wof:lastmodified":1449074390,
+    "wof:lastmodified":1466321818,
     "wof:name":"Cowboy Plumbing Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "contractors-commercial"
     ]
 },
-  "bbox": [-92.90414,35.443432,-92.90414,35.443432],
+  "bbox": [
+    -92.90414,
+    35.443432,
+    -92.90414,
+    35.443432
+],
   "geometry": {"coordinates":[-92.90414,35.443432],"type":"Point"}
 }

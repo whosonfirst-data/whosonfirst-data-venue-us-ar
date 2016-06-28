@@ -2,13 +2,14 @@
   "id": 219694053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.48616,36.055569,-90.48616,36.055569",
     "geom:latitude":36.055569,
     "geom:longitude":-90.48616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 S Pruett St",
     "sg:city":"Paragould",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":219694053,
-    "wof:lastmodified":1449071397,
+    "wof:lastmodified":1466324720,
     "wof:name":"Terry's Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "espresso"
     ]
 },
-  "bbox": [-90.48616,36.055569,-90.48616,36.055569],
+  "bbox": [
+    -90.48616,
+    36.055569,
+    -90.48616,
+    36.055569
+],
   "geometry": {"coordinates":[-90.48616,36.055569],"type":"Point"}
 }

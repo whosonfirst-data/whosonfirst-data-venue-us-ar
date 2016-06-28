@@ -2,13 +2,14 @@
   "id": 220059271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.133215,36.185057,-94.133215,36.185057",
     "geom:latitude":36.185057,
     "geom:longitude":-94.133215,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 1/2 S Blair St",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220059271,
-    "wof:lastmodified":1449074237,
+    "wof:lastmodified":1466320978,
     "wof:name":"Woodard's Barber Shop",
     "wof:parent_id":85885481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.133215,36.185057,-94.133215,36.185057],
-  "geometry": {"coordinates":[-94.133215,36.185057],"type":"Point"}
+  "bbox": [
+    -94.133215,
+    36.185057,
+    -94.133215,
+    36.185057
+],
+  "geometry": {"coordinates":[-94.13321500000001,36.185057],"type":"Point"}
 }

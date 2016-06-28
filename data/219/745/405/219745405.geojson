@@ -2,13 +2,14 @@
   "id": 219745405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.205923,36.379242,-92.205923,36.379242",
     "geom:latitude":36.379242,
     "geom:longitude":-92.205923,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13087 Highway 62 E",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219745405,
-    "wof:lastmodified":1449073757,
+    "wof:lastmodified":1466324905,
     "wof:name":"Count Easy Tax Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "preparation-business"
     ]
 },
-  "bbox": [-92.205923,36.379242,-92.205923,36.379242],
+  "bbox": [
+    -92.205923,
+    36.379242,
+    -92.205923,
+    36.379242
+],
   "geometry": {"coordinates":[-92.205923,36.379242],"type":"Point"}
 }

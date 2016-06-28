@@ -2,13 +2,14 @@
   "id": 220094809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.535525,35.360864,-93.535525,35.360864",
     "geom:latitude":35.360864,
     "geom:longitude":-93.535525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"513 Main St",
     "sg:city":"Scranton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":220094809,
-    "wof:lastmodified":1449074549,
+    "wof:lastmodified":1466322049,
     "wof:name":"Teri's Total Look Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.535525,35.360864,-93.535525,35.360864],
-  "geometry": {"coordinates":[-93.535525,35.360864],"type":"Point"}
+  "bbox": [
+    -93.535525,
+    35.360864,
+    -93.535525,
+    35.360864
+],
+  "geometry": {"coordinates":[-93.53552500000001,35.360864],"type":"Point"}
 }

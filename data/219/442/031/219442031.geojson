@@ -2,13 +2,14 @@
   "id": 219442031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.153549,34.89241,-92.153549,34.89241",
     "geom:latitude":34.89241,
     "geom:longitude":-92.153549,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Nevada Ave",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219442031,
-    "wof:lastmodified":1449071939,
+    "wof:lastmodified":1466323279,
     "wof:name":"Kids Of Americas Heroes",
     "wof:parent_id":85852337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.153549,34.89241,-92.153549,34.89241],
+  "bbox": [
+    -92.153549,
+    34.89241,
+    -92.153549,
+    34.89241
+],
   "geometry": {"coordinates":[-92.153549,34.89241],"type":"Point"}
 }

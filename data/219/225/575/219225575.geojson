@@ -2,13 +2,14 @@
   "id": 219225575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.617781,33.736491,-93.617781,33.736491",
     "geom:latitude":33.736491,
     "geom:longitude":-93.617781,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"161 Hempstead 278",
     "sg:city":"Hope",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219225575,
-    "wof:lastmodified":1449071494,
+    "wof:lastmodified":1466321110,
     "wof:name":"Tyson",
     "wof:parent_id":85806015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "game"
     ]
 },
-  "bbox": [-93.617781,33.736491,-93.617781,33.736491],
-  "geometry": {"coordinates":[-93.617781,33.736491],"type":"Point"}
+  "bbox": [
+    -93.617781,
+    33.736491,
+    -93.617781,
+    33.736491
+],
+  "geometry": {"coordinates":[-93.61778099999999,33.736491],"type":"Point"}
 }

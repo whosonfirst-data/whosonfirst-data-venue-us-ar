@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102238495",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.127097,36.177779,-94.127097,36.177779",
     "geom:latitude":36.177779,
     "geom:longitude":-94.127097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"403 Caudle Ave",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885481,
+        85688549,
         85633793,
         85919623,
         102082007,
-        85688549
+        85885481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102238495",
-    "wof:lastmodified":1449068679,
+    "wof:lastmodified":1466321621,
     "wof:name":"B & G Siding & Soffit",
     "wof:parent_id":85885481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.127097,36.177779,-94.127097,36.177779],
-  "geometry": {"coordinates":[-94.127097,36.177779],"type":"Point"}
+  "bbox": [
+    -94.127097,
+    36.177779,
+    -94.127097,
+    36.177779
+],
+  "geometry": {"coordinates":[-94.12709700000001,36.177779],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219191703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.815853,33.574994,-92.815853,33.574994",
     "geom:latitude":33.574994,
     "geom:longitude":-92.815853,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"649 Opal St",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219191703,
-    "wof:lastmodified":1449072529,
+    "wof:lastmodified":1466320770,
     "wof:name":"Neal Logging",
     "wof:parent_id":85813169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "logging"
     ]
 },
-  "bbox": [-92.815853,33.574994,-92.815853,33.574994],
+  "bbox": [
+    -92.815853,
+    33.574994,
+    -92.815853,
+    33.574994
+],
   "geometry": {"coordinates":[-92.815853,33.574994],"type":"Point"}
 }

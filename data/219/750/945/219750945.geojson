@@ -2,13 +2,14 @@
   "id": 219750945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.7678,36.309784,-91.7678,36.309784",
     "geom:latitude":36.309784,
     "geom:longitude":-91.7678,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"326 Lakeview Trl",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219750945,
-    "wof:lastmodified":1449072521,
+    "wof:lastmodified":1466324984,
     "wof:name":"Mccullough Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.7678,36.309784,-91.7678,36.309784],
-  "geometry": {"coordinates":[-91.7678,36.309784],"type":"Point"}
+  "bbox": [
+    -91.7678,
+    36.309784,
+    -91.7678,
+    36.309784
+],
+  "geometry": {"coordinates":[-91.76779999999999,36.309784],"type":"Point"}
 }

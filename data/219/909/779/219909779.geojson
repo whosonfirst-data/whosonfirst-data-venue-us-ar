@@ -2,13 +2,14 @@
   "id": 219909779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.296634,36.356929,-94.296634,36.356929",
     "geom:latitude":36.356929,
     "geom:longitude":-94.296634,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Hailey Dr",
     "sg:city":"Centerton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219909779,
-    "wof:lastmodified":1449073057,
+    "wof:lastmodified":1466325121,
     "wof:name":"Watermark Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-94.296634,36.356929,-94.296634,36.356929],
+  "bbox": [
+    -94.296634,
+    36.356929,
+    -94.296634,
+    36.356929
+],
   "geometry": {"coordinates":[-94.296634,36.356929],"type":"Point"}
 }

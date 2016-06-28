@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102364049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.737254,35.777727,-90.737254,35.777727",
     "geom:latitude":35.777727,
     "geom:longitude":-90.737254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2118 Valley View Dr",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102364049,
-    "wof:lastmodified":1449069097,
+    "wof:lastmodified":1466324262,
     "wof:name":"Valley View Sch Junior High",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.737254,35.777727,-90.737254,35.777727],
-  "geometry": {"coordinates":[-90.737254,35.777727],"type":"Point"}
+  "bbox": [
+    -90.737254,
+    35.777727,
+    -90.737254,
+    35.777727
+],
+  "geometry": {"coordinates":[-90.73725399999999,35.777727],"type":"Point"}
 }

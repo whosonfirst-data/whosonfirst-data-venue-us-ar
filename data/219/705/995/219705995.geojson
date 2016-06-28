@@ -2,13 +2,14 @@
   "id": 219705995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.196276,36.382999,-90.196276,36.382999",
     "geom:latitude":36.382999,
     "geom:longitude":-90.196276,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"686 W Court St",
     "sg:city":"Piggott",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219705995,
-    "wof:lastmodified":1449073942,
+    "wof:lastmodified":1466324867,
     "wof:name":"Piggott Auto Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.196276,36.382999,-90.196276,36.382999],
+  "bbox": [
+    -90.196276,
+    36.382999,
+    -90.196276,
+    36.382999
+],
   "geometry": {"coordinates":[-90.196276,36.382999],"type":"Point"}
 }

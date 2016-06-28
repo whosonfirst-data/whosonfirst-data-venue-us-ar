@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102347357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.115935,35.875266,-92.115935,35.875266",
     "geom:latitude":35.875266,
     "geom:longitude":-92.115935,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"705 Park Ave",
     "sg:city":"Mountain View",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102347357,
-    "wof:lastmodified":1449068935,
+    "wof:lastmodified":1466323996,
     "wof:name":"Route 56 Deli & Grocery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.115935,35.875266,-92.115935,35.875266],
-  "geometry": {"coordinates":[-92.115935,35.875266],"type":"Point"}
+  "bbox": [
+    -92.115935,
+    35.875266,
+    -92.115935,
+    35.875266
+],
+  "geometry": {"coordinates":[-92.11593499999999,35.875266],"type":"Point"}
 }

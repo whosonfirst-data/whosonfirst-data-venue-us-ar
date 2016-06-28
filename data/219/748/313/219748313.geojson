@@ -2,13 +2,14 @@
   "id": 219748313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.813588,36.382544,-91.813588,36.382544",
     "geom:latitude":36.382544,
     "geom:longitude":-91.813588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"616 N Main St",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219748313,
-    "wof:lastmodified":1449073047,
+    "wof:lastmodified":1466324909,
     "wof:name":"Sanders' Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.813588,36.382544,-91.813588,36.382544],
+  "bbox": [
+    -91.813588,
+    36.382544,
+    -91.813588,
+    36.382544
+],
   "geometry": {"coordinates":[-91.813588,36.382544],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219894645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.223137,36.420052,-94.223137,36.420052",
     "geom:latitude":36.420052,
     "geom:longitude":-94.223137,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 NW Lowes Ave",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":219894645,
-    "wof:lastmodified":1449071842,
+    "wof:lastmodified":1466325091,
     "wof:name":"Lowe's? Home Improvement",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-94.223137,36.420052,-94.223137,36.420052],
-  "geometry": {"coordinates":[-94.223137,36.420052],"type":"Point"}
+  "bbox": [
+    -94.223137,
+    36.420052,
+    -94.223137,
+    36.420052
+],
+  "geometry": {"coordinates":[-94.22313699999999,36.420052],"type":"Point"}
 }

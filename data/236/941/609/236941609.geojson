@@ -2,13 +2,14 @@
   "id": 236941609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.022426,33.421471,-94.022426,33.421471",
     "geom:latitude":33.421471,
     "geom:longitude":-94.022426,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Cleveland St",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236941609,
-    "wof:lastmodified":1449003653,
+    "wof:lastmodified":1466324428,
     "wof:name":"Halls United Mthodist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-94.022426,33.421471,-94.022426,33.421471],
+  "bbox": [
+    -94.022426,
+    33.421471,
+    -94.022426,
+    33.421471
+],
   "geometry": {"coordinates":[-94.022426,33.421471],"type":"Point"}
 }

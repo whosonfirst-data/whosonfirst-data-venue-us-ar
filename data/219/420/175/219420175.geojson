@@ -2,13 +2,14 @@
   "id": 219420175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.343966,35.184902,-92.343966,35.184902",
     "geom:latitude":35.184902,
     "geom:longitude":-92.343966,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"237 Highway 287",
     "sg:city":"Greenbrier",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219420175,
-    "wof:lastmodified":1449072083,
+    "wof:lastmodified":1466323022,
     "wof:name":"Needs Creek Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "churches-baptist"
     ]
 },
-  "bbox": [-92.343966,35.184902,-92.343966,35.184902],
-  "geometry": {"coordinates":[-92.343966,35.184902],"type":"Point"}
+  "bbox": [
+    -92.343966,
+    35.184902,
+    -92.343966,
+    35.184902
+],
+  "geometry": {"coordinates":[-92.34396599999999,35.184902],"type":"Point"}
 }

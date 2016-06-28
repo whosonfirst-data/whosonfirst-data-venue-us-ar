@@ -2,13 +2,14 @@
   "id": 235950007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.813625,36.620073,-94.813625,36.620073",
     "geom:latitude":36.620073,
     "geom:longitude":-94.813625,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1550 83rd St NW",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -69,10 +70,11 @@
         }
     ],
     "wof:id":235950007,
-    "wof:lastmodified":1449008393,
+    "wof:lastmodified":1466324414,
     "wof:name":"Cedar Oaks RV Resort & Mini Storage",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -86,6 +88,11 @@
         "boat"
     ]
 },
-  "bbox": [-94.813625,36.620073,-94.813625,36.620073],
+  "bbox": [
+    -94.813625,
+    36.620073,
+    -94.813625,
+    36.620073
+],
   "geometry": {"coordinates":[-94.813625,36.620073],"type":"Point"}
 }

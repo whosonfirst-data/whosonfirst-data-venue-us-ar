@@ -2,13 +2,14 @@
   "id": 337436345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.466642,35.278123,-94.466642,35.278123",
     "geom:latitude":35.278123,
     "geom:longitude":-94.466642,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1506 Folsom Blvd",
     "sg:city":"Pocola",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":337436345,
-    "wof:lastmodified":1449027659,
+    "wof:lastmodified":1466324488,
     "wof:name":"Fleet Service Maintenance Inc",
     "wof:parent_id":85809847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "tractor"
     ]
 },
-  "bbox": [-94.466642,35.278123,-94.466642,35.278123],
-  "geometry": {"coordinates":[-94.466642,35.278123],"type":"Point"}
+  "bbox": [
+    -94.466642,
+    35.278123,
+    -94.466642,
+    35.278123
+],
+  "geometry": {"coordinates":[-94.46664199999999,35.278123],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219772055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.114363,36.246969,-93.114363,36.246969",
     "geom:latitude":36.246969,
     "geom:longitude":-93.114363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1409 Highway 62 65 N 65 N Ste 3",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219772055,
-    "wof:lastmodified":1449071980,
+    "wof:lastmodified":1466325008,
     "wof:name":"Treasure House Books",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "store"
     ]
 },
-  "bbox": [-93.114363,36.246969,-93.114363,36.246969],
+  "bbox": [
+    -93.114363,
+    36.246969,
+    -93.114363,
+    36.246969
+],
   "geometry": {"coordinates":[-93.114363,36.246969],"type":"Point"}
 }

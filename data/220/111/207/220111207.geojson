@@ -2,13 +2,14 @@
   "id": 220111207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.087579,35.18218,-94.087579,35.18218",
     "geom:latitude":35.18218,
     "geom:longitude":-94.087579,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2004 Mccartney Camp Rd",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220111207,
-    "wof:lastmodified":1449074897,
+    "wof:lastmodified":1466322417,
     "wof:name":"J&J Construction",
     "wof:parent_id":85832863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractors-commercial"
     ]
 },
-  "bbox": [-94.087579,35.18218,-94.087579,35.18218],
-  "geometry": {"coordinates":[-94.087579,35.18218],"type":"Point"}
+  "bbox": [
+    -94.087579,
+    35.18218,
+    -94.087579,
+    35.18218
+],
+  "geometry": {"coordinates":[-94.08757900000001,35.18218],"type":"Point"}
 }

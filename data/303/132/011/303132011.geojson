@@ -2,13 +2,14 @@
   "id": 303132011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.541395,36.175758,-94.541395,36.175758",
     "geom:latitude":36.175758,
     "geom:longitude":-94.541395,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"925 S Mount Olive St",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303132011,
-    "wof:lastmodified":1448999316,
+    "wof:lastmodified":1466324511,
     "wof:name":"Morris Tax Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "return"
     ]
 },
-  "bbox": [-94.541395,36.175758,-94.541395,36.175758],
-  "geometry": {"coordinates":[-94.541395,36.175758],"type":"Point"}
+  "bbox": [
+    -94.541395,
+    36.175758,
+    -94.541395,
+    36.175758
+],
+  "geometry": {"coordinates":[-94.54139499999999,36.175758],"type":"Point"}
 }

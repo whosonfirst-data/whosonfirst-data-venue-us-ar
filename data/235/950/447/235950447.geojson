@@ -2,13 +2,14 @@
   "id": 235950447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.73764,36.597935,-94.73764,36.597935",
     "geom:latitude":36.597935,
     "geom:longitude":-94.73764,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 E Highway 10",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":235950447,
-    "wof:lastmodified":1449008392,
+    "wof:lastmodified":1466320443,
     "wof:name":"Griffith Petroleum Management Corp",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.73764,36.597935,-94.73764,36.597935],
+  "bbox": [
+    -94.73764,
+    36.597935,
+    -94.73764,
+    36.597935
+],
   "geometry": {"coordinates":[-94.73764,36.597935],"type":"Point"}
 }

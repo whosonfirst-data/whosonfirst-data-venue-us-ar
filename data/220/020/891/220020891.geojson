@@ -2,13 +2,14 @@
   "id": 220020891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.166567,36.144372,-94.166567,36.144372",
     "geom:latitude":36.144372,
     "geom:longitude":-94.166567,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3032 Amberwood St",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220020891,
-    "wof:lastmodified":1449074398,
+    "wof:lastmodified":1466320496,
     "wof:name":"Mile 51 Media",
     "wof:parent_id":85885471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.166567,36.144372,-94.166567,36.144372],
+  "bbox": [
+    -94.166567,
+    36.144372,
+    -94.166567,
+    36.144372
+],
   "geometry": {"coordinates":[-94.166567,36.144372],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337524847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.238172,34.586634,-94.238172,34.586634",
     "geom:latitude":34.586634,
     "geom:longitude":-94.238172,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"414 Mena St",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337524847,
-    "wof:lastmodified":1449026924,
+    "wof:lastmodified":1466324503,
     "wof:name":"J Richard Carver OD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.238172,34.586634,-94.238172,34.586634],
-  "geometry": {"coordinates":[-94.238172,34.586634],"type":"Point"}
+  "bbox": [
+    -94.238172,
+    34.586634,
+    -94.238172,
+    34.586634
+],
+  "geometry": {"coordinates":[-94.23817200000001,34.586634],"type":"Point"}
 }

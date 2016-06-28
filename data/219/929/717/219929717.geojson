@@ -2,13 +2,14 @@
   "id": 219929717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.894263,36.137378,-93.894263,36.137378",
     "geom:latitude":36.137378,
     "geom:longitude":-93.894263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"463 Madison 7145",
     "sg:city":"Hindsville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219929717,
-    "wof:lastmodified":1449071740,
+    "wof:lastmodified":1466325155,
     "wof:name":"Quality Home Improvements Of Nwa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "contractor"
     ]
 },
-  "bbox": [-93.894263,36.137378,-93.894263,36.137378],
+  "bbox": [
+    -93.894263,
+    36.137378,
+    -93.894263,
+    36.137378
+],
   "geometry": {"coordinates":[-93.894263,36.137378],"type":"Point"}
 }

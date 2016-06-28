@@ -2,13 +2,14 @@
   "id": 220079893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.46057,35.459409,-93.46057,35.459409",
     "geom:latitude":35.459409,
     "geom:longitude":-93.46057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1118 S Rogers St",
     "sg:city":"Clarksville",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":220079893,
-    "wof:lastmodified":1449074729,
+    "wof:lastmodified":1466321590,
     "wof:name":"T.S. Nails",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.46057,35.459409,-93.46057,35.459409],
+  "bbox": [
+    -93.46057,
+    35.459409,
+    -93.46057,
+    35.459409
+],
   "geometry": {"coordinates":[-93.46057,35.459409],"type":"Point"}
 }

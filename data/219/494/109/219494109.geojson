@@ -2,13 +2,14 @@
   "id": 219494109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.805379,35.430691,-91.805379,35.430691",
     "geom:latitude":35.430691,
     "geom:longitude":-91.805379,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"396 Highway 124",
     "sg:city":"Pangburn",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219494109,
-    "wof:lastmodified":1449073535,
+    "wof:lastmodified":1466323895,
     "wof:name":"Sawdust Linen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "women's"
     ]
 },
-  "bbox": [-91.805379,35.430691,-91.805379,35.430691],
+  "bbox": [
+    -91.805379,
+    35.430691,
+    -91.805379,
+    35.430691
+],
   "geometry": {"coordinates":[-91.805379,35.430691],"type":"Point"}
 }

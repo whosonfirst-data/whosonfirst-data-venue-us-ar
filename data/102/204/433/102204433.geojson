@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102204433",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.164138,36.066342,-94.164138,36.066342",
     "geom:latitude":36.066342,
     "geom:longitude":-94.164138,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"311 W Dickson St",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -34,11 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885451,
+        85688549,
         85633793,
         85919609,
         102082007,
-        85688549
+        85885451
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":"102204433",
-    "wof:lastmodified":1449070280,
+    "wof:lastmodified":1466320763,
     "wof:name":"Doxa Total Design Strategy",
     "wof:parent_id":85885451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.164138,36.066342,-94.164138,36.066342],
-  "geometry": {"coordinates":[-94.164138,36.066342],"type":"Point"}
+  "bbox": [
+    -94.164138,
+    36.066342,
+    -94.164138,
+    36.066342
+],
+  "geometry": {"coordinates":[-94.16413799999999,36.066342],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219501415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.162546,35.402794,-92.162546,35.402794",
     "geom:latitude":35.402794,
     "geom:longitude":-92.162546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"179 Adams Dr",
     "sg:city":"Quitman",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219501415,
-    "wof:lastmodified":1449073951,
+    "wof:lastmodified":1466323955,
     "wof:name":"Taylor S Landscaping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lawn"
     ]
 },
-  "bbox": [-92.162546,35.402794,-92.162546,35.402794],
-  "geometry": {"coordinates":[-92.162546,35.402794],"type":"Point"}
+  "bbox": [
+    -92.162546,
+    35.402794,
+    -92.162546,
+    35.402794
+],
+  "geometry": {"coordinates":[-92.16254600000001,35.402794],"type":"Point"}
 }

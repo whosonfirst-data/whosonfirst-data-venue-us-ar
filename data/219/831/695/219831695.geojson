@@ -2,13 +2,14 @@
   "id": 219831695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.180851,36.078354,-94.180851,36.078354",
     "geom:latitude":36.078354,
     "geom:longitude":-94.180851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1139 N Sunset Dr",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219831695,
-    "wof:lastmodified":1449072455,
+    "wof:lastmodified":1466325000,
     "wof:name":"Nokose Incorporated",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "consultant"
     ]
 },
-  "bbox": [-94.180851,36.078354,-94.180851,36.078354],
+  "bbox": [
+    -94.180851,
+    36.078354,
+    -94.180851,
+    36.078354
+],
   "geometry": {"coordinates":[-94.180851,36.078354],"type":"Point"}
 }

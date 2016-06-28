@@ -2,13 +2,14 @@
   "id": 219986807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.071778,36.28538,-94.071778,36.28538",
     "geom:latitude":36.28538,
     "geom:longitude":-94.071778,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14035 Pyramid Dr",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219986807,
-    "wof:lastmodified":1449073246,
+    "wof:lastmodified":1466325242,
     "wof:name":"Wm D Grossman Dvm",
     "wof:parent_id":85834957,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "specialty"
     ]
 },
-  "bbox": [-94.071778,36.28538,-94.071778,36.28538],
-  "geometry": {"coordinates":[-94.071778,36.28538],"type":"Point"}
+  "bbox": [
+    -94.071778,
+    36.28538,
+    -94.071778,
+    36.28538
+],
+  "geometry": {"coordinates":[-94.07177799999999,36.28538],"type":"Point"}
 }

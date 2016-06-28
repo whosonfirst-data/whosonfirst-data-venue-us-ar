@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102426871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.25963,34.84054,-92.25963,34.84054",
     "geom:latitude":34.84054,
     "geom:longitude":-92.25963,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8200 Remount Rd",
     "sg:city":"N Little Rock",
     "sg:classifiers":[
@@ -35,11 +36,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851793,
+        85688549,
         85633793,
         85921255,
         102082497,
-        85688549
+        85851793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":102426871,
-    "wof:lastmodified":1449068306,
+    "wof:lastmodified":1466325556,
     "wof:name":"Air Charter Express",
     "wof:parent_id":85851793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.25963,34.84054,-92.25963,34.84054],
+  "bbox": [
+    -92.25963,
+    34.84054,
+    -92.25963,
+    34.84054
+],
   "geometry": {"coordinates":[-92.25963,34.84054],"type":"Point"}
 }

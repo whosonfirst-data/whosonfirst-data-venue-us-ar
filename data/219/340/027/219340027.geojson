@@ -2,13 +2,14 @@
   "id": 219340027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.894685,35.068366,-91.894685,35.068366",
     "geom:latitude":35.068366,
     "geom:longitude":-91.894685,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1010 W Center St",
     "sg:city":"Beebe",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219340027,
-    "wof:lastmodified":1449073128,
+    "wof:lastmodified":1466322090,
     "wof:name":"Lance Mcgraw",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.894685,35.068366,-91.894685,35.068366],
+  "bbox": [
+    -91.894685,
+    35.068366,
+    -91.894685,
+    35.068366
+],
   "geometry": {"coordinates":[-91.894685,35.068366],"type":"Point"}
 }

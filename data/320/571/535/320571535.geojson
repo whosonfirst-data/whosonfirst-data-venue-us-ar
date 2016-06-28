@@ -2,13 +2,14 @@
   "id": 320571535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.534271,36.214288,-94.534271,36.214288",
     "geom:latitude":36.214288,
     "geom:longitude":-94.534271,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14610 Oak Crest Dr",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":320571535,
-    "wof:lastmodified":1449013823,
+    "wof:lastmodified":1466320589,
     "wof:name":"Gerald Warren",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "system"
     ]
 },
-  "bbox": [-94.534271,36.214288,-94.534271,36.214288],
+  "bbox": [
+    -94.534271,
+    36.214288,
+    -94.534271,
+    36.214288
+],
   "geometry": {"coordinates":[-94.534271,36.214288],"type":"Point"}
 }

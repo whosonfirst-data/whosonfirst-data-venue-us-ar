@@ -2,13 +2,14 @@
   "id": 337493173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.555168,36.176038,-94.555168,36.176038",
     "geom:latitude":36.176038,
     "geom:longitude":-94.555168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1801 Hwy 412 W",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337493173,
-    "wof:lastmodified":1449027203,
+    "wof:lastmodified":1466324499,
     "wof:name":"Hartland Lodge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.555168,36.176038,-94.555168,36.176038],
-  "geometry": {"coordinates":[-94.555168,36.176038],"type":"Point"}
+  "bbox": [
+    -94.555168,
+    36.176038,
+    -94.555168,
+    36.176038
+],
+  "geometry": {"coordinates":[-94.55516799999999,36.176038],"type":"Point"}
 }

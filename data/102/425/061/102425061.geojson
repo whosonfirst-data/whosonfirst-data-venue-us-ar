@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102425061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.683484,34.789711,-92.683484,34.789711",
     "geom:latitude":34.789711,
     "geom:longitude":-92.683484,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23301 N Cold Springs Rd",
     "sg:city":"Paron",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":102425061,
-    "wof:lastmodified":1449068636,
+    "wof:lastmodified":1466325335,
     "wof:name":"Damsels Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.683484,34.789711,-92.683484,34.789711],
-  "geometry": {"coordinates":[-92.683484,34.789711],"type":"Point"}
+  "bbox": [
+    -92.683484,
+    34.789711,
+    -92.683484,
+    34.789711
+],
+  "geometry": {"coordinates":[-92.68348400000001,34.789711],"type":"Point"}
 }

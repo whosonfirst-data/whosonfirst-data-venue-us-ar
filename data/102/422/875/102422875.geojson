@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102422875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.557624,34.799541,-92.557624,34.799541",
     "geom:latitude":34.799541,
     "geom:longitude":-92.557624,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4811 Jones Loop Rd",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102422875,
-    "wof:lastmodified":1449067957,
+    "wof:lastmodified":1466325481,
     "wof:name":"Old Stuff Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.557624,34.799541,-92.557624,34.799541],
+  "bbox": [
+    -92.557624,
+    34.799541,
+    -92.557624,
+    34.799541
+],
   "geometry": {"coordinates":[-92.557624,34.799541],"type":"Point"}
 }

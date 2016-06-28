@@ -2,13 +2,14 @@
   "id": 219782445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.981381,36.194982,-92.981381,36.194982",
     "geom:latitude":36.194982,
     "geom:longitude":-92.981381,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9041 Old Olvey Rd",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219782445,
-    "wof:lastmodified":1449070362,
+    "wof:lastmodified":1466324938,
     "wof:name":"Beckett Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.981381,36.194982,-92.981381,36.194982],
+  "bbox": [
+    -92.981381,
+    36.194982,
+    -92.981381,
+    36.194982
+],
   "geometry": {"coordinates":[-92.981381,36.194982],"type":"Point"}
 }

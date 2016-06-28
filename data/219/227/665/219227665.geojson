@@ -2,13 +2,14 @@
   "id": 219227665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.600095,33.675966,-93.600095,33.675966",
     "geom:latitude":33.675966,
     "geom:longitude":-93.600095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"910 N Hervey St",
     "sg:city":"Hope",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":219227665,
-    "wof:lastmodified":1449071176,
+    "wof:lastmodified":1466321149,
     "wof:name":"H&R Block",
     "wof:parent_id":85806015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "bookkeeping"
     ]
 },
-  "bbox": [-93.600095,33.675966,-93.600095,33.675966],
+  "bbox": [
+    -93.600095,
+    33.675966,
+    -93.600095,
+    33.675966
+],
   "geometry": {"coordinates":[-93.600095,33.675966],"type":"Point"}
 }

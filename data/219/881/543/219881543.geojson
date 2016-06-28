@@ -2,13 +2,14 @@
   "id": 219881543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.251543,36.36269,-94.251543,36.36269",
     "geom:latitude":36.36269,
     "geom:longitude":-94.251543,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3505 SW Gibson Ave",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219881543,
-    "wof:lastmodified":1449072426,
+    "wof:lastmodified":1466325069,
     "wof:name":"Lauren Cardwell",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "women's"
     ]
 },
-  "bbox": [-94.251543,36.36269,-94.251543,36.36269],
+  "bbox": [
+    -94.251543,
+    36.36269,
+    -94.251543,
+    36.36269
+],
   "geometry": {"coordinates":[-94.251543,36.36269],"type":"Point"}
 }

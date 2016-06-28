@@ -2,13 +2,14 @@
   "id": 219918149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.004019,36.41831,-94.004019,36.41831",
     "geom:latitude":36.41831,
     "geom:longitude":-94.004019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13310 Byler Rd",
     "sg:city":"Garfield",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219918149,
-    "wof:lastmodified":1449072784,
+    "wof:lastmodified":1466325131,
     "wof:name":"Tommy Floyd Snoderly",
     "wof:parent_id":85895837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.004019,36.41831,-94.004019,36.41831],
+  "bbox": [
+    -94.004019,
+    36.41831,
+    -94.004019,
+    36.41831
+],
   "geometry": {"coordinates":[-94.004019,36.41831],"type":"Point"}
 }

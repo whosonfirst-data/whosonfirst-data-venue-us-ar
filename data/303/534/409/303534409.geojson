@@ -2,13 +2,14 @@
   "id": 303534409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.375689,35.279472,-94.375689,35.279472",
     "geom:latitude":35.279472,
     "geom:longitude":-94.375689,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5114 Rye Hill Rd E",
     "sg:city":"Fort Smith",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303534409,
-    "wof:lastmodified":1448998747,
+    "wof:lastmodified":1466320508,
     "wof:name":"Northside Super Convenience",
     "wof:parent_id":85808359,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gas"
     ]
 },
-  "bbox": [-94.375689,35.279472,-94.375689,35.279472],
-  "geometry": {"coordinates":[-94.375689,35.279472],"type":"Point"}
+  "bbox": [
+    -94.375689,
+    35.279472,
+    -94.375689,
+    35.279472
+],
+  "geometry": {"coordinates":[-94.37568899999999,35.279472],"type":"Point"}
 }

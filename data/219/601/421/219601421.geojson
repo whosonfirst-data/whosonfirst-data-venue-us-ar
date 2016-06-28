@@ -2,13 +2,14 @@
   "id": 219601421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.197056,35.206372,-90.197056,35.206372",
     "geom:latitude":35.206372,
     "geom:longitude":-90.197056,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"254 Alta Vista Dr",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219601421,
-    "wof:lastmodified":1449071976,
+    "wof:lastmodified":1466324584,
     "wof:name":"Donald W Shoemake",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sale"
     ]
 },
-  "bbox": [-90.197056,35.206372,-90.197056,35.206372],
+  "bbox": [
+    -90.197056,
+    35.206372,
+    -90.197056,
+    35.206372
+],
   "geometry": {"coordinates":[-90.197056,35.206372],"type":"Point"}
 }

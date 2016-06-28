@@ -2,13 +2,14 @@
   "id": 219894097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.196968,36.356709,-94.196968,36.356709",
     "geom:latitude":36.356709,
     "geom:longitude":-94.196968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 SE 14th St Suite 1",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":219894097,
-    "wof:lastmodified":1449071842,
+    "wof:lastmodified":1466325086,
     "wof:name":"Carpet One of Springdale",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "tile-contractors"
     ]
 },
-  "bbox": [-94.196968,36.356709,-94.196968,36.356709],
+  "bbox": [
+    -94.196968,
+    36.356709,
+    -94.196968,
+    36.356709
+],
   "geometry": {"coordinates":[-94.196968,36.356709],"type":"Point"}
 }

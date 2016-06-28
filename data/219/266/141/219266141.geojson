@@ -2,13 +2,14 @@
   "id": 219266141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.041745,33.431961,-94.041745,33.431961",
     "geom:latitude":33.431961,
     "geom:longitude":-94.041745,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"223 E Short 10th St",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219266141,
-    "wof:lastmodified":1449070476,
+    "wof:lastmodified":1466321454,
     "wof:name":"Department Of Gifted Education",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.041745,33.431961,-94.041745,33.431961],
-  "geometry": {"coordinates":[-94.041745,33.431961],"type":"Point"}
+  "bbox": [
+    -94.041745,
+    33.431961,
+    -94.041745,
+    33.431961
+],
+  "geometry": {"coordinates":[-94.04174500000001,33.431961],"type":"Point"}
 }

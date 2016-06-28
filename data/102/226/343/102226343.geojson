@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102226343",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.921322,35.13581,-93.921322,35.13581",
     "geom:latitude":35.13581,
     "geom:longitude":-93.921322,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"272 S Sharpe Ave",
     "sg:city":"Booneville",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102226343",
-    "wof:lastmodified":1449069548,
+    "wof:lastmodified":1466321285,
     "wof:name":"US Housing Authority",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.921322,35.13581,-93.921322,35.13581],
+  "bbox": [
+    -93.921322,
+    35.13581,
+    -93.921322,
+    35.13581
+],
   "geometry": {"coordinates":[-93.921322,35.13581],"type":"Point"}
 }

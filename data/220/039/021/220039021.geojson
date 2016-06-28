@@ -2,13 +2,14 @@
   "id": 220039021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.12742,36.167122,-94.12742,36.167122",
     "geom:latitude":36.167122,
     "geom:longitude":-94.12742,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"404 E Robinson Ave Ste A",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":220039021,
-    "wof:lastmodified":1449074777,
+    "wof:lastmodified":1466320541,
     "wof:name":"Crossroads Cafe & Catering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "espresso"
     ]
 },
-  "bbox": [-94.12742,36.167122,-94.12742,36.167122],
+  "bbox": [
+    -94.12742,
+    36.167122,
+    -94.12742,
+    36.167122
+],
   "geometry": {"coordinates":[-94.12742,36.167122],"type":"Point"}
 }

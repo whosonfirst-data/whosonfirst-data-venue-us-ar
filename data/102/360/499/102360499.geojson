@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102360499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.992168,34.228059,-91.992168,34.228059",
     "geom:latitude":34.228059,
     "geom:longitude":-91.992168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1021 E 2nd Ave",
     "sg:city":"Pine Bluff",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102360499,
-    "wof:lastmodified":1449069640,
+    "wof:lastmodified":1466324255,
     "wof:name":"IBT",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.992168,34.228059,-91.992168,34.228059],
-  "geometry": {"coordinates":[-91.992168,34.228059],"type":"Point"}
+  "bbox": [
+    -91.992168,
+    34.228059,
+    -91.992168,
+    34.228059
+],
+  "geometry": {"coordinates":[-91.99216800000001,34.228059],"type":"Point"}
 }

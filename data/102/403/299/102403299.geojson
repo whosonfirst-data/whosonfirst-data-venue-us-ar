@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102403299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.025456,34.968297,-92.025456,34.968297",
     "geom:latitude":34.968297,
     "geom:longitude":-92.025456,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Stacey St",
     "sg:city":"Cabot",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102403299,
-    "wof:lastmodified":1449069833,
+    "wof:lastmodified":1466324706,
     "wof:name":"Willo Properties Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.025456,34.968297,-92.025456,34.968297],
-  "geometry": {"coordinates":[-92.025456,34.968297],"type":"Point"}
+  "bbox": [
+    -92.025456,
+    34.968297,
+    -92.025456,
+    34.968297
+],
+  "geometry": {"coordinates":[-92.02545600000001,34.968297],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219189109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.825521,33.578166,-92.825521,33.578166",
     "geom:latitude":33.578166,
     "geom:longitude":-92.825521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"157 Grinstead St SE",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":219189109,
-    "wof:lastmodified":1449072893,
+    "wof:lastmodified":1466320721,
     "wof:name":"Grinstead Station Bargain Str",
     "wof:parent_id":85813169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "hand"
     ]
 },
-  "bbox": [-92.825521,33.578166,-92.825521,33.578166],
-  "geometry": {"coordinates":[-92.825521,33.578166],"type":"Point"}
+  "bbox": [
+    -92.825521,
+    33.578166,
+    -92.825521,
+    33.578166
+],
+  "geometry": {"coordinates":[-92.82552099999999,33.578166],"type":"Point"}
 }

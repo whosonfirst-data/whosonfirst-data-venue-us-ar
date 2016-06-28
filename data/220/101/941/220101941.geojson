@@ -2,13 +2,14 @@
   "id": 220101941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.304632,35.327715,-94.304632,35.327715",
     "geom:latitude":35.327715,
     "geom:longitude":-94.304632,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"811 Fort St",
     "sg:city":"Barling",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":220101941,
-    "wof:lastmodified":1449074466,
+    "wof:lastmodified":1466322260,
     "wof:name":"River Valley Plumbing",
     "wof:parent_id":85832863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "contractor"
     ]
 },
-  "bbox": [-94.304632,35.327715,-94.304632,35.327715],
+  "bbox": [
+    -94.304632,
+    35.327715,
+    -94.304632,
+    35.327715
+],
   "geometry": {"coordinates":[-94.304632,35.327715],"type":"Point"}
 }

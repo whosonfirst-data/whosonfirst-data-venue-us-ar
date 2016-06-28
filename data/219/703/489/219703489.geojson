@@ -2,13 +2,14 @@
   "id": 219703489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.505649,36.106774,-90.505649,36.106774",
     "geom:latitude":36.106774,
     "geom:longitude":-90.505649,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4695 Hwy. 135 North",
     "sg:city":"Paragould",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219703489,
-    "wof:lastmodified":1449071472,
+    "wof:lastmodified":1466324782,
     "wof:name":"Oak Grove Pawn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pawnbroker"
     ]
 },
-  "bbox": [-90.505649,36.106774,-90.505649,36.106774],
-  "geometry": {"coordinates":[-90.505649,36.106774],"type":"Point"}
+  "bbox": [
+    -90.505649,
+    36.106774,
+    -90.505649,
+    36.106774
+],
+  "geometry": {"coordinates":[-90.50564900000001,36.106774],"type":"Point"}
 }

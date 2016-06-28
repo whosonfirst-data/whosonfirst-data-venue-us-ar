@@ -2,13 +2,14 @@
   "id": 219901677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.218843,36.363217,-94.218843,36.363217",
     "geom:latitude":36.363217,
     "geom:longitude":-94.218843,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"904 S Walton Blvd",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219901677,
-    "wof:lastmodified":1449071866,
+    "wof:lastmodified":1466325109,
     "wof:name":"1 Nails",
     "wof:parent_id":85895819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.218843,36.363217,-94.218843,36.363217],
-  "geometry": {"coordinates":[-94.218843,36.363217],"type":"Point"}
+  "bbox": [
+    -94.218843,
+    36.363217,
+    -94.218843,
+    36.363217
+],
+  "geometry": {"coordinates":[-94.21884300000001,36.363217],"type":"Point"}
 }

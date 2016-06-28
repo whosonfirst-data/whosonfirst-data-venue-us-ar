@@ -2,13 +2,14 @@
   "id": 219198513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.440674,33.813189,-92.440674,33.813189",
     "geom:latitude":33.813189,
     "geom:longitude":-92.440674,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"432 Overstreet",
     "sg:city":"Fordyce",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219198513,
-    "wof:lastmodified":1449071669,
+    "wof:lastmodified":1466320853,
     "wof:name":"4 Dice Restaurant Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.440674,33.813189,-92.440674,33.813189],
+  "bbox": [
+    -92.440674,
+    33.813189,
+    -92.440674,
+    33.813189
+],
   "geometry": {"coordinates":[-92.440674,33.813189],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219394681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.444203,35.099048,-92.444203,35.099048",
     "geom:latitude":35.099048,
     "geom:longitude":-92.444203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1512 Hairston St",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219394681,
-    "wof:lastmodified":1449071077,
+    "wof:lastmodified":1466322803,
     "wof:name":"Central Arkansas Dust Control Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "matting"
     ]
 },
-  "bbox": [-92.444203,35.099048,-92.444203,35.099048],
+  "bbox": [
+    -92.444203,
+    35.099048,
+    -92.444203,
+    35.099048
+],
   "geometry": {"coordinates":[-92.444203,35.099048],"type":"Point"}
 }

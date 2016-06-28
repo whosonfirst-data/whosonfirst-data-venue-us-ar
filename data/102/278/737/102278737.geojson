@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102278737",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.152746,36.09905,-94.152746,36.09905",
     "geom:latitude":36.09905,
     "geom:longitude":-94.152746,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2605 N Villa Blvd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885431,
+        85688549,
         85633793,
         85919609,
         102082007,
-        85688549
+        85885431
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102278737",
-    "wof:lastmodified":1449069064,
+    "wof:lastmodified":1466322639,
     "wof:name":"Dial A Date",
     "wof:parent_id":85885431,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.152746,36.09905,-94.152746,36.09905],
-  "geometry": {"coordinates":[-94.152746,36.09905],"type":"Point"}
+  "bbox": [
+    -94.152746,
+    36.09905,
+    -94.152746,
+    36.09905
+],
+  "geometry": {"coordinates":[-94.15274599999999,36.09905],"type":"Point"}
 }

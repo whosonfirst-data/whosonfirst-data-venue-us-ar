@@ -2,13 +2,14 @@
   "id": 220023025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.237578,36.239745,-94.237578,36.239745",
     "geom:latitude":36.239745,
     "geom:longitude":-94.237578,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12958 Highway 112",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220023025,
-    "wof:lastmodified":1449074801,
+    "wof:lastmodified":1466320494,
     "wof:name":"Piney Ridge Center",
     "wof:parent_id":85895831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "worker"
     ]
 },
-  "bbox": [-94.237578,36.239745,-94.237578,36.239745],
+  "bbox": [
+    -94.237578,
+    36.239745,
+    -94.237578,
+    36.239745
+],
   "geometry": {"coordinates":[-94.237578,36.239745],"type":"Point"}
 }

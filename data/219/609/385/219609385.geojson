@@ -2,13 +2,14 @@
   "id": 219609385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.01807,35.698101,-90.01807,35.698101",
     "geom:latitude":35.698101,
     "geom:longitude":-90.01807,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3137 W Keiser Ave",
     "sg:city":"Osceola",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":219609385,
-    "wof:lastmodified":1449071700,
+    "wof:lastmodified":1466324828,
     "wof:name":"Natural Conservation Serv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "environmental"
     ]
 },
-  "bbox": [-90.01807,35.698101,-90.01807,35.698101],
-  "geometry": {"coordinates":[-90.01807,35.698101],"type":"Point"}
+  "bbox": [
+    -90.01807,
+    35.698101,
+    -90.01807,
+    35.698101
+],
+  "geometry": {"coordinates":[-90.01806999999999,35.698101],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219458499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.800538,34.363929,-92.800538,34.363929",
     "geom:latitude":34.363929,
     "geom:longitude":-92.800538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1015 E Page Ave",
     "sg:city":"Malvern",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219458499,
-    "wof:lastmodified":1449072910,
+    "wof:lastmodified":1466323456,
     "wof:name":"Breath Of Life PRC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "abortion"
     ]
 },
-  "bbox": [-92.800538,34.363929,-92.800538,34.363929],
+  "bbox": [
+    -92.800538,
+    34.363929,
+    -92.800538,
+    34.363929
+],
   "geometry": {"coordinates":[-92.800538,34.363929],"type":"Point"}
 }

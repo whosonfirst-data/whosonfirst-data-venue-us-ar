@@ -2,13 +2,14 @@
   "id": 219219137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.205349,33.242795,-93.205349,33.242795",
     "geom:latitude":33.242795,
     "geom:longitude":-93.205349,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 Columbia Road 11 E",
     "sg:city":"Magnolia",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219219137,
-    "wof:lastmodified":1449073769,
+    "wof:lastmodified":1466321037,
     "wof:name":"Area Agency On Aging Of Southwest Arkansas Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "citizen"
     ]
 },
-  "bbox": [-93.205349,33.242795,-93.205349,33.242795],
+  "bbox": [
+    -93.205349,
+    33.242795,
+    -93.205349,
+    33.242795
+],
   "geometry": {"coordinates":[-93.205349,33.242795],"type":"Point"}
 }

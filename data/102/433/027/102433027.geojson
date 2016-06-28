@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102433027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.854498,33.558702,-92.854498,33.558702",
     "geom:latitude":33.558702,
     "geom:longitude":-92.854498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1478 California Ave SW",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102433027,
-    "wof:lastmodified":1449068073,
+    "wof:lastmodified":1466325645,
     "wof:name":"Mike's Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.854498,33.558702,-92.854498,33.558702],
-  "geometry": {"coordinates":[-92.854498,33.558702],"type":"Point"}
+  "bbox": [
+    -92.854498,
+    33.558702,
+    -92.854498,
+    33.558702
+],
+  "geometry": {"coordinates":[-92.85449800000001,33.558702],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219172431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.802832,33.629728,-91.802832,33.629728",
     "geom:latitude":33.629728,
     "geom:longitude":-91.802832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"707 Highway 278 W",
     "sg:city":"Monticello",
     "sg:classifiers":[
@@ -74,10 +75,11 @@
         }
     ],
     "wof:id":219172431,
-    "wof:lastmodified":1449071806,
+    "wof:lastmodified":1466320569,
     "wof:name":"David Funderburg Insurance Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -87,6 +89,11 @@
         "consultant"
     ]
 },
-  "bbox": [-91.802832,33.629728,-91.802832,33.629728],
+  "bbox": [
+    -91.802832,
+    33.629728,
+    -91.802832,
+    33.629728
+],
   "geometry": {"coordinates":[-91.802832,33.629728],"type":"Point"}
 }

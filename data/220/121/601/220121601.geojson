@@ -2,13 +2,14 @@
   "id": 220121601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.051849,35.500977,-94.051849,35.500977",
     "geom:latitude":35.500977,
     "geom:longitude":-94.051849,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"517 N Main St",
     "sg:city":"Mulberry",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220121601,
-    "wof:lastmodified":1449074659,
+    "wof:lastmodified":1466322617,
     "wof:name":"Jjl Tech Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "bureau"
     ]
 },
-  "bbox": [-94.051849,35.500977,-94.051849,35.500977],
+  "bbox": [
+    -94.051849,
+    35.500977,
+    -94.051849,
+    35.500977
+],
   "geometry": {"coordinates":[-94.051849,35.500977],"type":"Point"}
 }

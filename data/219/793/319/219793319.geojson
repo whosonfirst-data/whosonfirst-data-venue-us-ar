@@ -2,13 +2,14 @@
   "id": 219793319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.976277,36.156025,-92.976277,36.156025",
     "geom:latitude":36.156025,
     "geom:longitude":-92.976277,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8069 Rally Hill Rd",
     "sg:city":"Everton",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":219793319,
-    "wof:lastmodified":1449072317,
+    "wof:lastmodified":1466324947,
     "wof:name":"Peggy's Portraits",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "darkroom"
     ]
 },
-  "bbox": [-92.976277,36.156025,-92.976277,36.156025],
+  "bbox": [
+    -92.976277,
+    36.156025,
+    -92.976277,
+    36.156025
+],
   "geometry": {"coordinates":[-92.976277,36.156025],"type":"Point"}
 }

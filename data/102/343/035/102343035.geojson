@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102343035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.140949,34.470697,-92.140949,34.470697",
     "geom:latitude":34.470697,
     "geom:longitude":-92.140949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1715 Arrowhead Rd",
     "sg:city":"Redfield",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102343035,
-    "wof:lastmodified":1449069515,
+    "wof:lastmodified":1466323801,
     "wof:name":"Steve Smith's Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.140949,34.470697,-92.140949,34.470697],
-  "geometry": {"coordinates":[-92.140949,34.470697],"type":"Point"}
+  "bbox": [
+    -92.140949,
+    34.470697,
+    -92.140949,
+    34.470697
+],
+  "geometry": {"coordinates":[-92.14094900000001,34.470697],"type":"Point"}
 }

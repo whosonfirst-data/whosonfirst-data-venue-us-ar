@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102414745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.076147,34.141255,-93.076147,34.141255",
     "geom:latitude":34.141255,
     "geom:longitude":-93.076147,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2504 Country Club Rd",
     "sg:city":"Arkadelphia",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102414745,
-    "wof:lastmodified":1449068899,
+    "wof:lastmodified":1466325385,
     "wof:name":"Country Club Laundromat",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.076147,34.141255,-93.076147,34.141255],
-  "geometry": {"coordinates":[-93.076147,34.141255],"type":"Point"}
+  "bbox": [
+    -93.076147,
+    34.141255,
+    -93.076147,
+    34.141255
+],
+  "geometry": {"coordinates":[-93.07614700000001,34.141255],"type":"Point"}
 }

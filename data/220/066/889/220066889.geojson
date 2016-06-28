@@ -2,13 +2,14 @@
   "id": 220066889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.133205,35.281253,-93.133205,35.281253",
     "geom:latitude":35.281253,
     "geom:longitude":-93.133205,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 E Parkway Dr",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":220066889,
-    "wof:lastmodified":1449074248,
+    "wof:lastmodified":1466321234,
     "wof:name":"La Style",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothing"
     ]
 },
-  "bbox": [-93.133205,35.281253,-93.133205,35.281253],
+  "bbox": [
+    -93.133205,
+    35.281253,
+    -93.133205,
+    35.281253
+],
   "geometry": {"coordinates":[-93.133205,35.281253],"type":"Point"}
 }

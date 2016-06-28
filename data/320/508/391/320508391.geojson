@@ -2,13 +2,14 @@
   "id": 320508391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.809556,36.623455,-94.809556,36.623455",
     "geom:latitude":36.623455,
     "geom:longitude":-94.809556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8805 Keller Rd",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320508391,
-    "wof:lastmodified":1449013352,
+    "wof:lastmodified":1466320569,
     "wof:name":"Heaven's Best Carpet Cleaning",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "carpet"
     ]
 },
-  "bbox": [-94.809556,36.623455,-94.809556,36.623455],
+  "bbox": [
+    -94.809556,
+    36.623455,
+    -94.809556,
+    36.623455
+],
   "geometry": {"coordinates":[-94.809556,36.623455],"type":"Point"}
 }

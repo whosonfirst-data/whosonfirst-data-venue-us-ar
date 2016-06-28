@@ -2,13 +2,14 @@
   "id": 219339677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.907917,35.069643,-91.907917,35.069643",
     "geom:latitude":35.069643,
     "geom:longitude":-91.907917,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2012 W Dewitt Henry Dr",
     "sg:city":"Beebe",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":219339677,
-    "wof:lastmodified":1449071971,
+    "wof:lastmodified":1466322083,
     "wof:name":"Discount Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-91.907917,35.069643,-91.907917,35.069643],
+  "bbox": [
+    -91.907917,
+    35.069643,
+    -91.907917,
+    35.069643
+],
   "geometry": {"coordinates":[-91.907917,35.069643],"type":"Point"}
 }

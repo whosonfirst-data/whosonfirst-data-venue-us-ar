@@ -2,13 +2,14 @@
   "id": 219727559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.622409,35.761398,-91.622409,35.761398",
     "geom:latitude":35.761398,
     "geom:longitude":-91.622409,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1515 Jennings Ln",
     "sg:city":"Batesville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219727559,
-    "wof:lastmodified":1449070923,
+    "wof:lastmodified":1466324889,
     "wof:name":"Kds Holdings Inc",
     "wof:parent_id":85808231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "holding"
     ]
 },
-  "bbox": [-91.622409,35.761398,-91.622409,35.761398],
+  "bbox": [
+    -91.622409,
+    35.761398,
+    -91.622409,
+    35.761398
+],
   "geometry": {"coordinates":[-91.622409,35.761398],"type":"Point"}
 }

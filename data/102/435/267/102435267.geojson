@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102435267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.02201,33.224615,-92.02201,33.224615",
     "geom:latitude":33.224615,
     "geom:longitude":-92.02201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"584 Ashley Road 304",
     "sg:city":"Crossett",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":102435267,
-    "wof:lastmodified":1449069970,
+    "wof:lastmodified":1466325662,
     "wof:name":"Lake Georgia Pacific",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.02201,33.224615,-92.02201,33.224615],
-  "geometry": {"coordinates":[-92.02201,33.224615],"type":"Point"}
+  "bbox": [
+    -92.02201,
+    33.224615,
+    -92.02201,
+    33.224615
+],
+  "geometry": {"coordinates":[-92.02200999999999,33.224615],"type":"Point"}
 }

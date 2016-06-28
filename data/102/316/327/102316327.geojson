@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102316327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.388331,35.213346,-92.388331,35.213346",
     "geom:latitude":35.213346,
     "geom:longitude":-92.388331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"166 S Broadview St",
     "sg:city":"Greenbrier",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102316327,
-    "wof:lastmodified":1449069423,
+    "wof:lastmodified":1466323371,
     "wof:name":"Wagon Wheel Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.388331,35.213346,-92.388331,35.213346],
-  "geometry": {"coordinates":[-92.388331,35.213346],"type":"Point"}
+  "bbox": [
+    -92.388331,
+    35.213346,
+    -92.388331,
+    35.213346
+],
+  "geometry": {"coordinates":[-92.38833099999999,35.213346],"type":"Point"}
 }

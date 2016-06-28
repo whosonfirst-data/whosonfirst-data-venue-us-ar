@@ -2,13 +2,14 @@
   "id": 220087111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.60845,35.13274,-93.60845,35.13274",
     "geom:latitude":35.13274,
     "geom:longitude":-93.60845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11725 Falling Rock Rd",
     "sg:city":"Havana",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":220087111,
-    "wof:lastmodified":1449074393,
+    "wof:lastmodified":1466321810,
     "wof:name":"Mva Customs Classics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "customizing"
     ]
 },
-  "bbox": [-93.60845,35.13274,-93.60845,35.13274],
+  "bbox": [
+    -93.60845,
+    35.13274,
+    -93.60845,
+    35.13274
+],
   "geometry": {"coordinates":[-93.60845,35.13274],"type":"Point"}
 }

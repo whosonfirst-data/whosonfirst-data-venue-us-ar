@@ -2,13 +2,14 @@
   "id": 219483991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.409409,34.847075,-92.409409,34.847075",
     "geom:latitude":34.847075,
     "geom:longitude":-92.409409,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4001 Club Manor Dr",
     "sg:city":"Maumelle",
     "sg:classifiers":[
@@ -69,10 +70,11 @@
         }
     ],
     "wof:id":219483991,
-    "wof:lastmodified":1449073178,
+    "wof:lastmodified":1466323727,
     "wof:name":"First Christian Church of Maumelle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -83,6 +85,11 @@
         "christ"
     ]
 },
-  "bbox": [-92.409409,34.847075,-92.409409,34.847075],
+  "bbox": [
+    -92.409409,
+    34.847075,
+    -92.409409,
+    34.847075
+],
   "geometry": {"coordinates":[-92.409409,34.847075],"type":"Point"}
 }

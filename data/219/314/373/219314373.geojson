@@ -2,13 +2,14 @@
   "id": 219314373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.654033,34.101103,-93.654033,34.101103",
     "geom:latitude":34.101103,
     "geom:longitude":-93.654033,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1169 Highway 27 N",
     "sg:city":"Murfreesboro",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219314373,
-    "wof:lastmodified":1449073764,
+    "wof:lastmodified":1466321851,
     "wof:name":"Diamond City Floors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "tile-contractors"
     ]
 },
-  "bbox": [-93.654033,34.101103,-93.654033,34.101103],
+  "bbox": [
+    -93.654033,
+    34.101103,
+    -93.654033,
+    34.101103
+],
   "geometry": {"coordinates":[-93.654033,34.101103],"type":"Point"}
 }

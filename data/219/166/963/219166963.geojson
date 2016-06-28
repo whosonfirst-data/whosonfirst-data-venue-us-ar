@@ -2,13 +2,14 @@
   "id": 219166963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.73135,33.65442,-91.73135,33.65442",
     "geom:latitude":33.65442,
     "geom:longitude":-91.73135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1311 Highway 138",
     "sg:city":"Monticello",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219166963,
-    "wof:lastmodified":1449072343,
+    "wof:lastmodified":1466320525,
     "wof:name":"Washington & Sons Logging",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "logging"
     ]
 },
-  "bbox": [-91.73135,33.65442,-91.73135,33.65442],
-  "geometry": {"coordinates":[-91.73135,33.65442],"type":"Point"}
+  "bbox": [
+    -91.73135,
+    33.65442,
+    -91.73135,
+    33.65442
+],
+  "geometry": {"coordinates":[-91.73135000000001,33.65442],"type":"Point"}
 }

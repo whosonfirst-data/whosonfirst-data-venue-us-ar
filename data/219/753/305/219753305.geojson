@@ -2,13 +2,14 @@
   "id": 219753305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.121223,36.25322,-93.121223,36.25322",
     "geom:latitude":36.25322,
     "geom:longitude":-93.121223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 Sisco Ave",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219753305,
-    "wof:lastmodified":1449070804,
+    "wof:lastmodified":1466324847,
     "wof:name":"Rental Assistance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-93.121223,36.25322,-93.121223,36.25322],
+  "bbox": [
+    -93.121223,
+    36.25322,
+    -93.121223,
+    36.25322
+],
   "geometry": {"coordinates":[-93.121223,36.25322],"type":"Point"}
 }

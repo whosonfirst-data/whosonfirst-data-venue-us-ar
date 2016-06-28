@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102320817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.902223,35.928328,-89.902223,35.928328",
     "geom:latitude":35.928328,
     "geom:longitude":-89.902223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"129 E Walnut St",
     "sg:city":"Blytheville",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102320817,
-    "wof:lastmodified":1449068397,
+    "wof:lastmodified":1466323504,
     "wof:name":"Blytheville Wholesale Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.902223,35.928328,-89.902223,35.928328],
-  "geometry": {"coordinates":[-89.902223,35.928328],"type":"Point"}
+  "bbox": [
+    -89.902223,
+    35.928328,
+    -89.902223,
+    35.928328
+],
+  "geometry": {"coordinates":[-89.90222300000001,35.928328],"type":"Point"}
 }

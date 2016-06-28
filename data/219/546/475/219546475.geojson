@@ -2,13 +2,14 @@
   "id": 219546475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.039367,34.361602,-92.039367,34.361602",
     "geom:latitude":34.361602,
     "geom:longitude":-92.039367,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5709 Earl Chadick Rd",
     "sg:city":"Sherrill",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219546475,
-    "wof:lastmodified":1449070373,
+    "wof:lastmodified":1466324302,
     "wof:name":"Field Grider Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.039367,34.361602,-92.039367,34.361602],
+  "bbox": [
+    -92.039367,
+    34.361602,
+    -92.039367,
+    34.361602
+],
   "geometry": {"coordinates":[-92.039367,34.361602],"type":"Point"}
 }

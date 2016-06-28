@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102304169",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.159088,36.061799,-94.159088,36.061799",
     "geom:latitude":36.061799,
     "geom:longitude":-94.159088,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 E Mountain St",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885459,
+        85688549,
         85633793,
         85919609,
         102082007,
-        85688549
+        85885459
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102304169",
-    "wof:lastmodified":1449069588,
+    "wof:lastmodified":1466323075,
     "wof:name":"Show of Hands Massage Therapy",
     "wof:parent_id":85885459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.159088,36.061799,-94.159088,36.061799],
+  "bbox": [
+    -94.159088,
+    36.061799,
+    -94.159088,
+    36.061799
+],
   "geometry": {"coordinates":[-94.159088,36.061799],"type":"Point"}
 }

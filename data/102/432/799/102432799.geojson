@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102432799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.956983,36.114476,-90.956983,36.114476",
     "geom:latitude":36.114476,
     "geom:longitude":-90.956983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3215 US Hwy 67",
     "sg:city":"Walnut Ridge",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102432799,
-    "wof:lastmodified":1449067731,
+    "wof:lastmodified":1466325672,
     "wof:name":"Dons Steak House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.956983,36.114476,-90.956983,36.114476],
-  "geometry": {"coordinates":[-90.956983,36.114476],"type":"Point"}
+  "bbox": [
+    -90.956983,
+    36.114476,
+    -90.956983,
+    36.114476
+],
+  "geometry": {"coordinates":[-90.95698299999999,36.114476],"type":"Point"}
 }

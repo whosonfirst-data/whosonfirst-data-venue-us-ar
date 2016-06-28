@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102341809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.175818,35.151301,-90.175818,35.151301",
     "geom:latitude":35.151301,
     "geom:longitude":-90.175818,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 N 7th St",
     "sg:city":"West Memphis",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102341809,
-    "wof:lastmodified":1449070105,
+    "wof:lastmodified":1466323917,
     "wof:name":"Moudy Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.175818,35.151301,-90.175818,35.151301],
-  "geometry": {"coordinates":[-90.175818,35.151301],"type":"Point"}
+  "bbox": [
+    -90.175818,
+    35.151301,
+    -90.175818,
+    35.151301
+],
+  "geometry": {"coordinates":[-90.17581800000001,35.151301],"type":"Point"}
 }

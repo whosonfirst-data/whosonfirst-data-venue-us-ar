@@ -2,13 +2,14 @@
   "id": 219477319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.257624,35.608191,-91.257624,35.608191",
     "geom:latitude":35.608191,
     "geom:longitude":-91.257624,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1910 Mclain St",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219477319,
-    "wof:lastmodified":1449070997,
+    "wof:lastmodified":1466323655,
     "wof:name":"Whybrew Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-91.257624,35.608191,-91.257624,35.608191],
-  "geometry": {"coordinates":[-91.257624,35.608191],"type":"Point"}
+  "bbox": [
+    -91.257624,
+    35.608191,
+    -91.257624,
+    35.608191
+],
+  "geometry": {"coordinates":[-91.25762400000001,35.608191],"type":"Point"}
 }

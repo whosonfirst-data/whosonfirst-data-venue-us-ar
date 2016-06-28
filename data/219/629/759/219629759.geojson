@@ -2,13 +2,14 @@
   "id": 219629759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.713634,35.81716,-90.713634,35.81716",
     "geom:latitude":35.81716,
     "geom:longitude":-90.713634,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2515 S Culberhouse St",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219629759,
-    "wof:lastmodified":1449073107,
+    "wof:lastmodified":1466324625,
     "wof:name":"Kum & Go, L.C.",
     "wof:parent_id":85836541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.713634,35.81716,-90.713634,35.81716],
+  "bbox": [
+    -90.713634,
+    35.81716,
+    -90.713634,
+    35.81716
+],
   "geometry": {"coordinates":[-90.713634,35.81716],"type":"Point"}
 }

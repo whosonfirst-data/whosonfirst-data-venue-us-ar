@@ -2,13 +2,14 @@
   "id": 219952459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.93981,36.270799,-93.93981,36.270799",
     "geom:latitude":36.270799,
     "geom:longitude":-93.93981,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10803 Greer Ln",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":219952459,
-    "wof:lastmodified":1449072942,
+    "wof:lastmodified":1466325107,
     "wof:name":"Greer Family Trust",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investing"
     ]
 },
-  "bbox": [-93.93981,36.270799,-93.93981,36.270799],
-  "geometry": {"coordinates":[-93.93981,36.270799],"type":"Point"}
+  "bbox": [
+    -93.93981,
+    36.270799,
+    -93.93981,
+    36.270799
+],
+  "geometry": {"coordinates":[-93.93980999999999,36.270799],"type":"Point"}
 }

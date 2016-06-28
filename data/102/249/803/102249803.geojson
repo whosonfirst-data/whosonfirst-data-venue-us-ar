@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102249803",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.380851,34.714677,-92.380851,34.714677",
     "geom:latitude":34.714677,
     "geom:longitude":-92.380851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4309 Weldon Ave",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851771,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85851771
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102249803",
-    "wof:lastmodified":1449067905,
+    "wof:lastmodified":1466321931,
     "wof:name":"Stanley Hicks",
     "wof:parent_id":85851771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.380851,34.714677,-92.380851,34.714677],
-  "geometry": {"coordinates":[-92.380851,34.714677],"type":"Point"}
+  "bbox": [
+    -92.380851,
+    34.714677,
+    -92.380851,
+    34.714677
+],
+  "geometry": {"coordinates":[-92.38085100000001,34.714677],"type":"Point"}
 }

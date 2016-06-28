@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102348605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.289403,36.476569,-94.289403,36.476569",
     "geom:latitude":36.476569,
     "geom:longitude":-94.289403,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1259 Forest Hills Blvd",
     "sg:city":"Bella Vista",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102348605,
-    "wof:lastmodified":1449067889,
+    "wof:lastmodified":1466324053,
     "wof:name":"Forest Hills Accounting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.289403,36.476569,-94.289403,36.476569],
-  "geometry": {"coordinates":[-94.289403,36.476569],"type":"Point"}
+  "bbox": [
+    -94.289403,
+    36.476569,
+    -94.289403,
+    36.476569
+],
+  "geometry": {"coordinates":[-94.28940299999999,36.476569],"type":"Point"}
 }

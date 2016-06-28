@@ -2,13 +2,14 @@
   "id": 219836801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.157047,36.125089,-94.157047,36.125089",
     "geom:latitude":36.125089,
     "geom:longitude":-94.157047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"95 E Joyce Blvd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":219836801,
-    "wof:lastmodified":1449072720,
+    "wof:lastmodified":1466325009,
     "wof:name":"Burger Life",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "take"
     ]
 },
-  "bbox": [-94.157047,36.125089,-94.157047,36.125089],
-  "geometry": {"coordinates":[-94.157047,36.125089],"type":"Point"}
+  "bbox": [
+    -94.157047,
+    36.125089,
+    -94.157047,
+    36.125089
+],
+  "geometry": {"coordinates":[-94.15704700000001,36.125089],"type":"Point"}
 }

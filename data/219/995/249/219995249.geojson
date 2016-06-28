@@ -2,13 +2,14 @@
   "id": 219995249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.129143,36.306721,-94.129143,36.306721",
     "geom:latitude":36.306721,
     "geom:longitude":-94.129143,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 W Green Acres Dr",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219995249,
-    "wof:lastmodified":1449073528,
+    "wof:lastmodified":1466325442,
     "wof:name":"Indian Creek Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-94.129143,36.306721,-94.129143,36.306721],
+  "bbox": [
+    -94.129143,
+    36.306721,
+    -94.129143,
+    36.306721
+],
   "geometry": {"coordinates":[-94.129143,36.306721],"type":"Point"}
 }

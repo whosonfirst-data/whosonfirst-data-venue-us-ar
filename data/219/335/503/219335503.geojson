@@ -2,13 +2,14 @@
   "id": 219335503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.019344,35.09774,-92.019344,35.09774",
     "geom:latitude":35.09774,
     "geom:longitude":-92.019344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1307 Highway 64 W",
     "sg:city":"Beebe",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219335503,
-    "wof:lastmodified":1449072714,
+    "wof:lastmodified":1466322050,
     "wof:name":"Redline Automotive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.019344,35.09774,-92.019344,35.09774],
+  "bbox": [
+    -92.019344,
+    35.09774,
+    -92.019344,
+    35.09774
+],
   "geometry": {"coordinates":[-92.019344,35.09774],"type":"Point"}
 }

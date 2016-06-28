@@ -2,13 +2,14 @@
   "id": 219346827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.586759,34.614736,-92.586759,34.614736",
     "geom:latitude":34.614736,
     "geom:longitude":-92.586759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"835 Breckenridge Dr",
     "sg:city":"Benton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219346827,
-    "wof:lastmodified":1449070360,
+    "wof:lastmodified":1466322210,
     "wof:name":"A & C Construction",
     "wof:parent_id":85817531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-92.586759,34.614736,-92.586759,34.614736],
+  "bbox": [
+    -92.586759,
+    34.614736,
+    -92.586759,
+    34.614736
+],
   "geometry": {"coordinates":[-92.586759,34.614736],"type":"Point"}
 }

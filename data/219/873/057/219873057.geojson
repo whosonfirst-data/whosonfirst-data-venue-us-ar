@@ -2,13 +2,14 @@
   "id": 219873057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.21036,36.361836,-94.21036,36.361836",
     "geom:latitude":36.361836,
     "geom:longitude":-94.21036,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1007 SW A St",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -67,10 +68,11 @@
         }
     ],
     "wof:id":219873057,
-    "wof:lastmodified":1449071132,
+    "wof:lastmodified":1466325054,
     "wof:name":"The Shear Heaven Salon Massage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "stylist"
     ]
 },
-  "bbox": [-94.21036,36.361836,-94.21036,36.361836],
-  "geometry": {"coordinates":[-94.21036,36.361836],"type":"Point"}
+  "bbox": [
+    -94.21036,
+    36.361836,
+    -94.21036,
+    36.361836
+],
+  "geometry": {"coordinates":[-94.21035999999999,36.361836],"type":"Point"}
 }

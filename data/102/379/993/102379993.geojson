@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102379993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.924303,35.822144,-89.924303,35.822144",
     "geom:latitude":35.822144,
     "geom:longitude":-89.924303,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"157 E Plantation Rd",
     "sg:city":"Burdette",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102379993,
-    "wof:lastmodified":1449069143,
+    "wof:lastmodified":1466322088,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.924303,35.822144,-89.924303,35.822144],
-  "geometry": {"coordinates":[-89.924303,35.822144],"type":"Point"}
+  "bbox": [
+    -89.924303,
+    35.822144,
+    -89.924303,
+    35.822144
+],
+  "geometry": {"coordinates":[-89.92430299999999,35.822144],"type":"Point"}
 }

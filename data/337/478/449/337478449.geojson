@@ -2,13 +2,14 @@
   "id": 337478449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.236346,34.584147,-94.236346,34.584147",
     "geom:latitude":34.584147,
     "geom:longitude":-94.236346,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"709 Mena St",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337478449,
-    "wof:lastmodified":1449026964,
+    "wof:lastmodified":1466324496,
     "wof:name":"Allbaugh's Florist & Gifts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.236346,34.584147,-94.236346,34.584147],
+  "bbox": [
+    -94.236346,
+    34.584147,
+    -94.236346,
+    34.584147
+],
   "geometry": {"coordinates":[-94.236346,34.584147],"type":"Point"}
 }

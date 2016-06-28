@@ -2,13 +2,14 @@
   "id": 219239327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.885493,33.264894,-93.885493,33.264894",
     "geom:latitude":33.264894,
     "geom:longitude":-93.885493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"506 N Monster Expy",
     "sg:city":"Fouke",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219239327,
-    "wof:lastmodified":1449070728,
+    "wof:lastmodified":1466321252,
     "wof:name":"Cindy's Flowers And Gifts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-93.885493,33.264894,-93.885493,33.264894],
+  "bbox": [
+    -93.885493,
+    33.264894,
+    -93.885493,
+    33.264894
+],
   "geometry": {"coordinates":[-93.885493,33.264894],"type":"Point"}
 }

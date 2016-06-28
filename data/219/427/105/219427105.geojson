@@ -2,13 +2,14 @@
   "id": 219427105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.00986,33.459557,-94.00986,33.459557",
     "geom:latitude":33.459557,
     "geom:longitude":-94.00986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3517 Crestwood Dr",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219427105,
-    "wof:lastmodified":1449071462,
+    "wof:lastmodified":1466323077,
     "wof:name":"Economy Contracting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-94.00986,33.459557,-94.00986,33.459557],
+  "bbox": [
+    -94.00986,
+    33.459557,
+    -94.00986,
+    33.459557
+],
   "geometry": {"coordinates":[-94.00986,33.459557],"type":"Point"}
 }

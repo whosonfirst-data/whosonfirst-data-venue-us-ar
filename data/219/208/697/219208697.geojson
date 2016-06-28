@@ -2,13 +2,14 @@
   "id": 219208697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.235059,33.285222,-93.235059,33.285222",
     "geom:latitude":33.285222,
     "geom:longitude":-93.235059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2030 N Jackson",
     "sg:city":"Magnolia",
     "sg:classifiers":[
@@ -72,10 +73,11 @@
         }
     ],
     "wof:id":219208697,
-    "wof:lastmodified":1449070802,
+    "wof:lastmodified":1466320945,
     "wof:name":"Curves",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -88,6 +90,11 @@
         "physical"
     ]
 },
-  "bbox": [-93.235059,33.285222,-93.235059,33.285222],
-  "geometry": {"coordinates":[-93.235059,33.285222],"type":"Point"}
+  "bbox": [
+    -93.235059,
+    33.285222,
+    -93.235059,
+    33.285222
+],
+  "geometry": {"coordinates":[-93.23505900000001,33.285222],"type":"Point"}
 }

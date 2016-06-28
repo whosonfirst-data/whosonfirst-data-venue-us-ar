@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102434231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.975501,35.621504,-90.975501,35.621504",
     "geom:latitude":35.621504,
     "geom:longitude":-90.975501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3848 Bayou Deview Rd",
     "sg:city":"Weiner",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102434231,
-    "wof:lastmodified":1449068314,
+    "wof:lastmodified":1466325657,
     "wof:name":"Tommy Brown Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.975501,35.621504,-90.975501,35.621504],
-  "geometry": {"coordinates":[-90.975501,35.621504],"type":"Point"}
+  "bbox": [
+    -90.975501,
+    35.621504,
+    -90.975501,
+    35.621504
+],
+  "geometry": {"coordinates":[-90.97550099999999,35.621504],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219285167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.056827,34.119627,-93.056827,34.119627",
     "geom:latitude":34.119627,
     "geom:longitude":-93.056827,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"929 Main St",
     "sg:city":"Arkadelphia",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219285167,
-    "wof:lastmodified":1449070467,
+    "wof:lastmodified":1466321611,
     "wof:name":"McMillan, Toney D",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "plan"
     ]
 },
-  "bbox": [-93.056827,34.119627,-93.056827,34.119627],
+  "bbox": [
+    -93.056827,
+    34.119627,
+    -93.056827,
+    34.119627
+],
   "geometry": {"coordinates":[-93.056827,34.119627],"type":"Point"}
 }

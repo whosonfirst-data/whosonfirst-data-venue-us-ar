@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102404197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.244593,36.383666,-94.244593,36.383666",
     "geom:latitude":36.383666,
     "geom:longitude":-94.244593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10962 Peach Orchard Rd",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102404197,
-    "wof:lastmodified":1449069384,
+    "wof:lastmodified":1466324833,
     "wof:name":"Mattingly Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.244593,36.383666,-94.244593,36.383666],
-  "geometry": {"coordinates":[-94.244593,36.383666],"type":"Point"}
+  "bbox": [
+    -94.244593,
+    36.383666,
+    -94.244593,
+    36.383666
+],
+  "geometry": {"coordinates":[-94.24459299999999,36.383666],"type":"Point"}
 }

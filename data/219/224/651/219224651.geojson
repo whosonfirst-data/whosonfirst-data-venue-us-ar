@@ -2,13 +2,14 @@
   "id": 219224651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.570992,33.65649,-93.570992,33.65649",
     "geom:latitude":33.65649,
     "geom:longitude":-93.570992,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1701 Rosston Rd",
     "sg:city":"Hope",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219224651,
-    "wof:lastmodified":1449072980,
+    "wof:lastmodified":1466321092,
     "wof:name":"Jerry's One Stop",
     "wof:parent_id":85820749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.570992,33.65649,-93.570992,33.65649],
+  "bbox": [
+    -93.570992,
+    33.65649,
+    -93.570992,
+    33.65649
+],
   "geometry": {"coordinates":[-93.570992,33.65649],"type":"Point"}
 }

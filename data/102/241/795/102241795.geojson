@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102241795",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.99259,35.946527,-93.99259,35.946527",
     "geom:latitude":35.946527,
     "geom:longitude":-93.99259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20553 Durham McCord",
     "sg:city":"Elkins",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":"102241795",
-    "wof:lastmodified":1449070150,
+    "wof:lastmodified":1466321754,
     "wof:name":"Paschal's Grocery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.99259,35.946527,-93.99259,35.946527],
-  "geometry": {"coordinates":[-93.99259,35.946527],"type":"Point"}
+  "bbox": [
+    -93.99259,
+    35.946527,
+    -93.99259,
+    35.946527
+],
+  "geometry": {"coordinates":[-93.99259000000001,35.946527],"type":"Point"}
 }

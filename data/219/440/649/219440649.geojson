@@ -2,13 +2,14 @@
   "id": 219440649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.093651,34.88168,-92.093651,34.88168",
     "geom:latitude":34.88168,
     "geom:longitude":-92.093651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1504 N Jp Wright Loop Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":219440649,
-    "wof:lastmodified":1449071639,
+    "wof:lastmodified":1466323253,
     "wof:name":"Jacksonville Funeral Home",
     "wof:parent_id":85852337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "supply"
     ]
 },
-  "bbox": [-92.093651,34.88168,-92.093651,34.88168],
-  "geometry": {"coordinates":[-92.093651,34.88168],"type":"Point"}
+  "bbox": [
+    -92.093651,
+    34.88168,
+    -92.093651,
+    34.88168
+],
+  "geometry": {"coordinates":[-92.09365099999999,34.88168],"type":"Point"}
 }

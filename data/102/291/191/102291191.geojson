@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102291191",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.270482,34.784539,-92.270482,34.784539",
     "geom:latitude":34.784539,
     "geom:longitude":-92.270482,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1017 W B Ave",
     "sg:city":"North Little Rock",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837877,
+        85688549,
         85633793,
         85921255,
         102082497,
-        85688549
+        85837877
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":"102291191",
-    "wof:lastmodified":1449068517,
+    "wof:lastmodified":1466322804,
     "wof:name":"Thompson Construction Co Inc",
     "wof:parent_id":85837877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.270482,34.784539,-92.270482,34.784539],
+  "bbox": [
+    -92.270482,
+    34.784539,
+    -92.270482,
+    34.784539
+],
   "geometry": {"coordinates":[-92.270482,34.784539],"type":"Point"}
 }

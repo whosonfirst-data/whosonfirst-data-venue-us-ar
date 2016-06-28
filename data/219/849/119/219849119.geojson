@@ -2,13 +2,14 @@
   "id": 219849119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.101163,36.095019,-94.101163,36.095019",
     "geom:latitude":36.095019,
     "geom:longitude":-94.101163,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4175 E Mission Blvd 45",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219849119,
-    "wof:lastmodified":1449071048,
+    "wof:lastmodified":1466325029,
     "wof:name":"Best Friends Animal Hospi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "specialty"
     ]
 },
-  "bbox": [-94.101163,36.095019,-94.101163,36.095019],
+  "bbox": [
+    -94.101163,
+    36.095019,
+    -94.101163,
+    36.095019
+],
   "geometry": {"coordinates":[-94.101163,36.095019],"type":"Point"}
 }

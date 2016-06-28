@@ -2,13 +2,14 @@
   "id": 219532089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.737634,35.250834,-91.737634,35.250834",
     "geom:latitude":35.250834,
     "geom:longitude":-91.737634,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 N Spring St",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219532089,
-    "wof:lastmodified":1449071585,
+    "wof:lastmodified":1466324197,
     "wof:name":"Spradlin, David",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "accountants-certified"
     ]
 },
-  "bbox": [-91.737634,35.250834,-91.737634,35.250834],
+  "bbox": [
+    -91.737634,
+    35.250834,
+    -91.737634,
+    35.250834
+],
   "geometry": {"coordinates":[-91.737634,35.250834],"type":"Point"}
 }

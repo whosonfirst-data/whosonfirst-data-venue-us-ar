@@ -2,13 +2,14 @@
   "id": 220052227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.106679,36.176996,-94.106679,36.176996",
     "geom:latitude":36.176996,
     "geom:longitude":-94.106679,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2150 Ford Ave",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -83,10 +84,11 @@
         }
     ],
     "wof:id":220052227,
-    "wof:lastmodified":1449074382,
+    "wof:lastmodified":1466320751,
     "wof:name":"Arkansas Packaging Products",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -100,6 +102,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-94.106679,36.176996,-94.106679,36.176996],
+  "bbox": [
+    -94.106679,
+    36.176996,
+    -94.106679,
+    36.176996
+],
   "geometry": {"coordinates":[-94.106679,36.176996],"type":"Point"}
 }

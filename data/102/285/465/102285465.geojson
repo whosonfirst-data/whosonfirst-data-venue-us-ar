@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102285465",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.348543,34.666028,-92.348543,34.666028",
     "geom:latitude":34.666028,
     "geom:longitude":-92.348543,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6213 Denham Dr",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -33,11 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85833155,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85833155
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":"102285465",
-    "wof:lastmodified":1449067836,
+    "wof:lastmodified":1466322746,
     "wof:name":"Dean's Hauling",
     "wof:parent_id":85833155,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.348543,34.666028,-92.348543,34.666028],
-  "geometry": {"coordinates":[-92.348543,34.666028],"type":"Point"}
+  "bbox": [
+    -92.348543,
+    34.666028,
+    -92.348543,
+    34.666028
+],
+  "geometry": {"coordinates":[-92.34854300000001,34.666028],"type":"Point"}
 }

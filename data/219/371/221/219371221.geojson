@@ -2,13 +2,14 @@
   "id": 219371221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.314566,34.692495,-91.314566,34.692495",
     "geom:latitude":34.692495,
     "geom:longitude":-91.314566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 Court St",
     "sg:city":"Clarendon",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":219371221,
-    "wof:lastmodified":1449073150,
+    "wof:lastmodified":1466322597,
     "wof:name":"Menard Title & Abstract Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.314566,34.692495,-91.314566,34.692495],
+  "bbox": [
+    -91.314566,
+    34.692495,
+    -91.314566,
+    34.692495
+],
   "geometry": {"coordinates":[-91.314566,34.692495],"type":"Point"}
 }

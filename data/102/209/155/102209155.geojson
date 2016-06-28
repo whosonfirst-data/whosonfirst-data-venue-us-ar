@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102209155",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.399006,35.305606,-94.399006,35.305606",
     "geom:latitude":35.305606,
     "geom:longitude":-94.399006,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3401 Furman Ave",
     "sg:city":"Fort Smith",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85808359,
+        85688549,
         85633793,
         85921431,
         102082025,
-        85688549
+        85808359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102209155",
-    "wof:lastmodified":1449069938,
+    "wof:lastmodified":1466320821,
     "wof:name":"Reflections Photography",
     "wof:parent_id":85808359,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.399006,35.305606,-94.399006,35.305606],
+  "bbox": [
+    -94.399006,
+    35.305606,
+    -94.399006,
+    35.305606
+],
   "geometry": {"coordinates":[-94.399006,35.305606],"type":"Point"}
 }

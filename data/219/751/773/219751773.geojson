@@ -2,13 +2,14 @@
   "id": 219751773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.821015,36.371045,-91.821015,36.371045",
     "geom:latitude":36.371045,
     "geom:longitude":-91.821015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"219 Church St",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219751773,
-    "wof:lastmodified":1449070577,
+    "wof:lastmodified":1466324908,
     "wof:name":"Je Bonding Incorporated",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "bond"
     ]
 },
-  "bbox": [-91.821015,36.371045,-91.821015,36.371045],
+  "bbox": [
+    -91.821015,
+    36.371045,
+    -91.821015,
+    36.371045
+],
   "geometry": {"coordinates":[-91.821015,36.371045],"type":"Point"}
 }

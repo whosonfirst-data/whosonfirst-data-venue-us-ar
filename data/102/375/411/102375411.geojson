@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102375411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.01909,34.229693,-92.01909,34.229693",
     "geom:latitude":34.229693,
     "geom:longitude":-92.01909,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1501 Front St",
     "sg:city":"Pine Bluff",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102375411,
-    "wof:lastmodified":1449067858,
+    "wof:lastmodified":1466321141,
     "wof:name":"Wrenn Handling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.01909,34.229693,-92.01909,34.229693],
-  "geometry": {"coordinates":[-92.01909,34.229693],"type":"Point"}
+  "bbox": [
+    -92.01909,
+    34.229693,
+    -92.01909,
+    34.229693
+],
+  "geometry": {"coordinates":[-92.01909000000001,34.229693],"type":"Point"}
 }

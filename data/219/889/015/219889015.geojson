@@ -2,13 +2,14 @@
   "id": 219889015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.289591,36.314269,-94.289591,36.314269",
     "geom:latitude":36.314269,
     "geom:longitude":-94.289591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8864 Lee Ln",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219889015,
-    "wof:lastmodified":1449070314,
+    "wof:lastmodified":1466325008,
     "wof:name":"Dennis Malone Family Farms",
     "wof:parent_id":85853527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.289591,36.314269,-94.289591,36.314269],
+  "bbox": [
+    -94.289591,
+    36.314269,
+    -94.289591,
+    36.314269
+],
   "geometry": {"coordinates":[-94.289591,36.314269],"type":"Point"}
 }

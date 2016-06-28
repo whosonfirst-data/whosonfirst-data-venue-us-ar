@@ -2,13 +2,14 @@
   "id": 220122915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.031342,35.572691,-94.031342,35.572691",
     "geom:latitude":35.572691,
     "geom:longitude":-94.031342,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9707 Highway 215",
     "sg:city":"Mulberry",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":220122915,
-    "wof:lastmodified":1449074511,
+    "wof:lastmodified":1466322652,
     "wof:name":"Lewis Child Care Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welfare"
     ]
 },
-  "bbox": [-94.031342,35.572691,-94.031342,35.572691],
+  "bbox": [
+    -94.031342,
+    35.572691,
+    -94.031342,
+    35.572691
+],
   "geometry": {"coordinates":[-94.031342,35.572691],"type":"Point"}
 }

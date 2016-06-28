@@ -2,13 +2,14 @@
   "id": 219329933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.850029,34.317838,-91.850029,34.317838",
     "geom:latitude":34.317838,
     "geom:longitude":-91.850029,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"503 S Highway 88",
     "sg:city":"Altheimer",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219329933,
-    "wof:lastmodified":1449071384,
+    "wof:lastmodified":1466321989,
     "wof:name":"Crop Production Services, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fertilizer"
     ]
 },
-  "bbox": [-91.850029,34.317838,-91.850029,34.317838],
-  "geometry": {"coordinates":[-91.850029,34.317838],"type":"Point"}
+  "bbox": [
+    -91.850029,
+    34.317838,
+    -91.850029,
+    34.317838
+],
+  "geometry": {"coordinates":[-91.85002900000001,34.317838],"type":"Point"}
 }

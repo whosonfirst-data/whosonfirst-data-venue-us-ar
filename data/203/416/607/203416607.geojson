@@ -2,13 +2,14 @@
   "id": 203416607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.481632,33.873865,-91.481632,33.873865",
     "geom:latitude":33.873865,
     "geom:longitude":-91.481632,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"708 Highway 65 S",
     "sg:city":"Dumas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203416607,
-    "wof:lastmodified":1449025762,
+    "wof:lastmodified":1466320560,
     "wof:name":"Bottle Shop, The",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-91.481632,33.873865,-91.481632,33.873865],
+  "bbox": [
+    -91.481632,
+    33.873865,
+    -91.481632,
+    33.873865
+],
   "geometry": {"coordinates":[-91.481632,33.873865],"type":"Point"}
 }

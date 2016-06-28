@@ -2,13 +2,14 @@
   "id": 219729691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.785158,35.757698,-91.785158,35.757698",
     "geom:latitude":35.757698,
     "geom:longitude":-91.785158,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"625 Chinquapin Loop",
     "sg:city":"Batesville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219729691,
-    "wof:lastmodified":1449072160,
+    "wof:lastmodified":1466324897,
     "wof:name":"R & C Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "new"
     ]
 },
-  "bbox": [-91.785158,35.757698,-91.785158,35.757698],
+  "bbox": [
+    -91.785158,
+    35.757698,
+    -91.785158,
+    35.757698
+],
   "geometry": {"coordinates":[-91.785158,35.757698],"type":"Point"}
 }

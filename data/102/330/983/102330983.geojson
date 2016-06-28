@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102330983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.934885,35.190565,-90.934885,35.190565",
     "geom:latitude":35.190565,
     "geom:longitude":-90.934885,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39 Co Rd 531",
     "sg:city":"Wynne",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102330983,
-    "wof:lastmodified":1449068954,
+    "wof:lastmodified":1466323744,
     "wof:name":"Charlie Miller Lawn Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.934885,35.190565,-90.934885,35.190565],
-  "geometry": {"coordinates":[-90.934885,35.190565],"type":"Point"}
+  "bbox": [
+    -90.934885,
+    35.190565,
+    -90.934885,
+    35.190565
+],
+  "geometry": {"coordinates":[-90.93488499999999,35.190565],"type":"Point"}
 }

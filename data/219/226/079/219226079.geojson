@@ -2,13 +2,14 @@
   "id": 219226079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.60001,33.667017,-93.60001,33.667017",
     "geom:latitude":33.667017,
     "geom:longitude":-93.60001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"823 W Division St",
     "sg:city":"Hope",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219226079,
-    "wof:lastmodified":1449072961,
+    "wof:lastmodified":1466321120,
     "wof:name":"Auto Care",
     "wof:parent_id":85806015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "repairing"
     ]
 },
-  "bbox": [-93.60001,33.667017,-93.60001,33.667017],
+  "bbox": [
+    -93.60001,
+    33.667017,
+    -93.60001,
+    33.667017
+],
   "geometry": {"coordinates":[-93.60001,33.667017],"type":"Point"}
 }

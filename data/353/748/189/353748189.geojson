@@ -2,13 +2,14 @@
   "id": 353748189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.539052,36.188845,-94.539052,36.188845",
     "geom:latitude":36.188845,
     "geom:longitude":-94.539052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"584 Madison St",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353748189,
-    "wof:lastmodified":1449020165,
+    "wof:lastmodified":1466320500,
     "wof:name":"Hart To Hart Moving",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-94.539052,36.188845,-94.539052,36.188845],
+  "bbox": [
+    -94.539052,
+    36.188845,
+    -94.539052,
+    36.188845
+],
   "geometry": {"coordinates":[-94.539052,36.188845],"type":"Point"}
 }

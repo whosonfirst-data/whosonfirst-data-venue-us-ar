@@ -2,13 +2,14 @@
   "id": 337504153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.138176,34.536386,-94.138176,34.536386",
     "geom:latitude":34.536386,
     "geom:longitude":-94.138176,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3671 State Hwy 8",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":337504153,
-    "wof:lastmodified":1449027064,
+    "wof:lastmodified":1466324501,
     "wof:name":"R-C Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "gutter"
     ]
 },
-  "bbox": [-94.138176,34.536386,-94.138176,34.536386],
+  "bbox": [
+    -94.138176,
+    34.536386,
+    -94.138176,
+    34.536386
+],
   "geometry": {"coordinates":[-94.138176,34.536386],"type":"Point"}
 }

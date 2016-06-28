@@ -2,13 +2,14 @@
   "id": 219835213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.164551,36.056888,-94.164551,36.056888",
     "geom:latitude":36.056888,
     "geom:longitude":-94.164551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"557 S School Ave",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219835213,
-    "wof:lastmodified":1449070897,
+    "wof:lastmodified":1466325004,
     "wof:name":"Tec Staffing Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-94.164551,36.056888,-94.164551,36.056888],
+  "bbox": [
+    -94.164551,
+    36.056888,
+    -94.164551,
+    36.056888
+],
   "geometry": {"coordinates":[-94.164551,36.056888],"type":"Point"}
 }

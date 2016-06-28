@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102400075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.793867,34.355966,-92.793867,34.355966",
     "geom:latitude":34.355966,
     "geom:longitude":-92.793867,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1626 E Highland Ave",
     "sg:city":"Malvern",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102400075,
-    "wof:lastmodified":1449068028,
+    "wof:lastmodified":1466324662,
     "wof:name":"Linda's Beauty Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.793867,34.355966,-92.793867,34.355966],
-  "geometry": {"coordinates":[-92.793867,34.355966],"type":"Point"}
+  "bbox": [
+    -92.793867,
+    34.355966,
+    -92.793867,
+    34.355966
+],
+  "geometry": {"coordinates":[-92.79386700000001,34.355966],"type":"Point"}
 }

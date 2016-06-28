@@ -2,13 +2,14 @@
   "id": 219347965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.535329,34.610787,-92.535329,34.610787",
     "geom:latitude":34.610787,
     "geom:longitude":-92.535329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1921 Highway 5 N",
     "sg:city":"Benton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219347965,
-    "wof:lastmodified":1449072101,
+    "wof:lastmodified":1466322229,
     "wof:name":"Ez GO",
     "wof:parent_id":85817531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.535329,34.610787,-92.535329,34.610787],
+  "bbox": [
+    -92.535329,
+    34.610787,
+    -92.535329,
+    34.610787
+],
   "geometry": {"coordinates":[-92.535329,34.610787],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102336161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.578527,34.58104,-92.578527,34.58104",
     "geom:latitude":34.58104,
     "geom:longitude":-92.578527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17270 I- 30",
     "sg:city":"Benton",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102336161,
-    "wof:lastmodified":1449067721,
+    "wof:lastmodified":1466323746,
     "wof:name":"Keck Ent Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.578527,34.58104,-92.578527,34.58104],
-  "geometry": {"coordinates":[-92.578527,34.58104],"type":"Point"}
+  "bbox": [
+    -92.578527,
+    34.58104,
+    -92.578527,
+    34.58104
+],
+  "geometry": {"coordinates":[-92.57852699999999,34.58104],"type":"Point"}
 }

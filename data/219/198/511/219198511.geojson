@@ -2,13 +2,14 @@
   "id": 219198511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.430689,33.817031,-92.430689,33.817031",
     "geom:latitude":33.817031,
     "geom:longitude":-92.430689,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"716 Green Acres Dr",
     "sg:city":"Fordyce",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219198511,
-    "wof:lastmodified":1449071670,
+    "wof:lastmodified":1466320853,
     "wof:name":"Brooke Moore",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.430689,33.817031,-92.430689,33.817031],
+  "bbox": [
+    -92.430689,
+    33.817031,
+    -92.430689,
+    33.817031
+],
   "geometry": {"coordinates":[-92.430689,33.817031],"type":"Point"}
 }

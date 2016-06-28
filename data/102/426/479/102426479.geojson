@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102426479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.286462,34.812336,-92.286462,34.812336",
     "geom:latitude":34.812336,
     "geom:longitude":-92.286462,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 Texas Ave",
     "sg:city":"North Little Rock",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102082497,
-        85633793,
         85688549,
-        85803649
+        85633793,
+        85803649,
+        102082497
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102426479,
-    "wof:lastmodified":1449068307,
+    "wof:lastmodified":1466325484,
     "wof:name":"Brown W Haydon Jabo",
     "wof:parent_id":85803649,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.286462,34.812336,-92.286462,34.812336],
+  "bbox": [
+    -92.286462,
+    34.812336,
+    -92.286462,
+    34.812336
+],
   "geometry": {"coordinates":[-92.286462,34.812336],"type":"Point"}
 }

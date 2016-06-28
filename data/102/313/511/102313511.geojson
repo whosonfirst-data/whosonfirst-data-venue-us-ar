@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102313511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.049224,36.249434,-94.049224,36.249434",
     "geom:latitude":36.249434,
     "geom:longitude":-94.049224,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15146 Beech Dr",
     "sg:city":"Lowell",
     "sg:classifiers":[
@@ -33,10 +34,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102083255,
-        85633793,
         85688549,
-        85895839
+        85633793,
+        85895839,
+        102083255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":102313511,
-    "wof:lastmodified":1449067839,
+    "wof:lastmodified":1466323326,
     "wof:name":"K S Ferguson & Company Inc",
     "wof:parent_id":85895839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.049224,36.249434,-94.049224,36.249434],
+  "bbox": [
+    -94.049224,
+    36.249434,
+    -94.049224,
+    36.249434
+],
   "geometry": {"coordinates":[-94.049224,36.249434],"type":"Point"}
 }

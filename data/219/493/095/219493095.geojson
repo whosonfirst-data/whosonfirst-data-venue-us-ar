@@ -2,13 +2,14 @@
   "id": 219493095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.833763,35.427502,-91.833763,35.427502",
     "geom:latitude":35.427502,
     "geom:longitude":-91.833763,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 Main St",
     "sg:city":"Pangburn",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219493095,
-    "wof:lastmodified":1449071513,
+    "wof:lastmodified":1466323886,
     "wof:name":"Family Markets",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.833763,35.427502,-91.833763,35.427502],
+  "bbox": [
+    -91.833763,
+    35.427502,
+    -91.833763,
+    35.427502
+],
   "geometry": {"coordinates":[-91.833763,35.427502],"type":"Point"}
 }

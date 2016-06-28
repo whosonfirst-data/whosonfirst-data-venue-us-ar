@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102209369",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.801347,33.640824,-91.801347,33.640824",
     "geom:latitude":33.640824,
     "geom:longitude":-91.801347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"822 Barkada Rd",
     "sg:city":"Monticello",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102209369",
-    "wof:lastmodified":1449069939,
+    "wof:lastmodified":1466320867,
     "wof:name":"EDS Produce",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.801347,33.640824,-91.801347,33.640824],
-  "geometry": {"coordinates":[-91.801347,33.640824],"type":"Point"}
+  "bbox": [
+    -91.801347,
+    33.640824,
+    -91.801347,
+    33.640824
+],
+  "geometry": {"coordinates":[-91.80134700000001,33.640824],"type":"Point"}
 }

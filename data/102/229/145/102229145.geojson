@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102229145",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.378478,34.72087,-92.378478,34.72087",
     "geom:latitude":34.72087,
     "geom:longitude":-92.378478,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9600 W 36th St",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878761,
+        85688549,
         85633793,
         85921265,
         102082497,
-        85688549
+        85878761
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102229145",
-    "wof:lastmodified":1449069696,
+    "wof:lastmodified":1466321338,
     "wof:name":"Fair Oaks Apartments",
     "wof:parent_id":85878761,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.378478,34.72087,-92.378478,34.72087],
+  "bbox": [
+    -92.378478,
+    34.72087,
+    -92.378478,
+    34.72087
+],
   "geometry": {"coordinates":[-92.378478,34.72087],"type":"Point"}
 }

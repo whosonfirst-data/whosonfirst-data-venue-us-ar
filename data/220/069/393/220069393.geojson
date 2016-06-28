@@ -2,13 +2,14 @@
   "id": 220069393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.119232,35.322021,-93.119232,35.322021",
     "geom:latitude":35.322021,
     "geom:longitude":-93.119232,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"899 Shiloh Rd",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":220069393,
-    "wof:lastmodified":1449074559,
+    "wof:lastmodified":1466321317,
     "wof:name":"Po Boys Septic System Service",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "system"
     ]
 },
-  "bbox": [-93.119232,35.322021,-93.119232,35.322021],
+  "bbox": [
+    -93.119232,
+    35.322021,
+    -93.119232,
+    35.322021
+],
   "geometry": {"coordinates":[-93.119232,35.322021],"type":"Point"}
 }

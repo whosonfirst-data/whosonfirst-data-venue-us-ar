@@ -2,13 +2,14 @@
   "id": 220061705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.145121,36.189744,-94.145121,36.189744",
     "geom:latitude":36.189744,
     "geom:longitude":-94.145121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"603 Sherman St",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220061705,
-    "wof:lastmodified":1449074635,
+    "wof:lastmodified":1466321037,
     "wof:name":"1st Place Moving",
     "wof:parent_id":85885485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mover"
     ]
 },
-  "bbox": [-94.145121,36.189744,-94.145121,36.189744],
+  "bbox": [
+    -94.145121,
+    36.189744,
+    -94.145121,
+    36.189744
+],
   "geometry": {"coordinates":[-94.145121,36.189744],"type":"Point"}
 }

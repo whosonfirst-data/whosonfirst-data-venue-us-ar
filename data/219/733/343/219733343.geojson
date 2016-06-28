@@ -2,13 +2,14 @@
   "id": 219733343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.631432,35.769508,-91.631432,35.769508",
     "geom:latitude":35.769508,
     "geom:longitude":-91.631432,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2000 Harrison St Suite C",
     "sg:city":"Batesville",
     "sg:classifiers":[
@@ -80,10 +81,11 @@
         }
     ],
     "wof:id":219733343,
-    "wof:lastmodified":1449070887,
+    "wof:lastmodified":1466324896,
     "wof:name":"Harris Hearing Center",
     "wof:parent_id":85808231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -98,6 +100,11 @@
         "audiologists"
     ]
 },
-  "bbox": [-91.631432,35.769508,-91.631432,35.769508],
+  "bbox": [
+    -91.631432,
+    35.769508,
+    -91.631432,
+    35.769508
+],
   "geometry": {"coordinates":[-91.631432,35.769508],"type":"Point"}
 }

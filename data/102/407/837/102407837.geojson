@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102407837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.794902,33.514495,-92.794902,33.514495",
     "geom:latitude":33.514495,
     "geom:longitude":-92.794902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1124 Ouachita Road 67",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":102407837,
-    "wof:lastmodified":1449069070,
+    "wof:lastmodified":1466325063,
     "wof:name":"Coyotes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.794902,33.514495,-92.794902,33.514495],
-  "geometry": {"coordinates":[-92.794902,33.514495],"type":"Point"}
+  "bbox": [
+    -92.794902,
+    33.514495,
+    -92.794902,
+    33.514495
+],
+  "geometry": {"coordinates":[-92.79490199999999,33.514495],"type":"Point"}
 }

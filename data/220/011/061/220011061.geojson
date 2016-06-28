@@ -2,13 +2,14 @@
   "id": 220011061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.170292,36.223209,-94.170292,36.223209",
     "geom:latitude":36.223209,
     "geom:longitude":-94.170292,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3997 N 40th St",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":220011061,
-    "wof:lastmodified":1449074703,
+    "wof:lastmodified":1466320471,
     "wof:name":"R & D Outdoor Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "bureau"
     ]
 },
-  "bbox": [-94.170292,36.223209,-94.170292,36.223209],
+  "bbox": [
+    -94.170292,
+    36.223209,
+    -94.170292,
+    36.223209
+],
   "geometry": {"coordinates":[-94.170292,36.223209],"type":"Point"}
 }

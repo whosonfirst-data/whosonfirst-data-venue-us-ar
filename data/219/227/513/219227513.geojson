@@ -2,13 +2,14 @@
   "id": 219227513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.598426,33.672459,-93.598426,33.672459",
     "geom:latitude":33.672459,
     "geom:longitude":-93.598426,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"535 N Hervey St",
     "sg:city":"Hope",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":219227513,
-    "wof:lastmodified":1449071177,
+    "wof:lastmodified":1466321146,
     "wof:name":"Fred's",
     "wof:parent_id":85806015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.598426,33.672459,-93.598426,33.672459],
+  "bbox": [
+    -93.598426,
+    33.672459,
+    -93.598426,
+    33.672459
+],
   "geometry": {"coordinates":[-93.598426,33.672459],"type":"Point"}
 }

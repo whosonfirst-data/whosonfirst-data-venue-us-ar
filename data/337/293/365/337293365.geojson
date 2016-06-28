@@ -2,13 +2,14 @@
   "id": 337293365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.798556,36.27901,-91.798556,36.27901",
     "geom:latitude":36.27901,
     "geom:longitude":-91.798556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"574 Country View Rd",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":337293365,
-    "wof:lastmodified":1449027081,
+    "wof:lastmodified":1466322111,
     "wof:name":"B. & E Tire Svc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "bureau"
     ]
 },
-  "bbox": [-91.798556,36.27901,-91.798556,36.27901],
+  "bbox": [
+    -91.798556,
+    36.27901,
+    -91.798556,
+    36.27901
+],
   "geometry": {"coordinates":[-91.798556,36.27901],"type":"Point"}
 }

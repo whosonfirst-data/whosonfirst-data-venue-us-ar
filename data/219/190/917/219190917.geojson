@@ -2,13 +2,14 @@
   "id": 219190917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.825719,33.5883,-92.825719,33.5883",
     "geom:latitude":33.5883,
     "geom:longitude":-92.825719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"436 Van Buren St NE",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":219190917,
-    "wof:lastmodified":1449073685,
+    "wof:lastmodified":1466320756,
     "wof:name":"Gatling's Sheet Metal Shop",
     "wof:parent_id":85813169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "sheet"
     ]
 },
-  "bbox": [-92.825719,33.5883,-92.825719,33.5883],
-  "geometry": {"coordinates":[-92.825719,33.5883],"type":"Point"}
+  "bbox": [
+    -92.825719,
+    33.5883,
+    -92.825719,
+    33.5883
+],
+  "geometry": {"coordinates":[-92.82571900000001,33.5883],"type":"Point"}
 }

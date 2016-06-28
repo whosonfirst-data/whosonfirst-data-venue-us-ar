@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102433823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.736443,35.148807,-92.736443,35.148807",
     "geom:latitude":35.148807,
     "geom:longitude":-92.736443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"711 Green St",
     "sg:city":"Morrilton",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85814069,
+        85688549,
         85633793,
         85920189,
         102083217,
-        85688549
+        85814069
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102433823,
-    "wof:lastmodified":1449068078,
+    "wof:lastmodified":1466325696,
     "wof:name":"Keep It Culinary",
     "wof:parent_id":85814069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.736443,35.148807,-92.736443,35.148807],
-  "geometry": {"coordinates":[-92.736443,35.148807],"type":"Point"}
+  "bbox": [
+    -92.736443,
+    35.148807,
+    -92.736443,
+    35.148807
+],
+  "geometry": {"coordinates":[-92.73644299999999,35.148807],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 304083587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.545717,36.178122,-94.545717,36.178122",
     "geom:latitude":36.178122,
     "geom:longitude":-94.545717,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 W Tulsa St",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":304083587,
-    "wof:lastmodified":1449043821,
+    "wof:lastmodified":1466324457,
     "wof:name":"Alleen's Beauty Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-94.545717,36.178122,-94.545717,36.178122],
+  "bbox": [
+    -94.545717,
+    36.178122,
+    -94.545717,
+    36.178122
+],
   "geometry": {"coordinates":[-94.545717,36.178122],"type":"Point"}
 }

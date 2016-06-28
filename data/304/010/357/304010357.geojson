@@ -2,13 +2,14 @@
   "id": 304010357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.56214,36.174684,-94.56214,36.174684",
     "geom:latitude":36.174684,
     "geom:longitude":-94.56214,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2425 W Kenwood St",
     "sg:city":"Siloam Springs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":304010357,
-    "wof:lastmodified":1449043956,
+    "wof:lastmodified":1466324433,
     "wof:name":"Kenwood Village Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-94.56214,36.174684,-94.56214,36.174684],
+  "bbox": [
+    -94.56214,
+    36.174684,
+    -94.56214,
+    36.174684
+],
   "geometry": {"coordinates":[-94.56214,36.174684],"type":"Point"}
 }

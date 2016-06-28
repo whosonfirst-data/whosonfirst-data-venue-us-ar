@@ -2,13 +2,14 @@
   "id": 320642191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.366121,35.265094,-94.366121,35.265094",
     "geom:latitude":35.265094,
     "geom:longitude":-94.366121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6313 Howard Hill Rd",
     "sg:city":"Fort Smith",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320642191,
-    "wof:lastmodified":1449011470,
+    "wof:lastmodified":1466320609,
     "wof:name":"Jon's Service Ctr",
     "wof:parent_id":85808359,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-94.366121,35.265094,-94.366121,35.265094],
-  "geometry": {"coordinates":[-94.366121,35.265094],"type":"Point"}
+  "bbox": [
+    -94.366121,
+    35.265094,
+    -94.366121,
+    35.265094
+],
+  "geometry": {"coordinates":[-94.36612100000001,35.265094],"type":"Point"}
 }

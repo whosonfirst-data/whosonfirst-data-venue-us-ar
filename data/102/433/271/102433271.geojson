@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102433271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.815525,36.168778,-90.815525,36.168778",
     "geom:latitude":36.168778,
     "geom:longitude":-90.815525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2233 Hwy 34N",
     "sg:city":"O Kean",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102433271,
-    "wof:lastmodified":1449068073,
+    "wof:lastmodified":1466325593,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.815525,36.168778,-90.815525,36.168778],
-  "geometry": {"coordinates":[-90.815525,36.168778],"type":"Point"}
+  "bbox": [
+    -90.815525,
+    36.168778,
+    -90.815525,
+    36.168778
+],
+  "geometry": {"coordinates":[-90.81552499999999,36.168778],"type":"Point"}
 }

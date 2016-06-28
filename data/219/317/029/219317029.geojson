@@ -2,13 +2,14 @@
   "id": 219317029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.793761,34.659012,-93.793761,34.659012",
     "geom:latitude":34.659012,
     "geom:longitude":-93.793761,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Banta Ln",
     "sg:city":"Oden",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219317029,
-    "wof:lastmodified":1449072011,
+    "wof:lastmodified":1466321872,
     "wof:name":"Kc Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-93.793761,34.659012,-93.793761,34.659012],
+  "bbox": [
+    -93.793761,
+    34.659012,
+    -93.793761,
+    34.659012
+],
   "geometry": {"coordinates":[-93.793761,34.659012],"type":"Point"}
 }

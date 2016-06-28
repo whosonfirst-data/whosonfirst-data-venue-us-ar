@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102247809",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.425963,35.311221,-94.425963,35.311221",
     "geom:latitude":35.311221,
     "geom:longitude":-94.425963,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1025 School St",
     "sg:city":"Fort Smith",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.fssc.k12.ar.us",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834235,
+        85688549,
         85633793,
         85921431,
         102082025,
-        85688549
+        85834235
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102247809",
-    "wof:lastmodified":1449069157,
+    "wof:lastmodified":1466321889,
     "wof:name":"Cavanaugh Elementary School",
     "wof:parent_id":85834235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.425963,35.311221,-94.425963,35.311221],
+  "bbox": [
+    -94.425963,
+    35.311221,
+    -94.425963,
+    35.311221
+],
   "geometry": {"coordinates":[-94.425963,35.311221],"type":"Point"}
 }
