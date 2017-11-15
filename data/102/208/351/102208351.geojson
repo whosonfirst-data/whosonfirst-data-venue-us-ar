@@ -2,14 +2,20 @@
   "id": "102208351",
   "type": "Feature",
   "properties": {
+    "addr:full":"1401 Commerce Ct Fort Smith AR 72908",
+    "addr:housenumber":"1401",
+    "addr:postcode":"72908",
+    "addr:street":"Commerce Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.419976,35.296583,-94.419976,35.296583",
     "geom:latitude":35.296583,
     "geom:longitude":-94.419976,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1401 Commerce Ct",
     "sg:city":"Fort Smith",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         85809847,
         102082025
     ],
+    "wof:brand_id":1125156237,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7jfGFmexGPwrjRQ238WFn6_35.296583_-94.419976@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"b57c47a99d384b1578d41eaa401e107f",
+    "wof:geomhash":"fa5d25789c54f01311c142a04b70b608",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":"102208351",
-    "wof:lastmodified":1466320841,
+    "wof:lastmodified":1510694065,
     "wof:name":"Four Seasons Sunrooms",
     "wof:parent_id":85809847,
     "wof:placetype":"venue",

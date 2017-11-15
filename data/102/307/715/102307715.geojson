@@ -2,14 +2,20 @@
   "id": "102307715",
   "type": "Feature",
   "properties": {
+    "addr:full":"19301 I- 30 Benton AR 72015",
+    "addr:housenumber":"19301;30",
+    "addr:postcode":"72015",
+    "addr:street":"I",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.538071,34.604464,-92.538071,34.604464",
     "geom:latitude":34.604464,
     "geom:longitude":-92.538071,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"19301 I- 30",
     "sg:city":"Benton",
     "sg:classifiers":[
@@ -37,12 +43,13 @@
         102083257,
         85817531
     ],
+    "wof:brand_id":1125159693,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2YOPYXLahlbrtMZ4K9vjNP_34.604464_-92.538071@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"c8eeb01ea0f5133be3d29819d421c689",
+    "wof:geomhash":"ee7d0a0e2ab5ec28e6b824bc29bec53a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":"102307715",
-    "wof:lastmodified":1466323251,
+    "wof:lastmodified":1510695063,
     "wof:name":"Southern Pipe & Supply Co",
     "wof:parent_id":85817531,
     "wof:placetype":"venue",

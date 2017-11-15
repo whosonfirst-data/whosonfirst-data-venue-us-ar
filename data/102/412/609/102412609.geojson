@@ -2,14 +2,20 @@
   "id": 102412609,
   "type": "Feature",
   "properties": {
+    "addr:full":"406 S Walton Blvd Bentonville AR 72712",
+    "addr:housenumber":"406",
+    "addr:postcode":"72712",
+    "addr:street":"S Walton Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.221505,36.369553,-94.221505,36.369553",
     "geom:latitude":36.369553,
     "geom:longitude":-94.221505,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"406 S Walton Blvd",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102083255,
         85895819
     ],
+    "wof:brand_id":1125155819,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5v6QoFdp1feJUwAFzmTw23_36.369553_-94.221505@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"0739007feda7594e1cdb4a0b128c6f6a",
+    "wof:geomhash":"4920bcd4a3a1914f1eed417186902db1",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":102412609,
-    "wof:lastmodified":1466325143,
+    "wof:lastmodified":1510695386,
     "wof:name":"PCA International LLC",
     "wof:parent_id":85895819,
     "wof:placetype":"venue",

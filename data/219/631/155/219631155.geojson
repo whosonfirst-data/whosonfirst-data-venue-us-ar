@@ -2,14 +2,20 @@
   "id": 219631155,
   "type": "Feature",
   "properties": {
+    "addr:full":"701 Windover Rd Jonesboro AR 72401",
+    "addr:housenumber":"701",
+    "addr:postcode":"72401",
+    "addr:street":"Windover Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.69519,35.810249,-90.69519,35.810249",
     "geom:latitude":35.810249,
     "geom:longitude":-90.69519,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"701 Windover Rd",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -44,12 +50,13 @@
         102082033,
         85836541
     ],
+    "wof:brand_id":1125152465,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0v1RPtIYsA05uzL4w7FMIe_35.810249_-90.695190@1303262953"
     },
     "wof:country":"US",
-    "wof:geomhash":"a38a16571b0de4380a8dcba2438060de",
+    "wof:geomhash":"3765fc43171c2c1775e061bcff0c711b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -62,7 +69,7 @@
         }
     ],
     "wof:id":219631155,
-    "wof:lastmodified":1466324840,
+    "wof:lastmodified":1510696098,
     "wof:name":"Diet Center",
     "wof:parent_id":85836541,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 102390243,
   "type": "Feature",
   "properties": {
+    "addr:full":"10700 N Rodney Parham Rd Little Rock AR 72212",
+    "addr:housenumber":"10700",
+    "addr:postcode":"72212",
+    "addr:street":"N;Parham Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.39159,34.76929,-92.39159,34.76929",
     "geom:latitude":34.76929,
     "geom:longitude":-92.39159,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10700 N Rodney Parham Rd",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -37,12 +43,13 @@
         102082497,
         85843659
     ],
+    "wof:brand_id":1125151351,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_78NE2h53Pl8bN7UTNrkj2w_34.769290_-92.391590@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"b94fd91610f1ca652b7e55f9a8e90753",
+    "wof:geomhash":"1a5deba0b2e8784e33f223c785e6a196",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":102390243,
-    "wof:lastmodified":1466324194,
+    "wof:lastmodified":1510695180,
     "wof:name":"Charles Schwab & Co",
     "wof:parent_id":85843659,
     "wof:placetype":"venue",

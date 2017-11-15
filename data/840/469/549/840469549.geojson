@@ -2,14 +2,20 @@
   "id": 840469549,
   "type": "Feature",
   "properties": {
+    "addr:full":"509 Success Ave Springdale AR 72764",
+    "addr:housenumber":"509",
+    "addr:postcode":"72764",
+    "addr:street":"Success Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.125587,36.180155,-94.125587,36.180155",
     "geom:latitude":36.180155,
     "geom:longitude":-94.125587,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"509 Success Ave",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102082007,
         85885481
     ],
+    "wof:brand_id":1125153259,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2g4gGnWso74ofc7chkVWTW_36.180071_-94.125510@1293134755"
     },
     "wof:country":"US",
     "wof:created":1463620654,
-    "wof:geomhash":"898ad3ff400fd5e0d3281ab8a6f00d64",
+    "wof:geomhash":"eae366fecb582f3184e78300a6ef8e3c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":840469549,
-    "wof:lastmodified":1466320856,
+    "wof:lastmodified":1510697123,
     "wof:name":"Velocity Express Inc",
     "wof:parent_id":85885481,
     "wof:placetype":"venue",

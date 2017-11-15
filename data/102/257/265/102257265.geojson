@@ -2,14 +2,20 @@
   "id": "102257265",
   "type": "Feature",
   "properties": {
+    "addr:full":"400 College St Blevins AR 71825",
+    "addr:housenumber":"400",
+    "addr:postcode":"71825",
+    "addr:street":"College St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.573318,33.872395,-93.573318,33.872395",
     "geom:latitude":33.872395,
     "geom:longitude":-93.573318,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"400 College St",
     "sg:city":"Blevins",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         85688549,
         102083213
     ],
+    "wof:brand_id":1125153447,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1URKjMSjHBCJbKqjKarLKG_33.872395_-93.573318@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"6055efb5bb1988f119166fad565d7d79",
+    "wof:geomhash":"45bf9732937ed83d4a460b1799ac8267",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":"102257265",
-    "wof:lastmodified":1466322006,
+    "wof:lastmodified":1510699405,
     "wof:name":"Family Resource Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

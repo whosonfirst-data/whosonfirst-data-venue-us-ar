@@ -2,14 +2,20 @@
   "id": 102405235,
   "type": "Feature",
   "properties": {
+    "addr:full":"2315 E Matthews Ave Jonesboro AR 72401",
+    "addr:housenumber":"2315",
+    "addr:postcode":"72401",
+    "addr:street":"E Matthews Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.674256,35.834304,-90.674256,35.834304",
     "geom:latitude":35.834304,
     "geom:longitude":-90.674256,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2315 E Matthews Ave",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         85688549,
         102082033
     ],
+    "wof:brand_id":1125150927,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1hbsasHpOErrKDw93XE0Fb_35.834304_-90.674256@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"a73929cfc7304fe12679c17f9c42dfb4",
+    "wof:geomhash":"0ceb60bd9e4dc2247e8f8f8638f69c69",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":102405235,
-    "wof:lastmodified":1466325026,
+    "wof:lastmodified":1510694582,
     "wof:name":"American Home Patient Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

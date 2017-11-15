@@ -2,14 +2,20 @@
   "id": "102197531",
   "type": "Feature",
   "properties": {
+    "addr:full":"5700 Murray St Little Rock AR 72209",
+    "addr:housenumber":"5700",
+    "addr:postcode":"72209",
+    "addr:street":"Murray St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.314803,34.697319,-92.314803,34.697319",
     "geom:latitude":34.697319,
     "geom:longitude":-92.314803,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5700 Murray St",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102082497,
         85803283
     ],
+    "wof:brand_id":1125152295,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0SJWv5jo2PvDYTiVht3mBm_34.697319_-92.314803@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"9b0698fecb5a329585bd1c0f8fb907e6",
+    "wof:geomhash":"63e9920643239cd57168a5a0f9d07481",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":"102197531",
-    "wof:lastmodified":1466320664,
+    "wof:lastmodified":1510695694,
     "wof:name":"NCR",
     "wof:parent_id":85803283,
     "wof:placetype":"venue",

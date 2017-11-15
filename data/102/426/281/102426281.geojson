@@ -2,14 +2,20 @@
   "id": 102426281,
   "type": "Feature",
   "properties": {
+    "addr:full":"3600 Richards Rd N Little Rock AR 72117",
+    "addr:housenumber":"3600",
+    "addr:postcode":"72117",
+    "addr:street":"Richards Rd N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.213067,34.789091,-92.213067,34.789091",
     "geom:latitude":34.789091,
     "geom:longitude":-92.213067,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3600 Richards Rd",
     "sg:city":"N Little Rock",
     "sg:classifiers":[
@@ -36,12 +42,13 @@
         102082497,
         85852263
     ],
+    "wof:brand_id":1125153077,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0VKwU4KjsbG1zaX85IOAm2_34.789091_-92.213067@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"a42acee308eb594715e5ab5aac6e3f84",
+    "wof:geomhash":"13c663c45258d918b4ecf5f1e5b5aa51",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":102426281,
-    "wof:lastmodified":1466325457,
+    "wof:lastmodified":1510613329,
     "wof:name":"Beverly Healthcare",
     "wof:parent_id":85852263,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 102343675,
   "type": "Feature",
   "properties": {
+    "addr:full":"3470 Landers Rd N Little Rock AR 72117",
+    "addr:housenumber":"3470",
+    "addr:postcode":"72117",
+    "addr:street":"Landers Rd N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.223996,34.789105,-92.223996,34.789105",
     "geom:latitude":34.789105,
     "geom:longitude":-92.223996,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3470 Landers Rd",
     "sg:city":"N Little Rock",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102082497,
         85852263
     ],
+    "wof:brand_id":1125156377,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0nxVLCgvgNKcfmxE97oMdJ_34.789105_-92.223996@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"c687deacf10c0fa46f4f742dc845b0f2",
+    "wof:geomhash":"bc17428cae1aefa72d61fa1bde804adb",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":102343675,
-    "wof:lastmodified":1466323932,
+    "wof:lastmodified":1510699358,
     "wof:name":"Concentra Medical Ctr",
     "wof:parent_id":85852263,
     "wof:placetype":"venue",

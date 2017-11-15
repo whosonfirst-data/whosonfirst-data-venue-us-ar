@@ -2,14 +2,20 @@
   "id": 219749183,
   "type": "Feature",
   "properties": {
+    "addr:full":"485 S Main St Salem AR 72576",
+    "addr:housenumber":"485",
+    "addr:postcode":"72576",
+    "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.831911,36.361372,-91.831911,36.361372",
     "geom:latitude":36.361372,
     "geom:longitude":-91.831911,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"485 S Main St",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -39,12 +45,13 @@
         85919807,
         102082507
     ],
+    "wof:brand_id":1125150025,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_701fwPOlh2NOE1OZFd2JCC_36.361372_-91.831911@1303262954"
     },
     "wof:country":"US",
-    "wof:geomhash":"8a33dd986c93034210fd820e288dc34c",
+    "wof:geomhash":"91a20877f39a26698eba51d33bd76094",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":219749183,
-    "wof:lastmodified":1466324907,
+    "wof:lastmodified":1510695386,
     "wof:name":"Immanuel Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

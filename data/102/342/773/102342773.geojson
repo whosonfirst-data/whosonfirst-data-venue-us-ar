@@ -2,14 +2,20 @@
   "id": 102342773,
   "type": "Feature",
   "properties": {
+    "addr:full":"327 E Robinson Ave Springdale AR 72764",
+    "addr:housenumber":"327",
+    "addr:postcode":"72764",
+    "addr:street":"E Robinson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.134113,36.167134,-94.134113,36.167134",
     "geom:latitude":36.167134,
     "geom:longitude":-94.134113,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"327 E Robinson Ave",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102082007,
         85885481
     ],
+    "wof:brand_id":1125151817,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2nORvQHY6TIWWstsiEtisJ_36.167134_-94.134113@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"f3a871cc990895bffc2f27282c4d3555",
+    "wof:geomhash":"e47260dacfe2da88a4eb9c348c0cc126",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":102342773,
-    "wof:lastmodified":1466323918,
+    "wof:lastmodified":1510699271,
     "wof:name":"Airborne",
     "wof:parent_id":85885481,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 102410787,
   "type": "Feature",
   "properties": {
+    "addr:full":"4300 Rixie Rd North Little Rock AR 72117",
+    "addr:housenumber":"",
+    "addr:postcode":"4300;72117",
+    "addr:street":"Rixie Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.181431,34.828137,-92.181431,34.828137",
     "geom:latitude":34.828137,
     "geom:longitude":-92.181431,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4300 Rixie Rd",
     "sg:city":"North Little Rock",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102082497,
         85837729
     ],
+    "wof:brand_id":1125157201,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6aPaxoh0Z4vn3dzJu1VXL2_34.828137_-92.181431@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"be966e37f5efa65574d3ab292df2ff61",
+    "wof:geomhash":"fd2b9ac556a36a04465b40e7d00af12c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":102410787,
-    "wof:lastmodified":1466325225,
+    "wof:lastmodified":1510711139,
     "wof:name":"Masco",
     "wof:parent_id":85837729,
     "wof:placetype":"venue",

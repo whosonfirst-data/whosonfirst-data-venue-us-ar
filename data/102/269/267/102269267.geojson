@@ -2,14 +2,20 @@
   "id": "102269267",
   "type": "Feature",
   "properties": {
+    "addr:full":"2501 Riverfront Dr Little Rock AR 72202",
+    "addr:housenumber":"2501",
+    "addr:postcode":"72202",
+    "addr:street":"Riverfront Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.311509,34.774785,-92.311509,34.774785",
     "geom:latitude":34.774785,
     "geom:longitude":-92.311509,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2501 Riverfront Dr",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102082497,
         85837877
     ],
+    "wof:brand_id":1125152171,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4kwdjpyGXBoAaHJj686mZt_34.774785_-92.311509@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"2ca760e8228f9de68bab6b88c993daf1",
+    "wof:geomhash":"f2ebb18c503072069efa3c0e1afaa68f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":"102269267",
-    "wof:lastmodified":1466322316,
+    "wof:lastmodified":1510699947,
     "wof:name":"Rehab Care Group",
     "wof:parent_id":85837877,
     "wof:placetype":"venue",

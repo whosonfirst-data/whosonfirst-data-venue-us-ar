@@ -2,14 +2,20 @@
   "id": 102404615,
   "type": "Feature",
   "properties": {
+    "addr:full":"6101 E Highland Dr Jonesboro AR 72401",
+    "addr:housenumber":"6101",
+    "addr:postcode":"72401",
+    "addr:street":"E Highland Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.617243,35.820766,-90.617243,35.820766",
     "geom:latitude":35.820766,
     "geom:longitude":-90.617243,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6101 E Highland Dr",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         85688549,
         102082033
     ],
+    "wof:brand_id":1125151103,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_05wLpaMTXiKqyxp5Cogw5A_35.820766_-90.617243@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"c8173ea4622502d7f9c6273f7b8020ed",
+    "wof:geomhash":"b650b094290a990fe31aa695c38a7049",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":102404615,
-    "wof:lastmodified":1466324915,
+    "wof:lastmodified":1510697584,
     "wof:name":"ABF Freight System Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

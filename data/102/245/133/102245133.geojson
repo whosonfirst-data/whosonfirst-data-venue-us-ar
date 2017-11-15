@@ -2,14 +2,20 @@
   "id": "102245133",
   "type": "Feature",
   "properties": {
+    "addr:full":"2000 E Washington Ave N Little Rock AR 72114",
+    "addr:housenumber":"2000",
+    "addr:postcode":"72114",
+    "addr:street":"E Washington Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.244323,34.753594,-92.244323,34.753594",
     "geom:latitude":34.753594,
     "geom:longitude":-92.244323,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2000 E Washington Ave",
     "sg:city":"N Little Rock",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         85878757,
         102082497
     ],
+    "wof:brand_id":1125152751,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1MVWvhLWMWXnQEhwXYfK0j_34.753594_-92.244323@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"28c7c238b8f9e8d07f2d089f056fa269",
+    "wof:geomhash":"ab1f9cd3cae5db8181b8b225219de530",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":"102245133",
-    "wof:lastmodified":1466321693,
+    "wof:lastmodified":1510693929,
     "wof:name":"Wesco Distributing Inc",
     "wof:parent_id":85878757,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": "102235105",
   "type": "Feature",
   "properties": {
+    "addr:full":"610 Rock St Little Rock AR 72202",
+    "addr:housenumber":"610",
+    "addr:postcode":"72202",
+    "addr:street":"Rock St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.267932,34.7418,-92.267932,34.7418",
     "geom:latitude":34.7418,
     "geom:longitude":-92.267932,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"610 Rock St",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -37,12 +43,13 @@
         85878757,
         102082497
     ],
+    "wof:brand_id":1125153167,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Mph6HGPTGKeotSA8Oo70T_34.741800_-92.267932@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"cde8074a11e43eed946af88e6abd54ba",
+    "wof:geomhash":"54e5f12a43e7eff718797f05e61b14bb",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":"102235105",
-    "wof:lastmodified":1466321461,
+    "wof:lastmodified":1510694655,
     "wof:name":"Narcotics Anonymous",
     "wof:parent_id":85878757,
     "wof:placetype":"venue",

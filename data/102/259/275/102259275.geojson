@@ -2,14 +2,20 @@
   "id": "102259275",
   "type": "Feature",
   "properties": {
+    "addr:full":"1101 N Bonner St Hope AR 71801",
+    "addr:housenumber":"1101",
+    "addr:postcode":"71801",
+    "addr:street":"N Bonner St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.579849,33.680147,-93.579849,33.680147",
     "geom:latitude":33.680147,
     "geom:longitude":-93.579849,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1101 N Bonner St",
     "sg:city":"Hope",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102083213,
         85806015
     ],
+    "wof:brand_id":1125154727,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ypymj3Z9U0qs7XHgsjNgR_33.680147_-93.579849@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"28665155376a79a76aa04276e764fc78",
+    "wof:geomhash":"42e74112eb9aaaa948aec1e998c9e4d9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":"102259275",
-    "wof:lastmodified":1466322078,
+    "wof:lastmodified":1510695868,
     "wof:name":"Eastside Baptist Church",
     "wof:parent_id":85806015,
     "wof:placetype":"venue",

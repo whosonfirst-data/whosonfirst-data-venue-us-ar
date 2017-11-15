@@ -2,14 +2,20 @@
   "id": 840482429,
   "type": "Feature",
   "properties": {
+    "addr:full":"11501 W Markham St Little Rock AR 72211",
+    "addr:housenumber":"11501",
+    "addr:postcode":"72211",
+    "addr:street":"W Markham St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.403109,34.753724,-92.403109,34.753724",
     "geom:latitude":34.753724,
     "geom:longitude":-92.403109,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"11501 W Markham St",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102082497,
         85833895
     ],
+    "wof:brand_id":420574645,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1qRtkufA98iq9RM2HDjQ2l_34.753724_-92.403109@1299784598"
     },
     "wof:country":"US",
     "wof:created":1463620924,
-    "wof:geomhash":"4c6a142a228374cc43e691c6d3ef6fd7",
+    "wof:geomhash":"de854532bdf8b53eeece20cf3f22a266",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":840482429,
-    "wof:lastmodified":1466322184,
+    "wof:lastmodified":1510604182,
     "wof:name":"Popeyes Chicken & Biscuits",
     "wof:parent_id":85833895,
     "wof:placetype":"venue",

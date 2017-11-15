@@ -2,14 +2,20 @@
   "id": 840482897,
   "type": "Feature",
   "properties": {
+    "addr:full":"2400 S Caraway Rd Jonesboro AR 72401",
+    "addr:housenumber":"2400",
+    "addr:postcode":"72401",
+    "addr:street":"S Caraway Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.67794,35.816269,-90.67794,35.816269",
     "geom:latitude":35.816269,
     "geom:longitude":-90.67794,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2400 S Caraway Rd",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102082033,
         85836541
     ],
+    "wof:brand_id":1125150283,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6prxXrJmT3jfWlfbKwMjmy_35.816269_-90.677940@1299784598"
     },
     "wof:country":"US",
     "wof:created":1463620934,
-    "wof:geomhash":"62947c465ff1be31c60c737cf6f2cc31",
+    "wof:geomhash":"790816bf66aa7eeb7783ce0ee3e59547",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":840482897,
-    "wof:lastmodified":1466322237,
+    "wof:lastmodified":1510695363,
     "wof:name":"Mcalister's Deli",
     "wof:parent_id":85836541,
     "wof:placetype":"venue",

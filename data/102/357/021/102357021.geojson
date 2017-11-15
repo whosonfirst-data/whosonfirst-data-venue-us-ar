@@ -2,14 +2,20 @@
   "id": 102357021,
   "type": "Feature",
   "properties": {
+    "addr:full":"1117 US Hwy 71 Bus Bentonville AR 72712",
+    "addr:housenumber":"1117",
+    "addr:postcode":"72712",
+    "addr:street":"Us Hwy 71 Bus",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.216174,36.360296,-94.216174,36.360296",
     "geom:latitude":36.360296,
     "geom:longitude":-94.216174,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1117 US Hwy 71 Bus",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102083255,
         85895819
     ],
+    "wof:brand_id":1125150215,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2IlkXp1ckEBDoY2p0UYbKz_36.360296_-94.216174@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"cbd95fc01fb719cb1c440928bb935eae",
+    "wof:geomhash":"1580bceadc1f4ca439137a709049fbea",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":102357021,
-    "wof:lastmodified":1466324132,
+    "wof:lastmodified":1510697720,
     "wof:name":"Mazzio's Pizza",
     "wof:parent_id":85895819,
     "wof:placetype":"venue",

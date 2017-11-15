@@ -2,14 +2,20 @@
   "id": 219365715,
   "type": "Feature",
   "properties": {
+    "addr:full":"203 Kilgore Dr Cabot AR 72023",
+    "addr:housenumber":"203",
+    "addr:postcode":"72023",
+    "addr:street":"Kilgore Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.028581,34.966912,-92.028581,34.966912",
     "geom:latitude":34.966912,
     "geom:longitude":-92.028581,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"203 Kilgore Dr",
     "sg:city":"Cabot",
     "sg:classifiers":[
@@ -73,12 +79,13 @@
         102082027,
         85839277
     ],
+    "wof:brand_id":1125159693,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6MuwTlXlCSJ7wWqly0BRSr_34.966912_-92.028581@1303262949"
     },
     "wof:country":"US",
-    "wof:geomhash":"7aa79b4d518bf3b2e18cc90dc038a096",
+    "wof:geomhash":"85c3aeb609d6b049c961d05159e455a6",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -91,7 +98,7 @@
         }
     ],
     "wof:id":219365715,
-    "wof:lastmodified":1466322503,
+    "wof:lastmodified":1510695063,
     "wof:name":"Southern Pipe & Supply Co",
     "wof:parent_id":85839277,
     "wof:placetype":"venue",

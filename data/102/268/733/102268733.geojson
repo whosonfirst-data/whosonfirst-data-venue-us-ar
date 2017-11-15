@@ -2,14 +2,20 @@
   "id": "102268733",
   "type": "Feature",
   "properties": {
+    "addr:full":"411 S Maple St Stuttgart AR 72160",
+    "addr:housenumber":"411",
+    "addr:postcode":"72160",
+    "addr:street":"S Maple St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.553787,34.499185,-91.553787,34.499185",
     "geom:latitude":34.499185,
     "geom:longitude":-91.553787,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"411 S Maple St",
     "sg:city":"Stuttgart",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102082495,
         85838089
     ],
+    "wof:brand_id":1125152025,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5sHa7WJWVp8PeqbwxnAZts_34.499185_-91.553787@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"a2deb99fd174d6dff4193db3f58f6af3",
+    "wof:geomhash":"4b200250c64dd73da8b1421e255143aa",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":"102268733",
-    "wof:lastmodified":1466322391,
+    "wof:lastmodified":1510696809,
     "wof:name":"Bancorp South Bank",
     "wof:parent_id":85838089,
     "wof:placetype":"venue",

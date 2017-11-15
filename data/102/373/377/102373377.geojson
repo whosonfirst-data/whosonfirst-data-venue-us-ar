@@ -2,14 +2,20 @@
   "id": 102373377,
   "type": "Feature",
   "properties": {
+    "addr:full":"317 W Commercial St Ozark AR 72949",
+    "addr:housenumber":"317",
+    "addr:postcode":"72949",
+    "addr:street":"W Commercial St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.828093,35.486916,-93.828093,35.486916",
     "geom:latitude":35.486916,
     "geom:longitude":-93.828093,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"317 W Commercial St",
     "sg:city":"Ozark",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         85688549,
         102083207
     ],
+    "wof:brand_id":1125154277,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2zpvxkTeQUWkqaRQIztrn6_35.486916_-93.828093@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"c5f214e2baf6545e132d0adc63a61f02",
+    "wof:geomhash":"1a9c758110978cf98433c512a8400c8f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":102373377,
-    "wof:lastmodified":1466320702,
+    "wof:lastmodified":1510695876,
     "wof:name":"Area Agency On Aging",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

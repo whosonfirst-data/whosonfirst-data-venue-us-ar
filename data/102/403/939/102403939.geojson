@@ -2,14 +2,20 @@
   "id": 102403939,
   "type": "Feature",
   "properties": {
+    "addr:full":"507 SE E St Bentonville AR 72712",
+    "addr:housenumber":"507",
+    "addr:postcode":"72712",
+    "addr:street":"Se E St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.20306,36.367673,-94.20306,36.367673",
     "geom:latitude":36.367673,
     "geom:longitude":-94.20306,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"507 SE E St",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -37,12 +43,13 @@
         102083255,
         85895827
     ],
+    "wof:brand_id":1125150607,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_59McPm9F83HoThKIQ6zQvN_36.367673_-94.203060@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"1ecd6c06c2192e2329bb753de250feb1",
+    "wof:geomhash":"222da80de1d45732307b1e6e79f86b47",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":102403939,
-    "wof:lastmodified":1466324816,
+    "wof:lastmodified":1510697769,
     "wof:name":"Kraft Foods",
     "wof:parent_id":85895827,
     "wof:placetype":"venue",

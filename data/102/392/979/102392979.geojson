@@ -2,14 +2,20 @@
   "id": 102392979,
   "type": "Feature",
   "properties": {
+    "addr:full":"3180 N College Ave Fayetteville AR 72703",
+    "addr:housenumber":"3180",
+    "addr:postcode":"72703",
+    "addr:street":"N College Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.145841,36.106849,-94.145841,36.106849",
     "geom:latitude":36.106849,
     "geom:longitude":-94.145841,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3180 N College Ave",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -36,12 +42,13 @@
         102082007,
         85885431
     ],
+    "wof:brand_id":1125150325,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0xPMnetxPFlFXd1zdQVsNR_36.106849_-94.145841@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"0c232aac57a7ff5759e4c738f8ceb23f",
+    "wof:geomhash":"a3541dea92033df156b81a302f875933",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":102392979,
-    "wof:lastmodified":1466324691,
+    "wof:lastmodified":1510694570,
     "wof:name":"Hobby Lobby Creative Ctr",
     "wof:parent_id":85885431,
     "wof:placetype":"venue",

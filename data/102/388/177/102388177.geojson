@@ -2,14 +2,20 @@
   "id": 102388177,
   "type": "Feature",
   "properties": {
+    "addr:full":"1724 Airport Rd Harrison AR 72601",
+    "addr:housenumber":"1724",
+    "addr:postcode":"72601",
+    "addr:street":"Airport Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.153162,36.251617,-93.153162,36.251617",
     "geom:latitude":36.251617,
     "geom:longitude":-93.153162,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1724 Airport Rd",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -37,12 +43,13 @@
         85688549,
         102083249
     ],
+    "wof:brand_id":1125152333,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_32kRWjVhz06G6VPyJZwEMT_36.251617_-93.153162@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"686cfad23988c5dce12a90ad9c6fbe57",
+    "wof:geomhash":"3477fda31c318ec04917f7566a3c97e8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":102388177,
-    "wof:lastmodified":1466323774,
+    "wof:lastmodified":1510693922,
     "wof:name":"Cintas Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

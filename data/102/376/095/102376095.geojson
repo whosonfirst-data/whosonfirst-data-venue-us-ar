@@ -2,14 +2,20 @@
   "id": 102376095,
   "type": "Feature",
   "properties": {
+    "addr:full":"903 N College Ave Huntsville AR 72740",
+    "addr:housenumber":"903",
+    "addr:postcode":"72740",
+    "addr:street":"N College Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.737862,36.097933,-93.737862,36.097933",
     "geom:latitude":36.097933,
     "geom:longitude":-93.737862,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"903 N College Ave",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         85688549,
         102082533
     ],
+    "wof:brand_id":1125154277,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3bgk7avhrTjGy5KXpcqZaC_36.097933_-93.737862@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"0290c3a6f601765df80f096028da9427",
+    "wof:geomhash":"c2a45baf9117e81b64bc5516e0a21576",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":102376095,
-    "wof:lastmodified":1466321288,
+    "wof:lastmodified":1510695876,
     "wof:name":"Area Agency On Aging",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

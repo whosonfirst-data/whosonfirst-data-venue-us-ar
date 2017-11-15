@@ -2,14 +2,20 @@
   "id": 102363141,
   "type": "Feature",
   "properties": {
+    "addr:full":"2001 Parkway Dr N Little Rock AR 72118",
+    "addr:housenumber":"2001",
+    "addr:postcode":"72118",
+    "addr:street":"Parkway Dr N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.287654,34.796393,-92.287654,34.796393",
     "geom:latitude":34.796393,
     "geom:longitude":-92.287654,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2001 Parkway Dr",
     "sg:city":"N Little Rock",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         85803649,
         102082497
     ],
+    "wof:brand_id":1125150799,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5UR4nd0ynAeDvbx2zQ32wC_34.796393_-92.287654@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"7df0f141e8f3fba6a89dc56ed94dc3a4",
+    "wof:geomhash":"ef49431a1ebcd219788586da551618ae",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":102363141,
-    "wof:lastmodified":1466324238,
+    "wof:lastmodified":1510694183,
     "wof:name":"First Free Will Baptist Church",
     "wof:parent_id":85803649,
     "wof:placetype":"venue",

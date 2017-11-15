@@ -2,14 +2,20 @@
   "id": 102417645,
   "type": "Feature",
   "properties": {
+    "addr:full":"2801 S University Ave Little Rock AR 72204",
+    "addr:housenumber":"2801",
+    "addr:postcode":"72204",
+    "addr:street":"S University Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.341871,34.726729,-92.341871,34.726729",
     "geom:latitude":34.726729,
     "geom:longitude":-92.341871,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2801 S University Ave",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102082497,
         85838647
     ],
+    "wof:brand_id":1125150905,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0vw9ijTu4EUcViw4alJyaC_34.726729_-92.341871@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"ac6b2fc2b6d43d948cdb09c04721b76a",
+    "wof:geomhash":"bde9bc5a0d34658910e475ef4bc15ea0",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":102417645,
-    "wof:lastmodified":1466325364,
+    "wof:lastmodified":1510696729,
     "wof:name":"Small Business Development Ctr",
     "wof:parent_id":85838647,
     "wof:placetype":"venue",

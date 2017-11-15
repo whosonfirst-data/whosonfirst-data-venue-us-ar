@@ -2,14 +2,20 @@
   "id": 102383509,
   "type": "Feature",
   "properties": {
+    "addr:full":"1515 Columbia Rd 38 Magnolia AR 71753",
+    "addr:housenumber":"1515;38",
+    "addr:postcode":"71753",
+    "addr:street":"Columbia Rd;Magnolia",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.135673,33.289456,-93.135673,33.289456",
     "geom:latitude":33.289456,
     "geom:longitude":-93.135673,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1515 Columbia Rd 38",
     "sg:city":"Magnolia",
     "sg:classifiers":[
@@ -32,12 +38,13 @@
         85688549,
         102082019
     ],
+    "wof:brand_id":1125152799,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ub0eQ0IGFzR6EUDJfOaOY_33.289456_-93.135673@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"a5639433ea7c638705a5b20c39c2a73c",
+    "wof:geomhash":"9307be204831d7aecf45c2c36ab52a4d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":102383509,
-    "wof:lastmodified":1466322815,
+    "wof:lastmodified":1510697600,
     "wof:name":"New Bethel Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

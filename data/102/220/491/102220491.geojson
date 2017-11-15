@@ -2,14 +2,20 @@
   "id": "102220491",
   "type": "Feature",
   "properties": {
+    "addr:full":"200 W Broadway St Morrilton AR 72110",
+    "addr:housenumber":"200",
+    "addr:postcode":"72110",
+    "addr:street":"W Broadway St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.747503,35.153135,-92.747503,35.153135",
     "geom:latitude":35.153135,
     "geom:longitude":-92.747503,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"200 W Broadway St",
     "sg:city":"Morrilton",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102083217,
         85814069
     ],
+    "wof:brand_id":1125151339,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0T2bbucIbhPuYw29Fs0t5a_35.153135_-92.747503@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"da0a3a1f815791bae0a3f8129b0eb281",
+    "wof:geomhash":"c3fecacaba7133659ee25a9c24a56777",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":"102220491",
-    "wof:lastmodified":1466321178,
+    "wof:lastmodified":1510694950,
     "wof:name":"Woodman of World Lf Insur Soc",
     "wof:parent_id":85814069,
     "wof:placetype":"venue",

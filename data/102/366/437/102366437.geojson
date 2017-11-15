@@ -2,14 +2,20 @@
   "id": 102366437,
   "type": "Feature",
   "properties": {
+    "addr:full":"70 N College Ave Fayetteville AR 72701",
+    "addr:housenumber":"70",
+    "addr:postcode":"72701",
+    "addr:street":"N College Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.15784,36.063054,-94.15784,36.063054",
     "geom:latitude":36.063054,
     "geom:longitude":-94.15784,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"70 N College Ave",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -41,12 +47,13 @@
         102082007,
         85885459
     ],
+    "wof:brand_id":1125152735,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5CasH22xwFbEbqoVNJzOZZ_36.063054_-94.157840@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"961e3fcc2f8142b97e7fc383c18ce13a",
+    "wof:geomhash":"a3fa71c3e928b1bd0e73b372ddc5d613",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":102366437,
-    "wof:lastmodified":1466324415,
+    "wof:lastmodified":1510696652,
     "wof:name":"Property Damage Appraisers Inc",
     "wof:parent_id":85885459,
     "wof:placetype":"venue",

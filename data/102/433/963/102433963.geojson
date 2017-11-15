@@ -2,14 +2,20 @@
   "id": 102433963,
   "type": "Feature",
   "properties": {
+    "addr:full":"109 N Main St Chidester AR 71726",
+    "addr:housenumber":"109",
+    "addr:postcode":"71726",
+    "addr:street":"N Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.020044,33.703052,-93.020044,33.703052",
     "geom:latitude":33.703052,
     "geom:longitude":-93.020044,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"109 N Main St",
     "sg:city":"Chidester",
     "sg:classifiers":[
@@ -30,12 +36,13 @@
         85688549,
         102083253
     ],
+    "wof:brand_id":1125152025,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Tf9n7nynHhXNPUluMjOdO_33.703052_-93.020044@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"30d9bbf5f3793569ec787082571ab56f",
+    "wof:geomhash":"a6426dc5df05b8ad3ad0f869039aa7de",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -46,7 +53,7 @@
         }
     ],
     "wof:id":102433963,
-    "wof:lastmodified":1466325699,
+    "wof:lastmodified":1510696809,
     "wof:name":"Bancorp South Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

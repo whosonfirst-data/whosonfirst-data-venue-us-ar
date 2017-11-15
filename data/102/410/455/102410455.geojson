@@ -2,14 +2,20 @@
   "id": 102410455,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 College St Hughes AR 72348",
+    "addr:housenumber":"101",
+    "addr:postcode":"72348",
+    "addr:street":"College St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.471348,34.953148,-90.471348,34.953148",
     "geom:latitude":34.953148,
     "geom:longitude":-90.471348,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"101 College St",
     "sg:city":"Hughes",
     "sg:classifiers":[
@@ -30,12 +36,13 @@
         85688549,
         102082037
     ],
+    "wof:brand_id":1125154645,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_21h7BTkydRcK53jrBoxvyN_34.953148_-90.471348@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"66a9389678c3a077d9ae58af935945de",
+    "wof:geomhash":"7b7ed44aa3f42ba025e83714cda0833c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -46,7 +53,7 @@
         }
     ],
     "wof:id":102410455,
-    "wof:lastmodified":1466325136,
+    "wof:lastmodified":1510699361,
     "wof:name":"Helena Chemical Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

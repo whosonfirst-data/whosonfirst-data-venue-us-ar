@@ -2,14 +2,20 @@
   "id": "102270277",
   "type": "Feature",
   "properties": {
+    "addr:full":"1115 Bishop St Little Rock AR 72202",
+    "addr:housenumber":"1115",
+    "addr:postcode":"72202",
+    "addr:street":"Bishop St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.290384,34.739613,-92.290384,34.739613",
     "geom:latitude":34.739613,
     "geom:longitude":-92.290384,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1115 Bishop St",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -32,12 +38,13 @@
         102082497,
         85878749
     ],
+    "wof:brand_id":1125151809,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1JVDEgn5voF73TT9izPV2g_34.739613_-92.290384@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"25411e463572c0b984518f757d06edd5",
+    "wof:geomhash":"bb3dcf68e6579ae4408a06ae738d13e7",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":"102270277",
-    "wof:lastmodified":1466322337,
+    "wof:lastmodified":1510693839,
     "wof:name":"United Transportation Union",
     "wof:parent_id":85878749,
     "wof:placetype":"venue",

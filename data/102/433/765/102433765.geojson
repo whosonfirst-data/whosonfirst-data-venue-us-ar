@@ -2,14 +2,20 @@
   "id": 102433765,
   "type": "Feature",
   "properties": {
+    "addr:full":"201 Executive Ct Little Rock AR 72205",
+    "addr:housenumber":"201",
+    "addr:postcode":"72205",
+    "addr:street":"Executive Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.390463,34.752274,-92.390463,34.752274",
     "geom:latitude":34.752274,
     "geom:longitude":-92.390463,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"201 Executive Ct",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102082497,
         85833895
     ],
+    "wof:brand_id":1125150927,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ffGF0uWUnWAfaI9AAcmtd_34.752274_-92.390463@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"7f258f67ebe98dee24f61f60771a288f",
+    "wof:geomhash":"ed26a4cb542e9d51d328f2b2b33dc827",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":102433765,
-    "wof:lastmodified":1466325650,
+    "wof:lastmodified":1510694582,
     "wof:name":"American Home Patient Inc",
     "wof:parent_id":85833895,
     "wof:placetype":"venue",

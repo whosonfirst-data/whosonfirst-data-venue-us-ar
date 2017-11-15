@@ -2,14 +2,20 @@
   "id": 102319877,
   "type": "Feature",
   "properties": {
+    "addr:full":"901 W Robinson Ave Springdale AR 72764",
+    "addr:housenumber":"901",
+    "addr:postcode":"72764",
+    "addr:street":"W Robinson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.138066,36.167169,-94.138066,36.167169",
     "geom:latitude":36.167169,
     "geom:longitude":-94.138066,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"901 W Robinson Ave",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102082007,
         85885481
     ],
+    "wof:brand_id":1125151207,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1MBHqnMtmfGFkbwEzuBgVe_36.167169_-94.138066@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"84dd0107c58bf4fc3b496221b218c96e",
+    "wof:geomhash":"867b39df04a3d5475d77c9d7c0405d8a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":102319877,
-    "wof:lastmodified":1466323509,
+    "wof:lastmodified":1510613191,
     "wof:name":"ABC Supply Co",
     "wof:parent_id":85885481,
     "wof:placetype":"venue",

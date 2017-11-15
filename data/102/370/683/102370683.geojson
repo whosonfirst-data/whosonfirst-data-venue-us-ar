@@ -2,14 +2,20 @@
   "id": 102370683,
   "type": "Feature",
   "properties": {
+    "addr:full":"7615 Morris Dr Little Rock AR 72209",
+    "addr:housenumber":"7615",
+    "addr:postcode":"72209",
+    "addr:street":"Morris Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.365028,34.657425,-92.365028,34.657425",
     "geom:latitude":34.657425,
     "geom:longitude":-92.365028,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7615 Morris Dr",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102082497,
         85848409
     ],
+    "wof:brand_id":1125157297,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6i4v0ugEQN6onTyd5Qx3Cl_34.657425_-92.365028@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"4d11384fe995b5fcfff49ede5103b55c",
+    "wof:geomhash":"f89e40aeb8955a3b643e767ff9257520",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":102370683,
-    "wof:lastmodified":1466324479,
+    "wof:lastmodified":1510694603,
     "wof:name":"Victory Outreach",
     "wof:parent_id":85848409,
     "wof:placetype":"venue",

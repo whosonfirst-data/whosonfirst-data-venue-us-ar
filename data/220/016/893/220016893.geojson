@@ -2,14 +2,20 @@
   "id": 220016893,
   "type": "Feature",
   "properties": {
+    "addr:full":"7022 W Sunset Ave Springdale AR 72762",
+    "addr:housenumber":"7022",
+    "addr:postcode":"72762",
+    "addr:street":"W Sunset Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.208578,36.17579,-94.208578,36.17579",
     "geom:latitude":36.17579,
     "geom:longitude":-94.208578,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7022 W Sunset Ave",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -48,12 +54,13 @@
         102082007,
         85885477
     ],
+    "wof:brand_id":1125152903,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3JjZWCIiJXnfIjHsgpCwiW_36.175790_-94.208578@1303262957"
     },
     "wof:country":"US",
-    "wof:geomhash":"f4f8d0157b1b2d7993cc1a5f86a3b9ea",
+    "wof:geomhash":"e3d86d1874a8aad0a92e2edf84755be6",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -66,7 +73,7 @@
         }
     ],
     "wof:id":220016893,
-    "wof:lastmodified":1466320493,
+    "wof:lastmodified":1510695169,
     "wof:name":"Quiznos Classic Subs",
     "wof:parent_id":85885477,
     "wof:placetype":"venue",

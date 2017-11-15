@@ -2,14 +2,20 @@
   "id": 102410511,
   "type": "Feature",
   "properties": {
+    "addr:full":"3002 Wheeler Ave Fort Smith AR 72901",
+    "addr:housenumber":"3002",
+    "addr:postcode":"72901",
+    "addr:street":"Wheeler Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.426583,35.358551,-94.426583,35.358551",
     "geom:latitude":35.358551,
     "geom:longitude":-94.426583,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3002 Wheeler Ave",
     "sg:city":"Fort Smith",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102082025,
         85834235
     ],
+    "wof:brand_id":1125151405,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7IHGJ0YU6OZ12UV2yjKx15_35.358551_-94.426583@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"a2260011cbcca5ba43e7675af1af8a87",
+    "wof:geomhash":"d4477b512366d26d5da03500cb545667",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":102410511,
-    "wof:lastmodified":1466325210,
+    "wof:lastmodified":1510699336,
     "wof:name":"Bumper To Bumper Auto Parts",
     "wof:parent_id":85834235,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 220081795,
   "type": "Feature",
   "properties": {
+    "addr:full":"315 E Taylor Rd Clarksville AR 72830",
+    "addr:housenumber":"315",
+    "addr:postcode":"72830",
+    "addr:street":"E Taylor Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.460229,35.451167,-93.460229,35.451167",
     "geom:latitude":35.451167,
     "geom:longitude":-93.460229,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"315 E Taylor Rd",
     "sg:city":"Clarksville",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         85921043,
         102083251
     ],
+    "wof:brand_id":1125156191,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2UmOTlXonXKFAnEk9ONCpg_35.451167_-93.460229@1303262958"
     },
     "wof:country":"US",
-    "wof:geomhash":"913260da8746158a2c239729f384aa98",
+    "wof:geomhash":"931924824b7df8835d2991b70fef2183",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":220081795,
-    "wof:lastmodified":1466321628,
+    "wof:lastmodified":1510694764,
     "wof:name":"Americas Best Value Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

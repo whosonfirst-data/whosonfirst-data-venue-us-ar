@@ -2,14 +2,20 @@
   "id": "102285979",
   "type": "Feature",
   "properties": {
+    "addr:full":"1018 Salem Rd Conway AR 72034",
+    "addr:housenumber":"1018",
+    "addr:postcode":"72034",
+    "addr:street":"Salem Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.471237,35.0944,-92.471237,35.0944",
     "geom:latitude":35.0944,
     "geom:longitude":-92.471237,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1018 Salem Rd",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -30,12 +36,13 @@
         85688549,
         102083241
     ],
+    "wof:brand_id":1125154081,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6RGt19zRoPAt7rpZ128K9b_35.094400_-92.471237@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"cedae3f80e5d9dde0c0ac89b0c76e387",
+    "wof:geomhash":"fbbf4a933d7d043e7942e72e2527da0e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -46,7 +53,7 @@
         }
     ],
     "wof:id":"102285979",
-    "wof:lastmodified":1466322854,
+    "wof:lastmodified":1510613292,
     "wof:name":"Salem United Methodist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

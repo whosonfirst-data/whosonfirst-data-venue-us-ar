@@ -2,14 +2,20 @@
   "id": 102336757,
   "type": "Feature",
   "properties": {
+    "addr:full":"2600 Howard St Little Rock AR 72206",
+    "addr:housenumber":"2600",
+    "addr:postcode":"72206",
+    "addr:street":"Howard St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.298865,34.724681,-92.298865,34.724681",
     "geom:latitude":34.724681,
     "geom:longitude":-92.298865,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2600 Howard St",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102082497,
         85803283
     ],
+    "wof:brand_id":1125154407,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6bwV6XD1xSOarsSnfpacHY_34.724681_-92.298865@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"fcdbd149fcbd3e44f50cad01eab2cc8c",
+    "wof:geomhash":"4d5f373945b6a61dfa579283556bf95e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":102336757,
-    "wof:lastmodified":1466323870,
+    "wof:lastmodified":1510697803,
     "wof:name":"Centerplate",
     "wof:parent_id":85803283,
     "wof:placetype":"venue",

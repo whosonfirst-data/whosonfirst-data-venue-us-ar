@@ -2,14 +2,20 @@
   "id": "102287719",
   "type": "Feature",
   "properties": {
+    "addr:full":"4401 Camp Robinson Rd N Little Rock AR 72118",
+    "addr:housenumber":"4401",
+    "addr:postcode":"72118",
+    "addr:street":"Camp Robinson Rd N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.26977,34.79755,-92.26977,34.79755",
     "geom:latitude":34.79755,
     "geom:longitude":-92.26977,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4401 Camp Robinson Rd",
     "sg:city":"N Little Rock",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102082497,
         85840541
     ],
+    "wof:brand_id":1125152135,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1CBW3mR2Ape5brXkoGAzEy_34.797550_-92.269770@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"29a9360422af25aa069bb2aa13e8baf3",
+    "wof:geomhash":"7840a851e7881171a04ec1aecd2e24a2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":"102287719",
-    "wof:lastmodified":1466322832,
+    "wof:lastmodified":1510695264,
     "wof:name":"Citi Trends",
     "wof:parent_id":85840541,
     "wof:placetype":"venue",

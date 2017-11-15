@@ -2,14 +2,20 @@
   "id": 102315039,
   "type": "Feature",
   "properties": {
+    "addr:full":"521 President Clinton Ave Little Rock AR 72201",
+    "addr:housenumber":"521",
+    "addr:postcode":"72201",
+    "addr:street":"President Clinton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.264554,34.747243,-92.264554,34.747243",
     "geom:latitude":34.747243,
     "geom:longitude":-92.264554,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"521 President Clinton Ave",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -30,12 +36,13 @@
         85878757,
         102082497
     ],
+    "wof:brand_id":1125158291,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ba59CMTsX4Ti22avG2r8J_34.747243_-92.264554@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"1663928e2fe7a6892e560866bda39377",
+    "wof:geomhash":"d199bf3e09cc6b2ffd70b37345b53b90",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -46,7 +53,7 @@
         }
     ],
     "wof:id":102315039,
-    "wof:lastmodified":1466323292,
+    "wof:lastmodified":1510695814,
     "wof:name":"First Security Bank",
     "wof:parent_id":85878757,
     "wof:placetype":"venue",

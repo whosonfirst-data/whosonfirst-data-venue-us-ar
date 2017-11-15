@@ -2,14 +2,20 @@
   "id": "102244699",
   "type": "Feature",
   "properties": {
+    "addr:full":"608 S Quaker Ave El Dorado AR 71730",
+    "addr:housenumber":"608",
+    "addr:postcode":"71730",
+    "addr:street":"S Quaker Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.64821,33.206911,-92.64821,33.206911",
     "geom:latitude":33.206911,
     "geom:longitude":-92.64821,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"608 S Quaker Ave",
     "sg:city":"El Dorado",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         85688549,
         102082501
     ],
+    "wof:brand_id":1125156305,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7bY0NybWjnC4gWig8S2f8w_33.206911_-92.648210@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"ed7a8801404919b19d2b71090754ff47",
+    "wof:geomhash":"afff6afed60a25f9e1307e1030d4b0d7",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":"102244699",
-    "wof:lastmodified":1466321801,
+    "wof:lastmodified":1510698776,
     "wof:name":"St James Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

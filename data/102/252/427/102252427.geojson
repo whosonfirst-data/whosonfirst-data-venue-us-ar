@@ -2,14 +2,20 @@
   "id": "102252427",
   "type": "Feature",
   "properties": {
+    "addr:full":"4701 John F Kennedy Blvd N Little Rock AR 72116",
+    "addr:housenumber":"4701",
+    "addr:postcode":"72116",
+    "addr:street":"John F Kennedy Blvd N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.255203,34.800219,-92.255203,34.800219",
     "geom:latitude":34.800219,
     "geom:longitude":-92.255203,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4701 John F Kennedy Blvd",
     "sg:city":"N Little Rock",
     "sg:classifiers":[
@@ -36,12 +42,13 @@
         102082497,
         85851793
     ],
+    "wof:brand_id":1125150325,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_14fc3ZgfQzmYueSgsLhUlK_34.800219_-92.255203@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"ac6d99438612ce3bf7ab5c647ecc90bd",
+    "wof:geomhash":"b1e02a8c881ef3ded0ea8c4fe7fba39a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":"102252427",
-    "wof:lastmodified":1466321923,
+    "wof:lastmodified":1510694571,
     "wof:name":"Hobby Lobby Creative Ctr",
     "wof:parent_id":85851793,
     "wof:placetype":"venue",

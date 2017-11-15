@@ -2,14 +2,20 @@
   "id": 102432975,
   "type": "Feature",
   "properties": {
+    "addr:full":"1520 S Main St Hope AR 71801",
+    "addr:housenumber":"1520",
+    "addr:postcode":"71801",
+    "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.587561,33.654919,-93.587561,33.654919",
     "geom:latitude":33.654919,
     "geom:longitude":-93.587561,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1520 S Main St",
     "sg:city":"Hope",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102083213,
         85806015
     ],
+    "wof:brand_id":1125152025,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2KkXXMrFzsRa4CQN7frU5u_33.654919_-93.587561@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"ce4502fee20ef0d443caa26f92991c2d",
+    "wof:geomhash":"c803036111c2ae6201d115eb875232a2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":102432975,
-    "wof:lastmodified":1466325630,
+    "wof:lastmodified":1510696809,
     "wof:name":"Bancorp South Bank",
     "wof:parent_id":85806015,
     "wof:placetype":"venue",

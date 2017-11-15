@@ -2,6 +2,10 @@
   "id": 102409221,
   "type": "Feature",
   "properties": {
+    "addr:full":"456 Co Rd 312 Jonesboro AR 72401",
+    "addr:housenumber":"456;312",
+    "addr:postcode":"72401",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":102409221,
-    "wof:lastmodified":1466325188,
+    "wof:lastmodified":1472598485,
     "wof:name":"Wilson Distributing LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

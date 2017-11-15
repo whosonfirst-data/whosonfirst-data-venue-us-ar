@@ -2,14 +2,20 @@
   "id": 102323849,
   "type": "Feature",
   "properties": {
+    "addr:full":"3401 Springhill Dr N Little Rock AR 72117",
+    "addr:housenumber":"3401",
+    "addr:postcode":"72117",
+    "addr:street":"Springhill Dr N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.218699,34.78404,-92.218699,34.78404",
     "geom:latitude":34.78404,
     "geom:longitude":-92.218699,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3401 Springhill Dr",
     "sg:city":"N Little Rock",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102082497,
         85852263
     ],
+    "wof:brand_id":1125154309,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3q03B5iMVditprVrmcfXtp_34.784040_-92.218699@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"86881bb5e2b0e26f89e8a437ef82510c",
+    "wof:geomhash":"7f96d1589f3790fbd02f6dc25b9c5607",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":102323849,
-    "wof:lastmodified":1466323603,
+    "wof:lastmodified":1510698640,
     "wof:name":"Gastroenterology Associates",
     "wof:parent_id":85852263,
     "wof:placetype":"venue",

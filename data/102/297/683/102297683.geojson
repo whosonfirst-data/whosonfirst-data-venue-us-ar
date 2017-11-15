@@ -2,14 +2,20 @@
   "id": "102297683",
   "type": "Feature",
   "properties": {
+    "addr:full":"106 Stuttgart Hwy England AR 72046",
+    "addr:housenumber":"106",
+    "addr:postcode":"72046",
+    "addr:street":"Stuttgart Hwy England",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.955881,34.546327,-91.955881,34.546327",
     "geom:latitude":34.546327,
     "geom:longitude":-91.955881,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"106 Stuttgart Hwy",
     "sg:city":"England",
     "sg:classifiers":[
@@ -40,12 +46,13 @@
         85688549,
         102082027
     ],
+    "wof:brand_id":1125157519,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5OgpiOPaDkXPSH2knRKyhQ_34.546327_-91.955881@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"371a106008ff13fb19b26d4767395e69",
+    "wof:geomhash":"a697823977f96519fb0050ae63340067",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":"102297683",
-    "wof:lastmodified":1466323037,
+    "wof:lastmodified":1510613275,
     "wof:name":"Tobacco Outlet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

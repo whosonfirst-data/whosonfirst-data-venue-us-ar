@@ -2,14 +2,20 @@
   "id": "102234815",
   "type": "Feature",
   "properties": {
+    "addr:full":"9021 Geyer Springs Rd Little Rock AR 72209",
+    "addr:housenumber":"9021",
+    "addr:postcode":"72209",
+    "addr:street":"Geyer Springs Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.344326,34.668344,-92.344326,34.668344",
     "geom:latitude":34.668344,
     "geom:longitude":-92.344326,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9021 Geyer Springs Rd",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102082497,
         85833155
     ],
+    "wof:brand_id":1125151391,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4oWrRHZxiGot89d2VHBURZ_34.668344_-92.344326@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"4bcf275be2036b0f3ad8212c2d7cdc66",
+    "wof:geomhash":"1f6c068eea26131b0933f9f77912c9b0",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":"102234815",
-    "wof:lastmodified":1466321585,
+    "wof:lastmodified":1510613543,
     "wof:name":"Schlotzsky's Deli",
     "wof:parent_id":85833155,
     "wof:placetype":"venue",

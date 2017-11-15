@@ -2,14 +2,20 @@
   "id": 102403981,
   "type": "Feature",
   "properties": {
+    "addr:full":"1121 S Bowman Rd Little Rock AR 72211",
+    "addr:housenumber":"1121",
+    "addr:postcode":"72211",
+    "addr:street":"S Bowman Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.407348,34.740084,-92.407348,34.740084",
     "geom:latitude":34.740084,
     "geom:longitude":-92.407348,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1121 S Bowman Rd",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102082497,
         85833895
     ],
+    "wof:brand_id":1125156431,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3yRC9LaglTKr9WUXRFUJZU_34.740084_-92.407348@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"c1cd9f6889823851976b3108ca705c3d",
+    "wof:geomhash":"ff296a0a87adeb8d0a262f7ee9ef3230",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":102403981,
-    "wof:lastmodified":1466324822,
+    "wof:lastmodified":1510696866,
     "wof:name":"Little Gym",
     "wof:parent_id":85833895,
     "wof:placetype":"venue",

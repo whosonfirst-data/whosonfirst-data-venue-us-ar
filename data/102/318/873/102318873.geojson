@@ -2,14 +2,20 @@
   "id": 102318873,
   "type": "Feature",
   "properties": {
+    "addr:full":"1160 E Lakeridge Dr Fayetteville AR 72703",
+    "addr:housenumber":"1160",
+    "addr:postcode":"72703",
+    "addr:street":"E Lakeridge Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.14954,36.078881,-94.14954,36.078881",
     "geom:latitude":36.078881,
     "geom:longitude":-94.14954,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1160 E Lakeridge Dr",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102082007,
         85885437
     ],
+    "wof:brand_id":1125156721,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3uZuF9hbVXooY40T1sr7kM_36.078881_-94.149540@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"d8e00fd8eedf656a38b871dea38642b1",
+    "wof:geomhash":"f6cbff0d8b989563366ea27e6a6ebf7f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":102318873,
-    "wof:lastmodified":1466323495,
+    "wof:lastmodified":1510699520,
     "wof:name":"Computer Sciences Corp",
     "wof:parent_id":85885437,
     "wof:placetype":"venue",

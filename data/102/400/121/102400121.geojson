@@ -2,14 +2,20 @@
   "id": 102400121,
   "type": "Feature",
   "properties": {
+    "addr:full":"1617 Sarah Cir Conway AR 72034",
+    "addr:housenumber":"1617",
+    "addr:postcode":"72034",
+    "addr:street":"Sarah Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.459011,35.102905,-92.459011,35.102905",
     "geom:latitude":35.102905,
     "geom:longitude":-92.459011,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1617 Sarah Cir",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         85688549,
         102083241
     ],
+    "wof:brand_id":1125157007,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4UeEYCrEJm9XYlAb48SxOc_35.102905_-92.459011@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"4e340cc5e1448f72157fa699cfb95a64",
+    "wof:geomhash":"57a000f1d10cbcfb0dc1eaf8e26d3439",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":102400121,
-    "wof:lastmodified":1466324846,
+    "wof:lastmodified":1510695068,
     "wof:name":"Learning Tree",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": "102210837",
   "type": "Feature",
   "properties": {
+    "addr:full":"3019 W Main St Russellville AR 72801",
+    "addr:housenumber":"3019",
+    "addr:postcode":"72801",
+    "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.162815,35.286919,-93.162815,35.286919",
     "geom:latitude":35.286919,
     "geom:longitude":-93.162815,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3019 W Main St",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         85688549,
         102082511
     ],
+    "wof:brand_id":1125152699,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Np4G5dJGeOu7hTVFusVDC_35.286919_-93.162815@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"b24c3dcc67c7562fa19093387160632c",
+    "wof:geomhash":"5d2564aa8ce187926ba16b1832697a17",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":"102210837",
-    "wof:lastmodified":1466320993,
+    "wof:lastmodified":1510696808,
     "wof:name":"Bank of America NA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

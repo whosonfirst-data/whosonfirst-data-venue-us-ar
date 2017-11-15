@@ -2,14 +2,20 @@
   "id": 102394691,
   "type": "Feature",
   "properties": {
+    "addr:full":"602 N Hutchinson St White Hall AR 71602",
+    "addr:housenumber":"602",
+    "addr:postcode":"71602",
+    "addr:street":"N Hutchinson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.061166,34.235031,-92.061166,34.235031",
     "geom:latitude":34.235031,
     "geom:longitude":-92.061166,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"602 N Hutchinson St",
     "sg:city":"White Hall",
     "sg:classifiers":[
@@ -41,12 +47,13 @@
         85688549,
         102083243
     ],
+    "wof:brand_id":1125150673,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3UOBRDFUxqVzaKT5zEAp3z_34.235031_-92.061166@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"c03c201fa249583493cf7579d0499941",
+    "wof:geomhash":"8ab663f248f09f1c6d03546d214f5065",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":102394691,
-    "wof:lastmodified":1466324619,
+    "wof:lastmodified":1510696927,
     "wof:name":"International Paper Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

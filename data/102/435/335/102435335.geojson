@@ -2,14 +2,20 @@
   "id": 102435335,
   "type": "Feature",
   "properties": {
+    "addr:full":"211 S Leslie St Stuttgart AR 72160",
+    "addr:housenumber":"211",
+    "addr:postcode":"72160",
+    "addr:street":"S Leslie St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.548736,34.501027,-91.548736,34.501027",
     "geom:latitude":34.501027,
     "geom:longitude":-91.548736,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"211 S Leslie St",
     "sg:city":"Stuttgart",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102082495,
         85838089
     ],
+    "wof:brand_id":1125150769,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2bXlEQpTws00ZlmDM5Z9Ra_34.501027_-91.548736@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"4f90a485657720d868751e55ded4c057",
+    "wof:geomhash":"fe776677f5fd1e200bd338be40cf7537",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":102435335,
-    "wof:lastmodified":1466325598,
+    "wof:lastmodified":1510697653,
     "wof:name":"Child Support Enforcement",
     "wof:parent_id":85838089,
     "wof:placetype":"venue",

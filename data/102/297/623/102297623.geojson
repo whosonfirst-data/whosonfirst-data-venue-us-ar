@@ -2,14 +2,20 @@
   "id": "102297623",
   "type": "Feature",
   "properties": {
+    "addr:full":"501 S Phoenix Ave Russellville AR 72801",
+    "addr:housenumber":"501",
+    "addr:postcode":"72801",
+    "addr:street":"S Phoenix Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.148738,35.274264,-93.148738,35.274264",
     "geom:latitude":35.274264,
     "geom:longitude":-93.148738,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"501 S Phoenix Ave",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102082511,
         85837141
     ],
+    "wof:brand_id":1125151925,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0XTl0SMMsSO75cP8Rra6cf_35.274264_-93.148738@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"8fdad0515f208e1ae3b742e8de80ff41",
+    "wof:geomhash":"45dee50cfc284c94c41f9c82bfe76101",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":"102297623",
-    "wof:lastmodified":1466323024,
+    "wof:lastmodified":1510694644,
     "wof:name":"All Saints Episcopal Church",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",

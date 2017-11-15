@@ -2,14 +2,20 @@
   "id": 102387871,
   "type": "Feature",
   "properties": {
+    "addr:full":"11324 Arcade Dr Little Rock AR 72212",
+    "addr:housenumber":"11324",
+    "addr:postcode":"72212",
+    "addr:street":"Arcade Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.399842,34.770049,-92.399842,34.770049",
     "geom:latitude":34.770049,
     "geom:longitude":-92.399842,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"11324 Arcade Dr",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -36,12 +42,13 @@
         102082497,
         85843659
     ],
+    "wof:brand_id":1125154225,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1AsiSGWyFF7ODRAcA0oKqV_34.770049_-92.399842@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"3e25f718074c22af4339ce4e332d5c0d",
+    "wof:geomhash":"a9c17d72d6dbd7d154e7b5e7f5aeafdb",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":102387871,
-    "wof:lastmodified":1466323711,
+    "wof:lastmodified":1510693988,
     "wof:name":"Juvenile Diabetes Foundation",
     "wof:parent_id":85843659,
     "wof:placetype":"venue",

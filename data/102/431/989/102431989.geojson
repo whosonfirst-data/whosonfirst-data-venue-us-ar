@@ -2,14 +2,20 @@
   "id": 102431989,
   "type": "Feature",
   "properties": {
+    "addr:full":"113 E Parkway Dr Russellville AR 72801",
+    "addr:housenumber":"113",
+    "addr:postcode":"72801",
+    "addr:street":"E Parkway Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.133386,35.281326,-93.133386,35.281326",
     "geom:latitude":35.281326,
     "geom:longitude":-93.133386,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"113 E Parkway Dr",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102082511,
         85837141
     ],
+    "wof:brand_id":1125150221,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ZjNZfJGmFLsHu76Gyf4kc_35.281326_-93.133386@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"ba40b0e0e06b9cea0862bc85ddab6508",
+    "wof:geomhash":"bb4fe7f91902aff036f31d2c523aded7",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":102431989,
-    "wof:lastmodified":1466325631,
+    "wof:lastmodified":1510699322,
     "wof:name":"Natural Nails",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",

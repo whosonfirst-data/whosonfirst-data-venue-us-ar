@@ -2,14 +2,20 @@
   "id": 102314135,
   "type": "Feature",
   "properties": {
+    "addr:full":"4515 S 16th St Fort Smith AR 72901",
+    "addr:housenumber":"4515",
+    "addr:postcode":"72901",
+    "addr:street":"S 16Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.417634,35.344179,-94.417634,35.344179",
     "geom:latitude":35.344179,
     "geom:longitude":-94.417634,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4515 S 16th St",
     "sg:city":"Fort Smith",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102082025,
         85834235
     ],
+    "wof:brand_id":1125158223,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Sdzg3161DwdWKyvIKAmWx_35.344179_-94.417634@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"badc1a8e1017986b63da55afe00559bd",
+    "wof:geomhash":"33e7880059bcda75156aa02bb4f07057",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":102314135,
-    "wof:lastmodified":1466323275,
+    "wof:lastmodified":1510613202,
     "wof:name":"Wesco Distribution Inc",
     "wof:parent_id":85834235,
     "wof:placetype":"venue",

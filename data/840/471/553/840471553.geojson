@@ -2,14 +2,20 @@
   "id": 840471553,
   "type": "Feature",
   "properties": {
+    "addr:full":"1210 S Church St Jonesboro AR 72401",
+    "addr:housenumber":"1210",
+    "addr:postcode":"72401",
+    "addr:street":"S Church St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.704233,35.831697,-90.704233,35.831697",
     "geom:latitude":35.831697,
     "geom:longitude":-90.704233,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1210 S Church St",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102082033,
         85836541
     ],
+    "wof:brand_id":1125154085,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Htn1h6YMxsqO0nw5GuU4J_35.831946_-90.704164@1293134755"
     },
     "wof:country":"US",
     "wof:created":1463620699,
-    "wof:geomhash":"d89dfc76535bc8ce86156159423272ac",
+    "wof:geomhash":"b5b29173f390aae6d342086b3921177c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":840471553,
-    "wof:lastmodified":1466321051,
+    "wof:lastmodified":1510613290,
     "wof:name":"Senior Citizens Center",
     "wof:parent_id":85836541,
     "wof:placetype":"venue",

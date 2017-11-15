@@ -2,14 +2,20 @@
   "id": "102212259",
   "type": "Feature",
   "properties": {
+    "addr:full":"5227 Hilldale Rd Alexander AR 72002",
+    "addr:housenumber":"5227",
+    "addr:postcode":"72002",
+    "addr:street":"Hilldale Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.509193,34.65734,-92.509193,34.65734",
     "geom:latitude":34.65734,
     "geom:longitude":-92.509193,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5227 Hilldale Rd",
     "sg:city":"Alexander",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         85688549,
         102083257
     ],
+    "wof:brand_id":1125151045,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6GA0W57pOR65p8pOraXGQH_34.657340_-92.509193@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"58d0e3591bcece520dfc613409462876",
+    "wof:geomhash":"ffbedba2d58ac49d969a98e8a6152b4e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":"102212259",
-    "wof:lastmodified":1466320937,
+    "wof:lastmodified":1510693774,
     "wof:name":"PSI",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

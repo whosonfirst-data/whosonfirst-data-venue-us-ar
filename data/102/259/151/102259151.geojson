@@ -2,14 +2,20 @@
   "id": "102259151",
   "type": "Feature",
   "properties": {
+    "addr:full":"500 Kittle Rd Forrest City AR 72335",
+    "addr:housenumber":"500",
+    "addr:postcode":"72335",
+    "addr:street":"Kittle Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.771433,35.022263,-90.771433,35.022263",
     "geom:latitude":35.022263,
     "geom:longitude":-90.771433,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"500 Kittle Rd",
     "sg:city":"Forrest City",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         85688549,
         102082037
     ],
+    "wof:brand_id":1125154277,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3EYy07kCDelnQNgnyRfbhl_35.022263_-90.771433@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"ade25f535c5eb944ec18c07c75fe3bfc",
+    "wof:geomhash":"861ade16f3f5787b5c6a0bf7a09f0b82",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":"102259151",
-    "wof:lastmodified":1466322052,
+    "wof:lastmodified":1510695875,
     "wof:name":"Area Agency On Aging",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

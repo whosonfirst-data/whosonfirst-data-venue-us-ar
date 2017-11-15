@@ -2,14 +2,20 @@
   "id": "102287437",
   "type": "Feature",
   "properties": {
+    "addr:full":"1428 Merrill Dr Little Rock AR 72211",
+    "addr:housenumber":"1428",
+    "addr:postcode":"72211",
+    "addr:street":"Merrill Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.396315,34.767732,-92.396315,34.767732",
     "geom:latitude":34.767732,
     "geom:longitude":-92.396315,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1428 Merrill Dr",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -38,12 +44,13 @@
         102082497,
         85843659
     ],
+    "wof:brand_id":1125155179,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2UnXIC0MYUFhb14yshxJMm_34.767732_-92.396315@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"1a1be668f8556c24d3f0c0dbb258d32a",
+    "wof:geomhash":"a0c5c6565988b402abaccce76d6ef165",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":"102287437",
-    "wof:lastmodified":1466322774,
+    "wof:lastmodified":1510699385,
     "wof:name":"Powerhouse Gym",
     "wof:parent_id":85843659,
     "wof:placetype":"venue",

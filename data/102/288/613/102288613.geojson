@@ -2,14 +2,20 @@
   "id": "102288613",
   "type": "Feature",
   "properties": {
+    "addr:full":"303 S Cherry St Hamburg AR 71646",
+    "addr:housenumber":"303",
+    "addr:postcode":"71646",
+    "addr:street":"S Cherry St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.794844,33.224156,-91.794844,33.224156",
     "geom:latitude":33.224156,
     "geom:longitude":-91.794844,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"303 S Cherry St",
     "sg:city":"Hamburg",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         85688549,
         102083885
     ],
+    "wof:brand_id":1125156157,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_52hNNfhmQI2j1eVTzcQPr9_33.224156_-91.794844@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"a94bbcc1a63cbfc456c086ae527c7fde",
+    "wof:geomhash":"a18c3bc843ee07c9eaba29c6b905bb24",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":"102288613",
-    "wof:lastmodified":1466322834,
+    "wof:lastmodified":1510696658,
     "wof:name":"United Methodist Parsonage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

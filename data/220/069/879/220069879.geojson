@@ -2,14 +2,20 @@
   "id": 220069879,
   "type": "Feature",
   "properties": {
+    "addr:full":"331 Weir Rd Russellville AR 72802",
+    "addr:housenumber":"331",
+    "addr:postcode":"72802",
+    "addr:street":"Weir Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.106842,35.282089,-93.106842,35.282089",
     "geom:latitude":35.282089,
     "geom:longitude":-93.106842,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"331 Weir Rd",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -40,12 +46,13 @@
         102082511,
         85837141
     ],
+    "wof:brand_id":1125152681,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_06mcOO6gWSSM5bP7JuGX60_35.282089_-93.106842@1303262958"
     },
     "wof:country":"US",
-    "wof:geomhash":"6e383b2b21dc218359f8694869693c8e",
+    "wof:geomhash":"24082895413ffa4bf716fb5b2b8f7f6d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":220069879,
-    "wof:lastmodified":1466321327,
+    "wof:lastmodified":1510697345,
     "wof:name":"Taco Bueno",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",

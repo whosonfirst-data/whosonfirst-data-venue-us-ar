@@ -2,14 +2,20 @@
   "id": 102412097,
   "type": "Feature",
   "properties": {
+    "addr:full":"10101 Mabelvale Plaza Dr Little Rock AR 72209",
+    "addr:housenumber":"10101",
+    "addr:postcode":"72209",
+    "addr:street":"Mabelvale Plaza Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.37846,34.677584,-92.37846,34.677584",
     "geom:latitude":34.677584,
     "geom:longitude":-92.37846,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10101 Mabelvale Plaza Dr",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102082497,
         85833869
     ],
+    "wof:brand_id":1125151753,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6yOTTbA9t7n1wMGXLp4BUV_34.677584_-92.378460@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"9ad2242d14fe610da3718c64f69e3688",
+    "wof:geomhash":"095b0617ed5e03349d18ab89814719b6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":102412097,
-    "wof:lastmodified":1466325090,
+    "wof:lastmodified":1510697321,
     "wof:name":"Aaron's Rental Purchase",
     "wof:parent_id":85833869,
     "wof:placetype":"venue",

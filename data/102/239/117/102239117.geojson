@@ -2,14 +2,20 @@
   "id": "102239117",
   "type": "Feature",
   "properties": {
+    "addr:full":"8800 US Hwy 271 Fort Smith AR 72908",
+    "addr:housenumber":"8800",
+    "addr:postcode":"72908",
+    "addr:street":"Us Hwy 271",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.423132,35.300559,-94.423132,35.300559",
     "geom:latitude":35.300559,
     "geom:longitude":-94.423132,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8800 US Hwy 271",
     "sg:city":"Fort Smith",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         85809847,
         102082025
     ],
+    "wof:brand_id":1125151867,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7YoxgHa5WdHJ9x55CJA5Sp_35.300559_-94.423132@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"acf33c757288a93af891fcb7ee328ef2",
+    "wof:geomhash":"076febcb6d7b7b0825e1182452220cc2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":"102239117",
-    "wof:lastmodified":1466321560,
+    "wof:lastmodified":1510699637,
     "wof:name":"Valero Energy Corporation",
     "wof:parent_id":85809847,
     "wof:placetype":"venue",

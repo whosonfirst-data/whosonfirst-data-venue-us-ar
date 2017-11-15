@@ -2,14 +2,20 @@
   "id": 102415985,
   "type": "Feature",
   "properties": {
+    "addr:full":"519 W 7th St Little Rock AR 72201",
+    "addr:housenumber":"519",
+    "addr:postcode":"72201",
+    "addr:street":"W 7Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.27673,34.742809,-92.27673,34.742809",
     "geom:latitude":34.742809,
     "geom:longitude":-92.27673,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"519 W 7th St",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102082497,
         85878749
     ],
+    "wof:brand_id":1125153357,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7iRflss9SrqT9pJoFM0F7g_34.742809_-92.276730@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"6dd902c5cf7943843f278e1a30c7a76f",
+    "wof:geomhash":"33925adae7575d4846bed4674cddbf83",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":102415985,
-    "wof:lastmodified":1466325422,
+    "wof:lastmodified":1510695783,
     "wof:name":"Black & Decker",
     "wof:parent_id":85878749,
     "wof:placetype":"venue",

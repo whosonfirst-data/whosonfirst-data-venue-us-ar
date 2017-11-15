@@ -2,14 +2,20 @@
   "id": "102224237",
   "type": "Feature",
   "properties": {
+    "addr:full":"3330 Fair Park Blvd Little Rock AR 72204",
+    "addr:housenumber":"3330",
+    "addr:postcode":"72204",
+    "addr:street":"Fair Park Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.333906,34.719715,-92.333906,34.719715",
     "geom:latitude":34.719715,
     "geom:longitude":-92.333906,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3330 Fair Park Blvd",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102082497,
         85821445
     ],
+    "wof:brand_id":1125157297,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6K69fjW60qnRETI6NnKHef_34.719715_-92.333906@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"5bdd622e0e893cf6239e7dd7088c78f0",
+    "wof:geomhash":"c3457b43c0cc8b18f153fddb0d3b35a7",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":"102224237",
-    "wof:lastmodified":1466321224,
+    "wof:lastmodified":1510694603,
     "wof:name":"Victory Outreach",
     "wof:parent_id":85821445,
     "wof:placetype":"venue",

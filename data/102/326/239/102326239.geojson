@@ -2,14 +2,20 @@
   "id": 102326239,
   "type": "Feature",
   "properties": {
+    "addr:full":"8201 Cantrell Rd Little Rock AR 72227",
+    "addr:housenumber":"8201",
+    "addr:postcode":"72227",
+    "addr:street":"Cantrell Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.368217,34.777138,-92.368217,34.777138",
     "geom:latitude":34.777138,
     "geom:longitude":-92.368217,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8201 Cantrell Rd",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102082497,
         85878753
     ],
+    "wof:brand_id":1125151025,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_78hrUWXZs0LQUb4F6a6HPp_34.777138_-92.368217@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"e93ad9087218d2452206972fb90bfe66",
+    "wof:geomhash":"6017d863429f63e95d1a9479c7100101",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":102326239,
-    "wof:lastmodified":1466323559,
+    "wof:lastmodified":1510699651,
     "wof:name":"ADP",
     "wof:parent_id":85878753,
     "wof:placetype":"venue",

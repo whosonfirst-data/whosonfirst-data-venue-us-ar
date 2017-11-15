@@ -2,14 +2,20 @@
   "id": 102396415,
   "type": "Feature",
   "properties": {
+    "addr:full":"902 Atkinson St N Little Rock AR 72117",
+    "addr:housenumber":"902",
+    "addr:postcode":"72117",
+    "addr:street":"Atkinson St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.211163,34.76405,-92.211163,34.76405",
     "geom:latitude":34.76405,
     "geom:longitude":-92.211163,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"902 Atkinson St",
     "sg:city":"N Little Rock",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102082497,
         85845849
     ],
+    "wof:brand_id":1125151277,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7OwhDlJh2zKkE1BIRFjzJq_34.764050_-92.211163@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"181a885a97c9a97a6799cecd0fff2410",
+    "wof:geomhash":"85ebaa6fe654df3d68783b90a2d94df1",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":102396415,
-    "wof:lastmodified":1466324728,
+    "wof:lastmodified":1510699624,
     "wof:name":"Mount Olive Baptist Church",
     "wof:parent_id":85845849,
     "wof:placetype":"venue",

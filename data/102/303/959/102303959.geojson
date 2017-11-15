@@ -2,14 +2,20 @@
   "id": "102303959",
   "type": "Feature",
   "properties": {
+    "addr:full":"1320 E Main St Russellville AR 72801",
+    "addr:housenumber":"1320",
+    "addr:postcode":"72801",
+    "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.117446,35.278333,-93.117446,35.278333",
     "geom:latitude":35.278333,
     "geom:longitude":-93.117446,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1320 E Main St",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102082511,
         85837141
     ],
+    "wof:brand_id":1125152105,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2bfIfCdSgJTiBQMFrTWrHx_35.278333_-93.117446@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"13c4cd1a70683e0deee8dc8c7ebe5d47",
+    "wof:geomhash":"ec150f55fccd1e12bbef6496409a4c81",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":"102303959",
-    "wof:lastmodified":1466323211,
+    "wof:lastmodified":1510694959,
     "wof:name":"Relax Inn",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 840476867,
   "type": "Feature",
   "properties": {
+    "addr:full":"2888 US Hwy 70 Lonoke AR 72086",
+    "addr:housenumber":"2888",
+    "addr:postcode":"72086",
+    "addr:street":"Us Hwy 70",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.969029,34.763073,-91.969029,34.763073",
     "geom:latitude":34.763073,
     "geom:longitude":-91.969029,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2888 US Hwy 70",
     "sg:city":"Lonoke",
     "sg:classifiers":[],
@@ -29,13 +35,14 @@
         102082027,
         85811577
     ],
+    "wof:brand_id":420575037,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6kDs3Q4Cln2qGIqswcPM3H_34.763073_-91.969029@1293731398"
     },
     "wof:country":"US",
     "wof:created":1463620809,
-    "wof:geomhash":"cef69774cadba1a7ac4b8b5d37b40e67",
+    "wof:geomhash":"f454d993312d29514ab6aaca61b6d417",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":840476867,
-    "wof:lastmodified":1466321612,
+    "wof:lastmodified":1510602956,
     "wof:name":"Ferrellgas",
     "wof:parent_id":85811577,
     "wof:placetype":"venue",

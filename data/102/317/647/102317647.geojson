@@ -2,14 +2,20 @@
   "id": 102317647,
   "type": "Feature",
   "properties": {
+    "addr:full":"716 Adams St Helena AR 72342",
+    "addr:housenumber":"716",
+    "addr:postcode":"72342",
+    "addr:street":"Adams St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.59145,34.536119,-90.59145,34.536119",
     "geom:latitude":34.536119,
     "geom:longitude":-90.59145,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"716 Adams St",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102082001,
         85838649
     ],
+    "wof:brand_id":1125156399,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5dpQof83JZeXECZPDzjlac_34.536119_-90.591450@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"5d494415a98fad064ff4dd9f5c095ca8",
+    "wof:geomhash":"5a1b988837a921f95d46698c416a97ab",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":102317647,
-    "wof:lastmodified":1466323444,
+    "wof:lastmodified":1510699928,
     "wof:name":"Galilee Baptist Church",
     "wof:parent_id":85838649,
     "wof:placetype":"venue",

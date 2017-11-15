@@ -2,14 +2,20 @@
   "id": 102400511,
   "type": "Feature",
   "properties": {
+    "addr:full":"210 Watson Ave Osceola AR 72370",
+    "addr:housenumber":"210",
+    "addr:postcode":"72370",
+    "addr:street":"Watson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.966267,35.708448,-89.966267,35.708448",
     "geom:latitude":35.708448,
     "geom:longitude":-89.966267,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"210 Watson Ave",
     "sg:city":"Osceola",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         85688549,
         102083237
     ],
+    "wof:brand_id":1125150907,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3KDPsICYRfrIL9etg7g4yb_35.708448_-89.966267@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"388d76c03b2da83f631740c28b592f58",
+    "wof:geomhash":"5bfbc823351dbb1015d36ecb3cbf1e89",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":102400511,
-    "wof:lastmodified":1466324743,
+    "wof:lastmodified":1510696730,
     "wof:name":"Tabernacle Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

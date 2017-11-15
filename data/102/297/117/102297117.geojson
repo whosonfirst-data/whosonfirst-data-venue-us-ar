@@ -2,14 +2,20 @@
   "id": "102297117",
   "type": "Feature",
   "properties": {
+    "addr:full":"7516 N St Little Rock AR 72207",
+    "addr:housenumber":"7516",
+    "addr:postcode":"72207",
+    "addr:street":"N St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.357103,34.765535,-92.357103,34.765535",
     "geom:latitude":34.765535,
     "geom:longitude":-92.357103,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7516 N St",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102082497,
         85878753
     ],
+    "wof:brand_id":1125153707,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Vacyc0Ctme1rbp9zXpGF0_34.765535_-92.357103@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"fe1165a278fc0823225ea4c0575ca5ef",
+    "wof:geomhash":"1133e068f94b9081260cfeeb71395c92",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":"102297117",
-    "wof:lastmodified":1466322920,
+    "wof:lastmodified":1510693862,
     "wof:name":"Pampered Chef",
     "wof:parent_id":85878753,
     "wof:placetype":"venue",

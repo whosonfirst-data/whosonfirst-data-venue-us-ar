@@ -2,14 +2,20 @@
   "id": "102205849",
   "type": "Feature",
   "properties": {
+    "addr:full":"2546 Providence Rd Pine Bluff AR 71603",
+    "addr:housenumber":"2546",
+    "addr:postcode":"71603",
+    "addr:street":"Providence Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.206025,34.210204,-92.206025,34.210204",
     "geom:latitude":34.210204,
     "geom:longitude":-92.206025,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2546 Providence Rd",
     "sg:city":"Pine Bluff",
     "sg:classifiers":[
@@ -32,12 +38,13 @@
         85688549,
         102083243
     ],
+    "wof:brand_id":1125151193,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_32xeBh0t074CBMmM4WkjXI_34.210204_-92.206025@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"581ab3abaf64552554974cfda2a08fc7",
+    "wof:geomhash":"f14f19c4bd19d5ae4044b923300a08c5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":"102205849",
-    "wof:lastmodified":1466320876,
+    "wof:lastmodified":1510697360,
     "wof:name":"Providence Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": "102214909",
   "type": "Feature",
   "properties": {
+    "addr:full":"7434 Rogers Ave Fort Smith AR 72903",
+    "addr:housenumber":"7434",
+    "addr:postcode":"72903",
+    "addr:street":"Rogers Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.352024,35.353037,-94.352024,35.353037",
     "geom:latitude":35.353037,
     "geom:longitude":-94.352024,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7434 Rogers Ave",
     "sg:city":"Fort Smith",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102082025,
         85832863
     ],
+    "wof:brand_id":1125150357,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7WkOvzpqZzCgpaURhjEwBb_35.353037_-94.352024@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"90bacecbe5bf06409e1c697062b49200",
+    "wof:geomhash":"f869516935534b19f4d40d2e11070b8f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":"102214909",
-    "wof:lastmodified":1466321113,
+    "wof:lastmodified":1510697020,
     "wof:name":"Kmart Pharmacies Inc",
     "wof:parent_id":85832863,
     "wof:placetype":"venue",

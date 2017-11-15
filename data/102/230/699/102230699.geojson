@@ -2,14 +2,20 @@
   "id": "102230699",
   "type": "Feature",
   "properties": {
+    "addr:full":"3101 Dugan Dr Little Rock AR 72206",
+    "addr:housenumber":"3101",
+    "addr:postcode":"72206",
+    "addr:street":"Dugan Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.247977,34.719132,-92.247977,34.719132",
     "geom:latitude":34.719132,
     "geom:longitude":-92.247977,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3101 Dugan Dr",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102082497,
         85806025
     ],
+    "wof:brand_id":1125154207,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0mOueoWZHhkAyXQ24GcuAG_34.719132_-92.247977@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"343aef4315ef06263f234e64506f92c3",
+    "wof:geomhash":"41ccacb7446dbe8365c817de9c969476",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":"102230699",
-    "wof:lastmodified":1466321473,
+    "wof:lastmodified":1510694736,
     "wof:name":"Georgia-Pacific",
     "wof:parent_id":85806025,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 219869303,
   "type": "Feature",
   "properties": {
+    "addr:full":"1234 N Steamboat Dr Fayetteville AR 72704",
+    "addr:housenumber":"1234",
+    "addr:postcode":"72704",
+    "addr:street":"N Steamboat Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.203772,36.080046,-94.203772,36.080046",
     "geom:latitude":36.080046,
     "geom:longitude":-94.203772,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1234 N Steamboat Dr",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         85919609,
         102082007
     ],
+    "wof:brand_id":1125150099,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3a75NP2p2EJ8TZTL1yrGiO_36.080046_-94.203772@1303262955"
     },
     "wof:country":"US",
-    "wof:geomhash":"6c792876b26683714839e971d2c54992",
+    "wof:geomhash":"c5eef18a6c3e58849fc90bb5f4b2f6de",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":219869303,
-    "wof:lastmodified":1466325051,
+    "wof:lastmodified":1510695714,
     "wof:name":"Country Inn & Suites",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

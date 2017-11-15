@@ -2,14 +2,20 @@
   "id": 102336697,
   "type": "Feature",
   "properties": {
+    "addr:full":"2607 Stadium Blvd Jonesboro AR 72401",
+    "addr:housenumber":"2607",
+    "addr:postcode":"72401",
+    "addr:street":"Stadium Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.66916,35.813878,-90.66916,35.813878",
     "geom:latitude":35.813878,
     "geom:longitude":-90.66916,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2607 Stadium Blvd",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102082033,
         85836541
     ],
+    "wof:brand_id":1125156593,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0hi5ztI62nJ4b5KlPHxqrG_35.813878_-90.669160@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"de4ddc6f39ab2c42f982ce891f7fe41e",
+    "wof:geomhash":"af24fe026ccf3d3a017b05d37cf8cfa5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":102336697,
-    "wof:lastmodified":1466323858,
+    "wof:lastmodified":1510694626,
     "wof:name":"Jr Food Market",
     "wof:parent_id":85836541,
     "wof:placetype":"venue",

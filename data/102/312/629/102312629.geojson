@@ -2,14 +2,20 @@
   "id": 102312629,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 Towson Ave Fort Smith AR 72901",
+    "addr:housenumber":"100",
+    "addr:postcode":"72901",
+    "addr:street":"Towson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.421049,35.382186,-94.421049,35.382186",
     "geom:latitude":35.382186,
     "geom:longitude":-94.421049,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"100 Towson Ave",
     "sg:city":"Fort Smith",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         85688549,
         102082025
     ],
+    "wof:brand_id":1125158159,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0k34ptb5Jjm8XSFuev6K1t_35.382186_-94.421049@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"82fd2e97daa7b61f17109da4262a0752",
+    "wof:geomhash":"7808c536d7ca036a60f063551dd45366",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":102312629,
-    "wof:lastmodified":1466323239,
+    "wof:lastmodified":1510697480,
     "wof:name":"Performance Automotive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": "102200707",
   "type": "Feature",
   "properties": {
+    "addr:full":"215 American Rd El Dorado AR 71730",
+    "addr:housenumber":"215",
+    "addr:postcode":"71730",
+    "addr:street":"American Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.630855,33.211217,-92.630855,33.211217",
     "geom:latitude":33.211217,
     "geom:longitude":-92.630855,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"215 American Rd",
     "sg:city":"El Dorado",
     "sg:classifiers":[
@@ -32,12 +38,13 @@
         85688549,
         102082501
     ],
+    "wof:brand_id":1125153599,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_51ZaYMz417CRNTQpY84hn1_33.211217_-92.630855@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"09db54a8d26e2ca1e8a2fdde0dc52876",
+    "wof:geomhash":"bf59b4667f53c600d50436aafe485e57",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":"102200707",
-    "wof:lastmodified":1466320634,
+    "wof:lastmodified":1510695772,
     "wof:name":"First Apostolic Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 102354265,
   "type": "Feature",
   "properties": {
+    "addr:full":"1515 Harrison St Batesville AR 72501",
+    "addr:housenumber":"1515",
+    "addr:postcode":"72501",
+    "addr:street":"Harrison St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.638098,35.769702,-91.638098,35.769702",
     "geom:latitude":35.769702,
     "geom:longitude":-91.638098,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1515 Harrison St",
     "sg:city":"Batesville",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102083875,
         85808231
     ],
+    "wof:brand_id":1125151597,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ATGZH5CCRFwJ5wJnW3LwU_35.769702_-91.638098@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"e93cbb1fd1dab2be7e3454b8b045e89d",
+    "wof:geomhash":"c14b9fad1d87d94119f12a63d937c35e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":102354265,
-    "wof:lastmodified":1466324099,
+    "wof:lastmodified":1510693870,
     "wof:name":"Healthsouth Sports Medicine",
     "wof:parent_id":85808231,
     "wof:placetype":"venue",

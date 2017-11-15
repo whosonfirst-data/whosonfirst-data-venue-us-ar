@@ -2,14 +2,20 @@
   "id": 102396157,
   "type": "Feature",
   "properties": {
+    "addr:full":"5100 S 66th St Fort Smith AR 72903",
+    "addr:housenumber":"5100",
+    "addr:postcode":"72903",
+    "addr:street":"S 66Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.361755,35.333803,-94.361755,35.333803",
     "geom:latitude":35.333803,
     "geom:longitude":-94.361755,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5100 S 66th St",
     "sg:city":"Fort Smith",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         85688549,
         102082025
     ],
+    "wof:brand_id":1125150599,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0lF9GH3kGoLAlsS9r990oN_35.333803_-94.361755@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"3961176c360207dbdc3899ab252a42d4",
+    "wof:geomhash":"1d1fe35f7545a52633ba20c4e253b10e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":102396157,
-    "wof:lastmodified":1466324847,
+    "wof:lastmodified":1510613426,
     "wof:name":"Airport Traffic Control Tower",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

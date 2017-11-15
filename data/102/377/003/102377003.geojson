@@ -2,14 +2,20 @@
   "id": 102377003,
   "type": "Feature",
   "properties": {
+    "addr:full":"301 S Bowman Rd Little Rock AR 72211",
+    "addr:housenumber":"301",
+    "addr:postcode":"72211",
+    "addr:street":"S Bowman Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.406915,34.753171,-92.406915,34.753171",
     "geom:latitude":34.753171,
     "geom:longitude":-92.406915,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"301 S Bowman Rd",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102082497,
         85833895
     ],
+    "wof:brand_id":1125151987,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1pLi5xe8bgi4SutCoXgbUk_34.753171_-92.406915@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"4004784e566ec508d2c1c448bf72e8c7",
+    "wof:geomhash":"2d76a9aa9a4c28d4ce06731e942eae36",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":102377003,
-    "wof:lastmodified":1466321476,
+    "wof:lastmodified":1510700133,
     "wof:name":"Foot Solutions",
     "wof:parent_id":85833895,
     "wof:placetype":"venue",

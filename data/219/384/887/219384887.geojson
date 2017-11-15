@@ -2,14 +2,20 @@
   "id": 219384887,
   "type": "Feature",
   "properties": {
+    "addr:full":"1150 Museum Rd Conway AR 72032",
+    "addr:housenumber":"1150",
+    "addr:postcode":"72032",
+    "addr:street":"Museum Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.41884,35.094247,-92.41884,35.094247",
     "geom:latitude":35.094247,
     "geom:longitude":-92.41884,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1150 Museum Rd",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -42,12 +48,13 @@
         85920425,
         102083241
     ],
+    "wof:brand_id":1125153633,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6FSjsyzDpAqXszCh8AyZbl_35.094247_-92.418840@1303262950"
     },
     "wof:country":"US",
-    "wof:geomhash":"5cf5e637710c6de14144355a42d02369",
+    "wof:geomhash":"f03c7688dcc6a6afd60408f8de0c9993",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":219384887,
-    "wof:lastmodified":1466322717,
+    "wof:lastmodified":1510695776,
     "wof:name":"National Guard Recruiter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 102344987,
   "type": "Feature",
   "properties": {
+    "addr:full":"120 E Pershing Blvd North Little Rock AR 72114",
+    "addr:housenumber":"120",
+    "addr:postcode":"72114",
+    "addr:street":"E Pershing Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.266334,34.779164,-92.266334,34.779164",
     "geom:latitude":34.779164,
     "geom:longitude":-92.266334,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"120 E Pershing Blvd",
     "sg:city":"North Little Rock",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102082497,
         85837877
     ],
+    "wof:brand_id":1125157817,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4P3cdzTLRsWdjUp84NFHau_34.779164_-92.266334@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"f4c4fd58b04f481b9cc0e283da2eb035",
+    "wof:geomhash":"6b1673348a685a78b889f2833b0c41bc",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":102344987,
-    "wof:lastmodified":1466324043,
+    "wof:lastmodified":1510694200,
     "wof:name":"Country Suites By Carlson",
     "wof:parent_id":85837877,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": "102203861",
   "type": "Feature",
   "properties": {
+    "addr:full":"2301 Bolton St Little Rock AR 72206",
+    "addr:housenumber":"2301",
+    "addr:postcode":"72206",
+    "addr:street":"Bolton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.245057,34.724395,-92.245057,34.724395",
     "geom:latitude":34.724395,
     "geom:longitude":-92.245057,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2301 Bolton St",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102082497,
         85806025
     ],
+    "wof:brand_id":1125151917,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2eoUG144WHAHvNHp4PNb2z_34.724395_-92.245057@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"4231155e73edb5e4492c247f680cd01f",
+    "wof:geomhash":"c5e46fa9ff97513945f91ab2b7de3721",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":"102203861",
-    "wof:lastmodified":1466320853,
+    "wof:lastmodified":1510699394,
     "wof:name":"USFreightways",
     "wof:parent_id":85806025,
     "wof:placetype":"venue",

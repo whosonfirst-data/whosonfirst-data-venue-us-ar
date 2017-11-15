@@ -2,14 +2,20 @@
   "id": "102293255",
   "type": "Feature",
   "properties": {
+    "addr:full":"2708 E Parkway Dr Russellville AR 72802",
+    "addr:housenumber":"2708",
+    "addr:postcode":"72802",
+    "addr:street":"E Parkway Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.102223,35.28237,-93.102223,35.28237",
     "geom:latitude":35.28237,
     "geom:longitude":-93.102223,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2708 E Parkway Dr",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         85688549,
         102082511
     ],
+    "wof:brand_id":1125155067,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2rHMaYb1w4fsYDRCR5hhHU_35.282370_-93.102223@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"80f6c24cb4a6921ba5baafcd81c378ef",
+    "wof:geomhash":"421f8c37258b2ac2883ccc10c6b35d86",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":"102293255",
-    "wof:lastmodified":1466322860,
+    "wof:lastmodified":1510695203,
     "wof:name":"US Social Security Admin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

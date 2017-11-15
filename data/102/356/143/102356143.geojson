@@ -2,14 +2,20 @@
   "id": 102356143,
   "type": "Feature",
   "properties": {
+    "addr:full":"4710 John F Kennedy Blvd N Little Rock AR 72116",
+    "addr:housenumber":"4710",
+    "addr:postcode":"72116",
+    "addr:street":"John F Kennedy Blvd N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.256576,34.79544,-92.256576,34.79544",
     "geom:latitude":34.79544,
     "geom:longitude":-92.256576,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4710 John F Kennedy Blvd",
     "sg:city":"N Little Rock",
     "sg:classifiers":[
@@ -36,12 +42,13 @@
         102082497,
         85851793
     ],
+    "wof:brand_id":1125151711,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2pu6YGtvYUUAzTLuXSMLmM_34.795440_-92.256576@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"de9d02426ee33f84dce9e75096144199",
+    "wof:geomhash":"3141bb3f29287e8823e6fceecb3b5679",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":102356143,
-    "wof:lastmodified":1466324157,
+    "wof:lastmodified":1510696788,
     "wof:name":"Arthur Murray Dance Studio",
     "wof:parent_id":85851793,
     "wof:placetype":"venue",

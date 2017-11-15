@@ -2,14 +2,20 @@
   "id": 102420277,
   "type": "Feature",
   "properties": {
+    "addr:full":"201 NE 2nd St Bentonville AR 72712",
+    "addr:housenumber":"201",
+    "addr:postcode":"72712",
+    "addr:street":"Ne 2Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.206792,36.372912,-94.206792,36.372912",
     "geom:latitude":36.372912,
     "geom:longitude":-94.206792,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"201 NE 2nd St",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102083255,
         85895827
     ],
+    "wof:brand_id":1125150769,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5GYSbWiu2p7HakqCNszYmw_36.372912_-94.206792@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"1265a10c2116c6bf72410832df132ab0",
+    "wof:geomhash":"9417ed58a1852267b8e6f56eb8d38f45",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":102420277,
-    "wof:lastmodified":1466325225,
+    "wof:lastmodified":1510697653,
     "wof:name":"Child Support Enforcement",
     "wof:parent_id":85895827,
     "wof:placetype":"venue",

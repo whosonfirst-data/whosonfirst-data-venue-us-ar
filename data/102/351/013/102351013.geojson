@@ -2,14 +2,20 @@
   "id": 102351013,
   "type": "Feature",
   "properties": {
+    "addr:full":"825 N Hervey St Hope AR 71801",
+    "addr:housenumber":"825",
+    "addr:postcode":"71801",
+    "addr:street":"N Hervey St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.599315,33.674975,-93.599315,33.674975",
     "geom:latitude":33.674975,
     "geom:longitude":-93.599315,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"825 N Hervey St",
     "sg:city":"Hope",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102083213,
         85820749
     ],
+    "wof:brand_id":1125158465,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1NWRjGPJMrBQK8bMZMdLBR_33.674975_-93.599315@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"e66e8f4443e8123084ff410bbe3b7beb",
+    "wof:geomhash":"5595e0e8e1742224958645203778b104",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":102351013,
-    "wof:lastmodified":1466323958,
+    "wof:lastmodified":1510613245,
     "wof:name":"Brookshire's",
     "wof:parent_id":85820749,
     "wof:placetype":"venue",

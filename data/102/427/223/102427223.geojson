@@ -2,14 +2,20 @@
   "id": 102427223,
   "type": "Feature",
   "properties": {
+    "addr:full":"4901 Towson Ave Fort Smith AR 72901",
+    "addr:housenumber":"4901",
+    "addr:postcode":"72901",
+    "addr:street":"Towson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.422631,35.337589,-94.422631,35.337589",
     "geom:latitude":35.337589,
     "geom:longitude":-94.422631,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4901 Towson Ave",
     "sg:city":"Fort Smith",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102082025,
         85834235
     ],
+    "wof:brand_id":1125158611,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2zV9nORwkHw7wNa0LqV3ZP_35.337589_-94.422631@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"fd1c3bda2d8f996310dad94f292a0904",
+    "wof:geomhash":"ef0ea6bad70d05eb776a2bab7315464d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":102427223,
-    "wof:lastmodified":1466325457,
+    "wof:lastmodified":1510697762,
     "wof:name":"Putt Putt Golf & Games",
     "wof:parent_id":85834235,
     "wof:placetype":"venue",

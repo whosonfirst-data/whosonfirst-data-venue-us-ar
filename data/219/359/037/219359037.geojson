@@ -2,14 +2,20 @@
   "id": 219359037,
   "type": "Feature",
   "properties": {
+    "addr:full":"4200 Highway 5 N Bryant AR 72022",
+    "addr:housenumber":"4200",
+    "addr:postcode":"72022",
+    "addr:street":"Highway 5 N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.511047,34.618118,-92.511047,34.618118",
     "geom:latitude":34.618118,
     "geom:longitude":-92.511047,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4200 Highway 5 N",
     "sg:city":"Bryant",
     "sg:classifiers":[
@@ -54,12 +60,13 @@
         102083257,
         85817531
     ],
+    "wof:brand_id":1125151265,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0xDltOBvWDCjCGfoWasI78_34.618118_-92.511047@1303262949"
     },
     "wof:country":"US",
-    "wof:geomhash":"b7984c1980a61fd8b1c599b7d8fd892b",
+    "wof:geomhash":"0b17502e8a20f6f53434afde16cd02ec",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -72,7 +79,7 @@
         }
     ],
     "wof:id":219359037,
-    "wof:lastmodified":1466322380,
+    "wof:lastmodified":1510699353,
     "wof:name":"First Pentecostal Church",
     "wof:parent_id":85817531,
     "wof:placetype":"venue",

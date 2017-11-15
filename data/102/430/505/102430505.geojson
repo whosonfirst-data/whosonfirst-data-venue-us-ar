@@ -2,14 +2,20 @@
   "id": 102430505,
   "type": "Feature",
   "properties": {
+    "addr:full":"2104 S Walton Blvd Bentonville AR 72712",
+    "addr:housenumber":"2104",
+    "addr:postcode":"72712",
+    "addr:street":"S Walton Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.210772,36.348763,-94.210772,36.348763",
     "geom:latitude":36.348763,
     "geom:longitude":-94.210772,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2104 S Walton Blvd",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102083255,
         85895825
     ],
+    "wof:brand_id":1125151517,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3PH3gV8Qs4kt9TBH5cpFAv_36.348763_-94.210772@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"71dac200c082770292f2032abff2e2a4",
+    "wof:geomhash":"0c7cc685935634c52ea5192b2eab695a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":102430505,
-    "wof:lastmodified":1466325559,
+    "wof:lastmodified":1510694722,
     "wof:name":"Queen Nails",
     "wof:parent_id":85895825,
     "wof:placetype":"venue",

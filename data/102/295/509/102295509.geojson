@@ -2,14 +2,20 @@
   "id": "102295509",
   "type": "Feature",
   "properties": {
+    "addr:full":"516 E Emma Ave Springdale AR 72764",
+    "addr:housenumber":"516",
+    "addr:postcode":"72764",
+    "addr:street":"E Emma Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.125479,36.184976,-94.125479,36.184976",
     "geom:latitude":36.184976,
     "geom:longitude":-94.125479,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"516 E Emma Ave",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -32,12 +38,13 @@
         102082007,
         85885481
     ],
+    "wof:brand_id":1125156445,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1hO3XFyIf9yPuCpBsEoCbx_36.184976_-94.125479@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"c7e99ad21d331a96c9b610c9a1ee1261",
+    "wof:geomhash":"8bb29a056b48a09b37b8f208f54a76eb",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":"102295509",
-    "wof:lastmodified":1466322974,
+    "wof:lastmodified":1510694597,
     "wof:name":"Orscheln Farm & Home",
     "wof:parent_id":85885481,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 102314177,
   "type": "Feature",
   "properties": {
+    "addr:full":"1401 S Walton Blvd Bentonville AR 72712",
+    "addr:housenumber":"1401",
+    "addr:postcode":"72712",
+    "addr:street":"S Walton Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.213167,36.357037,-94.213167,36.357037",
     "geom:latitude":36.357037,
     "geom:longitude":-94.213167,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1401 S Walton Blvd",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102083255,
         85895807
     ],
+    "wof:brand_id":1125156387,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0l9yAwmiYuRi0VizbEYMLz_36.357037_-94.213167@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"f5304390511b02053c7424cf1d956317",
+    "wof:geomhash":"fdc20dc1da276fb91eac4ce614c3b0e9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":102314177,
-    "wof:lastmodified":1466323284,
+    "wof:lastmodified":1510698491,
     "wof:name":"Elite Cleaners",
     "wof:parent_id":85895807,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 102313119,
   "type": "Feature",
   "properties": {
+    "addr:full":"223 S Main St Stuttgart AR 72160",
+    "addr:housenumber":"223",
+    "addr:postcode":"72160",
+    "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.552468,34.500972,-91.552468,34.500972",
     "geom:latitude":34.500972,
     "geom:longitude":-91.552468,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"223 S Main St",
     "sg:city":"Stuttgart",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102082495,
         85838089
     ],
+    "wof:brand_id":1125150835,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1w2lXvirb684Jq8zGGggEJ_34.500972_-91.552468@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"459c0f21b082fac74c9a899984de192b",
+    "wof:geomhash":"56b4847765c8ab6a0eccb876d8773c75",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":102313119,
-    "wof:lastmodified":1466323246,
+    "wof:lastmodified":1510695415,
     "wof:name":"Lincare Inc",
     "wof:parent_id":85838089,
     "wof:placetype":"venue",

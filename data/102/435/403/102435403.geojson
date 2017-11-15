@@ -2,14 +2,20 @@
   "id": 102435403,
   "type": "Feature",
   "properties": {
+    "addr:full":"206 E Howard St Nashville AR 71852",
+    "addr:housenumber":"206",
+    "addr:postcode":"71852",
+    "addr:street":"E Howard St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.84544,33.943526,-93.84544,33.943526",
     "geom:latitude":33.943526,
     "geom:longitude":-93.84544,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"206 E Howard St",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         85688549,
         102082499
     ],
+    "wof:brand_id":1125154277,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0KKwTQEhSSPyXOzMTqkXIh_33.943526_-93.845440@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"8441767a6bfe093b63802171582d9445",
+    "wof:geomhash":"cd3a5047057617da5488aa2fb413dc33",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":102435403,
-    "wof:lastmodified":1466325604,
+    "wof:lastmodified":1510695876,
     "wof:name":"Area Agency On Aging",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

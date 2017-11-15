@@ -2,14 +2,20 @@
   "id": 219192595,
   "type": "Feature",
   "properties": {
+    "addr:full":"1020 Gibson Ave Camden AR 71701",
+    "addr:housenumber":"1020",
+    "addr:postcode":"71701",
+    "addr:street":"Gibson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.816916,33.575458,-92.816916,33.575458",
     "geom:latitude":33.575458,
     "geom:longitude":-92.816916,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1020 Gibson Ave",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -42,12 +48,13 @@
         102083253,
         85813169
     ],
+    "wof:brand_id":1125153633,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3MRwn6bfVNPHpplMUGtK4E_33.575458_-92.816916@1303262947"
     },
     "wof:country":"US",
-    "wof:geomhash":"ff3716984fb3f94993fa5bd1164f9e7d",
+    "wof:geomhash":"d2f2a9eed8d0a2157b4d207a93769c92",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":219192595,
-    "wof:lastmodified":1466320787,
+    "wof:lastmodified":1510695777,
     "wof:name":"National Guard Recruiter",
     "wof:parent_id":85813169,
     "wof:placetype":"venue",

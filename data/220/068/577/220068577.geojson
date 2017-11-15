@@ -2,14 +2,20 @@
   "id": 220068577,
   "type": "Feature",
   "properties": {
+    "addr:full":"3093 E Main St Russellville AR 72802",
+    "addr:housenumber":"3093",
+    "addr:postcode":"72802",
+    "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.093968,35.27781,-93.093968,35.27781",
     "geom:latitude":35.27781,
     "geom:longitude":-93.093968,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3093 E Main St",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -59,12 +65,13 @@
         102082511,
         85837141
     ],
+    "wof:brand_id":1125153275,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_08UfzwUujQlepNnGqY5fWW_35.277810_-93.093968@1303262958"
     },
     "wof:country":"US",
-    "wof:geomhash":"74f1ba3f8ab97db689ad8678605838ff",
+    "wof:geomhash":"edbc14f43f0516ee9003e1635d3f326e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -77,7 +84,7 @@
         }
     ],
     "wof:id":220068577,
-    "wof:lastmodified":1466321297,
+    "wof:lastmodified":1510698835,
     "wof:name":"Alltel Wireless",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",

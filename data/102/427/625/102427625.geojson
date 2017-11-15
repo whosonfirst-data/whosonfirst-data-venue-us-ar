@@ -2,14 +2,20 @@
   "id": 102427625,
   "type": "Feature",
   "properties": {
+    "addr:full":"210 N Houston Ave Russellville AR 72801",
+    "addr:housenumber":"210",
+    "addr:postcode":"72801",
+    "addr:street":"N Houston Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.139391,35.281427,-93.139391,35.281427",
     "geom:latitude":35.281427,
     "geom:longitude":-93.139391,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"210 N Houston Ave",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102082511,
         85837141
     ],
+    "wof:brand_id":1125150063,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_46dy0EwGrccBSmFQVjUDW9_35.281427_-93.139391@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"ef6b1acf0bed1441af530b5c3e807840",
+    "wof:geomhash":"94e6dff8c3cc9a7c55d993821cf4238d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":102427625,
-    "wof:lastmodified":1466325503,
+    "wof:lastmodified":1510695807,
     "wof:name":"Axa Advisors",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",

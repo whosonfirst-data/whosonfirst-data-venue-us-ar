@@ -2,14 +2,20 @@
   "id": 840465843,
   "type": "Feature",
   "properties": {
+    "addr:full":"160 Oliver Ln Cabot AR 72023",
+    "addr:housenumber":"160",
+    "addr:postcode":"72023",
+    "addr:street":"Oliver Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.001806,34.90939,-92.001806,34.90939",
     "geom:latitude":34.90939,
     "geom:longitude":-92.001806,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"160 Oliver Ln",
     "sg:city":"Cabot",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102082027,
         85811577
     ],
+    "wof:brand_id":1125153223,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0n5Fh3fQzWQISf5cdiXgrD_34.909499_-92.001263@1293134755"
     },
     "wof:country":"US",
     "wof:created":1463620555,
-    "wof:geomhash":"154322f3ed5d88b92887205fea8d452c",
+    "wof:geomhash":"8b5503946c5cd53a61c9b4be2bcb7ea6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840465843,
-    "wof:lastmodified":1466320518,
+    "wof:lastmodified":1510699566,
     "wof:name":"Home Interiors & Gifts",
     "wof:parent_id":85811577,
     "wof:placetype":"venue",

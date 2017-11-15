@@ -2,14 +2,20 @@
   "id": 840465655,
   "type": "Feature",
   "properties": {
+    "addr:full":"367 S Main Ave Mansfield AR 72944",
+    "addr:housenumber":"367",
+    "addr:postcode":"72944",
+    "addr:street":"S Main Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.253997,35.056822,-94.253997,35.056822",
     "geom:latitude":35.056822,
     "geom:longitude":-94.253997,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"367 S Main Ave",
     "sg:city":"Mansfield",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102082025,
         85808359
     ],
+    "wof:brand_id":1125150029,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0iHZaeOA5UhOjKxPr8fOFO_35.057017_-94.254108@1293134755"
     },
     "wof:country":"US",
     "wof:created":1463620545,
-    "wof:geomhash":"bb6fc87670e9da0e68361631a94ef16e",
+    "wof:geomhash":"50e3ef9f8654aca52598e3b9a1e6f124",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840465655,
-    "wof:lastmodified":1466320492,
+    "wof:lastmodified":1510695391,
     "wof:name":"Simple Simon's Pizza",
     "wof:parent_id":85808359,
     "wof:placetype":"venue",

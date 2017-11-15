@@ -2,14 +2,20 @@
   "id": 219999373,
   "type": "Feature",
   "properties": {
+    "addr:full":"2203 Promenade Blvd Rogers AR 72758",
+    "addr:housenumber":"2203",
+    "addr:postcode":"72758",
+    "addr:street":"Promenade Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.178867,36.304922,-94.178867,36.304922",
     "geom:latitude":36.304922,
     "geom:longitude":-94.178867,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2203 Promenade Blvd",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -44,12 +50,13 @@
         102083255,
         85895851
     ],
+    "wof:brand_id":1125151553,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ikFPcUhNJtsWnmhRm61oZ_36.304922_-94.178867@1303262957"
     },
     "wof:country":"US",
-    "wof:geomhash":"2fd9aecb200ba2bef3083cf78d915c2d",
+    "wof:geomhash":"16bb490752bde42a77977abe8e711ae7",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -62,7 +69,7 @@
         }
     ],
     "wof:id":219999373,
-    "wof:lastmodified":1466325448,
+    "wof:lastmodified":1510699753,
     "wof:name":"Gordon's Jewelers",
     "wof:parent_id":85895851,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 102329229,
   "type": "Feature",
   "properties": {
+    "addr:full":"1527 S Bowman Rd Little Rock AR 72211",
+    "addr:housenumber":"1527",
+    "addr:postcode":"72211",
+    "addr:street":"S Bowman Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.406648,34.738926,-92.406648,34.738926",
     "geom:latitude":34.738926,
     "geom:longitude":-92.406648,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1527 S Bowman Rd",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -37,12 +43,13 @@
         102082497,
         85833895
     ],
+    "wof:brand_id":1125153635,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2s8VLeTbcSEnMNbLl9ocjO_34.738926_-92.406648@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"ff7e36620afc0b40c8dea17fac935bff",
+    "wof:geomhash":"d3993e1481588b1562f2ecddcccfe33c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":102329229,
-    "wof:lastmodified":1466323583,
+    "wof:lastmodified":1510695774,
     "wof:name":"Otis Elevator Co",
     "wof:parent_id":85833895,
     "wof:placetype":"venue",

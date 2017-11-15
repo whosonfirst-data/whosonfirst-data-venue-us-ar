@@ -2,14 +2,20 @@
   "id": 840485121,
   "type": "Feature",
   "properties": {
+    "addr:full":"1530 W Center St Greenwood AR 72936",
+    "addr:housenumber":"1530",
+    "addr:postcode":"72936",
+    "addr:street":"W Center St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.280866,35.222509,-94.280866,35.222509",
     "geom:latitude":35.222509,
     "geom:longitude":-94.280866,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1530 W Center St",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102082025,
         85808359
     ],
+    "wof:brand_id":1125150029,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_64C8hUcYAzhuXRCbv26ybJ_35.222509_-94.280866@1299784598"
     },
     "wof:country":"US",
     "wof:created":1463620977,
-    "wof:geomhash":"78dc5dcc4784c730d68c1966dd130b10",
+    "wof:geomhash":"67c80ab6037c502be1d87501169dfa35",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840485121,
-    "wof:lastmodified":1466322478,
+    "wof:lastmodified":1510695391,
     "wof:name":"Simple Simon's Pizza",
     "wof:parent_id":85808359,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 840481261,
   "type": "Feature",
   "properties": {
+    "addr:full":"4517 John F Kennedy Blvd North Little Rock AR 72116",
+    "addr:housenumber":"4517",
+    "addr:postcode":"72116",
+    "addr:street":"John F Kennedy Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.256851,34.795565,-92.256851,34.795565",
     "geom:latitude":34.795565,
     "geom:longitude":-92.256851,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4517 John F Kennedy Blvd",
     "sg:city":"North Little Rock",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102082497,
         85840541
     ],
+    "wof:brand_id":1125151073,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Io1wiN7UXC3GbwYdhjDw1_34.795565_-92.256851@1299784598"
     },
     "wof:country":"US",
     "wof:created":1463620899,
-    "wof:geomhash":"28555b9b7d698e8b4300ca11c724273e",
+    "wof:geomhash":"74da0ea918ce792b009daf77881d31bb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":840481261,
-    "wof:lastmodified":1466322070,
+    "wof:lastmodified":1510696090,
     "wof:name":"Lenny's Sub Shop",
     "wof:parent_id":85840541,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 102315269,
   "type": "Feature",
   "properties": {
+    "addr:full":"22524 I- 30 Bryant AR 72022",
+    "addr:housenumber":"22524;30",
+    "addr:postcode":"72022",
+    "addr:street":"I",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.501881,34.617135,-92.501881,34.617135",
     "geom:latitude":34.617135,
     "geom:longitude":-92.501881,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"22524 I- 30",
     "sg:city":"Bryant",
     "sg:classifiers":[
@@ -36,12 +42,13 @@
         102083257,
         85817531
     ],
+    "wof:brand_id":1125153677,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6MSwPYVjjIRTgQCkmojvnA_34.617135_-92.501881@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"a46a4c52fc26c9263bab696f5abb121d",
+    "wof:geomhash":"ac49d92e7e81cd0101c715fdf7154fe6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":102315269,
-    "wof:lastmodified":1466323340,
+    "wof:lastmodified":1510697775,
     "wof:name":"Clayton Homes Inc",
     "wof:parent_id":85817531,
     "wof:placetype":"venue",

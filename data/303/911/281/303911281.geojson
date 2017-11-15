@@ -2,14 +2,20 @@
   "id": 303911281,
   "type": "Feature",
   "properties": {
+    "addr:full":"203 Elk St Grove OK 74344",
+    "addr:housenumber":"203",
+    "addr:postcode":"74344",
+    "addr:street":"Elk St Grove",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.775913,36.594416,-94.775913,36.594416",
     "geom:latitude":36.594416,
     "geom:longitude":-94.775913,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"203 Elk St",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102083255,
         85852913
     ],
+    "wof:brand_id":1125153087,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2AEGGfwmpLaOBhMqF72vR1_36.594416_-94.775913@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"536822aebc8c806deb7b3a16ad2c81ad",
+    "wof:geomhash":"ee0cf7f0fcb3e182fd3cda74426d6676",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":303911281,
-    "wof:lastmodified":1466320632,
+    "wof:lastmodified":1510695173,
     "wof:name":"Creative Images",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",

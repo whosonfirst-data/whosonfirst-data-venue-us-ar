@@ -2,14 +2,20 @@
   "id": 102366373,
   "type": "Feature",
   "properties": {
+    "addr:full":"345 Cherokee Dr Monticello AR 71655",
+    "addr:housenumber":"345",
+    "addr:postcode":"71655",
+    "addr:street":"Cherokee Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.809818,33.633208,-91.809818,33.633208",
     "geom:latitude":33.633208,
     "geom:longitude":-91.809818,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"345 Cherokee Dr",
     "sg:city":"Monticello",
     "sg:classifiers":[
@@ -30,12 +36,13 @@
         85688549,
         102083221
     ],
+    "wof:brand_id":1125159887,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Z8KdlWpk3uajbmqr6bgZP_33.633208_-91.809818@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"4eecf1e36bb61b0fa4f4dd30af36a62f",
+    "wof:geomhash":"91c86131a7a13253243d6f298791b956",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -46,7 +53,7 @@
         }
     ],
     "wof:id":102366373,
-    "wof:lastmodified":1466324402,
+    "wof:lastmodified":1510697985,
     "wof:name":"House Of Style",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

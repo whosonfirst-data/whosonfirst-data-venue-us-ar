@@ -2,14 +2,20 @@
   "id": 102331235,
   "type": "Feature",
   "properties": {
+    "addr:full":"57 S Broadview St Greenbrier AR 72058",
+    "addr:housenumber":"57",
+    "addr:postcode":"72058",
+    "addr:street":"S Broadview St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.388086,35.22942,-92.388086,35.22942",
     "geom:latitude":35.22942,
     "geom:longitude":-92.388086,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"57 S Broadview St",
     "sg:city":"Greenbrier",
     "sg:classifiers":[
@@ -30,12 +36,13 @@
         85688549,
         102083241
     ],
+    "wof:brand_id":1125151007,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5l4jElKPtgxPlIBsThpTjQ_35.229420_-92.388086@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"409c7d5adf3e3ffe5c5a9ea8564f8b39",
+    "wof:geomhash":"a7750ceb81004dfeae03a5093c21bdde",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -46,7 +53,7 @@
         }
     ],
     "wof:id":102331235,
-    "wof:lastmodified":1466323599,
+    "wof:lastmodified":1510695762,
     "wof:name":"Freds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

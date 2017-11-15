@@ -2,14 +2,20 @@
   "id": 220034491,
   "type": "Feature",
   "properties": {
+    "addr:full":"122 Rhodes Ave Springdale AR 72764",
+    "addr:housenumber":"122",
+    "addr:postcode":"72764",
+    "addr:street":"Rhodes Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.129753,36.189819,-94.129753,36.189819",
     "geom:latitude":36.189819,
     "geom:longitude":-94.129753,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"122 Rhodes Ave",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102082007,
         85885481
     ],
+    "wof:brand_id":1125154963,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_60sX5Kpoe29eSXhqNcISZl_36.189819_-94.129753@1303262958"
     },
     "wof:country":"US",
-    "wof:geomhash":"9fcad0ccda09d8d601ddc044fd100f54",
+    "wof:geomhash":"5ac9cfa39e3d5edf7a410096c458bbdf",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":220034491,
-    "wof:lastmodified":1466320526,
+    "wof:lastmodified":1510695243,
     "wof:name":"American Leak Detection",
     "wof:parent_id":85885481,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": "102221867",
   "type": "Feature",
   "properties": {
+    "addr:full":"3110 S Battery St Little Rock AR 72206",
+    "addr:housenumber":"3110",
+    "addr:postcode":"72206",
+    "addr:street":"S Battery St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.294871,34.71861,-92.294871,34.71861",
     "geom:latitude":34.71861,
     "geom:longitude":-92.294871,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3110 S Battery St",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102082497,
         85826323
     ],
+    "wof:brand_id":1125159323,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3lnTvRSxtBJ3fMgmaDzSys_34.718610_-92.294871@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"9f0744685faeeee0e3cc0339c8f1b8ad",
+    "wof:geomhash":"5d384aa2a7ee4b48fe1282d81614e7e4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":"102221867",
-    "wof:lastmodified":1466321283,
+    "wof:lastmodified":1510697462,
     "wof:name":"New Light Baptist Church",
     "wof:parent_id":85826323,
     "wof:placetype":"venue",

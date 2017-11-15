@@ -2,14 +2,20 @@
   "id": 102327591,
   "type": "Feature",
   "properties": {
+    "addr:full":"945 S College Ave Fayetteville AR 72701",
+    "addr:housenumber":"945",
+    "addr:postcode":"72701",
+    "addr:street":"S College Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.15829,36.053241,-94.15829,36.053241",
     "geom:latitude":36.053241,
     "geom:longitude":-94.15829,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"945 S College Ave",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -36,12 +42,13 @@
         102082007,
         85885459
     ],
+    "wof:brand_id":1125159521,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6hj0WaGSII5lqiXoAmUAK6_36.053241_-94.158290@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"1cd4b61d46bf4e957dc643f51ee917e9",
+    "wof:geomhash":"fb880096e9f69c039275b9ae610ad7d2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":102327591,
-    "wof:lastmodified":1466323637,
+    "wof:lastmodified":1510696643,
     "wof:name":"Council On Aging",
     "wof:parent_id":85885459,
     "wof:placetype":"venue",

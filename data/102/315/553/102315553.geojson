@@ -2,14 +2,20 @@
   "id": 102315553,
   "type": "Feature",
   "properties": {
+    "addr:full":"4503 E Broadway St North Little Rock AR 72117",
+    "addr:housenumber":"4503",
+    "addr:postcode":"72117",
+    "addr:street":"E Broadway St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.215521,34.757585,-92.215521,34.757585",
     "geom:latitude":34.757585,
     "geom:longitude":-92.215521,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4503 E Broadway St",
     "sg:city":"North Little Rock",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102082497,
         85845849
     ],
+    "wof:brand_id":1125154549,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4iQFw7B1G5aBn161aMvvPj_34.757585_-92.215521@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"dd907cbf542ea71cff753cc3e91c02e8",
+    "wof:geomhash":"d8fda1a6bd5680db1297a42fb31ca943",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":102315553,
-    "wof:lastmodified":1466323400,
+    "wof:lastmodified":1510699048,
     "wof:name":"OReilly Auto Parts",
     "wof:parent_id":85845849,
     "wof:placetype":"venue",

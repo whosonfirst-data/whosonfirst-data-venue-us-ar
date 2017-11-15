@@ -2,14 +2,20 @@
   "id": 102358765,
   "type": "Feature",
   "properties": {
+    "addr:full":"7010 Rogers Ave Fort Smith AR 72903",
+    "addr:housenumber":"7010",
+    "addr:postcode":"72903",
+    "addr:street":"Rogers Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.357204,35.35548,-94.357204,35.35548",
     "geom:latitude":35.35548,
     "geom:longitude":-94.357204,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7010 Rogers Ave",
     "sg:city":"Fort Smith",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102082025,
         85832863
     ],
+    "wof:brand_id":1125151391,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1nReOAQjF1qLluFfd8iFe9_35.355480_-94.357204@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"a89260ebabe7a2b0172d11226ba0426a",
+    "wof:geomhash":"3e48a2d5c4a3f27e74be1b24eb2514d1",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":102358765,
-    "wof:lastmodified":1466324291,
+    "wof:lastmodified":1510613542,
     "wof:name":"Schlotzsky's Deli",
     "wof:parent_id":85832863,
     "wof:placetype":"venue",

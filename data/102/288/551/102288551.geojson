@@ -2,14 +2,20 @@
   "id": "102288551",
   "type": "Feature",
   "properties": {
+    "addr:full":"7800 McDaniel Dr Little Rock AR 72209",
+    "addr:housenumber":"7800",
+    "addr:postcode":"72209",
+    "addr:street":"Mcdaniel Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.366605,34.678584,-92.366605,34.678584",
     "geom:latitude":34.678584,
     "geom:longitude":-92.366605,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7800 McDaniel Dr",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102082497,
         85833869
     ],
+    "wof:brand_id":1125156175,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7gCzwZF5B2UOYcqE7KNYUD_34.678584_-92.366605@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"fa0d7827f3deed8db8a738b745813444",
+    "wof:geomhash":"6de824323c16951b58494bc5b030a1cb",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":"102288551",
-    "wof:lastmodified":1466322822,
+    "wof:lastmodified":1510697592,
     "wof:name":"World Inspection Network",
     "wof:parent_id":85833869,
     "wof:placetype":"venue",

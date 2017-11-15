@@ -2,14 +2,20 @@
   "id": "102280717",
   "type": "Feature",
   "properties": {
+    "addr:full":"5101 Old Greenwood Rd Fort Smith AR 72903",
+    "addr:housenumber":"5101",
+    "addr:postcode":"72903",
+    "addr:street":"Old Greenwood Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.387296,35.33024,-94.387296,35.33024",
     "geom:latitude":35.33024,
     "geom:longitude":-94.387296,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5101 Old Greenwood Rd",
     "sg:city":"Fort Smith",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102082025,
         85849681
     ],
+    "wof:brand_id":1125152023,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Hp8lnSMzVx8ErXZsYL5xN_35.330240_-94.387296@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"fe0f0fade6feb52184def2e803e8c463",
+    "wof:geomhash":"008ecc77e693dde8ef3a0fe184e4d3e2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":"102280717",
-    "wof:lastmodified":1466322670,
+    "wof:lastmodified":1510696812,
     "wof:name":"Anico",
     "wof:parent_id":85849681,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 102404461,
   "type": "Feature",
   "properties": {
+    "addr:full":"146 E Main St Clarksville AR 72830",
+    "addr:housenumber":"146",
+    "addr:postcode":"72830",
+    "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.460059,35.471066,-93.460059,35.471066",
     "geom:latitude":35.471066,
     "geom:longitude":-93.460059,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"146 E Main St",
     "sg:city":"Clarksville",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         85688549,
         102083251
     ],
+    "wof:brand_id":1125151779,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Yt35PJekh3wkoFaObSiRn_35.471066_-93.460059@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"f497a16cd9c6723142032d12c6a009f5",
+    "wof:geomhash":"99213e7dc980299d46619df93b3cad09",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":102404461,
-    "wof:lastmodified":1466324909,
+    "wof:lastmodified":1510696080,
     "wof:name":"EZ Pawn Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

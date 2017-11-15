@@ -2,14 +2,20 @@
   "id": 102430157,
   "type": "Feature",
   "properties": {
+    "addr:full":"605 N Hwy 62 65 Harrison AR 72601",
+    "addr:housenumber":"605;65",
+    "addr:postcode":"72601",
+    "addr:street":"N Hwy 62;Harrison",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.118623,36.249849,-93.118623,36.249849",
     "geom:latitude":36.249849,
     "geom:longitude":-93.118623,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"605 N Hwy 62 65",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         85688549,
         102083249
     ],
+    "wof:brand_id":1125150319,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7JljeKzwNWhZm7jyMcW5mk_36.249849_-93.118623@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"9026f2d935ffedc068fa517bf207b895",
+    "wof:geomhash":"9d9c7c2e5de7a30f852af3d946145d91",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":102430157,
-    "wof:lastmodified":1466325546,
+    "wof:lastmodified":1510697395,
     "wof:name":"Color Tyme",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

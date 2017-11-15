@@ -2,14 +2,20 @@
   "id": 840482385,
   "type": "Feature",
   "properties": {
+    "addr:full":"317 S Shackleford Rd Little Rock AR 72211",
+    "addr:housenumber":"317",
+    "addr:postcode":"72211",
+    "addr:street":"S Shackleford Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.393946,34.75136,-92.393946,34.75136",
     "geom:latitude":34.75136,
     "geom:longitude":-92.393946,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"317 S Shackleford Rd",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102082497,
         85833895
     ],
+    "wof:brand_id":1125151851,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1F6juHnxNZKHyE04J9HgcW_34.751360_-92.393946@1299784598"
     },
     "wof:country":"US",
     "wof:created":1463620923,
-    "wof:geomhash":"02de191f0faccb240dd5080daac507e5",
+    "wof:geomhash":"7412903d2132b74b518d29fece85a0f3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":840482385,
-    "wof:lastmodified":1466322174,
+    "wof:lastmodified":1510696691,
     "wof:name":"P.F. Chang's",
     "wof:parent_id":85833895,
     "wof:placetype":"venue",

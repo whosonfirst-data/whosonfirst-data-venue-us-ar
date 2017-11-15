@@ -2,14 +2,20 @@
   "id": "102256615",
   "type": "Feature",
   "properties": {
+    "addr:full":"7123 I- 30 Little Rock AR 72209",
+    "addr:housenumber":"7123;30",
+    "addr:postcode":"72209",
+    "addr:street":"I",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.307578,34.686053,-92.307578,34.686053",
     "geom:latitude":34.686053,
     "geom:longitude":-92.307578,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7123 I- 30",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102082497,
         85803283
     ],
+    "wof:brand_id":1125154931,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1UvDBXjEoNmAOnmKJRgTzv_34.686053_-92.307578@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"c7a721d88f2cd026ef411e34fe15d005",
+    "wof:geomhash":"f70522eb21b3641ed1621feec26191c2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":"102256615",
-    "wof:lastmodified":1466322062,
+    "wof:lastmodified":1510613314,
     "wof:name":"Thyssen Krupp Elevator",
     "wof:parent_id":85803283,
     "wof:placetype":"venue",

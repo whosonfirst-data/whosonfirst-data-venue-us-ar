@@ -2,14 +2,20 @@
   "id": 219847463,
   "type": "Feature",
   "properties": {
+    "addr:full":"3196 N College Ave Fayetteville AR 72703",
+    "addr:housenumber":"3196",
+    "addr:postcode":"72703",
+    "addr:street":"N College Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.145149,36.109681,-94.145149,36.109681",
     "geom:latitude":36.109681,
     "geom:longitude":-94.145149,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3196 N College Ave",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -50,12 +56,13 @@
         102082007,
         85885431
     ],
+    "wof:brand_id":1125150761,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3R7xNPiVdBMG7PN7CuvAEg_36.109681_-94.145149@1303262955"
     },
     "wof:country":"US",
-    "wof:geomhash":"15269d273de966b9a9e7db244dabb69e",
+    "wof:geomhash":"b97610c88df62e5f55fca620cb3a366d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -68,7 +75,7 @@
         }
     ],
     "wof:id":219847463,
-    "wof:lastmodified":1466324961,
+    "wof:lastmodified":1510697652,
     "wof:name":"Atlanta Bread Company",
     "wof:parent_id":85885431,
     "wof:placetype":"venue",

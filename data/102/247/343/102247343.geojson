@@ -2,14 +2,20 @@
   "id": "102247343",
   "type": "Feature",
   "properties": {
+    "addr:full":"9 Colonial Cir Morrilton AR 72110",
+    "addr:housenumber":"9",
+    "addr:postcode":"72110",
+    "addr:street":"Colonial Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.72478,35.152537,-92.72478,35.152537",
     "geom:latitude":35.152537,
     "geom:longitude":-92.72478,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9 Colonial Cir",
     "sg:city":"Morrilton",
     "sg:classifiers":[
@@ -37,12 +43,13 @@
         102083217,
         85850611
     ],
+    "wof:brand_id":1125154277,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6wWqMTGVHwZueuoM1GzizP_35.152537_-92.724780@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"e1cc84bc3256278d08cc789d700a7847",
+    "wof:geomhash":"f232a577c7c4cb4049e479f2d257ee58",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":"102247343",
-    "wof:lastmodified":1466321794,
+    "wof:lastmodified":1510695875,
     "wof:name":"Area Agency On Aging",
     "wof:parent_id":85850611,
     "wof:placetype":"venue",

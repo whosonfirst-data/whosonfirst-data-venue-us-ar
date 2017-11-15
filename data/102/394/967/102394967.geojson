@@ -2,14 +2,20 @@
   "id": 102394967,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 N Hervey St Hope AR 71801",
+    "addr:housenumber":"100",
+    "addr:postcode":"71801",
+    "addr:street":"N Hervey St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.597116,33.668445,-93.597116,33.668445",
     "geom:latitude":33.668445,
     "geom:longitude":-93.597116,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"100 N Hervey St",
     "sg:city":"Hope",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102083213,
         85806015
     ],
+    "wof:brand_id":1125152025,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Mvwa7P72X2zr0dSoquJ4J_33.668445_-93.597116@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"3b3ef49280aed41869f8b386c4e4712f",
+    "wof:geomhash":"066791cfb8c1abe1b04a5da44fca898e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":102394967,
-    "wof:lastmodified":1466324647,
+    "wof:lastmodified":1510696809,
     "wof:name":"Bancorp South Bank",
     "wof:parent_id":85806015,
     "wof:placetype":"venue",

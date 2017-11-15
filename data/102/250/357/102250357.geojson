@@ -2,14 +2,20 @@
   "id": "102250357",
   "type": "Feature",
   "properties": {
+    "addr:full":"2401 E Main St El Dorado AR 71730",
+    "addr:housenumber":"2401",
+    "addr:postcode":"71730",
+    "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.636762,33.213393,-92.636762,33.213393",
     "geom:latitude":33.213393,
     "geom:longitude":-92.636762,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2401 E Main St",
     "sg:city":"El Dorado",
     "sg:classifiers":[
@@ -30,12 +36,13 @@
         85688549,
         102082501
     ],
+    "wof:brand_id":1125152025,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4oaO6pe6YvNARqzIC3ZMJD_33.213393_-92.636762@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"b9c3dc426fe9b2fdce44b3fde10e2c6a",
+    "wof:geomhash":"07f472da60122f7c8a05f38d3bc08c0d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -46,7 +53,7 @@
         }
     ],
     "wof:id":"102250357",
-    "wof:lastmodified":1466321882,
+    "wof:lastmodified":1510696809,
     "wof:name":"Bancorp South Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

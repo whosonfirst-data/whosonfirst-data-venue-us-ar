@@ -2,14 +2,20 @@
   "id": 235948891,
   "type": "Feature",
   "properties": {
+    "addr:full":"2121 S Main St Grove OK 74344",
+    "addr:housenumber":"2121",
+    "addr:postcode":"74344",
+    "addr:street":"S Main St Grove",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.769235,36.573752,-94.769235,36.573752",
     "geom:latitude":36.573752,
     "geom:longitude":-94.769235,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2121 S Main St",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -41,12 +47,13 @@
         102083255,
         85852913
     ],
+    "wof:brand_id":1125154255,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Hb5sql2bl76l4OgqUHHbm_36.573752_-94.769235@1303262961"
     },
     "wof:country":"US",
-    "wof:geomhash":"5edff046fc58cacb1c3a77591fb0703b",
+    "wof:geomhash":"d2d46595936f4b6caaf976e38132ceeb",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":235948891,
-    "wof:lastmodified":1466320437,
+    "wof:lastmodified":1510697447,
     "wof:name":"Taco Mayo",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",

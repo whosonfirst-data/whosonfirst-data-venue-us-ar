@@ -2,14 +2,20 @@
   "id": 102367217,
   "type": "Feature",
   "properties": {
+    "addr:full":"2704 Phillips Dr Jonesboro AR 72401",
+    "addr:housenumber":"2704",
+    "addr:postcode":"72401",
+    "addr:street":"Phillips Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.673769,35.809545,-90.673769,35.809545",
     "geom:latitude":35.809545,
     "geom:longitude":-90.673769,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2704 Phillips Dr",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102082033,
         85836541
     ],
+    "wof:brand_id":1125159005,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_772Cz0MZZCmQZhDVzIWq3W_35.809545_-90.673769@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"396ed76642f48cf72e7c73e21a4e950d",
+    "wof:geomhash":"9f706440f133450e8162bd80a2418787",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":102367217,
-    "wof:lastmodified":1466324378,
+    "wof:lastmodified":1510697156,
     "wof:name":"Hair Palace",
     "wof:parent_id":85836541,
     "wof:placetype":"venue",

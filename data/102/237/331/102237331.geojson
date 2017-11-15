@@ -2,14 +2,20 @@
   "id": "102237331",
   "type": "Feature",
   "properties": {
+    "addr:full":"10110 W Markham St Little Rock AR 72205",
+    "addr:housenumber":"10110",
+    "addr:postcode":"72205",
+    "addr:street":"W Markham St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.388754,34.753918,-92.388754,34.753918",
     "geom:latitude":34.753918,
     "geom:longitude":-92.388754,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10110 W Markham St",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -36,12 +42,13 @@
         102082497,
         85833895
     ],
+    "wof:brand_id":1125154543,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3HoaUFnRY6qV0Se1il3OXk_34.753918_-92.388754@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"ce9b90653a70f769d83faa0839689a1c",
+    "wof:geomhash":"a3b4deb0dbd7e22cc8fe10d079450068",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":"102237331",
-    "wof:lastmodified":1466321540,
+    "wof:lastmodified":1510699046,
     "wof:name":"Medical Staffing Network Inc",
     "wof:parent_id":85833895,
     "wof:placetype":"venue",

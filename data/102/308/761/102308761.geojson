@@ -2,14 +2,20 @@
   "id": "102308761",
   "type": "Feature",
   "properties": {
+    "addr:full":"2005 E Highland Dr Jonesboro AR 72401",
+    "addr:housenumber":"2005",
+    "addr:postcode":"72401",
+    "addr:street":"E Highland Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.682221,35.821149,-90.682221,35.821149",
     "geom:latitude":35.821149,
     "geom:longitude":-90.682221,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2005 E Highland Dr",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -36,12 +42,13 @@
         85688549,
         102082033
     ],
+    "wof:brand_id":1125154277,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6R4fUGlGHxcSI4BUCvlZgU_35.821149_-90.682221@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"5b4a4c23692ca11357832728301feca0",
+    "wof:geomhash":"fe191ca331db8119a4fe0ed87886ee33",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":"102308761",
-    "wof:lastmodified":1466323278,
+    "wof:lastmodified":1510695876,
     "wof:name":"Area Agency On Aging",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

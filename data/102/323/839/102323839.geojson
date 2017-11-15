@@ -2,14 +2,20 @@
   "id": 102323839,
   "type": "Feature",
   "properties": {
+    "addr:full":"202 W Long St Hamburg AR 71646",
+    "addr:housenumber":"202",
+    "addr:postcode":"71646",
+    "addr:street":"W Long St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.798504,33.231806,-91.798504,33.231806",
     "geom:latitude":33.231806,
     "geom:longitude":-91.798504,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"202 W Long St",
     "sg:city":"Hamburg",
     "sg:classifiers":[
@@ -41,12 +47,13 @@
         85688549,
         102083885
     ],
+    "wof:brand_id":1125151549,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3bT8qg6G0L1xWuT6Ky5vc5_33.231806_-91.798504@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"fef7b6354674d2d84e3cf585d2540fb2",
+    "wof:geomhash":"d6885dea419fb18a2f1b046372f627a5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":102323839,
-    "wof:lastmodified":1466323600,
+    "wof:lastmodified":1510695399,
     "wof:name":"Georgia-Pacific Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

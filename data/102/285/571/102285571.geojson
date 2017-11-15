@@ -2,14 +2,20 @@
   "id": "102285571",
   "type": "Feature",
   "properties": {
+    "addr:full":"115 W Howard St Nashville AR 71852",
+    "addr:housenumber":"115",
+    "addr:postcode":"71852",
+    "addr:street":"W Howard St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.848186,33.943363,-93.848186,33.943363",
     "geom:latitude":33.943363,
     "geom:longitude":-93.848186,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"115 W Howard St",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         85688549,
         102082499
     ],
+    "wof:brand_id":1125158665,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3JCoWFG6fBowkGJyVpGIQn_33.943363_-93.848186@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"b73371ddaf73c0e957e392c70a05120f",
+    "wof:geomhash":"014b036fc0c5ff03e114cf58fb2d7c81",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":"102285571",
-    "wof:lastmodified":1466322769,
+    "wof:lastmodified":1510709442,
     "wof:name":"Unique Creations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

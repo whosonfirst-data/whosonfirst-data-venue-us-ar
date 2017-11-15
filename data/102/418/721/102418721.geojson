@@ -2,14 +2,20 @@
   "id": 102418721,
   "type": "Feature",
   "properties": {
+    "addr:full":"920 Commerce St Little Rock AR 72202",
+    "addr:housenumber":"920",
+    "addr:postcode":"72202",
+    "addr:street":"Commerce St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.267328,34.738821,-92.267328,34.738821",
     "geom:latitude":34.738821,
     "geom:longitude":-92.267328,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"920 Commerce St",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102082497,
         85878749
     ],
+    "wof:brand_id":1125152419,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Rm2b5dtCLZhYegcgJkyy5_34.738821_-92.267328@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"9ff05b175961b0f91ddfe21eff657274",
+    "wof:geomhash":"db8b594cda3f7c2d2a88591352f413c8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":102418721,
-    "wof:lastmodified":1466325380,
+    "wof:lastmodified":1510694885,
     "wof:name":"Park Place Apartments",
     "wof:parent_id":85878749,
     "wof:placetype":"venue",

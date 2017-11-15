@@ -2,14 +2,20 @@
   "id": 102435675,
   "type": "Feature",
   "properties": {
+    "addr:full":"1400 S Cross St Little Rock AR 72202",
+    "addr:housenumber":"1400",
+    "addr:postcode":"72202",
+    "addr:street":"S Cross St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.286132,34.73614,-92.286132,34.73614",
     "geom:latitude":34.73614,
     "geom:longitude":-92.286132,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1400 S Cross St",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102082497,
         85878755
     ],
+    "wof:brand_id":1125154457,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1WUe49y0njSMh2cJkeZEFC_34.736140_-92.286132@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"ff2f2ab6cb1e167bf2a110fbd7eca77a",
+    "wof:geomhash":"877d329c72a7d1c16c0bc7ab95605b04",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":102435675,
-    "wof:lastmodified":1466325681,
+    "wof:lastmodified":1510695919,
     "wof:name":"New Jerusalem Baptist Church",
     "wof:parent_id":85878755,
     "wof:placetype":"venue",

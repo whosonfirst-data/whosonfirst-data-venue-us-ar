@@ -2,14 +2,20 @@
   "id": "102257097",
   "type": "Feature",
   "properties": {
+    "addr:full":"1114 S State St Pine Bluff AR 71601",
+    "addr:housenumber":"1114",
+    "addr:postcode":"71601",
+    "addr:street":"S State St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.002256,34.218673,-92.002256,34.218673",
     "geom:latitude":34.218673,
     "geom:longitude":-92.002256,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1114 S State St",
     "sg:city":"Pine Bluff",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         85688549,
         102083243
     ],
+    "wof:brand_id":1125156727,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5wzCC47avDn622Jd4mI1eK_34.218673_-92.002256@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"d0557db9c21b9c0e5131f443c69c0c3a",
+    "wof:geomhash":"88e638e66900d948bfee82a50d548bc7",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":"102257097",
-    "wof:lastmodified":1466321972,
+    "wof:lastmodified":1510699518,
     "wof:name":"Diebold Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 102392071,
   "type": "Feature",
   "properties": {
+    "addr:full":"4106 John F Kennedy Blvd Sherwood AR 72116",
+    "addr:housenumber":"4106",
+    "addr:postcode":"72116",
+    "addr:street":"John F Kennedy Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.259574,34.791994,-92.259574,34.791994",
     "geom:latitude":34.791994,
     "geom:longitude":-92.259574,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4106 John F Kennedy Blvd",
     "sg:city":"Sherwood",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102082497,
         85840541
     ],
+    "wof:brand_id":1125155053,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0rcn07djJpUCafS9we0PJ0_34.791994_-92.259574@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"c839c924f157b98efd52cebffb0d076b",
+    "wof:geomhash":"9d5544519fb869e2705adaefebb251eb",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":102392071,
-    "wof:lastmodified":1466324767,
+    "wof:lastmodified":1510694929,
     "wof:name":"St Luke's Episcopal Church",
     "wof:parent_id":85840541,
     "wof:placetype":"venue",

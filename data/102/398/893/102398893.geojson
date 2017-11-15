@@ -2,14 +2,20 @@
   "id": 102398893,
   "type": "Feature",
   "properties": {
+    "addr:full":"409 N University Ave Little Rock AR 72205",
+    "addr:housenumber":"409",
+    "addr:postcode":"72205",
+    "addr:street":"N University Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.340936,34.755592,-92.340936,34.755592",
     "geom:latitude":34.755592,
     "geom:longitude":-92.340936,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"409 N University Ave",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -37,12 +43,13 @@
         102082497,
         85838647
     ],
+    "wof:brand_id":1125154309,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_73FQOFcMkCwqPgU2rge9Mv_34.755592_-92.340936@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"367fd24d48225692f4ede0c3bc4823f4",
+    "wof:geomhash":"38e7ca21782c936ea15175ec7afea5c2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":102398893,
-    "wof:lastmodified":1466324807,
+    "wof:lastmodified":1510698640,
     "wof:name":"Gastroenterology Associates",
     "wof:parent_id":85838647,
     "wof:placetype":"venue",

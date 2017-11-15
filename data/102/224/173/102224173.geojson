@@ -2,14 +2,20 @@
   "id": "102224173",
   "type": "Feature",
   "properties": {
+    "addr:full":"34 Ferndale St Fort Smith AR 72901",
+    "addr:housenumber":"34",
+    "addr:postcode":"72901",
+    "addr:street":"Ferndale St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.404676,35.358784,-94.404676,35.358784",
     "geom:latitude":35.358784,
     "geom:longitude":-94.404676,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"34 Ferndale St",
     "sg:city":"Fort Smith",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102082025,
         85849681
     ],
+    "wof:brand_id":1125151001,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5AXyHtBmxqkje5Ew8JuIa8_35.358784_-94.404676@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"cd15a35178fadf6f818898a94b7702a3",
+    "wof:geomhash":"779325c75f46d2d20a567215695a6ac8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":"102224173",
-    "wof:lastmodified":1466321210,
+    "wof:lastmodified":1510695764,
     "wof:name":"Beauti Control Cosmetics Inc",
     "wof:parent_id":85849681,
     "wof:placetype":"venue",

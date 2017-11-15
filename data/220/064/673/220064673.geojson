@@ -2,14 +2,20 @@
   "id": 220064673,
   "type": "Feature",
   "properties": {
+    "addr:full":"3801A W Main St Russellville AR 72801",
+    "addr:housenumber":"3801a",
+    "addr:postcode":"72801",
+    "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.167061,35.291458,-93.167061,35.291458",
     "geom:latitude":35.291458,
     "geom:longitude":-93.167061,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3801A W Main St",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -42,12 +48,13 @@
         102082511,
         85837141
     ],
+    "wof:brand_id":1125150757,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3C1zaF25pB1rnq7D0jx4AC_35.291458_-93.167061@1303262958"
     },
     "wof:country":"US",
-    "wof:geomhash":"570d2a78c9a78db5d3475618f238cb29",
+    "wof:geomhash":"eb6a4593fec11554ee4cb5e2515737a3",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":220064673,
-    "wof:lastmodified":1466321145,
+    "wof:lastmodified":1510697588,
     "wof:name":"American Homepatient",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",

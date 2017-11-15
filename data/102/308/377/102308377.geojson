@@ -2,14 +2,20 @@
   "id": "102308377",
   "type": "Feature",
   "properties": {
+    "addr:full":"502 S Crawford St Clarksville AR 72830",
+    "addr:housenumber":"502",
+    "addr:postcode":"72830",
+    "addr:street":"S Crawford St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.478916,35.468054,-93.478916,35.468054",
     "geom:latitude":35.468054,
     "geom:longitude":-93.478916,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"502 S Crawford St",
     "sg:city":"Clarksville",
     "sg:classifiers":[
@@ -30,12 +36,13 @@
         85688549,
         102083251
     ],
+    "wof:brand_id":1125158291,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5sqSSHCtdQLu4zNjWTfQ19_35.468054_-93.478916@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"2dd01b489048a775e54e43a9e3e58cdb",
+    "wof:geomhash":"62ee1930443ff6e56f9fb2f570add1b3",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -46,7 +53,7 @@
         }
     ],
     "wof:id":"102308377",
-    "wof:lastmodified":1466323199,
+    "wof:lastmodified":1510695814,
     "wof:name":"First Security Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

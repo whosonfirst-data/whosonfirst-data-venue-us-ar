@@ -2,14 +2,20 @@
   "id": "102279061",
   "type": "Feature",
   "properties": {
+    "addr:full":"9501 N Rodney Parham Rd Little Rock AR 72227",
+    "addr:housenumber":"9501",
+    "addr:postcode":"72227",
+    "addr:street":"N;Parham Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.379442,34.759458,-92.379442,34.759458",
     "geom:latitude":34.759458,
     "geom:longitude":-92.379442,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9501 N Rodney Parham Rd",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102082497,
         85807173
     ],
+    "wof:brand_id":1125151847,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_78pFyGibdhFi1mGcEf2u8N_34.759458_-92.379442@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"18815afd85bc3d8a4223cf3db989a6ac",
+    "wof:geomhash":"aeccd78c0181ee5e4920500e0cf84ff8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":"102279061",
-    "wof:lastmodified":1466322522,
+    "wof:lastmodified":1510697630,
     "wof:name":"Le Nails",
     "wof:parent_id":85807173,
     "wof:placetype":"venue",

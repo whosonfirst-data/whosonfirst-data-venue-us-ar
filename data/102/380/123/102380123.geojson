@@ -2,14 +2,20 @@
   "id": 102380123,
   "type": "Feature",
   "properties": {
+    "addr:full":"304 Ouachita Ave Hot Springs AR 71901",
+    "addr:housenumber":"304",
+    "addr:postcode":"71901",
+    "addr:street":"Ouachita Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.056409,34.507043,-93.056409,34.507043",
     "geom:latitude":34.507043,
     "geom:longitude":-93.056409,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"304 Ouachita Ave",
     "sg:city":"Hot Springs",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         85688549,
         102082515
     ],
+    "wof:brand_id":1125151613,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6gi9bcB2UJdPx0rITKw7h3_34.507043_-93.056409@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"632a2a44a3d74bd5a66c38be1e4e53db",
+    "wof:geomhash":"1001c40912545aaa73011d990bc80434",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":102380123,
-    "wof:lastmodified":1466322114,
+    "wof:lastmodified":1510696954,
     "wof:name":"US Internal Revenue Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

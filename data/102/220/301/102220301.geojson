@@ -2,14 +2,20 @@
   "id": "102220301",
   "type": "Feature",
   "properties": {
+    "addr:full":"2012 E Robinson Ave Springdale AR 72764",
+    "addr:housenumber":"2012",
+    "addr:postcode":"72764",
+    "addr:street":"E Robinson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.109852,36.16682,-94.109852,36.16682",
     "geom:latitude":36.16682,
     "geom:longitude":-94.109852,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2012 E Robinson Ave",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -30,12 +36,13 @@
         85688549,
         102082007
     ],
+    "wof:brand_id":1125158291,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1hIzld1WTuFsg8Spjx9cvr_36.166820_-94.109852@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"8d2d2825e32236f968611a5ec8a8ca6b",
+    "wof:geomhash":"a0935b463bd6e06693104cd0457a247c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -46,7 +53,7 @@
         }
     ],
     "wof:id":"102220301",
-    "wof:lastmodified":1466321136,
+    "wof:lastmodified":1510695814,
     "wof:name":"First Security Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

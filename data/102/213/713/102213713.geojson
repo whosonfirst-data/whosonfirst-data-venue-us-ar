@@ -2,14 +2,20 @@
   "id": "102213713",
   "type": "Feature",
   "properties": {
+    "addr:full":"101 Garden St Calico Rock AR 72519",
+    "addr:housenumber":"101",
+    "addr:postcode":"72519",
+    "addr:street":"Garden St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.133158,36.121724,-92.133158,36.121724",
     "geom:latitude":36.121724,
     "geom:longitude":-92.133158,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"101 Garden St",
     "sg:city":"Calico Rock",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         85688549,
         102083231
     ],
+    "wof:brand_id":1125152027,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_117lgubUUgMcfVxiI6NMN1_36.121724_-92.133158@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"a82454d3feb2138f3686d1d1cf7eed27",
+    "wof:geomhash":"6ecddaab9443e80ec9788bc9e12a7d4b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":"102213713",
-    "wof:lastmodified":1466321044,
+    "wof:lastmodified":1510696810,
     "wof:name":"Comfort Zone",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": "102219277",
   "type": "Feature",
   "properties": {
+    "addr:full":"3816 N Mall Ave Fayetteville AR 72703",
+    "addr:housenumber":"3816",
+    "addr:postcode":"72703",
+    "addr:street":"N Mall Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.149776,36.121625,-94.149776,36.121625",
     "geom:latitude":36.121625,
     "geom:longitude":-94.149776,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3816 N Mall Ave",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102082007,
         85885433
     ],
+    "wof:brand_id":1125151823,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1R4qADWO8ibvbu7VpLcawp_36.121625_-94.149776@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"29b8bdef0fd58d6d22b7a16a6ce71b83",
+    "wof:geomhash":"5959737ef3c175919b7e8b5bd21882dc",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":"102219277",
-    "wof:lastmodified":1466321101,
+    "wof:lastmodified":1510694568,
     "wof:name":"Bed Bath & Beyond Inc",
     "wof:parent_id":85885433,
     "wof:placetype":"venue",

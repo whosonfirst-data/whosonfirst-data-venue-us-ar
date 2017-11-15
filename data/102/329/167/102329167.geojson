@@ -2,14 +2,20 @@
   "id": 102329167,
   "type": "Feature",
   "properties": {
+    "addr:full":"3822 S Arkansas Ave Russellville AR 72802",
+    "addr:housenumber":"3822",
+    "addr:postcode":"72802",
+    "addr:street":"S Arkansas Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.139933,35.239762,-93.139933,35.239762",
     "geom:latitude":35.239762,
     "geom:longitude":-93.139933,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3822 S Arkansas Ave",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         85837547,
         102083263
     ],
+    "wof:brand_id":1125154357,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4wBCkkasnMGT2c7PXgHffG_35.239762_-93.139933@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"94d6cebfc7041339d9c46e8b32726cf8",
+    "wof:geomhash":"5f5f6cb213e09021708cf1c49d46e521",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":102329167,
-    "wof:lastmodified":1466323570,
+    "wof:lastmodified":1510604929,
     "wof:name":"Roadway Express",
     "wof:parent_id":85837547,
     "wof:placetype":"venue",

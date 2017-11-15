@@ -2,14 +2,20 @@
   "id": 102411421,
   "type": "Feature",
   "properties": {
+    "addr:full":"1805 E 23rd St Little Rock AR 72206",
+    "addr:housenumber":"1805",
+    "addr:postcode":"72206",
+    "addr:street":"E 23Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.245717,34.72527,-92.245717,34.72527",
     "geom:latitude":34.72527,
     "geom:longitude":-92.245717,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1805 E 23rd St",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -36,12 +42,13 @@
         102082497,
         85806025
     ],
+    "wof:brand_id":1125154735,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5w2CcaDCU2M3iyxx5iTibN_34.725270_-92.245717@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"87c1d9b41824d5c33ddb3c2491f8bb5c",
+    "wof:geomhash":"a3ee7c11ec56d6e01cf843212e508e05",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":102411421,
-    "wof:lastmodified":1466325124,
+    "wof:lastmodified":1510695211,
     "wof:name":"Fedex Freight East Inc",
     "wof:parent_id":85806025,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 102413301,
   "type": "Feature",
   "properties": {
+    "addr:full":"1412 S 1st St Rogers AR 72756",
+    "addr:housenumber":"1412",
+    "addr:postcode":"72756",
+    "addr:street":"S 1St St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.117256,36.318941,-94.117256,36.318941",
     "geom:latitude":36.318941,
     "geom:longitude":-94.117256,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1412 S 1st St",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         85688549,
         102083255
     ],
+    "wof:brand_id":1125155137,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1VhLDTk9Qc6hmIHkEY6yRV_36.318941_-94.117256@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"709b075d10b5eb6e0566955e98f7245c",
+    "wof:geomhash":"0624aa85bed05771f3caf1658a0033fc",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":102413301,
-    "wof:lastmodified":1466325251,
+    "wof:lastmodified":1510699325,
     "wof:name":"Guardian Auto Glass",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

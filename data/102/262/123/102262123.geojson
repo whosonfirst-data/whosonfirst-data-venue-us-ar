@@ -2,14 +2,20 @@
   "id": "102262123",
   "type": "Feature",
   "properties": {
+    "addr:full":"108 Main St Yellville AR 72687",
+    "addr:housenumber":"108",
+    "addr:postcode":"72687",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.682721,36.22537,-92.682721,36.22537",
     "geom:latitude":36.22537,
     "geom:longitude":-92.682721,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"108 Main St",
     "sg:city":"Yellville",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         85688549,
         102082535
     ],
+    "wof:brand_id":1125152579,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1f0JmupJOGxvRTIW1VCOb0_36.225370_-92.682721@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"fb2813413a1f3c784d049a32c25e6741",
+    "wof:geomhash":"e2ea0582fbd722b930e334e4b83092a7",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":"102262123",
-    "wof:lastmodified":1466322117,
+    "wof:lastmodified":1510698844,
     "wof:name":"Breadeaux Pizza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

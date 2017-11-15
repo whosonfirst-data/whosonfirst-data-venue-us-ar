@@ -2,14 +2,20 @@
   "id": "102263581",
   "type": "Feature",
   "properties": {
+    "addr:full":"602 S School Ave Fayetteville AR 72701",
+    "addr:housenumber":"602",
+    "addr:postcode":"72701",
+    "addr:street":"S School Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.164537,36.054063,-94.164537,36.054063",
     "geom:latitude":36.054063,
     "geom:longitude":-94.164537,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"602 S School Ave",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102082007,
         85885441
     ],
+    "wof:brand_id":1125155081,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5thbz3ivAHBmK0xfbG8PzP_36.054063_-94.164537@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"bf883d1c2cd08ae76677462a9acd27c2",
+    "wof:geomhash":"186bfc1feeee009a7d0fe15328cb440f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":"102263581",
-    "wof:lastmodified":1466322223,
+    "wof:lastmodified":1510696899,
     "wof:name":"Wonder Bread & Hostess Cakes",
     "wof:parent_id":85885441,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 102329963,
   "type": "Feature",
   "properties": {
+    "addr:full":"8400 Remount Rd N Little Rock AR 72118",
+    "addr:housenumber":"",
+    "addr:postcode":"8400;72118",
+    "addr:street":"Remount Rd N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.259907,34.839903,-92.259907,34.839903",
     "geom:latitude":34.839903,
     "geom:longitude":-92.259907,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8400 Remount Rd",
     "sg:city":"N Little Rock",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102082497,
         85851793
     ],
+    "wof:brand_id":1125157919,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1UvRlIEUColqDdu3K9jxPZ_34.839903_-92.259907@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"69ec6142bd5c5c098e6afc09e79ef1f2",
+    "wof:geomhash":"13b3995a81face332de8ef4217d91ebf",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":102329963,
-    "wof:lastmodified":1466323734,
+    "wof:lastmodified":1510697542,
     "wof:name":"National Weather Svc",
     "wof:parent_id":85851793,
     "wof:placetype":"venue",

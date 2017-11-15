@@ -2,14 +2,20 @@
   "id": "102234233",
   "type": "Feature",
   "properties": {
+    "addr:full":"100 Ashley Road 189 Montrose AR 71658",
+    "addr:housenumber":"100",
+    "addr:postcode":"71658",
+    "addr:street":"Ashley Road 189",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.568356,33.260019,-91.568356,33.260019",
     "geom:latitude":33.260019,
     "geom:longitude":-91.568356,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"100 Ashley Road 189",
     "sg:city":"Montrose",
     "sg:classifiers":[
@@ -32,12 +38,13 @@
         85688549,
         102083885
     ],
+    "wof:brand_id":1125159619,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4SFl7Eud9XtL4sew2yipZH_33.260019_-91.568356@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"35d084142dd632743f8b3211b50fb740",
+    "wof:geomhash":"98b600f2ea1fa6cc5fb1cc972719346f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":"102234233",
-    "wof:lastmodified":1466321466,
+    "wof:lastmodified":1510695302,
     "wof:name":"Mount Pleasant Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

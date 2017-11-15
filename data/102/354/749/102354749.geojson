@@ -2,14 +2,20 @@
   "id": 102354749,
   "type": "Feature",
   "properties": {
+    "addr:full":"419 Alice St West Helena AR 72390",
+    "addr:housenumber":"419",
+    "addr:postcode":"72390",
+    "addr:street":"Alice St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.645782,34.551732,-90.645782,34.551732",
     "geom:latitude":34.551732,
     "geom:longitude":-90.645782,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"419 Alice St",
     "sg:city":"West Helena",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102082001,
         85834075
     ],
+    "wof:brand_id":1125154885,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4SWDihMoW1ZOASOvVJ8Yzz_34.551732_-90.645782@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"cec7705d5584ae9be78d2d05cd2471af",
+    "wof:geomhash":"9fc70fae66d0e92a73ddc2f952976556",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":102354749,
-    "wof:lastmodified":1466324199,
+    "wof:lastmodified":1510697716,
     "wof:name":"Harmony Baptist Church",
     "wof:parent_id":85834075,
     "wof:placetype":"venue",

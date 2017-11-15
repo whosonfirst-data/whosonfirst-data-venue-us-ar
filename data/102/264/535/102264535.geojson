@@ -2,14 +2,20 @@
   "id": "102264535",
   "type": "Feature",
   "properties": {
+    "addr:full":"35 E Mountain St Fayetteville AR 72701",
+    "addr:housenumber":"35",
+    "addr:postcode":"72701",
+    "addr:street":"E Mountain St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.159701,36.061841,-94.159701,36.061841",
     "geom:latitude":36.061841,
     "geom:longitude":-94.159701,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"35 E Mountain St",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102082007,
         85885459
     ],
+    "wof:brand_id":1125152687,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0FL5znc1xjpH4qLr9hhwgY_36.061841_-94.159701@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"96b9f2c72915c3d078dd83b1b30f93ca",
+    "wof:geomhash":"25d8c0f98cf7b9f8a68a06a1a48bce88",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":"102264535",
-    "wof:lastmodified":1466322239,
+    "wof:lastmodified":1510697341,
     "wof:name":"US General Svc Adm",
     "wof:parent_id":85885459,
     "wof:placetype":"venue",

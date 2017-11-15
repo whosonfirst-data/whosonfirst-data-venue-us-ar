@@ -2,14 +2,20 @@
   "id": 102363799,
   "type": "Feature",
   "properties": {
+    "addr:full":"3400 Duke Ave Fort Smith AR 72908",
+    "addr:housenumber":"3400",
+    "addr:postcode":"72908",
+    "addr:street":"Duke Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.398015,35.308099,-94.398015,35.308099",
     "geom:latitude":35.308099,
     "geom:longitude":-94.398015,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3400 Duke Ave",
     "sg:city":"Fort Smith",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102082025,
         85808359
     ],
+    "wof:brand_id":1125159171,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4CLYC5iEz5R5XA8K6MxhYO_35.308099_-94.398015@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"7350f5274d1b5555d89224df0abe7875",
+    "wof:geomhash":"4cd318cc04eb4ef5a6d3b6535322248e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":102363799,
-    "wof:lastmodified":1466324374,
+    "wof:lastmodified":1510694039,
     "wof:name":"Briarwood Apartments",
     "wof:parent_id":85808359,
     "wof:placetype":"venue",

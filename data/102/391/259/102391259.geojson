@@ -2,14 +2,20 @@
   "id": 102391259,
   "type": "Feature",
   "properties": {
+    "addr:full":"4026 W Wedington Dr Fayetteville AR 72704",
+    "addr:housenumber":"4026",
+    "addr:postcode":"72704",
+    "addr:street":"W Wedington Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.217919,36.078778,-94.217919,36.078778",
     "geom:latitude":36.078778,
     "geom:longitude":-94.217919,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4026 W Wedington Dr",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102082007,
         85885449
     ],
+    "wof:brand_id":1125155015,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5lXyLuaFTJnhQMmTydnbTs_36.078778_-94.217919@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"fc99b15fa01ef7035e0a9d01e1c7e794",
+    "wof:geomhash":"ddd0f3bae95f194c449a1d143e72b111",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":102391259,
-    "wof:lastmodified":1466324400,
+    "wof:lastmodified":1510700056,
     "wof:name":"Hot Stuff Pizza",
     "wof:parent_id":85885449,
     "wof:placetype":"venue",

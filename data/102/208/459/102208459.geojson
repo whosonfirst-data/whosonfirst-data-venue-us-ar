@@ -2,14 +2,20 @@
   "id": "102208459",
   "type": "Feature",
   "properties": {
+    "addr:full":"7715 Westminister Pl Fort Smith AR 72903",
+    "addr:housenumber":"7715",
+    "addr:postcode":"72903",
+    "addr:street":"Westminister Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.345407,35.361047,-94.345407,35.361047",
     "geom:latitude":35.361047,
     "geom:longitude":-94.345407,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7715 Westminister Pl",
     "sg:city":"Fort Smith",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102082025,
         85832863
     ],
+    "wof:brand_id":1125158911,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Q9ayacBzlzzrFsq9tt7iu_35.361047_-94.345407@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"2e9aeb12ea90a3df4ebb69a4268c850e",
+    "wof:geomhash":"b8512f60c377f30c852f7e9dd375e1ab",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":"102208459",
-    "wof:lastmodified":1466320865,
+    "wof:lastmodified":1510693914,
     "wof:name":"Air Products & Chemicals Inc",
     "wof:parent_id":85832863,
     "wof:placetype":"venue",

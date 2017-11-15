@@ -2,14 +2,20 @@
   "id": 303854519,
   "type": "Feature",
   "properties": {
+    "addr:full":"400 S Main St Grove OK 74344",
+    "addr:housenumber":"400",
+    "addr:postcode":"74344",
+    "addr:street":"S Main St Grove",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.76928,36.592422,-94.76928,36.592422",
     "geom:latitude":36.592422,
     "geom:longitude":-94.76928,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"400 S Main St",
     "sg:city":"Grove",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102083255,
         85852913
     ],
+    "wof:brand_id":1125154641,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5IAhwXvSpjEDaplRcmu2E0_36.592422_-94.769280@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"260e66434d7b7750b685683bcb85b3f4",
+    "wof:geomhash":"ac210960dc6c1d4fb7d7f544ea107f67",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":303854519,
-    "wof:lastmodified":1466320618,
+    "wof:lastmodified":1510699363,
     "wof:name":"Grace Presbyterian Church",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",

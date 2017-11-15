@@ -2,14 +2,20 @@
   "id": 220069645,
   "type": "Feature",
   "properties": {
+    "addr:full":"3059 E Main St Russellville AR 72802",
+    "addr:housenumber":"3059",
+    "addr:postcode":"72802",
+    "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.095734,35.27795,-93.095734,35.27795",
     "geom:latitude":35.27795,
     "geom:longitude":-93.095734,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3059 E Main St",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -36,12 +42,13 @@
         102082511,
         85837141
     ],
+    "wof:brand_id":1125155163,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_721jWsb3oLtzzHQqVvJao4_35.277950_-93.095734@1303262958"
     },
     "wof:country":"US",
-    "wof:geomhash":"f262de4f196e76d98577f8fbb3fa7ed8",
+    "wof:geomhash":"bab5fbd07fb965ca90d617c36b75b550",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":220069645,
-    "wof:lastmodified":1466321323,
+    "wof:lastmodified":1510698905,
     "wof:name":"Maurices",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",

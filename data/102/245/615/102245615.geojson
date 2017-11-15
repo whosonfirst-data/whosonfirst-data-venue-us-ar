@@ -2,14 +2,20 @@
   "id": "102245615",
   "type": "Feature",
   "properties": {
+    "addr:full":"724 N Spring St Harrison AR 72601",
+    "addr:housenumber":"724",
+    "addr:postcode":"72601",
+    "addr:street":"N Spring St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.109705,36.239863,-93.109705,36.239863",
     "geom:latitude":36.239863,
     "geom:longitude":-93.109705,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"724 N Spring St",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         85688549,
         102083249
     ],
+    "wof:brand_id":1125150927,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3n50L7cB1S8C7dQBbklz6b_36.239863_-93.109705@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"e3541134bcbfd0e2c1a4962a80e7b2c9",
+    "wof:geomhash":"6f9883b63d582b2e31498ba6ccf5fd43",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":"102245615",
-    "wof:lastmodified":1466321793,
+    "wof:lastmodified":1510694582,
     "wof:name":"American Home Patient Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

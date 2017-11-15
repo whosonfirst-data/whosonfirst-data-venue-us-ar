@@ -2,14 +2,20 @@
   "id": 102337409,
   "type": "Feature",
   "properties": {
+    "addr:full":"1000 W 4th St North Little Rock AR 72114",
+    "addr:housenumber":"1000",
+    "addr:postcode":"72114",
+    "addr:street":"W 4Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.277254,34.757508,-92.277254,34.757508",
     "geom:latitude":34.757508,
     "geom:longitude":-92.277254,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1000 W 4th St",
     "sg:city":"North Little Rock",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         85878757,
         102082497
     ],
+    "wof:brand_id":1125151059,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7V5Jfvbgxfguo5tXfjG82K_34.757508_-92.277254@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"25ec504264efa43c87a78cc3461405aa",
+    "wof:geomhash":"18379eecdd3a7935df5a1d7c04bc2828",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":102337409,
-    "wof:lastmodified":1466323801,
+    "wof:lastmodified":1510613137,
     "wof:name":"Union Pacific Railroad Company",
     "wof:parent_id":85878757,
     "wof:placetype":"venue",

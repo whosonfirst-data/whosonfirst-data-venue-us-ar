@@ -2,14 +2,20 @@
   "id": "102199405",
   "type": "Feature",
   "properties": {
+    "addr:full":"2053 N Ball Ave Fayetteville AR 72703",
+    "addr:housenumber":"2053",
+    "addr:postcode":"72703",
+    "addr:street":"N Ball Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.127027,36.089835,-94.127027,36.089835",
     "geom:latitude":36.089835,
     "geom:longitude":-94.127027,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2053 N Ball Ave",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102082007,
         85885465
     ],
+    "wof:brand_id":1125151969,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5PaZDTloTn8pGvZzIWroxx_36.089835_-94.127027@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"047bbea39b32331e70de33bff135a789",
+    "wof:geomhash":"a0dd82f0a5c192ffd16497df3da5b504",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":"102199405",
-    "wof:lastmodified":1466320655,
+    "wof:lastmodified":1510613289,
     "wof:name":"American Bowling Congress",
     "wof:parent_id":85885465,
     "wof:placetype":"venue",

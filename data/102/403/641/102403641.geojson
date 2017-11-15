@@ -2,14 +2,20 @@
   "id": 102403641,
   "type": "Feature",
   "properties": {
+    "addr:full":"1321 Rogers Ave Springdale AR 72764",
+    "addr:housenumber":"1321",
+    "addr:postcode":"72764",
+    "addr:street":"Rogers Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.147457,36.18206,-94.147457,36.18206",
     "geom:latitude":36.18206,
     "geom:longitude":-94.147457,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1321 Rogers Ave",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102082007,
         85885485
     ],
+    "wof:brand_id":1125159171,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6BP9PvHvPqvsh6i30n541m_36.182060_-94.147457@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"83fa6e8ed1f9e44481e1489d30881ceb",
+    "wof:geomhash":"7ec1920011a043561d775b2a4dbca635",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":102403641,
-    "wof:lastmodified":1466324763,
+    "wof:lastmodified":1510694039,
     "wof:name":"Briarwood Apartments",
     "wof:parent_id":85885485,
     "wof:placetype":"venue",

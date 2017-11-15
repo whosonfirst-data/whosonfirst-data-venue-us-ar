@@ -2,14 +2,20 @@
   "id": "102285505",
   "type": "Feature",
   "properties": {
+    "addr:full":"1524 N Main St Harrison AR 72601",
+    "addr:housenumber":"1524",
+    "addr:postcode":"72601",
+    "addr:street":"N Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.115714,36.244714,-93.115714,36.244714",
     "geom:latitude":36.244714,
     "geom:longitude":-93.115714,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1524 N Main St",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         85688549,
         102083249
     ],
+    "wof:brand_id":1125154549,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Qbvm5piWAJ70dwxLBhTSc_36.244714_-93.115714@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"a4f4443589f65d8c22c64a78cea844e9",
+    "wof:geomhash":"4f042035b403e800f53d6c82839d901b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":"102285505",
-    "wof:lastmodified":1466322755,
+    "wof:lastmodified":1510699047,
     "wof:name":"OReilly Auto Parts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

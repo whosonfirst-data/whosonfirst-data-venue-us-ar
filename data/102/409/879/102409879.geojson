@@ -2,14 +2,20 @@
   "id": 102409879,
   "type": "Feature",
   "properties": {
+    "addr:full":"5204 S Thompson St Springdale AR 72764",
+    "addr:housenumber":"5204",
+    "addr:postcode":"72764",
+    "addr:street":"S Thompson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.144562,36.137847,-94.144562,36.137847",
     "geom:latitude":36.137847,
     "geom:longitude":-94.144562,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5204 S Thompson St",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102082007,
         85885433
     ],
+    "wof:brand_id":1125158753,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5utUuR0ubW0GxhUaEPq6vu_36.137847_-94.144562@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"d5d348d6037a8d5e6b654be7478ececb",
+    "wof:geomhash":"37c1ba655fdf219006c385ea0733f66a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":102409879,
-    "wof:lastmodified":1466325178,
+    "wof:lastmodified":1510695792,
     "wof:name":"Direct General Insurance Agcy",
     "wof:parent_id":85885433,
     "wof:placetype":"venue",

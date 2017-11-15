@@ -2,14 +2,20 @@
   "id": 102410251,
   "type": "Feature",
   "properties": {
+    "addr:full":"1118 S Main St Searcy AR 72143",
+    "addr:housenumber":"1118",
+    "addr:postcode":"72143",
+    "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.735117,35.2386,-91.735117,35.2386",
     "geom:latitude":35.2386,
     "geom:longitude":-91.735117,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1118 S Main St",
     "sg:city":"Searcy",
     "sg:classifiers":[
@@ -30,12 +36,13 @@
         85688549,
         102082521
     ],
+    "wof:brand_id":1125158291,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7MZTju5M4AOIZTIKg4a0W1_35.238600_-91.735117@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"643cab9c8a973b6bdb2e2fae4229f65c",
+    "wof:geomhash":"70e78fd1c44c9c1bc60b069ea1e5fe28",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -46,7 +53,7 @@
         }
     ],
     "wof:id":102410251,
-    "wof:lastmodified":1466325195,
+    "wof:lastmodified":1510695814,
     "wof:name":"First Security Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

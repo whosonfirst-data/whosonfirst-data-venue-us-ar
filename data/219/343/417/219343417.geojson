@@ -2,14 +2,20 @@
   "id": 219343417,
   "type": "Feature",
   "properties": {
+    "addr:full":"126 West Dr Benton AR 72015",
+    "addr:housenumber":"126",
+    "addr:postcode":"72015",
+    "addr:street":"West Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.596088,34.563996,-92.596088,34.563996",
     "geom:latitude":34.563996,
     "geom:longitude":-92.596088,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"126 West Dr",
     "sg:city":"Benton",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102083257,
         85817531
     ],
+    "wof:brand_id":1125153793,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1gQytxJHWN5WlvwjKbyxiE_34.563996_-92.596088@1303262949"
     },
     "wof:country":"US",
-    "wof:geomhash":"1ccc5ae49de891b2a6128bea765463eb",
+    "wof:geomhash":"0886d546aaaafec40780013c3f0e78ea",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":219343417,
-    "wof:lastmodified":1466322160,
+    "wof:lastmodified":1510699995,
     "wof:name":"New Life Church",
     "wof:parent_id":85817531,
     "wof:placetype":"venue",

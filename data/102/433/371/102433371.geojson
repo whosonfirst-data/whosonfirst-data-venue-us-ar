@@ -2,14 +2,20 @@
   "id": 102433371,
   "type": "Feature",
   "properties": {
+    "addr:full":"4971 Old Greenwood Rd Fort Smith AR 72903",
+    "addr:housenumber":"4971",
+    "addr:postcode":"72903",
+    "addr:street":"Old Greenwood Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.387322,35.329595,-94.387322,35.329595",
     "geom:latitude":35.329595,
     "geom:longitude":-94.387322,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4971 Old Greenwood Rd",
     "sg:city":"Fort Smith",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102082025,
         85849681
     ],
+    "wof:brand_id":1125159113,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_32FgpQKlFqNOssyJNPUKvJ_35.329595_-94.387322@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"03ccf87c1b9ffbd4503765627822982a",
+    "wof:geomhash":"f13c0b7fec295fc7cc00ab20b3079150",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":102433371,
-    "wof:lastmodified":1466325606,
+    "wof:lastmodified":1510698951,
     "wof:name":"US Labor Dept Wage & Hour Div",
     "wof:parent_id":85849681,
     "wof:placetype":"venue",

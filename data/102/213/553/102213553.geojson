@@ -2,14 +2,20 @@
   "id": "102213553",
   "type": "Feature",
   "properties": {
+    "addr:full":"204 W O St Russellville AR 72801",
+    "addr:housenumber":"204",
+    "addr:postcode":"72801",
+    "addr:street":"W O St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.135236,35.294045,-93.135236,35.294045",
     "geom:latitude":35.294045,
     "geom:longitude":-93.135236,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"204 W O St",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102082511,
         85837141
     ],
+    "wof:brand_id":1125157127,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_37cWq6HJ39z4F9VT21Dtqc_35.294045_-93.135236@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"279acdee00a9f5f356d7a4db6405e227",
+    "wof:geomhash":"621af61e9ea9b82c23f2b7eb0f5b7289",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":"102213553",
-    "wof:lastmodified":1466321009,
+    "wof:lastmodified":1510697055,
     "wof:name":"Chartwells",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",

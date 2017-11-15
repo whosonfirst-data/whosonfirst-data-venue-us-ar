@@ -2,14 +2,20 @@
   "id": 840482455,
   "type": "Feature",
   "properties": {
+    "addr:full":"11400 N Rodney Parham Rd Little Rock AR 72212",
+    "addr:housenumber":"11400",
+    "addr:postcode":"72212",
+    "addr:street":"N;Parham Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.399805,34.77266,-92.399805,34.77266",
     "geom:latitude":34.77266,
     "geom:longitude":-92.399805,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"11400 N Rodney Parham Rd",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102082497,
         85843659
     ],
+    "wof:brand_id":1125154211,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6izNedT179jpfvbCGSRJgQ_34.772660_-92.399805@1299784598"
     },
     "wof:country":"US",
     "wof:created":1463620926,
-    "wof:geomhash":"2e959f80593326a93e484f19f83b9deb",
+    "wof:geomhash":"00db01208f09dd38c4be0be573b191cc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":840482455,
-    "wof:lastmodified":1466322189,
+    "wof:lastmodified":1510698745,
     "wof:name":"Great Wraps",
     "wof:parent_id":85843659,
     "wof:placetype":"venue",

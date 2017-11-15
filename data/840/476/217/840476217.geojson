@@ -2,14 +2,20 @@
   "id": 840476217,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 S Knoxville Ave Russellville AR 72801",
+    "addr:housenumber":"100",
+    "addr:postcode":"72801",
+    "addr:street":"S Knoxville Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.120468,35.2784,-93.120468,35.2784",
     "geom:latitude":35.2784,
     "geom:longitude":-93.120468,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"100 S Knoxville Ave",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102082511,
         85837141
     ],
+    "wof:brand_id":1125152809,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_65siNihk7D2g1A69ST8NtH_35.278455_-93.120483@1293134755"
     },
     "wof:country":"US",
     "wof:created":1463620796,
-    "wof:geomhash":"b7a5595a199593dfe9e223743735054a",
+    "wof:geomhash":"b10240a0d4d032745c4fd5c19b7c4b79",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840476217,
-    "wof:lastmodified":1466321542,
+    "wof:lastmodified":1510696886,
     "wof:name":"Price Chopper",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",

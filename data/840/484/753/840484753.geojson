@@ -2,14 +2,20 @@
   "id": 840484753,
   "type": "Feature",
   "properties": {
+    "addr:full":"5124 Towson Ave Fort Smith AR 72901",
+    "addr:housenumber":"5124",
+    "addr:postcode":"72901",
+    "addr:street":"Towson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.422789,35.335241,-94.422789,35.335241",
     "geom:latitude":35.335241,
     "geom:longitude":-94.422789,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5124 Towson Ave",
     "sg:city":"Fort Smith",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102082025,
         85834235
     ],
+    "wof:brand_id":1125154255,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1HzBtiMYyISQcZHLGsH9jd_35.335241_-94.422789@1299784598"
     },
     "wof:country":"US",
     "wof:created":1463620970,
-    "wof:geomhash":"382ea42592b35530c69e20f4a7803618",
+    "wof:geomhash":"4872c7e30bb85ad5c7b837337ed24964",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":840484753,
-    "wof:lastmodified":1466322436,
+    "wof:lastmodified":1510697447,
     "wof:name":"Taco Mayo",
     "wof:parent_id":85834235,
     "wof:placetype":"venue",

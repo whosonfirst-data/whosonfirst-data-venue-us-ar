@@ -2,14 +2,20 @@
   "id": "102294377",
   "type": "Feature",
   "properties": {
+    "addr:full":"11601 N Rodney Parham Rd Little Rock AR 72212",
+    "addr:housenumber":"11601",
+    "addr:postcode":"72212",
+    "addr:street":"N;Parham Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.402329,34.772528,-92.402329,34.772528",
     "geom:latitude":34.772528,
     "geom:longitude":-92.402329,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"11601 N Rodney Parham Rd",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102082497,
         85843659
     ],
+    "wof:brand_id":1125153005,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3W4ivFQd4C4g9ANsw9liex_34.772528_-92.402329@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"1d2619ef5d4239facc25cff7cb409826",
+    "wof:geomhash":"923c77a02dcc125351cbae90f4f1f51d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":"102294377",
-    "wof:lastmodified":1466322913,
+    "wof:lastmodified":1510698726,
     "wof:name":"CD Warehouse",
     "wof:parent_id":85843659,
     "wof:placetype":"venue",

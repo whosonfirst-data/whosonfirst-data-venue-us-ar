@@ -2,14 +2,20 @@
   "id": "102251649",
   "type": "Feature",
   "properties": {
+    "addr:full":"1001 Illinois St Blytheville AR 72315",
+    "addr:housenumber":"1001",
+    "addr:postcode":"72315",
+    "addr:street":"Illinois St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.916444,35.941182,-89.916444,35.941182",
     "geom:latitude":35.941182,
     "geom:longitude":-89.916444,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1001 Illinois St",
     "sg:city":"Blytheville",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         85688549,
         102083237
     ],
+    "wof:brand_id":1125151343,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3kn9cB6WDFhgNHVWcg1BfU_35.941182_-89.916444@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"d7cc6a16e40db928c5f2c2d639b7420d",
+    "wof:geomhash":"915a99134f3940b19351650677df29ce",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":"102251649",
-    "wof:lastmodified":1466321953,
+    "wof:lastmodified":1510694617,
     "wof:name":"Aid Assoc For Lutherans",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

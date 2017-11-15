@@ -2,14 +2,20 @@
   "id": 219957203,
   "type": "Feature",
   "properties": {
+    "addr:full":"1101 W Hudson Rd Rogers AR 72756",
+    "addr:housenumber":"1101",
+    "addr:postcode":"72756",
+    "addr:street":"W Hudson Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.127548,36.35528,-94.127548,36.35528",
     "geom:latitude":36.35528,
     "geom:longitude":-94.127548,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1101 W Hudson Rd",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -64,12 +70,13 @@
         85921535,
         102083255
     ],
+    "wof:brand_id":1125152147,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_221Tq8k0AyVFYAlrW5f1AO_36.355280_-94.127548@1303262957"
     },
     "wof:country":"US",
-    "wof:geomhash":"68fe54e486c7e6fd26017907bbb483af",
+    "wof:geomhash":"533cd1dd4175ee3801cb50119840d1e0",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -82,7 +89,7 @@
         }
     ],
     "wof:id":219957203,
-    "wof:lastmodified":1466325127,
+    "wof:lastmodified":1510693733,
     "wof:name":"Holy Trinity Lutheran Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

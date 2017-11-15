@@ -2,14 +2,20 @@
   "id": 102343747,
   "type": "Feature",
   "properties": {
+    "addr:full":"4172 E McCain Blvd N Little Rock AR 72117",
+    "addr:housenumber":"4172",
+    "addr:postcode":"72117",
+    "addr:street":"E Mccain Blvd N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.223111,34.789387,-92.223111,34.789387",
     "geom:latitude":34.789387,
     "geom:longitude":-92.223111,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4172 E McCain Blvd",
     "sg:city":"N Little Rock",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102082497,
         85852263
     ],
+    "wof:brand_id":1125155261,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1zlmk4Zg7IhlLJ3aiu3Y0B_34.789387_-92.223111@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"767f011a4360084e607bb749bf99edd4",
+    "wof:geomhash":"32a0afc3041f9f0d3b99e00a374df06d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":102343747,
-    "wof:lastmodified":1466323947,
+    "wof:lastmodified":1510699741,
     "wof:name":"It's Fashion",
     "wof:parent_id":85852263,
     "wof:placetype":"venue",

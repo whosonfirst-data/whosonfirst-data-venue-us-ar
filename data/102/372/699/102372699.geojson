@@ -2,14 +2,20 @@
   "id": 102372699,
   "type": "Feature",
   "properties": {
+    "addr:full":"9700 State Hwy 107 Sherwood AR 72120",
+    "addr:housenumber":"9700",
+    "addr:postcode":"72120",
+    "addr:street":"State Hwy 107",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.231464,34.843127,-92.231464,34.843127",
     "geom:latitude":34.843127,
     "geom:longitude":-92.231464,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9700 State Hwy 107",
     "sg:city":"Sherwood",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102082497,
         85851723
     ],
+    "wof:brand_id":1125156283,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ORd7yXpGYaDi1iDsRGdfR_34.843127_-92.231464@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"95a7375c9c0b1c5b82f7bdc37052046c",
+    "wof:geomhash":"ffe71f29d645db2f72ed4911b114e08b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":102372699,
-    "wof:lastmodified":1466320556,
+    "wof:lastmodified":1510693208,
     "wof:name":"Overeaters Anonymous",
     "wof:parent_id":85851723,
     "wof:placetype":"venue",

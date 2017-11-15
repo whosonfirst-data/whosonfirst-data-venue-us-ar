@@ -2,14 +2,20 @@
   "id": 840482427,
   "type": "Feature",
   "properties": {
+    "addr:full":"11721 Chenal Pkwy Little Rock AR 72211",
+    "addr:housenumber":"11721",
+    "addr:postcode":"72211",
+    "addr:street":"Chenal Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.404627,34.74846,-92.404627,34.74846",
     "geom:latitude":34.74846,
     "geom:longitude":-92.404627,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"11721 Chenal Pkwy",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102082497,
         85833895
     ],
+    "wof:brand_id":1125151697,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4dgUnF9sn9uu54jxj7dAJA_34.748460_-92.404627@1299784598"
     },
     "wof:country":"US",
     "wof:created":1463620924,
-    "wof:geomhash":"30ea985cf52389279849a11b25dd2244",
+    "wof:geomhash":"4d94adc46ad97015d071280e3dc6604a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":840482427,
-    "wof:lastmodified":1466322183,
+    "wof:lastmodified":1510693896,
     "wof:name":"On The Border",
     "wof:parent_id":85833895,
     "wof:placetype":"venue",

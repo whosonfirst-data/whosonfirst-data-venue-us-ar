@@ -2,14 +2,20 @@
   "id": 102376481,
   "type": "Feature",
   "properties": {
+    "addr:full":"1800 E Main St Russellville AR 72801",
+    "addr:housenumber":"1800",
+    "addr:postcode":"72801",
+    "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.112421,35.278309,-93.112421,35.278309",
     "geom:latitude":35.278309,
     "geom:longitude":-93.112421,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1800 E Main St",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102082511,
         85837141
     ],
+    "wof:brand_id":1125150769,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6kfXggPTFzby8xaUJq3uCG_35.278309_-93.112421@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"1065bfb3ea90f08f0b4fe2b45fdf53cc",
+    "wof:geomhash":"fe810548e0c09b3a2bcf02e0851f5350",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":102376481,
-    "wof:lastmodified":1466321367,
+    "wof:lastmodified":1510711323,
     "wof:name":"Child Support Enforcement",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 102341285,
   "type": "Feature",
   "properties": {
+    "addr:full":"400 E Capitol Ave Little Rock AR 72202",
+    "addr:housenumber":"400",
+    "addr:postcode":"72202",
+    "addr:street":"E Capitol Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.266911,34.743587,-92.266911,34.743587",
     "geom:latitude":34.743587,
     "geom:longitude":-92.266911,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"400 E Capitol Ave",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         85878757,
         102082497
     ],
+    "wof:brand_id":1125150769,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2BrjBExaZpuISMEfk9eNgG_34.743587_-92.266911@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"c370b88de233fd467790eb7ec6475d2d",
+    "wof:geomhash":"aa7f3a742fa8d25ee45f52a4c42a3ba4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":102341285,
-    "wof:lastmodified":1466323807,
+    "wof:lastmodified":1510697653,
     "wof:name":"Child Support Enforcement",
     "wof:parent_id":85878757,
     "wof:placetype":"venue",

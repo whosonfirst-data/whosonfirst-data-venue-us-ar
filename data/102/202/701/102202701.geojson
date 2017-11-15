@@ -2,14 +2,20 @@
   "id": "102202701",
   "type": "Feature",
   "properties": {
+    "addr:full":"217 W 2nd St Little Rock AR 72201",
+    "addr:housenumber":"217",
+    "addr:postcode":"72201",
+    "addr:street":"W 2Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.272163,34.747262,-92.272163,34.747262",
     "geom:latitude":34.747262,
     "geom:longitude":-92.272163,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"217 W 2nd St",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102082497,
         85878749
     ],
+    "wof:brand_id":1125157307,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_16iqAbWDYFk2BdKJq4wHnu_34.747262_-92.272163@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"31792fd931c08f85a321d61e19e949b6",
+    "wof:geomhash":"c59d2b1623e6f0ae28d8d3790a610129",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":"102202701",
-    "wof:lastmodified":1466320770,
+    "wof:lastmodified":1510695284,
     "wof:name":"Worldwide Express",
     "wof:parent_id":85878749,
     "wof:placetype":"venue",

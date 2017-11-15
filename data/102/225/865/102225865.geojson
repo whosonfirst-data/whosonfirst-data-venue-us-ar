@@ -2,14 +2,20 @@
   "id": "102225865",
   "type": "Feature",
   "properties": {
+    "addr:full":"6301 Park Plz Little Rock AR 72205",
+    "addr:housenumber":"6301",
+    "addr:postcode":"72205",
+    "addr:street":"Park Plz",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.34549,34.75454,-92.34549,34.75454",
     "geom:latitude":34.75454,
     "geom:longitude":-92.34549,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6301 Park Plz",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102082497,
         85838647
     ],
+    "wof:brand_id":1125154771,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ygEYNpAEpFRE1b0NWM6hV_34.754540_-92.345490@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"69ceb10fccb33b1d39605a92fe721f1b",
+    "wof:geomhash":"7ef17d3da36ea3ac445d450e7ff31859",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":"102225865",
-    "wof:lastmodified":1466321377,
+    "wof:lastmodified":1510699042,
     "wof:name":"Mastercuts",
     "wof:parent_id":85838647,
     "wof:placetype":"venue",

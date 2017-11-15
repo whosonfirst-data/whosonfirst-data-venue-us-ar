@@ -2,14 +2,20 @@
   "id": 102361669,
   "type": "Feature",
   "properties": {
+    "addr:full":"234 N Main St Salem AR 72576",
+    "addr:housenumber":"234",
+    "addr:postcode":"72576",
+    "addr:street":"N Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.822678,36.374434,-91.822678,36.374434",
     "geom:latitude":36.374434,
     "geom:longitude":-91.822678,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"234 N Main St",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         85688549,
         102082507
     ],
+    "wof:brand_id":1125157855,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6la6VDMvG9wkzKTmmTk45K_36.374434_-91.822678@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"d6605b2180c8eaba6457bdcf3622d351",
+    "wof:geomhash":"c5df3c131819c5a07464ed6e95dbcbda",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":102361669,
-    "wof:lastmodified":1466324301,
+    "wof:lastmodified":1510699742,
     "wof:name":"Hair Trends",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

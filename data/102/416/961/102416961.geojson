@@ -2,14 +2,20 @@
   "id": 102416961,
   "type": "Feature",
   "properties": {
+    "addr:full":"800 N Main St Brinkley AR 72021",
+    "addr:housenumber":"800",
+    "addr:postcode":"72021",
+    "addr:street":"N Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.194352,34.896864,-91.194352,34.896864",
     "geom:latitude":34.896864,
     "geom:longitude":-91.194352,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"800 N Main St",
     "sg:city":"Brinkley",
     "sg:classifiers":[
@@ -30,12 +36,13 @@
         85688549,
         102082531
     ],
+    "wof:brand_id":1125152025,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ZCzOPEZtgm6tbo3EZ05kk_34.896864_-91.194352@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"76f3d5d3cb3b8bfac1846b333cf90dac",
+    "wof:geomhash":"2bc31415b0c40d948b9c32dac61a514c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -46,7 +53,7 @@
         }
     ],
     "wof:id":102416961,
-    "wof:lastmodified":1466325404,
+    "wof:lastmodified":1510696809,
     "wof:name":"Bancorp South Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

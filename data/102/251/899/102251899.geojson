@@ -2,14 +2,20 @@
   "id": "102251899",
   "type": "Feature",
   "properties": {
+    "addr:full":"2512 Millbrook Rd Little Rock AR 72227",
+    "addr:housenumber":"2512",
+    "addr:postcode":"72227",
+    "addr:street":"Millbrook Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.382894,34.776043,-92.382894,34.776043",
     "geom:latitude":34.776043,
     "geom:longitude":-92.382894,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2512 Millbrook Rd",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -37,12 +43,13 @@
         102082497,
         85811953
     ],
+    "wof:brand_id":1125151223,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1E0sI36oh6Od3vvNxFbVS5_34.776043_-92.382894@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"f4dcaa43bc8c3f1d419b90736bf2c4a7",
+    "wof:geomhash":"1f4af132a6821c7890d87b7713a3c67b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":"102251899",
-    "wof:lastmodified":1466322002,
+    "wof:lastmodified":1510697269,
     "wof:name":"Indoff Inc",
     "wof:parent_id":85811953,
     "wof:placetype":"venue",

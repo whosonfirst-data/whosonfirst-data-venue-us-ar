@@ -2,14 +2,20 @@
   "id": 219844133,
   "type": "Feature",
   "properties": {
+    "addr:full":"4201 N Shiloh Dr Fayetteville AR 72703",
+    "addr:housenumber":"4201",
+    "addr:postcode":"72703",
+    "addr:street":"N Shiloh Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.145271,36.124828,-94.145271,36.124828",
     "geom:latitude":36.124828,
     "geom:longitude":-94.145271,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4201 N Shiloh Dr",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -47,12 +53,13 @@
         102082007,
         85885433
     ],
+    "wof:brand_id":1125151913,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3eMvDVQQmZpDdA3x8ACUOT_36.124828_-94.145271@1303262955"
     },
     "wof:country":"US",
-    "wof:geomhash":"8977ce630670788156fb64f03c526b0b",
+    "wof:geomhash":"dc20d8937c3d7ee6045ca1122ba65f67",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -65,7 +72,7 @@
         }
     ],
     "wof:id":219844133,
-    "wof:lastmodified":1466325018,
+    "wof:lastmodified":1510699396,
     "wof:name":"Steak Escape",
     "wof:parent_id":85885433,
     "wof:placetype":"venue",

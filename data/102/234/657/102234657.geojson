@@ -2,14 +2,20 @@
   "id": "102234657",
   "type": "Feature",
   "properties": {
+    "addr:full":"1420 S Caraway Rd Jonesboro AR 72401",
+    "addr:housenumber":"1420",
+    "addr:postcode":"72401",
+    "addr:street":"S Caraway Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.677622,35.828041,-90.677622,35.828041",
     "geom:latitude":35.828041,
     "geom:longitude":-90.677622,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1420 S Caraway Rd",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         85688549,
         102082033
     ],
+    "wof:brand_id":1125153215,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5w1y9hnsLy1zNaerb8hwmV_35.828041_-90.677622@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"9ac4d3c41f774573e13972c4ceb83c18",
+    "wof:geomhash":"c328eb7c1b5b2e999f64acf12acfd915",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":"102234657",
-    "wof:lastmodified":1466321553,
+    "wof:lastmodified":1510693767,
     "wof:name":"Diamond Nails",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

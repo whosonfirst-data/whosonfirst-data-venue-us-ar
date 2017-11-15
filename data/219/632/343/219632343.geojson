@@ -2,14 +2,20 @@
   "id": 219632343,
   "type": "Feature",
   "properties": {
+    "addr:full":"2707 Fair Park Blvd Jonesboro AR 72401",
+    "addr:housenumber":"2707",
+    "addr:postcode":"72401",
+    "addr:street":"Fair Park Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.673605,35.812318,-90.673605,35.812318",
     "geom:latitude":35.812318,
     "geom:longitude":-90.673605,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2707 Fair Park Blvd",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102082033,
         85836541
     ],
+    "wof:brand_id":1125152209,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3GcCYRqVcKLHsJ0QMMB3i5_35.812318_-90.673605@1303262953"
     },
     "wof:country":"US",
-    "wof:geomhash":"d5a729c812359d0ff76c0f8b69f55ba5",
+    "wof:geomhash":"64c09ab0867687bce218c3b6f5eccab8",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":219632343,
-    "wof:lastmodified":1466324628,
+    "wof:lastmodified":1510695060,
     "wof:name":"Hilton Garden Inn",
     "wof:parent_id":85836541,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": "102202069",
   "type": "Feature",
   "properties": {
+    "addr:full":"5309 Village Pkwy Rogers AR 72758",
+    "addr:housenumber":"5309",
+    "addr:postcode":"72758",
+    "addr:street":"Village Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.188179,36.317486,-94.188179,36.317486",
     "geom:latitude":36.317486,
     "geom:longitude":-94.188179,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5309 Village Pkwy",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102083255,
         85895857
     ],
+    "wof:brand_id":1125153661,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0TFhE3yoNrRSa8QxQt7un3_36.317486_-94.188179@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"814da3fa40b9484ddd1f92da624309ed",
+    "wof:geomhash":"66741297bf50d22cdb9639f313a48ade",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":"102202069",
-    "wof:lastmodified":1466320634,
+    "wof:lastmodified":1510697472,
     "wof:name":"Abbott Laboratories",
     "wof:parent_id":85895857,
     "wof:placetype":"venue",

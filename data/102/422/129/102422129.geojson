@@ -2,14 +2,20 @@
   "id": 102422129,
   "type": "Feature",
   "properties": {
+    "addr:full":"1300 S Chester St Little Rock AR 72202",
+    "addr:housenumber":"1300",
+    "addr:postcode":"72202",
+    "addr:street":"S Chester St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.283574,34.736806,-92.283574,34.736806",
     "geom:latitude":34.736806,
     "geom:longitude":-92.283574,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1300 S Chester St",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -36,12 +42,13 @@
         102082497,
         85878755
     ],
+    "wof:brand_id":1125152413,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0SejRQ9aTUR5R8dsbrHjV7_34.736806_-92.283574@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"a306797a099cbb48f3d03750d0579b8e",
+    "wof:geomhash":"124d3b5a579fc30de4967e33dbcb3768",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":102422129,
-    "wof:lastmodified":1466325349,
+    "wof:lastmodified":1510694883,
     "wof:name":"Loomis Fargo & Co",
     "wof:parent_id":85878755,
     "wof:placetype":"venue",

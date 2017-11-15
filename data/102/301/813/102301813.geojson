@@ -2,14 +2,20 @@
   "id": "102301813",
   "type": "Feature",
   "properties": {
+    "addr:full":"1604 S Main St Hope AR 71801",
+    "addr:housenumber":"1604",
+    "addr:postcode":"71801",
+    "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.587189,33.653766,-93.587189,33.653766",
     "geom:latitude":33.653766,
     "geom:longitude":-93.587189,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1604 S Main St",
     "sg:city":"Hope",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102083213,
         85806015
     ],
+    "wof:brand_id":1125156919,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0FNr3bBLInBIM35pnmsMKZ_33.653766_-93.587189@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"24e29701e3fe4ac65f0cc8c8f1d2df91",
+    "wof:geomhash":"9bfbac09c007198e9192adf10056ae47",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":"102301813",
-    "wof:lastmodified":1466323139,
+    "wof:lastmodified":1510698506,
     "wof:name":"Book Nook",
     "wof:parent_id":85806015,
     "wof:placetype":"venue",

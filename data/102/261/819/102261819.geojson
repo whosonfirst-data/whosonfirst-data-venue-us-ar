@@ -2,14 +2,20 @@
   "id": "102261819",
   "type": "Feature",
   "properties": {
+    "addr:full":"1010 E 3rd St Hope AR 71801",
+    "addr:housenumber":"1010",
+    "addr:postcode":"71801",
+    "addr:street":"E 3Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.580001,33.668336,-93.580001,33.668336",
     "geom:latitude":33.668336,
     "geom:longitude":-93.580001,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1010 E 3rd St",
     "sg:city":"Hope",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102083213,
         85806015
     ],
+    "wof:brand_id":1125152025,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_249ewFQlkPqfaY06kPGMBF_33.668336_-93.580001@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"52e7e0b4e90cf5d4acadb366454e1c45",
+    "wof:geomhash":"4055a9da34661ac82e43df28db7f5505",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":"102261819",
-    "wof:lastmodified":1466322221,
+    "wof:lastmodified":1510696809,
     "wof:name":"Bancorp South Bank",
     "wof:parent_id":85806015,
     "wof:placetype":"venue",

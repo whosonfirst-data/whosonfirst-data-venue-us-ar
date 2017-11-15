@@ -2,14 +2,20 @@
   "id": 102404383,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 E 8th Ave Pine Bluff AR 71601",
+    "addr:housenumber":"100",
+    "addr:postcode":"71601",
+    "addr:street":"E 8Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.002024,34.221649,-92.002024,34.221649",
     "geom:latitude":34.221649,
     "geom:longitude":-92.002024,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"100 E 8th Ave",
     "sg:city":"Pine Bluff",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         85688549,
         102083243
     ],
+    "wof:brand_id":1125153145,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6eQMDSq2OWDpwYiQsIAWCA_34.221649_-92.002024@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"f170edf8d2837861c0f85aa1893e47be",
+    "wof:geomhash":"d644910b49713849f99071bab3458d36",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":102404383,
-    "wof:lastmodified":1466324902,
+    "wof:lastmodified":1510613261,
     "wof:name":"FBI",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

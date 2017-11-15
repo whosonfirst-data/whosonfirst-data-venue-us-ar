@@ -2,14 +2,20 @@
   "id": "102292105",
   "type": "Feature",
   "properties": {
+    "addr:full":"121 Main St SW Gravette AR 72736",
+    "addr:housenumber":"121",
+    "addr:postcode":"72736",
+    "addr:street":"Main St Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.453513,36.422237,-94.453513,36.422237",
     "geom:latitude":36.422237,
     "geom:longitude":-94.453513,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"121 Main St SW",
     "sg:city":"Gravette",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         85688549,
         102083255
     ],
+    "wof:brand_id":1125150029,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1CsRhIpXpPUyrOHjvX2Frb_36.422237_-94.453513@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"ab7fb00cc40b5ab9c349c3e00442438e",
+    "wof:geomhash":"2d907736ba9a0d9c0bc13431a6a9acac",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":"102292105",
-    "wof:lastmodified":1466322798,
+    "wof:lastmodified":1510695391,
     "wof:name":"Simple Simon's Pizza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

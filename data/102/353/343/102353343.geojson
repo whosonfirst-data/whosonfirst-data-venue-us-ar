@@ -2,14 +2,20 @@
   "id": 102353343,
   "type": "Feature",
   "properties": {
+    "addr:full":"18019 I- 30 Benton AR 72015",
+    "addr:housenumber":"18019;30",
+    "addr:postcode":"72015",
+    "addr:street":"I",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.567604,34.587451,-92.567604,34.587451",
     "geom:latitude":34.587451,
     "geom:longitude":-92.567604,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"18019 I- 30",
     "sg:city":"Benton",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         85688549,
         102083257
     ],
+    "wof:brand_id":1125158387,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0XUn5PUvteGzRkOt4WGzym_34.587451_-92.567604@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"7e809522bc9ffb647c24413547689205",
+    "wof:geomhash":"10c50895682374376a166346356682a6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":102353343,
-    "wof:lastmodified":1466324072,
+    "wof:lastmodified":1510699778,
     "wof:name":"Quality Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

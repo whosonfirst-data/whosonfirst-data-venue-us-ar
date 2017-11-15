@@ -2,14 +2,20 @@
   "id": 102372551,
   "type": "Feature",
   "properties": {
+    "addr:full":"23650 I- 30 Bryant AR 72022",
+    "addr:housenumber":"23650;30",
+    "addr:postcode":"72022",
+    "addr:street":"I",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.489999,34.623141,-92.489999,34.623141",
     "geom:latitude":34.623141,
     "geom:longitude":-92.489999,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"23650 I- 30",
     "sg:city":"Bryant",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102083257,
         85817531
     ],
+    "wof:brand_id":1125152473,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4mk1JdkROUzNQSPZuTuLMA_34.623141_-92.489999@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"d2ed46f24bc792363048ad88ae3dbbac",
+    "wof:geomhash":"b484c090de1469079adc9743ab1e5a2c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":102372551,
-    "wof:lastmodified":1466320525,
+    "wof:lastmodified":1510696663,
     "wof:name":"Finders Keepers",
     "wof:parent_id":85817531,
     "wof:placetype":"venue",

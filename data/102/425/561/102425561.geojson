@@ -2,14 +2,20 @@
   "id": 102425561,
   "type": "Feature",
   "properties": {
+    "addr:full":"772 Millsap Rd Fayetteville AR 72703",
+    "addr:housenumber":"772",
+    "addr:postcode":"72703",
+    "addr:street":"Millsap Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.145903,36.11476,-94.145903,36.11476",
     "geom:latitude":36.11476,
     "geom:longitude":-94.145903,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"772 Millsap Rd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102082007,
         85885433
     ],
+    "wof:brand_id":1125151975,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6cSX0EEiJFGZoE1OOLrcMf_36.114760_-94.145903@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"62c0381c3652ae67b40436f49bdc202d",
+    "wof:geomhash":"43f16e5129995707040101dc7ed25bac",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":102425561,
-    "wof:lastmodified":1466325435,
+    "wof:lastmodified":1510695909,
     "wof:name":"Chilis",
     "wof:parent_id":85885433,
     "wof:placetype":"venue",

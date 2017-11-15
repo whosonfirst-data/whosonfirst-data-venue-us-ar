@@ -2,14 +2,20 @@
   "id": "102228643",
   "type": "Feature",
   "properties": {
+    "addr:full":"3855 N Mall Ave Fayetteville AR 72703",
+    "addr:housenumber":"3855",
+    "addr:postcode":"72703",
+    "addr:street":"N Mall Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.149902,36.122578,-94.149902,36.122578",
     "geom:latitude":36.122578,
     "geom:longitude":-94.149902,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3855 N Mall Ave",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -36,12 +42,13 @@
         102082007,
         85885433
     ],
+    "wof:brand_id":1125150081,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4hMVKCvDwGZy1WVslOJT0v_36.122578_-94.149902@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"3950f36b04b6a193a9d2563f2a22ad7e",
+    "wof:geomhash":"d5da6cbe666534214f0db1e65723a5b3",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":"102228643",
-    "wof:lastmodified":1466321388,
+    "wof:lastmodified":1510696026,
     "wof:name":"David's Bridal",
     "wof:parent_id":85885433,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": "102211289",
   "type": "Feature",
   "properties": {
+    "addr:full":"324 E Ralston St Farmington AR 72730",
+    "addr:housenumber":"324",
+    "addr:postcode":"72730",
+    "addr:street":"E Ralston St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.225107,36.04255,-94.225107,36.04255",
     "geom:latitude":36.04255,
     "geom:longitude":-94.225107,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"324 E Ralston St",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102082007,
         85885421
     ],
+    "wof:brand_id":1125151739,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Cs43xbf18AnbTtSRFfP0Q_36.042550_-94.225107@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"2da0a28af608fc6ad4d9728335c35730",
+    "wof:geomhash":"3d36348c7293b4f80d6f9bfaa070a28a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":"102211289",
-    "wof:lastmodified":1466320908,
+    "wof:lastmodified":1510698809,
     "wof:name":"Lutheran Brotherhood Insurance",
     "wof:parent_id":85885421,
     "wof:placetype":"venue",

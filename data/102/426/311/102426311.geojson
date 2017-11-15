@@ -2,14 +2,20 @@
   "id": 102426311,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 E Main St Russellville AR 72801",
+    "addr:housenumber":"101",
+    "addr:postcode":"72801",
+    "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.133718,35.278137,-93.133718,35.278137",
     "geom:latitude":35.278137,
     "geom:longitude":-93.133718,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"101 E Main St",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102082511,
         85837141
     ],
+    "wof:brand_id":1125152023,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0YvsfWDafa9v6dtbTR9kp5_35.278137_-93.133718@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"4858b0d0a7cd05c930ff8f76eb45d4fc",
+    "wof:geomhash":"0dd3627c02fd4eee7e6a5f847da4ac60",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":102426311,
-    "wof:lastmodified":1466325461,
+    "wof:lastmodified":1510696811,
     "wof:name":"Anico",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",

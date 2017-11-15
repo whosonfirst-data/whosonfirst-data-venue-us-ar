@@ -2,14 +2,20 @@
   "id": 102376225,
   "type": "Feature",
   "properties": {
+    "addr:full":"701 E Main St Russellville AR 72801",
+    "addr:housenumber":"701",
+    "addr:postcode":"72801",
+    "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.125609,35.278482,-93.125609,35.278482",
     "geom:latitude":35.278482,
     "geom:longitude":-93.125609,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"701 E Main St",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102082511,
         85837141
     ],
+    "wof:brand_id":1125150657,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2NXbu8UzaMdEsPULCFTp1e_35.278482_-93.125609@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"1e1afceb66732840fe2335058ce5b2cf",
+    "wof:geomhash":"80b6d0f502296895ff68b5939e12af69",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":102376225,
-    "wof:lastmodified":1466321315,
+    "wof:lastmodified":1510695187,
     "wof:name":"American General Life Ins Co",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",

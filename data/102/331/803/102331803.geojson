@@ -2,14 +2,20 @@
   "id": 102331803,
   "type": "Feature",
   "properties": {
+    "addr:full":"1400 S Ringo St Little Rock AR 72202",
+    "addr:housenumber":"1400",
+    "addr:postcode":"72202",
+    "addr:street":"S Ringo St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.28495,34.73598,-92.28495,34.73598",
     "geom:latitude":34.73598,
     "geom:longitude":-92.28495,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1400 S Ringo St",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102082497,
         85878755
     ],
+    "wof:brand_id":1125159619,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7LNaB373CL8i6D8tlDUfs2_34.735980_-92.284950@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"899a7e8d11829c6942d9891f672884ae",
+    "wof:geomhash":"f0ed358581efdc214e5a05e58aeaf51f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":102331803,
-    "wof:lastmodified":1466323716,
+    "wof:lastmodified":1510695302,
     "wof:name":"Mount Pleasant Baptist Church",
     "wof:parent_id":85878755,
     "wof:placetype":"venue",

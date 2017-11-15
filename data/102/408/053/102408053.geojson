@@ -2,14 +2,20 @@
   "id": 102408053,
   "type": "Feature",
   "properties": {
+    "addr:full":"311 Airport Rd Monticello AR 71655",
+    "addr:housenumber":"311",
+    "addr:postcode":"71655",
+    "addr:street":"Airport Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.757939,33.634794,-91.757939,33.634794",
     "geom:latitude":33.634794,
     "geom:longitude":-91.757939,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"311 Airport Rd",
     "sg:city":"Monticello",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         85688549,
         102083221
     ],
+    "wof:brand_id":1125154735,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1cwDonwCM5NGNZ1M1VHWbG_33.634794_-91.757939@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"45640407ee8c0c8b0e6993893b124de1",
+    "wof:geomhash":"ed7a381232eb6a3c13cef05eaa191622",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":102408053,
-    "wof:lastmodified":1466325175,
+    "wof:lastmodified":1510695210,
     "wof:name":"Fedex Freight East Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 102328861,
   "type": "Feature",
   "properties": {
+    "addr:full":"2008 Percy Machin Dr N Little Rock AR 72114",
+    "addr:housenumber":"2008",
+    "addr:postcode":"72114",
+    "addr:street":"Percy Machin Dr N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.272852,34.774827,-92.272852,34.774827",
     "geom:latitude":34.774827,
     "geom:longitude":-92.272852,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2008 Percy Machin Dr",
     "sg:city":"N Little Rock",
     "sg:classifiers":[
@@ -39,12 +45,13 @@
         102082497,
         85837877
     ],
+    "wof:brand_id":1125158311,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6lEjk9HyfDJ3edRYe1nbK2_34.774827_-92.272852@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"20bc3c924bd86487f29c2993cc3f9347",
+    "wof:geomhash":"c8debf0b0f316729d9272f5472c94b12",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":102328861,
-    "wof:lastmodified":1466323698,
+    "wof:lastmodified":1510693214,
     "wof:name":"Head Quarters",
     "wof:parent_id":85837877,
     "wof:placetype":"venue",

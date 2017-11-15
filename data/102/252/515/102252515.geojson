@@ -2,14 +2,20 @@
   "id": "102252515",
   "type": "Feature",
   "properties": {
+    "addr:full":"4101 Camp Robinson Rd N Little Rock AR 72118",
+    "addr:housenumber":"4101",
+    "addr:postcode":"72118",
+    "addr:street":"Camp Robinson Rd N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.272881,34.793195,-92.272881,34.793195",
     "geom:latitude":34.793195,
     "geom:longitude":-92.272881,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4101 Camp Robinson Rd",
     "sg:city":"N Little Rock",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102082497,
         85840541
     ],
+    "wof:brand_id":1125151753,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6dwcOVAtq7KHKZgtD6XfuF_34.793195_-92.272881@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"9275f9c5d9b7028f483c77ea225060bc",
+    "wof:geomhash":"811b399fbeb9aa5cf5654f45b9482a77",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":"102252515",
-    "wof:lastmodified":1466321941,
+    "wof:lastmodified":1510697321,
     "wof:name":"Aaron's Rental Purchase",
     "wof:parent_id":85840541,
     "wof:placetype":"venue",

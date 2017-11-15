@@ -2,14 +2,20 @@
   "id": "102212985",
   "type": "Feature",
   "properties": {
+    "addr:full":"4702 John F Kennedy Blvd N Little Rock AR 72116",
+    "addr:housenumber":"4702",
+    "addr:postcode":"72116",
+    "addr:street":"John F Kennedy Blvd N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.256505,34.795596,-92.256505,34.795596",
     "geom:latitude":34.795596,
     "geom:longitude":-92.256505,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4702 John F Kennedy Blvd",
     "sg:city":"N Little Rock",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102082497,
         85851793
     ],
+    "wof:brand_id":1125151651,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6gCbl8yegdFOQ9oh8Qqsh9_34.795596_-92.256505@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"94b85298da25591fd7ee5d427a7505bb",
+    "wof:geomhash":"68e68664e8cb866bef84f9b9ee7fcc6f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":"102212985",
-    "wof:lastmodified":1466321095,
+    "wof:lastmodified":1510695900,
     "wof:name":"KWIK KOPY Printing",
     "wof:parent_id":85851793,
     "wof:placetype":"venue",

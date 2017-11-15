@@ -2,14 +2,20 @@
   "id": "102290641",
   "type": "Feature",
   "properties": {
+    "addr:full":"4500 N West Ave El Dorado AR 71730",
+    "addr:housenumber":"4500",
+    "addr:postcode":"71730",
+    "addr:street":"N West Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.665167,33.266413,-92.665167,33.266413",
     "geom:latitude":33.266413,
     "geom:longitude":-92.665167,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4500 N West Ave",
     "sg:city":"El Dorado",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         85688549,
         102082501
     ],
+    "wof:brand_id":1125154587,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1aKtPPjRMr30b7iQByYQls_33.266413_-92.665167@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"c5194bfb4faba9d94ad49d7672468c86",
+    "wof:geomhash":"e16d6f819e99222ed96fe01d11d5d728",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":"102290641",
-    "wof:lastmodified":1466322860,
+    "wof:lastmodified":1510613339,
     "wof:name":"Air Liquide America Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

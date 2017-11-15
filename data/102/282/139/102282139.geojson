@@ -2,14 +2,20 @@
   "id": "102282139",
   "type": "Feature",
   "properties": {
+    "addr:full":"206 Canterbury Cir Russellville AR 72802",
+    "addr:housenumber":"206",
+    "addr:postcode":"72802",
+    "addr:street":"Canterbury Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.174292,35.297122,-93.174292,35.297122",
     "geom:latitude":35.297122,
     "geom:longitude":-93.174292,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"206 Canterbury Cir",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102082511,
         85837141
     ],
+    "wof:brand_id":1125157677,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3N2hDyAYiJB0w5rmytVIPx_35.297122_-93.174292@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"5b41b0147d9555c339a5c315762afa2e",
+    "wof:geomhash":"52696026ed2f38a0ee6dc1f22679caa9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":"102282139",
-    "wof:lastmodified":1466322591,
+    "wof:lastmodified":1510695835,
     "wof:name":"Mighty Auto Parts",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",

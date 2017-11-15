@@ -2,14 +2,20 @@
   "id": "102263773",
   "type": "Feature",
   "properties": {
+    "addr:full":"502 Morrison Ave Hot Springs AR 71901",
+    "addr:housenumber":"502",
+    "addr:postcode":"71901",
+    "addr:street":"Morrison Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.056605,34.495413,-93.056605,34.495413",
     "geom:latitude":34.495413,
     "geom:longitude":-93.056605,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"502 Morrison Ave",
     "sg:city":"Hot Springs",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         85688549,
         102082515
     ],
+    "wof:brand_id":1125158541,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6TIk423HvZgRugQWSBRBR6_34.495413_-93.056605@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"bcd3397b074d5c684641af280bc71c5f",
+    "wof:geomhash":"6a63a3ef8b6d35f6a6df2c766b769d6b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":"102263773",
-    "wof:lastmodified":1466322263,
+    "wof:lastmodified":1510699703,
     "wof:name":"Greek Orthodox Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

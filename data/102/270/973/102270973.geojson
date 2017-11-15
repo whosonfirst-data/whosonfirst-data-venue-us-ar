@@ -2,14 +2,20 @@
   "id": "102270973",
   "type": "Feature",
   "properties": {
+    "addr:full":"6901 Scott Hamilton Dr Little Rock AR 72209",
+    "addr:housenumber":"6901",
+    "addr:postcode":"72209",
+    "addr:street":"Scott Hamilton Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.319111,34.682964,-92.319111,34.682964",
     "geom:latitude":34.682964,
     "geom:longitude":-92.319111,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6901 Scott Hamilton Dr",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102082497,
         85803283
     ],
+    "wof:brand_id":1125152753,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4GIsK5p5blmdbRB8R4Nfz0_34.682964_-92.319111@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"486b02d8f75485bb6c30da4cf137b4a5",
+    "wof:geomhash":"25b6f84a8908ebea3144fe61dcf1e815",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":"102270973",
-    "wof:lastmodified":1466322481,
+    "wof:lastmodified":1510693927,
     "wof:name":"Xpedx",
     "wof:parent_id":85803283,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": "102292495",
   "type": "Feature",
   "properties": {
+    "addr:full":"501 Waterford Dr N Little Rock AR 72116",
+    "addr:housenumber":"501",
+    "addr:postcode":"72116",
+    "addr:street":"Waterford Dr N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.262084,34.819717,-92.262084,34.819717",
     "geom:latitude":34.819717,
     "geom:longitude":-92.262084,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"501 Waterford Dr",
     "sg:city":"N Little Rock",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102082497,
         85851793
     ],
+    "wof:brand_id":1125151001,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1qHxFxP40j3RA4xQ9LqkbA_34.819717_-92.262084@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"361e5c9a2870928f26960b27978251ed",
+    "wof:geomhash":"91118411b5959024fc80c43d5fa709e4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":"102292495",
-    "wof:lastmodified":1466322878,
+    "wof:lastmodified":1510695765,
     "wof:name":"Beauti Control Cosmetics Inc",
     "wof:parent_id":85851793,
     "wof:placetype":"venue",

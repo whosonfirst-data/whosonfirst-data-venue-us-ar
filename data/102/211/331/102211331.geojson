@@ -2,14 +2,20 @@
   "id": "102211331",
   "type": "Feature",
   "properties": {
+    "addr:full":"1816 State Hwy 113 Morrilton AR 72110",
+    "addr:housenumber":"1816",
+    "addr:postcode":"72110",
+    "addr:street":"State Hwy 113",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.757313,35.152692,-92.757313,35.152692",
     "geom:latitude":35.152692,
     "geom:longitude":-92.757313,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1816 State Hwy 113",
     "sg:city":"Morrilton",
     "sg:classifiers":[
@@ -36,12 +42,13 @@
         102083217,
         85850611
     ],
+    "wof:brand_id":1125153565,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3GI9AtjdJnhHdsVP9UQ7rm_35.152692_-92.757313@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"2944735b2074b48a23af76c45aab22e5",
+    "wof:geomhash":"27f783361d95788b60c8fb12e59ae057",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":"102211331",
-    "wof:lastmodified":1466320917,
+    "wof:lastmodified":1510693203,
     "wof:name":"Tyson Foods Inc",
     "wof:parent_id":85850611,
     "wof:placetype":"venue",

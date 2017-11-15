@@ -2,14 +2,20 @@
   "id": "102308651",
   "type": "Feature",
   "properties": {
+    "addr:full":"3912 Progress North Little Rock AR 72114",
+    "addr:housenumber":"3912",
+    "addr:postcode":"72114",
+    "addr:street":"Progress",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.224577,34.758359,-92.224577,34.758359",
     "geom:latitude":34.758359,
     "geom:longitude":-92.224577,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3912 Progress",
     "sg:city":"North Little Rock",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102082497,
         85845849
     ],
+    "wof:brand_id":1125150811,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3XXE8VjlfZXqzri51DCHtV_34.758359_-92.224577@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"c4da6cdf01657f69968ad07ffab99be5",
+    "wof:geomhash":"ec91b234cda63472d6a7579851a6ab9b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":"102308651",
-    "wof:lastmodified":1466323256,
+    "wof:lastmodified":1510694756,
     "wof:name":"Serendipity",
     "wof:parent_id":85845849,
     "wof:placetype":"venue",

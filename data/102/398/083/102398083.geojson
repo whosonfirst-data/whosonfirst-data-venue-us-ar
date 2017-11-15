@@ -2,14 +2,20 @@
   "id": 102398083,
   "type": "Feature",
   "properties": {
+    "addr:full":"102 Hamilton St Des Arc AR 72040",
+    "addr:housenumber":"102",
+    "addr:postcode":"72040",
+    "addr:street":"Hamilton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.517706,34.977249,-91.517706,34.977249",
     "geom:latitude":34.977249,
     "geom:longitude":-91.517706,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"102 Hamilton St",
     "sg:city":"Des Arc",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         85688549,
         102083209
     ],
+    "wof:brand_id":1125155687,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7eRnFbhFnHzj6AlPiIcQgf_34.977249_-91.517706@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"203eb47cc800e25896dc298868f2e5d5",
+    "wof:geomhash":"97e1e4ec68438d944846b84a1627cb33",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":102398083,
-    "wof:lastmodified":1466324665,
+    "wof:lastmodified":1510699658,
     "wof:name":"TLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

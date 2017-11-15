@@ -2,14 +2,20 @@
   "id": 102379587,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 N East St Benton AR 72015",
+    "addr:housenumber":"123",
+    "addr:postcode":"72015",
+    "addr:street":"N East St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.585661,34.564231,-92.585661,34.564231",
     "geom:latitude":34.564231,
     "geom:longitude":-92.585661,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"123 N East St",
     "sg:city":"Benton",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         85688549,
         102083257
     ],
+    "wof:brand_id":1125156095,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4aCRitkbOMZ5AIbaHo5GEl_34.564231_-92.585661@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"023e3d774f9def8e88c6f4cf8876414d",
+    "wof:geomhash":"11b911e7a114a995c66eed94bded504e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":102379587,
-    "wof:lastmodified":1466322004,
+    "wof:lastmodified":1510695093,
     "wof:name":"Independent Order Odd Fellows",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 840483815,
   "type": "Feature",
   "properties": {
+    "addr:full":"3611 N Shiloh Dr Fayetteville AR 72703",
+    "addr:housenumber":"3611",
+    "addr:postcode":"72703",
+    "addr:street":"N Shiloh Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.145333,36.123435,-94.145333,36.123435",
     "geom:latitude":36.123435,
     "geom:longitude":-94.145333,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3611 N Shiloh Dr",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102082007,
         85885433
     ],
+    "wof:brand_id":1125150011,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7aAadMTKO59sKhDeUrpISB_36.123435_-94.145333@1299784598"
     },
     "wof:country":"US",
     "wof:created":1463620951,
-    "wof:geomhash":"216db5bd6c9524e8aa06a6e62c023c02",
+    "wof:geomhash":"0c70b5835621457d8089a79214e0eb56",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":840483815,
-    "wof:lastmodified":1466322332,
+    "wof:lastmodified":1510696622,
     "wof:name":"Logan's Roadhouse",
     "wof:parent_id":85885433,
     "wof:placetype":"venue",

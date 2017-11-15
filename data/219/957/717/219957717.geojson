@@ -2,14 +2,20 @@
   "id": 219957717,
   "type": "Feature",
   "properties": {
+    "addr:full":"269 N 46th St Rogers AR 72756",
+    "addr:housenumber":"269",
+    "addr:postcode":"72756",
+    "addr:street":"N 46Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.179402,36.336995,-94.179402,36.336995",
     "geom:latitude":36.336995,
     "geom:longitude":-94.179402,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"269 N 46th St",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -37,12 +43,13 @@
         102083255,
         85895853
     ],
+    "wof:brand_id":1125155163,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0tTMsOOjGCrLaDwyYKx2zg_36.336995_-94.179402@1303262957"
     },
     "wof:country":"US",
-    "wof:geomhash":"5afa75c5573ece30a92a17c7a2adfcf6",
+    "wof:geomhash":"a339a3d5a941056e196b489341451531",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":219957717,
-    "wof:lastmodified":1466325129,
+    "wof:lastmodified":1510698905,
     "wof:name":"Maurices",
     "wof:parent_id":85895853,
     "wof:placetype":"venue",

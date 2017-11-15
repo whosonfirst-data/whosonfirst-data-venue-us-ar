@@ -2,14 +2,20 @@
   "id": "102284471",
   "type": "Feature",
   "properties": {
+    "addr:full":"3520 Barry Ave Fort Smith AR 72903",
+    "addr:housenumber":"3520",
+    "addr:postcode":"72903",
+    "addr:street":"Barry Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.393723,35.377534,-94.393723,35.377534",
     "geom:latitude":35.377534,
     "geom:longitude":-94.393723,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3520 Barry Ave",
     "sg:city":"Fort Smith",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         85688549,
         102082025
     ],
+    "wof:brand_id":1125157677,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0tCitxfq8dpGhqVrGclA56_35.377534_-94.393723@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"650a6ce99ad03794ead20aeb48117f2c",
+    "wof:geomhash":"cd36b132ef20cf7313efdce46e8081fd",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":"102284471",
-    "wof:lastmodified":1466322716,
+    "wof:lastmodified":1510695834,
     "wof:name":"Mighty Auto Parts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

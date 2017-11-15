@@ -2,14 +2,20 @@
   "id": "102212581",
   "type": "Feature",
   "properties": {
+    "addr:full":"2134 Robinson Ave Conway AR 72034",
+    "addr:housenumber":"2134",
+    "addr:postcode":"72034",
+    "addr:street":"Robinson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.455144,35.088446,-92.455144,35.088446",
     "geom:latitude":35.088446,
     "geom:longitude":-92.455144,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2134 Robinson Ave",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -30,12 +36,13 @@
         85688549,
         102083241
     ],
+    "wof:brand_id":1125158335,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0V2PSMU6tL6JDr2C6Hmmu5_35.088446_-92.455144@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"f957ccbf8b37ad9f37377572f4c88c2d",
+    "wof:geomhash":"cce778b53b82755c74f9a12ad7140e9b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -46,7 +53,7 @@
         }
     ],
     "wof:id":"102212581",
-    "wof:lastmodified":1466321006,
+    "wof:lastmodified":1510694169,
     "wof:name":"Lifeline",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

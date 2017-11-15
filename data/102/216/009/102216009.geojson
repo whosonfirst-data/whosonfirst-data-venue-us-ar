@@ -2,14 +2,20 @@
   "id": "102216009",
   "type": "Feature",
   "properties": {
+    "addr:full":"600 S School Ave Fayetteville AR 72701",
+    "addr:housenumber":"600",
+    "addr:postcode":"72701",
+    "addr:street":"S School Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.164613,36.054007,-94.164613,36.054007",
     "geom:latitude":36.054007,
     "geom:longitude":-94.164613,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"600 S School Ave",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102082007,
         85885441
     ],
+    "wof:brand_id":1125154549,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1avm9oMEV6Pm1AndlU4pJc_36.054007_-94.164613@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"0cceadbb8eddc9a5175a6426e0344b6d",
+    "wof:geomhash":"cc541c8578fed35679ecb27641706a85",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":"102216009",
-    "wof:lastmodified":1466320983,
+    "wof:lastmodified":1510699047,
     "wof:name":"OReilly Auto Parts",
     "wof:parent_id":85885441,
     "wof:placetype":"venue",

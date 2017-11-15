@@ -2,14 +2,20 @@
   "id": 102421141,
   "type": "Feature",
   "properties": {
+    "addr:full":"10620 Colonel Glenn Rd Little Rock AR 72204",
+    "addr:housenumber":"10620",
+    "addr:postcode":"72204",
+    "addr:street":"Colonel Glenn Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.398012,34.71271,-92.398012,34.71271",
     "geom:latitude":34.71271,
     "geom:longitude":-92.398012,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10620 Colonel Glenn Rd",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -37,12 +43,13 @@
         102082497,
         85851771
     ],
+    "wof:brand_id":1125154959,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Al97YG1ikxephEpvHWjtQ_34.712710_-92.398012@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"fc39ac7e4e3e94383c989be0f3bed7d5",
+    "wof:geomhash":"3b3b6ff14395ab45edf1e1742df028dd",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":102421141,
-    "wof:lastmodified":1466325351,
+    "wof:lastmodified":1510696059,
     "wof:name":"ADT Security Svc",
     "wof:parent_id":85851771,
     "wof:placetype":"venue",

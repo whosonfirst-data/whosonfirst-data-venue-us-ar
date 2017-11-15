@@ -2,14 +2,20 @@
   "id": 102329353,
   "type": "Feature",
   "properties": {
+    "addr:full":"1224 W Huntsville Ave Springdale AR 72764",
+    "addr:housenumber":"1224",
+    "addr:postcode":"72764",
+    "addr:street":"W Huntsville Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.143929,36.188761,-94.143929,36.188761",
     "geom:latitude":36.188761,
     "geom:longitude":-94.143929,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1224 W Huntsville Ave",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102082007,
         85885485
     ],
+    "wof:brand_id":1125155243,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3hRhbhGOgIPzxkty7JhoVy_36.188761_-94.143929@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"20d8227cc0c716108b1d5dc4aff7f31a",
+    "wof:geomhash":"f812a29a6ec7f5602a1aadeb727a79bb",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":102329353,
-    "wof:lastmodified":1466323608,
+    "wof:lastmodified":1510711035,
     "wof:name":"Creative Interiors",
     "wof:parent_id":85885485,
     "wof:placetype":"venue",

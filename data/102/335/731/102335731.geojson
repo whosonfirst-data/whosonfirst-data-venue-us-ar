@@ -2,14 +2,20 @@
   "id": 102335731,
   "type": "Feature",
   "properties": {
+    "addr:full":"32 Westchester Ct Little Rock AR 72223",
+    "addr:housenumber":"32",
+    "addr:postcode":"72223",
+    "addr:street":"Westchester Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.440869,34.798723,-92.440869,34.798723",
     "geom:latitude":34.798723,
     "geom:longitude":-92.440869,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"32 Westchester Ct",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -40,12 +46,13 @@
         85809209,
         102082497
     ],
+    "wof:brand_id":1125151001,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1GTL1vggzXKUyrBTgUOlIL_34.798723_-92.440869@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"eab388f07f96b191572db44a45fb8ba0",
+    "wof:geomhash":"81cca6573b9129684ac7925fb4441121",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":102335731,
-    "wof:lastmodified":1466323809,
+    "wof:lastmodified":1510695765,
     "wof:name":"Beauti Control Cosmetics Inc",
     "wof:parent_id":85809209,
     "wof:placetype":"venue",

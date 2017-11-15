@@ -2,14 +2,20 @@
   "id": 102421155,
   "type": "Feature",
   "properties": {
+    "addr:full":"4215 Planters Rd Fort Smith AR 72908",
+    "addr:housenumber":"4215",
+    "addr:postcode":"72908",
+    "addr:street":"Planters Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.389259,35.305558,-94.389259,35.305558",
     "geom:latitude":35.305558,
     "geom:longitude":-94.389259,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4215 Planters Rd",
     "sg:city":"Fort Smith",
     "sg:classifiers":[
@@ -37,12 +43,13 @@
         102082025,
         85808359
     ],
+    "wof:brand_id":1125153653,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3UJjNaVzsIju8REB7lhrW9_35.305558_-94.389259@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"5bbf9041e6936a28cfdc943001aca940",
+    "wof:geomhash":"8736def5486f762bfce43cda542ebd6e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":102421155,
-    "wof:lastmodified":1466325353,
+    "wof:lastmodified":1510697209,
     "wof:name":"Weyerhaeuser Co",
     "wof:parent_id":85808359,
     "wof:placetype":"venue",

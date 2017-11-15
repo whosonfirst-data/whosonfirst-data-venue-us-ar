@@ -2,14 +2,20 @@
   "id": 102364719,
   "type": "Feature",
   "properties": {
+    "addr:full":"430 Helen St West Helena AR 72390",
+    "addr:housenumber":"430",
+    "addr:postcode":"72390",
+    "addr:street":"Helen St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.645097,34.551252,-90.645097,34.551252",
     "geom:latitude":34.551252,
     "geom:longitude":-90.645097,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"430 Helen St",
     "sg:city":"West Helena",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102082001,
         85834075
     ],
+    "wof:brand_id":1125155811,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2g9DtS2BG0fuawLAyxdWKv_34.551252_-90.645097@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"5e6c1a5e0c07cd20efd44971ea011f8a",
+    "wof:geomhash":"38c55d3f367b69fc0357931f63bb87f6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":102364719,
-    "wof:lastmodified":1466324398,
+    "wof:lastmodified":1510695385,
     "wof:name":"National Assoc of Retired",
     "wof:parent_id":85834075,
     "wof:placetype":"venue",

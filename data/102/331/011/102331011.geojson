@@ -2,14 +2,20 @@
   "id": 102331011,
   "type": "Feature",
   "properties": {
+    "addr:full":"1604 Merrill Dr Little Rock AR 72211",
+    "addr:housenumber":"1604",
+    "addr:postcode":"72211",
+    "addr:street":"Merrill Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.398939,34.767564,-92.398939,34.767564",
     "geom:latitude":34.767564,
     "geom:longitude":-92.398939,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1604 Merrill Dr",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102082497,
         85843659
     ],
+    "wof:brand_id":1125156549,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4YJoNe2OFQJnf59qU6fXXw_34.767564_-92.398939@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"782468369cdeaf55bfd9c3ba5024eed8",
+    "wof:geomhash":"174e9011b57ab39f336fdb6a5b5cac08",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":102331011,
-    "wof:lastmodified":1466323552,
+    "wof:lastmodified":1510700006,
     "wof:name":"Cystic Fibrosis Foundation",
     "wof:parent_id":85843659,
     "wof:placetype":"venue",

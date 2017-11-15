@@ -2,14 +2,20 @@
   "id": 102315169,
   "type": "Feature",
   "properties": {
+    "addr:full":"4505 John F Kennedy Blvd N Little Rock AR 72116",
+    "addr:housenumber":"4505",
+    "addr:postcode":"72116",
+    "addr:street":"John F Kennedy Blvd N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.255936,34.797202,-92.255936,34.797202",
     "geom:latitude":34.797202,
     "geom:longitude":-92.255936,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4505 John F Kennedy Blvd",
     "sg:city":"N Little Rock",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102082497,
         85851793
     ],
+    "wof:brand_id":1125151591,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1WTeF2Wp22EhbJPOGQvCfo_34.797202_-92.255936@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"51b9735f6a0524d5e04ac69ccdbf91c2",
+    "wof:geomhash":"32a493982c926a0b44e0a053aa8a170c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":102315169,
-    "wof:lastmodified":1466323319,
+    "wof:lastmodified":1510693873,
     "wof:name":"First Horizon Home Loan Corp",
     "wof:parent_id":85851793,
     "wof:placetype":"venue",

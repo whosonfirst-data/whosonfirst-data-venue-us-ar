@@ -2,14 +2,20 @@
   "id": "102234013",
   "type": "Feature",
   "properties": {
+    "addr:full":"7600 Warden Rd North Little Rock AR 72120",
+    "addr:housenumber":"7600",
+    "addr:postcode":"72120",
+    "addr:street":"Warden Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.197038,34.821107,-92.197038,34.821107",
     "geom:latitude":34.821107,
     "geom:longitude":-92.197038,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7600 Warden Rd",
     "sg:city":"North Little Rock",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102082497,
         85837729
     ],
+    "wof:brand_id":1125157427,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_381NsnknWXZbDyqs6pepEj_34.821107_-92.197038@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"0ab75463aad94f7a8e4bd841106e2286",
+    "wof:geomhash":"bc2af2ffca83be2b53e23adee9dcf0a2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":"102234013",
-    "wof:lastmodified":1466321422,
+    "wof:lastmodified":1510699718,
     "wof:name":"Kohls Department Stores Inc",
     "wof:parent_id":85837729,
     "wof:placetype":"venue",

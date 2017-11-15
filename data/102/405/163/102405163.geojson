@@ -2,14 +2,20 @@
   "id": 102405163,
   "type": "Feature",
   "properties": {
+    "addr:full":"1424 N Shackleford Rd Little Rock AR 72211",
+    "addr:housenumber":"1424",
+    "addr:postcode":"72211",
+    "addr:street":"N Shackleford Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.395974,34.766007,-92.395974,34.766007",
     "geom:latitude":34.766007,
     "geom:longitude":-92.395974,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1424 N Shackleford Rd",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -37,12 +43,13 @@
         102082497,
         85843659
     ],
+    "wof:brand_id":1125153371,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Dk1uckkHFafoq62qjL1MS_34.766007_-92.395974@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"a6d3d22c2103a29ead3362abf87e940c",
+    "wof:geomhash":"526e2b45cb488f11b71af4eb129734b6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":102405163,
-    "wof:lastmodified":1466325017,
+    "wof:lastmodified":1510699525,
     "wof:name":"Crown Trophy",
     "wof:parent_id":85843659,
     "wof:placetype":"venue",

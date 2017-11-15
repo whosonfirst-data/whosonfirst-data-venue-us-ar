@@ -2,14 +2,20 @@
   "id": "102287159",
   "type": "Feature",
   "properties": {
+    "addr:full":"2401 Dr Martin Luther King Dr Little Rock AR 72206",
+    "addr:housenumber":"2401",
+    "addr:postcode":"72206",
+    "addr:street":"Dr Martin Luther King Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.289605,34.725313,-92.289605,34.725313",
     "geom:latitude":34.725313,
     "geom:longitude":-92.289605,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2401 Dr Martin Luther King Dr",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102082497,
         85878755
     ],
+    "wof:brand_id":1125157001,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1WPijjUXbyfRfo0q7RsSpm_34.725313_-92.289605@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"e23e443204df15c88131db1e98e904f5",
+    "wof:geomhash":"91ab2fe9c0e5050511f8122f73acdf9b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":"102287159",
-    "wof:lastmodified":1466322716,
+    "wof:lastmodified":1510695071,
     "wof:name":"Larry's Barber Shop",
     "wof:parent_id":85878755,
     "wof:placetype":"venue",

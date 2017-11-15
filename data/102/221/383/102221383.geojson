@@ -2,14 +2,20 @@
   "id": "102221383",
   "type": "Feature",
   "properties": {
+    "addr:full":"215 W H St Russellville AR 72801",
+    "addr:housenumber":"215",
+    "addr:postcode":"72801",
+    "addr:street":"W H St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.136161,35.285638,-93.136161,35.285638",
     "geom:latitude":35.285638,
     "geom:longitude":-93.136161,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"215 W H St",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102082511,
         85837141
     ],
+    "wof:brand_id":1125158885,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4SNjDxtjvoET1qoh7wFrQI_35.285638_-93.136161@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"7ff0b5bbb1ce9f796a3cd955999d6879",
+    "wof:geomhash":"4afc17f4ebc220a7ca8aa6f847653598",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":"102221383",
-    "wof:lastmodified":1466321180,
+    "wof:lastmodified":1510693227,
     "wof:name":"US Army National Guard Recruit",
     "wof:parent_id":85837141,
     "wof:placetype":"venue",

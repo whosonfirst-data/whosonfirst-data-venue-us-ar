@@ -2,14 +2,20 @@
   "id": "102294745",
   "type": "Feature",
   "properties": {
+    "addr:full":"1226 N Garland Ave Fayetteville AR 72703",
+    "addr:housenumber":"1226",
+    "addr:postcode":"72703",
+    "addr:street":"N Garland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.175209,36.078802,-94.175209,36.078802",
     "geom:latitude":36.078802,
     "geom:longitude":-94.175209,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1226 N Garland Ave",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -42,12 +48,13 @@
         102082007,
         85885453
     ],
+    "wof:brand_id":1125151649,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Jhg5zjI14bx2lRaeLt3iu_36.078802_-94.175209@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"b6cb746d9dbaa70611247e1364fdd266",
+    "wof:geomhash":"fafdf4fd458a18fbacb9685202281da6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":"102294745",
-    "wof:lastmodified":1466322988,
+    "wof:lastmodified":1510695202,
     "wof:name":"Johnson Controls Inc",
     "wof:parent_id":85885453,
     "wof:placetype":"venue",

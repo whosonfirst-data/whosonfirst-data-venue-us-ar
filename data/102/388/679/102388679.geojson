@@ -2,14 +2,20 @@
   "id": 102388679,
   "type": "Feature",
   "properties": {
+    "addr:full":"1205 Pine St Crossett AR 71635",
+    "addr:housenumber":"1205",
+    "addr:postcode":"71635",
+    "addr:street":"Pine St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.959571,33.11986,-91.959571,33.11986",
     "geom:latitude":33.11986,
     "geom:longitude":-91.959571,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1205 Pine St",
     "sg:city":"Crossett",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         85688549,
         102083885
     ],
+    "wof:brand_id":1125151969,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2kJsVL0EEa5H7w5OoSJ7vY_33.119860_-91.959571@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"4297f49fe32900c6c90ec8177eb88bc0",
+    "wof:geomhash":"864deb11eac449ac424f8a4d1bd6819c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":102388679,
-    "wof:lastmodified":1466323878,
+    "wof:lastmodified":1510613289,
     "wof:name":"American Bowling Congress",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

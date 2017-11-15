@@ -2,14 +2,20 @@
   "id": 220014185,
   "type": "Feature",
   "properties": {
+    "addr:full":"2500 W Sunset Ave Springdale AR 72762",
+    "addr:housenumber":"2500",
+    "addr:postcode":"72762",
+    "addr:street":"W Sunset Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.157341,36.174881,-94.157341,36.174881",
     "geom:latitude":36.174881,
     "geom:longitude":-94.157341,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2500 W Sunset Ave",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         85919623,
         102082007
     ],
+    "wof:brand_id":1125158291,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5PKCz4U4Xkv7GlkIHaTTdU_36.174881_-94.157341@1303262957"
     },
     "wof:country":"US",
-    "wof:geomhash":"92ec97455f87c4724c55e5b5c9f28b3a",
+    "wof:geomhash":"c70596c135b1c5b8d3c3133a74e7305f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":220014185,
-    "wof:lastmodified":1466320477,
+    "wof:lastmodified":1510695814,
     "wof:name":"First Security Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

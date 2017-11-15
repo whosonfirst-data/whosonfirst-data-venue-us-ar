@@ -2,14 +2,20 @@
   "id": "102202025",
   "type": "Feature",
   "properties": {
+    "addr:full":"2405 Tyler St Conway AR 72034",
+    "addr:housenumber":"2405",
+    "addr:postcode":"72034",
+    "addr:street":"Tyler St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.461802,35.103023,-92.461802,35.103023",
     "geom:latitude":35.103023,
     "geom:longitude":-92.461802,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2405 Tyler St",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         85688549,
         102083241
     ],
+    "wof:brand_id":1125157007,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6TLyBGA0rkWcSakXFokgus_35.103023_-92.461802@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"1cd515c549e58e8e1ee5e9d6019dc7df",
+    "wof:geomhash":"7922122855afba9661810955f1f23e80",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":"102202025",
-    "wof:lastmodified":1466320625,
+    "wof:lastmodified":1510695069,
     "wof:name":"Learning Tree",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

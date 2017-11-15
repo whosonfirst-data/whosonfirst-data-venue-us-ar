@@ -2,14 +2,20 @@
   "id": "102231871",
   "type": "Feature",
   "properties": {
+    "addr:full":"4101 Paper Mill Rd Pine Bluff AR 71601",
+    "addr:housenumber":"4101",
+    "addr:postcode":"71601",
+    "addr:street":"Paper Mill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.933839,34.224815,-91.933839,34.224815",
     "geom:latitude":34.224815,
     "geom:longitude":-91.933839,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4101 Paper Mill Rd",
     "sg:city":"Pine Bluff",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         85688549,
         102083243
     ],
+    "wof:brand_id":1125151059,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4AeGWrAVJRengmXoDZHtHu_34.224815_-91.933839@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"09a322a621753e5b73ef64aac43a7afc",
+    "wof:geomhash":"391a8f9a8ba8a7652518b00488bf426f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":"102231871",
-    "wof:lastmodified":1466321511,
+    "wof:lastmodified":1510613137,
     "wof:name":"Union Pacific Railroad Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

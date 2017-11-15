@@ -2,14 +2,20 @@
   "id": 840484999,
   "type": "Feature",
   "properties": {
+    "addr:full":"3516 North St Fort Smith AR 72904",
+    "addr:housenumber":"3516",
+    "addr:postcode":"72904",
+    "addr:street":"North St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.391691,35.413086,-94.391691,35.413086",
     "geom:latitude":35.413086,
     "geom:longitude":-94.391691,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3516 North St",
     "sg:city":"Fort Smith",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102082025,
         85849681
     ],
+    "wof:brand_id":1125157841,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5mkV6BEfUdpq6kzMhZC7Y3_35.413086_-94.391691@1299784598"
     },
     "wof:country":"US",
     "wof:created":1463620975,
-    "wof:geomhash":"da1a0bbfc4f9500b54e27c09329b03eb",
+    "wof:geomhash":"74a90bfd41b82e2ea57ce7cd8273bee8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":840484999,
-    "wof:lastmodified":1466322466,
+    "wof:lastmodified":1510699507,
     "wof:name":"El Rodeo",
     "wof:parent_id":85849681,
     "wof:placetype":"venue",

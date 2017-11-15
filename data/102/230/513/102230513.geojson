@@ -2,14 +2,20 @@
   "id": "102230513",
   "type": "Feature",
   "properties": {
+    "addr:full":"111 S Division Ave Mansfield AR 72944",
+    "addr:housenumber":"111",
+    "addr:postcode":"72944",
+    "addr:street":"S Division Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.251607,35.059564,-94.251607,35.059564",
     "geom:latitude":35.059564,
     "geom:longitude":-94.251607,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"111 S Division Ave",
     "sg:city":"Mansfield",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         85688549,
         102083233
     ],
+    "wof:brand_id":1125156157,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5etFSgGIQcV4r6KGfjFone_35.059564_-94.251607@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"4e1da07fbc912fe30e6f074abdf0c062",
+    "wof:geomhash":"8156f1fb1f534cc7c037ecbc635d84d3",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":"102230513",
-    "wof:lastmodified":1466321436,
+    "wof:lastmodified":1510696658,
     "wof:name":"United Methodist Parsonage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

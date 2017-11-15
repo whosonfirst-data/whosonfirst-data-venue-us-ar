@@ -2,14 +2,20 @@
   "id": "102309581",
   "type": "Feature",
   "properties": {
+    "addr:full":"522 Arkansas St Helena AR 72342",
+    "addr:housenumber":"522",
+    "addr:postcode":"72342",
+    "addr:street":"Arkansas St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.590035,34.521515,-90.590035,34.521515",
     "geom:latitude":34.521515,
     "geom:longitude":-90.590035,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"522 Arkansas St",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102082001,
         85838649
     ],
+    "wof:brand_id":1125159323,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2DqGHUXVGtp1CTSEWcHUHs_34.521515_-90.590035@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"291e9e0f1dbb7a45e55a2164ea9b3a47",
+    "wof:geomhash":"fb4ed777a81b0e22b07b9af51f544699",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":"102309581",
-    "wof:lastmodified":1466323249,
+    "wof:lastmodified":1510697462,
     "wof:name":"New Light Baptist Church",
     "wof:parent_id":85838649,
     "wof:placetype":"venue",

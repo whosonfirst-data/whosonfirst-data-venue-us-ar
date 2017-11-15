@@ -2,14 +2,20 @@
   "id": 219361965,
   "type": "Feature",
   "properties": {
+    "addr:full":"34 Bellamy St Cabot AR 72023",
+    "addr:housenumber":"34",
+    "addr:postcode":"72023",
+    "addr:street":"Bellamy St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.006026,34.970685,-92.006026,34.970685",
     "geom:latitude":34.970685,
     "geom:longitude":-92.006026,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"34 Bellamy St",
     "sg:city":"Cabot",
     "sg:classifiers":[
@@ -58,12 +64,13 @@
         102082027,
         85839277
     ],
+    "wof:brand_id":1125153275,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4sSB7rbVjITnYkmYEPBSXc_34.970685_-92.006026@1303262949"
     },
     "wof:country":"US",
-    "wof:geomhash":"561698965d39f2139af379374d3bd1dd",
+    "wof:geomhash":"1ba4224a47f705a1ae0f769d5c85a5f4",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -76,7 +83,7 @@
         }
     ],
     "wof:id":219361965,
-    "wof:lastmodified":1466322435,
+    "wof:lastmodified":1510698835,
     "wof:name":"Alltel Wireless",
     "wof:parent_id":85839277,
     "wof:placetype":"venue",

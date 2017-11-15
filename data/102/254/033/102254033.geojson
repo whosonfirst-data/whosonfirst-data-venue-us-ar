@@ -2,14 +2,20 @@
   "id": "102254033",
   "type": "Feature",
   "properties": {
+    "addr:full":"816 SW Raintree Ln Bentonville AR 72712",
+    "addr:housenumber":"816",
+    "addr:postcode":"72712",
+    "addr:street":"Sw Raintree Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.220757,36.360733,-94.220757,36.360733",
     "geom:latitude":36.360733,
     "geom:longitude":-94.220757,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"816 SW Raintree Ln",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -36,12 +42,13 @@
         102083255,
         85895819
     ],
+    "wof:brand_id":1125157201,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4GjkWZq4S4rNMoHX7JY8wY_36.360733_-94.220757@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"31d688eefdb554ddf0d3e7be52c09031",
+    "wof:geomhash":"ad2e87ef34ba15e137844b738e234165",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":"102254033",
-    "wof:lastmodified":1466321887,
+    "wof:lastmodified":1510697244,
     "wof:name":"Masco",
     "wof:parent_id":85895819,
     "wof:placetype":"venue",

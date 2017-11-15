@@ -2,14 +2,20 @@
   "id": 102318231,
   "type": "Feature",
   "properties": {
+    "addr:full":"212 N Martin St Warren AR 71671",
+    "addr:housenumber":"212",
+    "addr:postcode":"71671",
+    "addr:street":"N Martin St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.071867,33.617469,-92.071867,33.617469",
     "geom:latitude":33.617469,
     "geom:longitude":-92.071867,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"212 N Martin St",
     "sg:city":"Warren",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         85688549,
         102083261
     ],
+    "wof:brand_id":1125153043,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1uTBzHXmIHU1rxChvLWrnz_33.617469_-92.071867@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"5bf54b53675e0e81cd707eb6a4a5d675",
+    "wof:geomhash":"4a5cab447c9e37492e6941a1575afbd6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":102318231,
-    "wof:lastmodified":1466323365,
+    "wof:lastmodified":1510697674,
     "wof:name":"Mane Event",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

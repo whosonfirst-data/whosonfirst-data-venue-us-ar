@@ -2,14 +2,20 @@
   "id": "102232783",
   "type": "Feature",
   "properties": {
+    "addr:full":"600 W Capitol Ave Little Rock AR 72201",
+    "addr:housenumber":"600",
+    "addr:postcode":"72201",
+    "addr:street":"W Capitol Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.278278,34.745132,-92.278278,34.745132",
     "geom:latitude":34.745132,
     "geom:longitude":-92.278278,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"600 W Capitol Ave",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102082497,
         85878749
     ],
+    "wof:brand_id":1125156497,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2iCB57rlLr8QbvRlb1BejZ_34.745132_-92.278278@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"dcccc55a2af73bb9d3f9e5e2f087fe44",
+    "wof:geomhash":"aeeb915ccc221e3a33ef719b7510e9d0",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":"102232783",
-    "wof:lastmodified":1466321537,
+    "wof:lastmodified":1510693939,
     "wof:name":"US District Court Clerk",
     "wof:parent_id":85878749,
     "wof:placetype":"venue",

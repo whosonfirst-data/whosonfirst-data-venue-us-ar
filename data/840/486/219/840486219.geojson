@@ -2,14 +2,20 @@
   "id": 840486219,
   "type": "Feature",
   "properties": {
+    "addr:full":"2903 Phillips Dr Jonesboro AR 72401",
+    "addr:housenumber":"2903",
+    "addr:postcode":"72401",
+    "addr:street":"Phillips Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.671192,35.809315,-90.671192,35.809315",
     "geom:latitude":35.809315,
     "geom:longitude":-90.671192,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2903 Phillips Dr",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102082033,
         85836541
     ],
+    "wof:brand_id":420575727,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_747XdxQHVAzMbI2EdccoCt_35.809246_-90.670747@1293731398"
     },
     "wof:country":"US",
     "wof:created":1463621000,
-    "wof:geomhash":"e104e5edd9ee5a2a318f6b2e6f7f5c7f",
+    "wof:geomhash":"297af3b3cfe775bd966ab610ca4599c7",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840486219,
-    "wof:lastmodified":1466322575,
+    "wof:lastmodified":1510607690,
     "wof:name":"Pizza Inn",
     "wof:parent_id":85836541,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 219538775,
   "type": "Feature",
   "properties": {
+    "addr:full":"413 S Main St Sheridan AR 72150",
+    "addr:housenumber":"413",
+    "addr:postcode":"72150",
+    "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.400351,34.304223,-92.400351,34.304223",
     "geom:latitude":34.304223,
     "geom:longitude":-92.400351,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"413 S Main St",
     "sg:city":"Sheridan",
     "sg:classifiers":[
@@ -41,12 +47,13 @@
         85919873,
         102082021
     ],
+    "wof:brand_id":1125156085,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4d6lICnlcjfkpmlb4iOBVM_34.304223_-92.400351@1303262951"
     },
     "wof:country":"US",
-    "wof:geomhash":"3acdd9ff373bfdc3859251480e1ea3fc",
+    "wof:geomhash":"c3039cba36fb80f4acd3d4037e26d6f6",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":219538775,
-    "wof:lastmodified":1466324247,
+    "wof:lastmodified":1510699298,
     "wof:name":"Grace Fellowship Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
