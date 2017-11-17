@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.035986,33.428194,-94.035986,33.428194",
     "geom:latitude":33.428194,
     "geom:longitude":-94.035986,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"402 Pecan St",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
         "sg:id":"SG_4bXJgpzYG0VidKPwSfxqXy_33.428194_-94.035986@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"2b7a0d982fe0059624870c54a11294bc",
+    "wof:geomhash":"1a328a4ba33143f1537ed495b01c447f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,13 +57,15 @@
         }
     ],
     "wof:id":370504223,
-    "wof:lastmodified":1472598038,
+    "wof:lastmodified":1510943314,
     "wof:name":"Arkansas State Driver Ctrl Off",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        "102303899"
+    ],
     "wof:tags":[
         "transportation"
     ]

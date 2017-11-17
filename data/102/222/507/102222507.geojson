@@ -7,13 +7,16 @@
     "addr:postcode":"71901",
     "addr:street":"Ouachita Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.058686,34.505362,-93.058686,34.505362",
     "geom:latitude":34.505362,
     "geom:longitude":-93.058686,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"501 Ouachita Ave",
     "sg:city":"Hot Springs National",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_6IbgkP6WNVeCNzpWH9WBRR_34.505362_-93.058686@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"44cfdbf2c798a44c0bdac7ffedfa0c83",
+    "wof:geomhash":"ff14921e17403a55d5884ffff1254794",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":"102222507",
-    "wof:lastmodified":1472598132,
+    "wof:lastmodified":1510942294,
     "wof:name":"Garland Co Prosecutors Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ar",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "102281469"
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

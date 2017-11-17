@@ -7,13 +7,16 @@
     "addr:postcode":"71953",
     "addr:street":"Us Hwy 71",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.230257,34.58582,-94.230257,34.58582",
     "geom:latitude":34.58582,
     "geom:longitude":-94.230257,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"100 US Hwy 71",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_2Ltw0qyFewTTaOYoXZfhjT_34.585820_-94.230257@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"5a5d3f907a191c05c6e4494a5357d92e",
+    "wof:geomhash":"0b7c54fc1ba2f8b4c719658092dd1aa3",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":102417751,
-    "wof:lastmodified":1472598588,
+    "wof:lastmodified":1510943130,
     "wof:name":"Dans Pawn & Gun",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ar",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        353614399
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,13 +7,16 @@
     "addr:postcode":"72956",
     "addr:street":"Fayetteville Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.356496,35.463776,-94.356496,35.463776",
     "geom:latitude":35.463776,
     "geom:longitude":-94.356496,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1903 Fayetteville Rd",
     "sg:city":"Van Buren",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_3pXtPoHyHaeoTtuExQd9Op_35.463776_-94.356496@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"b6023e1ee917f5e493c063a0d04ac8e2",
+    "wof:geomhash":"967cc8252f6dbe5ef6d4c85a153bf721",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":"102309535",
-    "wof:lastmodified":1472598360,
+    "wof:lastmodified":1510941282,
     "wof:name":"McDonalds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ar",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        840485225
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

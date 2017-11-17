@@ -7,13 +7,16 @@
     "addr:postcode":"72212",
     "addr:street":"N;Parham Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.396523,34.771414,-92.396523,34.771414",
     "geom:latitude":34.771414,
     "geom:longitude":-92.396523,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"11121 N Rodney Parham Rd",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_77d8ggKdqc8H9rhgLyLJsW_34.771414_-92.396523@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"fe316ec52cf58d01ed417fc935c03fa9",
+    "wof:geomhash":"ace5fa576dd5561e1dd77a4091947c3b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":"102268951",
-    "wof:lastmodified":1472598265,
+    "wof:lastmodified":1510942147,
     "wof:name":"Lilly's Dim Sum Then Some",
     "wof:parent_id":85843659,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ar",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        840482461
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

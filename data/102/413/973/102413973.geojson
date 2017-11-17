@@ -7,13 +7,16 @@
     "addr:postcode":"71854",
     "addr:street":"Pecan St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.035986,33.428194,-94.035986,33.428194",
     "geom:latitude":33.428194,
     "geom:longitude":-94.035986,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"402 Pecan St",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_78vvswnBwzq6RkmQrS5tlC_33.428194_-94.035986@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"2b7a0d982fe0059624870c54a11294bc",
+    "wof:geomhash":"1a328a4ba33143f1537ed495b01c447f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":102413973,
-    "wof:lastmodified":1472598609,
+    "wof:lastmodified":1510943550,
     "wof:name":"Driver Control Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ar",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        621956479
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

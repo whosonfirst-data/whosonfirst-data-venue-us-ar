@@ -7,13 +7,16 @@
     "addr:postcode":"72015",
     "addr:street":"Medical Park Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.584481,34.573352,-92.584481,34.573352",
     "geom:latitude":34.573352,
     "geom:longitude":-92.584481,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3 Medical Park Dr",
     "sg:city":"Benton",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_4gqB0TGcnBTk1Bi7LVX7Wz_34.573352_-92.584481@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"4a9a340aa421018c956582d650488c6b",
+    "wof:geomhash":"45a50732ac28b52f46380b2e1e1bf3bd",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":"102230607",
-    "wof:lastmodified":1472598172,
+    "wof:lastmodified":1510941897,
     "wof:name":"Annette Enderlin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ar",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        337290353
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

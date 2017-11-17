@@ -7,13 +7,16 @@
     "addr:postcode":"71854",
     "addr:street":"E 6Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.041,33.427021,-94.041,33.427021",
     "geom:latitude":33.427021,
     "geom:longitude":-94.041,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"300 E 6th St",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -52,7 +55,7 @@
         "sg:id":"SG_1rb3DSjlIE8LoZFywR2oTo_33.427021_-94.041000@1303262948"
     },
     "wof:country":"US",
-    "wof:geomhash":"c663394bfc91b66bf7331bdf539f0337",
+    "wof:geomhash":"17fa001be29c1dcffb1ec3b55eaf7a83",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -65,13 +68,17 @@
         }
     ],
     "wof:id":219258905,
-    "wof:lastmodified":1472598155,
+    "wof:lastmodified":1510943756,
     "wof:name":"All For Kids Pediatric Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ar",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        605465999
+    ],
+    "wof:supersedes":[
+        "102220143"
+    ],
     "wof:tags":[
         "physician",
         "pediatrics-emergency",

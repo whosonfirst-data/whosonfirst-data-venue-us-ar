@@ -7,13 +7,16 @@
     "addr:postcode":"72201",
     "addr:street":"W Markham St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.286882,34.75006,-92.286882,34.75006",
     "geom:latitude":34.75006,
     "geom:longitude":-92.286882,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1400 W Markham St",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_6wNGj1WHBTnXHUTkgHlyGi_34.750060_-92.286882@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"90ce2db0849fc6d3ef04cb0f467cfa44",
+    "wof:geomhash":"b4ce3126b95e022494bf6ad4255edcb0",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":"102266911",
-    "wof:lastmodified":1472598273,
+    "wof:lastmodified":1510943477,
     "wof:name":"Opt Data Inc",
     "wof:parent_id":85878749,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ar",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        102324299
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

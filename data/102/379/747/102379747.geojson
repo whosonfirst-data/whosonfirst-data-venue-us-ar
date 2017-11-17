@@ -7,13 +7,16 @@
     "addr:postcode":"71854",
     "addr:street":"Hickory St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.036451,33.430896,-94.036451,33.430896",
     "geom:latitude":33.430896,
     "geom:longitude":-94.036451,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"711 Hickory St",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_2kVw9dreWjFiWP5k8Zy6Gk_33.430896_-94.036451@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"e7d528b182fe355c29e504b6360e709c",
+    "wof:geomhash":"9f7ee717a8fc799d8f4195d03feb706e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":102379747,
-    "wof:lastmodified":1472598562,
+    "wof:lastmodified":1510943433,
     "wof:name":"E- Z Mart 620",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ar",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        203085271
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

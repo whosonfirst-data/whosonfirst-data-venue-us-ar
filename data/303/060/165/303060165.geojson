@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.238405,34.586735,-94.238405,34.586735",
     "geom:latitude":34.586735,
     "geom:longitude":-94.238405,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"507 Church Ave",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_3IzPzl65Iu4YxBVI3nB7vk_34.586735_-94.238405@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"6071d70b88e4bf0dbd6131b792cca51b",
+    "wof:geomhash":"82b01d738293769da83095b27aab3b9e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,13 +58,15 @@
         }
     ],
     "wof:id":303060165,
-    "wof:lastmodified":1472598048,
+    "wof:lastmodified":1510941567,
     "wof:name":"Polk County Tax Assessor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        102352007
+    ],
     "wof:tags":[
         "county",
         "taxation"

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.412562,34.752664,-92.412562,34.752664",
     "geom:latitude":34.752664,
     "geom:longitude":-92.412562,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"12318 Chenal Pkwy",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1463620925,
-    "wof:geomhash":"d4f9a8dbe942138176cf158582d855d2",
+    "wof:geomhash":"0601a61ac3f9123bbd1e3f8488b0966d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":840482439,
-    "wof:lastmodified":1472598098,
+    "wof:lastmodified":1510942018,
     "wof:name":"Fazoli's",
     "wof:parent_id":85833895,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        "102295361"
+    ],
     "wof:tags":[
         "italian"
     ]

@@ -7,13 +7,16 @@
     "addr:postcode":"72758",
     "addr:street":"W New Hope Road Suite 103",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.177734,36.313713,-94.177734,36.313713",
     "geom:latitude":36.313713,
     "geom:longitude":-94.177734,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4201 W New Hope Road, Suite 103",
     "sg:city":"Rogers",
     "sg:classifiers":[],
@@ -35,7 +38,7 @@
         "sg:id":"SG_21265SihKimxJDUmFqo7uK_36.313713_-94.177734@1303262957"
     },
     "wof:country":"US",
-    "wof:geomhash":"61faab351f561a993cac009d81a1e662",
+    "wof:geomhash":"42f79096291189995e60080098be6f0b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,12 +51,14 @@
         }
     ],
     "wof:id":219991721,
-    "wof:lastmodified":1472598387,
+    "wof:lastmodified":1510943631,
     "wof:name":"Lewis, Bryan - State Farm Insurance Agent",
     "wof:parent_id":85895851,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ar",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        219996719
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

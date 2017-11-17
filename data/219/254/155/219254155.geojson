@@ -7,13 +7,16 @@
     "addr:postcode":"71854",
     "addr:street":"East St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.012684,33.393318,-94.012684,33.393318",
     "geom:latitude":33.393318,
     "geom:longitude":-94.012684,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2910 East St",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
         "sg:id":"SG_5qhy3ddpcgy39FQcawgnD8_33.393318_-94.012684@1303262948"
     },
     "wof:country":"US",
-    "wof:geomhash":"7f684db81c35ebde37d7c364d2dcedef",
+    "wof:geomhash":"ec0e731c76ce881c30809db49bcdd69f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -59,12 +62,14 @@
         }
     ],
     "wof:id":219254155,
-    "wof:lastmodified":1472598153,
+    "wof:lastmodified":1510944082,
     "wof:name":"E-Z Mart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ar",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605548457
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

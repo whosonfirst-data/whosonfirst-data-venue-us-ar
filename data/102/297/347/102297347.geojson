@@ -7,13 +7,16 @@
     "addr:postcode":"71730",
     "addr:street":"N Jefferson Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.662888,33.21328,-92.662888,33.21328",
     "geom:latitude":33.21328,
     "geom:longitude":-92.662888,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"200 N Jefferson Ave",
     "sg:city":"El Dorado",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
         "sg:id":"SG_5wb8NXNm8P6kSnfcBA2JgY_33.213280_-92.662888@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"0e9da40d2a3bee345408260187d711de",
+    "wof:geomhash":"e00efc12009ef41838e0289196eaf6e0",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":"102297347",
-    "wof:lastmodified":1472598325,
+    "wof:lastmodified":1510942646,
     "wof:name":"Marmik Oil Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ar",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        102324661
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

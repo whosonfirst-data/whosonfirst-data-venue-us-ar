@@ -7,13 +7,16 @@
     "addr:postcode":"72015",
     "addr:street":"Ferguson Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.580043,34.574134,-92.580043,34.574134",
     "geom:latitude":34.574134,
     "geom:longitude":-92.580043,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1226 Ferguson Dr",
     "sg:city":"Benton",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_29MjE5mNfct2Z1bEsmZOgU_34.574134_-92.580043@1303262949"
     },
     "wof:country":"US",
-    "wof:geomhash":"1460b6edbed42053c4a49e7625bf12b4",
+    "wof:geomhash":"4ff130f69b93e04a4ff049a08edaa77a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":219343911,
-    "wof:lastmodified":1472598208,
+    "wof:lastmodified":1510943772,
     "wof:name":"John A Daniel Dds",
     "wof:parent_id":85817531,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ar",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        102404627
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "dentists-orthodontists"

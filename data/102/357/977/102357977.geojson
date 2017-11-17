@@ -7,13 +7,16 @@
     "addr:postcode":"72756",
     "addr:street":"Ne Hudson Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.112435,36.35887,-94.112435,36.35887",
     "geom:latitude":36.35887,
     "geom:longitude":-94.112435,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2820 NE Hudson Rd",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_5wbgbQpJlft7YkLvVqlJWL_36.358870_-94.112435@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"9077bfb9e21e8e8e70b81cb789c8914b",
+    "wof:geomhash":"df776c2e3d87dfb39fb396043e3a4cf2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":102357977,
-    "wof:lastmodified":1472598609,
+    "wof:lastmodified":1510942266,
     "wof:name":"Best Brake Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ar",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        219970361
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

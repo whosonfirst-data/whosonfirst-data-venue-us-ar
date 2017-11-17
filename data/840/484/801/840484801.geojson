@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.37612,35.364698,-94.37612,35.364698",
     "geom:latitude":35.364698,
     "geom:longitude":-94.37612,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5111 Rogers Ave",
     "sg:city":"Fort Smith",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1463620971,
-    "wof:geomhash":"0e40eb0f8abf30fd7b0496eab8b9bfa1",
+    "wof:geomhash":"dd319b4d3232c6a4c25248e6ccb3c317",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -58,13 +60,15 @@
         }
     ],
     "wof:id":840484801,
-    "wof:lastmodified":1472598120,
+    "wof:lastmodified":1510943161,
     "wof:name":"Auntie Anne's Pretzels",
     "wof:parent_id":85832863,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        "102242209"
+    ],
     "wof:tags":[
         "american",
         "pastry"

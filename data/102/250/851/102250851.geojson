@@ -7,13 +7,16 @@
     "addr:postcode":"71854",
     "addr:street":"East St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.024189,33.401048,-94.024189,33.401048",
     "geom:latitude":33.401048,
     "geom:longitude":-94.024189,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2300 East St",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_2vJ9RhuZSm7NahymOItUHp_33.401048_-94.024189@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"90cf020782271d670db6823f81cb69ce",
+    "wof:geomhash":"dd1353939755926883e200fe5dbf9071",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":"102250851",
-    "wof:lastmodified":1472598205,
+    "wof:lastmodified":1510941826,
     "wof:name":"Miller County Municipal Judge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ar",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        589203211
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.226856,34.789738,-92.226856,34.789738",
     "geom:latitude":34.789738,
     "geom:longitude":-92.226856,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4008 Mccain Blvd",
     "sg:city":"North Little Rock",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1463620902,
-    "wof:geomhash":"30e977fe9568986b3cba141bff5ed6a7",
+    "wof:geomhash":"7dae5ae87550465293f5efbd7197d201",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":840481379,
-    "wof:lastmodified":1472598071,
+    "wof:lastmodified":1510942150,
     "wof:name":"McDonald's",
     "wof:parent_id":85852263,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        "102233657"
+    ],
     "wof:tags":[
         "burger",
         "american"

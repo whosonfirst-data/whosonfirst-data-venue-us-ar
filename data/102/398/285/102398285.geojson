@@ -7,13 +7,16 @@
     "addr:postcode":"72756",
     "addr:street":"W Walnut St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.13863,36.333826,-94.13863,36.333826",
     "geom:latitude":36.333826,
     "geom:longitude":-94.13863,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1400 W Walnut St",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_2kIsCoUM1MHQgVbXugtvHb_36.333826_-94.138630@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"956adcddffc190da7437b83e0414824a",
+    "wof:geomhash":"91e0ae341a9139817dd8370f56ce86ab",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":102398285,
-    "wof:lastmodified":1472598512,
+    "wof:lastmodified":1510942297,
     "wof:name":"Beauty World II Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ar",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        219962127
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

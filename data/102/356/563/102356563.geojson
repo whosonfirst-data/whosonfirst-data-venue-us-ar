@@ -7,13 +7,16 @@
     "addr:postcode":"72131",
     "addr:street":"Christopher Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.208802,35.519043,-92.208802,35.519043",
     "geom:latitude":35.519043,
     "geom:longitude":-92.208802,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"861 Christopher Dr",
     "sg:city":"Quitman",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_3kPY2a1HgqMOqodFxmeMqC_35.519043_-92.208802@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"42c347b82a50e55a6fa75b0f0108b488",
+    "wof:geomhash":"f736b239044d6acc1c0b82aebbe71462",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,12 +54,14 @@
         }
     ],
     "wof:id":102356563,
-    "wof:lastmodified":1472598547,
+    "wof:lastmodified":1510943478,
     "wof:name":"Shaws Landscaping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ar",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        219502123
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

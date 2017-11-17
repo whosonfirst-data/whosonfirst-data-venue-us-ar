@@ -7,13 +7,16 @@
     "addr:postcode":"72116",
     "addr:street":"Mccain Blvd N",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.228973,34.791199,-92.228973,34.791199",
     "geom:latitude":34.791199,
     "geom:longitude":-92.228973,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3900 McCain Blvd",
     "sg:city":"N Little Rock",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_1w5npJJrRkQGWgJs4vrzNQ_34.791199_-92.228973@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"c358ac353b5a8ec7e62994ae32018d59",
+    "wof:geomhash":"0c8e40e4a008f0a1c6d465d0b95e8371",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":"102296545",
-    "wof:lastmodified":1472598329,
+    "wof:lastmodified":1510942086,
     "wof:name":"Taco Bell",
     "wof:parent_id":85852263,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ar",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        840481357
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

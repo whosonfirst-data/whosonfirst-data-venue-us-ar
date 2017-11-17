@@ -7,13 +7,16 @@
     "addr:postcode":"72756",
     "addr:street":"W Walnut St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.135623,36.333761,-94.135623,36.333761",
     "geom:latitude":36.333761,
     "geom:longitude":-94.135623,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1316 W Walnut St",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_5anHQxMuBUJ48SzwOU3mjO_36.333761_-94.135623@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"0e1697652c28bd3ad4785c22b4e76c1f",
+    "wof:geomhash":"42af0a710e616c7c615f407887dfb24f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":102434681,
-    "wof:lastmodified":1472598599,
+    "wof:lastmodified":1510942574,
     "wof:name":"Aldi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ar",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        219979489
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

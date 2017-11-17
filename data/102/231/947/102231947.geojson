@@ -7,6 +7,7 @@
     "addr:postcode":"72205",
     "addr:street":"S University Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-92.341358,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"300 S University Ave",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -55,12 +56,14 @@
         }
     ],
     "wof:id":"102231947",
-    "wof:lastmodified":1510695955,
+    "wof:lastmodified":1510943577,
     "wof:name":"Shoe Dept",
     "wof:parent_id":85838647,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ar",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "102258235"
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

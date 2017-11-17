@@ -7,13 +7,16 @@
     "addr:postcode":"72227",
     "addr:street":"Biscayne Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.363374,34.773376,-92.363374,34.773376",
     "geom:latitude":34.773376,
     "geom:longitude":-92.363374,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2311 Biscayne Dr",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_5Z7W8236xOHbWoFR4JLyiL_34.773376_-92.363374@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"10ee10cc1a3998b5073e834935a64b8c",
+    "wof:geomhash":"8c8eaa981147f072475a555d7f211e6b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":"102197299",
-    "wof:lastmodified":1472598078,
+    "wof:lastmodified":1510943446,
     "wof:name":"PTC Inc",
     "wof:parent_id":85878753,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ar",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "102225003"
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

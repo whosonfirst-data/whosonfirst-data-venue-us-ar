@@ -7,13 +7,16 @@
     "addr:postcode":"72956",
     "addr:street":"Main St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.355469,35.434635,-94.355469,35.434635",
     "geom:latitude":35.434635,
     "geom:longitude":-94.355469,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"300 Main St",
     "sg:city":"Van Buren",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
         "sg:id":"SG_1BRnrKds1jYR0WdvaQOHNa_35.434635_-94.355469@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"bbb9a2dbad65cb7c4d37876ccb39f676",
+    "wof:geomhash":"5716acccd8881b8c2caf9076b1c42591",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -59,12 +62,14 @@
         }
     ],
     "wof:id":"102206137",
-    "wof:lastmodified":1472598062,
+    "wof:lastmodified":1510943453,
     "wof:name":"Crawford County Circuit Court",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ar",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "102229135"
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

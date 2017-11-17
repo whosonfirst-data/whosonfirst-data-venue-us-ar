@@ -7,13 +7,16 @@
     "addr:postcode":"72701",
     "addr:street":"W 6Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.18554,36.056453,-94.18554,36.056453",
     "geom:latitude":36.056453,
     "geom:longitude":-94.18554,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1963 W 6th St",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_7QCIqgiCgO9GZv18dUVqNq_36.056453_-94.185540@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"eb020b5d912ae7077dc18b5d68ed2c65",
+    "wof:geomhash":"c6c666e891cf7951df837079f9de8cff",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":"102206705",
-    "wof:lastmodified":1472598124,
+    "wof:lastmodified":1510942762,
     "wof:name":"McDonalds",
     "wof:parent_id":85885441,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ar",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        840483699
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

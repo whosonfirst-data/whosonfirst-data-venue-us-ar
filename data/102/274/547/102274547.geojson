@@ -7,13 +7,16 @@
     "addr:postcode":"71646",
     "addr:street":"E Jefferson St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.79669,33.227069,-91.79669,33.227069",
     "geom:latitude":33.227069,
     "geom:longitude":-91.79669,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"205 E Jefferson St",
     "sg:city":"Hamburg",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_4tZ3IDlm8R3820hyP9JR4Q_33.227069_-91.796690@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"9be726f4e25baee19500609255bd3cbf",
+    "wof:geomhash":"de46fe0c914725bca5931fdce5bbfec6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":"102274547",
-    "wof:lastmodified":1472598252,
+    "wof:lastmodified":1510941648,
     "wof:name":"Ashley County Circuit Judge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ar",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        102392025
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

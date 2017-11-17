@@ -7,13 +7,16 @@
     "addr:postcode":"72762",
     "addr:street":"W Sunset Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.18404,36.175242,-94.18404,36.175242",
     "geom:latitude":36.175242,
     "geom:longitude":-94.18404,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4861 W Sunset Ave",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_0I2IVqUHLlYH7JIwigUrC1_36.175242_-94.184040@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"613537d0ddd793c4d40ac582ad53cf06",
+    "wof:geomhash":"754db14b95f28c21f44710747a11257c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":"102208949",
-    "wof:lastmodified":1472598143,
+    "wof:lastmodified":1510941512,
     "wof:name":"Dennys",
     "wof:parent_id":85885477,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ar",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        840486493
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

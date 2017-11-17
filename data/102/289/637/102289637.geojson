@@ -7,13 +7,16 @@
     "addr:postcode":"72205",
     "addr:street":"S University Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.34134,34.747693,-92.34134,34.747693",
     "geom:latitude":34.747693,
     "geom:longitude":-92.34134,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"500 S University Ave",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_2ZkOwctcuI1psI3CnKrkiX_34.747693_-92.341340@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"f9f5e1df4df31381cefca9957b9aa8c7",
+    "wof:geomhash":"da8936f4ed97e56ce6b8da8e20b32cdc",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":"102289637",
-    "wof:lastmodified":1472598328,
+    "wof:lastmodified":1510944100,
     "wof:name":"Womens Care Center",
     "wof:parent_id":85838647,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ar",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        102358087
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

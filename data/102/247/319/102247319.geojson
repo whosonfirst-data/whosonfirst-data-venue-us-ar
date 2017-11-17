@@ -7,13 +7,16 @@
     "addr:postcode":"71953",
     "addr:street":"Mena St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.237482,34.585775,-94.237482,34.585775",
     "geom:latitude":34.585775,
     "geom:longitude":-94.237482,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"520 Mena St",
     "sg:city":"Mena",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_3Cw4Xv71ERfFJVe7wc3LkK_34.585775_-94.237482@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"b2bc8374859046c7aff185afc897fc0e",
+    "wof:geomhash":"cbfd4d4e1932ce87d8c5f1ea5fa575d9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":"102247319",
-    "wof:lastmodified":1472598197,
+    "wof:lastmodified":1510943840,
     "wof:name":"Mena Parks Maintenance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ar",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        303500207
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

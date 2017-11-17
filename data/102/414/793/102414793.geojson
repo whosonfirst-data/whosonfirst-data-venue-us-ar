@@ -7,13 +7,16 @@
     "addr:postcode":"71854",
     "addr:street":"E 6Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.039917,33.427535,-94.039917,33.427535",
     "geom:latitude":33.427535,
     "geom:longitude":-94.039917,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"300 E 6th St",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_6TCGCZJj5DS5DYNQI7xcro_33.427535_-94.039917@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"d85af61851da1bcfe9fb97c3c840c21b",
+    "wof:geomhash":"0f8bad9390d81de086aa2f086ed5303d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":102414793,
-    "wof:lastmodified":1472598596,
+    "wof:lastmodified":1510941933,
     "wof:name":"Ahec Southwest Medical Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ar",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        621946481
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

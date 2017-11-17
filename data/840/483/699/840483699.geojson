@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.188506,36.056075,-94.188506,36.056075",
     "geom:latitude":36.056075,
     "geom:longitude":-94.188506,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1963 W 6th St",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1463620949,
-    "wof:geomhash":"3de08e431500ce90b92596edc7edb1fe",
+    "wof:geomhash":"647eebe1d7970aac16480f4f1caf1afd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":840483699,
-    "wof:lastmodified":1472598098,
+    "wof:lastmodified":1510942762,
     "wof:name":"McDonald's",
     "wof:parent_id":85885441,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        "102206705"
+    ],
     "wof:tags":[
         "burger",
         "american"

@@ -7,13 +7,16 @@
     "addr:postcode":"72701",
     "addr:street":"N West Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.165369,36.066108,-94.165369,36.066108",
     "geom:latitude":36.066108,
     "geom:longitude":-94.165369,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"220 N West Ave",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -46,10 +49,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":1125033405,
         "sg:id":"SG_6O3LKGpT2RVMct6jjptRSu_36.066108_-94.165369@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"0c00e06f675f9d6a3668b0a544d33cf2",
+    "wof:geomhash":"1559295bb8864c503079a31e51958050",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -61,13 +65,17 @@
         }
     ],
     "wof:id":"102245629",
-    "wof:lastmodified":1472598192,
+    "wof:lastmodified":1510943156,
     "wof:name":"Grub's Bar & Grille",
     "wof:parent_id":85885451,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ar",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        219830959
+    ],
+    "wof:supersedes":[
+        219830959
+    ],
     "wof:tags":[]
 },
   "bbox": [

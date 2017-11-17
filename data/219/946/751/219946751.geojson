@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.146202,36.254101,-94.146202,36.254101",
     "geom:latitude":36.254101,
     "geom:longitude":-94.146202,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"325 S 6th Pl",
     "sg:city":"Lowell",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_7m6KtDzo6xV3h2yMmbjFZx_36.254101_-94.146202@1303262956"
     },
     "wof:country":"US",
-    "wof:geomhash":"4bbbd5ec631375783b2b4a8bcb737b13",
+    "wof:geomhash":"03b14fc4c8c27754cc4fd05a88d321db",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,13 +58,15 @@
         }
     ],
     "wof:id":219946751,
-    "wof:lastmodified":1472598393,
+    "wof:lastmodified":1510942128,
     "wof:name":"Lowell Medical Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ar",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        "102213015"
+    ],
     "wof:tags":[
         "practice",
         "family"

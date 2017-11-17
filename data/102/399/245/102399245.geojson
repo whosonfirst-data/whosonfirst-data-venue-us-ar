@@ -7,13 +7,16 @@
     "addr:postcode":"72764",
     "addr:street":"E Robinson Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.117652,36.166988,-94.117652,36.166988",
     "geom:latitude":36.166988,
     "geom:longitude":-94.117652,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1398 E Robinson Ave",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_3QubDoVYx7FyDV86oI5VoL_36.166988_-94.117652@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"4db8e252cb7bf4fd33f0610e13e2b5fb",
+    "wof:geomhash":"6273ad4b9237b6dbe7283a426ed312c1",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":102399245,
-    "wof:lastmodified":1472598502,
+    "wof:lastmodified":1510941775,
     "wof:name":"Shilo Cabinets & Interiors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ar",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        220036209
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

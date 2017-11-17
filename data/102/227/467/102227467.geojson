@@ -7,13 +7,16 @@
     "addr:postcode":"72201",
     "addr:street":"W Capitol Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.275647,34.744698,-92.275647,34.744698",
     "geom:latitude":34.744698,
     "geom:longitude":-92.275647,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"425 W Capitol Ave",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_1x15GY0cBsJ7JgpyIPNclD_34.744698_-92.275647@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"b70bc8f969daed195255b3d5cb473c21",
+    "wof:geomhash":"22ec0f5f0ab2026a10fa036346076aed",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":"102227467",
-    "wof:lastmodified":1472598131,
+    "wof:lastmodified":1510942182,
     "wof:name":"Wilkes & Mc Hugh Pa",
     "wof:parent_id":85878749,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ar",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "102254291"
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,13 +7,16 @@
     "addr:postcode":"72034",
     "addr:street":"Hogan Ln",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.497817,35.093491,-92.497817,35.093491",
     "geom:latitude":35.093491,
     "geom:longitude":-92.497817,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"950 Hogan Ln",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_3qSGfy6GfVKmip07dGd2ja_35.093491_-92.497817@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"f1074ebfa91d7993f47363c6a34670ce",
+    "wof:geomhash":"47226da096185de259921c983e4515c3",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":"102224469",
-    "wof:lastmodified":1472598109,
+    "wof:lastmodified":1510942179,
     "wof:name":"Rickmans Claim Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ar",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        337290943
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

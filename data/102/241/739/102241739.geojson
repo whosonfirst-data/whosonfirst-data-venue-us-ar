@@ -7,13 +7,16 @@
     "addr:postcode":"71854",
     "addr:street":"Laurel St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.039322,33.42664,-94.039322,33.42664",
     "geom:latitude":33.42664,
     "geom:longitude":-94.039322,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"400 Laurel St",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_21hKF0hxQvKb6GUozMYtR3_33.426640_-94.039322@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"f963599733ed0a19819c9bb51e69ea61",
+    "wof:geomhash":"33097a9ff108e8ebec484b26b8571065",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":"102241739",
-    "wof:lastmodified":1472598195,
+    "wof:lastmodified":1510944058,
     "wof:name":"Miller County Veteran's Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ar",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605040925
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

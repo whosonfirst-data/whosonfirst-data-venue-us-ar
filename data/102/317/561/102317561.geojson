@@ -7,13 +7,16 @@
     "addr:postcode":"72015",
     "addr:street":"W Sevier St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.588007,34.564471,-92.588007,34.564471",
     "geom:latitude":34.564471,
     "geom:longitude":-92.588007,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"108 W Sevier St",
     "sg:city":"Benton",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_2WnRPbGVfsEIlEKgzR9vC8_34.564471_-92.588007@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"8c2c201e7a55dd3c523fd19b2003fa16",
+    "wof:geomhash":"083a62153361758fe5e162e845965075",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":102317561,
-    "wof:lastmodified":1472598400,
+    "wof:lastmodified":1510944178,
     "wof:name":"Jcs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ar",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        102423531
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

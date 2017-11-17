@@ -7,13 +7,16 @@
     "addr:postcode":"71854",
     "addr:street":"Olive St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.042971,33.423353,-94.042971,33.423353",
     "geom:latitude":33.423353,
     "geom:longitude":-94.042971,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"300 Olive St",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_7D09T8cUlHWjC5N2SOQJ5w_33.423353_-94.042971@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"2f146c5586c52b7371129e7ac42a2938",
+    "wof:geomhash":"14fe1d60be8da6e00e7f824507ea2ae8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":102339029,
-    "wof:lastmodified":1472598410,
+    "wof:lastmodified":1510941524,
     "wof:name":"Blue Cross & Blue Shield",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ar",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622800637
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

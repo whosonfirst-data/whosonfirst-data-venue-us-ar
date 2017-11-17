@@ -7,13 +7,16 @@
     "addr:postcode":"72764",
     "addr:street":"W Maple Ave Ste 505",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.135953,36.18125,-94.135953,36.18125",
     "geom:latitude":36.18125,
     "geom:longitude":-94.135953,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"601 W Maple Ave Ste 505",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_1TpiyUkVJgTkbiEu4UA237_36.181250_-94.135953@1303262958"
     },
     "wof:country":"US",
-    "wof:geomhash":"524a4fc870e2c31c551e271c0d0efbba",
+    "wof:geomhash":"e3ce37e6f2dec82c3874359532bd901d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":220040533,
-    "wof:lastmodified":1472598099,
+    "wof:lastmodified":1510942228,
     "wof:name":"Northwest Physicians",
     "wof:parent_id":85885485,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ar",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        220044759
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

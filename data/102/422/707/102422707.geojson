@@ -7,13 +7,16 @@
     "addr:postcode":"72745",
     "addr:street":"Enterprise Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.148207,36.251267,-94.148207,36.251267",
     "geom:latitude":36.251267,
     "geom:longitude":-94.148207,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"515 Enterprise Dr",
     "sg:city":"Lowell",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_54yf7JeNo5TVddvTpdIVFq_36.251267_-94.148207@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"4971cb59b5c13edb7ce1c95626ecd05b",
+    "wof:geomhash":"8144644e4efd97deb03d93875cf8b489",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":102422707,
-    "wof:lastmodified":1472598580,
+    "wof:lastmodified":1510941981,
     "wof:name":"Arkansas Democrat Gazette",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ar",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        219945053
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

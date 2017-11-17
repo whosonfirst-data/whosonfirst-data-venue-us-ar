@@ -7,13 +7,16 @@
     "addr:postcode":"72764",
     "addr:street":"E Emma Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.123759,36.184882,-94.123759,36.184882",
     "geom:latitude":36.184882,
     "geom:longitude":-94.123759,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"614 E Emma Ave",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_1GkN4h3lMN7g1YQMhnqVgh_36.184882_-94.123759@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"b980cc58314adcac6696c6fac406cd47",
+    "wof:geomhash":"9b3e04c597429c17a590f9c13dd3750d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":"102246475",
-    "wof:lastmodified":1472598191,
+    "wof:lastmodified":1510941560,
     "wof:name":"Colemans Childrens Center",
     "wof:parent_id":85885481,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ar",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "102291221"
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,13 +7,16 @@
     "addr:postcode":"72034",
     "addr:street":"Prince St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.461467,35.092068,-92.461467,35.092068",
     "geom:latitude":35.092068,
     "geom:longitude":-92.461467,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2425 Prince St",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_6Dskg0KtxPSwWP8uuvJohL_35.092068_-92.461467@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"00480d1bf0f6942e9b9bfa7267608bf2",
+    "wof:geomhash":"d0d686f40a696e0cf4a3eb5ad8de2a62",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":"102301477",
-    "wof:lastmodified":1472598347,
+    "wof:lastmodified":1510941803,
     "wof:name":"Arkansas Oral Surgery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ar",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        219398063
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

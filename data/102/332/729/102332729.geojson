@@ -7,13 +7,16 @@
     "addr:postcode":"72116",
     "addr:street":"Crestwood Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.234344,34.798484,-92.234344,34.798484",
     "geom:latitude":34.798484,
     "geom:longitude":-92.234344,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2501 Crestwood Rd",
     "sg:city":"North Little Rock",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_5rrVMQmsTj5ggZwckCxGwG_34.798484_-92.234344@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"83132623f1af546bf0c468f502c5f5a0",
+    "wof:geomhash":"9a7c61b0908c7b6a16eb58f27c580d5b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":102332729,
-    "wof:lastmodified":1472598441,
+    "wof:lastmodified":1510943875,
     "wof:name":"Crestwood Foot Clinic",
     "wof:parent_id":85852263,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ar",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        102372159
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

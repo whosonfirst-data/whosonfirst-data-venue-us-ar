@@ -7,13 +7,16 @@
     "addr:postcode":"71854",
     "addr:street":"E 4Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.035469,33.42728,-94.035469,33.42728",
     "geom:latitude":33.42728,
     "geom:longitude":-94.035469,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"801 E 4th St",
     "sg:city":"Texarkana",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_0mNncrgv6ixCHgXp86Rmkr_33.427280_-94.035469@1303262948"
     },
     "wof:country":"US",
-    "wof:geomhash":"ad3ac66900a94308fc52696b0c225227",
+    "wof:geomhash":"f274fa9a36c05315d244f7bec327c598",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,15 @@
         }
     ],
     "wof:id":219253183,
-    "wof:lastmodified":1472598153,
+    "wof:lastmodified":1510943339,
     "wof:name":"Revenue Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ar",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        102368585,
+        589167187
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

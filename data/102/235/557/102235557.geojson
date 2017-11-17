@@ -7,13 +7,16 @@
     "addr:postcode":"72201",
     "addr:street":"Center St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.272703,34.748412,-92.272703,34.748412",
     "geom:latitude":34.748412,
     "geom:longitude":-92.272703,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"111 Center St",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_5wOxqKKsyBkz42LQoLSMcr_34.748412_-92.272703@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"17e2c76e54dc5fcd9ee3f00ad9647bc9",
+    "wof:geomhash":"7eb36f18f8bc8c3136dfa1d8abd9a5b9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":"102235557",
-    "wof:lastmodified":1472598175,
+    "wof:lastmodified":1510944052,
     "wof:name":"Eoe Inc",
     "wof:parent_id":85878757,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ar",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        102356875
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

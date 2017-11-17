@@ -7,13 +7,16 @@
     "addr:postcode":"72211",
     "addr:street":"S Shackleford Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.394059,34.748025,-92.394059,34.748025",
     "geom:latitude":34.748025,
     "geom:longitude":-92.394059,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"650 S Shackleford Rd",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_0EuJ85feCBwlvUdA9lU5DB_34.748025_-92.394059@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"1af741c142a6456e23c46b681914f2bc",
+    "wof:geomhash":"345e226d3796ee4a20867e62bb7880ce",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":102373367,
-    "wof:lastmodified":1472598513,
+    "wof:lastmodified":1510941305,
     "wof:name":"Salon CEst Lavie",
     "wof:parent_id":85833895,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ar",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        102433339
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
