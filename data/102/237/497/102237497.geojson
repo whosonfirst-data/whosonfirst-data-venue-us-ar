@@ -2,18 +2,24 @@
   "id": "102237497",
   "type": "Feature",
   "properties": {
-    "addr:full":"103 E River St Ozark AR 72949",
+    "addr:city":"Ozark",
+    "addr:full":"103 E River St Ozark, Ar 72949-3200",
+    "addr:house_number":"103",
     "addr:housenumber":"103",
-    "addr:postcode":"72949",
+    "addr:phone":"+1 479-667-5015",
+    "addr:postcode":"72949-3200",
+    "addr:road":"E River St",
+    "addr:state":"AR",
     "addr:street":"E River St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-93.82412,35.48489,-93.82412,35.48489",
-    "geom:latitude":35.48489,
-    "geom:longitude":-93.82412,
+    "geom:bbox":"-93.82546,35.48503,-93.82546,35.48503",
+    "geom:latitude":35.48503,
+    "geom:longitude":-93.82546,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"103 E River St",
     "sg:city":"Ozark",
     "sg:classifiers":[
@@ -30,7 +36,8 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85920739,
         85633793,
@@ -39,10 +46,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400500220,
         "sg:id":"SG_4TgsWBe5P1UDBkpiHC0lPi_35.484890_-93.824120@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"846e3c3d537caa50a9f3da37c411d12e",
+    "wof:geomhash":"074f98a5171ec573acb16bff8143be02",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":"102237497",
-    "wof:lastmodified":1472598177,
+    "wof:lastmodified":1533754263,
     "wof:name":"Ozark Area Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -63,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -93.82412,
-    35.48489,
-    -93.82412,
-    35.48489
+    -93.82546,
+    35.48503,
+    -93.82546,
+    35.48503
 ],
-  "geometry": {"coordinates":[-93.82411999999999,35.48489],"type":"Point"}
+  "geometry": {"coordinates":[-93.82546000000001,35.48503],"type":"Point"}
 }

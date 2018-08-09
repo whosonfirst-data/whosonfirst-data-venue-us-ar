@@ -2,18 +2,24 @@
   "id": "102281425",
   "type": "Feature",
   "properties": {
-    "addr:full":"95 S Main St Eureka Springs AR 72632",
+    "addr:city":"Eureka Spgs",
+    "addr:full":"95 S Main St Eureka Spgs, Ar 72632-3600",
+    "addr:house_number":"95",
     "addr:housenumber":"95",
-    "addr:postcode":"72632",
+    "addr:phone":"+1 479-253-9417",
+    "addr:postcode":"72632-3600",
+    "addr:road":"S Main St",
+    "addr:state":"AR",
     "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-93.740123,36.400252,-93.740123,36.400252",
-    "geom:latitude":36.400252,
-    "geom:longitude":-93.740123,
+    "geom:bbox":"-93.7407,36.39972,-93.7407,36.39972",
+    "geom:latitude":36.39972,
+    "geom:longitude":-93.7407,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"95 S Main St",
     "sg:city":"Eureka Springs",
     "sg:classifiers":[
@@ -30,7 +36,8 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85919765,
         85633793,
@@ -39,10 +46,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400500167,
         "sg:id":"SG_5yRFwvdel6IrlK7RCtSSdU_36.400252_-93.740123@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"42c84c023788504d7b1c4ab7687bd152",
+    "wof:geomhash":"0a3db154ce44bcdc1ede819db29fb10a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,8 +61,8 @@
         }
     ],
     "wof:id":"102281425",
-    "wof:lastmodified":1472598285,
-    "wof:name":"Eureka Sprng Historical Museum",
+    "wof:lastmodified":1533754265,
+    "wof:name":"Eureka Springs Historical Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ar",
@@ -63,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -93.740123,
-    36.400252,
-    -93.740123,
-    36.400252
+    -93.7407,
+    36.39972,
+    -93.7407,
+    36.39972
 ],
-  "geometry": {"coordinates":[-93.740123,36.400252],"type":"Point"}
+  "geometry": {"coordinates":[-93.7407,36.39972],"type":"Point"}
 }

@@ -2,18 +2,24 @@
   "id": "102284537",
   "type": "Feature",
   "properties": {
-    "addr:full":"2 Lake Dr Wilson AR 72395",
+    "addr:city":"Wilson",
+    "addr:full":"2 Lake Dr Wilson, Ar 72395",
+    "addr:house_number":"2",
     "addr:housenumber":"2",
+    "addr:phone":"+1 870-655-8622",
     "addr:postcode":"72395",
+    "addr:road":"Lake Dr",
+    "addr:state":"AR",
     "addr:street":"Lake Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-90.043827,35.574968,-90.043827,35.574968",
-    "geom:latitude":35.574968,
-    "geom:longitude":-90.043827,
+    "geom:bbox":"-90.04277,35.57341,-90.04277,35.57341",
+    "geom:latitude":35.57341,
+    "geom:longitude":-90.04277,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"2 Lake Dr",
     "sg:city":"Wilson",
     "sg:classifiers":[
@@ -27,7 +33,8 @@
     "sg:phone":"+1 870 655 8622",
     "sg:postcode":"72395",
     "sg:province":"AR",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85920847,
         85633793,
@@ -36,10 +43,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400500031,
         "sg:id":"SG_2lBw6PPp5cNTqxkKH5hNdS_35.574968_-90.043827@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"10deb69be1a2b7e2ac5c39870c20926a",
+    "wof:geomhash":"559054052e31cb7bda77564913f882f8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +58,7 @@
         }
     ],
     "wof:id":"102284537",
-    "wof:lastmodified":1472598297,
+    "wof:lastmodified":1533754264,
     "wof:name":"Hampson Museum State Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -60,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -90.043827,
-    35.574968,
-    -90.043827,
-    35.574968
+    -90.04277,
+    35.57341,
+    -90.04277,
+    35.57341
 ],
-  "geometry": {"coordinates":[-90.04382699999999,35.574968],"type":"Point"}
+  "geometry": {"coordinates":[-90.04277,35.57341],"type":"Point"}
 }

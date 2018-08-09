@@ -2,18 +2,24 @@
   "id": 102408989,
   "type": "Feature",
   "properties": {
-    "addr:full":"8 Jones Ln Morrilton AR 72110",
+    "addr:city":"Morrilton",
+    "addr:full":"8 Jones Ln Morrilton, Ar 72110-9353",
+    "addr:house_number":"8",
     "addr:housenumber":"8",
-    "addr:postcode":"72110",
+    "addr:phone":"+1 501-727-5427",
+    "addr:postcode":"72110-9353",
+    "addr:road":"Jones Ln",
+    "addr:state":"AR",
     "addr:street":"Jones Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-92.891031,35.130706,-92.891031,35.130706",
-    "geom:latitude":35.130706,
-    "geom:longitude":-92.891031,
+    "geom:bbox":"-92.89097,35.13259,-92.89097,35.13259",
+    "geom:latitude":35.13259,
+    "geom:longitude":-92.89097,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"8 Jones Ln",
     "sg:city":"Morrilton",
     "sg:classifiers":[
@@ -30,7 +36,8 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85633793,
         85688549,
@@ -38,10 +45,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400500160,
         "sg:id":"SG_73lhR4deHg42n3hdM8q2oT_35.130706_-92.891031@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"1e86003d1f1ec0b7ecc69dc7745339b6",
+    "wof:geomhash":"d365d51668c95ce246208e600f6d956f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,8 +59,8 @@
         }
     ],
     "wof:id":102408989,
-    "wof:lastmodified":1472598610,
-    "wof:name":"Museum of Automobiles Inc",
+    "wof:lastmodified":1533754270,
+    "wof:name":"Museum Of Automobiles",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ar",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -92.891031,
-    35.130706,
-    -92.891031,
-    35.130706
+    -92.89097,
+    35.13259,
+    -92.89097,
+    35.13259
 ],
-  "geometry": {"coordinates":[-92.891031,35.130706],"type":"Point"}
+  "geometry": {"coordinates":[-92.89097,35.13259],"type":"Point"}
 }

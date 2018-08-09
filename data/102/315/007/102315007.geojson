@@ -2,18 +2,23 @@
   "id": 102315007,
   "type": "Feature",
   "properties": {
-    "addr:full":"312 N Main St Bentonville AR 72712",
+    "addr:city":"Bentonville",
+    "addr:full":"312 N Main Street Bentonville, Ar 72712",
+    "addr:house_number":"312",
     "addr:housenumber":"312",
     "addr:postcode":"72712",
+    "addr:road":"N Main Street",
+    "addr:state":"AR",
     "addr:street":"N Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-94.208819,36.375071,-94.208819,36.375071",
-    "geom:latitude":36.375071,
-    "geom:longitude":-94.208819,
+    "geom:bbox":"-94.20841,36.37578,-94.20841,36.37578",
+    "geom:latitude":36.37578,
+    "geom:longitude":-94.20841,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"312 N Main St",
     "sg:city":"Bentonville",
     "sg:classifiers":[
@@ -31,20 +36,25 @@
         "landscape",
         "contractor"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102523395,
+        102530509
+    ],
     "wof:belongsto":[
-        85688549,
+        85895827,
         85633793,
         85921509,
         102083255,
-        85895827
+        85688549
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409502060,
         "sg:id":"SG_4B6zUkc6pFfMiHb76uAVAO_36.375071_-94.208819@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"288dd689572734969e180798213c3c0b",
+    "wof:geomhash":"2dcfb2e783e1cd10034ff7984a3e8c94",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,8 +66,8 @@
         }
     ],
     "wof:id":102315007,
-    "wof:lastmodified":1472598380,
-    "wof:name":"Compton Garden",
+    "wof:lastmodified":1533754266,
+    "wof:name":"Compton Gardens",
     "wof:parent_id":85895827,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ar",
@@ -66,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -94.208819,
-    36.375071,
-    -94.208819,
-    36.375071
+    -94.20841,
+    36.37578,
+    -94.20841,
+    36.37578
 ],
-  "geometry": {"coordinates":[-94.20881900000001,36.375071],"type":"Point"}
+  "geometry": {"coordinates":[-94.20841,36.37578],"type":"Point"}
 }

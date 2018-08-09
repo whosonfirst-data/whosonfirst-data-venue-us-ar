@@ -2,18 +2,24 @@
   "id": 219970847,
   "type": "Feature",
   "properties": {
-    "addr:full":"116 S 1st St Rogers AR 72756",
+    "addr:city":"Rogers",
+    "addr:full":"116 S 1St St Rogers, Ar 72756",
+    "addr:house_number":"116",
     "addr:housenumber":"116",
+    "addr:phone":"+1 479-636-0417",
     "addr:postcode":"72756",
+    "addr:road":"S 1St St",
+    "addr:state":"AR",
     "addr:street":"S 1St St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-94.116148,36.332848,-94.116148,36.332848",
-    "geom:latitude":36.332848,
-    "geom:longitude":-94.116148,
+    "geom:bbox":"-94.09416,36.34207,-94.09416,36.34207",
+    "geom:latitude":36.34207,
+    "geom:longitude":-94.09416,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"116 S 1st St",
     "sg:city":"Rogers",
     "sg:classifiers":[
@@ -31,7 +37,11 @@
         "art",
         "supply"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102523395,
+        102530509
+    ],
     "wof:belongsto":[
         85688549,
         85633793,
@@ -41,10 +51,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400500008,
         "sg:id":"SG_1rP3Gf3Dnu8QrpKMGaBNoB_36.332848_-94.116148@1303262957"
     },
     "wof:country":"US",
-    "wof:geomhash":"e87b016661bc888ae92812fb5383e867",
+    "wof:geomhash":"e05a18ca0ef29522403db228301a56b0",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,8 +68,8 @@
         }
     ],
     "wof:id":219970847,
-    "wof:lastmodified":1472598384,
-    "wof:name":"Poor Richard's Art",
+    "wof:lastmodified":1533754266,
+    "wof:name":"Poor Richard'S Art",
     "wof:parent_id":85895849,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ar",
@@ -70,10 +81,10 @@
     ]
 },
   "bbox": [
-    -94.116148,
-    36.332848,
-    -94.116148,
-    36.332848
+    -94.09416,
+    36.34207,
+    -94.09416,
+    36.34207
 ],
-  "geometry": {"coordinates":[-94.116148,36.332848],"type":"Point"}
+  "geometry": {"coordinates":[-94.09416,36.34207],"type":"Point"}
 }

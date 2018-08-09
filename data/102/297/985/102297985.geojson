@@ -2,18 +2,24 @@
   "id": "102297985",
   "type": "Feature",
   "properties": {
-    "addr:full":"404 S Main St Monticello AR 71655",
+    "addr:city":"Monticello",
+    "addr:full":"404 S Main St Monticello, Ar 71655-4818",
+    "addr:house_number":"404",
     "addr:housenumber":"404",
-    "addr:postcode":"71655",
+    "addr:phone":"+1 870-367-7446",
+    "addr:postcode":"71655-4818",
+    "addr:road":"S Main St",
+    "addr:state":"AR",
     "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-91.791765,33.623095,-91.791765,33.623095",
-    "geom:latitude":33.623095,
-    "geom:longitude":-91.791765,
+    "geom:bbox":"-91.79169,33.6214,-91.79169,33.6214",
+    "geom:latitude":33.6214,
+    "geom:longitude":-91.79169,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"404 S Main St",
     "sg:city":"Monticello",
     "sg:classifiers":[
@@ -30,7 +36,8 @@
     "sg:tags":[
         "historical"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85920571,
         85633793,
@@ -39,10 +46,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400500158,
         "sg:id":"SG_3Djwnr5j6R9bXS7DgkvbHv_33.623095_-91.791765@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"834fa8804c1488753b245c196508aa3b",
+    "wof:geomhash":"619658e33c24dfeea7da2920939778e4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":"102297985",
-    "wof:lastmodified":1472598357,
+    "wof:lastmodified":1533754265,
     "wof:name":"Drew County Historical Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -63,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -91.791765,
-    33.623095,
-    -91.791765,
-    33.623095
+    -91.79169,
+    33.6214,
+    -91.79169,
+    33.6214
 ],
-  "geometry": {"coordinates":[-91.791765,33.623095],"type":"Point"}
+  "geometry": {"coordinates":[-91.79169,33.6214],"type":"Point"}
 }

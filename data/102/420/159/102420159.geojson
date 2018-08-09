@@ -2,18 +2,24 @@
   "id": 102420159,
   "type": "Feature",
   "properties": {
-    "addr:full":"200 E 3rd St Little Rock AR 72201",
+    "addr:city":"Little Rock",
+    "addr:full":"200 E 3Rd St Little Rock, Ar 72201-1608",
+    "addr:house_number":"200",
     "addr:housenumber":"200",
-    "addr:postcode":"72201",
+    "addr:phone":"+1 501-324-9351",
+    "addr:postcode":"72201-1608",
+    "addr:road":"E 3Rd St",
+    "addr:state":"AR",
     "addr:street":"E 3Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-92.268912,34.745892,-92.268912,34.745892",
-    "geom:latitude":34.745892,
-    "geom:longitude":-92.268912,
+    "geom:bbox":"-92.26945,34.74606,-92.26945,34.74606",
+    "geom:latitude":34.74606,
+    "geom:longitude":-92.26945,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"200 E 3rd St",
     "sg:city":"Little Rock",
     "sg:classifiers":[
@@ -37,19 +43,24 @@
         "gallery"
     ],
     "sg:website":"www.arkansashistory.com",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102529065,
+        102529201
+    ],
     "wof:belongsto":[
-        85688549,
+        102082497,
         85633793,
-        85878757,
-        102082497
+        85688549,
+        85878757
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400500159,
         "sg:id":"SG_6W67aHuyrJ7hbQiaIWcoVM_34.745892_-92.268912@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"db856d9bd44848a062045d26dcb10d4d",
+    "wof:geomhash":"03c5afcbd60faeb75a9ef41e65839737",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -60,8 +71,8 @@
         }
     ],
     "wof:id":102420159,
-    "wof:lastmodified":1472598488,
-    "wof:name":"Arkansas Historic Museum",
+    "wof:lastmodified":1533754271,
+    "wof:name":"Historic Arkansas Museum",
     "wof:parent_id":85878757,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ar",
@@ -70,10 +81,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -92.268912,
-    34.745892,
-    -92.268912,
-    34.745892
+    -92.26945,
+    34.74606,
+    -92.26945,
+    34.74606
 ],
-  "geometry": {"coordinates":[-92.268912,34.745892],"type":"Point"}
+  "geometry": {"coordinates":[-92.26945000000001,34.74606],"type":"Point"}
 }

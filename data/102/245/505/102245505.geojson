@@ -2,18 +2,24 @@
   "id": "102245505",
   "type": "Feature",
   "properties": {
-    "addr:full":"110 E 5th St El Dorado AR 71730",
+    "addr:city":"El Dorado",
+    "addr:full":"110 E 5Th St El Dorado, Ar 71730-3822",
+    "addr:house_number":"110",
     "addr:housenumber":"110",
-    "addr:postcode":"71730",
+    "addr:phone":"+1 8625474",
+    "addr:postcode":"71730-3822",
+    "addr:road":"E 5Th St",
+    "addr:state":"AR",
     "addr:street":"E 5Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-92.663381,33.221921,-92.663381,33.221921",
-    "geom:latitude":33.221921,
-    "geom:longitude":-92.663381,
+    "geom:bbox":"-92.6623,33.22186,-92.6623,33.22186",
+    "geom:latitude":33.22186,
+    "geom:longitude":-92.6623,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"110 E 5th St",
     "sg:city":"El Dorado",
     "sg:classifiers":[
@@ -40,7 +46,10 @@
         "organization",
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102533375
+    ],
     "wof:belongsto":[
         85921503,
         85633793,
@@ -49,10 +58,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400500283,
         "sg:id":"SG_0KJSzg5UOUC3hlUoWEkC4h_33.221921_-92.663381@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"447c42ddd2bab7f2e7bea08333d15c02",
+    "wof:geomhash":"82ddfd5414e624e6a97ecbcef03dc9b7",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -63,7 +73,7 @@
         }
     ],
     "wof:id":"102245505",
-    "wof:lastmodified":1472598192,
+    "wof:lastmodified":1533754264,
     "wof:name":"South Arkansas Arts Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -73,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -92.663381,
-    33.221921,
-    -92.663381,
-    33.221921
+    -92.6623,
+    33.22186,
+    -92.6623,
+    33.22186
 ],
-  "geometry": {"coordinates":[-92.663381,33.221921],"type":"Point"}
+  "geometry": {"coordinates":[-92.6623,33.22186],"type":"Point"}
 }

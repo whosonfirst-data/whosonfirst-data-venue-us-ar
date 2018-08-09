@@ -2,18 +2,24 @@
   "id": 102340757,
   "type": "Feature",
   "properties": {
-    "addr:full":"1613 W Marr St Pocahontas AR 72455",
+    "addr:city":"Pocahontas",
+    "addr:full":"1613 W Marr Pocahontas, Ar 72455-3623",
+    "addr:house_number":"1613",
     "addr:housenumber":"1613",
-    "addr:postcode":"72455",
+    "addr:phone":"+1 870-892-4433",
+    "addr:postcode":"72455-3623",
+    "addr:road":"W Marr",
+    "addr:state":"AR",
     "addr:street":"W Marr St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-90.980602,36.258293,-90.980602,36.258293",
-    "geom:latitude":36.258293,
-    "geom:longitude":-90.980602,
+    "geom:bbox":"-90.97967,36.25823,-90.97967,36.25823",
+    "geom:latitude":36.25823,
+    "geom:longitude":-90.97967,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1613 W Marr St",
     "sg:city":"Pocahontas",
     "sg:classifiers":[
@@ -27,20 +33,24 @@
     "sg:phone":"+1 870 892 4661",
     "sg:postcode":"72455",
     "sg:province":"AR",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102532191
+    ],
     "wof:belongsto":[
-        85688549,
+        85816685,
         85633793,
         85919829,
         102082011,
-        85816685
+        85688549
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400500275,
         "sg:id":"SG_3Z4AV9J9WA5oocO9aSW5UP_36.258293_-90.980602@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"59f4ae7d8ba1ede07afbb37257ccac34",
+    "wof:geomhash":"930d3f4e6326baac75304117d57c49eb",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +62,7 @@
         }
     ],
     "wof:id":102340757,
-    "wof:lastmodified":1472598445,
+    "wof:lastmodified":1533754267,
     "wof:name":"Eddie Mae Herron Center",
     "wof:parent_id":85816685,
     "wof:placetype":"venue",
@@ -62,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -90.980602,
-    36.258293,
-    -90.980602,
-    36.258293
+    -90.97967,
+    36.25823,
+    -90.97967,
+    36.25823
 ],
-  "geometry": {"coordinates":[-90.980602,36.258293],"type":"Point"}
+  "geometry": {"coordinates":[-90.97967,36.25823],"type":"Point"}
 }

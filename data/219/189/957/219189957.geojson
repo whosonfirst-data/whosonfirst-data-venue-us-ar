@@ -2,18 +2,24 @@
   "id": 219189957,
   "type": "Feature",
   "properties": {
-    "addr:full":"926 W Washington St Camden AR 71701",
+    "addr:city":"Camden",
+    "addr:full":"926 W Washington St Camden, Ar 71701",
+    "addr:house_number":"926",
     "addr:housenumber":"926",
+    "addr:phone":"+1 870-836-9243",
     "addr:postcode":"71701",
+    "addr:road":"W Washington St",
+    "addr:state":"AR",
     "addr:street":"W Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-92.847044,33.584716,-92.847044,33.584716",
-    "geom:latitude":33.584716,
-    "geom:longitude":-92.847044,
+    "geom:bbox":"-92.84456,33.5847,-92.84456,33.5847",
+    "geom:latitude":33.5847,
+    "geom:longitude":-92.84456,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"926 W Washington St",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -27,7 +33,10 @@
     "sg:phone":"+1 870 836 9243",
     "sg:postcode":"71701",
     "sg:province":"AR",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102529903
+    ],
     "wof:belongsto":[
         85688549,
         85633793,
@@ -37,10 +46,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400500022,
         "sg:id":"SG_4N2LVJrMCRt4xPIrl2yo98_33.584716_-92.847044@1303262947"
     },
     "wof:country":"US",
-    "wof:geomhash":"a4a61d4a7aeddb10ddc193f8a0007cdd",
+    "wof:geomhash":"da07982a5445cb29b9d97bbead11ddfe",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,8 +63,8 @@
         }
     ],
     "wof:id":219189957,
-    "wof:lastmodified":1472598116,
-    "wof:name":"Mc Collum-Chidester Museum",
+    "wof:lastmodified":1533754263,
+    "wof:name":"Mccollum-Chidester House Museum",
     "wof:parent_id":85813169,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ar",
@@ -63,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -92.847044,
-    33.584716,
-    -92.847044,
-    33.584716
+    -92.84456,
+    33.5847,
+    -92.84456,
+    33.5847
 ],
-  "geometry": {"coordinates":[-92.847044,33.584716],"type":"Point"}
+  "geometry": {"coordinates":[-92.84456,33.5847],"type":"Point"}
 }

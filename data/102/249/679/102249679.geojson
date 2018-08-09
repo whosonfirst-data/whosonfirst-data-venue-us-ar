@@ -2,17 +2,22 @@
   "id": "102249679",
   "type": "Feature",
   "properties": {
-    "addr:full":"320 Rogers Ave Fort Smith AR 72901",
+    "addr:city":"Fort Smith",
+    "addr:full":"320 Rogers Ave Fort Smith, Ar 72901-1937",
+    "addr:house_number":"320",
     "addr:housenumber":"320",
-    "addr:postcode":"72901",
+    "addr:phone":"+1 479-783-7841",
+    "addr:postcode":"72901-1937",
+    "addr:road":"Rogers Ave",
+    "addr:state":"AR",
     "addr:street":"Rogers Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-94.428146,35.38769,-94.428146,35.38769",
-    "geom:latitude":35.38769,
-    "geom:longitude":-94.428146,
+    "geom:bbox":"-94.42872,35.38803,-94.42872,35.38803",
+    "geom:latitude":35.38803,
+    "geom:longitude":-94.42872,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -33,7 +38,10 @@
         "gallery"
     ],
     "sg:website":"www.fortsmithmuseum.com",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102528389
+    ],
     "wof:belongsto":[
         85921431,
         85633793,
@@ -42,11 +50,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400500284,
         "osm:way":262464342,
         "sg:id":"SG_25cKS0xP1STlKnqKgH0O4e_35.387690_-94.428146@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"2b6bd47e12ecb603a3afb401eba172d6",
+    "wof:geomhash":"b532513cc7c6be89579edd5af0d3eef8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":"102249679",
-    "wof:lastmodified":1510943403,
+    "wof:lastmodified":1533754264,
     "wof:name":"Fort Smith Museum Of History",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -67,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -94.428146,
-    35.38769,
-    -94.428146,
-    35.38769
+    -94.42872,
+    35.38803,
+    -94.42872,
+    35.38803
 ],
-  "geometry": {"coordinates":[-94.428146,35.38769],"type":"Point"}
+  "geometry": {"coordinates":[-94.42872,35.38803],"type":"Point"}
 }

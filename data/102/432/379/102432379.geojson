@@ -2,18 +2,24 @@
   "id": 102432379,
   "type": "Feature",
   "properties": {
-    "addr:full":"4290 S School Ave Fayetteville AR 72701",
+    "addr:city":"Fayetteville",
+    "addr:full":"4290 S School Ave Fayetteville, Ar 72701-8008",
+    "addr:house_number":"4290",
     "addr:housenumber":"4290",
-    "addr:postcode":"72701",
+    "addr:phone":"+1 479-521-4947",
+    "addr:postcode":"72701-8008",
+    "addr:road":"S School Ave",
+    "addr:state":"AR",
     "addr:street":"S School Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-94.172628,36.019914,-94.172628,36.019914",
-    "geom:latitude":36.019914,
-    "geom:longitude":-94.172628,
+    "geom:bbox":"-94.17278,36.01731,-94.17278,36.01731",
+    "geom:latitude":36.01731,
+    "geom:longitude":-94.17278,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"4290 S School Ave",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -27,7 +33,10 @@
     "sg:phone":"+1 479 521 4947",
     "sg:postcode":"72701",
     "sg:province":"AR",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102528811
+    ],
     "wof:belongsto":[
         85919609,
         85633793,
@@ -36,10 +45,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400500128,
         "sg:id":"SG_1pa5wZR9nq6jGreOuuz2ST_36.019914_-94.172628@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"f052404b8db5b8d9adb73e228de3017b",
+    "wof:geomhash":"5e026d683a31fc4cf0dc9230bdd8a3b4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +60,7 @@
         }
     ],
     "wof:id":102432379,
-    "wof:lastmodified":1472598547,
+    "wof:lastmodified":1533754272,
     "wof:name":"Arkansas Air Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -60,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -94.172628,
-    36.019914,
-    -94.172628,
-    36.019914
+    -94.17278,
+    36.01731,
+    -94.17278,
+    36.01731
 ],
-  "geometry": {"coordinates":[-94.172628,36.019914],"type":"Point"}
+  "geometry": {"coordinates":[-94.17278,36.01731],"type":"Point"}
 }

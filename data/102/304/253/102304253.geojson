@@ -2,18 +2,24 @@
   "id": "102304253",
   "type": "Feature",
   "properties": {
-    "addr:full":"4360 S School Ave Fayetteville AR 72701",
+    "addr:city":"Fayetteville",
+    "addr:full":"4360 S School Ave Fayetteville, Ar 72701-8033",
+    "addr:house_number":"4360",
     "addr:housenumber":"4360",
-    "addr:postcode":"72701",
+    "addr:phone":"+1 479-587-1941",
+    "addr:postcode":"72701-8033",
+    "addr:road":"S School Ave",
+    "addr:state":"AR",
     "addr:street":"S School Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-94.172604,36.020296,-94.172604,36.020296",
-    "geom:latitude":36.020296,
-    "geom:longitude":-94.172604,
+    "geom:bbox":"-94.17282,36.01667,-94.17282,36.01667",
+    "geom:latitude":36.01667,
+    "geom:longitude":-94.17282,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"4360 S School Ave",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -30,7 +36,10 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102528811
+    ],
     "wof:belongsto":[
         85919609,
         85633793,
@@ -39,10 +48,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400500211,
         "sg:id":"SG_50qXgIJFKtvo7ndLr9cB2V_36.020296_-94.172604@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"6b3c74a39874443955662fe94f9850c0",
+    "wof:geomhash":"4bc13699565c00a122f4db2b9d848dc7",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +63,7 @@
         }
     ],
     "wof:id":"102304253",
-    "wof:lastmodified":1472598353,
+    "wof:lastmodified":1533754265,
     "wof:name":"Ozark Military Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -63,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -94.172604,
-    36.020296,
-    -94.172604,
-    36.020296
+    -94.17282,
+    36.01667,
+    -94.17282,
+    36.01667
 ],
-  "geometry": {"coordinates":[-94.17260400000001,36.020296],"type":"Point"}
+  "geometry": {"coordinates":[-94.17282,36.01667],"type":"Point"}
 }
